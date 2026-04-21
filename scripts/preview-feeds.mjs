@@ -8,23 +8,7 @@
 //   --raw          show all items before filtering, labeled
 //   --all          show kept + filtered, labeled
 
-// ---- config (keep in sync with fetch-feeds.mjs) ----
-const FEEDS = [
-  { id: 'block',         name: 'THE BLOCK',      url: 'https://www.theblock.co/rss.xml' },
-  { id: 'coindesk',      name: 'COINDESK',        url: 'https://www.coindesk.com/arc/outboundfeeds/rss/',
-    // allowPaths: ['https://www.coindesk.com/policy', 'https://www.coindesk.com/markets'],
-  },
-  { id: 'cointelegraph', name: 'COINTELEGRAPH',   url: 'https://cointelegraph.com/rss' },
-  { id: 'bitcoinmag',   name: 'BITCOIN MAGAZINE', url: 'https://bitcoinmagazine.com/.rss/full/' },
-  { id: 'decrypt',       name: 'DECRYPT',          url: 'https://decrypt.co/feed' },
-  { id: 'defiant',       name: 'THE DEFIANT',      url: 'https://thedefiant.io/api/feed' },
-];
-
-const FILTERS = [
-  /\bIPO\b/,
-];
-
-const MAX_PER_FEED = 30;
+import { FEEDS, FILTERS, MAX_PER_FEED } from './config.mjs';
 
 // ---- same compile/test logic as fetch-feeds.mjs ----
 const COMPILED_FILTERS = FILTERS

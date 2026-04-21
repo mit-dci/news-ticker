@@ -8,14 +8,8 @@ Edit `FILTERS` in `scripts/fetch-feeds.mjs`. Each entry is a regex applied
 case-insensitively against title + description. Filtered stories never reach
 `stories.json`.
 
-```js
-const FILTERS = [
-  /eth(ereum|erscan)?|weth/,
-  /price prediction/,
-];
-```
-
-Regex reference: https://regex101.com (select JavaScript flavor).
+Note: The filters written here are not intended as value judgements, but rather as a way to reduce the noise of the feed.
+They are not very good at this task but seem to help.
 
 ### Ticker speed
 

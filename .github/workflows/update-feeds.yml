@@ -1,11 +1,14 @@
 name: Update feeds
 
 on:
-  # Every 30 minutes. GitHub cron is "best effort" — expect some skew,
-  # and scheduled runs can pause on inactive repos (commit anything every
-  # ~60 days to keep them alive).
+  # Daytime (10am–4pm ET): every 5 min. Overnight: every hour.
+  # Times are UTC. Currently EDT (UTC-4): 10am=14:00, 4pm=20:00.
+  # If clocks change to EST (UTC-5) shift both hours by +1.
+  # GitHub cron is best-effort; expect some skew. Scheduled runs pause
+  # on inactive repos (~60 days) — commit anything to keep them alive.
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/15 14-20 * * *'  # every 15 min, 10am–4pm EDT
+    - cron: '0 0-13,21-23 * * *' # every hour overnight
   # Let you trigger a run manually from the Actions tab.
   workflow_dispatch:
 

@@ -304,17 +304,12 @@
   <div id="state" class="state"><span class="blink">▮</span> loading…</div>
 </main>
 
-<footer>
-  Data refreshed by GitHub Actions &middot;
-  See <a href="stories.json" target="_blank">stories.json</a> for the raw payload
-</footer>
-
 <script>
   // ============================================================
   // CONFIG
   // ============================================================
-  // Speed of the ticker. Higher = slower. Hover to pause.
-  const TICKER_DURATION_SEC = 300;
+  // Constant scroll speed in pixels per second. Higher = faster.
+  const TICKER_PX_PER_SEC = 80;
 
   // Where to load the data. Default reads the committed file relative
   // to the page. Add a cache-buster so you see updates after a push.
@@ -409,6 +404,11 @@
         <span class="sep">//</span>
       </a>
     `).join('');
+    requestAnimationFrame(() => {
+      const halfWidth = track.scrollWidth / 2;
+      const duration = halfWidth / TICKER_PX_PER_SEC;
+      document.documentElement.style.setProperty('--ticker-duration', duration + 's');
+    });
   }
 
   function renderGrid(items) {

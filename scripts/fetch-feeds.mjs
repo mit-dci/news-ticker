@@ -11,31 +11,7 @@
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
-
-// ------------------------------------------------------------
-// CONFIG -- mirror this in index.html if you change sources
-// ------------------------------------------------------------
-const FEEDS = [
-  { id: 'block',         name: 'THE BLOCK',      url: 'https://www.theblock.co/rss.xml' },
-  { id: 'coindesk',      name: 'COINDESK',        url: 'https://www.coindesk.com/arc/outboundfeeds/rss/',
-    // allowPaths: ['https://www.coindesk.com/policy', 'https://www.coindesk.com/markets'],
-  },
-  { id: 'cointelegraph', name: 'COINTELEGRAPH',   url: 'https://cointelegraph.com/rss' },
-  { id: 'bitcoinmag',   name: 'BITCOIN MAGAZINE', url: 'https://bitcoinmagazine.com/.rss/full/' },
-  { id: 'decrypt',       name: 'DECRYPT',          url: 'https://decrypt.co/feed' },
-  { id: 'defiant',       name: 'THE DEFIANT',      url: 'https://thedefiant.io/api/feed' },
-];
-
-// Regex filters. Same semantics as the browser config: match hides.
-// Case-insensitive is applied automatically.
-const FILTERS = [
-  // /eth(ereum|erscan)?|weth/,
-  // /price prediction/,
-  // /sponsored|promoted/,
-  /\bIPO\b/,
-];
-
-const MAX_PER_FEED = 30;
+import { FEEDS, FILTERS, MAX_PER_FEED } from './config.mjs';
 const OUTPUT_PATH = path.resolve(process.cwd(), 'stories.json');
 
 // ------------------------------------------------------------
