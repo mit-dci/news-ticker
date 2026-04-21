@@ -199,6 +199,7 @@
     letter-spacing: 1px;
   }
   .ticker-item .sep { color: #7a8175; margin: 0 16px; }
+  .ticker-item .age { color: #7a8175; font-size: 11px; margin-left: 8px; }
 
   main {
     padding: 32px 24px 64px;
@@ -450,6 +451,7 @@
       <a class="ticker-item" href="${escapeAttr(i.link)}" target="_blank" rel="noopener">
         <span class="src">[${escapeHtml(i.sourceName)}]</span>
         <span>${escapeHtml(i.title)}</span>
+        <span class="age">${formatTime(i.date)}</span>
         <span class="sep">//</span>
       </a>
     `).join('');
