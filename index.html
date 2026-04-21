@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CRYPTO WIRE // TERMINAL</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&family=VT323&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0e0a;
+    --bg-2: #0f1410;
+    --fg: #e8e4d4;
+    --dim: #7a8175;
+    --amber: #ffb000;
+    --green: #33ff66;
+    --red: #ff4d4d;
+    --border: #1e2820;
+    --card: #121812;
+    --ticker-duration: 300s;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: 'JetBrains Mono', ui-monospace, monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  body::before {
+    content: "";
+    position: fixed; inset: 0;
+    pointer-events: none;
+    background: repeating-linear-gradient(
+      to bottom,
+      rgba(255,255,255,0.012) 0px,
+      rgba(255,255,255,0.012) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+    z-index: 100;
+  }
+  body::after {
+    content: "";
+    position: fixed; inset: 0;
+    pointer-events: none;
+    background: radial-gradient(ellipse at center, transparent 50%, rgba(0,0,0,0.55) 100%);
+    z-index: 101;
+  }
+
+  header {
+    border-bottom: 1px solid var(--border);
+    background: var(--bg-2);
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+    position: sticky; top: 0; z-index: 10;
+  }
+  .brand { display: flex; align-items: baseline; gap: 14px; }
+  .brand h1 {
+    font-family: 'VT323', monospace;
+    font-size: 38px;
+    color: var(--amber);
+    letter-spacing: 3px;
+    line-height: 1;
+    text-shadow: 0 0 12px rgba(255,176,0,0.35);
+  }
+  .brand .sub {
+    color: var(--dim);
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .status {
+    display: flex; align-items: center; gap: 18px;
+    font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase;
+    color: var(--dim);
+  }
+  .live {
+    display: inline-flex; align-items: center; gap: 8px;
+    color: var(--green);
+  }
+  .live::before {
+    content: ""; width: 8px; height: 8px; border-radius: 50%;
+    background: var(--green); box-shadow: 0 0 8px var(--green);
+    animation: pulse 1.4s ease-in-out infinite;
+  }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; }
+  .btn {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--dim);
+    padding: 7px 14px;
+    font-family: inherit;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .btn:hover { color: var(--fg); border-color: var(--dim); }
+  .btn.active {
+    color: var(--bg);
+    background: var(--amber);
+    border-color: var(--amber);
+  }
+
+  .ticker-bar {
+    background: #000;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    overflow: hidden;
+    position: relative;
+    height: 44px;
+    display: flex;
+    align-items: center;
+  }
+  .ticker-label {
+    flex-shrink: 0;
+    background: var(--amber);
+    color: #000;
+    font-weight: 800;
+    padding: 0 16px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    letter-spacing: 2px;
+    font-size: 12px;
+    z-index: 2;
+    box-shadow: 4px 0 10px rgba(0,0,0,0.6);
+  }
+  .ticker-track {
+    display: flex;
+    white-space: nowrap;
+    animation: scroll var(--ticker-duration) linear infinite;
+    will-change: transform;
+  }
+  .ticker-bar:hover .ticker-track { animation-play-state: paused; }
+  @keyframes scroll {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+  .ticker-item {
+    display: inline-flex;
+    align-items: center;
+    padding: 0 22px;
+    font-size: 14px;
+    color: var(--fg);
+    text-decoration: none;
+  }
+  .ticker-item:hover { color: var(--amber); }
+  .ticker-item .src {
+    color: var(--green);
+    margin-right: 10px;
+    font-weight: 700;
+    font-size: 11px;
+    letter-spacing: 1px;
+  }
+  .ticker-item .sep { color: var(--dim); margin: 0 16px; }
+
+  main {
+    padding: 32px 24px 64px;
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+  .section-head {
+    display: flex; align-items: baseline; justify-content: space-between;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed var(--border);
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .section-head h2 {
+    font-family: 'VT323', monospace;
+    font-size: 26px;
+    color: var(--amber);
+    letter-spacing: 2px;
+  }
+  .section-head .count {
+    color: var(--dim);
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+  }
+  .section-head .count .filtered {
+    color: var(--red);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 14px;
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    padding: 18px;
+    display: flex; flex-direction: column; gap: 10px;
+    text-decoration: none;
+    color: var(--fg);
+    transition: all 0.15s;
+    position: relative;
+  }
+  .card:hover {
+    border-color: var(--amber);
+    transform: translate(-2px, -2px);
+    box-shadow: 4px 4px 0 var(--border);
+  }
+  .card .meta {
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase;
+  }
+  .card .src-tag {
+    color: #000;
+    padding: 3px 8px;
+    font-weight: 800;
+  }
+  .card .src-tag.block         { background: var(--amber); }
+  .card .src-tag.coindesk      { background: var(--green); }
+  .card .src-tag.cointelegraph { background: #00b4d8; }
+  .card .src-tag.bitcoinmag    { background: #f4a522; }
+  .card .src-tag.decrypt       { background: #a855f7; color: #fff; }
+  .card .src-tag.defiant       { background: #ef4444; color: #fff; }
+  .card .time { color: var(--dim); }
+  .card h3 {
+    font-size: 16px;
+    line-height: 1.35;
+    font-weight: 500;
+  }
+  .card p {
+    color: var(--dim);
+    font-size: 12px;
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .state {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--dim);
+    font-size: 13px;
+    letter-spacing: 1px;
+  }
+  .state.err { color: var(--red); }
+  .state .blink { animation: blink 1s step-start infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+
+  footer {
+    padding: 24px;
+    border-top: 1px solid var(--border);
+    color: var(--dim);
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  footer a { color: var(--amber); text-decoration: none; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <h1>THE NEWS</h1>
+  </div>
+  <div class="controls" id="controls">
+    <button class="btn" id="refreshBtn">&#8635; RELOAD</button>
+  </div>
+  <div class="status">
+    <span class="live">LIVE</span>
+    <span id="lastUpdate">—</span>
+  </div>
+</header>
+
+<div class="ticker-bar">
+  <div class="ticker-label">BREAKING</div>
+  <div class="ticker-track" id="tickerTrack">
+    <span class="ticker-item"><span class="src">SYS</span>loading<span class="blink">_</span></span>
+  </div>
+</div>
+
+<main>
+  <div class="section-head">
+    <h2>&gt; LATEST STORIES</h2>
+    <span class="count">
+      <span id="storyCount">—</span>
+      <span id="filteredCount" class="filtered"></span>
+    </span>
+  </div>
+  <div id="grid" class="grid"></div>
+  <div id="state" class="state"><span class="blink">▮</span> loading…</div>
+</main>
+
+<footer>
+  Data refreshed by GitHub Actions &middot;
+  See <a href="stories.json" target="_blank">stories.json</a> for the raw payload
+</footer>
+
+<script>
+  // ============================================================
+  // CONFIG
+  // ============================================================
+  // Speed of the ticker. Higher = slower. Hover to pause.
+  const TICKER_DURATION_SEC = 300;
+
+  // Where to load the data. Default reads the committed file relative
+  // to the page. Add a cache-buster so you see updates after a push.
+  const DATA_URL = 'stories.json';
+
+  // Periodically re-read stories.json so the page stays fresh without
+  // a manual reload. The GitHub Action runs every 30 min, so checking
+  // every 5 min is plenty.
+  const POLL_MS = 5 * 60 * 1000;
+
+  // NOTE: keyword filtering happens in scripts/fetch-feeds.mjs, not here.
+  // That way filtered-out stories never even land in the JSON.
+
+  // ============================================================
+  // STATE
+  // ============================================================
+  let allItems = [];
+  let payloadMeta = {};
+  let currentFilter = 'all';
+
+  // ============================================================
+  // LOAD
+  // ============================================================
+  async function load() {
+    const state = document.getElementById('state');
+    state.innerHTML = '<span class="blink">▮</span> loading…';
+    state.classList.remove('err');
+
+    try {
+      // Cache-bust so GH Pages' CDN doesn't serve stale JSON.
+      const res = await fetch(DATA_URL + '?t=' + Date.now(), { cache: 'no-store' });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+
+      payloadMeta = {
+        generatedAt: data.generatedAt,
+        filteredOut: data.filteredOut || 0,
+        errors: data.errors || []
+      };
+      allItems = (data.items || []).map(i => ({
+        ...i,
+        date: new Date(i.date)
+      }));
+
+      if (!allItems.length) {
+        state.textContent = 'No stories yet. Has the GitHub Action run?';
+        state.style.display = 'block';
+        return;
+      }
+
+      render();
+    } catch (err) {
+      state.innerHTML = 'ERR: could not load stories.json.<br><br>&gt; ' + escapeHtml(err.message) +
+        '<br><br>If this is a fresh repo, the GitHub Action may not have run yet. ' +
+        'Trigger it manually from the Actions tab.';
+      state.classList.add('err');
+      state.style.display = 'block';
+    }
+  }
+
+  // ============================================================
+  // RENDER
+  // ============================================================
+  function render() {
+    const items = currentFilter === 'all'
+      ? allItems
+      : allItems.filter(i => i.source === currentFilter);
+
+    renderTicker(items);
+    renderGrid(items);
+
+    document.getElementById('storyCount').textContent = items.length + ' stories';
+    document.getElementById('filteredCount').textContent =
+      payloadMeta.filteredOut ? ` · ${payloadMeta.filteredOut} filtered out` : '';
+
+    const when = payloadMeta.generatedAt ? new Date(payloadMeta.generatedAt) : new Date();
+    document.getElementById('lastUpdate').textContent =
+      'GENERATED ' + when.toLocaleTimeString('en-US', { hour12: false });
+  }
+
+  function renderTicker(items) {
+    const track = document.getElementById('tickerTrack');
+    if (!items.length) {
+      track.innerHTML = '<span class="ticker-item">no stories available</span>';
+      return;
+    }
+    const doubled = [...items, ...items];
+    track.innerHTML = doubled.map(i => `
+      <a class="ticker-item" href="${escapeAttr(i.link)}" target="_blank" rel="noopener">
+        <span class="src">[${escapeHtml(i.sourceName)}]</span>
+        <span>${escapeHtml(i.title)}</span>
+        <span class="sep">//</span>
+      </a>
+    `).join('');
+  }
+
+  function renderGrid(items) {
+    const grid = document.getElementById('grid');
+    const state = document.getElementById('state');
+
+    if (!items.length) {
+      grid.innerHTML = '';
+      state.textContent = 'No stories in this filter.';
+      state.classList.remove('err');
+      state.style.display = 'block';
+      return;
+    }
+
+    state.style.display = 'none';
+    grid.innerHTML = items.map(i => `
+      <a class="card" href="${escapeAttr(i.link)}" target="_blank" rel="noopener">
+        <div class="meta">
+          <span class="src-tag ${i.source}">${escapeHtml(i.sourceName)}</span>
+          <span class="time">${formatTime(i.date)}</span>
+        </div>
+        <h3>${escapeHtml(i.title)}</h3>
+        ${i.desc ? `<p>${escapeHtml(i.desc)}</p>` : ''}
+      </a>
+    `).join('');
+  }
+
+  function formatTime(d) {
+    if (isNaN(d)) return '';
+    const diff = (Date.now() - d.getTime()) / 1000;
+    if (diff < 60) return 'just now';
+    if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
+    if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+    return Math.floor(diff / 86400) + 'd ago';
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+    }[c]));
+  }
+  function escapeAttr(s) { return escapeHtml(s); }
+
+  // ============================================================
+  // EVENTS
+  // ============================================================
+  document.getElementById('controls').addEventListener('click', (e) => {
+    const btn = e.target.closest('button');
+    if (!btn) return;
+    if (btn.id === 'refreshBtn') { load(); return; }
+    if (btn.dataset.filter) {
+      document.querySelectorAll('button[data-filter]').forEach(b =>
+        b.classList.toggle('active', b === btn));
+      currentFilter = btn.dataset.filter;
+      render();
+    }
+  });
+
+  // apply configured ticker speed
+  document.documentElement.style.setProperty('--ticker-duration', TICKER_DURATION_SEC + 's');
+
+  // initial + poll
+  load();
+  setInterval(load, POLL_MS);
+</script>
+</body>
+</html>
