@@ -18,7 +18,40 @@
     --red: #ff4d4d;
     --border: #1e2820;
     --card: #121812;
+    --ticker-bg: #000;
     --ticker-duration: 300s;
+    --scanline-color: rgba(255,255,255,0.012);
+    --vignette-color: rgba(0,0,0,0.55);
+  }
+  [data-theme="light"] {
+    --bg: #f2ede3;
+    --bg-2: #e8e2d6;
+    --fg: #1a1a14;
+    --dim: #7a7060;
+    --amber: #b87800;
+    --green: #006622;
+    --red: #cc2200;
+    --border: #ccc6b8;
+    --card: #ede8dc;
+    --ticker-bg: #1a1710;
+    --scanline-color: rgba(0,0,0,0.03);
+    --vignette-color: rgba(0,0,0,0.12);
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg: #f2ede3;
+      --bg-2: #e8e2d6;
+      --fg: #1a1a14;
+      --dim: #7a7060;
+      --amber: #b87800;
+      --green: #006622;
+      --red: #cc2200;
+      --border: #ccc6b8;
+      --card: #ede8dc;
+      --ticker-bg: #1a1710;
+      --scanline-color: rgba(0,0,0,0.03);
+      --vignette-color: rgba(0,0,0,0.12);
+    }
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -37,8 +70,8 @@
     pointer-events: none;
     background: repeating-linear-gradient(
       to bottom,
-      rgba(255,255,255,0.012) 0px,
-      rgba(255,255,255,0.012) 1px,
+      var(--scanline-color) 0px,
+      var(--scanline-color) 1px,
       transparent 1px,
       transparent 3px
     );
@@ -48,7 +81,7 @@
     content: "";
     position: fixed; inset: 0;
     pointer-events: none;
-    background: radial-gradient(ellipse at center, transparent 50%, rgba(0,0,0,0.55) 100%);
+    background: radial-gradient(ellipse at center, transparent 50%, var(--vignette-color) 100%);
     z-index: 101;
   }
 
@@ -115,7 +148,7 @@
   }
 
   .ticker-bar {
-    background: #000;
+    background: var(--ticker-bg);
     border-top: 1px solid var(--border);
     border-bottom: 1px solid var(--border);
     overflow: hidden;
@@ -154,18 +187,18 @@
     align-items: center;
     padding: 0 22px;
     font-size: 14px;
-    color: var(--fg);
+    color: #e8e4d4;
     text-decoration: none;
   }
   .ticker-item:hover { color: var(--amber); }
   .ticker-item .src {
-    color: var(--green);
+    color: #33ff66;
     margin-right: 10px;
     font-weight: 700;
     font-size: 11px;
     letter-spacing: 1px;
   }
-  .ticker-item .sep { color: var(--dim); margin: 0 16px; }
+  .ticker-item .sep { color: #7a8175; margin: 0 16px; }
 
   main {
     padding: 32px 24px 64px;
@@ -191,9 +224,6 @@
     font-size: 11px;
     letter-spacing: 1.5px;
     text-transform: uppercase;
-  }
-  .section-head .count .filtered {
-    color: var(--red);
   }
 
   .grid {
@@ -231,6 +261,9 @@
   .card .src-tag.bitcoinmag    { background: #f4a522; }
   .card .src-tag.decrypt       { background: #a855f7; color: #fff; }
   .card .src-tag.defiant       { background: #ef4444; color: #fff; }
+  .card .src-tag.bitcoinops    { background: #f97316; }
+  .card .src-tag.bcannounce    { background: #6366f1; color: #fff; }
+  .card .src-tag.bitcoincore   { background: #3b82f6; color: #fff; }
   .card .time { color: var(--dim); }
   .card h3 {
     font-size: 16px;
@@ -278,6 +311,7 @@
   </div>
   <div class="controls" id="controls">
     <button class="btn" id="refreshBtn">&#8635; RELOAD</button>
+    <button class="btn" id="themeBtn">&#9788; LIGHT</button>
   </div>
   <div class="status">
     <span class="live">LIVE</span>
@@ -295,10 +329,7 @@
 <main>
   <div class="section-head">
     <h2>&gt; LATEST STORIES</h2>
-    <span class="count">
-      <span id="storyCount">—</span>
-      <span id="filteredCount" class="filtered"></span>
-    </span>
+    <span class="count"><span id="storyCount">—</span></span>
   </div>
   <div id="grid" class="grid"></div>
   <div id="state" class="state"><span class="blink">▮</span> loading…</div>
@@ -316,12 +347,34 @@
   const DATA_URL = 'stories.json';
 
   // Periodically re-read stories.json so the page stays fresh without
-  // a manual reload. The GitHub Action runs every 30 min, so checking
-  // every 5 min is plenty.
+  // a manual reload.
   const POLL_MS = 5 * 60 * 1000;
 
   // NOTE: keyword filtering happens in scripts/fetch-feeds.mjs, not here.
   // That way filtered-out stories never even land in the JSON.
+
+  // ============================================================
+  // THEME
+  // ============================================================
+  const themeBtn = document.getElementById('themeBtn');
+
+  function getSystemTheme() {
+    return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+  }
+
+  function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    themeBtn.textContent = theme === 'light' ? '☽ DARK' : '☀ LIGHT';
+    localStorage.setItem('theme', theme);
+  }
+
+  // Init: use saved preference, else follow system
+  applyTheme(localStorage.getItem('theme') || getSystemTheme());
+
+  themeBtn.addEventListener('click', () => {
+    const current = document.documentElement.getAttribute('data-theme');
+    applyTheme(current === 'light' ? 'dark' : 'light');
+  });
 
   // ============================================================
   // STATE
@@ -346,7 +399,6 @@
 
       payloadMeta = {
         generatedAt: data.generatedAt,
-        filteredOut: data.filteredOut || 0,
         errors: data.errors || []
       };
       allItems = (data.items || []).map(i => ({
@@ -382,8 +434,6 @@
     renderGrid(items);
 
     document.getElementById('storyCount').textContent = items.length + ' stories';
-    document.getElementById('filteredCount').textContent =
-      payloadMeta.filteredOut ? ` · ${payloadMeta.filteredOut} filtered out` : '';
 
     const when = payloadMeta.generatedAt ? new Date(payloadMeta.generatedAt) : new Date();
     document.getElementById('lastUpdate').textContent =
@@ -459,6 +509,7 @@
     const btn = e.target.closest('button');
     if (!btn) return;
     if (btn.id === 'refreshBtn') { load(); return; }
+    if (btn.id === 'themeBtn') return; // handled above
     if (btn.dataset.filter) {
       document.querySelectorAll('button[data-filter]').forEach(b =>
         b.classList.toggle('active', b === btn));
@@ -466,9 +517,6 @@
       render();
     }
   });
-
-  // apply configured ticker speed
-  document.documentElement.style.setProperty('--ticker-duration', TICKER_DURATION_SEC + 's');
 
   // initial + poll
   load();

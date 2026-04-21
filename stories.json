@@ -1,17 +1,57 @@
 {
-  "generatedAt": "2026-04-21T18:07:17.416Z",
-  "sourceCount": 6,
-  "successCount": 6,
-  "filteredOut": 2,
+  "generatedAt": "2026-04-21T18:42:08.090Z",
+  "sourceCount": 9,
+  "successCount": 9,
+  "filteredOut": 62,
   "errors": [],
   "items": [
     {
+      "source": "bcannounce",
+      "sourceName": "BTC CORE ANN",
+      "title": "Bitcoin Core 31.0 released",
+      "link": "https://bitcoincore.org/en/2026/04/19/release-31.0/",
+      "desc": "Bitcoin Core version 31.0 is now available for download. See the release notes for more information about the bug fixes in this release. If you have any questions, please stop by the #bitcoin IRC chatroom (IRC, web) and we’ll do our best to help you.",
+      "date": "2026-04-19T04:00:00.000Z"
+    },
+    {
+      "source": "bitcoincore",
+      "sourceName": "BITCOIN CORE",
+      "title": "Bitcoin Core 31.0 released",
+      "link": "https://bitcoincore.org/en/2026/04/19/release-31.0/",
+      "desc": "Bitcoin Core version 31.0 is now available for download. See the release notes for more information about the bug fixes in this release. If you have any questions, please stop by the #bitcoin IRC chatroom (IRC, web) and we’ll do our best to help you.",
+      "date": "2026-04-19T04:00:00.000Z"
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Tether Asserts Stablecoin Dominance Over Circle's USDC Amid Major Crypto Hacks",
+      "link": "https://decrypt.co/365049/tether-stablecoin-dominance-over-circle-usdc-major-crypto-hacks",
+      "desc": "Tether's USDT market cap hit an all-time high, with DeFi users appearing to favor the stablecoin over USDC as a refuge from industry fallout.",
+      "date": "2026-04-21T18:34:42.000Z"
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Bitcoin slides toward $75,000 as Warsh says Trump didn't demand he cut rates",
-      "link": "https://www.coindesk.com/markets/2026/04/21/bitcoin-slides-toward-usd75-000-as-warsh-says-trump-didn-t-demand-he-cut-rates",
-      "desc": "The S&P 500 and Nasdaq gave back their early morning gains alongside BTC as markets digested the Fed Chair nominee's Senate confirmation hearing.",
-      "date": "2026-04-21T17:39:28.000Z"
+      "title": "Crypto's massive exploit may force big banks to rethink their blockchain plans, Jefferies warns",
+      "link": "https://www.coindesk.com/business/2026/04/21/crypto-s-massive-exploit-may-force-big-banks-to-rethink-their-blockchain-plans-jefferies-warns",
+      "desc": "The $293 million Kelp DAO exploit has exposed critical infrastructure risks, leading Jefferies to suggest that traditional financial firms may pause their blockchain initiatives to prioritize security.",
+      "date": "2026-04-21T18:25:41.000Z"
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin inflows to Binance fall to 2023 low as BTC bulls set target on $80K",
+      "link": "https://cointelegraph.com/news/bitcoin-inflows-to-binance-fall-to-2023-low-as-btc-bulls-set-target-on-dollar80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin inflows diverge across exchanges as selling pressure eases on Binance, while Coinbase shows more dominant activity.",
+      "date": "2026-04-21T18:00:00.000Z"
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "New York targets Coinbase, Gemini in fresh crackdown on prediction markets",
+      "link": "https://cointelegraph.com/news/new-york-sues-coinbase-gemini-unlicensed-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Attorney General Letitia James alleged that Coinbase and Gemini ran unlicensed markets, adding pressure on crypto companies as states move to regulate event-based trading platforms.",
+      "date": "2026-04-21T17:50:51.000Z"
     },
     {
       "source": "decrypt",
@@ -32,22 +72,6 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "Kalshi eyes crypto expansion with perpetual futures trading: report",
-      "link": "https://www.theblock.co/post/398325/kalshi-take-on-exchanges-binance-hyperliquid-perpetual-futures-trading-report?utm_source=rss&utm_medium=rss",
-      "desc": "Both Coinbase and Binance are offering users access to prediction markets as interest in wagering on the outcomes of different events swells.",
-      "date": "2026-04-21T17:34:06.000Z"
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Kalshi takes on Coinbase, Robinhood with new plan to offer crypto perpetual futures: The Information",
-      "link": "https://www.coindesk.com/markets/2026/04/21/kalshi-takes-on-coinbase-robinhood-with-new-plan-to-offer-crypto-perpetual-futures-the-information",
-      "desc": "Prediction market platform Kalshi is moving onto Coinbase’s turf by launching crypto perpetual futures, aiming to capture the massive demand for digital asset derivatives within a regulated U.S. framework.",
-      "date": "2026-04-21T17:27:55.000Z"
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
       "title": "New York Attorney General sues Coinbase, Gemini for ‘illegal gambling’ on prediction market platforms",
       "link": "https://www.theblock.co/post/398329/new-york-attorney-general-sues-coinbase-gemini-prediction-markets-licensing?utm_source=rss&utm_medium=rss",
       "desc": "NY AG Letitia James has sued Coinbase and Gemini for allegedly illegally offering people the ability to bet on events.",
@@ -60,6 +84,14 @@
       "link": "https://decrypt.co/365042/dogecoin-foundation-moonpay-donate-1-million-doge-dog-charity",
       "desc": "Crypto payments firm MoonPay enabled contributions to dog welfare programs, marking a practical use case for Dogecoin.",
       "date": "2026-04-21T17:20:03.000Z"
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Nium taps Coinbase to add USDC into global payments network",
+      "link": "https://cointelegraph.com/news/nium-taps-coinbase-to-bring-usdc-into-global-payments-cutting-prefunding-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Nium integrates Coinbase’s infrastructure to enable USDC-based cross-border payments, allowing businesses to settle in fiat or stablecoins without relying on prefunded accounts.",
+      "date": "2026-04-21T17:16:04.000Z"
     },
     {
       "source": "defiant",
@@ -80,10 +112,10 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Core Scientific plans $3.3B debt raise to fund AI data center push",
-      "link": "https://cointelegraph.com/news/core-scientific-3-3b-debt-ai-data-center-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The miner plans to refinance short-term debt and scale its US infrastructure as the broader industry pivots toward AI and high-performance computing.",
-      "date": "2026-04-21T16:50:38.000Z"
+      "title": "Bitcoin price rally 'in progress' but upside could be capped at $84K",
+      "link": "https://cointelegraph.com/news/bitcoin-price-rally-in-progress-but-upside-could-be-capped-at-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Analysts say Bitcoin’s rally has begun, but the upside may be capped at an average spot BTC ETF cost basis near $84,000.",
+      "date": "2026-04-21T16:55:37.000Z"
     },
     {
       "source": "cointelegraph",
@@ -126,14 +158,6 @@
       "date": "2026-04-21T16:26:16.000Z"
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Amazon Will Invest Up to $25 Billion More in Anthropic as AI Demand Surges",
-      "link": "https://decrypt.co/365034/amazon-invest-25-billion-anthropic-ai-demand-surges",
-      "desc": "Amazon secures Anthropic as a major cloud customer through 2036 in one of the largest AI infrastructure alliances to date.",
-      "date": "2026-04-21T16:21:45.000Z"
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "DoorDash Teams Up with Tempo on Stablecoin Payments for Its Global Marktplace",
@@ -158,22 +182,6 @@
       "date": "2026-04-21T15:52:50.000Z"
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Proposed STRC upgrade seen as shared upside lever for Strategy and Strive shareholders: TD Cowen",
-      "link": "https://www.theblock.co/post/398273/strc-upgrade-shared-upside-lever-strategy-strive-shareholders-td-cowen?utm_source=rss&utm_medium=rss",
-      "desc": "Strategy Inc is looking to shift toward semi-monthly dividend payouts that could start as early as mid-July.",
-      "date": "2026-04-21T15:51:26.000Z"
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "AI slop has created a search problem crypto companies can’t ignore",
-      "link": "https://www.coindesk.com/opinion/2026/04/21/ai-slop-has-created-a-search-problem-crypto-companies-can-t-ignore",
-      "desc": "Rechler argues that if these companies don’t adopt better content strategies and overly misuse AI-generated tools, their platforms, exchanges or dapps won’t be discovered via search.",
-      "date": "2026-04-21T15:45:00.000Z"
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Top U.S. Pacific Commander Calls Bitcoin a “Valuable Computer Science Tool” for National Power And Security",
@@ -188,14 +196,6 @@
       "link": "https://www.theblock.co/post/398280/industry-of-clowns-defi-grapples-security-tradeoffs-292m-kelp-dao-fallout?utm_source=rss&utm_medium=rss",
       "desc": "Aftermath conditions from Kelp DAO’s exploit has opened a broader debate over DeFi’s security model, after billions left Aave.",
       "date": "2026-04-21T15:22:49.000Z"
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Pompliano’s ProCap Financial partners with Kalshi to incorporate real-time prediction market data in research",
-      "link": "https://www.theblock.co/post/398292/pomplianos-procap-financial-kalshi-prediction-market-data-research?utm_source=rss&utm_medium=rss",
-      "desc": "ProCap Insights will feature reports on individual prediction markets, follow platform trends, and use Kalshi for investment decisions.",
-      "date": "2026-04-21T15:18:35.000Z"
     },
     {
       "source": "cointelegraph",
@@ -262,14 +262,6 @@
       "date": "2026-04-21T14:31:10.000Z"
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Circle tops crypto stocks with 30% gain as stablecoin growth outpaces Coinbase slump",
-      "link": "https://www.theblock.co/post/398141/circle-tops-crypto-stocks-with-30-gain-as-stablecoin-growth-outpaces-coinbase-slump?utm_source=rss&utm_medium=rss",
-      "desc": "Every crypto-related stock in the market now has its own differentiated business models that respond to different drivers.",
-      "date": "2026-04-21T14:31:02.000Z"
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Cut the red tape: 39 financial giants demand an emergency fast-track for Europe's blockchain pilot",
@@ -316,14 +308,6 @@
       "link": "https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain",
       "desc": "The delivery service is working with the Stripe-led blockchain firm Tempo to bring stablecoin payouts to its global marketplace, replacing fragmented regional rails.",
       "date": "2026-04-21T14:18:51.000Z"
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Scammers Target Stranded Ships in Strait of Hormuz With Fake Bitcoin Transit Fees",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-scammers-target-stranded-ships",
-      "desc": "Bitcoin Magazine Scammers Target Stranded Ships in Strait of Hormuz With Fake Bitcoin Transit Fees Fraudsters are targeting global shipping firms with fake Strait of Hormuz transit fees, demanding payment in Bitcoin and Tether as vessels remain stranded amid Gulf tensions. This post Scammers Target Stranded Ships in Strait of Hormuz With Fake Bitcoin Transit Fees first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-04-21T14:10:12.000Z"
     },
     {
       "source": "bitcoinmag",
@@ -430,14 +414,6 @@
       "date": "2026-04-21T12:50:35.000Z"
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report",
-      "link": "https://decrypt.co/365010/iran-scammers-demand-bitcoin-usdt-for-transit-through-strait-of-hormuz-report",
-      "desc": "Fake crypto clearance demands are targeting ships stranded at Hormuz as the Iran conflict enters its third month.",
-      "date": "2026-04-21T12:37:42.000Z"
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "VIX drops 45% in three weeks: Is Bitcoin price ready to retake $80K?",
@@ -536,14 +512,6 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Crypto scammers offer ‘safe passage’ through Hormuz. At least one ship may have been conned.",
-      "link": "https://www.coindesk.com/business/2026/04/21/crypto-scammers-offer-safe-passage-through-hormuz-at-least-one-ship-may-have-been-conned",
-      "desc": "Marisks, a maritime risk company, alerted ships stranded by the Hormuz blockade to scammers posing as Iranian authorities asking for bitcoin or USDT.",
-      "date": "2026-04-21T10:31:09.000Z"
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
       "title": "Bank of Korea’s new governor signals CBDC and bank token push, skips stablecoins in key address",
       "link": "https://www.coindesk.com/policy/2026/04/21/bank-of-korea-s-new-governor-signals-cbdc-and-bank-token-push-skips-stablecoins-in-key-address",
       "desc": "The BOK will increase scrutiny of crypto markets and non-bank finance, and will also modernize currency markets for 24-hour foreign exchange trading, he said.",
@@ -556,22 +524,6 @@
       "link": "https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit",
       "desc": "Arbitrum's emergency response to the KelpDAO exploit has sparked praise and criticism over the network's ability to freeze stolen assets.",
       "date": "2026-04-21T09:55:42.000Z"
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Scammers demand crypto from stranded ships in Strait of Hormuz: Report",
-      "link": "https://cointelegraph.com/news/fraudsters-pose-iranian-authorities-crypto-stranded-ships-hormuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Shipping companies with vessels stranded near the Strait of Hormuz are being targeted by scammers posing as Iranian authorities, demanding Bitcoin or USDt for safe passage.",
-      "date": "2026-04-21T09:53:55.000Z"
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Strategy overtakes BlackRock IBIT in bitcoin holdings after bear market buying",
-      "link": "https://www.coindesk.com/markets/2026/04/21/strategy-overtakes-blackrock-ibit-in-bitcoin-holdings-after-bear-market-buying",
-      "desc": "Leveraged accumulation and new capital tools push MSTR ahead of the world’s largest spot bitcoin ETF.",
-      "date": "2026-04-21T09:39:06.000Z"
     },
     {
       "source": "coindesk",
@@ -598,28 +550,12 @@
       "date": "2026-04-21T09:12:40.000Z"
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Scammers demand crypto ‘clearance’ fees from ships near Strait of Hormuz: report",
-      "link": "https://www.theblock.co/post/398233/scammers-demand-crypto-clearance-fees-from-ships-near-strait-of-hormuz-report?utm_source=rss&utm_medium=rss",
-      "desc": "Greek maritime risk firm MARISKS warned shippers of fraudulent Hormuz transit demands paid in bitcoin or USDT, according to Reuters.",
-      "date": "2026-04-21T09:11:35.000Z"
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bank of Korea governor backs CBDCs, deposit tokens in first address",
       "link": "https://cointelegraph.com/news/new-bank-of-korea-governor-backs-cbdcs-deposit-tokens-first-address?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "New Bank of Korea Governor Hyun-Song Shin supported CBDCs and deposit tokens in his first address, while stablecoins were notably absent from his remarks.",
       "date": "2026-04-21T08:52:17.000Z"
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin risks losing $70K as Strategy's STRC slips below $100",
-      "link": "https://cointelegraph.com/news/bitcoin-risks-losing-70k-strategy-strc-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "STRC's dropped below its $100 par value, indicating that Strategy will likely pause Bitcoin buying this week, which could help the bears pull price down to $70,000.",
-      "date": "2026-04-21T08:25:10.000Z"
     },
     {
       "source": "cointelegraph",
@@ -710,30 +646,6 @@
       "date": "2026-04-21T05:43:23.000Z"
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Code is ‘functional’ free speech under the First Amendment: Coin Center",
-      "link": "https://cointelegraph.com/news/crypto-code-free-speech-coin-center-first-amendment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto software developers are concerned about whether they may be held criminally liable for publishing their software, following high-profile convictions last year.",
-      "date": "2026-04-21T04:47:58.000Z"
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Coinbase’s AI payments protocol x402 launches app store for AI agents",
-      "link": "https://cointelegraph.com/news/coinbase-ai-payments-protocol-x402-launches-ai-agent-app-store?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Coinbase’s x402 AI payments protocol has launched Agentic.market, a platform where AI agents can discover and use AI-friendly services.",
-      "date": "2026-04-21T04:40:53.000Z"
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "NY lawmaker proposes ‘AI dividend’ to address potential job losses",
-      "link": "https://cointelegraph.com/news/ny-assemblyman-proposes-ai-dividend-address-ai-job-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The proposed AI dividend would be funded by taxes on AI use and equity stakes in AI companies, paying US citizens if automation meaningfully displaces workers.",
-      "date": "2026-04-21T04:38:08.000Z"
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Arbitrum freezes $71 million worth of ETH stolen in Kelp DAO exploit",
@@ -764,38 +676,6 @@
       "link": "https://thedefiant.io/news/defi/defi-protocols-launch-joint-escape-hatch-for-aave-eth-lenders-and-loopers",
       "desc": "Fluid's aWETH Redemption Protocol, launched with Lido, Ether.fi, 1inch, 0x and Kyber, has processed $136M out of Aave's frozen WETH pool in 48 hours.",
       "date": "2026-04-20T21:53:12.000Z"
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Playdate Gaming Handheld Maker Bans Generative AI Tools for Development",
-      "link": "https://decrypt.co/364960/playdate-gaming-handheld-maker-bans-generative-ai-tools",
-      "desc": "Panic, the firm behind the Playdate handheld, now prohibits creative AI applications while preserving developer productivity aids.",
-      "date": "2026-04-20T21:41:59.000Z"
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Lose Your Job to AI? New York Lawmaker Proposes 'AI Dividend' Stimmy",
-      "link": "https://decrypt.co/364947/lose-job-ai-new-york-lawmaker-proposes-ai-dividend-stimmy",
-      "desc": "Congressional candidate Alex Bores outlined a policy that would trigger payments to Americans if surging AI use reduces employment.",
-      "date": "2026-04-20T21:30:31.000Z"
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Alibaba Drops Qwen 3.6 Max Preview—Its Most Powerful Model Yet",
-      "link": "https://decrypt.co/364948/alibaba-qwen-3-6-max-preview-most-powerful-model",
-      "desc": "Alibaba released Qwen3.6-Max-Preview, its most powerful AI model yet, topping six major coding benchmarks and posting gains in world knowledge and instruction following over its predecessor.",
-      "date": "2026-04-20T21:24:53.000Z"
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit",
-      "link": "https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit",
-      "desc": "More than $500 million was siphoned across the Drift and Kelp exploits in just over two weeks. What once looked like isolated breaches now resembles a sustained campaign, likely driven by the financial needs of a sanctioned state.",
-      "date": "2026-04-20T21:17:17.000Z"
     },
     {
       "source": "block",
@@ -840,26 +720,10 @@
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
-      "title": "Palantir Faces Backlash Over AI-Driven Military Doctrine",
-      "link": "https://decrypt.co/364935/palantir-backlash-ai-driven-military-doctrine",
-      "desc": "A weekend post summarizing ideas from CEO Alex Karp’s 2025 book reignites debate over Silicon Valley’s role in warfare and national defense.",
-      "date": "2026-04-20T18:43:10.000Z"
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
       "title": "Prediction Markets Expect Prolonged Strait of Hormuz Disruption—And Oil Traders Are Betting Big",
       "link": "https://decrypt.co/364914/prediction-markets-strait-of-hormuz-oil-traders",
       "desc": "Prediction markets suggest Strait of Hormuz traffic will not return to normal any time soon, and oil traders expect higher prices.",
       "date": "2026-04-20T18:30:41.000Z"
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Nearly Half of New Streaming Music Is AI-Generated, Says Deezer—But Nobody’s Listening",
-      "link": "https://decrypt.co/364937/nearly-half-streaming-music-ai-generated-deezer-nobodys-listening",
-      "desc": "French streaming service Deezer says AI-generated music now accounts for nearly half of new uploads—but actual listening remains minimal.",
-      "date": "2026-04-20T18:23:33.000Z"
     },
     {
       "source": "decrypt",
@@ -876,14 +740,6 @@
       "link": "https://bitcoinmagazine.com/politics/jason-lowery-appointed-special-assistant-to-u-s-indo-pacific-command-commander-bringing-bitcoin-strategic-expertise",
       "desc": "Bitcoin Magazine Jason Lowery Appointed Special Assistant to U.S. Indo-Pacific Command Commander, Bringing Bitcoin Strategic Expertise Jason Lowery, former Deputy Director of Technology & Innovation at the United States Space Force and author of \"Softwar,\" has been named Special Assistant to the Commander of U.S. Indo-Pacific Command, where he will advise on strategic priorities with his unique perspective on Bitcoin as a power-projection technology. This post Jason Lowery Appointed Special Assistant to U.S. Indo-Pacific Command Commander, Bringing Bitcoin Strategic Expertise first appeared on Bitcoin Magazine and is written by Juan Galt.",
       "date": "2026-04-20T17:41:48.000Z"
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "NSA Is Using Anthropic's Powerful Claude Mythos AI as CEO Meets With White House: Report",
-      "link": "https://decrypt.co/364894/nsa-anthropic-mythos-ai-white-house-pentagon-supply-chain-risk",
-      "desc": "The NSA is reportedly running Anthropic's Claude Mythos Preview on classified networks, even as the Pentagon fights the AI giant in court.",
-      "date": "2026-04-20T16:57:47.000Z"
     },
     {
       "source": "defiant",
@@ -942,22 +798,6 @@
       "date": "2026-04-20T15:29:41.000Z"
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Tom Lee's BitMine Nears Major Milestone With Largest Ethereum Buy This Year",
-      "link": "https://decrypt.co/364887/tom-lee-bitmine-nears-milestone-largest-ethereum-buy-this-year",
-      "desc": "BitMine Immersion Technologies bought $235 million worth of Ethereum last week, bring its total holdings to nearly 5 million ETH.",
-      "date": "2026-04-20T14:45:33.000Z"
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Strategy Adds $2.5 Billion in Bitcoin as STRC Dividend Traders Drive Largest Buy Since 2024",
-      "link": "https://decrypt.co/364883/strategy-2-5-billion-bitcoin-strc-dividend-traders-drive-largest-buy-2024",
-      "desc": "Strategy reported its largest purchase in over 16 months, scooping up $2.54 billion in Bitcoin last week alongside STRC’s ex-dividend date.",
-      "date": "2026-04-20T13:28:38.000Z"
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Hardware Wallet Tangem Announces Global Rollout of Its Retail Payments Service",
@@ -988,142 +828,6 @@
       "link": "https://thedefiant.io/news/tradfi-and-fintech/japanese-tradfi-firms-tap-canton-to-tokenize-government-bonds",
       "desc": "Mizuho, Nomura, and Japan's central clearing house are launching a blockchain-based proof-of-concept for collateral management of Japanese government bonds.",
       "date": "2026-04-20T06:30:00.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Kelp DAO Loses $293M in Bridge Exploit, Leaving Aave With Over $200M in Bad Debt",
-      "link": "https://thedefiant.io/news/defi/aave-price-crash-kelpdao-exploit-whale-dump-rxi8o9",
-      "desc": "Attacker minted unbacked rsETH through Kelp's LayerZero bridge, then borrowed WETH on Aave V3 and V4 before markets could freeze.",
-      "date": "2026-04-19T14:47:06.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Wrapped XRP Now Available Across Major Solana Apps: Solana",
-      "link": "https://thedefiant.io/news/defi/wrapped-xrp-solana-apps-launch-gr225i",
-      "desc": "Solana announced wXRP is live on Titan Exchange, Real, Phantom, Jupiter, and Meteora, expanding cross-chain asset availability on the blockchain.",
-      "date": "2026-04-17T21:46:30.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "X Generates $1 Billion in Trading Volume Days After Launching Cashtags Feature: X",
-      "link": "https://thedefiant.io/news/markets/x-cashtags-billion-dollar-volume-11wls0",
-      "desc": "X's new cashtags trading pilot for stocks and crypto reached an estimated $1 billion in volume within days of its Tuesday launch.",
-      "date": "2026-04-17T20:47:11.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitcoin Touches $78,000 As Iran Declares Strait of Hormuz 'Completely Open'",
-      "link": "https://thedefiant.io/news/markets/bitcoin-touches-usd78-000-as-iran-declares-strait-of-hormuz-completely-open",
-      "desc": "A geopolitical breakthrough and strong ETF inflows converged to lift crypto markets on Friday.",
-      "date": "2026-04-17T18:58:31.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Memecoin Sector Shows Signs of Life as ASTEROID Rockets Past $25M",
-      "link": "https://thedefiant.io/news/markets/memecoin-sector-shows-signs-of-life-as-asteroid-rockets-past-usd25m",
-      "desc": "Narrative-driven tokens are catching bids again as the broader memecoin sector attempts to recover from a bruising 2025.",
-      "date": "2026-04-17T18:24:31.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Figure Clashes With Short Seller Over Blockchain Lending Claims",
-      "link": "https://thedefiant.io/news/defi/figure-clashes-with-short-seller-over-blockchain-lending-claims",
-      "desc": "Morpheus Research's report alleges that the $7.7B fintech is exaggerating its use of blockchain technology, while Figure and asset manager Van Eck dispute the findings.",
-      "date": "2026-04-17T16:54:28.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Singapore Gulf Bank Launches In-Bank Settlement for USDC on Solana",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/singapore-gulf-bank-launches-solana-usdc-mint-redeem-service-hnw",
-      "desc": "The bank says it plans to add other stablecoins across multiple blockchains to the service.",
-      "date": "2026-04-17T16:44:46.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Kraken's Parent Firm to Acquire US Derivatives Exchange Bitnomial",
-      "link": "https://thedefiant.io/news/cefi/kraken-payward-to-acquire-bitnomial",
-      "desc": "Payward has entered into a definitive agreement to acquire Bitnomial for up to $550 million.",
-      "date": "2026-04-17T13:58:56.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Mitsui & Co.'s Crypto Arm Brings Tokenized Metals Asset Zipangcoin to OP Mainnet",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/mitsui-and-co-s-crypto-arm-brings-tokenized-metals-asset-zipangcoin-to-op-mainnet",
-      "desc": "The shift to Optimism is ZPG's first deployment on a public blockchain since launching in 2022, and the start of its global rollout.",
-      "date": "2026-04-17T08:00:00.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Altcoins Surge as Bitcoin Drifts Near $75,000",
-      "link": "https://thedefiant.io/news/markets/altcoins-surge-as-bitcoin-drifts-near-usd75-000",
-      "desc": "ETH held above $2,300, while SOL reclaimed $90 and XRP jumped to $1.46.",
-      "date": "2026-04-16T20:45:22.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Foundation NFT Marketplace Shuts Down Permanently After Failed Sale",
-      "link": "https://thedefiant.io/news/nfts-and-web3/foundation-nft-marketplace-shuts-down-permanently-after-failed-sale",
-      "desc": "The curated art platform says its infrastructure has already been spun down with no plans to come back online.",
-      "date": "2026-04-16T20:03:36.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "LDO Bucks DeFi Downturn With 30% Monthly Rally After DAO Passes Buyback Scheme",
-      "link": "https://thedefiant.io/news/defi/ldo-bucks-defi-downturn-with-30-monthly-rally-after-dao-passes-buyback-scheme",
-      "desc": "Lido's token is the only top DeFi token in the green over the past 30 days, fueled by a $20 million treasury repurchase program.",
-      "date": "2026-04-16T18:48:19.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Class Action Lawsuit Filed Against Circle Over Drift Protocol $280 Million Hack: Gibbs Mura Law Group",
-      "link": "https://thedefiant.io/news/hacks/class-action-drift-protocol-circle-usdc-bridge-2o1poy",
-      "desc": "Law firm charges Circle Internet Financial with failing to freeze $230 million in stolen USDC after the April 1 Drift Protocol exploit, allegedly linked to North Korean attackers.",
-      "date": "2026-04-16T18:25:53.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Sky Announces First Native Deployment of USDS, sUSDS on Avalanche",
-      "link": "https://thedefiant.io/news/defi/sky-announces-first-native-deployment-of-usds-susds-on-avalanche",
-      "desc": "Sky's native stablcoins are being deployed on Avalanche via Skylink, Sky's crosschain bridge protocol built on LayerZero infra.",
-      "date": "2026-04-16T18:22:15.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Charles Schwab Announces Rollout of Spot BTC and ETH Trading for Retail Clients",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/charles-schwab-spot-bitcoin-ethereum-trading-launch",
-      "desc": "The $12 trillion brokerage will begin a phased rollout of Schwab Crypto, offering direct spot BTC and ETH trading to retail investors in the coming weeks.",
-      "date": "2026-04-16T17:43:31.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "South Korea to Test Deposit Tokens for Government Spending",
-      "link": "https://thedefiant.io/news/regulation/south-korea-to-test-deposit-tokens-for-government-spending",
-      "desc": "Nine major banks will participate in the pilot, which replaces government purchase cards with programmable blockchain-based payments starting in Q4.",
-      "date": "2026-04-16T17:29:27.000Z"
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tempo Unveils 'Zones' for Private Enterprise Stablecoin Transactions",
-      "link": "https://thedefiant.io/news/blockchains/tempo-unveils-zones-for-private-enterprise-stablecoin-transactions",
-      "desc": "The Stripe-incubated blockchain is pitching privacy as the missing piece for institutional stablecoin adoption.",
-      "date": "2026-04-16T16:34:15.000Z"
     }
   ]
 }

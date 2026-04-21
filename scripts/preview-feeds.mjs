@@ -8,7 +8,7 @@
 //   --raw          show all items before filtering, labeled
 //   --all          show kept + filtered, labeled
 
-import { FEEDS, FILTERS, MAX_PER_FEED } from './config.mjs';
+import { FEEDS, FILTERS, MAX_PER_FEED, MAX_AGE_DAYS, PRIORITY_BOOST_HOURS } from './config.mjs';
 
 // ---- same compile/test logic as fetch-feeds.mjs ----
 const COMPILED_FILTERS = FILTERS
@@ -24,6 +24,11 @@ const COMPILED_FILTERS = FILTERS
   .filter(Boolean);
 
 function isFilteredOut(item, feed) {
+  const ageCap = feed?.maxAgeDays ?? MAX_AGE_DAYS;
+  if (ageCap) {
+    const ageDays = (Date.now() - new Date(item.date).getTime()) / 86400000;
+    if (ageDays > ageCap) return true;
+  }
   if (feed?.allowPaths?.length && !feed.allowPaths.some(p => item.link.startsWith(p))) return true;
   if (!COMPILED_FILTERS.length) return false;
   const hay = (item.title || '') + ' ' + (item.desc || '');
@@ -58,20 +63,32 @@ function extractTag(block, tag) {
 
 function stripHtml(s) { return s.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim(); }
 
-function parseRSS(xml, feed) {
-  const items = [];
-  const itemRe = /<item\b[^>]*>([\s\S]*?)<\/item>/gi;
-  let match;
+function parseFeed(xml, feed) {
   const limit = feed.max ?? MAX_PER_FEED;
+  const items = [];
+  const isAtom = /<entry[\s>]/i.test(xml);
+  const tag = isAtom ? 'entry' : 'item';
+  const itemRe = new RegExp(`<${tag}\\b[^>]*>([\\s\\S]*?)</${tag}>`, 'gi');
+  let match;
   while ((match = itemRe.exec(xml)) && items.length < limit) {
     const block = match[1];
     const title = stripHtml(extractTag(block, 'title'));
-    const link  = extractTag(block, 'link');
-    const date  = extractTag(block, 'pubDate');
-    const desc  = stripHtml(extractTag(block, 'description'));
+    let link = '';
+    if (isAtom) {
+      const lm = block.match(/<link[^>]+href=["']([^"']+)["']/i);
+      link = lm ? lm[1] : '';
+    } else {
+      link = extractTag(block, 'link');
+    }
+    const dateStr = isAtom
+      ? (extractTag(block, 'published') || extractTag(block, 'updated'))
+      : extractTag(block, 'pubDate');
+    const desc = stripHtml(isAtom
+      ? (extractTag(block, 'summary') || extractTag(block, 'content'))
+      : extractTag(block, 'description'));
     if (!title || !link) continue;
     items.push({ source: feed.id, sourceName: feed.name, title, link, desc,
-      date: date ? new Date(date).toISOString() : new Date().toISOString() });
+      date: dateStr ? new Date(dateStr).toISOString() : new Date().toISOString() });
   }
   return items;
 }
@@ -84,7 +101,7 @@ async function fetchFeed(feed) {
     }
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return parseRSS(await res.text(), feed);
+  return parseFeed(await res.text(), feed);
 }
 
 // ---- display ----
@@ -128,7 +145,13 @@ async function main() {
     }
   });
 
-  all.sort((a, b) => new Date(b.date) - new Date(a.date));
+  const boostMs = PRIORITY_BOOST_HOURS * 3600000;
+  const feedPriority = Object.fromEntries(FEEDS.map(f => [f.id, f.priority ?? 0]));
+  all.sort((a, b) => {
+    const effA = new Date(a.date).getTime() + feedPriority[a.source] * boostMs;
+    const effB = new Date(b.date).getTime() + feedPriority[b.source] * boostMs;
+    return effB - effA;
+  });
 
   const kept     = all.filter(i => !isFilteredOut(i, FEEDS.find(f => f.id === i.source)));
   const filtered = all.filter(i =>  isFilteredOut(i, FEEDS.find(f => f.id === i.source)));
