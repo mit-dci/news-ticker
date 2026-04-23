@@ -46,7 +46,17 @@ export const FILTERS = [
   /\bscammer/,
   /\bSTRC\b/,
   /\bMSTR\b/,
-  /GPT/
+  /GPT/,
+  /\bPAC\b/
+];
+
+// Term-based priority boost — stories matching these patterns get a boost
+// just like feed-level priority. Each point adds PRIORITY_BOOST_HOURS to
+// the story's effective age. Matched stories are also visually highlighted.
+//   pattern — RegExp or string (case-insensitive)
+//   boost   — integer priority points (same scale as feed priority)
+export const PRIORITY_TERMS = [
+  { pattern: /quantum/i, boost: 3 },
 ];
 
 // Default max stories per feed (overridden per-feed with `max`)

@@ -11,7 +11,7 @@
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { FEEDS, FILTERS, MAX_PER_FEED, MAX_AGE_DAYS, PRIORITY_BOOST_HOURS } from './config.mjs';
+import { FEEDS, FILTERS, PRIORITY_TERMS, MAX_PER_FEED, MAX_AGE_DAYS, PRIORITY_BOOST_HOURS } from './config.mjs';
 const OUTPUT_PATH = path.resolve(process.cwd(), 'stories.json');
 
 // ------------------------------------------------------------
@@ -175,11 +175,29 @@ async function main() {
   const kept = collected.filter(i => !isFilteredOut(i, FEEDS.find(f => f.id === i.source)));
   const filteredOut = before - kept.length;
 
+  // Compile term-based priority patterns
+  const compiledTerms = (PRIORITY_TERMS || []).map(t => {
+    const re = t.pattern instanceof RegExp
+      ? new RegExp(t.pattern.source, t.pattern.flags.includes('i') ? t.pattern.flags : t.pattern.flags + 'i')
+      : new RegExp(t.pattern, 'i');
+    return { re, boost: t.boost ?? 0 };
+  });
+
+  // Tag items that match priority terms and compute per-item term boost
+  for (const item of kept) {
+    const hay = (item.title || '') + ' ' + (item.desc || '');
+    let termBoost = 0;
+    for (const t of compiledTerms) {
+      if (t.re.test(hay)) { termBoost = Math.max(termBoost, t.boost); item.priorityTerm = true; }
+    }
+    item.termBoost = termBoost;
+  }
+
   const boostMs = PRIORITY_BOOST_HOURS * 3600000;
   const feedPriority = Object.fromEntries(FEEDS.map(f => [f.id, f.priority ?? 0]));
   kept.sort((a, b) => {
-    const effA = new Date(a.date).getTime() + feedPriority[a.source] * boostMs;
-    const effB = new Date(b.date).getTime() + feedPriority[b.source] * boostMs;
+    const effA = new Date(a.date).getTime() + (feedPriority[a.source] + (a.termBoost || 0)) * boostMs;
+    const effB = new Date(b.date).getTime() + (feedPriority[b.source] + (b.termBoost || 0)) * boostMs;
     return effB - effA;
   });
 
