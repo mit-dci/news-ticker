@@ -45,7 +45,8 @@ export const FILTERS = [
   /\bstock price\b/,
   /\bscammer/,
   /\bSTRC\b/,
-  /\bMSTR\b/
+  /\bMSTR\b/,
+  /GPT/
 ];
 
 // Default max stories per feed (overridden per-feed with `max`)
