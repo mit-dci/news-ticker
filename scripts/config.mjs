@@ -40,7 +40,7 @@ export const FILTERS = [
   /\bIPO\b/,
   /\bKalshi\b/,
   /\bTrump\b/,
-  /\bAI\b/,
+  /AI\b/,
   /\bstocks\b/,
   /\bstock price\b/,
   /\bscammer/,
