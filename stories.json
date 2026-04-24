@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-04-24T19:35:39.640Z",
+  "generatedAt": "2026-04-24T20:01:43.752Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 74,
+  "filteredOut": 75,
   "errors": [],
   "items": [
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Quantum computer breaks 15-bit elliptic curve cryptographic key",
+      "link": "https://cointelegraph.com/news/quantum-computer-bit-elliptic-curve-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Bitcoin community continues to debate whether cryptographically relevant quantum computers are imminent or decades away.",
+      "date": "2026-04-24T18:53:58.000Z",
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -62,6 +72,15 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/04/24/",
       "desc": "This week’s newsletter describes Hornet Node’s work on a declarative executable specification of consensus rules and summarizes a discussion about onion message jamming in the Lightning Network. Also included are our regular sections with selected questions and answers from the Bitcoin Stack Exchange, announcements of new releases and release candidates, and descriptions of notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-04-24T00:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
+      "link": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+      "desc": "Treasury Secretary Scott Bessent said the U.S. is seeking to choke off \"all financial lifelines\" for the regime.",
+      "date": "2026-04-24T19:50:07.000Z",
       "termBoost": 0
     },
     {
@@ -623,15 +642,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Tether freezes $344M USDt stablecoins at US law enforcement request",
-      "link": "https://cointelegraph.com/news/tether-freezes-344m-usdt-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The stablecoin issuer cited \"activity tied to unlawful conduct” but no further explanation for the freezing of the dollar-pegged tokens held in two wallet addresses.",
-      "date": "2026-04-23T19:26:55.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "US Treasury Sanctions Powerful Cambodian Politician Allegedly Tied to Crypto Scam Network",
@@ -782,24 +792,6 @@
       "link": "https://thedefiant.io/news/defi/circle-proposes-emergency-rate-changes-to-unstick-aave-s-frozen-usdc-pool",
       "desc": "Stablecoin issuer argues Aave's interest rate curve is failing to clear the $1.89B pool after four days at full utilization.",
       "date": "2026-04-22T20:37:35.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "FBI Director Kash Patel To Speak at Bitcoin 2026 Conference About “Ending the War on Bitcoin”",
-      "link": "https://bitcoinmagazine.com/conference/fbi-director-kash-patel-to-speak-at-bitcoin-2026-conference-about-ending-the-war-on-bitcoin",
-      "desc": "Bitcoin Magazine FBI Director Kash Patel To Speak at Bitcoin 2026 Conference About “Ending the War on Bitcoin” A panel titled “Code Is Free Speech: Ending The War On Bitcoin” has been announced for Bitcoin 2026, bringing together three figures from law, government, and the Bitcoin industry. The panel features FBI Director Kash Patel, Deputy Attorney General Todd Blanche, and Coinbase Chief Legal Officer Paul Grewal. Kash Patel was confirmed as FBI Director […] This post FBI Director Kash Patel To Speak at Bitcoin 2026 Conference About “Ending the War on Bitcoin” first appeared on Bitcoin Magazine and is written by Jenna Montgomery.",
-      "date": "2026-04-22T19:55:45.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "The U.S. Military Is Running a Bitcoin Node, Admiral Paparo Reveals",
-      "link": "https://bitcoinmagazine.com/news/the-us-military-is-running-a-bitcoin-node",
-      "desc": "Bitcoin Magazine The U.S. Military Is Running a Bitcoin Node, Admiral Paparo Reveals The U.S. military is actively running a Bitcoin node and testing the protocol’s cryptographic architecture as a tool for securing and protecting networks, according to INDOPACOM commander Admiral Samuel Paparo. This post The U.S. Military Is Running a Bitcoin Node, Admiral Paparo Reveals first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-04-22T19:52:18.000Z",
       "termBoost": 0
     },
     {
