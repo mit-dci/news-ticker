@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-04-24T12:28:43.520Z",
+  "generatedAt": "2026-04-24T13:36:48.481Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 68,
+  "filteredOut": 70,
   "errors": [],
   "items": [
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Researcher breaks 15-bit elliptic curve key in ‘largest quantum attack,’ wins 1 bitcoin bounty from Project Eleven",
+      "link": "https://www.theblock.co/post/398792/researcher-breaks-15-bit-elliptic-curve-key-wins-1-bitcoin-bounty-project-eleven?utm_source=rss&utm_medium=rss",
+      "desc": "Independent researcher Giancarlo Lelli derived a 15-bit elliptic curve key on a publicly accessible quantum computer, Project Eleven said.",
+      "date": "2026-04-24T13:00:00.000Z",
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
@@ -26,12 +36,48 @@
       "termBoost": 3
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "CoinDesk 20 performance update: Aptos (APT) gains 3.5%, leading index higher",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/04/24/coindesk-20-performance-update-aptos-apt-gains-3-5-leading-index-higher",
+      "desc": "Aave (AAVE), up 3.2% from Thursday, was also a top performer.",
+      "date": "2026-04-24T13:19:20.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Fluent launches Ethereum Layer 2 mainnet and BLEND token with $50 million day-one liquidity",
+      "link": "https://www.theblock.co/post/398756/fluent-launches-ethereum-layer-2-mainnet-and-blend-token-with-50-million-day-one-liquidity?utm_source=rss&utm_medium=rss",
+      "desc": "Fluent launched its Ethereum Layer 2 mainnet alongside its BLEND token and a native stablecoin with $50 million in day-one liquidity.",
+      "date": "2026-04-24T13:00:02.000Z",
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Morgan Stanley launches stablecoin reserves fund aligned with GENIUS Act requirements",
       "link": "https://www.theblock.co/post/398784/morgan-stanley-launches-stablecoin-reserves-fund-aligned-with-genius-act-requirements?utm_source=rss&utm_medium=rss",
       "desc": "Morgan Stanley launched a government money market fund for stablecoin issuers to hold reserves in line with GENIUS Act requirements.",
       "date": "2026-04-24T12:24:54.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "XRP price risks 40% decline versus Bitcoin despite 9-day ETF inflow streak",
+      "link": "https://cointelegraph.com/markets/xrp-price-risks-40-decline-versus-bitcoin-despite-9-day-etf-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Spot XRP ETFs record net inflows for nine consecutive days, absorbing sell pressure and potentially supporting XRP price recovery over time.",
+      "date": "2026-04-24T11:55:11.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin price set for best gains since Q4 2024 with $77.5K monthly close",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-set-for-best-gains-since-q4-2024-with-77-5k-monthly-close?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin price action has one more week to go until it potentially achieves its biggest month's gains since late 2024.",
+      "date": "2026-04-24T11:51:45.000Z",
       "termBoost": 0
     },
     {
@@ -647,24 +693,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Tether freezes $344 million in USDT on Tron after wallets flagged by US authorities",
-      "link": "https://www.theblock.co/post/398599/tether-freezes-344-million-in-usdt-on-tron-after-wallets-flagged-by-u-s-authorities?utm_source=rss&utm_medium=rss",
-      "desc": "Tether says it froze $344 million in USDT on Tron in coordination with OFAC and U.S. law enforcement, one of the largest freezes on record.",
-      "date": "2026-04-23T13:25:42.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Kelp DAO exploiter launders nearly all 75,700 in stolen ETH through THORchain",
-      "link": "https://cointelegraph.com/news/kelp-dao-hacker-launders-75-700-eth-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The wallet linked to the Kelp DAO exploit appears to have laundered most of the $175 million worth of stolen Ether, while another $71 million remains frozen by Arbitrum’s security council.",
-      "date": "2026-04-23T13:17:53.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "CoinDesk 20 performance update: Uniswap (UNI) drops 3.9%, leading index lower",
@@ -683,30 +711,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Andre Cronje’s Flying Tulip adds withdrawal circuit breaker as DeFi exploits mount",
-      "link": "https://cointelegraph.com/news/flying-tulip-withdrawal-circuit-breaker-defi-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Flying Tulip said its withdrawal safeguard is designed to fail open, while a status page lets users monitor the system in real time.",
-      "date": "2026-04-23T12:34:58.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Lotus Taps WisdomTree Money Market Fund to Build Yield Floor into DeFi Lending",
       "link": "https://thedefiant.io/news/defi/lotus-taps-wisdomtree-money-market-fund-for-lotususd-reserves",
       "desc": "WisdomTree's WTGXX holds nearly $860M in distributed asset value, mostly on Ethereum.",
       "date": "2026-04-23T12:00:00.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BlackRock drives 7-day Bitcoin ETF inflow streak as BTC nears $80,000",
-      "link": "https://cointelegraph.com/news/bitcoin-etf-1-9-billiow-7-day-inflow-streak-btc-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US-listed spot Bitcoin ETFs recorded a seven-day inflow streak totaling $1.9 billion, surpassing their March run over a similar period.",
-      "date": "2026-04-23T11:55:43.000Z",
       "termBoost": 0
     },
     {
@@ -719,30 +729,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "MetaMask co-founder Dan Finlay leaves Consensys after 10 years",
-      "link": "https://cointelegraph.com/news/metamask-dan-finlay-steps-down-after-decade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "MetaMask co-founder Dan Finlay is stepping down from ConsenSys citing burnout, as long-time crypto figures such as Bitcoin advocate Preston Pysh also pull back from public roles.",
-      "date": "2026-04-23T11:46:06.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Sam Bankman-Fried withdraws retrial motion. He believes he would not get a fair trial.",
       "link": "https://www.coindesk.com/policy/2026/04/23/sam-bankman-fried-withdraws-retrial-motion-he-believes-he-would-not-get-a-fair-trial",
       "desc": "The founder of the collapsed crypto exchange FTX said he might file for a retrial after a decision on his appeal is ruled upon.",
       "date": "2026-04-23T11:26:59.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin's bullish momentum runs into Pentagon-backed inflation warning",
-      "link": "https://www.coindesk.com/daybook-us/2026/04/23/bitcoin-s-bullish-momentum-runs-into-pentagon-backed-inflation-warning",
-      "desc": "What you need to know for April 23, 2026",
-      "date": "2026-04-23T11:14:28.000Z",
       "termBoost": 0
     },
     {
@@ -842,15 +834,6 @@
       "link": "https://bitcoinmagazine.com/news/american-bitcoin-abtc-activates-11000",
       "desc": "Bitcoin Magazine American Bitcoin ($ABTC) Activates 11,000 New Bitcoin Miners, Expanding Hashrate Capacity American Bitcoin (ABTC) announced it had energized more than 11,000 new mining machines at its Drumheller facility. This post American Bitcoin ($ABTC) Activates 11,000 New Bitcoin Miners, Expanding Hashrate Capacity first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-04-22T15:32:44.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "WalletConnect Integrates with TradFi-Focused Chain Canton Network",
-      "link": "https://thedefiant.io/news/infrastructure/walletconnect-adds-support-for-canton-network",
-      "desc": "WalletConnect's ecosystem of 700 crypto wallets and 70,000 dApps now supports the enterprise- and privacy-focused blockchain network.",
-      "date": "2026-04-22T13:00:00.000Z",
       "termBoost": 0
     },
     {
