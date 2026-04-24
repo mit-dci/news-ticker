@@ -47,7 +47,11 @@ export const FILTERS = [
   /\bSTRC\b/,
   /\bMSTR\b/,
   /GPT/,
-  /\bPAC\b/
+  /\bPAC\b/,
+  /\bCoinDesk 20\b/,
+  /\bprice\b.{0,30}\b(drops?|rises?|falls?|gains?|surges?|dips?|crash|climbs?|declines?|slips?|jumps?|rall(y|ies)|tanks?|soars?|plunges?|sinks?|pumps?|slides?)/,
+  /\b(drops?|rises?|falls?|gains?|surges?|crash|climbs?|declines?|slips?|jumps?|rall(y|ies)|tanks?|soars?|plunges?|sinks?|pumps?|slides?)\b.{0,20}\d+%/,
+  /\bprice (prediction|analysis|target|forecast)/,
 ];
 
 // Term-based priority boost — stories matching these patterns get a boost
