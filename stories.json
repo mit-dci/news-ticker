@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-04-28T13:40:38.522Z",
+  "generatedAt": "2026-04-28T15:51:25.385Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 81,
+  "filteredOut": 80,
   "errors": [],
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "New wallet offers way to tackle Bitcoin’s quantum risk without a fork",
+      "link": "https://www.coindesk.com/tech/2026/04/28/emb-2-pm-utc-new-wallet-offers-way-to-tackle-bitcoin-s-quantum-risk-without-a-fork",
+      "desc": "The Postquant Labs project uses Arch Network to deliver post-quantum signature protection without a Bitcoin soft fork, sidestepping both Jameson Lopp's freeze proposal and Paul Sztorc's hard fork.",
+      "date": "2026-04-28T14:00:00.000Z",
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
@@ -36,14 +46,148 @@
       "termBoost": 3
     },
     {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Blockstream Launches Jade Core to Simplify Bitcoin Self-Custody Without Sacrificing Security",
+      "link": "https://bitcoinmagazine.com/news/blockstream-launches-jade-core",
+      "desc": "Bitcoin Magazine Blockstream Launches Jade Core to Simplify Bitcoin Self-Custody Without Sacrificing Security Blockstream has launched Jade Core, a simplified, open-source hardware wallet designed to make Bitcoin self-custody more accessible to a broader range of users. This post Blockstream Launches Jade Core to Simplify Bitcoin Self-Custody Without Sacrificing Security first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-04-28T15:51:04.000Z",
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Solana developers outline plan to protect network from quantum threats",
-      "link": "https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats",
-      "desc": "Two of the network’s core developer teams, Anza and Jump Crypto’s Firedancer, have landed on the same solution: a new type of digital signature called Falcon.",
-      "date": "2026-04-27T16:30:56.000Z",
-      "priorityTerm": true,
-      "termBoost": 3
+      "title": "A crypto coalition releases technical proposal to save Aave users from a massive token exploit",
+      "link": "https://www.coindesk.com/tech/2026/04/28/a-crypto-coalition-releases-technical-proposal-to-save-aave-users-from-a-massive-token-exploit",
+      "desc": "DeFi United, a coalition of multiple blockchain projects and crypto ecosystem individuals, has laid out a detailed plan to restore the backing of rsETH after this month’s Kelp DAO hack sent shockwaves through lending markets.",
+      "date": "2026-04-28T15:43:15.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Hyperliquid Gains Counter $216 Million Q1 Loss at Novogratz's Galaxy Digital",
+      "link": "https://decrypt.co/365814/hyperliquid-gains-counter-216m-q1-loss-galaxy-digital",
+      "desc": "CEO Mike Novogratz said Galaxy Digital’s balance sheet suffered because crypto prices are down, yet Hyperliquid partially offset losses.",
+      "date": "2026-04-28T15:27:39.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "date": "2026-04-28T15:24:45.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "'Crypto Godfather' says bitcoin has not reached its bottom and a new all-time high is off the table for 2026",
+      "link": "https://www.coindesk.com/markets/2026/04/28/crypto-godfather-says-bitcoin-has-not-reached-its-bottom-and-a-new-all-time-high-is-off-the-table-for-2026",
+      "desc": "The early bitcoin investor and author of Bitcoin Supercycle says bitcoin needs to drop to about $57,000 sometime in October before beginning its ascent. A market analyst disagrees.",
+      "date": "2026-04-28T15:18:44.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Amboss Activates RailsX, Enabling Self-Custody Stablecoin Trading on Bitcoin Lightning",
+      "link": "https://bitcoinmagazine.com/news/amboss-activates-railsx-self-custody",
+      "desc": "Bitcoin Magazine Amboss Activates RailsX, Enabling Self-Custody Stablecoin Trading on Bitcoin Lightning Amboss' RailsX goes live with USDT-L and USDC-L, bringing peer-to-peer, self-custodial stablecoin trading to the Lightning Network for the first time. This post Amboss Activates RailsX, Enabling Self-Custody Stablecoin Trading on Bitcoin Lightning first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-04-28T15:07:54.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Tether develops modular bitcoin mining systems with Canaan in latest infrastructure push",
+      "link": "https://www.theblock.co/post/399196/tether-develops-modular-bitcoin-mining-systems-with-canaan-in-latest-infrastructure-push?utm_source=rss&utm_medium=rss",
+      "desc": "Tether said it is developing new modular bitcoin mining systems with Canaan and ACME Swisstech in a deeper pusher into infrastructure.",
+      "date": "2026-04-28T14:53:58.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "AML crackdown eclipses securities enforcement as crypto’s top regulatory risk: Report",
+      "link": "https://cointelegraph.com/news/aml-crackdown-eclipses-securities-enforcement-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US Anti-Money Laundering fines hit $1.06B in the first half of 2025 as enforcement shifted from securities cases, while Basel rules and mandatory audits reshape crypto compliance, according to CertiK.",
+      "date": "2026-04-28T14:50:36.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Can Bitcoin hit $250K this year? Traders say it may be time to ‘sell in May’",
+      "link": "https://cointelegraph.com/markets/can-bitcoin-hit-250k-this-year-top-btc-chart-watchers-weigh?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Veteran trader Peter Brandt and other analysts question the $250,000 Bitcoin target, warning the current bear phase may not be over.",
+      "date": "2026-04-28T14:43:59.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Not a theft, but a statement: Inside the Bitcoin proposal to reassign Satoshi-linked coins",
+      "link": "https://www.coindesk.com/tech/2026/04/28/bitcoiners-are-calling-ecash-a-hard-fork-theft-but-it-doesn-t-even-touch-satoshi-s-btc",
+      "desc": "Paul Sztorc says he can't move a single sat of Satoshi's bitcoin and isn't trying to. But critics say rewriting forked-chain balances at addresses a user does not control sets a bad precedent.",
+      "date": "2026-04-28T14:41:31.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Crypto projects shut down as token models fail under pressure",
+      "link": "https://cointelegraph.com/features/crypto-projects-shut-down-token-models-fail-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Crypto projects are shutting down as token funding weakens and fragmented structures leave them with limited options to restructure or recover.",
+      "date": "2026-04-28T14:30:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Japan tells real estate and crypto sectors to tighten AML checks on property deals",
+      "link": "https://cointelegraph.com/news/japan-tells-real-estate-and-crypto-sectors-to-tighten-aml-checks-on-property-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Four Japanese government agencies have warned against the AML risks posed by crypto in real estate transactions, instructing industry bodies to enforce stricter compliance.",
+      "date": "2026-04-28T14:22:35.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Visa taps former Tether CEO’s WeFi to connect crypto to its payment network",
+      "link": "https://www.theblock.co/post/399168/visa-taps-former-tether-ceos-wefi-connect-crypto-its-payment-network?utm_source=rss&utm_medium=rss",
+      "desc": "The collaboration adds to a rapidly growing list of initiatives between existing payment networks and digital asset firms.",
+      "date": "2026-04-28T14:01:02.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Stablecoin payroll gets built-in yield with Paxos–Toku integration",
+      "link": "https://cointelegraph.com/news/stablecoin-payroll-gets-built-in-yield-with-paxostoku-integration-embargo-tuesday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The integration lets employees earn yield on stablecoin-paid salaries without moving funds or giving up custody.",
+      "date": "2026-04-28T14:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Aave-linked DeFi United unveils rsETH recovery plan after $293M Kelp exploit",
+      "link": "https://cointelegraph.com/news/aave-linked-defi-united-outlines-plan-to-restore-rseth-backing-after-293m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "DeFi United published a technical plan to restore rsETH backing and unwind attacker-linked DeFi positions after the $293 million Kelp exploit.",
+      "date": "2026-04-28T13:42:31.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Visa is teaming up with a Tether co-founder to build onchain banks",
+      "link": "https://www.coindesk.com/business/2026/04/28/visa-working-with-tether-og-reeve-collins-decentralized-banking-platform-wefi",
+      "desc": "Collins wants to bring robust stablecoin payments infrastructure to under-banked people around the planet.",
+      "date": "2026-04-28T13:38:31.000Z",
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -352,15 +496,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin whale holdings hit five-month high: Is BTC headed to $80K next?",
-      "link": "https://cointelegraph.com/markets/bitcoin-whale-holdings-hit-five-month-high-is-btc-headed-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin accumulation by whales and institutional investors is reducing the available supply of BTC and potentially setting the stage for a rally above $80,000.",
-      "date": "2026-04-27T21:44:05.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Industry leaders are pouring hundreds of millions into a rescue plan for Aave users after massive crypto hack",
@@ -376,15 +511,6 @@
       "link": "https://bitcoinmagazine.com/news/house-republicans-bitcoin-weakness-china",
       "desc": "Bitcoin Magazine House Republicans Warn That the America’s Bitcoin Weakness Will Benefit China At Bitcoin 2026 in Las Vegas, three Republican members of Congress framed crypto regulation as a national security and economic competitiveness issue, arguing that U.S. leadership in digital assets is essential to counter China. This post House Republicans Warn That the America’s Bitcoin Weakness Will Benefit China first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-04-27T21:32:45.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Tennessee crypto kiosk ban set to go into effect July 1",
-      "link": "https://cointelegraph.com/news/tennessee-crypto-kiosk-atm-ban-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto ATM operators and businesses hosting the machines have until July 1 to be in compliance with the new law or risk potential fines and prison time.",
-      "date": "2026-04-27T21:13:07.000Z",
       "termBoost": 0
     },
     {
@@ -496,42 +622,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BitMine acquires 101,000 ETH despite $6.5B in unrealized losses",
-      "link": "https://cointelegraph.com/news/bitmine-eth-holdings-unrealized-losses-staking-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The crypto treasury company continues to buy Ether and earn staking rewards, even as price swings leave billions in unrealized losses on its balance sheet.",
-      "date": "2026-04-27T18:56:08.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "EU sanctions target Russian crypto exchanges, stablecoins and CBDC",
-      "link": "https://cointelegraph.com/news/eu-sanctions-russia-crypto-exchanges-stablecoins-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The European Commission made its move in response to Russia's increasing reliance on crypto transactions to circumvent sanctions amid the country's war on Ukraine.",
-      "date": "2026-04-27T18:41:21.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Senator Lummis Puts Congress On The Clock, Vows May Push To Rescue Stalled Clarity Act",
-      "link": "https://bitcoinmagazine.com/news/senator-lummis-puts-congress-on-the-clock",
-      "desc": "Bitcoin Magazine Senator Lummis Puts Congress On The Clock, Vows May Push To Rescue Stalled Clarity Act Speaking at The Bitcoin Conference, Senator Cynthia Lummis framed Bitcoin as “freedom money,” signaling that Senate lawmakers are preparing a May markup of the long-delayed Clarity Act. This post Senator Lummis Puts Congress On The Clock, Vows May Push To Rescue Stalled Clarity Act first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-04-27T18:27:45.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bitcoin Lightning is Turning iGaming Payouts Into a Real-Time Rail: Report",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-lightning-turning-igaming-payouts",
-      "desc": "Bitcoin Magazine Bitcoin Lightning is Turning iGaming Payouts Into a Real-Time Rail: Report Bitcoin’s Lightning Network is starting to turn iGaming payouts into a native Bitcoin use case, according to a new report from Voltage. This post Bitcoin Lightning is Turning iGaming Payouts Into a Real-Time Rail: Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-04-27T18:00:00.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Sen. Tillis becomes ‘latest roadblock’ for crypto bill as he pushes ethics provisions, TD Cowen says",
@@ -559,15 +649,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Aven bitcoin Visa card will offer BTC-backed line of credit of up to $1 million",
-      "link": "https://www.theblock.co/post/399027/aven-bitcoin-visa-card-btc-backed-line-credit-1-million?utm_source=rss&utm_medium=rss",
-      "desc": "Aven's new bitcoin credit card will offer fixed-rate, fixed-term loans of up to 10 years at a 7.99% APR as well as unlimited 2% cash back.",
-      "date": "2026-04-27T17:05:00.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts",
@@ -586,69 +667,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin is climbing on thin volume, leaving rally vulnerable to macro shock",
-      "link": "https://www.coindesk.com/markets/2026/04/27/bitcoin-is-climbing-on-thin-volume-leaving-this-rally-vulnerable-to-macro-shock",
-      "desc": "Low trading volume and a lack of conviction from big-money bettors could leave the bitcoin rally on shaky ground, said 10x Research head Markus Thielen.",
-      "date": "2026-04-27T16:22:16.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "DeFi United push hits $300M as Consensys and Joseph Lubin contribute 30,000 ETH",
-      "link": "https://www.theblock.co/post/399010/defi-united-push-hits-300m-as-consensys-and-joseph-lubin-contribute-30000-eth?utm_source=rss&utm_medium=rss",
-      "desc": "The industry-wide effort dubbed DeFi United had raised roughly $235 million worth of Ethereum as of Monday.",
-      "date": "2026-04-27T16:09:25.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Cross-border B2B stablecoin payments to hit $5 trillion by 2035, says Juniper Research",
-      "link": "https://www.coindesk.com/business/2026/04/27/cross-border-b2b-stablecoin-payments-to-rise-by-over-37-000-to-usd5t-by-2035",
-      "desc": "Juniper Research found that 85% of all stablecoin transaction value in 2035 will be driven by international business-to-business (B2B) payments.",
-      "date": "2026-04-27T15:49:01.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Fidelity Digital Assets says bitcoin is leading crypto market stabilization",
-      "link": "https://www.coindesk.com/markets/2026/04/27/fidelity-digital-assets-says-bitcoin-is-leading-crypto-market-stabilization",
-      "desc": "Despite muted prices to start the second quarter, the report said improving onchain metrics and network activity point to a market finding its footing.",
-      "date": "2026-04-27T15:44:00.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Luca Netz on building a brand people actually love",
-      "link": "https://www.theblock.co/post/399004/luca-netz-on-building-a-brand-people-actually-love?utm_source=rss&utm_medium=rss",
-      "desc": "Netz explains how Pudgy Penguins is evolving from NFTs into a consumer brand by focusing on culture, IP, and mass adoption over speculation.",
-      "date": "2026-04-27T15:27:09.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Canada’s crypto donation ban clears key vote with support from Conservatives",
-      "link": "https://www.coindesk.com/policy/2026/04/27/canada-s-crypto-donation-ban-clears-key-vote-with-support-from-conservatives",
-      "desc": "Bill C-25, the Strong and Free Elections Act, cleared second reading Friday and heads to committee as Conservative lawmakers raise but don’t challenge the proposed ban on bitcoin contributions",
-      "date": "2026-04-27T15:05:56.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "date": "2026-04-27T14:45:00.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone",
@@ -664,15 +682,6 @@
       "link": "https://thedefiant.io/news/regulation/cftc-chairman-endorses-prediction-markets-hedging-value-5au93a",
       "desc": "CFTC Chairman Rostin Behnam said prediction markets provide measurable value to participants and the public, committing the agency to setting regulatory standards for the sector.",
       "date": "2026-04-27T13:46:17.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Signal in the age of infinite noise",
-      "link": "https://www.coindesk.com/opinion/2026/04/27/signal-in-the-age-of-infinite-noise",
-      "desc": "The anonymous person behind the popular X account, SightBringer, explains his take on the most valuable and least understood asset of the market.",
-      "date": "2026-04-27T13:45:02.000Z",
       "termBoost": 0
     },
     {
