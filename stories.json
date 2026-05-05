@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-05T17:35:33.347Z",
+  "generatedAt": "2026-05-05T18:10:15.739Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 70,
+  "filteredOut": 69,
   "errors": [],
   "items": [
     {
@@ -21,6 +21,24 @@
       "link": "https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/",
       "desc": "After Bitcoin Core 0.14.0 and before Bitcoin Core 29.0, validating a specially-crafted block may cause the node to access previously freed memory. During validation, necessary data required for checking inputs for each transaction is pre-calculated and cached. For specially crafted invalid blocks, it was possible for this data to be destroyed while it was still being accessed by a background validation thread. An attacker capable of mining a block with sufficient proof-of-work could have exploited this to crash victim nodes. Because of the nature of use-after-free bugs, it is possible that the crash could have been used for remote code execution, though constraints on the input (block) data make this unlikely. This issue is considered High severity. Details By default, script validation for new blocks is dispatched to background threads via a vector of CScriptCheck functors. Each CScriptCheck holds a pointer to a PrecomputedTransactionData object which stores some data needed by each input in the transaction. Because it stores a pointer and not the data itself, care must be taken to ensure that the PrecomputedTransactionData outlives the CScriptCheck. The script checks lifetime is enforced by an RAII class, CCheckQueueControl. However, the control is intantiated before the precomputed transaction data. Because local objects in C++ are destructed in reverse order of construction, this means the vector of PrecomputedTransactionData is destroyed before the CCheckQueueControl. This is not an issue when the block is valid, as CCheckQueueControl::Wait() will be called before the function returns and the PrecomputedTransactionData gets destroyed. However, in case of an early return (when a separate check fails) a background script thread may read the precomputed transaction data after it was destroyed. An attacker could exploit this to crash victim nodes at the expense of a valid PoW at tip. Attribution Cory Fields (MIT DCI) discovered this vulnerability and responsibly disclosed it in a detailed report containing a proof of concept for reproduction and a proposed mitigation. Timeline 2024-11-02 Cory Fields privately reports the bug 2024-11-06 Pieter Wuille pushes a covert fix to already open PR #31112 which works around the issue by removing the early returns 2024-12-03 PR #31112 is merged 2025-04-12 Bitcoin Core version 29.0 is released with a fix 2026-04-19 The last vulnerable Bitcoin Core version (28.x) goes end of life 2026-05-05 Public disclosure.",
       "date": "2026-05-05T04:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "French Chipmaker Sequans Dumps Half Its Bitcoin as Treasury Hype Meets Reality",
+      "link": "https://decrypt.co/366834/french-chipmaker-sequans-dumps-bitcoin",
+      "desc": "Sequans Communications liquidated nearly half its Bitcoin treasury as mounting losses and debt obligations forced a strategic reversal.",
+      "date": "2026-05-05T17:39:39.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Toncoin Surges as Telegram Takes Direct Control of TON Network",
+      "link": "https://thedefiant.io/news/blockchains/toncoin-surges-as-telegram-takes-direct-control-of-ton-network",
+      "desc": "Pavel Durov says Telegram will replace the TON Foundation and become the network's largest validator as part of a ‘Make TON Great Again’ roadmap.",
+      "date": "2026-05-05T17:32:56.000Z",
       "termBoost": 0
     },
     {
@@ -822,15 +840,6 @@
       "link": "https://decrypt.co/366627/gamestop-makes-55-5-billion-offer-acquire-ebay",
       "desc": "GameStop has built a 5% stake in eBay and proposed to fund the deal with cash on hand plus third-party financing.",
       "date": "2026-05-04T13:50:55.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Morning Minute: Bitcoin Clears $80K, Reverses on Iran Missile Strike",
-      "link": "https://decrypt.co/366623/morning-minute-bitcoin-clears-80k-reverses-iran-missile-strike",
-      "desc": "Bitcoin rallied above $80,000 overnight before selling off on reports of a U.S. warship struck by Iranian missiles. Plus, Clarity Act odds spiked after a new compromise on stablecoin yield.",
-      "date": "2026-05-04T13:19:36.000Z",
       "termBoost": 0
     },
     {
