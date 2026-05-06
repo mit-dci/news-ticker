@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-06T10:45:32.860Z",
+  "generatedAt": "2026-05-06T11:37:52.244Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 67,
+  "filteredOut": 64,
   "errors": [],
   "items": [
     {
@@ -32,6 +32,69 @@
       "date": "2026-05-06T10:20:52.000Z",
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "DeFi's stress test ends quietly. Nothing broke.",
+      "link": "https://www.coindesk.com/daybook-us/2026/05/06/crypto-daily",
+      "desc": "Your day-ahead look for May 6, 2026",
+      "date": "2026-05-06T11:31:20.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "From 'what' to 'how': Robinhood and Bitstamp say banks are ready to build on-chain",
+      "link": "https://www.coindesk.com/business/2026/05/06/wall-street-is-finally-coming-to-crypto-but-on-its-own-terms",
+      "desc": "Executives from Ondo, Robinhood and Babylon Labs said at Consensus Miami 2026 that banks and traditional finance firms are embracing crypto infrastructure, though institutional adoption remains constrained.",
+      "date": "2026-05-06T11:21:45.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Strategy Mulls Selling Bitcoin to 'Inoculate the Market': Saylor",
+      "link": "https://decrypt.co/366940/strategy-mulls-selling-bitcoin-to-inoculate-the-market-saylor",
+      "desc": "The largest corporate Bitcoin holder is reconsidering its “never sell” stance, with analysts weighing the ripple effects.",
+      "date": "2026-05-06T11:19:47.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Multicoin goes big on zcash as privacy trade returns",
+      "link": "https://www.coindesk.com/markets/2026/05/06/multicoin-goes-big-on-zcash-as-privacy-trade-returns",
+      "desc": "The purchase marks a shift from Multicoin’s 2019 view, as ZEC has surged over 1,500% in the last year.",
+      "date": "2026-05-06T11:05:01.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "World’s first live map of token concentration: InsightX launches Atlas Live",
+      "link": "https://cointelegraph.com/press-releases/worlds-first-live-map-of-token-concentration-insightx-launches-atlas-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A new era of on-chain trading transparency. Atlas Live enables traders to analyze token concentration and spot potential rug pulls. Now in real time.",
+      "date": "2026-05-06T11:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin ETFs add nearly $1B as BTC surges past $80K in multi-day rally",
+      "link": "https://cointelegraph.com/news/bitcoin-etfs-1-billion-inflows-btc-surge-past-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US spot Bitcoin ETFs posted $999 million in inflows over two trading days as Bitcoin moved back above $80,000.",
+      "date": "2026-05-06T10:40:09.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "OKX Card data shows crypto is paying for everyday life in Europe",
+      "link": "https://cointelegraph.com/news/okx-card-data-shows-crypto-is-paying-for-everyday-life-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "OKX Card data shows most crypto spending in Europe is on groceries and dining, signaling growing everyday use over luxury purchases.",
+      "date": "2026-05-06T10:15:42.000Z",
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -331,15 +394,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Self-directed investors power bitcoin ETF launch despite Morgan Stanley’s scale",
-      "link": "https://www.coindesk.com/markets/2026/05/05/self-directed-investors-power-bitcoin-etf-launch-despite-morgan-stanley-s-scale",
-      "desc": "Strong early demand highlights how investors are driving crypto adoption, even without support from Morgan Stanley’s vast advisor network.",
-      "date": "2026-05-05T20:44:05.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Strategy Posts $12.5 Billion Q1 Loss as Bitcoin Slump Hammers Massive Holdings",
@@ -382,24 +436,6 @@
       "link": "https://thedefiant.io/news/defi/kelp-dao-accuses-layerzero-of-deflecting-blame-for-usd300m-bridge-hack",
       "desc": "The liquid restaking protocol argues that the 1-of-1 verifier setup at the center of the April 18 exploit was LayerZero's own documented default.",
       "date": "2026-05-05T20:25:32.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Kelp claims that LayerZero approved the setup it blamed for $292 million bridge hack",
-      "link": "https://www.coindesk.com/web3/2026/05/05/kelp-claims-that-layerzero-approved-the-setup-it-blamed-for-usd292-million-bridge-hack",
-      "desc": "The $292M exploit, linked to North Korean hackers, led Kelp to migrate its rsETH off LayerZero's \"OFT\" standard to Chainlink's \"CCIP.\"",
-      "date": "2026-05-05T20:21:49.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Strategy posts $12.54 billion Q1 loss on declining bitcoin price",
-      "link": "https://www.coindesk.com/markets/2026/05/05/strategy-posts-usd12-54-billion-q1-loss-on-declining-bitcoin-price",
-      "desc": "The price of bitcoin fell from about $87,000 to $68,000 during the first three months of 2026.",
-      "date": "2026-05-05T20:06:30.000Z",
       "termBoost": 0
     },
     {
@@ -769,15 +805,6 @@
       "link": "https://decrypt.co/366751/ripple-to-share-north-korean-threat-intelligence-with-crypto-industry",
       "desc": "The move follows two nine-figure exploits of DeFi protocols Drift and KelpDAO in April, as DPRK hackers shift to social engineering tactics.",
       "date": "2026-05-05T10:56:38.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "UAE free zone launches blockchain-based business IDs for registered firms",
-      "link": "https://cointelegraph.com/news/uae-innovation-city-introduces-ai-onchain-business-ids?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Innovation City launches a blockchain-based business ID system, giving more than 1,000 firms verifiable onchain credentials for identity and access.",
-      "date": "2026-05-05T10:36:25.000Z",
       "termBoost": 0
     },
     {
