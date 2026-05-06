@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-06T13:40:28.637Z",
+  "generatedAt": "2026-05-06T14:57:46.381Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 61,
+  "filteredOut": 63,
   "errors": [],
   "items": [
     {
@@ -34,12 +34,84 @@
       "termBoost": 3
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Consensus Miami Day 2: Real-time coverage and highlights from on the ground",
+      "link": "https://www.coindesk.com/business/2026/05/06/consensus-miami-day-2-real-time-coverage-and-highlights-from-on-the-ground",
+      "desc": "It's day two of Consensus Miami 2026 on Wednesday. Stay tuned for updates throughout the day.",
+      "date": "2026-05-06T14:56:09.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "‘Clarity Act will pass this summer’: Coinbase CLO Grewal backs stablecoin compromise, urges banks to accept deal",
+      "link": "https://www.theblock.co/post/400230/clarity-act-will-pass-this-summer-coinbase-clo-grewal-backs-stablecoin-compromise-urges-banks-to-accept-deal?utm_source=rss&utm_medium=rss",
+      "desc": "Coinbase CLO Paul Grewal says the Clarity Act will pass this summer, backing the Tillis-Alsobrooks stablecoin compromise.",
+      "date": "2026-05-06T14:46:59.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Morgan Stanley Launches Crypto Trading for Retail Clients: Report",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/morgan-stanley-etrade-crypto-trading-launch-rpm4qa",
+      "desc": "The $2 trillion financial services firm has rolled out cryptocurrency trading capabilities on its E*Trade retail brokerage platform.",
+      "date": "2026-05-06T14:09:05.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "NYSE tokenization partners warn synthetic stock tokens could mislead retail traders",
+      "link": "https://www.coindesk.com/business/2026/05/06/nyse-tokenization-partners-warn-synthetic-stock-tokens-could-mislead-retail-traders",
+      "desc": "Offshore synthetic tokens may not represent the underlying equity, use company names without approval, and exploit regulatory arbitrage.",
+      "date": "2026-05-06T14:08:04.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "OpenTrade raises $17M as CEO sees stablecoin yield tailwinds",
+      "link": "https://cointelegraph.com/news/opentrade-17-million-raise-stablecoin-yield-ceo-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "OpenTrade raised $17 million to expand its stablecoin yield platform, bringing total funding above $30 million as it scales stablecoin yield infrastructure for global clients.",
+      "date": "2026-05-06T14:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Why stablecoins and SWIFT may have to coexist",
+      "link": "https://cointelegraph.com/features/why-stablecoins-swift-may-have-coexist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Remittance firms are using crypto to bypass parts of traditional settlement infrastructure, but this does not mean SWIFT is disappearing.",
+      "date": "2026-05-06T13:47:13.000Z",
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Bitcoin Core quietly patched high-severity memory bug months before public disclosure, but many nodes may still run affected software",
       "link": "https://www.theblock.co/post/400203/bitcoin-core-quietly-patched-high-severity-memory-bug-months-before-public-disclosure-but-many-nodes-may-still-run-affected-software?utm_source=rss&utm_medium=rss",
       "desc": "Bitcoin Core disclosed a use-after-free bug that could have let miners crash nodes and potentially execute remote code.",
       "date": "2026-05-06T13:28:52.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Samsung SDS wins deal to build South Korea’s blockchain securities system: Report",
+      "link": "https://cointelegraph.com/news/samsung-sds-to-build-token-securities-platform-for-korea-securities-depository?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Korea Securities Depository platform is expected to go live by February 2027, aligning with South Korea’s incoming security token framework.",
+      "date": "2026-05-06T13:20:50.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Zcash price may hit $800 as $2.7B hedge fund reveals ‘significant position’ in ZEC",
+      "link": "https://cointelegraph.com/markets/zcash-price-eyes-40-rally-as-27b-hedge-fund-reveals-significant-position-in-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Robinhood’s ZEC listing, easing US–Iran tensions and a shrinking liquid supply of tokens are further strengthening the bullish outlook for Zcash in the coming weeks.",
+      "date": "2026-05-06T13:17:53.000Z",
       "termBoost": 0
     },
     {
@@ -394,15 +466,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Trust in crypto remains biggest barrier to adoption, say Consensus Miami 2026 panelists",
-      "link": "https://www.coindesk.com/policy/2026/05/05/trust-in-crypto-remains-biggest-barrier-to-adoption-say-consensus-miami-2026-panelists",
-      "desc": "Speakers point to complexity, poor user experience and lack of transparency as key obstacles for mainstream users.",
-      "date": "2026-05-05T22:39:33.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Kelp Blames LayerZero for $292 Million Hack, Plans Switch to Chainlink",
@@ -427,15 +490,6 @@
       "link": "https://cointelegraph.com/news/ripple-ceo-market-structure-progress-stablecoin-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Brad Garlinghouse addressed attendees at a Tuesday crypto conference on the progress of the CLARITY Act after US lawmakers announced a compromise on stablecoin yield that could advance the legislation.",
       "date": "2026-05-05T22:08:41.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The world's entire economy will be tokenized, says Consensys’ Joseph Lubin",
-      "link": "https://www.coindesk.com/business/2026/05/05/the-world-s-entire-economy-will-be-tokenized-says-consensys-joseph-lubin",
-      "desc": "The Consensys CEO and founder said tokenization can be traced back to Ethereum, the blockchain he helped co-found.",
-      "date": "2026-05-05T22:06:55.000Z",
       "termBoost": 0
     },
     {
@@ -628,15 +682,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "State Street and Galaxy launch fund on Solana designed to ‘sweep’ stablecoins into productive vehicle",
-      "link": "https://www.theblock.co/post/400086/state-street-and-galaxy-launch-fund-on-solana-designed-to-sweep-stablecoins-into-productive-vehicle?utm_source=rss&utm_medium=rss",
-      "desc": "The State Street Galaxy Onchain Liquidity Sweep Fund lets investors push stablecoins into a yield-bearing tokenized fund.",
-      "date": "2026-05-05T17:27:16.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Arbitrum DAO Elects Six New Security Council Members Amid Ongoing Kelp Fallout",
@@ -655,15 +700,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "MoonPay acquires Solana execution layer firm DFlow used by Coinbase, Phantom",
-      "link": "https://www.theblock.co/post/400078/moonpay-acquires-solana-execution-layer-firm-dflow-used-coinbase-phantom?utm_source=rss&utm_medium=rss",
-      "desc": "DFlow is used by both Coinbase and Phantom and has processed over $50 billion in cumulative trading volume.",
-      "date": "2026-05-05T17:21:11.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bernstein cites $4T tokenized credit opportunity for Figure Technology stock",
@@ -679,15 +715,6 @@
       "link": "https://decrypt.co/366807/big-short-investor-michael-burry-exits-gamestop-after-ebay-bid",
       "desc": "GameStop's $55.5 billion eBay bid broke the Berkshire-style thesis the “Big Short” investor had bet on since January.",
       "date": "2026-05-05T17:04:11.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "XRP price copies 2025 chart fractal that last time sparked 66% gains",
-      "link": "https://cointelegraph.com/markets/xrp-replays-2025-fractal-that-sparked-a-66-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "XRP price broke out of a multi-month bull flag, while other chart technicals are also supporting more upside in the near term.",
-      "date": "2026-05-05T17:02:42.000Z",
       "termBoost": 0
     },
     {
@@ -718,15 +745,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ripple CEO Brad Garlinghouse warns next two weeks are critical for crypto legislation",
-      "link": "https://www.theblock.co/post/400073/ripple-ceo-brad-garlinghouse-warns-next-two-weeks-are-critical-for-crypto-legislation?utm_source=rss&utm_medium=rss",
-      "desc": "The next two weeks will be pivotal in passing broader cryptocurrency legislation, says Ripple CEO Brad Garlinghouse.",
-      "date": "2026-05-05T16:32:28.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Drift Sets Out Token-Based Recovery Framework for $295M April Exploit",
@@ -754,24 +772,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "date": "2026-05-05T15:01:00.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Kaiko flags possible front-running before Robinhood token listings",
-      "link": "https://cointelegraph.com/news/crypto-perps-volume-points-to-traders-front-running-robinhood-listings-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Kaiko said open interest, funding rates and wallet activity showed repeated pre-announcement positioning before several Robinhood token listings.",
-      "date": "2026-05-05T14:31:27.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Stellar Gets Its First Regulated, Yield-Bearing Stablecoin with YLDS Launch",
@@ -796,15 +796,6 @@
       "link": "https://decrypt.co/366788/andreessen-horowitz-raises-2-2-billion-fund-crypto-startups",
       "desc": "Andreessen Horowitz's latest fund signals institutional confidence in crypto as the investment landscape shows signs of recovery.",
       "date": "2026-05-05T14:06:11.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Space and Time rolls out virtual vaults for institutional onchain lending",
-      "link": "https://cointelegraph.com/news/space-and-time-rolls-out-virtual-vaults-for-institutional-onchain-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The data blockchain securing onchain finance projects looks to provide lenders and borrowers with agreement-specific collateral solution.",
-      "date": "2026-05-05T14:00:00.000Z",
       "termBoost": 0
     },
     {
@@ -841,15 +832,6 @@
       "link": "https://decrypt.co/366751/ripple-to-share-north-korean-threat-intelligence-with-crypto-industry",
       "desc": "The move follows two nine-figure exploits of DeFi protocols Drift and KelpDAO in April, as DPRK hackers shift to social engineering tactics.",
       "date": "2026-05-05T10:56:38.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Aave Fights to Unfreeze $71 Million as Kelp DAO Hack Spills Into Court",
-      "link": "https://decrypt.co/366744/aave-unfreeze-71m-arbitrum-kelp-dao-hack",
-      "desc": "A federal case over frozen crypto could determine whether DeFi recovery funds can be seized to satisfy unrelated judgments.",
-      "date": "2026-05-04T21:56:03.000Z",
       "termBoost": 0
     },
     {
