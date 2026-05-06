@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T08:55:49.584Z",
+  "generatedAt": "2026-05-06T09:54:17.718Z",
   "sourceCount": 9,
   "successCount": 9,
   "filteredOut": 67,
@@ -21,6 +21,24 @@
       "link": "https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/",
       "desc": "After Bitcoin Core 0.14.0 and before Bitcoin Core 29.0, validating a specially-crafted block may cause the node to access previously freed memory. During validation, necessary data required for checking inputs for each transaction is pre-calculated and cached. For specially crafted invalid blocks, it was possible for this data to be destroyed while it was still being accessed by a background validation thread. An attacker capable of mining a block with sufficient proof-of-work could have exploited this to crash victim nodes. Because of the nature of use-after-free bugs, it is possible that the crash could have been used for remote code execution, though constraints on the input (block) data make this unlikely. This issue is considered High severity. Details By default, script validation for new blocks is dispatched to background threads via a vector of CScriptCheck functors. Each CScriptCheck holds a pointer to a PrecomputedTransactionData object which stores some data needed by each input in the transaction. Because it stores a pointer and not the data itself, care must be taken to ensure that the PrecomputedTransactionData outlives the CScriptCheck. The script checks lifetime is enforced by an RAII class, CCheckQueueControl. However, the control is intantiated before the precomputed transaction data. Because local objects in C++ are destructed in reverse order of construction, this means the vector of PrecomputedTransactionData is destroyed before the CCheckQueueControl. This is not an issue when the block is valid, as CCheckQueueControl::Wait() will be called before the function returns and the PrecomputedTransactionData gets destroyed. However, in case of an early return (when a separate check fails) a background script thread may read the precomputed transaction data after it was destroyed. An attacker could exploit this to crash victim nodes at the expense of a valid PoW at tip. Attribution Cory Fields (MIT DCI) discovered this vulnerability and responsibly disclosed it in a detailed report containing a proof of concept for reproduction and a proposed mitigation. Timeline 2024-11-02 Cory Fields privately reports the bug 2024-11-06 Pieter Wuille pushes a covert fix to already open PR #31112 which works around the issue by removing the early returns 2024-12-03 PR #31112 is merged 2025-04-12 Bitcoin Core version 29.0 is released with a fix 2026-04-19 The last vulnerable Bitcoin Core version (28.x) goes end of life 2026-05-05 Public disclosure.",
       "date": "2026-05-05T04:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitwise CIO says big tech stablecoin tests could help drive $4 trillion supply by 2030",
+      "link": "https://www.theblock.co/post/400170/bitwise-cio-says-big-tech-stablecoin-tests-could-help-drive-4-trillion-supply-by-2030?utm_source=rss&utm_medium=rss",
+      "desc": "Matt Hougan said tech firms like DoorDash and Meta exploring stablecoin payouts could help drive projections of $4 trillion in supply by 2030.",
+      "date": "2026-05-06T09:44:34.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin approaches $82,000 as oil crashes 6% on fresh Iran peace deal hopes",
+      "link": "https://www.coindesk.com/markets/2026/05/06/bitcoin-nasdaq-futures-rally-as-oil-crashes-6-on-iran-peace-deal-hopes",
+      "desc": "Bitcoin climbed toward $82,000 alongside a more than 1% rise in Nasdaq futures amid reports of progress toward a U.S.–Iran memorandum of understanding.",
+      "date": "2026-05-06T09:26:02.000Z",
       "termBoost": 0
     },
     {
@@ -53,7 +71,7 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "a16z raises $2.2B for new fund backing stablecoins, prediction markets",
+      "title": "A16z raises $2.2B for new fund backing stablecoins, prediction markets",
       "link": "https://cointelegraph.com/news/a16z-raises-2-billion-fund-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Andreessen Horowitz’s crypto investment arm said its new fund would seek to back projects that “people keep using when the hype fades.”",
       "date": "2026-05-06T07:24:40.000Z",
@@ -417,24 +435,6 @@
       "link": "https://www.coindesk.com/business/2026/05/05/drift-outlines-a-recovery-plan-for-users-after-usd295-million-dprk-linked-exploit",
       "desc": "The lending protocol proposed tokenized claims, a revenue-backed pool and a security overhaul as it works with law enforcement to recover the stolen funds.",
       "date": "2026-05-05T18:57:18.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Tokenization won't disrupt banking rails but improve them, Wall Street executives say",
-      "link": "https://www.coindesk.com/business/2026/05/05/tokenization-won-t-disrupt-banking-rails-but-improve-them-wall-street-executives-say",
-      "desc": "Executives from Citigroup, JPMorgan and DTCC said at Consensus that genuine client demand is driving real-world use of tokenized assets.",
-      "date": "2026-05-05T18:55:33.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin extends gains to $81,500 as tokenization push lifts Bullish, Galaxy, Centrifuge",
-      "link": "https://www.coindesk.com/markets/2026/05/05/bitcoin-extends-gains-to-usd81-500-as-tokenization-push-lifts-bullish-galaxy-centrifuge",
-      "desc": "Crypto market momentum could extend further unless geopolitical risks flare up again, one analyst said.",
-      "date": "2026-05-05T18:52:16.000Z",
       "termBoost": 0
     },
     {
