@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-07T12:45:54.629Z",
+  "generatedAt": "2026-05-07T13:39:33.815Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 70,
+  "filteredOut": 68,
   "errors": [],
   "items": [
     {
@@ -61,6 +61,87 @@
       "link": "https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/",
       "desc": "After Bitcoin Core 0.14.0 and before Bitcoin Core 29.0, validating a specially-crafted block may cause the node to access previously freed memory. During validation, necessary data required for checking inputs for each transaction is pre-calculated and cached. For specially crafted invalid blocks, it was possible for this data to be destroyed while it was still being accessed by a background validation thread. An attacker capable of mining a block with sufficient proof-of-work could have exploited this to crash victim nodes. Because of the nature of use-after-free bugs, it is possible that the crash could have been used for remote code execution, though constraints on the input (block) data make this unlikely. This issue is considered High severity. Details By default, script validation for new blocks is dispatched to background threads via a vector of CScriptCheck functors. Each CScriptCheck holds a pointer to a PrecomputedTransactionData object which stores some data needed by each input in the transaction. Because it stores a pointer and not the data itself, care must be taken to ensure that the PrecomputedTransactionData outlives the CScriptCheck. The script checks lifetime is enforced by an RAII class, CCheckQueueControl. However, the control is intantiated before the precomputed transaction data. Because local objects in C++ are destructed in reverse order of construction, this means the vector of PrecomputedTransactionData is destroyed before the CCheckQueueControl. This is not an issue when the block is valid, as CCheckQueueControl::Wait() will be called before the function returns and the PrecomputedTransactionData gets destroyed. However, in case of an early return (when a separate check fails) a background script thread may read the precomputed transaction data after it was destroyed. An attacker could exploit this to crash victim nodes at the expense of a valid PoW at tip. Attribution Cory Fields (MIT DCI) discovered this vulnerability and responsibly disclosed it in a detailed report containing a proof of concept for reproduction and a proposed mitigation. Timeline 2024-11-02 Cory Fields privately reports the bug 2024-11-06 Pieter Wuille pushes a covert fix to already open PR #31112 which works around the issue by removing the early returns 2024-12-03 PR #31112 is merged 2025-04-12 Bitcoin Core version 29.0 is released with a fix 2026-04-19 The last vulnerable Bitcoin Core version (28.x) goes end of life 2026-05-05 Public disclosure.",
       "date": "2026-05-05T04:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Kraken parent Payward to acquire Hong Kong stablecoin firm Reap for $600 million",
+      "link": "https://www.theblock.co/post/400407/kraken-parent-payward-to-acquire-hong-kong-stablecoin-firm-reap-for-600-million?utm_source=rss&utm_medium=rss",
+      "desc": "Kraken parent Payward agreed to buy Hong Kong stablecoin payments firm Reap Technologies for $600 million in another acquisition.",
+      "date": "2026-05-07T13:26:29.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Mysten Labs’ Abiodun says Sui processed over $1 trillion in stablecoin volume since August as it eyes free, private payments",
+      "link": "https://www.theblock.co/post/400396/mysten-labs-abiodun-says-sui-processed-over-1-trillion-in-stablecoin-volume-since-august-as-it-eyes-free-private-payments?utm_source=rss&utm_medium=rss",
+      "desc": "Sui processed over $1 trillion in stablecoin volume since August as Mysten Labs' Abiodun eyes a zero-fee and private payments rollout.",
+      "date": "2026-05-07T13:07:21.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitwise to Take Over Superstate's $267M Tokenized Crypto Carry Fund",
+      "link": "https://thedefiant.io/news/defi/bitwise-to-take-over-superstate-s-usd267m-tokenized-crypto-carry-fund",
+      "desc": "Bitwise will become the investment manager of USCC on June 1, marking its first tokenized fund and Superstate's second handoff to a major asset manager this year.",
+      "date": "2026-05-07T13:00:05.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitwise enters tokenization in takeover of Superstate’s $267 million 'carry fund'",
+      "link": "https://www.coindesk.com/markets/2026/05/07/bitwise-expands-into-tokenized-funds-with-planned-takeover-of-superstate-s-uscc-fund",
+      "desc": "The crypto asset manager will take over Superstate’s $267 million USCC fund as tokenized investment products gain traction with institutions.",
+      "date": "2026-05-07T13:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin ETFs Post 5-Week Buying Streak as Hedges Unwind, Institutional Appetite Returns",
+      "link": "https://decrypt.co/367090/bitcoin-etfs-post-5-week-buying-streak-as-hedges-unwind-institutional-appetite-returns",
+      "desc": "Spot Bitcoin ETFs hit $108.76 billion in net assets as five weeks of inflows and fading put skew signal institutional demand is back.",
+      "date": "2026-05-07T12:56:14.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Kraken to buy stablecoin payments firm Reap in $600 million deal: Bloomberg",
+      "link": "https://www.coindesk.com/business/2026/05/07/kraken-to-buy-stablecoin-payments-firm-reap-in-usd600-million-deal-bloomberg",
+      "desc": "Kraken owner Payward will acquire Hong Kong-based Reap Technologies as the crypto exchange expands its stablecoin and payments infrastructure business in Asia.",
+      "date": "2026-05-07T12:52:42.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "VanEck’s Sigel sees Bitcoin reaching $1M within five years",
+      "link": "https://cointelegraph.com/news/bitcoin-1-million-five-years-vaneck-prediction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "VanEck’s Matthew Sigel says Bitcoin may reach $1 million in five years, comparing adoption trends to the video game industry’s shift to mainstream use.",
+      "date": "2026-05-07T12:51:19.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "SoFi’s crypto relaunch brought in $121.6 million in Q1. Almost all of it went to costs",
+      "link": "https://www.coindesk.com/business/2026/05/07/sofi-s-relaunched-crypto-business-generated-usd121-6-million-in-q1-transaction-revenue",
+      "desc": "The company launched the SoFiUSD stablecoin for enterprise payments in December and partnered with Mastercard for settlement capabilities.",
+      "date": "2026-05-07T12:49:45.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin analysts say this level must break for BTC price to confirm bottom",
+      "link": "https://cointelegraph.com/markets/bitcoin-analysts-say-this-level-must-break-btc-price-confirm-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A slowdown in profit-taking and reclaiming $88,000 as support are prerequisites for BTC to confirm cycle bottom.",
+      "date": "2026-05-07T12:26:09.000Z",
       "termBoost": 0
     },
     {
@@ -415,33 +496,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. Bitcoin Reserve update coming in 'next few weeks,\" White House adviser says",
-      "link": "https://www.coindesk.com/policy/2026/05/06/u-s-bitcoin-reserve-update-coming-in-next-few-weeks-white-house-s-adviser-says",
-      "desc": "White House digital-assets adviser Patrick Witt cited a recent exploit involving assets held by the U.S. Marshals as proof federal crypto holdings need safeguarding.",
-      "date": "2026-05-06T21:44:42.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "White House targets July 4 for Clarity Act passage, says crypto adviser Patrick Witt",
-      "link": "https://www.coindesk.com/policy/2026/05/06/white-house-targets-july-4-for-clarity-act-passage-says-crypto-adviser-patrick-witt",
-      "desc": "The executive director of the President's Council of Advisors for Digital Assets said the Senate Banking Committee hearing will happen this month on market structure. bill.",
-      "date": "2026-05-06T21:16:54.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Dominance of Tether and Circle is a net bad for stablecoins, says Bridge executive",
-      "link": "https://www.coindesk.com/business/2026/05/06/dominance-of-tether-and-circle-is-net-bad-for-stablecoins-says-bridge",
-      "desc": "Circle and Tether are going to make it harder for stablecoins to feel like money, said Ben O'Neill, head of money movement at Bridge.",
-      "date": "2026-05-06T21:11:57.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "US senator says crypto market structure vote may happen by August",
@@ -568,24 +622,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Morgan Stanley pilots crypto trading on E*Trade with 50-basis-point fee: Bloomberg",
-      "link": "https://www.theblock.co/post/400259/morgan-stanley-pilots-crypto-trading-on-etrade-with-50-basis-point-fee-bloomberg?utm_source=rss&utm_medium=rss",
-      "desc": "Morgan Stanley pilots crypto trading at 50 basis points, expanding digital asset push weeks after launching a bitcoin ETF.",
-      "date": "2026-05-06T15:44:58.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Kraken launches regulated crypto spot margin trading in US on heels of Bitnomial deal",
-      "link": "https://www.theblock.co/post/400247/kraken-launches-regulated-crypto-spot-margin-trading-us-bitnomial-deal?utm_source=rss&utm_medium=rss",
-      "desc": "The rollout marks the first product built on Payward’s newly acquired Bitnomial licenses, with perpetuals and options expected later.",
-      "date": "2026-05-06T15:39:50.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Reform UK’s Farage Claims 'No Obligation' to Declare Tether Billionaire's $6.7M Gift",
@@ -637,24 +673,6 @@
       "link": "https://cointelegraph.com/features/why-stablecoins-swift-may-have-coexist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Remittance firms are using crypto to bypass parts of traditional settlement infrastructure, but this does not mean SWIFT is disappearing.",
       "date": "2026-05-06T13:47:13.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Samsung SDS wins deal to build South Korea’s blockchain securities system: Report",
-      "link": "https://cointelegraph.com/news/samsung-sds-to-build-token-securities-platform-for-korea-securities-depository?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Korea Securities Depository platform is expected to launch by February 2027, aligning with South Korea’s incoming security token regulations.",
-      "date": "2026-05-06T13:20:50.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Zcash price may hit $800 as $2.7B hedge fund reveals ‘significant position’ in ZEC",
-      "link": "https://cointelegraph.com/markets/zcash-price-eyes-40-rally-as-27b-hedge-fund-reveals-significant-position-in-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Robinhood’s ZEC listing, easing US–Iran tensions and a shrinking liquid supply of tokens are further strengthening the bullish outlook for Zcash in the coming weeks.",
-      "date": "2026-05-06T13:17:53.000Z",
       "termBoost": 0
     },
     {
