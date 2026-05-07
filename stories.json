@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-07T21:24:55.942Z",
+  "generatedAt": "2026-05-07T22:26:58.283Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 82,
+  "filteredOut": 83,
   "errors": [],
   "items": [
     {
@@ -41,6 +41,24 @@
       "link": "https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/",
       "desc": "After Bitcoin Core 0.14.0 and before Bitcoin Core 29.0, validating a specially-crafted block may cause the node to access previously freed memory. During validation, necessary data required for checking inputs for each transaction is pre-calculated and cached. For specially crafted invalid blocks, it was possible for this data to be destroyed while it was still being accessed by a background validation thread. An attacker capable of mining a block with sufficient proof-of-work could have exploited this to crash victim nodes. Because of the nature of use-after-free bugs, it is possible that the crash could have been used for remote code execution, though constraints on the input (block) data make this unlikely. This issue is considered High severity. Details By default, script validation for new blocks is dispatched to background threads via a vector of CScriptCheck functors. Each CScriptCheck holds a pointer to a PrecomputedTransactionData object which stores some data needed by each input in the transaction. Because it stores a pointer and not the data itself, care must be taken to ensure that the PrecomputedTransactionData outlives the CScriptCheck. The script checks lifetime is enforced by an RAII class, CCheckQueueControl. However, the control is intantiated before the precomputed transaction data. Because local objects in C++ are destructed in reverse order of construction, this means the vector of PrecomputedTransactionData is destroyed before the CCheckQueueControl. This is not an issue when the block is valid, as CCheckQueueControl::Wait() will be called before the function returns and the PrecomputedTransactionData gets destroyed. However, in case of an early return (when a separate check fails) a background script thread may read the precomputed transaction data after it was destroyed. An attacker could exploit this to crash victim nodes at the expense of a valid PoW at tip. Attribution Cory Fields (MIT DCI) discovered this vulnerability and responsibly disclosed it in a detailed report containing a proof of concept for reproduction and a proposed mitigation. Timeline 2024-11-02 Cory Fields privately reports the bug 2024-11-06 Pieter Wuille pushes a covert fix to already open PR #31112 which works around the issue by removing the early returns 2024-12-03 PR #31112 is merged 2025-04-12 Bitcoin Core version 29.0 is released with a fix 2026-04-19 The last vulnerable Bitcoin Core version (28.x) goes end of life 2026-05-05 Public disclosure.",
       "date": "2026-05-05T04:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Coinbax wins $20,000 PitchFest prize at Consensus Miami for stablecoin compliance",
+      "link": "https://www.coindesk.com/business/2026/05/07/coinbax-wins-usd20-000-pitchfest-prize-at-consensus-miami-for-stablecoin-compliance",
+      "desc": "Coinbax took the top spot at Consensus Miami with software built to add compliance controls to onchain payments.",
+      "date": "2026-05-07T21:35:01.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Coinbase Shares Slide as Crypto Giant Reports $394 Million Q1 Loss",
+      "link": "https://decrypt.co/367216/coinbase-shares-slide-crypto-giant-reports-394-million-q1-loss",
+      "desc": "Crypto exchange Coinbase reported a consecutive quarterly loss as transaction revenue plummeted 40% amid a volatile market.",
+      "date": "2026-05-07T21:24:36.000Z",
       "termBoost": 0
     },
     {
@@ -206,21 +224,21 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "date": "2026-05-07T15:45:00.000Z",
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "JPMorgan says Strategy’s bitcoin buying could reach $30 billion this year at current pace",
       "link": "https://www.theblock.co/post/400443/jpmorgan-strategy-bitcoin-buying-30-billion-mstr?utm_source=rss&utm_medium=rss",
       "desc": "Michael Saylor's Strategy has added 145,834 bitcoin worth around $11 billion so far this year, JPMorgan analysts noted.",
       "date": "2026-05-07T15:39:42.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "date": "2026-05-07T15:38:23.000Z",
       "termBoost": 0
     },
     {
@@ -316,7 +334,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Aave to overhaul collateral and listing standards after KelpDAO exploit",
+      "title": "Aave to expand collateral and listing standards after KelpDAO exploit",
       "link": "https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit",
       "desc": "The lending giant is expanding its asset listing criteria beyond financial risk to include cybersecurity and architecture, and wants the rest of DeFi to follow.",
       "date": "2026-05-07T14:27:54.000Z",
@@ -485,15 +503,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin treasury firms outline $3 trillion opportunity in BTC-backed digital credit at Consensus",
-      "link": "https://www.coindesk.com/markets/2026/05/07/bitcoin-treasury-firms-outline-usd3-trillion-opportunity-in-btc-backed-digital-credit-at-consensus",
-      "desc": "Bitcoin-backed “digital credit” is scaling fast, with executives pointing to a $3 trillion long-term opportunity.",
-      "date": "2026-05-07T12:25:47.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Kraken co-CEO says tokenized equities won’t ‘open the floodgates’ for institutions overnight",
@@ -629,15 +638,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Aave liquidates Kelp DAO hacker's rsETH positions on Ethereum, Arbitrum",
-      "link": "https://cointelegraph.com/news/aave-liquidates-kelp-dao-hackers-rseth-stash-ethereum-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Galaxy Digital’s Thaddeus Pinakiewicz noted that Aave is now only 10% short of recovering from the bad debt that hit its lending protocol after the Kelp DAO hack.",
-      "date": "2026-05-07T05:08:55.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Why eBay Should Ignore GameStop and Use Bitcoin to Save $1.2 Billion in Transaction Costs",
@@ -698,15 +698,6 @@
       "link": "https://thedefiant.io/news/markets/bitcoin-hits-3-month-high-as-iran-truce-holds",
       "desc": "BTC hit an intraday high of $82,800, even as Strategy's chairman opened the door to selling Bitcoin to fund preferred dividends.",
       "date": "2026-05-06T16:58:43.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Reform UK’s Farage Claims 'No Obligation' to Declare Tether Billionaire's $6.7M Gift",
-      "link": "https://decrypt.co/366973/reform-uks-farage-claims-no-obligation-to-declare-tether-billionaires-6-7m-gift",
-      "desc": "Farage insisted that the gift from Christopher Harborne was for his personal security and had been reviewed “from every legal angle.”",
-      "date": "2026-05-06T15:38:53.000Z",
       "termBoost": 0
     },
     {
