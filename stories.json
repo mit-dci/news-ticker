@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-07T13:39:33.815Z",
+  "generatedAt": "2026-05-07T14:59:11.977Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 68,
+  "filteredOut": 70,
   "errors": [],
   "items": [
     {
@@ -16,32 +16,12 @@
       "termBoost": 3
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin’s post-quantum migration will be harder than Taproot and needs to start now, Project Eleven CEO says",
-      "link": "https://www.coindesk.com/tech/2026/05/06/bitcoin-s-post-quantum-migration-will-be-harder-than-taproot-and-needs-to-start-now-project-eleven-ceo-says",
-      "desc": "Alex Pruden said the asymmetry between acting on a post-quantum signature scheme today and waiting for certainty about quantum-computing hardware timelines means Bitcoin developers should move from research into production.",
-      "date": "2026-05-06T22:14:16.000Z",
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin, Ethereum 'Q-Day' Quantum Threat Could Arrive as Soon as 2030: Report",
       "link": "https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030",
       "desc": "By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.",
       "date": "2026-05-06T21:07:08.000Z",
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Project Eleven warns quantum moment could hit ‘all at once,’ pegs Q-Day as early as 2030",
-      "link": "https://www.theblock.co/post/400274/project-eleven-warns-quantum-moment-all-at-once-q-day-early-2030?utm_source=rss&utm_medium=rss",
-      "desc": "Roughly 6.9 million BTC could be at risk to quantum computers under certain conditions, Project Eleven estimates.",
-      "date": "2026-05-06T18:03:13.000Z",
       "priorityTerm": true,
       "termBoost": 3
     },
@@ -64,12 +44,102 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Aave to overhaul collateral and listing standards after KelpDAO exploit",
+      "link": "https://www.coindesk.com/business/2026/05/07/aave-to-overhaul-collateral-and-listing-standards-after-kelpdao-exploit",
+      "desc": "The lending giant is expanding its asset listing criteria beyond financial risk to include cybersecurity and architecture, and wants the rest of DeFi to follow.",
+      "date": "2026-05-07T14:27:54.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "South Korea Ordains Robot Monk Ahead of Buddha’s Birthday",
+      "link": "https://decrypt.co/367064/south-korea-ordains-robot-monk-buddha-birthday",
+      "desc": "A Unitree Robotics humanoid joins the Jogye Order, South Korea's largest Buddhist sect.",
+      "date": "2026-05-07T14:11:17.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin tests Bollinger Bands breakout as creator flips bullish on BTC",
+      "link": "https://www.coindesk.com/markets/2026/05/07/bitcoin-tests-bollinger-bands-breakout-as-creator-flips-bullish-on-btc",
+      "desc": "A related MVRV indicator hit overheated levels last seen before bitcoin's late-2024 push to $100,000.",
+      "date": "2026-05-07T14:09:01.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Kraken's Parent Company Acquires Stablecoin Payments Firm Reap for $600M",
+      "link": "https://thedefiant.io/news/cefi/kraken-parent-payward-acquires-hong-kong-payments-firm-reap-for-usd600m",
+      "desc": "The deal is payable in cash and stock and values Payward at $20 billion.",
+      "date": "2026-05-07T14:05:06.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation & DMND Join Stratum v2 Working Group",
+      "link": "https://bitcoinmagazine.com/news/antpool-block-inc-f2pool-foundry-spiderpool-dmnd-join-stratum-v2-working-group",
+      "desc": "Bitcoin Magazine ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation & DMND Join Stratum v2 Working Group Stratum v2 Working Group announces new cohort of members, including ANTPOOL, Foundry, and others. This post ANTPOOL, Block Inc, F2Pool, Foundry, Spiderpool, MARA Foundation & DMND Join Stratum v2 Working Group first appeared on Bitcoin Magazine and is written by Shinobi.",
+      "date": "2026-05-07T14:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "'JaredfromSubway' bot front runs Vitalik Buterin's $4 token swap with $1 million in volume",
+      "link": "https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume",
+      "desc": "The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.",
+      "date": "2026-05-07T13:58:56.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitwise to take over Superstate’s $267 million tokenized Crypto Carry Fund",
+      "link": "https://www.theblock.co/post/400415/bitwise-to-takeover-superstates-267-million-tokenized-crypto-carry-fund?utm_source=rss&utm_medium=rss",
+      "desc": "USCC will be renamed the Bitwise Crypto Carry Fund while keeping the same ticker, smart contracts, and token address.",
+      "date": "2026-05-07T13:55:43.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Kraken Parent Acquires Asian Stablecoin Firm Reap for $600 Million: Bloomberg",
+      "link": "https://decrypt.co/367094/kraken-parent-acquires-asian-stablecoin-firm-reap-600-million",
+      "desc": "The deal marks Kraken's largest acquisition as it pushes into Asian cross-border payments through stablecoin infrastructure.",
+      "date": "2026-05-07T13:48:34.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "South Korea confirms 22% crypto tax starting January 2027: Report",
+      "link": "https://cointelegraph.com/news/south-korea-confirms-22-crypto-tax-will-go-ahead-in-january-2027-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "South Korea’s Finance Ministry has reportedly confirmed for the first time that a 22% tax on crypto gains will proceed as scheduled in January 2027.",
+      "date": "2026-05-07T13:41:37.000Z",
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Kraken parent Payward to acquire Hong Kong stablecoin firm Reap for $600 million",
       "link": "https://www.theblock.co/post/400407/kraken-parent-payward-to-acquire-hong-kong-stablecoin-firm-reap-for-600-million?utm_source=rss&utm_medium=rss",
       "desc": "Kraken parent Payward agreed to buy Hong Kong stablecoin payments firm Reap Technologies for $600 million in another acquisition.",
       "date": "2026-05-07T13:26:29.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Consensus Miami Day 3: Real-time coverage and highlights from on the ground",
+      "link": "https://www.coindesk.com/markets/2026/05/07/consensus-miami-day-3-real-time-coverage-and-highlights-from-on-the-ground",
+      "desc": "It's day three of Consensus Miami 2026 on Thursday. Stay tuned for updates throughout the day.",
+      "date": "2026-05-07T13:21:13.000Z",
       "termBoost": 0
     },
     {
@@ -460,39 +530,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Wall Street's clearinghouse seeks 'high-performance' blockchains to tokenize corporate actions",
-      "link": "https://www.coindesk.com/business/2026/05/06/wall-street-s-clearinghouse-seeks-high-performance-blockchains-to-tokenize-corporate-actions",
-      "desc": "DTCC CEO Frank La Salla said the clearing giant is working with layer-1 blockchains to bring millions in corporate actions like dividend payments onchain, but challenges remain.",
-      "date": "2026-05-06T22:29:43.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto’s mainstream moment has arrived, say industry leaders speaking at Consensus Miami",
-      "link": "https://www.coindesk.com/business/2026/05/06/crypto-s-mainstream-moment-has-arrived-say-industry-leaders-speaking-at-consensus-miami",
-      "desc": "Executives from Binance, Revolut and Circle say crypto is evolving beyond speculation into the financial infrastructure powering payments, remittances and broader global access.",
-      "date": "2026-05-06T22:17:22.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin market dominance moves above 61%: Will altcoins follow?",
       "link": "https://cointelegraph.com/markets/bitcoin-market-dominance-moves-above-61-will-altcoins-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin's market dominance climbed above 61% as BTC led crypto market flows. Data also showed Binance-listed altcoins' share of volume hitting 49% in March.",
       "date": "2026-05-06T22:00:25.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Spot Bitcoin ETFs solved access, but custody, advisors and plumbing still lag, panelists say",
-      "link": "https://www.coindesk.com/business/2026/05/06/spot-bitcoin-etfs-solved-access-but-custody-advisors-and-plumbing-still-lag-panelists-say",
-      "desc": "Senior figures from CoinShares, Calamos, ProShares and Flow Traders flagged Coinbase-heavy custody concentration, modest advisor uptake and creation-flow inefficiency as being among the next set of problems to solve.",
-      "date": "2026-05-06T21:57:41.000Z",
       "termBoost": 0
     },
     {
@@ -577,15 +620,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ripple, JPMorgan and others use XRP Ledger to cash out tokenized Treasurys fund internationally",
-      "link": "https://www.theblock.co/post/400281/ripple-jpmorgan-xrp-ledger-transfer-tokenized-treasury-across-borders?utm_source=rss&utm_medium=rss",
-      "desc": "The transaction represents an example of crypto firms and Wall Street institutions jointly exploring 24/7 settlement systems.",
-      "date": "2026-05-06T17:41:29.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Switzerland's Amina becomes first regulated bank to custody Canton Coin",
@@ -658,24 +692,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "OpenTrade raises $17M as CEO sees stablecoin yield tailwinds",
-      "link": "https://cointelegraph.com/news/opentrade-17-million-raise-stablecoin-yield-ceo-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "OpenTrade raised $17 million to expand its stablecoin yield platform, bringing total funding above $30 million as it scales stablecoin yield infrastructure for global clients.",
-      "date": "2026-05-06T14:00:00.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Why stablecoins and SWIFT may have to coexist",
-      "link": "https://cointelegraph.com/features/why-stablecoins-swift-may-have-coexist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Remittance firms are using crypto to bypass parts of traditional settlement infrastructure, but this does not mean SWIFT is disappearing.",
-      "date": "2026-05-06T13:47:13.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Morning Minute: Crypto Majors Rally, Oil Falls on Renewed Peace Hopes",
@@ -727,24 +743,6 @@
       "link": "https://decrypt.co/366894/cme-launch-bitcoin-volatility-futures-independent-btc-price",
       "desc": "CME's upcoming futures product will track whether the market thinks the price of Bitcoin is about to swing wildly or stay steady.",
       "date": "2026-05-05T22:01:02.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "How Solana Exchange Drift Plans to Repay Users After $295 Million Crypto Hack",
-      "link": "https://decrypt.co/366897/how-solana-exchange-drift-repay-users-295-million-crypto-hack",
-      "desc": "Solana's Drift Protocol says most of the stolen funds linked to North Korean hackers remain traceable—and it has a plan to make victims whole.",
-      "date": "2026-05-05T21:25:23.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Strategy Posts $12.5 Billion Q1 Loss as Bitcoin Slump Hammers Massive Holdings",
-      "link": "https://decrypt.co/366882/strategy-posts-12-5-billion-q1-loss-bitcoin-slump-hammers-holdings",
-      "desc": "Michael Saylor’s Strategy continues to bet big on Bitcoin even as falling prices deliver a punishing quarter for the treasury giant.",
-      "date": "2026-05-05T20:42:57.000Z",
       "termBoost": 0
     },
     {
@@ -844,24 +842,6 @@
       "link": "https://bitcoinmagazine.com/news/sequans-sells-half-its-bitcoin-holdings",
       "desc": "Bitcoin Magazine Sequans Sells Half Its Bitcoin Holdings as Revenue Falls and Losses Mount Sequans Communications sold 1,025 bitcoin during the first quarter of 2026, cutting its digital asset reserves nearly in half. This post Sequans Sells Half Its Bitcoin Holdings as Revenue Falls and Losses Mount first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-05-05T15:03:17.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Stellar Gets Its First Regulated, Yield-Bearing Stablecoin with YLDS Launch",
-      "link": "https://thedefiant.io/news/defi/figure-ylds-launches-on-stellar",
-      "desc": "YLDS is an SEC-registered, USD-pegged stable asset from Figure.",
-      "date": "2026-05-05T14:30:00.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Kraken Partners With MoneyGram to Enable Crypto Cash-Outs at 500,000 Locations Worldwide",
-      "link": "https://bitcoinmagazine.com/news/kraken-partners-with-moneygram",
-      "desc": "Bitcoin Magazine Kraken Partners With MoneyGram to Enable Crypto Cash-Outs at 500,000 Locations Worldwide Kraken will let users convert crypto into cash at MoneyGram locations across more than 100 countries, expanding access between digital assets and physical cash networks. This post Kraken Partners With MoneyGram to Enable Crypto Cash-Outs at 500,000 Locations Worldwide first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-05-05T14:16:49.000Z",
       "termBoost": 0
     },
     {
