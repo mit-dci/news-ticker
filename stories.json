@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T14:59:11.977Z",
+  "generatedAt": "2026-05-07T15:52:26.841Z",
   "sourceCount": 9,
   "successCount": 9,
   "filteredOut": 70,
@@ -41,6 +41,78 @@
       "link": "https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/",
       "desc": "After Bitcoin Core 0.14.0 and before Bitcoin Core 29.0, validating a specially-crafted block may cause the node to access previously freed memory. During validation, necessary data required for checking inputs for each transaction is pre-calculated and cached. For specially crafted invalid blocks, it was possible for this data to be destroyed while it was still being accessed by a background validation thread. An attacker capable of mining a block with sufficient proof-of-work could have exploited this to crash victim nodes. Because of the nature of use-after-free bugs, it is possible that the crash could have been used for remote code execution, though constraints on the input (block) data make this unlikely. This issue is considered High severity. Details By default, script validation for new blocks is dispatched to background threads via a vector of CScriptCheck functors. Each CScriptCheck holds a pointer to a PrecomputedTransactionData object which stores some data needed by each input in the transaction. Because it stores a pointer and not the data itself, care must be taken to ensure that the PrecomputedTransactionData outlives the CScriptCheck. The script checks lifetime is enforced by an RAII class, CCheckQueueControl. However, the control is intantiated before the precomputed transaction data. Because local objects in C++ are destructed in reverse order of construction, this means the vector of PrecomputedTransactionData is destroyed before the CCheckQueueControl. This is not an issue when the block is valid, as CCheckQueueControl::Wait() will be called before the function returns and the PrecomputedTransactionData gets destroyed. However, in case of an early return (when a separate check fails) a background script thread may read the precomputed transaction data after it was destroyed. An attacker could exploit this to crash victim nodes at the expense of a valid PoW at tip. Attribution Cory Fields (MIT DCI) discovered this vulnerability and responsibly disclosed it in a detailed report containing a proof of concept for reproduction and a proposed mitigation. Timeline 2024-11-02 Cory Fields privately reports the bug 2024-11-06 Pieter Wuille pushes a covert fix to already open PR #31112 which works around the issue by removing the early returns 2024-12-03 PR #31112 is merged 2025-04-12 Bitcoin Core version 29.0 is released with a fix 2026-04-19 The last vulnerable Bitcoin Core version (28.x) goes end of life 2026-05-05 Public disclosure.",
       "date": "2026-05-05T04:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "JPMorgan says Strategy’s bitcoin buying could reach $30 billion this year at current pace",
+      "link": "https://www.theblock.co/post/400443/jpmorgan-strategy-bitcoin-buying-30-billion-mstr?utm_source=rss&utm_medium=rss",
+      "desc": "Michael Saylor's Strategy has added 145,834 bitcoin worth around $11 billion so far this year, JPMorgan analysts noted.",
+      "date": "2026-05-07T15:39:42.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Crypto Markets Slide While S& P 500 Notches Fresh Record on Iran Peace Hopes",
+      "link": "https://thedefiant.io/news/markets/crypto-markets-slide-while-s-and-p-500-notches-fresh-record-on-iran-peace-hopes",
+      "desc": "Strategy's Q1 earnings call signaled a departure from Saylor's \"never sell\" mantra, with Bitcoin slipping below $81,000 in the aftermath.",
+      "date": "2026-05-07T15:20:13.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Crypto ETF boom continues with debut of first fund to track Canton",
+      "link": "https://www.theblock.co/post/400436/crypto-etf-boom-continues-with-debut-of-first-fund-to-track-canton?utm_source=rss&utm_medium=rss",
+      "desc": "A new crypto exchange-traded fund has entered the chat — the 21shares Canton Network ETF made its debut on Nasdaq Thursday.",
+      "date": "2026-05-07T15:02:38.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Kraken parent Payward to buy Reap in $600M stablecoin payments push",
+      "link": "https://cointelegraph.com/news/kraken-payward-reap-acquisition-600-million-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Kraken parent Payward agreed to buy Hong Kong-based Reap for up to $600 million, adding card issuance and stablecoin payment capabilities to its new B2B platform.",
+      "date": "2026-05-07T15:00:08.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto for Advisors: beneath the crypto surface",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/05/06/crypto-for-advisors-beneath-the-crypto-surface",
+      "desc": "Beneath the stalled market, advisors and long-term investors are quietly building durable crypto allocations and are becoming more comfortable investing in this asset class.",
+      "date": "2026-05-07T15:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The $700 million migration: Why Solv Protocol is ditching LayerZero for Chainlink",
+      "link": "https://www.coindesk.com/business/2026/05/07/solv-drops-layerzero-for-chainlink-ccip-in-usd700-million-tokenized-bitcoin-migration",
+      "desc": "The combined migrations by Solv and Kelp shift nearly $1 billion in assets to Chainlink's CCIP, reflecting an industry \"flight to quality.\"",
+      "date": "2026-05-07T14:59:11.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Polygon reduces block time to 1.75 seconds as payments push accelerates",
+      "link": "https://cointelegraph.com/news/polygon-reduces-block-production-time-175-second?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Polygon delivered its first block time reduction upgrade since genesis, as the network seeks to position for more high-frequency applications such as private stablecoin payments.",
+      "date": "2026-05-07T14:49:54.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "XRP 'probably going to $12' as price holds historical bottom zone for months",
+      "link": "https://cointelegraph.com/markets/xrp-probably-going-to-12-dollars-price-holds-bottom-for-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "XRP is retesting a key multi-year support zone that has historically preceded major rebounds, with analysts predicting a rally toward $12 if the level holds.",
+      "date": "2026-05-07T14:46:55.000Z",
       "termBoost": 0
     },
     {
@@ -512,24 +584,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Grant Cardone says bitcoin-real estate strategy could outperform REITs, adds more BTC to treasury",
-      "link": "https://www.coindesk.com/business/2026/05/06/bitcoin-real-estate-strategy-could-outperform-reits-says-grant-cardone-he-adds-btc-to-treasury",
-      "desc": "The real-estate mogul said the hybrid model brings new users into crypto and challenges traditional real estate structures.",
-      "date": "2026-05-06T22:32:30.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Nasdaq's president says the SEC’s new crypto stance is letting markets 'build' again",
-      "link": "https://www.coindesk.com/policy/2026/05/06/nasdaq-s-president-says-the-sec-s-new-crypto-stance-is-letting-markets-build-again",
-      "desc": "Nasdaq’s Tal Cohen said a friendlier SEC is giving crypto firms and exchanges room to experiment with tokenization and digital market infrastructure.",
-      "date": "2026-05-06T22:31:09.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin market dominance moves above 61%: Will altcoins follow?",
@@ -557,39 +611,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Aave liquidates Kelp DAO attacker’s remaining rsETH positions",
-      "link": "https://www.theblock.co/post/400315/aave-liquidates-kelp-dao-attackers-remaining-rseth-positions?utm_source=rss&utm_medium=rss",
-      "desc": "Aave required a governance process to manipulate its rsETH oracle price to generate a deficit in the attacker’s fraudulent position.",
-      "date": "2026-05-06T20:31:29.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin whales on Hyperliquid push net long positions to 2026 high",
-      "link": "https://www.theblock.co/post/400302/bitcoin-whales-hyperliquid-net-long-positions-2026-high?utm_source=rss&utm_medium=rss",
-      "desc": "Glassnode posted a chart indicating that whales have been aggressively increasing their cumulative long positions in recent weeks.",
-      "date": "2026-05-06T20:05:58.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Gnosis Treasury Redemption Vote Swings as Whale Counters Cofounder",
       "link": "https://thedefiant.io/news/defi/gnosis-treasury-redemption-vote-swings-as-whale-counters-cofounder",
       "desc": "Votes in favor of a redemption proposal that would let GNO holders claim roughly $170 per token from a $223M treasury have retaken the lead on Snapshot.",
       "date": "2026-05-06T19:56:51.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "VanEck says Bitcoin could hit $1 million in five years, likens adoption to video games",
-      "link": "https://www.theblock.co/post/400299/vaneck-bitcoin-1-million-five-years-adoption-video-games?utm_source=rss&utm_medium=rss",
-      "desc": "The firm's head of digital assets research compared bitcoin adoption to different demographics embracing video games.",
-      "date": "2026-05-06T19:49:50.000Z",
       "termBoost": 0
     },
     {
@@ -647,39 +674,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
-      "date": "2026-05-06T16:01:00.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Reform UK’s Farage Claims 'No Obligation' to Declare Tether Billionaire's $6.7M Gift",
       "link": "https://decrypt.co/366973/reform-uks-farage-claims-no-obligation-to-declare-tether-billionaires-6-7m-gift",
       "desc": "Farage insisted that the gift from Christopher Harborne was for his personal security and had been reviewed “from every legal angle.”",
       "date": "2026-05-06T15:38:53.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Morgan Stanley takes on crypto trading rivals with E*Trade pilot",
-      "link": "https://cointelegraph.com/news/morgan-stanley-emerges-as-crypto-exchange-competitor-with-low-fee-trading-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Wall Street bank is charging 50 basis points per crypto trade, below basic retail pricing at Coinbase, Robinhood and Charles Schwab.",
-      "date": "2026-05-06T15:08:47.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Stablecoin industry opposes Bank of England’s unhosted wallet ban",
-      "link": "https://cointelegraph.com/features/stablecoin-industry-opposes-bank-of-englands-unhosted-wallet-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The crypto industry in the UK has come out against the Bank of England’s proposed policy that would ban custodial wallets for stablecoins.",
-      "date": "2026-05-06T14:55:00.000Z",
       "termBoost": 0
     },
     {
@@ -833,15 +833,6 @@
       "link": "https://thedefiant.io/news/defi/drift-sets-out-token-based-recovery-framework-for-usd295m-april-exploit",
       "desc": "The Solana-based perpetuals exchange will issue burn-on-redeem recovery tokens funded by exchange revenue, a $127.5M Tether commitment, and another $20M from partners.",
       "date": "2026-05-05T16:29:00.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Sequans Sells Half Its Bitcoin Holdings as Revenue Falls and Losses Mount",
-      "link": "https://bitcoinmagazine.com/news/sequans-sells-half-its-bitcoin-holdings",
-      "desc": "Bitcoin Magazine Sequans Sells Half Its Bitcoin Holdings as Revenue Falls and Losses Mount Sequans Communications sold 1,025 bitcoin during the first quarter of 2026, cutting its digital asset reserves nearly in half. This post Sequans Sells Half Its Bitcoin Holdings as Revenue Falls and Losses Mount first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-05-05T15:03:17.000Z",
       "termBoost": 0
     },
     {
