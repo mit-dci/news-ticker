@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-05-08T06:42:57.057Z",
+  "generatedAt": "2026-05-08T07:37:02.560Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 81,
+  "filteredOut": 80,
   "errors": [],
   "items": [
+    {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #404",
+      "link": "https://bitcoinops.org/en/newsletters/2026/05/08/",
+      "desc": "This week’s newsletter describes possible solutions to node fingerprinting and links to discussion of using public fraud proofs to improve incentives around just-in-time channels. Also included are our regular sections describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-05-08T00:00:00.000Z",
+      "termBoost": 0
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -14,6 +23,33 @@
       "date": "2026-05-06T21:07:08.000Z",
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Arbitrum DAO approves $70 million ETH release for Kelp DAO recovery",
+      "link": "https://www.theblock.co/post/400527/arbitrum-dao-approves-eth-release?utm_source=rss&utm_medium=rss",
+      "desc": "However, a May 1 court order restricted Arbitrum DAO from moving the recovered funds, prompting Aave to file an emergency motion against it.",
+      "date": "2026-05-08T07:25:40.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Consensus panelists explain why Perp DEXes remain a tough sell for institutional investors",
+      "link": "https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why",
+      "desc": "Panelists at Consensus Miami said institutional investors are still largely absent from perp DEXs, citing security risks and KYC friction as key barriers.",
+      "date": "2026-05-08T06:44:34.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "AWS Northern Virginia data center overheats, impacting Coinbase",
+      "link": "https://cointelegraph.com/news/aws-data-center-overheating-impacting-coinbase-others?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Coinbase said on Friday its markets are being placed in “cancel only” mode but will begin to re-enable trading “shortly.”",
+      "date": "2026-05-08T06:25:52.000Z",
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -115,6 +151,15 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin exchange reserves fall to two-year low after $8B exodus",
+      "link": "https://cointelegraph.com/markets/8b-bitcoin-exodus-drains-exchange-reserves-to-multi-year-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Nearly 100,000 Bitcoin exited major exchanges as OTC balances tightened and demand from accumulator addresses increased by 60%, pointing to reduced liquid supply.",
+      "date": "2026-05-07T21:52:34.000Z",
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Coinbax wins $20,000 PitchFest prize at Consensus Miami for stablecoin compliance",
@@ -180,7 +225,7 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin falls under $80K but four-month high in weekly BTC ETF inflows may curb selling",
+      "title": "Bitcoin slips below $80K despite BTC ETF inflows topping $1B",
       "link": "https://cointelegraph.com/markets/bitcoin-slips-below-80k-while-weekly-etf-inflows-hit-january-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin hit resistance at $82,800, triggering a drop below $80,000, but a $1.105 billion weekly inflow into spot BTC ETFs could slow sellers.",
       "date": "2026-05-07T20:05:09.000Z",
@@ -360,7 +405,7 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Kraken parent Payward to buy Reap in $600M stablecoin payments push",
+      "title": "Kraken parent Payward to buy Reap in $600 million stablecoin payments push",
       "link": "https://cointelegraph.com/news/kraken-payward-reap-acquisition-600-million-asia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Kraken parent Payward agreed to buy Hong Kong-based Reap for up to $600 million, adding card issuance and stablecoin payment capabilities to its new B2B platform.",
       "date": "2026-05-07T15:00:08.000Z",
@@ -391,15 +436,6 @@
       "link": "https://cointelegraph.com/news/polygon-reduces-block-production-time-175-second?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Polygon delivered its first block time reduction upgrade since genesis, as the network seeks to position for more high-frequency applications such as private stablecoin payments.",
       "date": "2026-05-07T14:49:54.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "XRP 'probably going to $12' as price holds historical bottom zone for months",
-      "link": "https://cointelegraph.com/markets/xrp-probably-going-to-12-dollars-price-holds-bottom-for-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "XRP is retesting a key multi-year support zone that has historically preceded major rebounds, with analysts predicting a rally toward $12 if the level holds.",
-      "date": "2026-05-07T14:46:55.000Z",
       "termBoost": 0
     },
     {
@@ -479,7 +515,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "South Korea confirms 22% crypto tax starting January 2027: Report",
       "link": "https://cointelegraph.com/news/south-korea-confirms-22-crypto-tax-will-go-ahead-in-january-2027-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "South Korea’s Finance Ministry has reportedly confirmed for the first time that a 22% tax on crypto gains will proceed as scheduled in January 2027.",
+      "desc": "A South Korean Finance Ministry official reportedly said the long-delayed 22% tax on crypto gains will proceed in January 2027 after years of delays.",
       "date": "2026-05-07T13:41:37.000Z",
       "termBoost": 0
     },
@@ -520,15 +556,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitwise enters tokenization in takeover of Superstate’s $267 million 'carry fund'",
-      "link": "https://www.coindesk.com/markets/2026/05/07/bitwise-expands-into-tokenized-funds-with-planned-takeover-of-superstate-s-uscc-fund",
-      "desc": "The crypto asset manager will take over Superstate’s $267 million USCC fund as tokenized investment products gain traction with institutions.",
-      "date": "2026-05-07T13:00:00.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin ETFs Post 5-Week Buying Streak as Hedges Unwind, Institutional Appetite Returns",
@@ -549,7 +576,7 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin analysts say this level must break for BTC price to confirm bottom",
+      "title": "Bitcoin must clear $88K to confirm bottom, analysts say",
       "link": "https://cointelegraph.com/markets/bitcoin-analysts-say-this-level-must-break-btc-price-confirm-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "A slowdown in profit-taking and reclaiming $88,000 as support are prerequisites for BTC to confirm cycle bottom.",
       "date": "2026-05-07T12:26:09.000Z",
@@ -634,24 +661,6 @@
       "link": "https://decrypt.co/367066/hardware-wallet-thief-gets-78-months-in-prison-over-250m-crypto-heist",
       "desc": "‘GothFerrari’ was sentenced for his part in a criminal enterprise that stole crypto through social engineering and physical break-ins.",
       "date": "2026-05-07T09:42:17.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BNY eyes institutional Bitcoin, Ethereum custody for investors in UAE",
-      "link": "https://cointelegraph.com/news/bny-to-launch-institutional-bitcoin-ethereum-custody-for-investors-in-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "BNY is partnering with Finstreet and ADI Foundation to offer regulated Bitcoin and Ethereum custody to UAE clients from the Abu Dhabi Global Market.",
-      "date": "2026-05-07T09:17:43.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bithumb enters Vietnam crypto license race with SSI Digital deal",
-      "link": "https://cointelegraph.com/news/bithumb-moves-vietnams-crypto-exchange-race-ssi-digital-tie-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bithumb’s tie-up with SSI Digital positions it for Vietnam’s strict crypto exchange pilot as competition for scarce licenses heats up and scrutiny mounts at home.",
-      "date": "2026-05-07T08:58:53.000Z",
       "termBoost": 0
     },
     {
