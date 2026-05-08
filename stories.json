@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-05-08T08:38:09.219Z",
+  "generatedAt": "2026-05-08T09:38:44.895Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 81,
+  "filteredOut": 82,
   "errors": [],
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Zcash to roll out quantum-recoverable wallets within a month, go quantum-proof by 2027",
+      "link": "https://www.coindesk.com/tech/2026/05/08/zcash-to-roll-out-quantum-recoverable-wallets-within-a-month-go-quantum-proof-by-2027",
+      "desc": "Bitcoin no longer holds up as the cypherpunk-grade money it was meant to be, Zcash's Zooko Wilcox told an engaged audience.",
+      "date": "2026-05-08T09:08:09.000Z",
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "bitcoinops",
       "sourceName": "BITCOIN OPTECH",
@@ -25,6 +35,42 @@
       "termBoost": 3
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "South Korea tightens oversight of firms moving crypto overseas: report",
+      "link": "https://www.theblock.co/post/400544/south-korea-tightens-oversight-of-firms-moving-crypto-overseas-report?utm_source=rss&utm_medium=rss",
+      "desc": "South Korean authorities are also planning to start imposing a 22% capital gains tax on crypto from January 2027.",
+      "date": "2026-05-08T09:02:02.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Arbitrum approves $71 Million ETH release despite U.S. seizure fight",
+      "link": "https://www.coindesk.com/markets/2026/05/08/arbitrum-approves-usd71-million-eth-release-despite-u-s-seizure-fight",
+      "desc": "DAO delegates approved releasing exploit-frozen ETH to an Aave-led recovery effort, though Arbitrum’s governance rules delay any transfer for at least eight days",
+      "date": "2026-05-08T08:59:21.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Coinbase resumes trading after hours of AWS-linked disruption",
+      "link": "https://www.theblock.co/post/400536/coinbase-resumes-trading-after-aws-linked-disruption?utm_source=rss&utm_medium=rss",
+      "desc": "Coinbase resumes trading after hours of AWS-linked disruption, restoring markets following 'Cancel Only' and auction-mode restrictions.",
+      "date": "2026-05-08T08:44:45.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Taiwan news anchor indicted for allegedly taking crypto payments from China to produce propaganda, bribe soldiers",
+      "link": "https://www.theblock.co/post/400533/taiwan-news-anchor-crypto-scandal?utm_source=rss&utm_medium=rss",
+      "desc": "Taiwan prosecutors indicted a news anchor for allegedly accepting crypto payments from an \"overseas hostile force\" to produce news shows.",
+      "date": "2026-05-08T08:38:29.000Z",
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "CLARITY Act support carries electoral boost, HarrisX poll finds",
@@ -36,9 +82,9 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "US sentences ‘laptop farmers’ who assisted North Korean IT workers",
+      "title": "US sentences ‘laptop farmers’ tied to North Korean IT worker scheme",
       "link": "https://cointelegraph.com/news/us-sentences-eight-in-five-months-laptop-farmers-north-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The US Justice Department said it recently secured two sentences against men hosting laptops for North Korean workers, marking a total of eight sentences in five months.",
+      "desc": "The Justice Department said two men were sentenced for hosting laptops used by North Korean IT workers, bringing the total to eight sentences in five months.",
       "date": "2026-05-08T07:31:46.000Z",
       "termBoost": 0
     },
@@ -74,7 +120,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "Chaos Labs says oracles secure after attempted ‘nation-state’ wallet attack",
       "link": "https://cointelegraph.com/news/chaos-labs-nation-state-wallet-attack-oracles-secure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Chaos Labs said on Thursday it has rotated all keys since the attempted attack over the weekend and hasn't detected any suspicious activity since.",
+      "desc": "Chaos Labs said it rotated all keys after the weekend attack attempt and has not detected further suspicious activity.",
       "date": "2026-05-08T05:16:42.000Z",
       "termBoost": 0
     },
@@ -475,15 +521,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin tests Bollinger Bands breakout as creator flips bullish on BTC",
-      "link": "https://www.coindesk.com/markets/2026/05/07/bitcoin-tests-bollinger-bands-breakout-as-creator-flips-bullish-on-btc",
-      "desc": "A related MVRV indicator hit overheated levels last seen before bitcoin's late-2024 push to $100,000.",
-      "date": "2026-05-07T14:09:01.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Kraken's Parent Company Acquires Stablecoin Payments Firm Reap for $600M",
@@ -502,24 +539,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "'JaredfromSubway' bot front runs Vitalik Buterin's $4 token swap with $1 million in volume",
-      "link": "https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume",
-      "desc": "The Ethereum co-founder, who has spent months campaigning against toxic MEV with proposals for encrypted mempools, just had one of his own swaps front-run and back-run by the network's most notorious sandwich bot.",
-      "date": "2026-05-07T13:58:56.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitwise to take over Superstate’s $267 million tokenized Crypto Carry Fund",
-      "link": "https://www.theblock.co/post/400415/bitwise-to-takeover-superstates-267-million-tokenized-crypto-carry-fund?utm_source=rss&utm_medium=rss",
-      "desc": "USCC will be renamed the Bitwise Crypto Carry Fund while keeping the same ticker, smart contracts, and token address.",
-      "date": "2026-05-07T13:55:43.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Kraken Parent Acquires Asian Stablecoin Firm Reap for $600 Million: Bloomberg",
@@ -535,33 +554,6 @@
       "link": "https://cointelegraph.com/news/south-korea-confirms-22-crypto-tax-will-go-ahead-in-january-2027-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "A South Korean Finance Ministry official reportedly said the long-delayed 22% tax on crypto gains will proceed in January 2027 after years of delays.",
       "date": "2026-05-07T13:41:37.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Kraken parent Payward to acquire Hong Kong stablecoin firm Reap for $600 million",
-      "link": "https://www.theblock.co/post/400407/kraken-parent-payward-to-acquire-hong-kong-stablecoin-firm-reap-for-600-million?utm_source=rss&utm_medium=rss",
-      "desc": "Kraken parent Payward agreed to buy Hong Kong stablecoin payments firm Reap Technologies for $600 million in another acquisition.",
-      "date": "2026-05-07T13:26:29.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Consensus Miami Day 3: Real-time coverage and highlights from on the ground",
-      "link": "https://www.coindesk.com/markets/2026/05/07/consensus-miami-day-3-real-time-coverage-and-highlights-from-on-the-ground",
-      "desc": "It's day three of Consensus Miami 2026 on Thursday. Stay tuned for updates throughout the day.",
-      "date": "2026-05-07T13:21:13.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Mysten Labs’ Abiodun says Sui processed over $1 trillion in stablecoin volume since August as it eyes free, private payments",
-      "link": "https://www.theblock.co/post/400396/mysten-labs-abiodun-says-sui-processed-over-1-trillion-in-stablecoin-volume-since-august-as-it-eyes-free-private-payments?utm_source=rss&utm_medium=rss",
-      "desc": "Sui processed over $1 trillion in stablecoin volume since August as Mysten Labs' Abiodun eyes a zero-fee and private payments rollout.",
-      "date": "2026-05-07T13:07:21.000Z",
       "termBoost": 0
     },
     {
