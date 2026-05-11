@@ -1,0 +1,51 @@
+# Copy this file and rename to the roundup date, e.g. 2026-05-15.yaml
+# Then fill in the stories below. Delete any sections you don't need.
+
+title: "Crypto News Roundup - Month Day, Year"
+date: YYYY-MM-DD
+author: William Peracchio
+
+sections:
+  - name: Top News
+    stories:
+      - title: "Headline here"
+        url: https://example.com/article
+        source: Source Name
+        summary: |
+          First bullet point.
+          Second bullet point.
+        see_also:
+          - title: "Related article title"
+            url: https://example.com/related
+
+  - name: Interviews / Podcasts / Top Thought Pieces
+    stories:
+      - title: "Headline here"
+        url: https://example.com/article
+        source: Source Name
+        summary: |
+          Key takeaway.
+
+  - name: US
+    stories:
+      - title: "Headline here"
+        url: https://example.com/article
+        source: Source Name
+        summary: |
+          Key takeaway.
+
+  - name: International
+    stories:
+      - title: "Headline here"
+        url: https://example.com/article
+        source: Source Name
+        summary: |
+          Key takeaway.
+
+  - name: Company Updates
+    stories:
+      - title: "Headline here"
+        url: https://example.com/article
+        source: Source Name
+        summary: |
+          Key takeaway.

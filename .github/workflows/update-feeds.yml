@@ -11,6 +11,11 @@ on:
     - cron: '0 0-13,21-23 * * *' # every hour overnight
   # Let you trigger a run manually from the Actions tab.
   workflow_dispatch:
+  # Rebuild feed.xml when curated roundups are pushed.
+  push:
+    paths:
+      - 'curated/**'
+      - 'scripts/build-feed.mjs'
 
 # Needed so the workflow can push the updated stories.json back to the repo.
 permissions:
@@ -35,17 +40,20 @@ jobs:
       - name: Fetch feeds
         run: node scripts/fetch-feeds.mjs
 
+      - name: Build curated feed
+        run: node scripts/build-feed.mjs
+
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Only commit if stories.json actually changed.
-          if git diff --quiet stories.json; then
-            echo "No changes to stories.json."
+          # Only commit if something actually changed.
+          if git diff --quiet stories.json feed.xml 2>/dev/null; then
+            echo "No changes."
             exit 0
           fi
 
-          git add stories.json
+          git add stories.json feed.xml
           git commit -m "chore: update feeds ($(date -u +'%Y-%m-%d %H:%M UTC'))"
           git push
