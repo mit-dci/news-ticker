@@ -34,7 +34,7 @@
     --red: #cc2200;
     --border: #ccc6b8;
     --card: #ede8dc;
-    --ticker-bg: #1a1710;
+    --ticker-bg: #ddd8cc;
     --scanline-color: rgba(0,0,0,0.03);
     --vignette-color: rgba(0,0,0,0.12);
   }
@@ -49,7 +49,7 @@
       --red: #cc2200;
       --border: #ccc6b8;
       --card: #ede8dc;
-      --ticker-bg: #1a1710;
+      --ticker-bg: #ddd8cc;
       --scanline-color: rgba(0,0,0,0.03);
       --vignette-color: rgba(0,0,0,0.12);
     }
@@ -140,12 +140,53 @@
     text-transform: uppercase;
     cursor: pointer;
     transition: all 0.15s;
+    text-decoration: none;
   }
   .btn:hover { color: var(--fg); border-color: var(--dim); }
   .btn.active {
     color: var(--bg);
     background: var(--amber);
     border-color: var(--amber);
+  }
+
+  .filters {
+    display: flex;
+    gap: 6px;
+    padding: 10px 24px;
+    background: var(--bg-2);
+    border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .filters .label {
+    color: var(--dim);
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-right: 6px;
+  }
+  .filter-btn {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--dim);
+    padding: 4px 10px;
+    font-family: inherit;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .filter-btn:hover { color: var(--fg); border-color: var(--dim); }
+  .filter-btn.active {
+    color: var(--bg);
+    background: var(--amber);
+    border-color: var(--amber);
+  }
+  .filter-btn .count-badge {
+    font-size: 9px;
+    opacity: 0.7;
+    margin-left: 4px;
   }
 
   .ticker-bar {
@@ -188,19 +229,19 @@
     align-items: center;
     padding: 0 22px;
     font-size: 14px;
-    color: #e8e4d4;
+    color: var(--fg);
     text-decoration: none;
   }
   .ticker-item:hover { color: var(--amber); }
   .ticker-item .src {
-    color: #33ff66;
+    color: var(--green);
     margin-right: 10px;
     font-weight: 700;
     font-size: 11px;
     letter-spacing: 1px;
   }
-  .ticker-item .sep { color: #7a8175; margin: 0 16px; }
-  .ticker-item .age { color: #7a8175; font-size: 11px; margin-left: 8px; }
+  .ticker-item .sep { color: var(--dim); margin: 0 16px; }
+  .ticker-item .age { color: var(--dim); font-size: 11px; margin-left: 8px; }
 
   /* ---- flash ticker (single-story scroll) ---- */
   .flash-bar {
@@ -227,20 +268,20 @@
     align-items: center;
     padding: 0 18px;
     font-size: 12px;
-    color: #e8e4d4;
+    color: var(--fg);
     text-decoration: none;
     white-space: nowrap;
   }
   .flash-item:hover { color: var(--amber); }
   .flash-item .src {
-    color: #33ff66;
+    color: var(--green);
     margin-right: 10px;
     font-weight: 700;
     font-size: 10px;
     letter-spacing: 1px;
   }
   .flash-item .desc { color: var(--dim); margin-left: 10px; font-size: 11px; }
-  .flash-item .age { color: #7a8175; font-size: 10px; margin-left: 8px; }
+  .flash-item .age { color: var(--dim); font-size: 10px; margin-left: 8px; }
 
   main {
     padding: 32px 24px 64px;
@@ -321,6 +362,35 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
+  .card .topics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-top: auto;
+  }
+  .topic-tag {
+    font-size: 9px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 2px 7px;
+    border: 1px solid var(--border);
+    color: var(--dim);
+    border-radius: 2px;
+  }
+  .topic-tag.bitcoin     { color: #f7931a; border-color: #f7931a; }
+  .topic-tag.stablecoins { color: #2775ca; border-color: #2775ca; }
+  .topic-tag.cbdc        { color: #8b5cf6; border-color: #8b5cf6; }
+  .topic-tag.tokenized   { color: #06b6d4; border-color: #06b6d4; }
+  .topic-tag.us          { color: #ef4444; border-color: #ef4444; }
+  .topic-tag.europe      { color: #3b82f6; border-color: #3b82f6; }
+  .topic-tag.china-hk    { color: #f59e0b; border-color: #f59e0b; }
+  .topic-tag.asia-pacific { color: #10b981; border-color: #10b981; }
+  .topic-tag.india       { color: #f97316; border-color: #f97316; }
+  .topic-tag.mena        { color: #a78bfa; border-color: #a78bfa; }
+  .topic-tag.africa      { color: #34d399; border-color: #34d399; }
+  .topic-tag.latam       { color: #fb923c; border-color: #fb923c; }
+  .topic-tag.intl-org    { color: #60a5fa; border-color: #60a5fa; }
+  .topic-tag.thought     { color: #a1a1aa; border-color: #a1a1aa; }
 
   .state {
     text-align: center;
@@ -370,6 +440,11 @@
 
 <div class="flash-bar">
   <div class="flash-track" id="flashTrack"></div>
+</div>
+
+<div class="filters" id="filters">
+  <span class="label">Topic:</span>
+  <button class="filter-btn active" data-topic="all">All</button>
 </div>
 
 <main>
@@ -431,9 +506,141 @@
   let allItems = [];
   let payloadMeta = {};
   let currentFilter = 'all';
+  let currentTopic = 'all';
   let flashTimer = null;
   let flashIndex = 0;
   let flashAnimating = false;
+
+  // ============================================================
+  // TOPIC DETECTION
+  // ============================================================
+  const TOPIC_RULES = [
+    { id: 'us', label: 'US', patterns: [
+      /\b(SEC|CFTC|FinCEN|OCC|FDIC|IRS|DOJ|FBI|Treasury|Fed\b|Federal Reserve)\b/i,
+      /\bSenate\b|\bCongress\b|\bHouse (of )?Rep/i,
+      /\b(US|U\.S\.|United States|American)\b/i,
+      /\b(GENIUS Act|CLARITY Act|stablecoin bill|crypto bill)\b/i,
+      /\b(Wall Street|New York|Washington|Silicon Valley)\b/i,
+    ]},
+    { id: 'europe', label: 'Europe / Canada / UK', patterns: [
+      /\b(EU|European|MiCA|ECB|Europe)\b/i,
+      /\b(UK|Britain|British|FCA|Bank of England)\b/i,
+      /\b(Canada|Canadian|OSC)\b/i,
+      /\b(Switzerland|Swiss|FINMA|Germany|German|BaFin|France|French|AMF)\b/i,
+      /\b(Netherlands|Ireland|Luxembourg|Spain|Italy|Portugal|Sweden|Norway|Denmark|Finland|Poland|Austria|Belgium|Czech)\b/i,
+    ]},
+    { id: 'china-hk', label: 'China + HK', patterns: [
+      /\b(China|Chinese|Beijing|Shanghai|PBoC|PBOC)\b/i,
+      /\b(Hong Kong|HK|HKMA|SFC)\b/i,
+    ]},
+    { id: 'asia-pacific', label: 'Asia Pacific', patterns: [
+      /\b(Japan|Japanese|FSA|BOJ)\b/i,
+      /\b(South Korea|Korean)\b/i,
+      /\b(Singapore|MAS)\b/i,
+      /\b(Australia|Australian|ASIC)\b/i,
+      /\b(Southeast Asia|Vietnam|Thailand|Philippines|Indonesia|Malaysia|Taiwan)\b/i,
+    ]},
+    { id: 'india', label: 'India', patterns: [
+      /\b(India|Indian|RBI|SEBI|Mumbai|Delhi)\b/i,
+    ]},
+    { id: 'mena', label: 'MENA', patterns: [
+      /\b(UAE|Dubai|Abu Dhabi|ADGM|VARA)\b/i,
+      /\b(Saudi|Riyadh)\b/i,
+      /\b(Israel|Israeli)\b/i,
+      /\b(Turkey|Turkish|Türkiye)\b/i,
+      /\b(Bahrain|Qatar|Kuwait|Oman|Jordan|Egypt|Morocco)\b/i,
+    ]},
+    { id: 'africa', label: 'Africa', patterns: [
+      /\b(Nigeria|Nigerian|Kenya|Kenyan|South Africa)\b/i,
+      /\b(Africa|African)\b/i,
+      /\b(Ghana|Ethiopia|Tanzania|Uganda|Rwanda)\b/i,
+    ]},
+    { id: 'latam', label: 'LATAM', patterns: [
+      /\b(Brazil|Brazilian|Argentina|Argentine|Mexico|Mexican)\b/i,
+      /\b(El Salvador|Colombia|Chile|Peru|Venezuela)\b/i,
+      /\b(Latin America|LATAM)\b/i,
+    ]},
+    { id: 'intl-org', label: 'Intl Orgs', patterns: [
+      /\b(IMF|BIS|FATF|World Bank|G7|G20|UN|OECD|FSB)\b/i,
+      /\b(international|global (regul|standard|framework))/i,
+    ]},
+    { id: 'bitcoin', label: 'Bitcoin', patterns: [
+      /\b(Bitcoin|BTC|Lightning Network|Satoshi|halving)\b/i,
+      /\b(Bitcoin Core|Bitcoin Optech|bitcoin mining)\b/i,
+    ]},
+    { id: 'stablecoins', label: 'Stablecoins', patterns: [
+      /\b(stablecoin|USDT|USDC|Tether|Circle|DAI|PYUSD|FDUSD|TUSD|BUSD)\b/i,
+      /\b(stablecoin bill|stablecoin yield|stablecoin reg)/i,
+    ]},
+    { id: 'cbdc', label: 'CBDCs', patterns: [
+      /\b(CBDC|central bank digital currency|digital euro|digital dollar|digital yuan|e-CNY|digital rupee|DREX)\b/i,
+      /\b(digital currency initiative|wholesale CBDC|retail CBDC)\b/i,
+    ]},
+    { id: 'tokenized', label: 'Tokenized Deposits', patterns: [
+      /\b(tokenized deposit|deposit token|tokenised deposit)\b/i,
+      /\b(tokenized asset|tokenised asset|tokenization|tokenisation)\b/i,
+      /\b(real.world asset|RWA|on.chain (bond|treasury|fund|securit))\b/i,
+    ]},
+    { id: 'thought', label: 'Thought Pieces', patterns: [
+      /\b(opinion|editorial|analysis|interview|podcast|report)\b/i,
+      /\b(research paper|white paper|deep dive|long read)\b/i,
+    ]},
+  ];
+
+  function detectTopics(item) {
+    const text = (item.title || '') + ' ' + (item.desc || '');
+    const topics = [];
+    for (const rule of TOPIC_RULES) {
+      if (rule.patterns.some(p => p.test(text))) topics.push(rule.id);
+    }
+    if (!topics.length) topics.push('company');
+    return topics;
+  }
+
+  function buildFilterBar() {
+    const bar = document.getElementById('filters');
+    const counts = { all: allItems.length };
+    for (const item of allItems) {
+      for (const t of item.topics) {
+        counts[t] = (counts[t] || 0) + 1;
+      }
+    }
+
+    // Only show topics that have stories
+    const TOPIC_ORDER = ['all', 'bitcoin', 'stablecoins', 'cbdc', 'tokenized', 'us', 'europe', 'china-hk', 'asia-pacific', 'india', 'mena', 'africa', 'latam', 'intl-org', 'company', 'thought'];
+    const TOPIC_LABELS = { all: 'All', bitcoin: 'Bitcoin', stablecoins: 'Stablecoins', cbdc: 'CBDCs', tokenized: 'Tokenized Deposits', us: 'US', europe: 'EU / CA / UK', 'china-hk': 'China + HK', 'asia-pacific': 'Asia Pacific', india: 'India', mena: 'MENA', africa: 'Africa', latam: 'LATAM', 'intl-org': 'Intl Orgs', company: 'Company', thought: 'Thought Pieces' };
+
+    bar.innerHTML = '<span class="label">Topic:</span>';
+    for (const id of TOPIC_ORDER) {
+      if (!counts[id]) continue;
+      const active = id === currentTopic ? ' active' : '';
+      bar.innerHTML += `<button class="filter-btn${active}" data-topic="${id}">${TOPIC_LABELS[id]}<span class="count-badge">${counts[id]}</span></button>`;
+    }
+  }
+
+  // ============================================================
+  // DEMO / FALLBACK DATA
+  // ============================================================
+  const DEMO_ITEMS = [
+    { title: 'SEC Approves New Framework for Digital Asset Custody', link: '#', sourceName: 'THE BLOCK', source: 'block', desc: 'The SEC has approved a new framework allowing banks to custody digital assets under existing regulatory structures, marking a shift in US crypto policy.', date: new Date(Date.now() - 2 * 3600000).toISOString() },
+    { title: 'Bitcoin Surpasses $100K as Institutional Demand Surges', link: '#', sourceName: 'COINDESK', source: 'coindesk', desc: 'Bitcoin crossed the $100,000 mark for the first time as ETF inflows hit record levels and corporate treasury adoption accelerates.', date: new Date(Date.now() - 4 * 3600000).toISOString() },
+    { title: 'European Central Bank Launches Digital Euro Pilot Program', link: '#', sourceName: 'COINTELEGRAPH', source: 'cointelegraph', desc: 'The ECB has begun a limited pilot of the digital euro across five member states, testing retail payment use cases with selected banks.', date: new Date(Date.now() - 6 * 3600000).toISOString() },
+    { title: 'Lightning Network Capacity Hits All-Time High of 8,000 BTC', link: '#', sourceName: 'BITCOIN MAGAZINE', source: 'bitcoinmag', desc: 'The Lightning Network has reached a new milestone with over 8,000 BTC in channel capacity, driven by growing merchant adoption.', date: new Date(Date.now() - 8 * 3600000).toISOString() },
+    { title: 'Hong Kong Grants Licenses to Three New Crypto Exchanges', link: '#', sourceName: 'THE BLOCK', source: 'block', desc: 'Hong Kong\'s SFC has approved three additional virtual asset trading platforms as the city expands its position as a regional crypto hub.', date: new Date(Date.now() - 10 * 3600000).toISOString() },
+    { title: 'IMF Publishes Global Standards for Crypto Taxation', link: '#', sourceName: 'COINDESK', source: 'coindesk', desc: 'The International Monetary Fund has released comprehensive guidelines for crypto tax reporting, urging member nations to adopt uniform standards.', date: new Date(Date.now() - 12 * 3600000).toISOString() },
+    { title: 'Kraken Acquires European Payments Firm for $600M', link: '#', sourceName: 'DECRYPT', source: 'decrypt', desc: 'Kraken\'s parent company Payward has acquired a European payments firm to expand stablecoin settlement capabilities across the continent.', date: new Date(Date.now() - 14 * 3600000).toISOString() },
+    { title: 'Brazil Central Bank Advances CBDC Rollout to 2026', link: '#', sourceName: 'COINTELEGRAPH', source: 'cointelegraph', desc: 'Brazil\'s central bank has accelerated its DREX digital currency timeline, with a full public launch now planned for early 2026.', date: new Date(Date.now() - 16 * 3600000).toISOString() },
+    { title: 'Nigeria Lifts Ban on Cryptocurrency Trading', link: '#', sourceName: 'THE DEFIANT', source: 'defiant', desc: 'Nigeria\'s Securities and Exchange Commission has officially reversed its 2021 ban on crypto trading, introducing a new licensing framework.', date: new Date(Date.now() - 18 * 3600000).toISOString() },
+    { title: 'UAE Regulator VARA Issues New Stablecoin Guidelines', link: '#', sourceName: 'THE BLOCK', source: 'block', desc: 'Dubai\'s Virtual Assets Regulatory Authority has published updated rules for stablecoin issuance and reserve requirements in the emirate.', date: new Date(Date.now() - 20 * 3600000).toISOString() },
+    { title: 'India\'s RBI Explores Blockchain for Cross-Border Payments', link: '#', sourceName: 'COINDESK', source: 'coindesk', desc: 'The Reserve Bank of India is piloting a blockchain-based system for cross-border remittances in partnership with Singapore\'s MAS.', date: new Date(Date.now() - 22 * 3600000).toISOString() },
+    { title: 'Bitcoin Core 29.0 Released with Critical Security Patch', link: '#', sourceName: 'BITCOIN OPTECH', source: 'bitcoinops', desc: 'The latest Bitcoin Core release includes a fix for CVE-2024-52911, a vulnerability in script validation discovered by the MIT Digital Currency Initiative.', date: new Date(Date.now() - 24 * 3600000).toISOString() },
+    { title: 'a16z Crypto Raises $2.2B for Fifth Dedicated Fund', link: '#', sourceName: 'DECRYPT', source: 'decrypt', desc: 'Andreessen Horowitz has closed its fifth crypto fund at $2.2 billion, signaling sustained institutional venture capital commitment to the sector.', date: new Date(Date.now() - 26 * 3600000).toISOString() },
+    { title: 'Japan FSA Proposes Reclassifying Crypto as Financial Instruments', link: '#', sourceName: 'COINTELEGRAPH', source: 'cointelegraph', desc: 'Japan\'s Financial Services Agency is considering reclassifying crypto assets as financial instruments, which would bring them under securities-style regulation.', date: new Date(Date.now() - 28 * 3600000).toISOString() },
+    { title: 'Report: DeFi Protocol Revenue Exceeds Traditional Fintech in Q1', link: '#', sourceName: 'THE DEFIANT', source: 'defiant', desc: 'A new research report finds that combined DeFi protocol revenue surpassed that of publicly traded fintech companies for the first time in Q1 2026.', date: new Date(Date.now() - 30 * 3600000).toISOString() },
+    { title: 'Circle USDC Market Cap Hits $60B as Stablecoin Demand Grows', link: '#', sourceName: 'THE BLOCK', source: 'block', desc: 'Circle\'s USDC stablecoin has reached a record $60 billion market capitalization, driven by institutional adoption and cross-border payment use cases.', date: new Date(Date.now() - 32 * 3600000).toISOString() },
+    { title: 'ECB Digital Euro Pilot Expands to Include Cross-Border CBDC Payments', link: '#', sourceName: 'COINDESK', source: 'coindesk', desc: 'The European Central Bank\'s digital euro pilot now includes cross-border CBDC payment testing between France, Germany, and the Netherlands.', date: new Date(Date.now() - 34 * 3600000).toISOString() },
+    { title: 'JPMorgan Launches Tokenized Deposit Platform for Institutional Clients', link: '#', sourceName: 'COINTELEGRAPH', source: 'cointelegraph', desc: 'JPMorgan has launched a tokenized deposit platform allowing institutional clients to settle transactions using blockchain-based deposit tokens.', date: new Date(Date.now() - 36 * 3600000).toISOString() },
+  ];
 
   // ============================================================
   // LOAD
@@ -443,44 +650,52 @@
     state.innerHTML = '<span class="blink">▮</span> loading…';
     state.classList.remove('err');
 
+    let data;
     try {
       // Cache-bust so GH Pages' CDN doesn't serve stale JSON.
       const res = await fetch(DATA_URL + '?t=' + Date.now(), { cache: 'no-store' });
       if (!res.ok) throw new Error('HTTP ' + res.status);
-      const data = await res.json();
-
-      payloadMeta = {
-        generatedAt: data.generatedAt,
-        errors: data.errors || []
-      };
-      allItems = (data.items || []).map(i => ({
-        ...i,
-        date: new Date(i.date)
-      }));
-
-      if (!allItems.length) {
-        state.textContent = 'No stories yet. Has the GitHub Action run?';
-        state.style.display = 'block';
-        return;
-      }
-
-      render();
+      data = await res.json();
     } catch (err) {
-      state.innerHTML = 'ERR: could not load stories.json.<br><br>&gt; ' + escapeHtml(err.message) +
-        '<br><br>If this is a fresh repo, the GitHub Action may not have run yet. ' +
-        'Trigger it manually from the Actions tab.';
-      state.classList.add('err');
-      state.style.display = 'block';
+      // Fall back to demo data for offline / testing
+      console.warn('Could not load stories.json, using demo data:', err.message);
+      data = { generatedAt: new Date().toISOString(), items: DEMO_ITEMS, demo: true };
     }
+
+    payloadMeta = {
+      generatedAt: data.generatedAt,
+      errors: data.errors || [],
+      demo: data.demo || false,
+    };
+    allItems = (data.items || []).map(i => ({
+      ...i,
+      date: new Date(i.date),
+    }));
+    // Assign topics (multiple per article)
+    for (const item of allItems) {
+      item.topics = detectTopics(item);
+    }
+
+    if (!allItems.length) {
+      state.textContent = 'No stories yet. Has the GitHub Action run?';
+      state.style.display = 'block';
+      return;
+    }
+
+    buildFilterBar();
+    render();
   }
 
   // ============================================================
   // RENDER
   // ============================================================
   function render() {
-    const items = currentFilter === 'all'
+    let items = currentFilter === 'all'
       ? allItems
       : allItems.filter(i => i.source === currentFilter);
+    if (currentTopic !== 'all') {
+      items = items.filter(i => i.topics.includes(currentTopic));
+    }
 
     renderTicker(items);
     renderFlash(items);
@@ -566,6 +781,8 @@
       return;
     }
 
+    const TAG_LABELS = { bitcoin: 'Bitcoin', stablecoins: 'Stablecoins', cbdc: 'CBDCs', tokenized: 'Tokenized', us: 'US', europe: 'EU/CA/UK', 'china-hk': 'China+HK', 'asia-pacific': 'Asia Pacific', india: 'India', mena: 'MENA', africa: 'Africa', latam: 'LATAM', 'intl-org': 'Intl Orgs', company: 'Company', thought: 'Thought Piece' };
+
     state.style.display = 'none';
     grid.innerHTML = items.map(i => `
       <a class="card" href="${escapeAttr(i.link)}" target="_blank" rel="noopener">
@@ -575,6 +792,7 @@
         </div>
         <h3>${escapeHtml(i.title)}</h3>
         ${i.desc ? `<p>${escapeHtml(i.desc)}</p>` : ''}
+        <div class="topics">${i.topics.map(t => `<span class="topic-tag ${t}">${TAG_LABELS[t] || t}</span>`).join('')}</div>
       </a>
     `).join('');
   }
@@ -609,6 +827,15 @@
       currentFilter = btn.dataset.filter;
       render();
     }
+  });
+
+  document.getElementById('filters').addEventListener('click', (e) => {
+    const btn = e.target.closest('.filter-btn');
+    if (!btn) return;
+    document.querySelectorAll('.filter-btn').forEach(b =>
+      b.classList.toggle('active', b === btn));
+    currentTopic = btn.dataset.topic;
+    render();
   });
 
   // initial + poll
