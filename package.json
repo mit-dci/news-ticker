@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "feeds": "node scripts/fetch-feeds.mjs",
+    "build-feed": "node scripts/build-feed.mjs",
+    "roundup": "node scripts/build-roundup.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "dotenv": "^16.4.0",
+    "imapflow": "^1.0.0"
+  }
+}
