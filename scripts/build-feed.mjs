@@ -211,21 +211,42 @@ function buildRss(roundups) {
   // Sort newest first
   roundups.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-  const items = roundups.map(r => {
+  const items = [];
+  for (const r of roundups) {
     const pubDate = new Date(r.date + 'T12:00:00Z').toUTCString();
-    const storyCount = (r.sections || []).reduce((n, s) => n + (s.stories || []).length, 0);
-    const html = renderRoundup(r);
-    const guid = `mit-dci-roundup-${r.date}`;
+    for (const section of (r.sections || [])) {
+      for (const story of (section.stories || [])) {
+        const contentParts = [];
+        contentParts.push(`<p><strong>[${escapeXml(section.name)}]</strong> — ${escapeXml(r.title)}</p>`);
+        if (story.summary) {
+          contentParts.push('<ul>');
+          for (const line of story.summary.split('\n').filter(l => l.trim())) {
+            contentParts.push(`<li>${escapeXml(line.trim())}</li>`);
+          }
+          contentParts.push('</ul>');
+        }
+        if (story.see_also?.length) {
+          contentParts.push('<p><em>See Also:</em></p><ul>');
+          for (const sa of story.see_also) {
+            contentParts.push(`<li><a href="${escapeXml(sa.url)}">${escapeXml(sa.title)}</a></li>`);
+          }
+          contentParts.push('</ul>');
+        }
+        const html = contentParts.join('\n');
+        const guid = `mit-dci-${r.date}-${Buffer.from(story.url).toString('base64url').slice(0, 20)}`;
 
-    return `    <item>
-      <title>${escapeXml(r.title)}</title>
-      <link>${escapeXml(FEED_LINK)}</link>
+        items.push(`    <item>
+      <title>${escapeXml(story.source)} - ${escapeXml(story.title)}</title>
+      <link>${escapeXml(story.url)}</link>
       <guid isPermaLink="false">${guid}</guid>
       <pubDate>${pubDate}</pubDate>
-      <description>${escapeXml(`${storyCount} stories across ${(r.sections || []).length} categories.`)}</description>
+      <category>${escapeXml(section.name)}</category>
+      <description>${escapeXml(story.summary?.split('\n')[0]?.trim() || '')}</description>
       <content:encoded><![CDATA[${html}]]></content:encoded>
-    </item>`;
-  });
+    </item>`);
+      }
+    }
+  }
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
