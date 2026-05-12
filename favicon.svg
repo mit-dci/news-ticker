@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="4" fill="#0a0e0a"/>
+  <!-- Scanline effect -->
+  <line x1="0" y1="4" x2="32" y2="4" stroke="#1e2820" stroke-width="0.5"/>
+  <line x1="0" y1="8" x2="32" y2="8" stroke="#1e2820" stroke-width="0.5"/>
+  <line x1="0" y1="12" x2="32" y2="12" stroke="#1e2820" stroke-width="0.5"/>
+  <line x1="0" y1="16" x2="32" y2="16" stroke="#1e2820" stroke-width="0.5"/>
+  <line x1="0" y1="20" x2="32" y2="20" stroke="#1e2820" stroke-width="0.5"/>
+  <line x1="0" y1="24" x2="32" y2="24" stroke="#1e2820" stroke-width="0.5"/>
+  <line x1="0" y1="28" x2="32" y2="28" stroke="#1e2820" stroke-width="0.5"/>
+  <!-- ">" prompt symbol in amber -->
+  <text x="4" y="23" font-family="monospace" font-weight="bold" font-size="20" fill="#ffb000">&gt;</text>
+  <!-- Blinking cursor in green -->
+  <rect x="19" y="10" width="9" height="14" rx="1" fill="#33ff66" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.2;0.9" dur="1.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
