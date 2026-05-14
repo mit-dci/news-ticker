@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T03:13:08.611Z",
+  "generatedAt": "2026-05-14T05:22:28.765Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 67,
+  "filteredOut": 70,
   "errors": [],
   "items": [
     {
@@ -14,6 +14,33 @@
       "date": "2026-05-13T14:23:21.000Z",
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "BitGo doubles revenue to $3.8 billion but net loss widens in Q1",
+      "link": "https://www.theblock.co/post/401205/bitgo-doubles-q1-revenue?utm_source=rss&utm_medium=rss",
+      "desc": "The NYSE-listed crypto infrastructure firm generated $3.8 billion in revenue in the first quarter, up 112.6% year-on-year.",
+      "date": "2026-05-14T05:03:11.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "US banks expect ‘slow, then fast’ shift to digitized finance: Moody's",
+      "link": "https://cointelegraph.com/news/moodys-us-banks-tokenized-finance-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Traditional financial institutions are actively preparing for a surge in adoption to avoid being caught flat-footed by a sudden shift in market demand, according to Moody’s.",
+      "date": "2026-05-14T04:42:45.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Only 4% of Americans weigh crypto when placing their votes: Poll",
+      "link": "https://cointelegraph.com/news/4-percent-americans-weigh-crypto-policy-when-voting-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US adults are largely wary of crypto and consider it the least important policy issue when picking who to vote for, according to a poll by POLITICO.",
+      "date": "2026-05-14T03:38:10.000Z",
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -637,39 +664,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ethereum community launches security feature to end blind signing",
-      "link": "https://cointelegraph.com/news/ethereum-contributors-launch-security-feature-to-end-blind-signing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto platforms Ledger, Trezor, MetaMask, Keycard, WalletConnect, Argot and Fireblocks are among the earliest adopters and contributors to Clear Signing, aimed at ending “blind signing.”",
-      "date": "2026-05-13T04:41:41.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Kelp DAO eyes reopening withdrawals after rsETH burn",
-      "link": "https://cointelegraph.com/news/kelp-dao-eyes-reopening-withdrawals-as-attackers-rseth-on-arbitrum-is-burned?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Kelp DAO has burned the exploiter’s tokens and outlined a two-week plan to refill rsETH through Aave’s Recovery Guardian multisig wallet.",
-      "date": "2026-05-13T04:33:33.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Nevada regulators push back after prediction market conference blames them for move",
       "link": "https://www.coindesk.com/policy/2026/05/13/nevada-gaming-regulator-says-prediction-market-conferences-are-welcome-in-las-vegas",
       "desc": "Spokesperson for regulator denies that it put pressure on ARIA Resort & Casino for hosting Predict 2026",
       "date": "2026-05-13T04:04:34.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Kelp DAO, Aave to resume rsETH operations as recovery from $292 million exploit progresses",
-      "link": "https://www.theblock.co/post/401060/kelp-dao-aave-resume-rseth?utm_source=rss&utm_medium=rss",
-      "desc": "Kelp was exploited on April 18 for $292 million from attackers suspected to be part of North Korea's Lazarus Group.",
-      "date": "2026-05-13T02:24:43.000Z",
       "termBoost": 0
     },
     {
@@ -688,15 +688,6 @@
       "link": "https://decrypt.co/367663/bitcoin-wallet-firm-exodus-expands-payments-push-sells-87-million-btc",
       "desc": "Publicly traded Bitcoin wallet firm Exodus (EXOD) is moving beyond that initial category to focus on the full crypto payments stack.",
       "date": "2026-05-12T21:22:06.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up",
-      "link": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
-      "desc": "The global banking giant is expanding its tokenized money market lineup, following BlackRock's similar move just a few days ago.",
-      "date": "2026-05-12T21:18:10.000Z",
       "termBoost": 0
     },
     {
@@ -742,15 +733,6 @@
       "link": "https://decrypt.co/367600/wall-streets-clearinghouse-dtcc-chainlink-collateral-management",
       "desc": "DTCC teams with Chainlink to enable round-the-clock collateral movement—a shift that could reshape post-trade finance.",
       "date": "2026-05-12T17:34:51.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
-      "link": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
-      "desc": "The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand.",
-      "date": "2026-05-12T17:31:53.000Z",
       "termBoost": 0
     },
     {
@@ -841,15 +823,6 @@
       "link": "https://thedefiant.io/news/cefi/kraken-flexline-crypto-collateral-lending-u8gc80",
       "desc": "Kraken introduced Flexline, a lending product that accepts cryptocurrency as collateral at 10–25% APR fixed rates, targeting crypto-native businesses and high-net-worth individuals excluded from traditional banking.",
       "date": "2026-05-12T10:02:02.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Senate Banking Committee Releases 309-Page Clarity Act Draft: US Senate Banking Committee",
-      "link": "https://thedefiant.io/news/regulation/senate-banking-committee-releases-clarity-act-draft-p8r77m",
-      "desc": "The Senate Banking Committee publicly released the full text of its crypto market structure bill ahead of Thursday's markup, with amendments due by end of business Wednesday.",
-      "date": "2026-05-12T04:31:32.000Z",
       "termBoost": 0
     },
     {
