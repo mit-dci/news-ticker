@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T09:11:20.301Z",
+  "generatedAt": "2026-05-15T10:51:47.738Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 67,
+  "filteredOut": 68,
   "errors": [],
   "items": [
     {
@@ -14,6 +14,69 @@
       "date": "2026-05-14T13:01:03.000Z",
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #405",
+      "link": "https://bitcoinops.org/en/newsletters/2026/05/15/",
+      "desc": "This week’s newsletter announces the responsible disclosure of a vulnerability that could allow an attacker with sufficient proof-of-work to crash Bitcoin Core nodes and describes a draft BIP proposal for sharing the UTXO set over the P2P network. Also included are our regular sections announcing a new release candidate and describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-05-15T00:00:00.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
+      "link": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+      "desc": "The South Korean bank announced plans for a won-pegged stablecoin, blockchain remittances and tokenized securities.",
+      "date": "2026-05-15T10:24:37.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "THORChain pauses trading as security researchers flag suspected $10M multi-chain exploit",
+      "link": "https://www.theblock.co/post/401462/thorchain-pauses-trading-as-security-researchers-flag-suspected-10m-multi-chain-exploit?utm_source=rss&utm_medium=rss",
+      "desc": "THORChain halted trading after security researchers flagged a suspected exploit spanning Bitcoin, Ethereum, BNB Smart Chain and Base.",
+      "date": "2026-05-15T10:21:57.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Victims of Iran attacks seek court order for turnover of $344 million in USDT frozen by Tether",
+      "link": "https://www.theblock.co/post/401443/victims-of-iran-attacks-seek-court-order-for-turnover-of-344-million-in-usdt-frozen-by-tether?utm_source=rss&utm_medium=rss",
+      "desc": "U.S. terrorism judgment creditors seek a court order forcing Tether to turn over $344 million in frozen IRGC-linked USDT.",
+      "date": "2026-05-15T09:39:54.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Forward Industries posts over 300% revenue growth but wider quarterly net loss amid SOL markdowns",
+      "link": "https://www.theblock.co/post/401440/forward-industries-posts-revenue-growth?utm_source=rss&utm_medium=rss",
+      "desc": "The Solana treasury firm generated $13 million in revenue for the quarter ended March 31, up 319% year over year.",
+      "date": "2026-05-15T09:19:23.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Hana Financial to acquire 6.55% stake in Upbit operator Dunamu for $668M",
+      "link": "https://cointelegraph.com/news/hana-financial-dunamu-upbit-stake-acquisition-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The purchase makes Hana Financial the fourth-largest shareholder in Dunamu, following several crypto-related deals in the last two months, as it dives deeper into the digital assets sector.",
+      "date": "2026-05-15T09:16:37.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "OKX set to acquire 20% stake in South Korean crypto exchange Coinone: report",
+      "link": "https://www.theblock.co/post/401431/okx-coinone-acquisition?utm_source=rss&utm_medium=rss",
+      "desc": "If approved, OKX would become the second global exchange to own a majority stake in a South Korean crypto platform, following Binance.",
+      "date": "2026-05-15T07:58:11.000Z",
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -412,15 +475,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CoinList expands into tokenized asset distribution with ‘Passage’ as token sales slow",
-      "link": "https://www.theblock.co/post/401315/coinlist-passage-tokenized-asset-distribution-token-sales-slow?utm_source=rss&utm_medium=rss",
-      "desc": "CoinList has launched Passage. The move marks its expansion beyond token sales, which have slowed across the crypto industry in recent years.",
-      "date": "2026-05-14T16:00:02.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "U.S. senators lament failure to win bipartisan support, yet, on crypto Clarity Act",
@@ -436,15 +490,6 @@
       "link": "https://decrypt.co/367857/bullish-shares-dip-earnings-miss-605-million-loss",
       "desc": "Bullish shares fell Thursday after the company reported a first-quarter loss alongside disappointing subscriptions and services revenue.",
       "date": "2026-05-14T15:42:33.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘A million different ways to skin the cat’: Why stablecoin backers see incentives as inevitable under Clarity Act",
-      "link": "https://www.theblock.co/post/401286/million-different-ways-to-skin-cat-stablecoin-backers-see-incentives-as-inevitable?utm_source=rss&utm_medium=rss",
-      "desc": "Stablecoin advocates argue that in the end limiting rewards is a losing battle as companies will find ways to incentivize users.",
-      "date": "2026-05-14T15:36:54.000Z",
       "termBoost": 0
     },
     {
@@ -535,15 +580,6 @@
       "link": "https://cointelegraph.com/features/who-supports-clarity-act-senate-banking-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The US Senate banking committee will hold a markup session on May 14 for the CLARITY Act, and support appears at least nominally bipartisan.",
       "date": "2026-05-14T14:22:34.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Upshift rolls out new vault platform providing bridging capital for instant RWA redemptions",
-      "link": "https://www.theblock.co/post/401285/upshift-rolls-out-new-vault-platform-providing-bridging-capital-for-instant-rwa-redemptions?utm_source=rss&utm_medium=rss",
-      "desc": "Dedicated USDC vaults will provide instant liquidity to RWA holders when they want to redeem, with LPs earning redemption fees.",
-      "date": "2026-05-14T14:20:10.000Z",
       "termBoost": 0
     },
     {
@@ -655,42 +691,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Coinbase backs Hyperliquid stablecoin push as DeFi trading volumes climb",
-      "link": "https://www.coindesk.com/markets/2026/05/13/coinbase-backs-hyperliquid-stablecoin-push-as-defi-trading-volumes-climb",
-      "desc": "Coinbase will manage USDC liquidity on Hyperliquid, deepening ties with one of crypto’s fastest-growing trading platforms.",
-      "date": "2026-05-14T12:13:35.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Strive’s SATA to become first U.S. listed security to pay daily cash dividends",
-      "link": "https://www.coindesk.com/markets/2026/05/14/strive-s-sata-to-become-first-u-s-listed-security-to-pay-daily-cash-dividends",
-      "desc": "The daily payout structure lifts the effective yield to 13.88% as the company eliminates all debt and expands its bitcoin treasury strategy.",
-      "date": "2026-05-14T12:00:00.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bank of England ready to water down 'overly conservative' stablecoin proposals: FT",
-      "link": "https://www.coindesk.com/policy/2026/05/14/bank-of-england-ready-to-water-down-overly-conservative-stablecoin-proposals-ft",
-      "desc": "Restrictions proposed by the BOE prompted criticism from the crypto industry, which said they risked preventing the U.K. from being competitive in the digital economy.",
-      "date": "2026-05-14T11:53:15.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin’s recent $80,000 breakout was led by something other than U.S. spot buyers, data show",
-      "link": "https://www.coindesk.com/markets/2026/05/14/bitcoin-s-rally-past-usd80-000-came-without-us-spot-demand-on-chain-data-shows",
-      "desc": "The rally was led by leveraged traders and not U.S.-based spot buyers. Hence, its. sustainability is being questioned.",
-      "date": "2026-05-14T11:36:40.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Law firm Fenwick & West sued for $525M over alleged role in FTX collapse",
@@ -724,15 +724,6 @@
       "link": "https://cointelegraph.com/markets/altcoin-quietly-starting-analysts-spot-three-bullish-indicators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Crypto analysts spot early altcoin recovery signals as key metrics improve and capital rotation hints at a potential altseason in 2026.",
       "date": "2026-05-14T10:25:56.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "CFTC no-action letter eases event contract reporting rules",
-      "link": "https://cointelegraph.com/news/cftc-issues-no-action-letter-prediction-market-data-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The CFTC issued no-action relief from certain swap reporting rules for fully collateralized event contracts as prediction market disputes widen.",
-      "date": "2026-05-14T10:24:47.000Z",
       "termBoost": 0
     },
     {
