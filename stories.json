@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T03:14:34.041Z",
+  "generatedAt": "2026-05-15T05:23:22.834Z",
   "sourceCount": 9,
   "successCount": 9,
-  "filteredOut": 62,
+  "filteredOut": 65,
   "errors": [],
   "items": [
     {
@@ -16,14 +16,40 @@
       "termBoost": 3
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Lawyer behind Arbitrum crypto seizure fight now targets Tether for $344 million",
+      "link": "https://www.coindesk.com/policy/2026/05/15/lawyer-behind-arbitrum-crypto-seizure-fight-now-targets-tether-for-usd344-million",
+      "desc": "Charles Gerstein wants a federal judge to order Tether to transfer OFAC-frozen USDT tied to Iran’s Revolutionary Guard to victims holding unpaid terrorism judgments",
+      "date": "2026-05-15T05:04:13.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The two- and ten-year Treasury yields hit a 12-month high. Bitcoin is still stuck below its 200-day average.",
+      "link": "https://www.coindesk.com/markets/2026/05/15/the-two-and-ten-year-treasury-yields-hit-a-12-month-high-bitcoin-is-still-stuck-below-its-200-day-average",
+      "desc": "Rising yields may act as a headwind for assets like bitcoin and gold while potentially benefiting tokenized Treasury markets.",
+      "date": "2026-05-15T04:54:43.000Z",
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Tezos launches quantum-resistant private payments prototype on testnet",
-      "link": "https://cointelegraph.com/news/tezos-quantum-resistant-private-payments-prototype-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The testnet system uses post-quantum cryptography and zk-STARK proofs to protect encrypted transaction data from future quantum computing attacks.",
-      "date": "2026-05-14T07:00:00.000Z",
-      "priorityTerm": true,
-      "termBoost": 3
+      "title": "Gemini reports 42% revenue growth after expansion into financial services",
+      "link": "https://cointelegraph.com/news/gemini-reports-42-revenue-growth-expansion-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Gemini credit card revenue surged nearly 300% to $14.7 million in Q1, attributed to significant growth in its user base.",
+      "date": "2026-05-15T04:24:56.000Z",
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Hana Bank acquires $670 million stake in Upbit parent Dunamu",
+      "link": "https://www.theblock.co/post/401413/hana-bank-upbit-dunamu?utm_source=rss&utm_medium=rss",
+      "desc": "The acquisition of 2.28 million shares will give Hana Bank a 6.55% stake in Dunamu, making it the fourth-largest shareholder.",
+      "date": "2026-05-15T03:46:02.000Z",
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -521,15 +547,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "GSR legal chief puts Clarity Act passage below 50% odds, citing stablecoin yield and ethics concerns",
-      "link": "https://www.theblock.co/post/401262/gsr-legal-chief-puts-clarity-act-passage-below-50-per-cent-odds?utm_source=rss&utm_medium=rss",
-      "desc": "GSR's Joshua Riezman gave the Clarity Act below-50% odds of passing this Senate session, citing stablecoin yield and ethics concerns.",
-      "date": "2026-05-14T13:07:35.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Turnkey raises $12.5 million in round backed by Circle Ventures and Sequoia Capital",
@@ -665,15 +682,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin stuck below $80,000 as leveraged longs unwind, altcoins slide",
-      "link": "https://www.coindesk.com/markets/2026/05/14/bitcoin-stuck-below-usd80-000-as-leveraged-longs-unwind-altcoins-slide",
-      "desc": "Crypto markets weakened as inflation fears hit risk assets, triggering long liquidations, negative derivatives flows and renewed pressure on altcoins.",
-      "date": "2026-05-14T10:42:58.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Altcoin season ‘quietly’ starting? Analysts spot three bullish indicators",
@@ -701,15 +709,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Moody’s assigns Aaa-mf assessments to Fidelity International and BlackRock tokenized money market funds",
-      "link": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
-      "desc": "The assessment suggest the highest level of credit quality, liquidity and capital preservation.",
-      "date": "2026-05-14T08:49:07.000Z",
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "NY judge pushes back hearing for Aave’s bid to unfreeze $71M in ETH",
@@ -725,33 +724,6 @@
       "link": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-reports-238m-net-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Nakamoto CEO David Bailey said the company is focused on scaling its Bitcoin treasury, services and trading strategies for the remainder of 2026.",
       "date": "2026-05-14T07:02:44.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "CME and Nasdaq to launch crypto index futures featuring BTC, ETH, SOL and XRP",
-      "link": "https://cointelegraph.com/news/cme-nasdaq-crypto-index-futures-btc-eth-sol-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The contracts will offer regulated exposure to multiple cryptocurrencies through standard and micro-sized futures products, according to the company.",
-      "date": "2026-05-14T07:00:00.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin risks slump after hitting ‘major bear market resistance’: CryptoQuant",
-      "link": "https://cointelegraph.com/news/bitcoin-at-risk-of-falling-after-hitting-major-bear-market-resistance-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin’s rally may reverse as its price has hit a historic resistance level and traders appear to already be taking profits, said CryptoQuant in a note on Wednesday.",
-      "date": "2026-05-14T06:55:13.000Z",
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin investors yanked $635 million from spot ETFs in a day. Here's what it means for price",
-      "link": "https://www.coindesk.com/markets/2026/05/14/bitcoin-investors-yanked-usd635-million-from-spot-etfs-in-a-day-here-s-what-it-means-for-price",
-      "desc": "The single-largest outflow since late January comes as bitcoin turns lower from the 200-day moving average.",
-      "date": "2026-05-14T06:08:19.000Z",
       "termBoost": 0
     },
     {
