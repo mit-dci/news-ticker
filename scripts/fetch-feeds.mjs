@@ -36,8 +36,9 @@ function isFilteredOut(item, feed) {
     if (ageDays > ageCap) return true;
   }
   if (feed.allowPaths?.length && !feed.allowPaths.some(p => item.link.startsWith(p))) return true;
-  if (!COMPILED_FILTERS.length) return false;
   const hay = (item.title || '') + ' ' + (item.desc || '');
+  if (feed.requireMatch && !feed.requireMatch.test(hay)) return true;
+  if (!COMPILED_FILTERS.length) return false;
   return COMPILED_FILTERS.some(re => re.test(hay));
 }
 
