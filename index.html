@@ -179,6 +179,7 @@
     transition: all 0.15s;
   }
   .filter-btn:hover { color: var(--fg); border-color: var(--dim); }
+  .filter-btn.dimmed { opacity: 0.35; }
   .filter-btn.active {
     color: var(--bg);
     background: var(--amber);
@@ -677,15 +678,15 @@
       }
     }
 
-    // Only show topics that have stories
     const TOPIC_ORDER = ['all', 'bitcoin', 'stablecoins', 'cbdc', 'tokenized', 'us', 'europe', 'china-hk', 'asia-pacific', 'india', 'mena', 'africa', 'latam', 'intl-org', 'company', 'thought'];
     const TOPIC_LABELS = { all: 'All', bitcoin: 'Bitcoin', stablecoins: 'Stablecoins', cbdc: 'CBDCs', tokenized: 'Tokenized Deposits', us: 'US', europe: 'EU / CA / UK', 'china-hk': 'China + HK', 'asia-pacific': 'Asia Pacific', india: 'India', mena: 'MENA', africa: 'Africa', latam: 'LATAM', 'intl-org': 'Intl Orgs', company: 'Company', thought: 'Thought Pieces' };
 
     bar.innerHTML = '<span class="label">Topic:</span>';
     for (const id of TOPIC_ORDER) {
-      if (!counts[id]) continue;
+      const count = counts[id] || 0;
       const active = id === currentTopic ? ' active' : '';
-      bar.innerHTML += `<button class="filter-btn${active}" data-topic="${id}">${TOPIC_LABELS[id]}<span class="count-badge">${counts[id]}</span></button>`;
+      const dimmed = count === 0 && id !== 'all' ? ' dimmed' : '';
+      bar.innerHTML += `<button class="filter-btn${active}${dimmed}" data-topic="${id}">${TOPIC_LABELS[id]}<span class="count-badge">${count}</span></button>`;
     }
   }
 
