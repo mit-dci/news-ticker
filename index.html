@@ -178,13 +178,43 @@
     cursor: pointer;
     transition: all 0.15s;
   }
-  .filter-btn:hover { color: var(--fg); border-color: var(--dim); }
+  .filter-btn:hover { border-color: var(--dim); }
   .filter-btn.dimmed { opacity: 0.35; }
+  .filter-btn[data-topic="bitcoin"]      { color: #f7931a; border-color: #f7931a44; }
+  .filter-btn[data-topic="stablecoins"]  { color: #2775ca; border-color: #2775ca44; }
+  .filter-btn[data-topic="cbdc"]         { color: #8b5cf6; border-color: #8b5cf644; }
+  .filter-btn[data-topic="tokenized"]    { color: #06b6d4; border-color: #06b6d444; }
+  .filter-btn[data-topic="us"]           { color: #ef4444; border-color: #ef444444; }
+  .filter-btn[data-topic="europe"]       { color: #3b82f6; border-color: #3b82f644; }
+  .filter-btn[data-topic="china-hk"]     { color: #f59e0b; border-color: #f59e0b44; }
+  .filter-btn[data-topic="asia-pacific"] { color: #10b981; border-color: #10b98144; }
+  .filter-btn[data-topic="india"]        { color: #f97316; border-color: #f9731644; }
+  .filter-btn[data-topic="mena"]         { color: #a78bfa; border-color: #a78bfa44; }
+  .filter-btn[data-topic="africa"]       { color: #34d399; border-color: #34d39944; }
+  .filter-btn[data-topic="latam"]        { color: #fb923c; border-color: #fb923c44; }
+  .filter-btn[data-topic="intl-org"]     { color: #60a5fa; border-color: #60a5fa44; }
+  .filter-btn[data-topic="company"]      { color: var(--green); border-color: rgba(51,255,102,0.27); }
+  .filter-btn[data-topic="thought"]      { color: #a1a1aa; border-color: #a1a1aa44; }
   .filter-btn.active {
     color: var(--bg);
     background: var(--amber);
     border-color: var(--amber);
   }
+  .filter-btn[data-topic="bitcoin"].active      { background: #f7931a; border-color: #f7931a; }
+  .filter-btn[data-topic="stablecoins"].active   { background: #2775ca; border-color: #2775ca; color: #fff; }
+  .filter-btn[data-topic="cbdc"].active          { background: #8b5cf6; border-color: #8b5cf6; color: #fff; }
+  .filter-btn[data-topic="tokenized"].active     { background: #06b6d4; border-color: #06b6d4; }
+  .filter-btn[data-topic="us"].active            { background: #ef4444; border-color: #ef4444; color: #fff; }
+  .filter-btn[data-topic="europe"].active        { background: #3b82f6; border-color: #3b82f6; color: #fff; }
+  .filter-btn[data-topic="china-hk"].active      { background: #f59e0b; border-color: #f59e0b; }
+  .filter-btn[data-topic="asia-pacific"].active   { background: #10b981; border-color: #10b981; }
+  .filter-btn[data-topic="india"].active         { background: #f97316; border-color: #f97316; }
+  .filter-btn[data-topic="mena"].active          { background: #a78bfa; border-color: #a78bfa; }
+  .filter-btn[data-topic="africa"].active        { background: #34d399; border-color: #34d399; }
+  .filter-btn[data-topic="latam"].active         { background: #fb923c; border-color: #fb923c; }
+  .filter-btn[data-topic="intl-org"].active      { background: #60a5fa; border-color: #60a5fa; }
+  .filter-btn[data-topic="company"].active       { background: var(--green); border-color: var(--green); }
+  .filter-btn[data-topic="thought"].active       { background: #a1a1aa; border-color: #a1a1aa; }
   .filter-btn .count-badge {
     font-size: 9px;
     opacity: 0.7;
