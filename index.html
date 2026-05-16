@@ -370,13 +370,25 @@
     padding: 3px 8px;
     font-weight: 800;
   }
-  .card .src-tag.block         { background: var(--amber); }
-  .card .src-tag.coindesk      { background: var(--green); }
-  .card .src-tag.cointelegraph { background: #00b4d8; }
-  .card .src-tag.bitcoinmag    { background: #f4a522; }
+  .card .src-tag.block         { background: var(--amber); color: #000; }
+  .card .src-tag.coindesk      { background: var(--green); color: #000; }
+  .card .src-tag.cointelegraph { background: #00b4d8; color: #000; }
+  .card .src-tag.bitcoinmag    { background: #f4a522; color: #000; }
   .card .src-tag.decrypt       { background: #a855f7; color: #fff; }
   .card .src-tag.defiant       { background: #ef4444; color: #fff; }
-  .card .src-tag.bitcoinops    { background: #f97316; }
+  .card .src-tag.bitcoinops    { background: #f97316; color: #000; }
+  [data-theme="light"] .card .src-tag.block,
+  [data-theme="light"] .card .src-tag.coindesk,
+  [data-theme="light"] .card .src-tag.cointelegraph,
+  [data-theme="light"] .card .src-tag.bitcoinmag,
+  [data-theme="light"] .card .src-tag.bitcoinops { color: #fff; }
+  @media (prefers-color-scheme: light) {
+    :not([data-theme="dark"]) .card .src-tag.block,
+    :not([data-theme="dark"]) .card .src-tag.coindesk,
+    :not([data-theme="dark"]) .card .src-tag.cointelegraph,
+    :not([data-theme="dark"]) .card .src-tag.bitcoinmag,
+    :not([data-theme="dark"]) .card .src-tag.bitcoinops { color: #fff; }
+  }
   .card .src-tag.bcannounce    { background: #6366f1; color: #fff; }
   .card .src-tag.bitcoincore   { background: #3b82f6; color: #fff; }
   .card .src-tag.coincenter    { background: #2d6a4f; color: #fff; }
