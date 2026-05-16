@@ -366,40 +366,28 @@
     font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase;
   }
   .card .src-tag {
-    color: #000;
+    color: var(--fg);
     padding: 3px 8px;
     font-weight: 800;
   }
-  .card .src-tag.block         { background: var(--amber); color: #000; }
-  .card .src-tag.coindesk      { background: var(--green); color: #000; }
-  .card .src-tag.cointelegraph { background: #00b4d8; color: #000; }
-  .card .src-tag.bitcoinmag    { background: #f4a522; color: #000; }
-  .card .src-tag.decrypt       { background: #a855f7; color: #fff; }
-  .card .src-tag.defiant       { background: #ef4444; color: #fff; }
-  .card .src-tag.bitcoinops    { background: #f97316; color: #000; }
-  [data-theme="light"] .card .src-tag.block,
-  [data-theme="light"] .card .src-tag.coindesk,
-  [data-theme="light"] .card .src-tag.cointelegraph,
-  [data-theme="light"] .card .src-tag.bitcoinmag,
-  [data-theme="light"] .card .src-tag.bitcoinops { color: #fff; }
-  @media (prefers-color-scheme: light) {
-    :not([data-theme="dark"]) .card .src-tag.block,
-    :not([data-theme="dark"]) .card .src-tag.coindesk,
-    :not([data-theme="dark"]) .card .src-tag.cointelegraph,
-    :not([data-theme="dark"]) .card .src-tag.bitcoinmag,
-    :not([data-theme="dark"]) .card .src-tag.bitcoinops { color: #fff; }
-  }
-  .card .src-tag.bcannounce    { background: #6366f1; color: #fff; }
-  .card .src-tag.bitcoincore   { background: #3b82f6; color: #fff; }
-  .card .src-tag.coincenter    { background: #2d6a4f; color: #fff; }
-  .card .src-tag.fed           { background: #1a3c5e; color: #fff; }
-  .card .src-tag.techcrunch    { background: #0a9e01; color: #fff; }
-  .card .src-tag.bis           { background: #003399; color: #fff; }
-  .card .src-tag.pymnts        { background: #1e3a5f; color: #fff; }
-  .card .src-tag.finextra      { background: #0077b6; color: #fff; }
-  .card .src-tag.ft            { background: #fff1e5; color: #33302e; }
-  .card .src-tag.economist     { background: #e3120b; color: #fff; }
-  .card .src-tag.wsj           { background: #0274b6; color: #fff; }
+  .card .src-tag.block         { background: var(--amber); }
+  .card .src-tag.coindesk      { background: var(--green); }
+  .card .src-tag.cointelegraph { background: #00b4d8; }
+  .card .src-tag.bitcoinmag    { background: #f4a522; }
+  .card .src-tag.decrypt       { background: #a855f7; }
+  .card .src-tag.defiant       { background: #ef4444; }
+  .card .src-tag.bitcoinops    { background: #f97316; }
+  .card .src-tag.bcannounce    { background: #6366f1; }
+  .card .src-tag.bitcoincore   { background: #3b82f6; }
+  .card .src-tag.coincenter    { background: #2d6a4f; }
+  .card .src-tag.fed           { background: #1a3c5e; }
+  .card .src-tag.techcrunch    { background: #0a9e01; }
+  .card .src-tag.bis           { background: #003399; }
+  .card .src-tag.pymnts        { background: #1e3a5f; }
+  .card .src-tag.finextra      { background: #0077b6; }
+  .card .src-tag.ft            { background: #fff1e5; }
+  .card .src-tag.economist     { background: #e3120b; }
+  .card .src-tag.wsj           { background: #0274b6; }
   .card .time { color: var(--dim); }
   .card h3 {
     font-size: 16px;
