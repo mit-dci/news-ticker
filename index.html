@@ -393,6 +393,62 @@
   .topic-tag.intl-org    { color: #60a5fa; border-color: #60a5fa; }
   .topic-tag.thought     { color: #a1a1aa; border-color: #a1a1aa; }
 
+  .search-wrap {
+    position: relative;
+    width: 100%;
+    max-width: 480px;
+  }
+  .search-wrap::before {
+    content: ">";
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--amber);
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+    pointer-events: none;
+  }
+  .search-input {
+    width: 100%;
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--fg);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    padding: 10px 36px 10px 30px;
+    letter-spacing: 0.5px;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+  .search-input::placeholder {
+    color: var(--dim);
+    opacity: 0.6;
+  }
+  .search-input:focus {
+    border-color: var(--amber);
+  }
+  .search-clear {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: var(--dim);
+    font-size: 16px;
+    cursor: pointer;
+    padding: 4px 6px;
+    display: none;
+    font-family: inherit;
+  }
+  .search-clear:hover { color: var(--fg); }
+  .search-wrap.has-query .search-clear { display: block; }
+  .search-highlight {
+    background: rgba(255, 176, 0, 0.25);
+    border-radius: 1px;
+  }
+
   .state {
     text-align: center;
     padding: 60px 20px;
@@ -453,6 +509,10 @@
     <h2>&gt; LATEST STORIES</h2>
     <span class="count"><span id="storyCount">—</span></span>
   </div>
+  <div class="search-wrap" id="searchWrap">
+    <input class="search-input" id="searchInput" type="text" placeholder="search stories..." autocomplete="off" spellcheck="false">
+    <button class="search-clear" id="searchClear">&times;</button>
+  </div>
   <div id="grid" class="grid"></div>
   <div id="state" class="state"><span class="blink">▮</span> loading…</div>
 </main>
@@ -508,6 +568,7 @@
   let payloadMeta = {};
   let currentFilter = 'all';
   let currentTopic = 'all';
+  let searchQuery = '';
   let flashTimer = null;
   let flashIndex = 0;
   let flashAnimating = false;
@@ -697,6 +758,14 @@
     if (currentTopic !== 'all') {
       items = items.filter(i => i.topics.includes(currentTopic));
     }
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      items = items.filter(i =>
+        (i.title || '').toLowerCase().includes(q) ||
+        (i.desc || '').toLowerCase().includes(q) ||
+        (i.sourceName || '').toLowerCase().includes(q)
+      );
+    }
 
     renderTicker(items);
     renderFlash(items);
@@ -784,6 +853,13 @@
 
     const TAG_LABELS = { bitcoin: 'Bitcoin', stablecoins: 'Stablecoins', cbdc: 'CBDCs', tokenized: 'Tokenized', us: 'US', europe: 'EU/CA/UK', 'china-hk': 'China+HK', 'asia-pacific': 'Asia Pacific', india: 'India', mena: 'MENA', africa: 'Africa', latam: 'LATAM', 'intl-org': 'Intl Orgs', company: 'Company', thought: 'Thought Piece' };
 
+    function hl(text) {
+      const safe = escapeHtml(text);
+      if (!searchQuery) return safe;
+      const escaped = searchQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      return safe.replace(new RegExp(`(${escaped})`, 'gi'), '<mark class="search-highlight">$1</mark>');
+    }
+
     state.style.display = 'none';
     grid.innerHTML = items.map(i => `
       <a class="card" href="${escapeAttr(i.link)}" target="_blank" rel="noopener">
@@ -791,8 +867,8 @@
           <span class="src-tag ${i.source}">${escapeHtml(i.sourceName)}</span>
           <span class="time">${formatTime(i.date)}</span>
         </div>
-        <h3>${escapeHtml(i.title)}</h3>
-        ${i.desc ? `<p>${escapeHtml(i.desc)}</p>` : ''}
+        <h3>${hl(i.title)}</h3>
+        ${i.desc ? `<p>${hl(i.desc)}</p>` : ''}
         <div class="topics">${i.topics.map(t => `<span class="topic-tag ${t}">${TAG_LABELS[t] || t}</span>`).join('')}</div>
       </a>
     `).join('');
@@ -837,6 +913,45 @@
       b.classList.toggle('active', b === btn));
     currentTopic = btn.dataset.topic;
     render();
+  });
+
+  // Search
+  const searchInput = document.getElementById('searchInput');
+  const searchClear = document.getElementById('searchClear');
+  const searchWrap = document.getElementById('searchWrap');
+  let searchDebounce = null;
+
+  searchInput.addEventListener('input', () => {
+    searchQuery = searchInput.value.trim();
+    searchWrap.classList.toggle('has-query', !!searchQuery);
+    clearTimeout(searchDebounce);
+    searchDebounce = setTimeout(render, 150);
+  });
+
+  searchClear.addEventListener('click', () => {
+    searchInput.value = '';
+    searchQuery = '';
+    searchWrap.classList.remove('has-query');
+    render();
+    searchInput.focus();
+  });
+
+  // Ctrl/Cmd+K to focus search
+  document.addEventListener('keydown', (e) => {
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      searchInput.focus();
+      searchInput.select();
+    }
+    if (e.key === 'Escape' && document.activeElement === searchInput) {
+      searchInput.blur();
+      if (searchQuery) {
+        searchInput.value = '';
+        searchQuery = '';
+        searchWrap.classList.remove('has-query');
+        render();
+      }
+    }
   });
 
   // initial + poll
