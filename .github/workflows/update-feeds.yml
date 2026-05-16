@@ -11,11 +11,9 @@ on:
     - cron: '0 0-13,21-23 * * *' # every hour overnight
   # Let you trigger a run manually from the Actions tab.
   workflow_dispatch:
-  # Rebuild feed.xml when curated roundups are pushed.
+  # Rebuild feed on any push to main.
   push:
-    paths:
-      - 'curated/**'
-      - 'scripts/build-feed.mjs'
+    branches: [main]
 
 # Needed so the workflow can push the updated stories.json back to the repo.
 permissions:
