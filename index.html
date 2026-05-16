@@ -650,7 +650,7 @@
     ]},
     { id: 'tokenized', label: 'Tokenized Deposits', patterns: [
       /\b(tokenized deposit|deposit token|tokenised deposit)\b/i,
-      /\b(tokenized asset|tokenised asset|tokenization|tokenisation)\b/i,
+      /\b(tokeniz(ed|ation|ing)|tokenis(ed|ation|ing))\b/i,
       /\b(real.world asset|RWA|on.chain (bond|treasury|fund|securit))\b/i,
     ]},
     { id: 'thought', label: 'Thought Pieces', patterns: [
@@ -679,7 +679,7 @@
     }
 
     const TOPIC_ORDER = ['all', 'bitcoin', 'stablecoins', 'cbdc', 'tokenized', 'us', 'europe', 'china-hk', 'asia-pacific', 'india', 'mena', 'africa', 'latam', 'intl-org', 'company', 'thought'];
-    const TOPIC_LABELS = { all: 'All', bitcoin: 'Bitcoin', stablecoins: 'Stablecoins', cbdc: 'CBDCs', tokenized: 'Tokenized Deposits', us: 'US', europe: 'EU / CA / UK', 'china-hk': 'China + HK', 'asia-pacific': 'Asia Pacific', india: 'India', mena: 'MENA', africa: 'Africa', latam: 'LATAM', 'intl-org': 'Intl Orgs', company: 'Company', thought: 'Thought Pieces' };
+    const TOPIC_LABELS = { all: 'All', bitcoin: 'Bitcoin', stablecoins: 'Stablecoins', cbdc: 'CBDCs', tokenized: 'Tokenization', us: 'US', europe: 'EU / CA / UK', 'china-hk': 'China + HK', 'asia-pacific': 'Asia Pacific', india: 'India', mena: 'MENA', africa: 'Africa', latam: 'LATAM', 'intl-org': 'Intl Orgs', company: 'Company', thought: 'Thought Pieces' };
 
     bar.innerHTML = '<span class="label">Topic:</span>';
     for (const id of TOPIC_ORDER) {
