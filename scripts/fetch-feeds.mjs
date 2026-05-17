@@ -15,6 +15,112 @@ import { FEEDS, FILTERS, PRIORITY_TERMS, MAX_PER_FEED, MAX_AGE_DAYS, PRIORITY_BO
 const OUTPUT_PATH = path.resolve(process.cwd(), 'stories.json');
 
 // ------------------------------------------------------------
+// DEDUP — cluster stories covering the same event
+// ------------------------------------------------------------
+const STOP_WORDS = new Set([
+  'the', 'and', 'for', 'that', 'this', 'with', 'from', 'have', 'has',
+  'will', 'been', 'were', 'are', 'was', 'not', 'but', 'what', 'all',
+  'can', 'had', 'her', 'his', 'its', 'our', 'than', 'then', 'them',
+  'they', 'into', 'some', 'could', 'would', 'about', 'which', 'when',
+  'make', 'like', 'just', 'over', 'such', 'take', 'also', 'more',
+  'after', 'says', 'said', 'new', 'may',
+]);
+
+function tokenize(text) {
+  return new Set(
+    text.toLowerCase()
+      .replace(/[^a-z0-9\s]/g, ' ')
+      .split(/\s+/)
+      .filter(w => w.length >= 4 && !STOP_WORDS.has(w))
+  );
+}
+
+function similarity(setA, setB) {
+  if (!setA.size || !setB.size) return 0;
+  let intersection = 0;
+  const smaller = setA.size <= setB.size ? setA : setB;
+  const larger = setA.size <= setB.size ? setB : setA;
+  for (const w of smaller) if (larger.has(w)) intersection++;
+  return intersection / smaller.size; // overlap coefficient
+}
+
+function normalizeUrl(url) {
+  try {
+    const u = new URL(url);
+    u.searchParams.delete('utm_source');
+    u.searchParams.delete('utm_medium');
+    u.searchParams.delete('utm_campaign');
+    u.searchParams.delete('utm_content');
+    u.searchParams.delete('utm_term');
+    u.searchParams.delete('ref');
+    let h = u.hostname.replace(/^www\./, '');
+    return `${h}${u.pathname.replace(/\/+$/, '')}${u.search}`;
+  } catch { return url; }
+}
+
+function dedup(items) {
+  // Phase 1: exact URL matches
+  const byUrl = new Map();
+  for (const item of items) {
+    const key = normalizeUrl(item.link);
+    const existing = byUrl.get(key);
+    if (existing) {
+      existing.push(item);
+    } else {
+      byUrl.set(key, [item]);
+    }
+  }
+
+  const unique = [];
+  for (const group of byUrl.values()) {
+    const primary = group.sort((a, b) => (b.desc?.length || 0) - (a.desc?.length || 0))[0];
+    primary.alsoAt = group.filter(g => g !== primary).map(g => ({ source: g.sourceName, url: g.link }));
+    unique.push(primary);
+  }
+
+  // Phase 2: title similarity clustering
+  const tokenized = unique.map(a => ({ item: a, tokens: tokenize(a.title) }));
+  const clusters = [];
+  const used = new Set();
+
+  for (let i = 0; i < tokenized.length; i++) {
+    if (used.has(i)) continue;
+    const cluster = [i];
+    used.add(i);
+
+    for (let j = i + 1; j < tokenized.length; j++) {
+      if (used.has(j)) continue;
+      if (similarity(tokenized[i].tokens, tokenized[j].tokens) >= 0.6) {
+        cluster.push(j);
+        used.add(j);
+      }
+    }
+
+    if (cluster.length === 1) {
+      clusters.push(tokenized[i].item);
+    } else {
+      // Pick primary: prefer longest description, then earliest date
+      const group = cluster.map(idx => tokenized[idx].item);
+      group.sort((a, b) => {
+        const d = (b.desc?.length || 0) - (a.desc?.length || 0);
+        if (d) return d;
+        return new Date(a.date) - new Date(b.date);
+      });
+      const primary = group[0];
+      const others = group.slice(1);
+      primary.alsoAt = [
+        ...(primary.alsoAt || []),
+        ...others.map(o => ({ source: o.sourceName, url: o.link })),
+        ...others.flatMap(o => o.alsoAt || []),
+      ];
+      clusters.push(primary);
+    }
+  }
+
+  return clusters;
+}
+
+// ------------------------------------------------------------
 // FILTERS
 // ------------------------------------------------------------
 const COMPILED_FILTERS = FILTERS
@@ -176,6 +282,11 @@ async function main() {
   const kept = collected.filter(i => !isFilteredOut(i, FEEDS.find(f => f.id === i.source)));
   const filteredOut = before - kept.length;
 
+  // Deduplicate stories covering the same event
+  const deduped = dedup(kept);
+  const dupsMerged = kept.length - deduped.length;
+  if (dupsMerged) console.log(`  Dedup: merged ${dupsMerged} duplicate(s), ${deduped.length} unique stories remain`);
+
   // Compile term-based priority patterns
   const compiledTerms = (PRIORITY_TERMS || []).map(t => {
     const re = t.pattern instanceof RegExp
@@ -185,7 +296,7 @@ async function main() {
   });
 
   // Tag items that match priority terms and compute per-item term boost
-  for (const item of kept) {
+  for (const item of deduped) {
     const hay = (item.title || '') + ' ' + (item.desc || '');
     let termBoost = 0;
     for (const t of compiledTerms) {
@@ -196,7 +307,7 @@ async function main() {
 
   const boostMs = PRIORITY_BOOST_HOURS * 3600000;
   const feedPriority = Object.fromEntries(FEEDS.map(f => [f.id, f.priority ?? 0]));
-  kept.sort((a, b) => {
+  deduped.sort((a, b) => {
     const effA = new Date(a.date).getTime() + (feedPriority[a.source] + (a.termBoost || 0)) * boostMs;
     const effB = new Date(b.date).getTime() + (feedPriority[b.source] + (b.termBoost || 0)) * boostMs;
     return effB - effA;
@@ -208,7 +319,8 @@ async function main() {
     successCount: FEEDS.length - errors.length,
     filteredOut,
     errors,
-    items: kept
+    dupsMerged,
+    items: deduped
   };
 
   // If every feed failed AND we have an existing stories.json, don't
@@ -224,7 +336,7 @@ async function main() {
   }
 
   await fs.writeFile(OUTPUT_PATH, JSON.stringify(payload, null, 2) + '\n', 'utf8');
-  console.log(`Wrote ${kept.length} items (${filteredOut} filtered out) to ${OUTPUT_PATH}`);
+  console.log(`Wrote ${deduped.length} items (${filteredOut} filtered out, ${dupsMerged} dupes merged) to ${OUTPUT_PATH}`);
   if (errors.length) process.exitCode = 0; // partial success is still OK
 }
 
