@@ -74,7 +74,7 @@ function dedup(items) {
   const unique = [];
   for (const group of byUrl.values()) {
     const primary = group.sort((a, b) => (b.desc?.length || 0) - (a.desc?.length || 0))[0];
-    primary.alsoAt = group.filter(g => g !== primary).map(g => ({ source: g.sourceName, url: g.link }));
+    primary.alsoAt = group.filter(g => g !== primary).map(g => ({ source: g.sourceName, sourceId: g.source, url: g.link }));
     unique.push(primary);
   }
 
@@ -110,7 +110,7 @@ function dedup(items) {
       const others = group.slice(1);
       primary.alsoAt = [
         ...(primary.alsoAt || []),
-        ...others.map(o => ({ source: o.sourceName, url: o.link })),
+        ...others.map(o => ({ source: o.sourceName, sourceId: o.source, url: o.link })),
         ...others.flatMap(o => o.alsoAt || []),
       ];
       clusters.push(primary);

@@ -399,13 +399,17 @@
     color: var(--dim);
     margin-top: 6px;
     letter-spacing: 0.5px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
   }
-  .card .also-at a {
-    color: var(--amber);
+  .card .also-at .src-tag {
+    font-size: 9px;
     text-decoration: none;
-    font-weight: 600;
+    padding: 2px 6px;
   }
-  .card .also-at a:hover { text-decoration: underline; }
+  .card .also-at .src-tag:hover { opacity: 0.8; }
   .topic-tag {
     font-size: 9px;
     letter-spacing: 1px;
@@ -858,7 +862,7 @@
         <h3>${hl(i.title)}</h3>
         ${i.desc ? `<p>${hl(i.desc)}</p>` : ''}
         <div class="topics">${i.topics.map(t => `<span class="topic-tag ${t}">${TAG_LABELS[t] || t}</span>`).join('')}</div>
-        ${i.alsoAt?.length ? `<div class="also-at">Also: ${i.alsoAt.map(a => `<a href="${escapeAttr(a.url)}" target="_blank" rel="noopener">${escapeHtml(a.source)}</a>`).join(', ')}</div>` : ''}
+        ${i.alsoAt?.length ? `<div class="also-at">Others covering: ${i.alsoAt.map(a => `<a class="src-tag ${a.sourceId || ''}" href="${escapeAttr(a.url)}" target="_blank" rel="noopener">${escapeHtml(a.source)}</a>`).join(' ')}</div>` : ''}
       </div>
     `).join('');
 
