@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-18T22:24:55.254Z",
+  "generatedAt": "2026-05-18T22:48:43.822Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 271,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "decrypt",
@@ -34,8 +34,24 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-18T22:24:55.103Z",
+      "date": "2026-05-18T22:48:43.431Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Tempo Expands Beyond Payments With Morpho Integration",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/tempo-expands-beyond-payments-with-morpho-integration/",
+      "desc": "Tempo is expanding its push into institutional stablecoin infrastructure by adding decentralized lending and yield capabilities to its blockchain. The Stripe- and Paradigm-backed company said it is integrating Morpho’s lending marketplace, a move that broadens Tempo from a payments network into a more comprehensive financial platform for FinTechs and enterprises using stablecoins. According to […] The post Tempo Expands Beyond Payments With Morpho Integration appeared first on PYMNTS.com.",
+      "date": "2026-05-18T22:36:45.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/05/18/stripe-backed-tempo-taps-usd7-5-billion-defi-lender-morpho-to-expand-beyond-payments"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -159,16 +175,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "UK Regulators Unveil Blueprint for Asset Tokenization in Wholesale Markets",
-      "link": "https://www.pymnts.com/blockchain/2026/uk-regulators-unveil-blueprint-for-asset-tokenization-in-wholesale-markets/",
-      "desc": "The Financial Conduct Authority (FCA) and the Bank of England on Monday (May 18) issued a joint framework to accelerate tokenization within the U.K.’s wholesale financial markets. The initiative seeks to provide the regulatory and technical certainty institutional firms require to transition digital asset technology from experimental pilots into mainstream production. Tokenization creates digital […] The post UK Regulators Unveil Blueprint for Asset Tokenization in Wholesale Markets appeared first on PYMNTS.com.",
-      "date": "2026-05-18T18:21:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Minnesota legalizes crypto custody services for banks, credit unions",
@@ -271,16 +277,6 @@
       "link": "https://www.theblock.co/post/401688/bitwise-add-hype-balance-sheet-fees-hyperliquid-etf?utm_source=rss&utm_medium=rss",
       "desc": "Hyperliquid now regularly beats out Ethereum and Solana in weekly blockchain fee generation, driven largely by perpetual futures.",
       "date": "2026-05-18T16:42:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Stripe-backed Tempo taps $7.5 billion DeFi lender Morpho to expand beyond payments",
-      "link": "https://www.coindesk.com/business/2026/05/18/stripe-backed-tempo-taps-usd7-5-billion-defi-lender-morpho-to-expand-beyond-payments",
-      "desc": "The move brings onchain yield and lending to the payments-focused chain in a bid to offer full-stack onchain finance platform to companies building on it.",
-      "date": "2026-05-18T16:27:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
