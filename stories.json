@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-05-18T20:33:46.994Z",
+  "generatedAt": "2026-05-18T21:28:52.546Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 269,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 11,
   "items": [
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Faces Greater Quantum Computing Risk Than Ethereum, Citi Warns",
+      "link": "https://decrypt.co/368264/bitcoin-faces-greater-quantum-computing-risk-ethereum-citi-warns",
+      "desc": "Both Bitcoin and Ethereum face a quantum computing threat, but Citi says the gap between them comes down to governance, not just technology.",
+      "date": "2026-05-18T20:55:33.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -23,7 +34,7 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-18T20:33:46.982Z",
+      "date": "2026-05-18T21:28:52.202Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -124,7 +135,13 @@
       "link": "https://cointelegraph.com/news/minnesota-crypto-custody-services-banks-credit-unions-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Minnesota-based banking institutions and credit unions will be authorized to provide digital asset custody services in a nonfiduciary capacity as of Aug. 1.",
       "date": "2026-05-18T17:52:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -754,16 +771,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy",
-      "link": "https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy",
-      "desc": "Bitcoin Depot, the largest bitcoin ATM operator in North America and publicly listed on Nasdaq, has filed for Chapter 11 bankruptcy.",
-      "date": "2026-05-18T06:55:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Reports suggest Iran is mulling Hormuz ‘insurance’ scheme, paid in Bitcoin",
@@ -820,16 +827,6 @@
       "link": "https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch",
       "desc": "The exchange’s KuCard rollout enables users to make \"seamless payments\" to Mastercard merchants using USDC.",
       "date": "2026-05-18T00:01:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "The Mysterious Crypto Judges Who Settle Polymarket Disputes",
-      "link": "https://www.wsj.com/finance/polymarket-bet-disputes-fb1b8c6a?mod=rss_markets_main",
-      "desc": "A fight over the Hezbollah cease-fire highlights unease over the prediction market’s arbitration system.",
-      "date": "2026-05-18T00:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
