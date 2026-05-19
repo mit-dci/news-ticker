@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-19T03:09:42.515Z",
+  "generatedAt": "2026-05-19T04:50:17.047Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 270,
+  "filteredOut": 272,
   "errors": [],
   "dupsMerged": 10,
   "items": [
@@ -34,7 +34,7 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-19T03:09:42.433Z",
+      "date": "2026-05-19T04:50:17.036Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -232,6 +232,11 @@
       "desc": "Minnesota-based banking institutions and credit unions will be authorized to provide digital asset custody services in a nonfiduciary capacity as of Aug. 1.",
       "date": "2026-05-18T17:52:00.000Z",
       "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/401775/minnesota-bank-crypto-custody?utm_source=rss&utm_medium=rss"
+        },
         {
           "source": "COINDESK",
           "sourceId": "coindesk",
@@ -665,16 +670,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bank of England, FCA launch consultation on tokenized UK wholesale markets",
-      "link": "https://www.theblock.co/post/401625/bank-of-england-fca-launch-consultation-on-tokenized-uk-wholesale-markets?utm_source=rss&utm_medium=rss",
-      "desc": "UK regulators seek industry feedback on tokenized securities, collateral, and settlement infrastructure with a July 3 deadline.",
-      "date": "2026-05-18T11:16:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "The three risks that could overwhelm bitcoin's regulatory tailwind",
@@ -846,22 +841,6 @@
           "source": "BITCOIN CORE",
           "sourceId": "bitcoincore",
           "url": "https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "bcannounce",
-      "sourceName": "BTC CORE ANN",
-      "title": "Bitcoin Core 31.0 released",
-      "link": "https://bitcoincore.org/en/2026/04/19/release-31.0/",
-      "desc": "Bitcoin Core version 31.0 is now available for download. See the release notes for more information about the bug fixes in this release. If you have any questions, please stop by the #bitcoin IRC chatroom (IRC, web) and we’ll do our best to help you.",
-      "date": "2026-04-19T04:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "BITCOIN CORE",
-          "sourceId": "bitcoincore",
-          "url": "https://bitcoincore.org/en/2026/04/19/release-31.0/"
         }
       ],
       "termBoost": 0
