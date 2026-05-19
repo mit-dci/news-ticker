@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-19T07:47:27.684Z",
+  "generatedAt": "2026-05-19T09:12:09.566Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 271,
+  "filteredOut": 272,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "decrypt",
@@ -29,12 +29,58 @@
       "termBoost": 3
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Private markets fintech bunch lands $35 million Series B",
+      "link": "https://www.finextra.com/newsarticle/47775/private-markets-fintech-bunch-lands-35-million-series-b?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Berlin-based private markets platform bunch has closed on a $35 million Series B.",
+      "date": "2026-05-19T09:20:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-19T07:47:27.624Z",
+      "date": "2026-05-19T09:12:07.655Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Echo Protocol suffers $76 million exploit in eBTC minting attack on Monad",
+      "link": "https://www.coindesk.com/business/2026/05/19/echo-protocol-suffers-usd76-million-exploit-in-ebtc-minting-attack-on-monad",
+      "desc": "The Bitcoin-focused DeFi protocol suffered an attack whereby about 1,000 unauthorized eBTC $77 million were minted on the Monad blockchain",
+      "date": "2026-05-19T08:42:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "A DeFi exchange becomes the first to offer equity perpetuals powered by Nasdaq data",
+      "link": "https://www.coindesk.com/markets/2026/05/19/a-defi-exchange-becomes-the-first-to-offer-equity-perpetuals-powered-by-nasdaq-data",
+      "desc": "The partnership underscores both the rapid growth of equity perpetuals in onchain markets and Nasdaq’s broader strategy to support tokenized equity trading infrastructure.",
+      "date": "2026-05-19T08:28:30.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/401743/ostiums-onchain-perpetuals-exchange-nasdaq-data?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion",
+      "link": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
+      "desc": "CoinShares data shows investors are rotating into listed products based on XRP and SOL while bitcoin and ethereum products posted heavy weekly outflows.",
+      "date": "2026-05-19T08:25:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -235,30 +281,10 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin’s trend defining battle starts at the $74K support: Analyst",
+      "title": "Bitcoin’s trend-defining battle starts at $74K support: Analyst",
       "link": "https://cointelegraph.com/markets/bitcoin-analyst-flags-74k-as-btcs-biggest-support-battle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin traders are closely watching the $74,000-$75,000 support zone as exchange inflows rise and market signals weaken following BTC's loss of momentum above $82,000.",
       "date": "2026-05-18T19:57:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ostium’s onchain perpetuals exchange to be ‘powered’ by Nasdaq data",
-      "link": "https://www.theblock.co/post/401743/ostiums-onchain-perpetuals-exchange-nasdaq-data?utm_source=rss&utm_medium=rss",
-      "desc": "Ostium says this tie-up makes it the \"first onchain trading venue to offer equity perpetual products powered by Nasdaq data.\"",
-      "date": "2026-05-18T19:56:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Hormuz Disruption Opens New Test for Crypto in Global Trade",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/bitcoin-meets-geopolitics-hormuz-experiments-with-crypto-tollbooth/",
-      "desc": "There are few economic bottlenecks more consequential than the Strait of Hormuz. Roughly a fifth of global oil consumption passes through the narrow waterway connecting the Persian Gulf to the Arabian Sea, making it less a regional shipping lane than a structural pillar of the global economy. When traffic through Hormuz is disrupted, as […] The post Hormuz Disruption Opens New Test for Crypto in Global Trade appeared first on PYMNTS.com.",
-      "date": "2026-05-18T19:52:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -668,36 +694,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Standard Chartered projects $4T in tokenized assets by end-2028, with DeFi protocols primary beneficiaries",
-      "link": "https://www.theblock.co/post/401635/standard-chartered-projects-4t-in-tokenized-assets-by-end-2028-with-defi-protocols-primary-beneficiaries?utm_source=rss&utm_medium=rss",
-      "desc": "Standard Chartered projects $4 trillion in tokenized assets by the end of 2028, with DeFi protocols positioned to benefit most.",
-      "date": "2026-05-18T11:58:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Standard Chartered to acquire remainder of subsidiary Zodia Custody",
-      "link": "https://www.coindesk.com/business/2026/05/18/standard-chartered-to-acquire-remainder-of-subsidiary-zodia-custody",
-      "desc": "The bank's offer to acquire the slice of Zodia Custody it doesn't already own has been accepted by the firm's other shareholders and noteholders.",
-      "date": "2026-05-18T11:53:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Digital Assets Clearing Center secures $10 million investment",
-      "link": "https://www.finextra.com/pressarticle/109865/digital-assets-clearing-center-secures-10-million-investment?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Digital Asset Clearing Center (DACC.HK), a next-generation financial market infrastructure for the tokenized economy, today announced US$10 million in funding from strategic partners including Conflux, Transaction Technologies Limited (“TTL”) and Global InfoTech.",
-      "date": "2026-05-18T11:46:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Bitcoin Extends Decline Below $78,500 as Bearish Pressure Intensifies",
@@ -724,16 +720,6 @@
       "link": "https://cointelegraph.com/markets/xrp-price-may-explode-15-dollars-quiet-accumulation-analyst-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "XRP still faces short-term downside risk, with a symmetrical triangle breakdown pointing to a possible drop toward $1.00–$1.10.",
       "date": "2026-05-18T11:19:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The three risks that could overwhelm bitcoin's regulatory tailwind",
-      "link": "https://www.coindesk.com/daybook-us/2026/05/18/the-three-risks-that-could-overwhelm-bitcoin-s-regulatory-tailwind",
-      "desc": "Your day-ahead look for May 18, 2026",
-      "date": "2026-05-18T11:08:19.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
