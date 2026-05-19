@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-19T04:50:17.047Z",
+  "generatedAt": "2026-05-19T06:25:32.774Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 272,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "decrypt",
@@ -34,8 +34,44 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-19T04:50:17.036Z",
+      "date": "2026-05-19T06:25:32.445Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin has shed $5,000 within days. The data says this selloff could worsen",
+      "link": "https://www.coindesk.com/markets/2026/05/19/bitcoin-has-shed-usd5-000-within-days-the-data-says-this-selloff-could-worsen",
+      "desc": "Bitcoin has fallen about 6% from $82,000 to $76,800, but underlying data point to more than routine pullback.",
+      "date": "2026-05-19T06:08:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "About 10% of Americans used crypto in 2025, highest level since 2022: Fed",
+      "link": "https://cointelegraph.com/news/10-percent-of-americans-invested-or-used-crypto-in-2025-federal-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Among those who used crypto for payments, over 25% said they did so because the business preferred crypto, citing speed, privacy and lower cost advantages.",
+      "date": "2026-05-19T05:13:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ether pullback was ‘attractive opportunity’ for 71,672 ETH buy: Bitmine’s Lee",
+      "link": "https://cointelegraph.com/news/tom-lee-bitmine-buys-71672-eth-during-price-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitmine chairman Tom Lee said the company is expected to have accumulated 5% of Ether's total supply before the end of the year.",
+      "date": "2026-05-19T04:21:57.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/05/18/bitmine-buys-the-dip-as-tom-lee-ties-ether-s-pullback-to-rising-oil-prices"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -45,7 +81,13 @@
       "link": "https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&utm_medium=rss",
       "desc": "BTCFi protocol Echo was exploited, with the attacker minting 1,000 eBTC on Monad and using it as collateral to borrow WBTC.",
       "date": "2026-05-19T02:49:27.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/echo-protocols-ebtc-exploited-for-76m-in-admin-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -532,16 +574,6 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Bitmine buys the dip as Tom Lee ties ether's pullback to rising oil prices",
-      "link": "https://www.coindesk.com/business/2026/05/18/bitmine-buys-the-dip-as-tom-lee-ties-ether-s-pullback-to-rising-oil-prices",
-      "desc": "The Ethereum treasury firm bought over 71,000 ETH last week, a sharp increase from the previous week's purchases.",
-      "date": "2026-05-18T13:01:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
       "title": "Strategy made mammoth $2 billion bitcoin purchase last week",
       "link": "https://www.coindesk.com/markets/2026/05/18/strategy-purchases-nearly-25-000-more-bitcoin-worth-more-than-usd2-billion",
       "desc": "Michael Saylor and team added 24,869 BTC last week, bringing total holdings to 843,738 coins.",
@@ -710,16 +742,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Fed minutes, Meta stablecoin Senate deadline: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/05/18/fed-minutes-meta-stablecoin-senate-deadline-crypto-week-ahead",
-      "desc": "Your look at what's coming in the week starting May 18.",
-      "date": "2026-05-18T10:36:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "AFX launches sovereign Layer 1, providing an optimized execution environment for on-chain perp DEXes",
@@ -750,16 +772,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Capital B boosts Bitcoin reserves with $15.2M purchase",
-      "link": "https://cointelegraph.com/news/capital-b-acquires-bitcoin-reach-btc-total-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The 25th-largest Bitcoin treasury company acquired $15 million worth of BTC as one of only four treasury firms to announce a corporate Bitcoin investment during May.",
-      "date": "2026-05-18T10:11:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Circle's USYC Becomes Largest T-Bill Fund on BNB Chain at $2.9 Billion",
@@ -776,26 +788,6 @@
       "link": "https://decrypt.co/368146/crypto-atm-operator-bitcoin-depot-files-for-chapter-11-bankruptcy",
       "desc": "North America's largest Bitcoin ATM operator cited a hostile regulatory environment and an 'unsustainable' business model.",
       "date": "2026-05-18T09:36:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Verus Ethereum bridge reportedly exploited for $11.6M in latest DeFi attack",
-      "link": "https://cointelegraph.com/news/verus-ethereum-bridge-reportedly-exploited-for-millions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Two security companies have flagged the address where the stolen funds are allegedly being held, showing the cryptocurrencies have been converted into 5,402 Ether.",
-      "date": "2026-05-18T07:11:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Surging oil prices have been driving Ether selling pressure: Tom Lee",
-      "link": "https://cointelegraph.com/news/surging-oil-prices-key-driver-of-eth-selling-pressure-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Fundstrat's Tom Lee pointed out an inverse correlation between crude and Ether as oil surged back to around $110 on Monday.",
-      "date": "2026-05-18T07:02:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
