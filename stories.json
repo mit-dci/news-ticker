@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-05-19T10:42:38.842Z",
+  "generatedAt": "2026-05-19T12:03:16.679Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 272,
+  "filteredOut": 273,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 14,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "BSC’s quantum defense works. The trade-off is 40% slower transaction throughput.",
+      "link": "https://www.coindesk.com/markets/2026/05/19/bsc-s-quantum-defense-works-the-trade-off-is-40-slower-transaction-throughput",
+      "desc": "BSC’s quantum-security test worked, but bigger transaction data slowed network throughput by about 40%.",
+      "date": "2026-05-19T10:52:39.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -29,22 +40,72 @@
       "termBoost": 3
     },
     {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin flows and spillovers to FX markets",
+      "link": "https://www.bis.org/publ/work1340.htm",
+      "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
+      "date": "2026-05-19T12:03:16.308Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Amid the Clarity Act fanfare is some worry over how a last-minute deal may punch DeFi",
+      "link": "https://www.coindesk.com/news-analysis/2026/05/18/amid-the-clarity-act-fanfare-is-some-worry-over-how-a-last-minute-deal-may-punch-defi",
+      "desc": "The crypto market structure bill saw a high-stakes, 11th-hour gambit to get Democrats on board for a bipartisan committee vote, but it might carry a cost.",
+      "date": "2026-05-19T12:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin ETFs Shed $649M in a Day as Long-Term BTC Holders ‘Limit Downside Potential’",
+      "link": "https://decrypt.co/368321/bitcoin-etfs-shed-649m-in-a-day-as-long-term-btc-holders-limit-downside-potential",
+      "desc": "U.S. spot Bitcoin ETFs posted $648 million outflows Monday as long-term BTC holders continue to accumulate the cryptocurrency.",
+      "date": "2026-05-19T11:55:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin may bottom in October if historical reward-halving cycle holds",
+      "link": "https://www.coindesk.com/daybook-us/2026/05/19/bitcoin-may-bottom-in-october-if-historical-reward-halving-cycle-holds",
+      "desc": "Your day-ahead look for May 19, 2026",
+      "date": "2026-05-19T11:25:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin DeFi Platform Echo Protocol Hit By $76M Monad Exploit",
+      "link": "https://decrypt.co/368315/bitcoin-defi-platform-echo-protocol-hit-by-76m-monad-exploit",
+      "desc": "Echo Protocol said that a compromised admin key had enabled unauthorized eBTC minting on its Monad deployment.",
+      "date": "2026-05-19T11:13:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Wallet cluster earned $2.4M with 98% win rate on Polymarket military bets: Bubblemaps",
+      "link": "https://cointelegraph.com/news/bubblemaps-polymarket-cluster-win-military-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bubblemaps’ investigation found a cluster of nine accounts that generated $2.4 million with a near-perfect win rate on Polymarket contracts tied to major US military operations.",
+      "date": "2026-05-19T11:10:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "FIX releases DeFi manual for TradFi",
       "link": "https://www.finextra.com/pressarticle/109880/fix-releases-defi-manual-for-tradfi?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "The FIX Trading Community, the industry association that manages the world’s trading language, the FIX Protocol, has released a comprehensive manual on digital assets and blockchain technology for finance professionals – Blockchain Basics.",
       "date": "2026-05-19T10:58:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin flows and spillovers to FX markets",
-      "link": "https://www.bis.org/publ/work1340.htm",
-      "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-19T10:42:38.571Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -193,13 +254,7 @@
       "link": "https://cointelegraph.com/news/tom-lee-bitmine-buys-71672-eth-during-price-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitmine chairman Tom Lee said the company is expected to have accumulated 5% of Ether's total supply before the end of the year.",
       "date": "2026-05-19T04:21:57.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/05/18/bitmine-buys-the-dip-as-tom-lee-ties-ether-s-pullback-to-rising-oil-prices"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -229,32 +284,12 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Revolut Launches Physical Crypto Debit Card Amid Rising Transaction Volume",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/revolut-launches-physical-crypto-debit-card-amid-rising-transaction-volume/",
-      "desc": "Revolut unveiled Monday (May 18) its first physical cryptocurrency debit card, a move that follows a notable increase in industry-wide card usage and transaction volumes. According to reporting and data from The Block, daily crypto card transactions have trended upward since last year, recently exceeding 100,000 on several occasions. The new card features a […] The post Revolut Launches Physical Crypto Debit Card Amid Rising Transaction Volume appeared first on PYMNTS.com.",
-      "date": "2026-05-18T22:58:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Odds against rate cuts high as new US Fed chair set for swearing in",
       "link": "https://cointelegraph.com/news/interest-rates-fed-chair-kevin-warsh-sworn-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Many experts voiced concerns that the confirmation of Kevin Warsh as Federal Reserve chair would lead to uncertainty about the central bank’s independence, particularly in setting interest rates.",
       "date": "2026-05-18T22:49:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Stripe-Backed Tempo Expands Into Lending With Morpho Integration",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/tempo-expands-beyond-payments-with-morpho-integration/",
-      "desc": "Tempo is expanding its push into institutional stablecoin infrastructure by adding decentralized lending and yield capabilities to its blockchain. The Stripe- and Paradigm-backed company said it is integrating Morpho’s lending marketplace, a move that broadens Tempo from a payments network into a more comprehensive financial platform for FinTechs and enterprises using stablecoins. According to […] The post Stripe-Backed Tempo Expands Into Lending With Morpho Integration appeared first on PYMNTS.com.",
-      "date": "2026-05-18T22:36:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -618,16 +653,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitmine lifts ether treasury to 5.28 million ETH as total holdings top $12 billion",
-      "link": "https://www.theblock.co/post/401653/bitmine-lifts-ether-treasury-to-5-28-million-eth-as-total-holdings-top-12-billion?utm_source=rss&utm_medium=rss",
-      "desc": "Bitmine lifted its ether treasury to 5.28 million ETH, or 4.37% of supply, as total crypto and cash holdings reached $12.6 billion.",
-      "date": "2026-05-18T13:28:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Iran Launches Bitcoin-Backed Insurance Service for Strait of Hormuz Shipping, Eyes $10B In Revenue",
@@ -649,32 +674,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Strategy made mammoth $2 billion bitcoin purchase last week",
-      "link": "https://www.coindesk.com/markets/2026/05/18/strategy-purchases-nearly-25-000-more-bitcoin-worth-more-than-usd2-billion",
-      "desc": "Michael Saylor and team added 24,869 BTC last week, bringing total holdings to 843,738 coins.",
-      "date": "2026-05-18T12:47:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "South Korea's KB Financial completes stablecoin pilot for offline payments",
       "link": "https://cointelegraph.com/news/south-korean-kb-financial-stablecoin-pilot-offline-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The parent company of South Korea’s largest bank completed a stablecoin payment pilot ahead of the country's proposed digital asset framework.",
       "date": "2026-05-18T12:42:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Tokenization push could pull trillions of dollars into DeFi, StanChart says",
-      "link": "https://www.coindesk.com/markets/2026/05/18/tokenization-push-could-pull-trillions-of-dollars-into-defi-stanchart-says",
-      "desc": "The bank projects $4 trillion of tokenized assets by 2028, boosting demand for blockchain-native lending and trading infrastructure.",
-      "date": "2026-05-18T12:32:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -735,16 +740,6 @@
       "link": "https://cointelegraph.com/press-releases/proof-of-talk-returns-to-the-louvre-with-100-c-level-speakers-representing-18-trillion-in-aum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Proof of Talk, widely known as the Davos of Web3, today confirmed its 2026 programme and opened remaining passes for its fourth edition at the Louvre Palace in Paris on June 2–3.",
       "date": "2026-05-18T11:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "South Korea reviews Hana Bank’s Dunamu stake under banking rules: Report",
-      "link": "https://cointelegraph.com/news/koreas-fsc-reviewing-hana-banks-dunamu-stake-separation-rules-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "South Korea’s FSC is reportedly reviewing Hana Bank’s $668 million Dunamu stake under “banking-commerce separation” rules that limit bank ownership tied to crypto firms.",
-      "date": "2026-05-18T10:54:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
