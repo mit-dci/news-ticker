@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-19T01:42:35.756Z",
+  "generatedAt": "2026-05-19T03:09:42.515Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 269,
+  "filteredOut": 270,
   "errors": [],
   "dupsMerged": 10,
   "items": [
@@ -34,7 +34,17 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-19T01:42:35.128Z",
+      "date": "2026-05-19T03:09:42.433Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "BTCFi protocol Echo exploited, targeting eBTC market on Monad: onchain analysts",
+      "link": "https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&utm_medium=rss",
+      "desc": "BTCFi protocol Echo was exploited, with the attacker minting 1,000 eBTC on Monad and using it as collateral to borrow WBTC.",
+      "date": "2026-05-19T02:49:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -494,34 +504,24 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Iran Launches Bitcoin-Settled Insurance Platform for Hormuz Strait Shipping",
-      "link": "https://thedefiant.io/news/markets/iran-hormuz-safe-bitcoin-insurance-platform-3p0r5p",
-      "desc": "Iran has unveiled Hormuz Safe, a Bitcoin-backed insurance service enabling shipping companies to obtain coverage for transiting the Strait of Hormuz.",
-      "date": "2026-05-18T13:18:41.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/368168/iran-pushes-10b-bitcoin-insurance-plan-for-strait-of-hormuz-report"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/401612/iran-linked-report-says-hormuz-safe-bitcoin-settled-insurance-platform-aims-to-generate-10-billion?utm_source=rss&utm_medium=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Iran Launches Bitcoin-Backed Insurance Service for Strait of Hormuz Shipping, Eyes $10B In Revenue",
       "link": "https://bitcoinmagazine.com/news/iran-launches-bitcoin-backed-service",
       "desc": "Bitcoin Magazine Iran Launches Bitcoin-Backed Insurance Service for Strait of Hormuz Shipping, Eyes $10B In Revenue Iran has reportedly launched “Hormuz Safe,” a bitcoin-settled maritime insurance platform aimed at cargo owners and shipping firms operating through the Strait of Hormuz and the Persian Gulf. This post Iran Launches Bitcoin-Backed Insurance Service for Strait of Hormuz Shipping, Eyes $10B In Revenue first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-05-18T13:17:36.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/markets/iran-hormuz-safe-bitcoin-insurance-platform-3p0r5p"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/368168/iran-pushes-10b-bitcoin-insurance-plan-for-strait-of-hormuz-report"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -771,16 +771,6 @@
       "link": "https://thedefiant.io/converge/cefi/circle-usyc-largest-t-bill-fund-2-9-billion-cxpol7",
       "desc": "Circle's USYC tokenized Treasury bill fund has reached $2.9 billion in market cap, becoming the largest T-Bill fund deployment across blockchain networks.",
       "date": "2026-05-18T10:02:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bernstein says Clarity Act yield compromise cements Circle’s edge amid record stablecoin supply",
-      "link": "https://www.theblock.co/post/401615/bernstein-says-clarity-act-yield-compromise-cements-circles-edge-amid-record-stablecoin-supply?utm_source=rss&utm_medium=rss",
-      "desc": "Bernstein analysts said the Senate Clarity Act markup and yield compromise strengthen Circle's model as dollar stablecoin supply grows.",
-      "date": "2026-05-18T09:52:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
