@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-19T20:36:33.405Z",
+  "generatedAt": "2026-05-19T21:33:00.358Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 263,
+  "filteredOut": 264,
   "errors": [],
   "dupsMerged": 6,
   "items": [
@@ -34,7 +34,37 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-19T20:36:32.936Z",
+      "date": "2026-05-19T21:32:59.016Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-179b0658?mod=rss_markets_main",
+      "desc": "Find insight on bitcoin, Standard Chartered and more in the latest Market Talks covering Financial Services.",
+      "date": "2026-05-19T21:06:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Even a mountain of T-bills won't save Tether and Circle from a sudden liquidity crisis, expert says",
+      "link": "https://www.coindesk.com/business/2026/05/19/even-a-mountain-of-t-bills-won-t-save-tether-and-circle-from-a-sudden-liquidity-crisis-expert-says",
+      "desc": "The head of digital assets and tokenization at one of Germany’s largest asset managers said that USDT and USDC are not stablecoins, from his perspective.",
+      "date": "2026-05-19T20:47:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Tokenized equities daily volume hits all-time high of $3.57 billion",
+      "link": "https://www.theblock.co/post/401935/tokenized-equities-daily-volume-hits-all-time-high-of-3-57-billion?utm_source=rss&utm_medium=rss",
+      "desc": "The Block's data shows onchain equities trading volume growing since the start of the year, and hitting an all-time high on Monday.",
+      "date": "2026-05-19T20:45:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -95,7 +125,13 @@
       "link": "https://www.coindesk.com/markets/2026/05/19/hyperliquid-s-hype-one-of-crypto-s-most-undervalued-assets-says-bitwise",
       "desc": "The crypto asset manager argued the market is mispricing Hyperliquid as a niche derivatives exchange instead of a fast-growing “super-app” for global trading markets.",
       "date": "2026-05-19T18:33:58.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/401934/bitwise-calls-hype-a-gen-2-crypto-token-says-its-undervalued?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -185,16 +221,6 @@
       "link": "https://www.coindesk.com/opinion/2026/05/19/the-u-s-can-t-lose-the-bitcoin-race-to-china",
       "desc": "The next global power competition is not being fought over missiles alone. It’s being fought over money, and right now, China is moving aggressively to shape the future of it, argues Gooden.",
       "date": "2026-05-19T16:36:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-179b0658?mod=rss_markets_main",
-      "desc": "Find insight on bitcoin, higher bond yields , Commerzbank and more in the latest Market Talks covering Financial Services.",
-      "date": "2026-05-19T16:23:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -641,16 +667,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Spot bitcoin ETFs log $649 million in net outflows, largest since January",
-      "link": "https://www.theblock.co/post/401780/spot-bitcoin-etf-649-million-outflows?utm_source=rss&utm_medium=rss",
-      "desc": "Bitcoin is trading below $77,000 due to geopolitical tensions, inflation fears, and higher U.S. Treasury yields, analysts said.",
-      "date": "2026-05-19T06:39:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin has shed $5,000 within days. ETF flows, derivatives say the selloff could worsen",
@@ -698,22 +714,6 @@
       "desc": "Bitmine chairman Tom Lee said the company is expected to have accumulated 5% of Ether's total supply before the end of the year.",
       "date": "2026-05-19T04:21:57.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Minnesota signs law allowing banks, credit unions to offer crypto custody services",
-      "link": "https://www.theblock.co/post/401775/minnesota-bank-crypto-custody?utm_source=rss&utm_medium=rss",
-      "desc": "Governor Tim Walz has signed HF 3709 into law, permitting banks and credit unions to offer crypto custody services.",
-      "date": "2026-05-19T03:56:10.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -876,16 +876,6 @@
           "url": "https://decrypt.co/368168/iran-pushes-10b-bitcoin-insurance-plan-for-strait-of-hormuz-report"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Morning Minute: Bitcoin Slides Back to $77K on Rising Bond Yields, Oil Spike",
-      "link": "https://decrypt.co/368159/morning-minute-bitcoin-slides-back-to-77k-on-rising-bond-yields-oil-spike",
-      "desc": "Crypto majors are falling and the ETFs are seeing an exodus, while SpaceX had a major debut on Hyperliquid.",
-      "date": "2026-05-18T12:05:32.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
