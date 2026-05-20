@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-20T04:53:45.928Z",
+  "generatedAt": "2026-05-20T06:24:33.892Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 264,
+  "filteredOut": 262,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "coindesk",
@@ -34,7 +34,37 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-20T04:53:45.454Z",
+      "date": "2026-05-20T06:24:33.559Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Non-dollar stablecoins are struggling to crack 0.5% of market share",
+      "link": "https://www.coindesk.com/markets/2026/05/20/non-dollar-stablecoins-are-struggling-to-crack-0-5-of-market-share",
+      "desc": "Everyone is building non-dollar stablecoins. But data shows that compared to USD-denominated stablecoins, almost no one is using them.",
+      "date": "2026-05-20T06:13:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin is falling, bond yields are rising. Yet BTC’s implied volatility, an uncertainty gauge, remains low.",
+      "link": "https://www.coindesk.com/markets/2026/05/20/bitcoin-is-falling-bond-yields-are-rising-yet-btc-s-implied-volatility-an-uncertainty-gauge-remains-low",
+      "desc": "BTC's implied volatility remains low despite the recent price selloff. Options specialist prefers a long straddle strategy in this scenario.",
+      "date": "2026-05-20T06:08:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Tether, Gnosis co-lead $4.4 million seed round for lightweight mobile-friendly Sorted Wallet",
+      "link": "https://www.theblock.co/post/401929/tether-gnosis-co-lead-4-4-million-seed-round-lightweight-mobile-sorted-wallet?utm_source=rss&utm_medium=rss",
+      "desc": "With the additional funding, Sorted intends to expand geographically, particularly targeting Sub-Saharan Africa and South Asia.",
+      "date": "2026-05-20T06:01:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -86,6 +116,22 @@
       "desc": "The distributed market structure suggests the RWA landscape has not yet consolidated around a clear winner.",
       "date": "2026-05-19T22:36:02.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "CFTC sues Minnesota, Governor Tim Walz over prediction markets ban",
+      "link": "https://cointelegraph.com/news/cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "About 24 hours after Minnesota Governor Tim Walz signed a bill into law passed by the state’s legislature to effectively ban prediction markets in the state, the CFTC pushed back with its own lawsuit.",
+      "date": "2026-05-19T22:01:41.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/401917/cftc-sues-minnesota-first-explicit-state-ban-prediction-markets?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -192,16 +238,6 @@
           "url": "https://www.theblock.co/post/401934/bitwise-calls-hype-a-gen-2-crypto-token-says-its-undervalued?utm_source=rss&utm_medium=rss"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CFTC sues Minnesota over first explicit state ban on prediction markets",
-      "link": "https://www.theblock.co/post/401917/cftc-sues-minnesota-first-explicit-state-ban-prediction-markets?utm_source=rss&utm_medium=rss",
-      "desc": "Minnesota’s law could expose exchanges, payment providers, media partners, and sports leagues to criminal liability.",
-      "date": "2026-05-19T18:22:02.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -727,16 +763,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin has shed $5,000 within days. ETF flows, derivatives say the selloff could worsen",
-      "link": "https://www.coindesk.com/markets/2026/05/19/bitcoin-has-shed-usd5-000-within-days-the-data-says-this-selloff-could-worsen",
-      "desc": "Bitcoin has fallen about 6% from $82,000 to $76,800, and underlying data point to the drop being more than a routine pullback.",
-      "date": "2026-05-19T06:08:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Solana Co-founder Toly Backs New Perpetuals DEX to Challenge Hyperliquid's Dominance",
@@ -763,16 +789,6 @@
       "link": "https://cointelegraph.com/news/echo-protocols-ebtc-exploited-for-76m-in-admin-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The hacker has already laundered nearly 5% of the loot through Tornado Cash and is still holding the remaining 955 eBTC.",
       "date": "2026-05-19T04:52:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ether pullback was ‘attractive opportunity’ for 71,672 ETH buy: Bitmine’s Lee",
-      "link": "https://cointelegraph.com/news/tom-lee-bitmine-buys-71672-eth-during-price-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitmine chairman Tom Lee said the company is expected to have accumulated 5% of Ether's total supply before the end of the year.",
-      "date": "2026-05-19T04:21:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
