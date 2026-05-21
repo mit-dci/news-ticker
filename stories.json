@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-21T16:27:18.464Z",
+  "generatedAt": "2026-05-21T17:24:14.272Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 266,
+  "filteredOut": 265,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "coindesk",
@@ -29,12 +29,42 @@
       "termBoost": 3
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "One Inc appoints Kishore Konakanchi chief product officer",
+      "link": "https://www.finextra.com/pressarticle/109924/one-inc-appoints-kishore-konakanchi-chief-product-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "One Inc, the leading digital payments network for the insurance industry, today announced the appointment of Fintech veteran Kishore Konakanchi as the company’s new Chief Product Officer (CPO).",
+      "date": "2026-05-21T18:01:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-21T16:27:17.436Z",
+      "date": "2026-05-21T17:24:13.875Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ethereum’s identity crisis is deepening after high-profile 'brain drain' frustrates the community",
+      "link": "https://www.coindesk.com/tech/2026/05/21/ethereum-s-identity-crisis-is-deepening-after-high-profile-brain-drain-frustrates-the-community",
+      "desc": "What began earlier this week as shock over more exits of core figures has now evolved into something more existential, according to some community members.",
+      "date": "2026-05-21T16:56:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Pump.fun Launches USDC-Paired Liquidity Pools for Token Launches",
+      "link": "https://thedefiant.io/news/defi/pump-fun-launches-usdc-paired-liquidity-pools-gi72da",
+      "desc": "Pump.fun now allows coin creators to launch with USDC-paired liquidity pools instead of SOL, raising starting market caps to $4k and increasing early-stage supply costs by 67% to improve token distribution and ecosystem health.",
+      "date": "2026-05-21T16:43:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -296,7 +326,13 @@
       "link": "https://www.coindesk.com/business/2026/05/21/stablecoins-retain-the-edge-over-tokenized-money-market-funds-jpmorgan-says",
       "desc": "The bank said tokenized money market funds account for only about 5% of the broader stablecoin universe despite offering yield.",
       "date": "2026-05-21T12:49:17.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/402227/jpmorgan-tokenized-money-market-funds-stablecoins?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -635,16 +671,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Elon Musk’s SpaceX holds $1.45 billion worth of bitcoin as firm looks to go public",
-      "link": "https://www.theblock.co/post/402110/elon-musks-spacex-holds-1-45-billion-worth-of-bitcoin-as-firm-looks-to-go-public?utm_source=rss&utm_medium=rss",
-      "desc": "A stockpile of over 18,000 would make Elon Musk's SpaceX the seventh-largest Bitcoin holder, ahead of Coinbase.",
-      "date": "2026-05-20T21:24:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin rallies through $77K despite spot BTC ETF outflows topping $2B",
@@ -671,16 +697,6 @@
       "link": "https://decrypt.co/368543/artificial-womb-growing-mammals-one-yard-line-colossal-ceo",
       "desc": "De-extinction startup Colossal claims it has built an artificial womb capable of supporting mammal development—and it's nearly complete.",
       "date": "2026-05-20T20:40:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CryptoQuant says bitcoin mirrors 2022 bear market pattern as sentiment turns ‘extremely bearish’",
-      "link": "https://www.theblock.co/post/402091/cryptoquant-bitcoin-bear-market-pattern-sentiment-extremely-bearish?utm_source=rss&utm_medium=rss",
-      "desc": "Bitcoin’s recent rally hit resistance at the 200-day MA near $82,400, a pattern CryptoQuant said is similar to the March 2022 bear market.",
-      "date": "2026-05-20T19:35:26.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -871,16 +887,6 @@
       "link": "https://www.wsj.com/finance/banking/financial-services-roundup-market-talk-179b0658?mod=rss_markets_main",
       "desc": "Find insight on bitcoin, Standard Chartered and more in the latest Market Talks covering Financial Services.",
       "date": "2026-05-19T21:06:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Americans Arrested in Japan for Entering Punch the Monkey’s Zoo Home to Promote Meme Coin",
-      "link": "https://decrypt.co/368383/men-arrested-japan-entering-punch-monkey-zoo-enclosure-meme-coin",
-      "desc": "Viral Japanese macaque monkey Punch received unwelcome visitors this week, as trespassers attempted to promote a Solana meme coin.",
-      "date": "2026-05-19T20:26:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
