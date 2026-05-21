@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-21T18:11:09.622Z",
+  "generatedAt": "2026-05-21T19:12:19.090Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 262,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "decrypt",
@@ -29,24 +29,59 @@
       "termBoost": 3
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Nearly 10% of Bitcoin supply is ‘structurally unsafe’ from quantum breakthrough: Glassnode",
-      "link": "https://cointelegraph.com/news/nearly-10-bitcoin-supply-structurally-unsafe-quantum-breakthrough-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Analytics provider Glassnode identified 10% of Bitcoin supply as structurally exposed to a quantum breakthrough, underscoring the need for a quantum-proof implementation such as BIP-360.",
-      "date": "2026-05-20T15:17:46.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-21T18:11:09.125Z",
+      "date": "2026-05-21T19:12:18.875Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Variational Raises $50 Million for On-Chain Derivatives Protocol",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/variational-raises-50-million-for-on-chain-derivatives-protocol/",
+      "desc": "On-chain derivatives trading protocol Variational has raised $50 million in new funding. The company said its Series A round, announced Wednesday (March 20), coincides with the launch of the protocol’s first real-world asset (RWA) markets. “This initial rollout allows traders to access perpetuals on select commodities alongside their crypto portfolio, laying the groundwork for […] The post Variational Raises $50 Million for On-Chain Derivatives Protocol appeared first on PYMNTS.com.",
+      "date": "2026-05-21T18:52:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Petition to scrap South Korea's crypto tax reaches 50K threshold",
+      "link": "https://cointelegraph.com/news/petition-scrap-south-korea-crypto-tax-50k-threshold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Critics say the new 22% crypto tax, set to take effect in 2027, unfairly favors other asset classes with a much lower tax burden.",
+      "date": "2026-05-21T18:44:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Former EF developer Dankrad Feist suggests $1 billion raise to form new Ethereum advocacy group",
+      "link": "https://www.theblock.co/post/402271/former-ef-developer-dankrad-feist-suggests-1-billion-raise-new-ethereum-advocacy-group?utm_source=rss&utm_medium=rss",
+      "desc": "The Ethereum Foundation is a non-profit stewarding the development of the world's second-largest blockchain.",
+      "date": "2026-05-21T18:27:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "CFTC signs MOU with National Hockey League over prediction markets",
+      "link": "https://cointelegraph.com/news/cftc-national-hockey-league-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The financial regulator signed a similar agreement with Major League Baseball in March and continues to file lawsuits against state-level authorities going after prediction market platforms over sports betting.",
+      "date": "2026-05-21T18:15:18.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/05/21/u-s-cftc-secures-deal-with-national-hockey-league-on-prediction-market-safeguards"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -156,16 +191,6 @@
       "link": "https://www.theblock.co/post/402203/hype-token-new-record-high-wall-street-demand-hyperliquid?utm_source=rss&utm_medium=rss",
       "desc": "Of note, Grayscale-linked wallets reportedly accumulated over $40 million worth of HYPE over the past week.",
       "date": "2026-05-21T15:17:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. CFTC secures deal with National Hockey League on prediction market safeguards",
-      "link": "https://www.coindesk.com/policy/2026/05/21/u-s-cftc-secures-deal-with-national-hockey-league-on-prediction-market-safeguards",
-      "desc": "A new arrangement has been set between the derivatives regulator and professional hockey, following on the heels of a similar baseball agreement.",
-      "date": "2026-05-21T15:12:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -656,16 +681,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "SEC reviewing implications of delayed prediction market ETFs, Atkins says",
-      "link": "https://www.theblock.co/post/402125/sec-reviewing-prediction-market-etfs?utm_source=rss&utm_medium=rss",
-      "desc": "SEC Chair Paul Atkins said he instructed the agency's staff to seek public input on prediction market ETFs.",
-      "date": "2026-05-21T03:45:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Fintech Yotta fined $1 million for Synapse deception",
@@ -802,16 +817,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Tether buys SoftBank’s stake in Bitcoin company Twenty One Capital",
-      "link": "https://cointelegraph.com/news/tether-buys-softbank-stake-twenty-one-capital-xxi-bitcoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The stablecoin issuer bought SoftBank’s 26% stake, expanding its control over the public Bitcoin holder as it moves into lending, mining and capital markets.",
-      "date": "2026-05-20T17:33:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Minnesota Law Opens Crypto Custody to Banks, Credit Unions — One Credit Union Already Has a Head Start",
@@ -828,16 +833,6 @@
       "link": "https://decrypt.co/368476/github-confirms-3800-internal-repos-stolen-poisoned-vs-code-extension",
       "desc": "TeamPCP gained access to GitHub's private source code after an employee unknowingly installed a malicious coding tool.",
       "date": "2026-05-20T16:54:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin sees fresh US sell-off as markets await Nvidia's major earnings event",
-      "link": "https://cointelegraph.com/markets/bitcoin-sees-fresh-us-sell-off-as-markets-await-nvidia-biggest-earnings-event?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin struggles to overcome US selling pressure with markets on edge ahead of Nvidia's Q1 earnings report.",
-      "date": "2026-05-20T16:15:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
