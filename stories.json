@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-05-21T19:12:19.090Z",
+  "generatedAt": "2026-05-21T20:10:00.093Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 262,
+  "filteredOut": 261,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 12,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Satoshi’s 1.1M bitcoin and millions more can be saved from quantum attack, says expert",
+      "link": "https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress",
+      "desc": "Researchers at the privacy-centric blockchain startup say their multi-layer quantum defense will feature a soft fork to freeze and protect dormant BTC.",
+      "date": "2026-05-21T19:10:03.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -34,7 +45,7 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-21T19:12:18.875Z",
+      "date": "2026-05-21T20:09:59.923Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -131,7 +142,13 @@
       "link": "https://www.coindesk.com/markets/2026/05/21/mark-cuban-says-he-sold-most-of-his-bitcoin-after-failed-hedge-narrative-disappointed-the-billionaire",
       "desc": "The billionaire investor said he sold most of his bitcoin after concluding the cryptocurrency failed to act as a hedge during recent geopolitical turmoil and dollar weakness.",
       "date": "2026-05-21T17:30:16.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/368678/mark-cuban-sold-most-his-bitcoin"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -783,16 +800,6 @@
       "link": "https://bitcoinmagazine.com/news/hunter-biden-now-accepts-bitcoin",
       "desc": "Bitcoin Magazine Hunter Biden Now Accepts Bitcoin for Artwork on His Official Website Hunter Biden appears to be accepting Bitcoin as payment for his artwork. This post Hunter Biden Now Accepts Bitcoin for Artwork on His Official Website first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-05-20T18:48:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Securitize posts record revenue in the first quarter as it gears up for public listing",
-      "link": "https://www.coindesk.com/markets/2026/05/20/securitize-remains-in-the-red-even-as-record-quarter-fuels-public-listing-plans",
-      "desc": "The tokenization platform reported record quarterly revenue but continued to post losses as it invested in growth and public-company preparations tied to its merger with Cantor Equity Partners II.",
-      "date": "2026-05-20T18:37:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
