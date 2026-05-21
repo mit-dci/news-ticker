@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-21T09:10:42.604Z",
+  "generatedAt": "2026-05-21T10:45:31.724Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 271,
+  "filteredOut": 270,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "cointelegraph",
@@ -16,6 +16,46 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin flows and spillovers to FX markets",
+      "link": "https://www.bis.org/publ/work1340.htm",
+      "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
+      "date": "2026-05-21T10:45:31.617Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Fantasy Top to shut down, says trading card game model was ‘never built’ for crypto",
+      "link": "https://www.theblock.co/post/402144/fantasy-top-to-shut-down-says-trading-card-game-model-was-never-built-for-crypto?utm_source=rss&utm_medium=rss",
+      "desc": "Its founder said that financialized crypto trading card games attract speculators rather than players.",
+      "date": "2026-05-21T10:19:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Wife of Sandbox co-founder Sebastien Borget targeted in kidnapping attempt at home in France: report",
+      "link": "https://www.theblock.co/post/402146/wife-of-sandbox-co-founder-sebastien-borget-targeted-in-kidnapping-attempt-at-home-in-france-report?utm_source=rss&utm_medium=rss",
+      "desc": "The wife of Sandbox co-founder Sebastien Borget was targeted in a kidnapping attempt as France logs over 41 crypto kidnappings in 2026.",
+      "date": "2026-05-21T10:12:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "A crypto whale has made a $224,000 bet that XRP's price stays perfectly flat through June",
+      "link": "https://www.coindesk.com/markets/2026/05/21/a-massive-xrp-trade-is-betting-prices-gravitate-to-usd1-40-until-the-end-of-june",
+      "desc": "The trader collected about $224,500 in premiums and will keep the full amount if XRP remains close to $1.40.",
+      "date": "2026-05-21T09:34:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "finextra",
@@ -34,16 +74,6 @@
       "link": "https://www.finextra.com/pressarticle/109915/ppi-develops-digital-euro-operating-platform-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "The Digital Euro is issued as central bank money, similar to cash. Unlike bank money, which is held in current accounts at the respective commercial banks, the Digital Euro gets ist own accounts managed by the central bank at the DESP (Digital Euro Service Platform).",
       "date": "2026-05-21T09:23:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin flows and spillovers to FX markets",
-      "link": "https://www.bis.org/publ/work1340.htm",
-      "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-21T09:10:42.516Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -258,7 +288,13 @@
       "link": "https://cointelegraph.com/news/missouri-attorney-general-lawsuit-coinflip-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The lawsuit followed an investigation by Missouri authorities into several crypto ATM companies that involve allegations of “deceptive fee structures” and scams.",
       "date": "2026-05-20T22:03:44.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/402153/missouri-ag-sues-coinflip?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -454,7 +490,7 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin sees fresh US sell-off as markets await Nvidia 'biggest earnings event'",
+      "title": "Bitcoin sees fresh US sell-off as markets await Nvidia's major earnings event",
       "link": "https://cointelegraph.com/markets/bitcoin-sees-fresh-us-sell-off-as-markets-await-nvidia-biggest-earnings-event?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin struggles to overcome US selling pressure with markets on edge ahead of Nvidia's Q1 earnings report.",
       "date": "2026-05-20T16:15:44.000Z",
@@ -664,16 +700,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "European Commission launches MiCA review as global crypto regulatory landscape shifts",
-      "link": "https://www.theblock.co/post/402005/european-commission-launches-mica-review-as-global-crypto-regulatory-landscape-shifts?utm_source=rss&utm_medium=rss",
-      "desc": "The European Commission launched a MiCA consultation open through Aug. 31, asking whether the crypto framework needs updating.",
-      "date": "2026-05-20T12:07:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "These bitcoin metrics suggest February’s $60,000 selloff may have marked the bottom",
@@ -717,21 +743,11 @@
           "url": "https://cointelegraph.com/news/qivalis-euro-stablecoin-consortium-adds-25-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         },
         {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/402001/qivalis-expands-euro-stablecoin-consortium-to-37-banks?utm_source=rss&utm_medium=rss"
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/49d1dd42-2450-4f8e-bd4d-dcda5f1a6b01"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Too many cooks: How regulatory infighting is choking the UK's crypto hub ambitions",
-      "link": "https://www.coindesk.com/policy/2026/05/20/political-blockers-frustrate-fca-s-efforts-u-k-s-global-hub-ambitions-expert-says",
-      "desc": "While the FCA opens its doors to market pilots, structural delays and legislative friction are fueling industry frustration over a framework trailing behind the U.S. and Europe.",
-      "date": "2026-05-20T11:31:08.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -741,16 +757,6 @@
       "link": "https://cointelegraph.com/news/bitwise-says-hyperliquid-most-mispriced-crypto-despite-77-rise-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitwise’s Matt Hougan says Hyperliquid’s token is not priced as if it is tied to a “global super-app,” arguing the platform is more than just a crypto platform.",
       "date": "2026-05-20T07:37:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Euro stablecoin project gains backing of 37 banks",
-      "link": "https://www.ft.com/content/49d1dd42-2450-4f8e-bd4d-dcda5f1a6b01",
-      "desc": "Dutch company Qivalis adds 25 new lenders as continent seeks to challenge dollar’s crypto dominance",
-      "date": "2026-05-20T07:00:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
