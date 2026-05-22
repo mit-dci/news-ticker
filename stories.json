@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-05-22T03:10:14.328Z",
+  "generatedAt": "2026-05-22T04:51:35.939Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 263,
+  "filteredOut": 260,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Crypto industry braces for quantum computing threat",
+      "link": "https://www.ft.com/content/99c1c1e7-1a1c-479c-9fc8-e21aea5c3f0e",
+      "desc": "Threat to code that underpins bitcoin has moved ‘from theoretical to credible’, industry figures warn",
+      "date": "2026-05-22T04:00:11.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -56,7 +67,33 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-22T03:10:13.900Z",
+      "date": "2026-05-22T04:51:35.473Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "US lawmakers renew strategic Bitcoin reserve push with ARMA bill",
+      "link": "https://cointelegraph.com/news/us-senators-unveil-new-bitcoin-bill-renewing-strategic-reserve-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Under the American Reserve Modernization Act of 2026, Bitcoin must be held for a minimum of 20 years unless used to slash national debt.",
+      "date": "2026-05-22T04:02:37.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/368662/proposed-arma-bill-aims-enshrine-strategic-bitcoin-reserve-law"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "5 crypto firms wind down this week amid ongoing market slump",
+      "link": "https://cointelegraph.com/news/5-crypto-firms-wind-down-this-week-amid-ongoing-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Fantasy.top, Everclear and ZERO Network announced they were winding down on Thursday, adding to a growing list of crypto companies that have closed this year.",
+      "date": "2026-05-22T03:59:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -225,16 +262,6 @@
           "url": "https://www.coindesk.com/policy/2026/05/21/u-s-cftc-secures-deal-with-national-hockey-league-on-prediction-market-safeguards"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Proposed ARMA Bill Aims to Enshrine Strategic Bitcoin Reserve Into Law",
-      "link": "https://decrypt.co/368662/proposed-arma-bill-aims-enshrine-strategic-bitcoin-reserve-law",
-      "desc": "The American Reserve Modernization Act would direct the Treasury to create and maintain a Bitcoin reserve for a minimum of 20 years.",
-      "date": "2026-05-21T18:08:49.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
