@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-22T10:32:46.650Z",
+  "generatedAt": "2026-05-22T11:56:25.270Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 253,
+  "filteredOut": 250,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "ft",
@@ -51,6 +51,16 @@
       "termBoost": 3
     },
     {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #406",
+      "link": "https://bitcoinops.org/en/newsletters/2026/05/22/",
+      "desc": "This week’s newsletter links to a discussion of updates to BIP322’s generic signed message format and describes an idea to use TCP hole punching to help Bitcoin nodes behind NATs accept inbound connections. Also included are our regular sections describing recent changes to services and client software and summarizing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-05-22T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "It's not all HYPE: Privacy and quantum-resistant coins advance as bitcoin coasts",
@@ -60,6 +70,46 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin flows and spillovers to FX markets",
+      "link": "https://www.bis.org/publ/work1340.htm",
+      "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
+      "date": "2026-05-22T11:56:25.258Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin left behind in the geopolitical melee",
+      "link": "https://www.coindesk.com/daybook-us/2026/05/22/bitcoin-left-behind-in-the-geopolitical-melee",
+      "desc": "Your day-ahead look for May 22, 2026",
+      "date": "2026-05-22T11:31:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Polymarket seeks Japan entry despite gambling law hurdles: Report",
+      "link": "https://cointelegraph.com/news/polymarket-seeks-japan-entry-global-regulatory-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Polymarket is reportedly seeking entry into Japan amid falling trading volumes and rising regulatory scrutiny, targeting approval by 2030.",
+      "date": "2026-05-22T10:57:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ark Invest buys $12.5 million of Bullish stock in four days",
+      "link": "https://www.coindesk.com/markets/2026/05/22/ark-invest-buys-usd12-5-million-of-bullish-stock-in-four-days",
+      "desc": "Ark frequently uses broader digital asset downturns, which tend to pull crypto equities lower, as an entry point into cryptocurrency companies.",
+      "date": "2026-05-22T10:45:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "finextra",
@@ -82,22 +132,22 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin flows and spillovers to FX markets",
-      "link": "https://www.bis.org/publ/work1340.htm",
-      "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-22T10:32:46.465Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Polymarket Taps Jupiter Exec to Lead Japan Push: Report",
       "link": "https://decrypt.co/368734/polymarket-taps-jupiter-exec-to-lead-japan-push-report",
       "desc": "The prediction market has reportedly appointed a representative in Japan as it aims to secure authorization to operate there by 2030.",
       "date": "2026-05-22T10:29:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Polymarket team says user funds safe as exploit losses climb above $600K",
+      "link": "https://cointelegraph.com/news/polymarket-uma-adapter-appears-exploited-520k-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Polymarket said user funds and market resolution were safe after a suspected private key compromise tied to top-up operations.",
+      "date": "2026-05-22T10:19:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -867,43 +917,19 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "HYPE leads crypto rebound as traders position for volatility breakout",
-      "link": "https://www.coindesk.com/markets/2026/05/21/hype-leads-crypto-rebound-as-traders-position-for-volatility-breakout",
-      "desc": "Bitcoin and ether stabilized as derivatives activity rebounded, HYPE rose for a fifth straight day and options traders positioned for a breakout.",
-      "date": "2026-05-21T10:52:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "OSL Strengthens Asia’s Digital Asset Ecosystem with Listing of State-Supervised Gold-Backed Stablecoin USDKG",
-      "link": "https://cointelegraph.com/press-releases/osl-strengthens-asias-digital-asset-ecosystem-with-listing-of-state-supervised-gold-backed-stablecoin-usdkg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "OSL Group (863.HK) (OSL), a global stablecoin payment and trading platform, today announced that its Hong Kong-licensed digital asset exchange OSL HK has officially listed USDKG, the gold-backed stablecoin issued by the Kyrgyz Republic.",
-      "date": "2026-05-21T10:28:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "A crypto whale has made a $224,000 bet that XRP's price stays perfectly flat through June",
-      "link": "https://www.coindesk.com/markets/2026/05/21/a-massive-xrp-trade-is-betting-prices-gravitate-to-usd1-40-until-the-end-of-june",
-      "desc": "The trader collected about $224,500 in premiums and will keep the full amount if XRP remains close to $1.40.",
-      "date": "2026-05-21T09:34:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "flatexDEGIRO and SocGen join Seturion, Boerse Stuttgart’s tokenized securities platform",
       "link": "https://www.finextra.com/pressarticle/109919/flatexdegiro-and-socgen-join-seturion-boerse-stuttgarts-tokenized-securities-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Seturion, Boerse Stuttgart Group's European settlement platform for tokenized securities, today announced a strategic partnership with flatexDEGIRO, Societe Generale, and SG-FORGE, on a clear path to expand its network of leading financial institutions across Europe and to advance digital blockchain-based securities settlement.",
       "date": "2026-05-21T09:32:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/pressarticle/109928/boerse-stuttgart-and-socgen-partner-for-digital-securities-settlement-platform?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
