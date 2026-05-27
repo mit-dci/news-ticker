@@ -1,18 +1,114 @@
 {
-  "generatedAt": "2026-05-27T09:47:31.920Z",
+  "generatedAt": "2026-05-27T11:15:00.446Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 272,
+  "filteredOut": 268,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 4,
   "items": [
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "German media giant Bertelsmann scores banking licence",
+      "link": "https://www.finextra.com/newsarticle/47815/german-media-giant-bertelsmann-scores-banking-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Riverty, the fintech startup from German media giant Bertelsmann, has gained an EU banking licence and is setting up shop as bank in Luxembourg.",
+      "date": "2026-05-27T11:38:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-27T09:47:31.910Z",
+      "date": "2026-05-27T11:15:00.357Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "SoFi rolls out SoFiUSD stablecoin to banking app users",
+      "link": "https://www.theblock.co/post/402361/sofi-rolls-out-sofiusd-stablecoin-to-banking-app-users?utm_source=rss&utm_medium=rss",
+      "desc": "SoFi rolls out bank-issued SoFiUSD stablecoin to 14.7 million members inside its app on Ethereum and Solana.",
+      "date": "2026-05-27T11:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "SoFi brings bank-issued stablecoin to 15 million users in crypto push",
+      "link": "https://www.coindesk.com/business/2026/05/27/sofi-brings-bank-issued-stablecoin-to-15-million-users-in-crypto-push",
+      "desc": "The fintech platform says its dollar-backed stablecoin will let members trade, transfer and eventually earn yield through its banking app.",
+      "date": "2026-05-27T11:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin clings to $75,000 support as bear market signals resurface",
+      "link": "https://www.coindesk.com/markets/2026/05/27/bitcoin-clings-to-usd75-000-support-as-bear-market-signals-resurface",
+      "desc": "Bitcoin hovered below Tom Lee's $76,000 bull-market threshold while hyperliquid and monero bucked broader crypto weakness.",
+      "date": "2026-05-27T10:54:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "South Korea charges CATFI memecoin operators in first DEX rug-pull case: Report",
+      "link": "https://cointelegraph.com/news/south-korea-first-arrest-memecoin-rug-pull-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "South Korean prosecutors reportedly charged a group over the CATFI memecoin rug pull, marking the country’s first DEX rug-pull case under crypto law.",
+      "date": "2026-05-27T10:45:20.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/402697/south-korea-first-rugpull-memecoin?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Coinbase taps Standard Chartered to expand multi-currency funding rails for institutional clients",
+      "link": "https://www.theblock.co/post/402716/coinbase-standard-chartered-multi-currency-funding-rails?utm_source=rss&utm_medium=rss",
+      "desc": "Coinbase also relaunched Direct Deposit for U.S. customers, allowing users to automatically allocate a portion of their paycheck to crypto.",
+      "date": "2026-05-27T10:44:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Singapore charges ex-Hodlnaut CEO over allegedly misleading claims tied to Terra collapse, faces up to 20 years in prison",
+      "link": "https://www.theblock.co/post/402711/singapore-charges-hodlnaut-former-ceo?utm_source=rss&utm_medium=rss",
+      "desc": "Authorities alleged that the former CEO distributed claims stating that the company had not been impacted by the 2022 collapse of TerraUSD.",
+      "date": "2026-05-27T10:18:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto exchange HTX rejects U.K. sanction allegations, says it refused ruble stablecoin listing",
+      "link": "https://www.coindesk.com/markets/2026/05/27/crypto-exchange-htx-rejects-u-k-sanction-allegations-says-it-refused-ruble-stablecoin-listing",
+      "desc": "U.K. authorities sanctioned HTX, saying there were \"reasonable grounds to suspect\" the crypto exchange was helping Russia by cooperating with ruble stablecoin A7A5.",
+      "date": "2026-05-27T09:58:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Spot bitcoin ETFs continue outflow streak amid $1.3 billion IBIT whale trade",
+      "link": "https://www.theblock.co/post/402707/bitcoin-etf-outflows-ibit-whale-trade?utm_source=rss&utm_medium=rss",
+      "desc": "Bitcoin ETFs saw $334 million in net outflows on Tuesday, driven by $192 million exiting BlackRock's IBIT.",
+      "date": "2026-05-27T09:47:26.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,16 +139,6 @@
       "link": "https://www.finextra.com/pressarticle/109942/anyfin-picks-fourthline-as-identity-verification-partner?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Fourthline, Europe's leading identity services provider, has been selected by Anyfin, the fast-growing Swedish fintech specialising in personal loan refinancing, as their Identity Verification Partner.",
       "date": "2026-05-27T09:26:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "South Korea arrests suspects behind Solana memecoin CatFi in first rugpull case under new law",
-      "link": "https://www.theblock.co/post/402697/south-korea-first-rugpull-memecoin?utm_source=rss&utm_medium=rss",
-      "desc": "By using fake social media channels, the suspects allegedly lured thousands into buying Solana memecoin CatFi, before abandoning the project.",
-      "date": "2026-05-27T08:58:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -589,16 +675,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Hong Kong advances virtual asset advisory and management rulemaking",
-      "link": "https://www.theblock.co/post/402563/hong-kong-advances-virtual-asset-advisory-and-management-rulemaking?utm_source=rss&utm_medium=rss",
-      "desc": "Hong Kong moves to license crypto advisers and managers under anti-money laundering rules, with a 2026 legislative target.",
-      "date": "2026-05-26T13:22:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Lucky Trader Rides $341 World Cup Meme Coin Buy to 14,000% Gains",
@@ -649,42 +725,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin demand gauge sinks to worst level since December as spot buying weakens",
-      "link": "https://www.coindesk.com/markets/2026/05/26/bitcoin-demand-gauge-sinks-to-worst-level-since-december-as-rally-loses-spot-support",
-      "desc": "CryptoQuant’s 30-day apparent demand indicator is negative, signaling that buyers aren’t absorbing the available supply and leaving the market vulnerable.",
-      "date": "2026-05-26T12:03:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin, Ethereum ETFs Shed $112M as Hyperliquid Funds Extend 8-Day Win Streak",
       "link": "https://decrypt.co/368988/bitcoin-ethereum-etfs-shed-112m-as-hyperliquid-funds-extend-8-day-win-streak",
       "desc": "Hyperliquid ETFs posted an 8-day inflow streak as the network’s native token HYPE hit a new all-time high Sunday.",
       "date": "2026-05-26T11:47:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "StablR freezes USDR and EURR after attacker mints $13.5 million in unbacked tokens",
-      "link": "https://www.coindesk.com/markets/2026/05/26/stablr-freezes-usdr-and-eurr-after-attacker-mints-usd13-5-million-in-unbacked-tokens",
-      "desc": "The breach, linked to a 1-of-3 multisig wallet weakness, allowed attackers to compromise a key and mint $13.5 million in unbacked tokens, netting them $2.8 million.",
-      "date": "2026-05-26T11:25:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin ETFs crushed by billions in outflows as Treasuries stifle interest-rate cut hopes",
-      "link": "https://www.coindesk.com/daybook-us/2026/05/26/bitcoin-etfs-crushed-by-billions-in-outflows-as-treasuries-stifle-interest-rate-cut-hopes",
-      "desc": "Your day-ahead look for May 26, 2026",
-      "date": "2026-05-26T11:20:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
