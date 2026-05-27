@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-27T20:17:15.964Z",
+  "generatedAt": "2026-05-27T21:11:05.785Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 246,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "bis",
@@ -12,7 +12,37 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-27T20:17:15.951Z",
+      "date": "2026-05-27T21:11:05.638Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Cash App lets users send USDC stablecoins on chains like Solana and Ethereum",
+      "link": "https://www.theblock.co/post/402784/cash-app-lets-users-send-usdc-stablecoins-on-chains-like-solana-and-ethereum?utm_source=rss&utm_medium=rss",
+      "desc": "Cash App users can now transfer on Solana, Ethereum, Polygon and Arbitrum, but executive Miles Suter says the firm is still bitcoin-focused.",
+      "date": "2026-05-27T21:07:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Ethereum Traders Grow Increasingly Bearish as ETFs Bleed, ETH Sinks Near $2,000",
+      "link": "https://decrypt.co/369218/ethereum-traders-increasingly-bearish-etfs-bleed-eth-sinks-near-2000",
+      "desc": "Predictors on Myriad are losing faith, believing it's more likely that Ethereum dumps to $1,500 before a prospective move up to $3,000.",
+      "date": "2026-05-27T20:52:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Strive’s SATA Tops Estimated 490 Bitcoin in a Single Day — More Than the Entire Daily Mining Supply",
+      "link": "https://bitcoinmagazine.com/news/strives-sata-tops-estimated-490-bitcoin",
+      "desc": "Bitcoin Magazine Strive’s SATA Tops Estimated 490 Bitcoin in a Single Day — More Than the Entire Daily Mining Supply At the time of writing today, Strive, Inc.’s SATA preferred stock program bought roughly 490 BTC in a single day. This post Strive’s SATA Tops Estimated 490 Bitcoin in a Single Day — More Than the Entire Daily Mining Supply first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-05-27T20:36:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -115,7 +145,13 @@
       "link": "https://www.coindesk.com/markets/2026/05/27/elon-musk-could-become-a-top-5-corporate-bitcoin-holder-if-tesla-and-spacex-merge",
       "desc": "CNBC reported Tuesday that Musk is discussing a merger between Tesla and SpaceX that would tie his tech empire closer together and instantly create the world’s fifth-largest corporate bitcoin treasury, worth $3.3 billion.",
       "date": "2026-05-27T18:04:08.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/369240/how-much-bitcoin-elon-musk-control-spacex-tesla-merge"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -932,16 +968,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Strive’s SATA Briefly Swallows the Entire Bitcoin Mining Daily Supply As BTC Purchases Ramp Up",
-      "link": "https://bitcoinmagazine.com/news/strives-sata-swallows-entire-bitcoin",
-      "desc": "Bitcoin Magazine Strive’s SATA Briefly Swallows the Entire Bitcoin Mining Daily Supply As BTC Purchases Ramp Up Strive’s SATA preferred stock is rapidly emerging as a major bitcoin accumulation vehicle — briefly absorbing more than 100% of daily mining supply. This post Strive’s SATA Briefly Swallows the Entire Bitcoin Mining Daily Supply As BTC Purchases Ramp Up first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-05-26T18:33:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "UK Issues Sanctions Against Justin Sun's HTX, Other Crypto Firms Over Alleged Russia Ties",
@@ -974,36 +1000,6 @@
       "link": "https://decrypt.co/369020/indonesia-blocks-polymarket-after-bets-on-presidents-early-departure",
       "desc": "The ban came on the heels of markets linked to the early departure of Indonesian President Prabowo Subianto.",
       "date": "2026-05-26T15:33:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Giant Strategy Slashes Cash Reserves by 61% to Repurchase $1.5 Billion in Debt",
-      "link": "https://decrypt.co/369003/bitcoin-giant-strategy-slashes-cash-reserves-repurchase-1-5-billion-debt",
-      "desc": "Strategy used 61% of its dedicated cash buffer to repurchase $1.5 billion in convertible notes, leaving its Bitcoin stash untouched.",
-      "date": "2026-05-26T14:35:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Crypto Industry Fights Senator Warren's Claim That Coinbase, Ripple Bank Charter Approvals Are Illegal",
-      "link": "https://decrypt.co/369000/crypto-industry-fights-warren-claim-coinbase-ripple-bank-charters-illegal",
-      "desc": "The Digital Chamber urged the OCC on Tuesday to defend its recent national bank charter approvals for crypto firms, which Sen. Elizabeth Warren slammed as improper.",
-      "date": "2026-05-26T14:00:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Lucky Trader Rides $341 World Cup Meme Coin Buy to 14,000% Gains",
-      "link": "https://decrypt.co/368996/lucky-trader-rides-341-world-cup-meme-coin-buy-to-14000-gains",
-      "desc": "The trader still has over $100,000 worth of unrealized gains in the World Cup token, ahead of the start of the tournament next month.",
-      "date": "2026-05-26T13:10:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
