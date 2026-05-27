@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-27T03:11:12.154Z",
+  "generatedAt": "2026-05-27T04:59:56.951Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 274,
+  "filteredOut": 275,
   "errors": [],
-  "dupsMerged": 2,
+  "dupsMerged": 3,
   "items": [
     {
       "source": "bis",
@@ -12,7 +12,17 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-27T03:11:12.073Z",
+      "date": "2026-05-27T04:59:56.185Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Traders watch bitcoin 'golden cross' as BTC slides to near $75,000, ZEC dives 9%",
+      "link": "https://www.coindesk.com/markets/2026/05/27/traders-watch-bitcoin-golden-cross-as-btc-slides-to-near-usd75-000-zec-dives-9",
+      "desc": "A technical setup brewing on the bitcoin chart could decide which way the market breaks next, with the largest cryptocurrency sliding even as global equities hit record highs.",
+      "date": "2026-05-27T04:35:12.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -279,7 +289,13 @@
       "link": "https://decrypt.co/369011/tom-lee-bitmine-makes-biggest-ethereum-buy-2026",
       "desc": "BitMine Immersion Technologies made its largest Ethereum acquisition yet this year—just weeks after saying it might slow down its ETH buys.",
       "date": "2026-05-26T15:56:26.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/bitmine-buys-111k-ethereum-as-tom-lee-predicts-supercycle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -613,16 +629,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitwise debuts Canton Network ETP on Deutsche Börse Xetra",
-      "link": "https://www.theblock.co/post/402538/bitwise-debuts-canton-network-etp-on-deutsche-borse-xetra?utm_source=rss&utm_medium=rss",
-      "desc": "Bitwise listed a Canton Network ETP on Deutsche Börse Xetra, backing it with CC tokens held in cold storage.",
-      "date": "2026-05-26T09:47:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin caught between critical onchain support and an options showdown",
@@ -693,32 +699,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin in ‘high-risk zone’ as ETF outflows signal institutional exit: Swissblock",
-      "link": "https://cointelegraph.com/news/bitcoin-slides-into-high-risk-zone-as-etf-outflows-signal-institutional-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "This steady drip of ETF outflow continues to add to the supply side without a visible demand offset, said Glassnode.",
-      "date": "2026-05-26T05:11:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "XRP slips below $1.35 after triangle breakdown puts focus on $1.30 support",
       "link": "https://www.coindesk.com/markets/2026/05/26/xrp-slips-below-usd1-35-after-triangle-breakdown-puts-focus-on-usd1-30-support",
       "desc": "XRP lost a key support zone after another failed breakout attempt, with traders now watching whether the months-long compression pattern resolves lower.",
       "date": "2026-05-26T05:08:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets",
-      "link": "https://www.coindesk.com/markets/2026/05/26/hype-briefly-overtakes-dogecoin-privacy-tokens-slide-as-us-strikes-on-iran-rattle-markets",
-      "desc": "ZEC and XMR dropped 5% in a session that saw most major tokens pull back after weeks of gains, with the move tracking renewed Middle East tension and a rebound in oil prices.",
-      "date": "2026-05-26T04:57:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
