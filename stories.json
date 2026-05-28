@@ -1,11 +1,51 @@
 {
-  "generatedAt": "2026-05-28T09:17:44.623Z",
+  "generatedAt": "2026-05-28T10:48:27.957Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 251,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 15,
   "items": [
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin flows and spillovers to FX markets",
+      "link": "https://www.bis.org/publ/work1340.htm",
+      "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
+      "date": "2026-05-28T10:48:27.012Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin’s famous CME gaps are about to disappear, though three remain unresolved",
+      "link": "https://www.coindesk.com/markets/2026/05/28/bitcoin-s-famous-cme-gaps-are-about-to-disappear-though-three-remain-unresolved",
+      "desc": "The launch of round-the-clock bitcoin futures trading eliminates the long-standing CME weekend gap and marks another step toward fully integrated institutional crypto markets.",
+      "date": "2026-05-28T10:47:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto slides on Hormuz airstrikes as $897 million in long liquidations pile up",
+      "link": "https://www.coindesk.com/markets/2026/05/28/crypto-slides-on-hormuz-airstrikes-as-usd897-million-in-long-liquidations-pile-up",
+      "desc": "BTC dropped to its lowest since April 13 and ETH broke below $2,000 as U.S. airstrikes stoked inflation concerns, wiping out nearly $900 million in leveraged longs.",
+      "date": "2026-05-28T10:44:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Slips Under $73K as Crypto Liquidations Near $1B",
+      "link": "https://decrypt.co/369255/bitcoin-slips-under-73k-as-crypto-liquidations-near-1b",
+      "desc": "The near-$1 billion crypto liquidation spree comes amid rising tensions over the U.S.-Iran conflict and ETF outflows.",
+      "date": "2026-05-28T10:39:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
@@ -27,22 +67,22 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BIS Project Agorá shows tokenized payments can settle in seconds",
+      "link": "https://cointelegraph.com/news/bis-40-banks-test-tokenized-system-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Bank for International Settlements' collaboration with seven central banks and more than 40 institutions concludes a two-year project with a prototype settling wholesale payments in seconds.",
+      "date": "2026-05-28T09:48:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Whop issues stablecoin debit card",
       "link": "https://www.finextra.com/pressarticle/109969/whop-issues-stablecoin-debit-card?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Whop, the fastest growing internet market where people can create, connect, and transact in one place, today announced the launch of Whop Cards that allow businesses on the platform the ability to spend directly from their Whop balance without withdrawing funds to an external bank.",
       "date": "2026-05-28T09:32:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin flows and spillovers to FX markets",
-      "link": "https://www.bis.org/publ/work1340.htm",
-      "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-28T09:17:43.947Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -133,7 +173,13 @@
       "link": "https://cointelegraph.com/news/cftc-moves-to-reverse-settlement-deal-against-gemini?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The CFTC claimed that its settled complaint filed under the Biden administration relied heavily on a whistleblower’s allegations that Gemini inflated trading activity to distort user demand.",
       "date": "2026-05-28T06:41:24.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/369252/cftc-gemini-file-joint-motion-to-reverse-5m-settlement"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -526,7 +572,13 @@
       "link": "https://www.coindesk.com/business/2026/05/27/bis-project-finds-tokenization-could-make-cross-border-payments-faster-safer",
       "desc": "Project Agorá, backed by major central banks, will now move toward \"real-value\" testing to settle tokenized central bank money and bank deposits on blockchain rails.",
       "date": "2026-05-27T15:45:14.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/402846/bis-says-tokenization-can-improve-wholesale-cross-border-payments?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -839,16 +891,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Solana DEX Orca launches new marketplace for tokenized real-world assets",
-      "link": "https://www.coindesk.com/business/2026/05/27/solana-dex-orca-launches-new-marketplace-for-tokenized-real-world-assets",
-      "desc": "The launch comes as crypto companies increasingly focus on tokenizing traditional financial assets, a market many in the industry see as a major growth opportunity.",
-      "date": "2026-05-27T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Crypto-backed candidates win key Texas primary runoffs",
@@ -862,16 +904,6 @@
           "url": "https://cointelegraph.com/news/crypto-pac-fairshake-texas-primary-backed-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "ETHConf brings Ethereum’s leaders, institutions, and policymakers to New York City on June 8–10",
-      "link": "https://cointelegraph.com/press-releases/ethconf-brings-ethereums-leaders-institutions-and-policymakers-to-new-york-city-on-june-810?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "ETHConf, produced by ETHGlobal, will bring more than 5,000 attendees, 150+ speakers, and 100+ companies to the Javits Center in New York City from June 8-10, 2026 for three days focused on the future of Ethereum and institutional finance.",
-      "date": "2026-05-27T11:45:50.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -895,32 +927,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Spot HYPE ETFs absorb 1% of market cap in first 10 trading days: Kairos",
-      "link": "https://cointelegraph.com/news/hype-etfs-market-cap-inflows-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Spot HYPE ETFs absorbed 1.04% of Hyperliquid’s market cap in 10 trading days, beating Bitcoin and Ether ETF debuts.",
-      "date": "2026-05-27T11:19:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "$1.3B Worth of BlackRock's IBIT Changes Hands in Dark Pool Sale",
       "link": "https://decrypt.co/369125/1-3b-worth-of-blackrocks-ibit-changes-hands-in-dark-pool-sale",
       "desc": "A $1.3 billion off-exchange IBIT block sale shook Bitcoin Tuesday, but experts say the real test is yet to come.",
       "date": "2026-05-27T11:13:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "SoFi rolls out SoFiUSD stablecoin to banking app users",
-      "link": "https://www.theblock.co/post/402361/sofi-rolls-out-sofiusd-stablecoin-to-banking-app-users?utm_source=rss&utm_medium=rss",
-      "desc": "SoFi rolls out bank-issued SoFiUSD stablecoin to 14.7 million members inside its app on Ethereum and Solana.",
-      "date": "2026-05-27T11:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -991,26 +1003,6 @@
       "link": "https://thedefiant.io/podcasts-and-videos/podcast/top-talent-is-leaving-the-ef-what-happens-to-eth-now",
       "desc": "Top Ethereum talent is leaving. The Ethereum Foundation is shrinking. And one question now hangs over the entire ecosystem: what happens to ETH if the EF steps back?",
       "date": "2026-05-26T17:12:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Tom Lee's BitMine Makes Biggest Ethereum Buy Yet in 2026",
-      "link": "https://decrypt.co/369011/tom-lee-bitmine-makes-biggest-ethereum-buy-2026",
-      "desc": "BitMine Immersion Technologies made its largest Ethereum acquisition yet this year—just weeks after saying it might slow down its ETH buys.",
-      "date": "2026-05-26T15:56:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Indonesia Blocks Polymarket After Bets on President’s Early Departure",
-      "link": "https://decrypt.co/369020/indonesia-blocks-polymarket-after-bets-on-presidents-early-departure",
-      "desc": "The ban came on the heels of markets linked to the early departure of Indonesian President Prabowo Subianto.",
-      "date": "2026-05-26T15:33:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
