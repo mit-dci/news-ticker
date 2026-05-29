@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-29T18:22:31.657Z",
+  "generatedAt": "2026-05-29T19:22:00.437Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 261,
+  "filteredOut": 262,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "bitcoinops",
@@ -22,7 +22,33 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-29T18:22:31.426Z",
+      "date": "2026-05-29T19:22:00.168Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "JPMorgan Chase CEO Jamie Dimon Declares War on Clarity Act, Calls Coinbase’s Armstrong ‘Full of Sh*t’",
+      "link": "https://bitcoinmagazine.com/news/jpmorgan-chase-ceo-dimon-declares-war",
+      "desc": "Bitcoin Magazine JPMorgan Chase CEO Jamie Dimon Declares War on Clarity Act, Calls Coinbase’s Armstrong ‘Full of Sh*t’ JPMorgan Chase CEO Jamie Dimon has drawn a battle line in Washington: the Clarity Act, as written, is dead on arrival — and Coinbase CEO Brian Armstrong is the enemy driving it. In a Fox Business interview on Friday, Dimon unloaded on the pending crypto market structure legislation, calling it a threat to the financial […] This post JPMorgan Chase CEO Jamie Dimon Declares War on Clarity Act, Calls Coinbase’s Armstrong ‘Full of Sh*t’ first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-05-29T19:21:12.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/403049/jpmorgan-ceo-jamie-dimon-blasts-coinbases-brian-armstrong-plans-fight-clarity-act?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Sui network temporarily stalls again after Thursday's outage",
+      "link": "https://cointelegraph.com/news/sui-temporary-stall-several-hours-second-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The outage was caused by the same network update software bug that disrupted the protocol on Thursday, which resulted in nearly six hours of downtime.",
+      "date": "2026-05-29T18:46:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -209,7 +235,13 @@
       "link": "https://bitcoinmagazine.com/news/someone-inscribed-the-constitution-bitcoin",
       "desc": "Bitcoin Magazine Someone Just Inscribed the U.S. Constitution onto the Bitcoin Blockchain An unknown actor etched the full text of the U.S. Constitution onto the Bitcoin blockchain in a $83 transaction, permanently embedding it within the network. This post Someone Just Inscribed the U.S. Constitution onto the Bitcoin Blockchain first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-05-29T14:07:32.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/369498/you-can-read-us-constitution-bitcoin-blockchain"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -721,16 +753,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "P2P.org launches real-time data stream for Sui and Hyperliquid",
-      "link": "https://cointelegraph.com/press-releases/p2porg-launches-real-time-data-stream-for-sui-and-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "P2P.org, a blockchain infrastructure provider operating validators across 40+ proof-of-stake networks since 2018, today launched Syncro Data Stream, a real-time blockchain data stream for Sui and Hyperliquid.",
-      "date": "2026-05-28T16:57:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Google Engineer Charged Over $2.75 Million in Alleged Polymarket Insider Trading Bets",
@@ -761,16 +783,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Sui blockchain experiences second ‘stall’ in five months",
-      "link": "https://www.theblock.co/post/402907/sui-blockchain-experiences-second-stall-in-five-months?utm_source=rss&utm_medium=rss",
-      "desc": "Sui said the blockchain is experiencing a \"network stall,\" as block explorers show the protocol has not produced a block in nearly 2 hours.",
-      "date": "2026-05-28T15:43:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "UTXO Enters Bitcoin Staking on Stacks, Targets BTC Yield",
@@ -797,16 +809,6 @@
       "link": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
       "desc": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
       "date": "2026-05-28T14:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "No – Digital Credit Cannot Be Replicated With Bitcoin and Treasuries",
-      "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-credit-cant-be-replicated-btc-t",
-      "desc": "Bitcoin Magazine No – Digital Credit Cannot Be Replicated With Bitcoin and Treasuries A response to Onramp's paper about the risks of Digital Credit, and how it can be replicated using a \"simpler trade\" of Bitcoin and US treasuries. This post No – Digital Credit Cannot Be Replicated With Bitcoin and Treasuries first appeared on Bitcoin Magazine and is written by Allard Peng.",
-      "date": "2026-05-28T13:31:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -901,16 +903,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Broadridge opens Nyfix access to US equities overnight",
-      "link": "https://www.finextra.com/pressarticle/109965/broadridge-opens-nyfix--access-to-us-equities-overnight?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Broadridge Financial Solutions Inc. (NYSE: BR), a global Fintech leader, today announced an enhancement of its NYFIX platform, enabling clients to access overnight U.S. equity liquidity through a new integration with CAPIS, an institutional brokerage firm.",
-      "date": "2026-05-28T09:16:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Cash App Goes Live With Fee-Free USDC Transfers, Framing Stablecoins as a Path to Bitcoin",
@@ -937,16 +929,6 @@
       "link": "https://decrypt.co/369218/ethereum-traders-increasingly-bearish-etfs-bleed-eth-sinks-near-2000",
       "desc": "Predictors on Myriad are losing faith, believing it's more likely that Ethereum dumps to $1,500 before a prospective move up to $3,000.",
       "date": "2026-05-27T20:52:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aztec Labs Acquires ZKPassport to Integrate Privacy-Preserving Identity Verification",
-      "link": "https://thedefiant.io/news/blockchains/aztec-labs-acquires-zkpassport-identity-verification-q2dgkb",
-      "desc": "Aztec Labs has acquired Obsidion, the team behind ZKPassport, a zero-knowledge identity verification protocol that proves age and nationality without storing personal data on centralized servers.",
-      "date": "2026-05-27T18:27:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
