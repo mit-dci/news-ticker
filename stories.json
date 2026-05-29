@@ -1,11 +1,67 @@
 {
-  "generatedAt": "2026-05-29T09:47:48.062Z",
+  "generatedAt": "2026-05-29T11:07:56.941Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 260,
+  "filteredOut": 259,
   "errors": [],
   "dupsMerged": 4,
   "items": [
+    {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #407",
+      "link": "https://bitcoinops.org/en/newsletters/2026/05/29/",
+      "desc": "This week’s newsletter announces the responsible disclosure of a vulnerability that allowed a remote peer to crash Core Lightning nodes and links to transcripts from a recent Bitcoin Core developer meeting. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-05-29T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin flows and spillovers to FX markets",
+      "link": "https://www.bis.org/publ/work1340.htm",
+      "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
+      "date": "2026-05-29T11:07:56.054Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Paxos Secures SEC Registration as Clearing Agency",
+      "link": "https://decrypt.co/369440/paxos-secures-sec-registration-as-clearing-agency",
+      "desc": "The approval makes Paxos the “only blockchain-native firm” approved by the SEC to operate as a registered clearing agency in the U.S.",
+      "date": "2026-05-29T10:34:30.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/402994/paxos-sec-registration?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin slides to April lows as crypto diverges from record-chasing U.S. equities",
+      "link": "https://www.coindesk.com/markets/2026/05/29/bitcoin-slides-to-april-lows-as-crypto-diverges-from-record-chasing-u-s-equities",
+      "desc": "Bitcoin's failed breakout above $83,000 is looking increasingly like a bear market signal, even as S&P 500 and Nasdaq futures notch gains and approach all-time highs.",
+      "date": "2026-05-29T10:29:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Aave Labs secures dual UK licenses for regulated crypto payments infrastructure through local subsidiary",
+      "link": "https://www.theblock.co/post/403014/aave-labs-secures-dual-uk-licenses-for-regulated-crypto-payments-infrastructure-through-local-subsidiary?utm_source=rss&utm_medium=rss",
+      "desc": "Aave Labs has obtained FCA cryptoasset registration in the U.K. for its Push subsidiaries, unlocking zero-fee fiat on-ramps.",
+      "date": "2026-05-29T10:18:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
@@ -17,32 +73,12 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin flows and spillovers to FX markets",
-      "link": "https://www.bis.org/publ/work1340.htm",
-      "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-29T09:47:48.049Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Base launches Azul on mainnet, pushing Coinbase’s Ethereum L2 toward full decentralization",
       "link": "https://www.theblock.co/post/403003/base-launches-azul-on-mainnet-pushing-coinbases-ethereum-l2-toward-full-decentralization?utm_source=rss&utm_medium=rss",
       "desc": "Base has deployed its Azul upgrade on mainnet, with multiproofs and a new client stack advancing decentralization.",
       "date": "2026-05-29T09:31:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘First and only’: Paxos secures SEC registration as clearing and settlement agency",
-      "link": "https://www.theblock.co/post/402994/paxos-sec-registration?utm_source=rss&utm_medium=rss",
-      "desc": "Paxos said it is the first and only blockchain-native firm to be registered as a clearing agency under the SEC.",
-      "date": "2026-05-29T08:51:59.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -557,22 +593,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "VanEck launches first U.S. spot BNB ETF on Nasdaq",
-      "link": "https://www.coindesk.com/business/2026/05/28/vaneck-launches-first-u-s-spot-bnb-etf-on-nasdaq",
-      "desc": "The ETF offers investors BNB exposure through traditional brokerage accounts without requiring them to directly buy or store the token.",
-      "date": "2026-05-28T13:36:01.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/402874/vaneck-debuts-first-us-spot-bnb-etf-latest-crypto-investment-product-expansion?utm_source=rss&utm_medium=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "No – Digital Credit Cannot Be Replicated With Bitcoin and Treasuries",
@@ -583,22 +603,22 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bit Digital bought $20 million ETH for first time since October before 15% plunge",
-      "link": "https://www.coindesk.com/business/2026/05/27/bit-digital-bought-usd20-million-eth-for-first-time-since-october-before-15-plunge",
-      "desc": "The firm said it purchased 8,568 ether on May 11 at an average price of $2,334. Since then, ETH broke below $2,000, leaving the firm sitting at a $3 million unrealized loss.",
-      "date": "2026-05-28T13:27:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "ClearBank launches digital asset rails",
       "link": "https://www.finextra.com/pressarticle/109974/clearbank-launches-digital-asset-rails?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "ClearBank Europe today announced the launch of its Digital Asset Rails, a new capability enabling programmable liquidity for cross-border settlement with 24/7* fiat payouts in EUR via SEPA Instant.",
       "date": "2026-05-28T13:24:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "VanEck debuts first US spot BNB ETF in latest crypto investment product expansion",
+      "link": "https://www.theblock.co/post/402874/vaneck-debuts-first-us-spot-bnb-etf-latest-crypto-investment-product-expansion?utm_source=rss&utm_medium=rss",
+      "desc": "VanEck's VBNB joins a growing roster of spot crypto ETFs since the first U.S. Bitcoin products launched in 2024.",
+      "date": "2026-05-28T13:23:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -905,16 +925,6 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-picks-stellar-for-tokenized-securities-rollout-as-multi-chain-push-expands",
       "desc": "The post-trade giant plans to make DTC-custodied assets available on the Stellar public blockchain in the first half of 2027, adding a second network to its growing tokenization strategy",
       "date": "2026-05-27T15:27:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Mastercard Secures New York BitLicense in Push for Stablecoins, Tokenized Deposits",
-      "link": "https://decrypt.co/369158/mastercard-secures-new-york-bitlicense-stablecoins-tokenized-deposits",
-      "desc": "Mastercard has secured a highly coveted BitLicense in New York, anchoring its compliance-first strategy for stablecoins on Wall Street.",
-      "date": "2026-05-27T14:58:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
