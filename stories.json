@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-29T20:17:30.577Z",
+  "generatedAt": "2026-05-29T21:13:25.796Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 262,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "bitcoinops",
@@ -22,7 +22,17 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-05-29T20:17:30.345Z",
+      "date": "2026-05-29T21:13:25.786Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Celsius Founder Alex Mashinsky Files to Have 12-Year Crypto Fraud Sentence Vacated",
+      "link": "https://decrypt.co/369520/celsius-founder-mashinsky-files-12-year-crypto-fraud-sentence-vacated",
+      "desc": "Celsius founder and former CEO Alex Mashinsky hopes to have his prison sentence vacated, claiming a legal conflict tied to Sam Bankman-Fried.",
+      "date": "2026-05-29T20:28:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,6 +54,11 @@
       "desc": "Bitcoin Magazine U.S. Treasury: The United States Has Seized Nearly $1 Billion of Iran’s Crypto Treasury Secretary Scott Bessent said the U.S. has seized up to $1 billion in Iran-linked crypto. This post U.S. Treasury: The United States Has Seized Nearly $1 Billion of Iran’s Crypto first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-05-29T19:54:28.000Z",
       "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/369522/treasurys-bessent-says-us-grabbed-1-billion-crypto-iran"
+        },
         {
           "source": "THE BLOCK",
           "sourceId": "block",
@@ -779,16 +794,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "French company abandons crypto treasury strategy, will liquidate Bitcoin holdings",
-      "link": "https://cointelegraph.com/news/sequans-crypto-treasury-strategy-liquidate-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "In the year since Sequans Communications announced that it would adopt a digital asset treasury strategy, the price of Bitcoin fell by more than 30%.",
-      "date": "2026-05-28T17:22:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Google Engineer Charged Over $2.75 Million in Alleged Polymarket Insider Trading Bets",
@@ -895,16 +900,6 @@
       "link": "https://www.finextra.com/newsarticle/47821/cash-app-opens-up-for-stablecoin-transactions?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Cash App has made it possible for its 59 million monthly users to send and receive USDC stablecoins, with an immediate conversion to US dollars.",
       "date": "2026-05-28T09:50:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "CFTC, Gemini File Joint Motion to Reverse $5M Settlement",
-      "link": "https://decrypt.co/369252/cftc-gemini-file-joint-motion-to-reverse-5m-settlement",
-      "desc": "The regulator filed alongside the crypto exchange to undo a 2025 consent order it now says \"should not have been filed.\"",
-      "date": "2026-05-28T09:47:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
