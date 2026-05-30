@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-05-30T07:28:42.656Z",
+  "generatedAt": "2026-05-30T08:22:52.961Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 236,
-  "errors": [
-    "BIS: BIS: HTTP 404"
-  ],
+  "successCount": 18,
+  "filteredOut": 261,
+  "errors": [],
   "dupsMerged": 10,
   "items": [
     {
@@ -18,6 +16,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin flows and spillovers to FX markets",
+      "link": "https://www.bis.org/publ/work1340.htm",
+      "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
+      "date": "2026-05-30T08:22:52.730Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -218,16 +226,6 @@
       "link": "https://www.pymnts.com/cryptocurrency/2026/stablecoin-settlement-is-here-but-seamless-off-chain-money-movement-is-not/",
       "desc": "The stablecoin industry has spent years trying to prove one thing above all else: that blockchain-based money can move faster, cheaper and more efficiently than the financial infrastructure it hopes to replace. This week, the industry produced another wave of evidence that the technology itself is working as advertised. Project Agora, the Bank for […] The post Stablecoin Settlement Is Here, but Seamless Off-Chain Money Movement Is Not appeared first on PYMNTS.com.",
       "date": "2026-05-29T17:49:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Paxos Secures SEC License to Settle Securities Transactions Nationwide",
-      "link": "https://www.pymnts.com/blockchain/2026/paxos-secures-sec-license-settle-securities-transactions-nationwide/",
-      "desc": "Paxos expanded the capabilities of its blockchain infrastructure platform to include clearing and settlement services for transactions in eligible securities. The company’s subsidiary Paxos Securities Settlement Company (PSSC) has been granted registration as a clearing agency by the Securities and Exchange Commission, Paxos said in a Thursday (May 28) press release. With this registration, […] The post Paxos Secures SEC License to Settle Securities Transactions Nationwide appeared first on PYMNTS.com.",
-      "date": "2026-05-29T17:32:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
