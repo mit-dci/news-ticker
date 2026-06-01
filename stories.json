@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-01T05:12:17.576Z",
+  "generatedAt": "2026-06-01T07:14:41.545Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 313,
+  "filteredOut": 309,
   "errors": [],
-  "dupsMerged": 1,
+  "dupsMerged": 3,
   "items": [
     {
       "source": "bis",
@@ -12,7 +12,53 @@
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-06-01T05:11:54.892Z",
+      "date": "2026-06-01T07:14:40.973Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Whitehat developer unlocks $2 million stuck in a 2016 Ethereum ICO contract for nine years",
+      "link": "https://www.coindesk.com/tech/2026/06/01/whitehat-developer-unlocks-usd2-million-stuck-in-a-2016-ethereum-ico-contract-for-nine-years",
+      "desc": "0xflorent, a security researcher, found an integer-overflow flaw in the HongCoin token sale contract that lets the team unlock funds for 48 original investors. It is the second such recovery he has publicized in eight days.",
+      "date": "2026-06-01T06:52:38.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/403126/dev-helps-rescue-2-million-locked-in-2016-ico-contract-for-nine-years-with-whitehat-exploit?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Sui Foundation says ‘major upgrade’ fixed bugs behind three outages",
+      "link": "https://cointelegraph.com/news/sui-major-upgrade-fixes-outage-bugs-restores-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Sui Network's first two outages were caused by bugs introduced in its 1.72 update, while an interim fix deployed to restore the blockchain triggered the third.",
+      "date": "2026-06-01T06:48:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "XRP drops to $1.32 as sellers overpower exchange outflows",
+      "link": "https://www.coindesk.com/markets/2026/06/01/xrp-drops-to-usd1-32-as-sellers-overpower-exchange-outflows",
+      "desc": "XRP hit a 15-week low before stabilizing, with traders watching whether the latest washout turns into a base or another leg lower.",
+      "date": "2026-06-01T05:41:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Three Sui mainnet halts in 48 hours traced to an upgrade bug by developers",
+      "link": "https://www.coindesk.com/tech/2026/06/01/three-sui-mainnet-halts-in-48-hours-traced-to-an-upgrade-bug-by-developers",
+      "desc": "The Sui Foundation's post-mortem published Sunday traces all three outages to interactions between a new address-balance feature shipped in the v1.72 release and the network's existing gas and consensus logic.",
+      "date": "2026-06-01T05:38:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -41,7 +87,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "Wintermute to bring liquidity to booming prediction markets sector",
       "link": "https://cointelegraph.com/news/wintermute-is-entering-prediction-markets-as-a-liquidity-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Wintermute says it will provide “two-sided markets across event contracts on leading venues,” but did not specify what platforms it was trading on.",
+      "desc": "Wintermute said it will provide “two-sided markets across event contracts on leading venues,” but did not specify what platforms it was trading on.",
       "date": "2026-06-01T04:22:38.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -87,21 +133,11 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Dev helps rescue $2 million locked in 2016 ICO contract for nine years with whitehat exploit",
-      "link": "https://www.theblock.co/post/403126/dev-helps-rescue-2-million-locked-in-2016-ico-contract-for-nine-years-with-whitehat-exploit?utm_source=rss&utm_medium=rss",
-      "desc": "The developer told The Block that two of 48 eligible investors have already claimed 96.5 ETH that was unfrozen, worth nearly $200,000 at current prices.",
-      "date": "2026-05-31T21:34:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "US, UK central bankers offer contrary views on stablecoins",
       "link": "https://cointelegraph.com/news/us-uk-central-bankers-offer-contrary-views-on-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Federal Reserve governor Christopher Waller told a conference on Sunday that stablecoins expand the reach of US policy while the Bank of England’s Megan Greene expects their popularity will soon fade.",
+      "desc": "Federal Reserve Governor Christopher Waller told a conference on Sunday that stablecoins expand the reach of US policy while the Bank of England’s Megan Greene expects their popularity will soon fade.",
       "date": "2026-05-31T21:11:35.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -121,7 +157,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet",
       "link": "https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Strategy could be set to announce it has resumed buying Bitcoin after pausing in recent weeks as the biggest crypto looks poised to close out the month down more than 3.5%.",
+      "desc": "Strategy may be set to announce it has resumed buying Bitcoin after pausing in recent weeks as the biggest crypto looks poised to close out the month down more than 3.5%.",
       "date": "2026-05-31T20:00:12.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -149,23 +185,12 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Kraken ‘plans’ regulated perp contracts as rivals are quick off the blocks",
+      "title": "Kraken ‘plans’ regulated perp contracts as rivals are quick off blocks",
       "link": "https://cointelegraph.com/news/kraken-plans-regulated-perp-contracts-as-rivals-are-quick-off-the-blocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "In the wake of CFTC approval of perpetual futures contracts tied to the spot price of Bitcoin, Kraken expects to offer those to US institutional clients within \"the next month.\"",
       "date": "2026-05-31T17:40:00.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
-      "link": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
-      "desc": "Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.",
-      "date": "2026-05-30T05:27:39.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "coindesk",
@@ -194,7 +219,13 @@
       "link": "https://www.theblock.co/post/403122/cardano-foundation-cancels-2026-summit-after-treasury-funding-vote-falls-just-short?utm_source=rss&utm_medium=rss",
       "desc": "The measure needed two-thirds support but got only 65%, even after late endorsements from Cardano's founder and the Foundation CEO.",
       "date": "2026-05-31T15:33:24.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/cardano-foundation-cancels-annual-conference-after-failed-funding-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
