@@ -1,19 +1,100 @@
 {
-  "generatedAt": "2026-06-01T09:18:45.079Z",
+  "generatedAt": "2026-06-01T11:18:36.298Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 307,
+  "filteredOut": 302,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 5,
   "items": [
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Fintech rebounds from reset years as profits and revenues surge",
+      "link": "https://www.finextra.com/newsarticle/47835/fintech-rebounds-from-reset-years-as-profits-and-revenues-surge?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "The world’s fintech sector is emerging from a bleak period of retrenchment to a new found maturity, as the giddy excitement from the breakout years is replaced with a more disciplined approach that has prompted a sudden surge in profitability and revenue growth.",
+      "date": "2026-06-01T11:40:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Stablecoin flows and spillovers to FX markets",
       "link": "https://www.bis.org/publ/work1340.htm",
       "desc": "by Iñaki Aldasoro, Paula Beltrán, Federico GrinbergUsing data on four USD-pegged stablecoins and 27 fiat currencies, this paper documents spillovers from stablecoin-based foreign exchange (FX) to traditional FXmarkets. We document a gap between the cost of acquiring dollars via stablecoins and via the spot FX market (parity deviations). To establish a causal link between stablecoin flows and FX markets, we use a granular instrumental variable that exploits idiosyncratic shocks to stablecoin net inflows in other currencies.",
-      "date": "2026-06-01T09:18:44.042Z",
+      "date": "2026-06-01T11:18:36.019Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Cardano Summit 2026 canceled after community votes against Foundation funding proposal",
+      "link": "https://www.coindesk.com/markets/2026/06/01/cardano-governance-vote-kills-summit-approves-smaller-token2049-plan",
+      "desc": "The Cardano Foundation's flagship conference was scrapped after a funding proposal failed to secure the two-thirds support required under the blockchain's new governance system.",
+      "date": "2026-06-01T10:46:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Wise shares slump over money laundering investigation",
+      "link": "https://www.ft.com/content/a90958b3-9de9-4b8b-a99b-ef6f9ed2c7f8",
+      "desc": "London-headquartered fintech says it is responding to questions from Belgian authorities",
+      "date": "2026-06-01T10:33:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "‘Gnosis will cover all user losses’ amid exploit related to Gnosis Pay, co-founder Koppelmann says",
+      "link": "https://www.theblock.co/post/403147/gnosis-will-cover-all-user-losses-amid-exploit-related-to-gnosis-pay-co-founder-koppelmann-says?utm_source=rss&utm_medium=rss",
+      "desc": "Gnosis co-founder Martin Koppelmann said all user losses will be covered as containment efforts continue following an exploit.",
+      "date": "2026-06-01T10:14:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin, ether start June in the red while futures show taste for risk. XLM, HYPE gain",
+      "link": "https://www.coindesk.com/markets/2026/06/01/bitcoin-ether-start-june-in-the-red-while-futures-show-taste-for-risk-xlm-hype-gain",
+      "desc": "Bitcoin and ether fell Monday after dropping in May, a month that usually sees them post positive returns. U.S. equity index futures rose.",
+      "date": "2026-06-01T10:04:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "What Is BChat? The Decentralized Messaging App Built for Privacy",
+      "link": "https://decrypt.co/resources/what-is-bchat-beldex-decentralized-messaging-app-privacy",
+      "desc": "Built on the Beldex Network, BChat aims to solve the weaknesses of relying solely on end-to-end encryption (E2EE) for private messaging.",
+      "date": "2026-06-01T10:01:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Coinbase launches rupee bank rails in India after FIU nod",
+      "link": "https://cointelegraph.com/news/coinbase-rolls-out-rupee-bank-rails-in-india-after-watchdog-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Coinbase has switched on direct rupee bank transfers in India via IMPS, letting users move funds between local bank accounts and the exchange for spot and futures trading.",
+      "date": "2026-06-01T09:45:49.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/403135/coinbase-launches-indian-rupee-rails?utm_source=rss&utm_medium=rss"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/369580/coinbase-launches-direct-indian-rupee-deposit-and-withdrawal-rails"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -99,16 +180,6 @@
       "link": "https://www.coindesk.com/tech/2026/06/01/three-sui-mainnet-halts-in-48-hours-traced-to-an-upgrade-bug-by-developers",
       "desc": "The Sui Foundation's post-mortem published Sunday traces all three outages to interactions between a new address-balance feature shipped in the v1.72 release and the network's existing gas and consensus logic.",
       "date": "2026-06-01T05:38:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Coinbase launches Indian rupee rails with perps access in expansion push",
-      "link": "https://www.theblock.co/post/403135/coinbase-launches-indian-rupee-rails?utm_source=rss&utm_medium=rss",
-      "desc": "The Nasdaq-listed company said it has established INR order books to provide dedicated liquidity for users in the country.",
-      "date": "2026-06-01T05:11:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -475,36 +546,6 @@
       "link": "https://www.coindesk.com/markets/2026/05/30/ripple-said-to-lead-usd1-billion-xrp-treasury-raise-report",
       "desc": "From May 20 to May 29, XRP funds took in $35 million while bitcoin and ether ETFs lost roughly $2 billion combined, with Ripple’s earlier reported XRP treasury plan still awaiting confirmation.",
       "date": "2026-05-30T11:35:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Crypto treasuries turn to risky equity in drive to raise cash",
-      "link": "https://www.ft.com/content/0c91bb8d-92bb-4701-988d-12855543ab2d",
-      "desc": "Companies that stock up on crypto assets are following Michael Saylor’s Strategy into so-called digital credit",
-      "date": "2026-05-30T11:00:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it ‘contrarian indicator’",
-      "link": "https://cointelegraph.com/news/spot-bitcoin-etfs-see-record-10-day-outflow-streak-analyst-calls-it-contrarian-indicator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Spot Bitcoin ETFs logged a record 10-day outflow streak totaling nearly $3 billion, while Ether ETFs bled for 14 consecutive sessions.",
-      "date": "2026-05-30T10:50:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin treasury space still has fair share of ‘carnival barkers’: BSTR founder",
-      "link": "https://cointelegraph.com/news/bitcoin-treasury-space-still-has-fair-share-of-carnival-barkers-bstr-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "BSTR co-founder Sean Bill says many Bitcoin treasury companies lack the “ability to actually deploy Bitcoin.”",
-      "date": "2026-05-30T09:28:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
