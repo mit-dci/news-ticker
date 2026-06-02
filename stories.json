@@ -1,18 +1,131 @@
 {
-  "generatedAt": "2026-06-02T13:49:59.577Z",
+  "generatedAt": "2026-06-02T15:27:11.048Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 260,
+  "filteredOut": 257,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 12,
   "items": [
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ethereum Researchers Lay Out Post-Quantum Key Registry as First Concrete Migration Step",
+      "link": "https://thedefiant.io/news/blockchains/ethereum-researchers-lay-out-post-quantum-key-registry-as-first-concrete-migration-step",
+      "desc": "A team led by Thomas Coratger and Justin Drake published the design for a dedicated XMSS public-key registry, the first protocol fork on the EF Strawmap before validators swap off BLS signatures.",
+      "date": "2026-06-02T13:32:06.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-02T13:49:58.776Z",
+      "date": "2026-06-02T15:27:11.034Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Hyperliquid is beating ethereum in trading volume on some days as big money rotates, says FalconX",
+      "link": "https://www.coindesk.com/markets/2026/06/02/hyperliquid-is-beating-ethereum-in-trading-volume-on-some-days-as-big-money-rotates-out-of-bitcoin-says-falconx",
+      "desc": "Institutional investors are ditching range-bound bitcoin and ether for Hyperliquid as the decentralized platform wins over hedge funds with massive liquidity and early access to hot markets, according to Joshua Lim, head of markets at FalconX.",
+      "date": "2026-06-02T15:11:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Georgia targets illegal crypto mining in Mestia crackdown: Report",
+      "link": "https://cointelegraph.com/news/georgias-vice-pm-governmental-crackdown-illegal-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Georgia will reportedly install electricity meters across Mestia to curb illegal crypto mining after officials blamed miners for grid strain and outages.",
+      "date": "2026-06-02T15:02:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Coinbase investing into stablecoin reserves ETF issued by ProShares",
+      "link": "https://www.theblock.co/post/403367/coinbases-investing-into-stablecoin-reserves-etf-issued-by-proshares?utm_source=rss&utm_medium=rss",
+      "desc": "The fund, called ProShares GENIUS Money Market ETF, has $22 billion in assets under management and launched this year.",
+      "date": "2026-06-02T14:48:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Strive adds 2,500 BTC to treasury as Saylor’s Strategy sells",
+      "link": "https://www.theblock.co/post/403352/strive-adds-2500-btc-treasury-saylor-strategy-sells?utm_source=rss&utm_medium=rss",
+      "desc": "In an initiation note, Benchmark said the company has \"one of the most differentiated capital structures in the bitcoin treasury sector.\"",
+      "date": "2026-06-02T14:32:01.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Andrew Yang's Noble Acquires Crypto-Fueled Helium Mobile Service",
+      "link": "https://decrypt.co/369716/andrew-yang-noble-acquires-crypto-fueled-helium-mobile-service",
+      "desc": "Crypto-powered cell service Helium Mobile has been acquired by Andrew Yang's Noble, which will also utilize the underlying Helium network.",
+      "date": "2026-06-02T14:24:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "How to better understand bitcoin’s perpetual identity crisis",
+      "link": "https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis",
+      "desc": "Here, Bailey unpacks the uncertainty surrounding the original cryptocurrency’s nature, which creates inconsistent market behavior.",
+      "date": "2026-06-02T14:08:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "How high can NEAR price go in June?",
+      "link": "https://cointelegraph.com/markets/how-high-can-near-price-go-in-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "NEAR has rebounded from a key historical support zone, reviving a bullish fractal that preceded 2,375% and 900% rallies in previous cycles.",
+      "date": "2026-06-02T14:04:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Securitize Brings Hamilton Lane's HLSCOPE Private-Credit Fund to TRON in First Issuance on the Network",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-hamilton-lane-hlscope-private-credit-tron-first-issuance",
+      "desc": "The tokenized Senior Credit Opportunities feeder fund — already live on Polygon, Ethereum and three other chains — becomes the inaugural Securitize-issued asset on a network with 383 million accounts and roughly $90 billion in circulating stablecoins.",
+      "date": "2026-06-02T14:02:34.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/403239/hamilton-lanes-tokenized-hlscope-fund-launches-on-tron-marking-first-securitize-product-issued-on-the-once-maligned-blockchain?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "This Crypto-Trading Platform Is Emerging as Wall Street’s Convenience Store",
+      "link": "https://www.wsj.com/finance/currencies/this-crypto-trading-platform-is-emerging-as-wall-streets-convenience-store-012e050c?mod=rss_markets_main",
+      "desc": "Hyperliquid, founded three years ago by former quant trader Jeff Yan, is always open for business.",
+      "date": "2026-06-02T14:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -27,12 +140,32 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Trader says XRP price setting ‘biggest bear trap’ after June monthly open",
+      "link": "https://cointelegraph.com/markets/trader-says-xrp-price-setting-biggest-bear-trap-after-june-monthly-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "XRP trades below key macro support, but analysts say reclaiming it could trigger one of the biggest bear traps.",
+      "date": "2026-06-02T13:48:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Mt. Gox Moves 10,422 Bitcoin While Bitcoin Price Craters Below $69,000",
       "link": "https://bitcoinmagazine.com/news/mt-gox-moves-bitcoin-while-bitcoin-price",
       "desc": "Bitcoin Magazine Mt. Gox Moves 10,422 Bitcoin While Bitcoin Price Craters Below $69,000 Mt. Gox moved 10,422 BTC worth $739 million ahead of its 2026 repayment deadline, triggering market jitters and contributing to Bitcoin’s drop below $69,000 despite no confirmed selling activity. This post Mt. Gox Moves 10,422 Bitcoin While Bitcoin Price Craters Below $69,000 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-02T13:48:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "OpenSea Teases Hyperliquid-Powered Perpetuals Launch",
+      "link": "https://thedefiant.io/news/defi/opensea-teases-hyperliquid-powered-perpetuals-launch",
+      "desc": "OpenSea Product Marketing Lead Zack Brenner asked users on X who wanted early access to perpetual contracts, then confirmed the product would run on Hyperliquid's builder-code rails — the clearest signal yet the NFT marketplace is bolting on a derivatives venue.",
+      "date": "2026-06-02T13:36:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,7 +216,13 @@
       "link": "https://www.coindesk.com/markets/2026/06/02/strategy-s-bitcoin-sale-may-mark-start-of-ether-outperformance-stanchart-s-kendrick-says",
       "desc": "ETH could outperform BTC by 40% from current levels as bitcoin treasuries may sell assets to cover obligations, the bank's digital asset research head said.",
       "date": "2026-06-02T13:14:36.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/403351/standard-chartered-strategy-bitcoin-sale-eth-outperformance?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -103,16 +242,6 @@
       "link": "https://www.theblock.co/post/403328/backpack-launches-securities-platform-blending-traditional-and-tokenized-stock-trading?utm_source=rss&utm_medium=rss",
       "desc": "Backpack Securities combines a U.S.-regulated brokerage for traditional equities ownership with a tokenization platform.",
       "date": "2026-06-02T13:05:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Hamilton Lane’s tokenized HLSCOPE fund launches on Tron, marking first Securitize asset on the network",
-      "link": "https://www.theblock.co/post/403239/hamilton-lanes-tokenized-hlscope-fund-launches-on-tron-marking-first-securitize-product-issued-on-the-once-maligned-blockchain?utm_source=rss&utm_medium=rss",
-      "desc": "Hamilton Lane’s tokenized Senior Credit Opportunities Fund will be the first Securitize-issued asset to launch on TRON.",
-      "date": "2026-06-02T13:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -183,6 +312,16 @@
       "link": "https://www.coindesk.com/coindesk-news/2026/06/02/bitcoin-etf-outflows-are-noise-as-wall-street-doubles-down-on-crypto-says-analyst",
       "desc": "Recent Bitcoin ETF outflows look dramatic in headlines, but Bloomberg Intelligence's Eric Balchunas says the broader adoption story remains intact.",
       "date": "2026-06-02T12:14:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Morning Minute: Saylor Sells Bitcoin for First Time Since 2022",
+      "link": "https://decrypt.co/369709/morning-minute-saylor-sells-bitcoin-for-first-time-since-2022",
+      "desc": "Bitcoin fell below $70K on the back of the sales, and a major Polymarket dispute is brewing over whether Strategy indeed sold in May or not.",
+      "date": "2026-06-02T12:14:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -264,6 +403,11 @@
       "desc": "MoneyGram has launched its own stablecoin as it builds its blockchain payments infrastructure. The native U.S. dollar coin, MGUSD, is designed less for crypto natives than for people who need to move money but don’t have access to traditional financial services, MoneyGram said in a news release Tuesday (June 2). “The stablecoin market has […] The post MoneyGram Debuts MGUSD Stablecoin to Expand Blockchain Payments appeared first on PYMNTS.com.",
       "date": "2026-06-02T10:49:08.000Z",
       "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/moneygram-mgusd-stablecoin-remittance-onchain-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
         {
           "source": "THE BLOCK",
           "sourceId": "block",
@@ -516,16 +660,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Unable to recover from roughly $50 million hack, Radiant Capital is winding down",
-      "link": "https://www.theblock.co/post/403254/unable-to-recover-from-roughly-50-million-hack-radiant-capital-is-winding-down?utm_source=rss&utm_medium=rss",
-      "desc": "Radiant Capital said it hasn't been able to recover a meaningful amount of funds or raise new capital since the 2024 exploit.",
-      "date": "2026-06-01T19:33:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Coinbase Exec Sees Path to Crypto’s ‘Dodd-Frank Moment’ as CLARITY Act Heads for Senate Floor",
@@ -542,16 +676,6 @@
       "link": "https://cointelegraph.com/news/japans-ruling-party-crypto-etfs-yen-denominated-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The Parliamentary Association for the Promotion of Blockchain delivered recommendations to Japan’s finance minister on crypto and blockchain.",
       "date": "2026-06-01T18:33:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "TON revives Gram token brand as Telegram CEO Durov says network is ‘returning to roots’",
-      "link": "https://www.theblock.co/post/403231/ton-revives-gram-token-brand-telegram-ceo-durov-network-returning-roots?utm_source=rss&utm_medium=rss",
-      "desc": "The Gram rebrand follows network upgrades, fee cuts, and Telegram's push for a larger role in TON governance.",
-      "date": "2026-06-01T18:32:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -612,16 +736,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Grayscale sets 0.29% fee for its Hyperliquid ETF, undercutting Bitwise and 21Shares",
-      "link": "https://www.theblock.co/post/403234/grayscale-sets-0-29-fee-hyperliquid-etf-undercutting-bitwise-21shares?utm_source=rss&utm_medium=rss",
-      "desc": "Grayscale is set to launch its own Hyperliquid exchange-traded fund as soon as this week, setting a sponsor fee of 0.29%.",
-      "date": "2026-06-01T18:09:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Crypto funds suffer second-largest outflows of 2026 while XRP and HYPE attract inflows",
@@ -658,54 +772,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Saylor's Strategy sold bitcoin for the first time since 2022. These firms are still buying",
-      "link": "https://www.coindesk.com/business/2026/06/01/saylor-s-strategy-sold-bitcoin-for-the-first-time-since-2022-these-firms-are-still-buying",
-      "desc": "With Strategy breaking its accumulation streak and many peers stepping aside, the list of active digital asset treasuries has narrowed considerably.",
-      "date": "2026-06-01T17:25:55.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/369709/morning-minute-saylor-sells-bitcoin-for-first-time-since-2022"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "The Business Owner’s Guide to Vertical Integration with Bitcoin",
       "link": "https://bitcoinmagazine.com/bitcoin-for-corporations/business-owner-guide-bitcoin-integration",
       "desc": "Bitcoin Magazine The Business Owner’s Guide to Vertical Integration with Bitcoin Companies are vertically integrating Bitcoin across four stages: Accept, Hold, Produce, Build, wiring them together into flywheels to create structural moats. This post The Business Owner’s Guide to Vertical Integration with Bitcoin first appeared on Bitcoin Magazine and is written by Nick Ward.",
       "date": "2026-06-01T17:20:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "It's not 2022 anymore: What Strategy's first bitcoin sale can (and can't) tell us about this one",
-      "link": "https://www.coindesk.com/markets/2026/06/01/strategy-s-second-bitcoin-sale-revives-memories-of-2022",
-      "desc": "Michael Saylor's Strategy has evolved into a far more complex bitcoin-finance machine since it last sold BTC three and half years ago.",
-      "date": "2026-06-01T17:06:34.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/strategy-first-ever-bitcoin-sale-offloads-32-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ethereum's Vitalik Buterin is rethinking how DeFi handles market crashes",
-      "link": "https://www.coindesk.com/tech/2026/06/01/ethereum-s-vitalik-buterin-is-rethinking-how-defi-handles-market-crashes",
-      "desc": "In a research post published Monday, Buterin proposed creating index-tracking assets using options contracts rather than the debt-based structures that underpin much of DeFi today.",
-      "date": "2026-06-01T17:01:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -780,16 +852,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-01T14:51:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "V12 Says THORChain Silently Patched Its Critical Bug, Then Told Researchers the Bounty Is 'Permanently Retired'",
@@ -846,42 +908,16 @@
       "link": "https://thedefiant.io/news/hacks/gnosis-pay-hit-by-delay-module-exploit-as-gnosis-pledges-to-cover-user-losses",
       "desc": "Co-founder Martin Köppelmann said the company will make all users whole after attackers exploited the smart-contract module that governs Gnosis Pay card accounts. No loss figure has been disclosed.",
       "date": "2026-06-01T13:50:06.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/gnosis-hit-by-fresh-exploit-team-vows-to-fully-cover-user-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Crypto meets Wall Street: MEXC unveils 'RealStocks' with 0-fee U.S. equity trading and real dividends",
-      "link": "https://cointelegraph.com/press-releases/crypto-meets-wall-street-mexc-unveils-realstocks-with-0-fee-us-equity-trading-and-real-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "MEXC, a leading 0-fee cross-asset trading platform, today announced the official launch of 'RealStocks.'",
-      "date": "2026-06-01T12:40:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Michael Saylor's Bitcoin Treasury Firm Strategy Sells 32 BTC for $2.5M",
-      "link": "https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m",
-      "desc": "Bitcoin tumbled to $72,000 Monday as news of the BTC treasury firm's about-face on its \"never sell\" stance broke.",
-      "date": "2026-06-01T12:22:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin ETPs post largest 2026 outflow as crypto funds bleed $1.67B",
-      "link": "https://cointelegraph.com/news/crypto-etps-bleed-1-67-billion-altcoin-participation-collapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto ETPs see $1.67 billion in outflows as the US dominates selling, Bitcoin funds log a record 2026 exit, and altcoin participation narrows sharply across markets, according to CoinShares.",
-      "date": "2026-06-01T11:50:13.000Z",
+      "title": "Strategy sells 32 BTC in first Bitcoin sale since 2022; Stock falls on open",
+      "link": "https://cointelegraph.com/news/strategy-first-ever-bitcoin-sale-offloads-32-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The world's largest public Bitcoin holder reduced its stash to 843,706 BTC, while raising $128.3 million through Class A stock sales.",
+      "date": "2026-06-01T13:50:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -902,16 +938,6 @@
       "link": "https://www.finextra.com/newsarticle/47835/fintech-rebounds-from-reset-years-as-profits-and-revenues-surge?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "The world’s fintech sector is emerging from a bleak period of retrenchment to a new found maturity, as the giddy excitement from the breakout years is replaced with a more disciplined approach that has prompted a sudden surge in profitability and revenue growth.",
       "date": "2026-06-01T11:40:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "ECB official says stablecoins risk importing old market flaws",
-      "link": "https://cointelegraph.com/news/ecb-stablecoins-public-money-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "ECB board member Isabel Schnabel warned that stablecoins could bring money-market risks into tokenized finance and reinforce US dollar dominance.",
-      "date": "2026-06-01T11:21:55.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
