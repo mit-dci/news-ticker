@@ -1,11 +1,37 @@
 {
-  "generatedAt": "2026-06-02T05:04:53.995Z",
+  "generatedAt": "2026-06-02T07:04:22.340Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 265,
+  "filteredOut": 268,
   "errors": [],
   "dupsMerged": 14,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Mt. Gox moves 10,422 bitcoin worth $739 million to a new wallet as deadline nears",
+      "link": "https://www.coindesk.com/markets/2026/06/02/mt-gox-moves-10-422-bitcoin-worth-usd739-million-to-a-new-wallet-as-deadline-nears",
+      "desc": "The 04:47 UTC Bitcoin block 952,072 transaction moved coins from Mt. Gox cold storage into a freshly generated address, with a smaller 116-bitcoin slice routed to the defunct exchange's hot wallet.",
+      "date": "2026-06-02T06:15:02.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/403296/mt-gox-moves-739-million-btc?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Grayscale HYPE ETF ‘likely imminent’ as new update shows competitive fee: Analyst",
+      "link": "https://cointelegraph.com/news/grayscale-hype-etf-likely-imminent-as-new-update-shows-competitive-fee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Grayscale proposed a fee of 0.29% on its Hyperliquid ETF, which “slightly undercuts” rivals 21Shares and Bitwise that carry respective fees of 0.3% and 0.34%, says analyst James Seyffart.",
+      "date": "2026-06-02T05:48:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "block",
       "sourceName": "THE BLOCK",
@@ -757,22 +783,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Whitehat developer unlocks $2 million stuck in a 2016 Ethereum ICO contract for nine years",
-      "link": "https://www.coindesk.com/tech/2026/06/01/whitehat-developer-unlocks-usd2-million-stuck-in-a-2016-ethereum-ico-contract-for-nine-years",
-      "desc": "0xflorent, a security researcher, found an integer-overflow flaw in the HongCoin token sale contract that lets the team unlock funds for 48 original investors. It is the second such recovery he has publicized in eight days.",
-      "date": "2026-06-01T06:52:38.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/403126/dev-helps-rescue-2-million-locked-in-2016-ico-contract-for-nine-years-with-whitehat-exploit?utm_source=rss&utm_medium=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Sui Foundation says ‘major upgrade’ fixed bugs behind three outages",
@@ -793,26 +803,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP drops to $1.32 as sellers overpower exchange outflows",
-      "link": "https://www.coindesk.com/markets/2026/06/01/xrp-drops-to-usd1-32-as-sellers-overpower-exchange-outflows",
-      "desc": "XRP hit a 15-week low before stabilizing, with traders watching whether the latest washout turns into a base or another leg lower.",
-      "date": "2026-06-01T05:41:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Three Sui mainnet halts in 48 hours traced to an upgrade bug by developers",
-      "link": "https://www.coindesk.com/tech/2026/06/01/three-sui-mainnet-halts-in-48-hours-traced-to-an-upgrade-bug-by-developers",
-      "desc": "The Sui Foundation's post-mortem published Sunday traces all three outages to interactions between a new address-balance feature shipped in the v1.72 release and the network's existing gas and consensus logic.",
-      "date": "2026-06-01T05:38:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Wintermute to bring liquidity to booming prediction markets sector",
@@ -829,26 +819,6 @@
       "link": "https://www.theblock.co/post/403128/the-funding-how-crypto-hedge-funds-are-navigating-weak-markets?utm_source=rss&utm_medium=rss",
       "desc": "As crypto markets remain weak, fund managers say asset selection, fundamentals, and alpha matter more than ever.",
       "date": "2026-06-01T03:33:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "White hat hacker recovers $2M from faulty 2016 ICO smart contract",
-      "link": "https://cointelegraph.com/news/whitehat-helps-recover-2m-from-2016-ico-smart-contract?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A white-hat hacker has helped the creators of Hong Coin by showing them how to exploit a flawed admin function on a smart contract and ultimately refund investors after a decade.",
-      "date": "2026-06-01T02:21:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "US, UK central bankers offer contrary views on stablecoins",
-      "link": "https://cointelegraph.com/news/us-uk-central-bankers-offer-contrary-views-on-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Federal Reserve Governor Christopher Waller told a conference on Sunday that stablecoins expand the reach of US policy while the Bank of England’s Megan Greene expects their popularity will soon fade.",
-      "date": "2026-05-31T21:11:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
