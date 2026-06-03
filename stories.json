@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-03T07:10:47.685Z",
+  "generatedAt": "2026-06-03T09:08:11.638Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 251,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "defiant",
@@ -18,21 +18,61 @@
       "termBoost": 3
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Deel launches stablecoin wallet for global contractors",
+      "link": "https://www.finextra.com/pressarticle/110015/deel-launches-stablecoin-wallet-for-global-contractors?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Deel, the global people platform trusted by 40,000+ businesses, to hire, manage, and pay teams across 150+ countries, today launched the Deel stablecoin wallet for contractors.",
+      "date": "2026-06-03T09:54:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-03T07:10:47.673Z",
+      "date": "2026-06-03T09:08:11.342Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Banks' survey says people don't want to rock the boat if stablecoin yield risks lending",
+      "link": "https://www.coindesk.com/policy/2026/06/02/banks-survey-says-people-don-t-want-to-rock-the-boat-if-stablecoins-would-risk-lending",
+      "desc": "The American Bankers Association, which lobbies against the crypto sector over the Clarity Act's stablecoin section, unveiled its new polling.",
+      "date": "2026-06-03T09:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Mastercard expands stablecoin settlement options with USDC, PYUSD and RLUSD",
+      "link": "https://www.theblock.co/post/403474/mastercard-expands-stablecoin-settlement-options-with-usdc-pyusd-and-rlusd?utm_source=rss&utm_medium=rss",
+      "desc": "Mastercard expanded settlement to USDC, PYUSD, and RLUSD, enabling intraday, weekend, and holiday card settlement across its payments network.",
+      "date": "2026-06-03T08:57:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Franklin Templeton says Wall Street fears blockchain because it threatens its profits",
+      "link": "https://www.coindesk.com/business/2026/06/02/franklin-templeton-says-wall-street-fears-blockchain-because-it-threatens-its-profits",
+      "desc": "Jenny Johnson, Franklin Templeton's CEO, said blockchain and crypto threaten a huge number of business models that exist today in traditional finance.",
+      "date": "2026-06-03T07:04:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "New York and Europe’s finance watchdogs team up to police stablecoins",
+      "title": "New York and EU’s finance watchdogs team up to police stablecoins",
       "link": "https://cointelegraph.com/news/new-york-eu-regulators-joint-stablecoin-oversight-agreement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Some of the information that New York and the European Union’s watchdogs will share includes the issued stablecoin, total volume in circulation and the number of holders.",
+      "desc": "Some of the information that New York and the European Union’s watchdogs will share includes the issued stablecoins, total volume in circulation and the number of holders.",
       "date": "2026-06-03T06:58:05.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -90,7 +130,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Mastercard expands on-chain settlement in bet on stablecoins and always-on finance",
+      "title": "Mastercard expands onchain settlement in bet on stablecoins and always-on finance",
       "link": "https://www.coindesk.com/markets/2026/06/03/mastercard-expands-on-chain-settlement-in-bet-on-stablecoins-and-always-on-finance",
       "desc": "The company plans to offer stablecoin, weekend and holiday settlement as demand grows for real-time movement of money.",
       "date": "2026-06-03T04:00:00.000Z",
@@ -114,7 +154,13 @@
       "link": "https://cointelegraph.com/news/cardano-protocol-taptools-winds-down-after-five-execs-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Despite the planned wind-down, TapTools says it is open to being acquired or taking on external resources to continue maintaining the platform.",
       "date": "2026-06-03T02:45:56.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/403457/taptools-winds-down?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -224,16 +270,6 @@
       "link": "https://www.coindesk.com/policy/2026/06/02/u-s-sanctions-iranian-crypto-exchanges-in-ongoing-war-against-country",
       "desc": "OFAC said it was blacklisting Nobitex and three other Iranian exchanges, as well as a few executives, citing links to terror and other crimes.",
       "date": "2026-06-02T21:49:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Stablecoins Have a Money Market Fund Problem",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/stablecoins-have-a-money-market-fund-problem/",
-      "desc": "The technological novelty defense has a shelf life. For stablecoins, it’s expiring. And while stablecoin issuers have traditionally argued that their products represented something beyond traditional finance, central banks are looking past the programmable flash of blockchain and focusing on something far more familiar underneath the hood. One of the more revealing aspects of […] The post Stablecoins Have a Money Market Fund Problem appeared first on PYMNTS.com.",
-      "date": "2026-06-02T21:42:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -793,26 +829,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Following token-dumping scandal, Movement seeks new life as a Layer 1",
-      "link": "https://www.theblock.co/post/403264/movement-seeks-new-life-as-layer-1?utm_source=rss&utm_medium=rss",
-      "desc": "Move Industries has partnered with several firms, including Circle, as it relaunches Movement as a Layer 1 and refocuses on emerging markets.",
-      "date": "2026-06-02T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Movement pivots to stablecoin payments as the layer-2 boom loses momentum",
-      "link": "https://www.coindesk.com/tech/2026/06/02/movement-pivots-to-stablecoin-payments-as-the-layer-2-boom-loses-momentum",
-      "desc": "The team behind Movement said it plans to leverage licensed payment partners alongside blockchain settlement rails to target the roughly $685 billion remittance market serving low and middle-income countries.",
-      "date": "2026-06-02T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "EdgeX blames ‘external party’ for token crash as ZachXBT alleges insider manipulation",
@@ -869,16 +885,6 @@
       "link": "https://cointelegraph.com/news/crypto-treasury-inflows-may-lowest-october-2024?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin treasury firms made up nearly all May inflows, but BTC-linked capital formation also dropped sharply from April.",
       "date": "2026-06-02T11:07:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Veda brings the vault stack behind Kraken DeFi Earn to Privy’s 2,000-plus developer teams",
-      "link": "https://www.theblock.co/post/403277/veda-brings-the-vault-stack-behind-kraken-defi-earn-to-privys-2000-plus-developer-teams?utm_source=rss&utm_medium=rss",
-      "desc": "The same vault stack powering Kraken DeFi Earn and EtherFi's Liquid will be available via a self-serve API for developers building on Privy.",
-      "date": "2026-06-02T11:05:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1025,16 +1031,6 @@
       "link": "https://thedefiant.io/news/hacks/gnosis-pay-hit-by-delay-module-exploit-as-gnosis-pledges-to-cover-user-losses",
       "desc": "Co-founder Martin Köppelmann said the company will make all users whole after attackers exploited the smart-contract module that governs Gnosis Pay card accounts. No loss figure has been disclosed.",
       "date": "2026-06-01T13:50:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Fintech rebounds from reset years as profits and revenues surge",
-      "link": "https://www.finextra.com/newsarticle/47835/fintech-rebounds-from-reset-years-as-profits-and-revenues-surge?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "The world’s fintech sector is emerging from a bleak period of retrenchment to a new found maturity, as the giddy excitement from the breakout years is replaced with a more disciplined approach that has prompted a sudden surge in profitability and revenue growth.",
-      "date": "2026-06-01T11:40:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
