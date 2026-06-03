@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-06-03T09:08:11.638Z",
+  "generatedAt": "2026-06-03T11:16:16.872Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 251,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 244,
+  "errors": [
+    "PYMNTS: PYMNTS: HTTP 502"
+  ],
   "dupsMerged": 9,
   "items": [
     {
@@ -20,10 +22,20 @@
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
-      "title": "Deel launches stablecoin wallet for global contractors",
-      "link": "https://www.finextra.com/pressarticle/110015/deel-launches-stablecoin-wallet-for-global-contractors?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Deel, the global people platform trusted by 40,000+ businesses, to hire, manage, and pay teams across 150+ countries, today launched the Deel stablecoin wallet for contractors.",
-      "date": "2026-06-03T09:54:00.000Z",
+      "title": "Marrex arrives on crypto option exchange Deribit",
+      "link": "https://www.finextra.com/pressarticle/110027/marrex-arrives-on-crypto-option-exchange-deribit?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Marex Group plc (NASDAQ: MRX), the diversified global financial services platform, today announces that it has been onboarded as a broker on Deribit, the leading crypto options exchange, further expanding Marex’s institutional crypto offering and enhancing client access to global digital asset markets.",
+      "date": "2026-06-03T12:10:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "RedotPay enters B2B market",
+      "link": "https://www.finextra.com/pressarticle/110025/redotpay-enters-b2b-market?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "RedotPay, a global stablecoin-based payment fintech company serving over 7 million users across 100+ countries, today announced the launch of RedotPay Connect at Money20/20 Europe, marking the company’s first dedicated B2B product since inception and a major step into enterprise payments.",
+      "date": "2026-06-03T12:07:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +45,83 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-03T09:08:11.342Z",
+      "date": "2026-06-03T11:16:16.371Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "UK Regulator Warns Soccer Clubs Over Unauthorized Crypto Sponsorship Deals",
+      "link": "https://decrypt.co/369835/uk-regulator-warns-soccer-clubs-over-unauthorized-crypto-sponsorship-deals",
+      "desc": "The FCA has warned Premier League clubs that partnerships with unlicensed crypto firms could expose fans to unregulated trading platforms.",
+      "date": "2026-06-03T11:11:43.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/403478/uk-fca-warns-soccer-clubs-crypto-sponsorship?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Binance winds down centralized NFT service, gives users one month to withdraw assets",
+      "link": "https://www.theblock.co/post/403483/binance-winds-down-centralized-nft-service-gives-users-one-month-to-withdraw-assets?utm_source=rss&utm_medium=rss",
+      "desc": "Binance is closing its centralized NFT service on July 3, 2026, requiring users to withdraw transferable NFTs or lose access.",
+      "date": "2026-06-03T10:52:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin's crash to $65K triggers $1.8B in crypto liquidations",
+      "link": "https://cointelegraph.com/markets/bitcoins-crash-to-65k-triggers-18b-in-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin's drop to $65,000 triggered over $1.8 billion in crypto liquidations as traders brace for a test of $60,000 as support.",
+      "date": "2026-06-03T10:48:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Apparent Zcash outage was a block explorer problem, infrastructure providers say",
+      "link": "https://www.coindesk.com/tech/2026/06/03/privacy-focused-zcash-blockchain-has-not-produced-a-block-for-four-hours",
+      "desc": "The Zcash blockchain didn't produce new blocks for more than four hours on June 3.",
+      "date": "2026-06-03T10:22:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "UK's financial watchdog cracks down on Premier League crypto partnerships",
+      "link": "https://www.coindesk.com/policy/2026/06/03/uk-s-financial-watchdog-cracks-down-on-premier-league-crypto-partnerships",
+      "desc": "The FCA said unauthorized firms could be breaching rules on financial promotions through high-profile sponsorships deals.",
+      "date": "2026-06-03T10:19:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Trezor says your crypto is safe after Ledger audit exposes a hardware flaw",
+      "link": "https://www.coindesk.com/tech/2026/06/02/dnp-trezor-says-users-crypto-is-safe-after-ledger-researchers-uncover-chip-flaw",
+      "desc": "The flaw affects only one of the wallet's multiple security layers and would require physical access, specialized equipment and advanced expertise to exploit.",
+      "date": "2026-06-03T10:04:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "DeFi won't win over big banks until it fixes its hacking problem, executives say",
+      "link": "https://www.coindesk.com/business/2026/06/02/defi-won-t-win-over-big-banks-until-it-fixes-its-hacking-problem-executives-say",
+      "desc": "Lenders are particularly interested in blockchain's back-office applications, but security failures are blocking wider adoption.",
+      "date": "2026-06-03T09:12:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -54,7 +142,13 @@
       "link": "https://www.theblock.co/post/403474/mastercard-expands-stablecoin-settlement-options-with-usdc-pyusd-and-rlusd?utm_source=rss&utm_medium=rss",
       "desc": "Mastercard expanded settlement to USDC, PYUSD, and RLUSD, enabling intraday, weekend, and holiday card settlement across its payments network.",
       "date": "2026-06-03T08:57:56.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/47851/mastercard-rolls-out-support-for-stablecoin-settlement?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -118,16 +212,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Mastercard Prepares to Expand Network Capabilities for New Settlement Choices",
-      "link": "https://www.pymnts.com/mastercard/2026/mastercard-prepares-to-expand-network-capabilities-for-new-settlement-choices/",
-      "desc": "Mastercard plans to expand its settlement capabilities to give issuers and acquirers more choice in how and when they settle transactions. The new capabilities will include stablecoin, intraday, holiday and weekend options, the company said in a Wednesday (June 3) press release emailed to PYMNTS. These enhancements will support both fiat currencies and on-chain […] The post Mastercard Prepares to Expand Network Capabilities for New Settlement Choices appeared first on PYMNTS.com.",
-      "date": "2026-06-03T04:01:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Mastercard expands onchain settlement in bet on stablecoins and always-on finance",
@@ -170,16 +254,6 @@
       "link": "https://decrypt.co/369772/cardsmiths-america250-trading-cards-real-bitcoin-dogecoin",
       "desc": "Cardsmiths’ latest Currency trading card series tackles American history—and some packs include codes for real Bitcoin, Ethereum, and more.",
       "date": "2026-06-03T01:22:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "CLARITY Act Nears Senate Floor Ahead of Recess Deadline",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/clarity-act-nears-senate-floor-ahead-of-recess-deadline/",
-      "desc": "The CLARITY Act (H.R.3633) has moved closer to consideration by the U.S. Senate. The crypto bill was reported by the Senate Banking Committee and was placed on the Senate Legislative Calendar on Tuesday (June 2), according to Congress.gov. Seeking Alpha, which flagged these moves in a Tuesday report, said these actions mean the bill […] The post CLARITY Act Nears Senate Floor Ahead of Recess Deadline appeared first on PYMNTS.com.",
-      "date": "2026-06-03T00:27:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -436,16 +510,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "EBA and NYDFS ink stablecoin MoU",
-      "link": "https://www.finextra.com/pressarticle/110011/eba-and-nydfs-ink-stablecoin-mou?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "The European Banking Authority (EBA) has signed a Memorandum of Understanding (MoU) with the New York State Department of Financial Services (NYDFS) under the Markets in Crypto-Assets Regulation (MiCA).",
-      "date": "2026-06-02T18:20:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "A Little Story About Inflation – An Excerpt from Bitcoin: The Honest Money",
@@ -596,16 +660,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Hyperliquid is beating ethereum in trading volume on some days as big money rotates, says FalconX",
-      "link": "https://www.coindesk.com/markets/2026/06/02/hyperliquid-is-beating-ethereum-in-trading-volume-on-some-days-as-big-money-rotates-out-of-bitcoin-says-falconx",
-      "desc": "Institutional investors are ditching range-bound bitcoin and ether for Hyperliquid as the decentralized platform wins over hedge funds with massive liquidity and early access to hot markets, according to Joshua Lim, head of markets at FalconX.",
-      "date": "2026-06-02T15:11:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Georgia targets illegal crypto mining in Mestia crackdown: Report",
@@ -646,16 +700,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "How to better understand bitcoin’s perpetual identity crisis",
-      "link": "https://www.coindesk.com/opinion/2026/06/02/how-to-better-understand-bitcoin-s-perpetual-identity-crisis",
-      "desc": "Here, Bailey unpacks the uncertainty surrounding the original cryptocurrency’s nature, which creates inconsistent market behavior.",
-      "date": "2026-06-02T14:08:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "How high can NEAR price go in June?",
@@ -672,22 +716,16 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-hamilton-lane-hlscope-private-credit-tron-first-issuance",
       "desc": "The tokenized Senior Credit Opportunities feeder fund — already live on Polygon, Ethereum and three other chains — becomes the inaugural Securitize-issued asset on a network with 383 million accounts and roughly $90 billion in circulating stablecoins.",
       "date": "2026-06-02T14:02:34.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/403239/hamilton-lanes-tokenized-hlscope-fund-launches-on-tron-marking-first-securitize-product-issued-on-the-once-maligned-blockchain?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "This Crypto-Trading Platform Is Emerging as Wall Street’s Convenience Store",
-      "link": "https://www.wsj.com/finance/currencies/this-crypto-trading-platform-is-emerging-as-wall-streets-convenience-store-012e050c?mod=rss_markets_main",
-      "desc": "Hyperliquid, founded three years ago by former quant trader Jeff Yan, is always open for business.",
-      "date": "2026-06-02T14:00:00.000Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Standard Chartered says Strategy’s bitcoin sale may mark start of ETH outperformance",
+      "link": "https://www.theblock.co/post/403351/standard-chartered-strategy-bitcoin-sale-eth-outperformance?utm_source=rss&utm_medium=rss",
+      "desc": "Standard Chartered said Ethereum DATs have an advantage over bitcoin DATs because ETH's staking yield means they do not need to sell ETH.",
+      "date": "2026-06-02T13:55:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -742,16 +780,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Franklin Templeton teams up with MoonPay to let big investors swap stablecoins for yields 24/7",
-      "link": "https://www.coindesk.com/business/2026/06/02/franklin-templeton-teams-up-with-moonpay-to-let-big-investors-swap-stablecoins-for-yields-24-7",
-      "desc": "The Wall Street giant is integrating its tech platform with MoonPay's infrastructure, allowing eligible institutions to seamlessly swap stablecoins for yield-generating tokenized funds without ever leaving the blockchain.",
-      "date": "2026-06-02T13:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Mt. Gox Moves $739M in Bitcoin as Repayment Deadline Looms",
@@ -769,22 +797,6 @@
       "desc": "Bitcoin Magazine Strive (ASST) Adds $185 Million in Bitcoin as Holdings Reach 19,000 BTC Strive added 2,500 BTC for $185.2 million, boosting its holdings to 19,000 BTC and cementing its position among the largest public corporate Bitcoin holders. This post Strive (ASST) Adds $185 Million in Bitcoin as Holdings Reach 19,000 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-02T13:20:19.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Strategy's bitcoin sale may mark start of ether outperformance, StanChart's Kendrick says",
-      "link": "https://www.coindesk.com/markets/2026/06/02/strategy-s-bitcoin-sale-may-mark-start-of-ether-outperformance-stanchart-s-kendrick-says",
-      "desc": "ETH could outperform BTC by 40% from current levels as bitcoin treasuries may sell assets to cover obligations, the bank's digital asset research head said.",
-      "date": "2026-06-02T13:14:36.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/403351/standard-chartered-strategy-bitcoin-sale-eth-outperformance?utm_source=rss&utm_medium=rss"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -815,16 +827,6 @@
       "link": "https://www.theblock.co/post/403336/hive-reports-158-jump-in-annual-revenue-to-298-million-as-bitcoin-holdings-fall-to-150-btc?utm_source=rss&utm_medium=rss",
       "desc": "The company reduced its bitcoin holdings from 481 BTC to 150 BTC during the last quarter, while its bitcoin mining revenue fell 23.9%.",
       "date": "2026-06-02T13:06:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Backpack launches securities platform blending traditional and tokenized stock trading",
-      "link": "https://www.theblock.co/post/403328/backpack-launches-securities-platform-blending-traditional-and-tokenized-stock-trading?utm_source=rss&utm_medium=rss",
-      "desc": "Backpack Securities combines a U.S.-regulated brokerage for traditional equities ownership with a tokenization platform.",
-      "date": "2026-06-02T13:05:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -885,16 +887,6 @@
       "link": "https://cointelegraph.com/news/crypto-treasury-inflows-may-lowest-october-2024?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin treasury firms made up nearly all May inflows, but BTC-linked capital formation also dropped sharply from April.",
       "date": "2026-06-02T11:07:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Mt. Gox moves $739M in Bitcoin from cold wallets: Arkham",
-      "link": "https://cointelegraph.com/news/mt-gox-moves-739m-in-bitcoin-for-first-time-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Mt. Gox moved $739 million in Bitcoin for the first time since March, raising speculation about imminent creditor distributions.",
-      "date": "2026-06-02T09:35:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -991,16 +983,6 @@
       "link": "https://thedefiant.io/news/hacks/kelp-dao-hacker-laundered-220m-unfrozen-funds-recovery-window-closes",
       "desc": "On-chain traces show the DPRK-linked attacker behind April's $292 million bridge exploit has pushed the unfrozen ~$220 million through THORChain, Wasabi, Tornado Cash, and Umbra, leaving roughly $1.7 million still sitting in the original wallet.",
       "date": "2026-06-01T18:11:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Tom Lee's BitMine Buys $52 Million in Ethereum as Strategy Sells Bitcoin",
-      "link": "https://decrypt.co/369642/tom-lee-bitmine-buys-52-million-ethereum-strategy-sells-bitcoin",
-      "desc": "A week after notching its largest purchase of 2026, BitMine was back in the order books, accumulating more Ethereum.",
-      "date": "2026-06-01T16:25:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
