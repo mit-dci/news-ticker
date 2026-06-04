@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-04T13:07:29.187Z",
+  "generatedAt": "2026-06-04T14:21:01.728Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 258,
+  "filteredOut": 268,
   "errors": [],
   "dupsMerged": 2,
   "items": [
@@ -17,13 +17,69 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Robinhood enters Canada as it completes acquisition of WonderFi",
+      "link": "https://www.finextra.com/pressarticle/110044/robinhood-enters-canada-as-it-completes-acquisition-of-wonderfi?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Robinhood Markets, Inc. (“Robinhood”) has closed its acquisition of WonderFi, a Canadian leader in digital asset products and services.",
+      "date": "2026-06-04T14:46:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-04T13:07:29.026Z",
+      "date": "2026-06-04T14:21:01.715Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Not all Ethereum layer 2s are dying, but many general-purpose chains no longer have a reason to exist",
+      "link": "https://www.coindesk.com/tech/2026/06/04/not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-have-a-reason-to-exist",
+      "desc": "In this week's edition of The Protocol Newsletter, we're looking at the state of the Ethereum layer-2 ecosystem.",
+      "date": "2026-06-04T13:52:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Standard Chartered Sees Bitcoin Bottom ‘Almost In’ as Sell-Off Cuts 14% in Seven Days",
+      "link": "https://bitcoinmagazine.com/news/standard-chartered-sees-bitcoin-bottom",
+      "desc": "Bitcoin Magazine Standard Chartered Sees Bitcoin Bottom ‘Almost In’ as Sell-Off Cuts 14% in Seven Days Standard Chartered's Geoff Kendrick argues Bitcoin's sharp decline—driven by Strategy's surprise sale, ETF outflows, and liquidations—may be nearing a bottom. This post Standard Chartered Sees Bitcoin Bottom ‘Almost In’ as Sell-Off Cuts 14% in Seven Days first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-04T13:50:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Visa, Brale test privacy-enabled SBC stablecoin settlement on Canton Network",
+      "link": "https://www.theblock.co/post/403658/visa-brale-test-privacy-enabled-sbc-stablecoin-settlement-on-canton-network?utm_source=rss&utm_medium=rss",
+      "desc": "Visa and Brale initiate a proof of concept testing SBC stablecoin settlement with privacy controls on the Canton Network.",
+      "date": "2026-06-04T13:34:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Apex, Archax join Goldman Sachs tokenized real estate fund project",
+      "link": "https://cointelegraph.com/news/apex-group-tokenized-real-estate-fund-goldman-sachs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Apex Group is providing fund services for a tokenized real estate fund using Goldman Sachs’ GS DAP platform.",
+      "date": "2026-06-04T13:25:56.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/06/04/goldman-sachs-teams-with-apex-archax-for-tokenized-real-estate-fund"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -269,16 +325,6 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Goldman Sachs teams with Apex, Archax for tokenized real estate fund",
-      "link": "https://www.coindesk.com/business/2026/06/04/goldman-sachs-teams-with-apex-archax-for-tokenized-real-estate-fund",
-      "desc": "The fund combines blockchain native issuance with established fund structures.",
-      "date": "2026-06-04T07:57:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
       "title": "Polymarket says No for May, Yes for June after Strategy's recent bitcoin sale",
       "link": "https://www.coindesk.com/markets/2026/06/04/polymarket-says-no-for-may-yes-for-june-after-strategy-s-recent-bitcoin-sale",
       "desc": "UMA voters ruled that Strategy's June 1 disclosure counted for the June contract, even though the company said it sold bitcoin during the final week of May.",
@@ -353,17 +399,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ethereum Researchers Lay Out Post-Quantum Key Registry as First Concrete Migration Step",
-      "link": "https://thedefiant.io/news/blockchains/ethereum-researchers-lay-out-post-quantum-key-registry-as-first-concrete-migration-step",
-      "desc": "A team led by Thomas Coratger and Justin Drake published the design for a dedicated XMSS public-key registry, the first protocol fork on the EF Strawmap before validators swap off BLS signatures.",
-      "date": "2026-06-02T13:32:06.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin tanks below $63,000 for the first time since February as price selloff deepens",
@@ -420,6 +455,16 @@
       "link": "https://thedefiant.io/news/defi/pendle-token-goes-live-on-revolut-reaching-20m-eea-crypto-traders",
       "desc": "The yield-tokenization protocol's $233M-mcap token is now buyable inside Revolut's MiCA-licensed crypto app across the UK, EU, Norway, Iceland and Liechtenstein — the second on-chain yield protocol to land on the fintech's regulated rails after Maple's SYRUP in April.",
       "date": "2026-06-03T21:09:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards",
+      "link": "https://decrypt.co/369972/tether-tokenized-gold-visa-stablecoin-card-pays-crypto-rewards",
+      "desc": "Holders will be able to do more with their gold, instantly spending Tether's tokenized version anywhere Visa is accepted.",
+      "date": "2026-06-03T21:03:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -614,16 +659,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto Long & Short: What about the American consumer?",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/06/03/crypto-long-and-short-what-about-the-american-consumer",
-      "desc": "In this week's Crypto Long & Short, Alex Tapscott on the stalling of the CLARITY Act and how it's impacting the average American consumer. Then, Aisha Hunt writes that crypto will grow by upgrading Wall Street’s trusted products rather than replacing them.",
-      "date": "2026-06-03T16:13:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin copying 2022 'almost perfectly' as trader sees key support failing",
@@ -664,46 +699,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Sen. Lummis says JPMorgan CEO Jamie Dimon hasn’t read Clarity Act, calls remarks ‘distasteful’",
-      "link": "https://www.theblock.co/post/403539/sen-lummis-jpmorgan-ceo-jamie-dimon-hasnt-read-clarity-act-remarks-distasteful?utm_source=rss&utm_medium=rss",
-      "desc": "Republican Senator Lummis said the JPMorgan CEO \"either hasn't read\" the Clarity Act \"or he wants to mislead people.\"",
-      "date": "2026-06-03T15:37:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-03T15:22:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Lava Card Launches Secured Visa Credit Card That Pays Bitcoin Rewards on Every Purchase",
-      "link": "https://bitcoinmagazine.com/news/lava-card-launches-visa-credit-card",
-      "desc": "Bitcoin Magazine Lava Card Launches Secured Visa Credit Card That Pays Bitcoin Rewards on Every Purchase Lava has launched a secured Visa credit card that lets users fund spending with cash or stablecoins while earning Bitcoin rewards on every purchase. This post Lava Card Launches Secured Visa Credit Card That Pays Bitcoin Rewards on Every Purchase first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-03T15:18:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Every single bank will soon need to hold digital assets, says Zodia Custody CEO Julian Sawyer",
-      "link": "https://www.coindesk.com/business/2026/06/03/standard-chartered-buyout-of-zodia-custody-is-great-news-for-crypto-tech-adoption-ceo-says",
-      "desc": "Sawyer confirmed that Standard Chartered’s full acquisition of the firm is on track to target a signing at the end of June and complete by the end of August.",
-      "date": "2026-06-03T15:08:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Zcash Completes 'Most Ambitious' Network Upgrade as ZEC Resumes Recent Surge",
@@ -720,16 +715,6 @@
       "link": "https://cointelegraph.com/news/binance-partnership-tokenized-stock-custodian-alpaca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "A Binance legal document disclosed a revenue-sharing agreement with Alpaca, which includes sharing 50% of the stock custodian’s order flow revenue with the cryptocurrency exchange.",
       "date": "2026-06-03T15:05:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Revolut’s US bank to offer stablecoin services alongside FDIC-insured products: Reuters",
-      "link": "https://www.theblock.co/post/403541/revoluts-us-bank-offer-stablecoin-services-fdic-insured-products-reuters?utm_source=rss&utm_medium=rss",
-      "desc": "Revolut U.S. CEO Cetin Duransoy told Reuters the company plans to offer access to stablecoins in the United States.",
-      "date": "2026-06-03T15:02:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -751,32 +736,6 @@
       "desc": "Zcash Open Development Lab said the network briefly became unstable as miners upgraded, while the Zcash Foundation said there was no evidence of an exploit.",
       "date": "2026-06-03T14:33:30.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Rare physical bitcoin worth $1.78 million gets cashed in after 12 years",
-      "link": "https://www.coindesk.com/markets/2026/06/03/rare-physical-bitcoin-worth-usd1-78-million-gets-cashed-in-after-12-years",
-      "desc": "The S1-COIN-25 physical bitcoin, part of Mike Caldwell's 2011-2013 mint, had its tamper-evident hologram peeled and the 25 BTC swept on-chain on Wednesday.",
-      "date": "2026-06-03T14:32:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Tether launching tokenized gold Visa card with XAUT rewards",
-      "link": "https://www.theblock.co/post/403509/tether-launching-tokenized-gold-visa-card-with-xaut-rewards?utm_source=rss&utm_medium=rss",
-      "desc": "The card will operate on the Visa network, enabling users to spend fiat at merchant stores worldwide where Visa cards are accepted.",
-      "date": "2026-06-03T14:27:56.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/369972/tether-tokenized-gold-visa-stablecoin-card-pays-crypto-rewards"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -820,32 +779,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Russian ruble stablecoin A7A5 grows despite Western sanctions: CertiK",
-      "link": "https://cointelegraph.com/news/russian-ruble-stablecoin-growing-western-sanctions-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Russian ruble-backed stablecoin A7A5 processed over $110 billion in transactions despite Western sanctions, according to CertiK.",
-      "date": "2026-06-03T14:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Payments Canada welcomes 15 new members",
       "link": "https://www.finextra.com/pressarticle/110033/payments-canada-welcomes-15-new-members?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Payments Canada announced today the approval of new members including Beem Credit Union, Ebury Partners Canada Limited (“Ebury”), Shaype Canada Financial Limited (“Shaype”), Libro Credit Union and Newton Crypto Ltd.",
       "date": "2026-06-03T13:57:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin's dearth of fresh investors matters more than Strategy's sale, Citi says",
-      "link": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-lack-of-fresh-investors-matters-more-than-strategy-s-sale-citi-says",
-      "desc": "Strategy's bitcoin sale may have rattled markets, but the bigger issue is missing demand from new buyers, Citi said.",
-      "date": "2026-06-03T13:29:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -976,46 +915,6 @@
       "link": "https://thedefiant.io/news/defi/us-court-lifts-circle-freeze-zama-cusdc-three-day-lockout",
       "desc": "A federal judge in the Northern District of California reversed the temporary restraining order that had pushed Circle to blacklist the privacy protocol's wrapper, restoring funds to depositors caught in a civil dispute they were not party to.",
       "date": "2026-06-02T16:27:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Securitize Brings Hamilton Lane's HLSCOPE Private-Credit Fund to TRON in First Issuance on the Network",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-hamilton-lane-hlscope-private-credit-tron-first-issuance",
-      "desc": "The tokenized Senior Credit Opportunities feeder fund — already live on Polygon, Ethereum and three other chains — becomes the inaugural Securitize-issued asset on a network with 383 million accounts and roughly $90 billion in circulating stablecoins.",
-      "date": "2026-06-02T14:02:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "OpenSea Teases Hyperliquid-Powered Perpetuals Launch",
-      "link": "https://thedefiant.io/news/defi/opensea-teases-hyperliquid-powered-perpetuals-launch",
-      "desc": "OpenSea Product Marketing Lead Zack Brenner asked users on X who wanted early access to perpetual contracts, then confirmed the product would run on Hyperliquid's builder-code rails — the clearest signal yet the NFT marketplace is bolting on a derivatives venue.",
-      "date": "2026-06-02T13:36:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Robinhood Closes $180M WonderFi Deal, Crossing 1M International Customers as It Enters Canada",
-      "link": "https://thedefiant.io/converge/cefi/robinhood-closes-180m-wonderfi-deal-canada-1m-international",
-      "desc": "The retail brokerage's first Canadian footprint comes via a year-late buyout of the operator of Bitbuy and Coinsquare, adding roughly 300,000 funded crypto customers in a single transaction.",
-      "date": "2026-06-02T13:33:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "MoneyGram Launches MGUSD Stablecoin on Stellar",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/moneygram-launches-mgusd-stablecoin-on-stellar",
-      "desc": "The Dallas-based payments company is now the issuer of a U.S. dollar token on a public chain, with Stripe-owned Bridge as the regulated minter, M0 smart contracts handling supply, and Fireblocks holding the float.",
-      "date": "2026-06-02T13:10:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
