@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-05T19:09:10.828Z",
+  "generatedAt": "2026-06-05T20:10:29.209Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 255,
+  "filteredOut": 256,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "bitcoinops",
@@ -23,7 +23,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-05T19:09:10.128Z",
+      "date": "2026-06-05T20:10:29.175Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing?",
+      "link": "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin bears piled into short positions as BTC price slid to $60,000. Will the $2.6 billion in short leverage lead to an upside squeeze?",
+      "date": "2026-06-05T19:28:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -145,6 +155,22 @@
       "desc": "Bitcoin fell below its 200-week moving average dropping below $61,000 for the first time since the 2022 bear market, triggered by a blowout May payrolls report that repriced Fed rate-cut expectations and exposed a $1.2 billion options wall at $60,000.",
       "date": "2026-06-05T16:42:20.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Major US Banks Including JPMorgan, Citi and BofA Plan Shared Tokenized Deposit Network",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/four-major-us-banks-and-the-clearing-house-plan-shared-tokenized-deposit-network",
+      "desc": "JPMorgan, Citi, Bank of America, Wells Fargo, and more than a dozen peers have announced a joint initiative to put commercial bank deposits onchain, operated by The Clearing House and targeting a first-half 2027 launch.",
+      "date": "2026-06-05T16:41:00.000Z",
+      "alsoAt": [
+        {
+          "source": "WALL STREET JOURNAL",
+          "sourceId": "wsj",
+          "url": "https://www.wsj.com/finance/banking/jpmorgan-citi-and-big-banks-plan-new-tokenized-deposit-system-to-answer-crypto-6b2d696b?mod=rss_markets_main"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -626,16 +652,6 @@
       "termBoost": 0
     },
     {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "JPMorgan, Citi and Big Banks Plan New Tokenized Deposit System to Answer Crypto",
-      "link": "https://www.wsj.com/finance/banking/jpmorgan-citi-and-big-banks-plan-new-tokenized-deposit-system-to-answer-crypto-6b2d696b?mod=rss_markets_main",
-      "desc": "The new network could help banks contend with a wave of new competition from stablecoins and crypto firms.",
-      "date": "2026-06-04T22:38:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bitcoin’s Pullback Tests Institutional Adoption Narrative as Pompliano Stays Bullish",
@@ -990,36 +1006,6 @@
       "link": "https://thedefiant.io/news/defi/pendle-token-goes-live-on-revolut-reaching-20m-eea-crypto-traders",
       "desc": "The yield-tokenization protocol's $233M-mcap token is now buyable inside Revolut's MiCA-licensed crypto app across the UK, EU, Norway, Iceland and Liechtenstein — the second on-chain yield protocol to land on the fintech's regulated rails after Maple's SYRUP in April.",
       "date": "2026-06-03T21:09:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards",
-      "link": "https://decrypt.co/369972/tether-tokenized-gold-visa-stablecoin-card-pays-crypto-rewards",
-      "desc": "Holders will be able to do more with their gold, instantly spending Tether's tokenized version anywhere Visa is accepted.",
-      "date": "2026-06-03T21:03:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Revolut Plans 2027 US Bank Launch With Stablecoin Services Built In From Day One",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-plans-2027-us-bank-launch-stablecoin-services-day-one",
-      "desc": "The British neobank, with 70 million customers and a $75 billion valuation, will pair FDIC-insured accounts with stablecoin access on a single platform — a tier-one fintech entering US banking with stablecoins designed in, not bolted on.",
-      "date": "2026-06-03T20:08:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Builder-Deployed Perp Markets Push Hyperliquid to Record Share of Global Perps Volume",
-      "link": "https://thedefiant.io/news/defi/builder-deployed-perp-markets-push-hyperliquid-to-record-share-of-global-perps-volume",
-      "desc": "Hyperliquid's HIP-3 framework — which lets anyone deploy a perpetual futures market on the protocol's settlement layer — cleared $62 billion in May volume, pushing the venue to a record 6.63% share of global perps and 14.4% against Binance.",
-      "date": "2026-06-03T20:08:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
