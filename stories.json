@@ -1,19 +1,96 @@
 {
-  "generatedAt": "2026-06-05T10:46:44.850Z",
+  "generatedAt": "2026-06-05T12:02:39.160Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 267,
+  "filteredOut": 264,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
+    {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #408",
+      "link": "https://bitcoinops.org/en/newsletters/2026/06/05/",
+      "desc": "This week’s newsletter summarizes ideas to make BIP324 transport encryption quantum secure and describes a proposal to standardize QR-based signing payloads for miniscript wallets. Also included are our regular sections summarizing proposals and discussion about changing Bitcoin’s consensus rules, announcing new releases and release candidates, and describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-06-05T00:00:00.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-05T10:46:44.682Z",
+      "date": "2026-06-05T12:02:39.148Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Arthur Hayes dumps zcash holdings after Orchard Pool vulnerability revealed",
+      "link": "https://www.coindesk.com/markets/2026/06/05/arthur-hayes-dumps-zcash-holdings-after-orchard-pool-vulnerability-revealed",
+      "desc": "Hayes said he would reconsider his stance if his assumptions that an exploit is still possible prove to be incorrect.",
+      "date": "2026-06-05T11:57:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Zcash selloff extends past 50% amid bug disclosure as liquidations top $100 million",
+      "link": "https://www.theblock.co/post/403791/zcash-selloff-extends-past-50-amid-bug-disclosure-as-liquidations-top-100-million?utm_source=rss&utm_medium=rss",
+      "desc": "ZEC crashed over 50% to around $310 amid Zcash's Orchard bug disclosure and more than $116 million in 24-hour liquidations.",
+      "date": "2026-06-05T11:35:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Pump.fun's Latest Experiment Is Already Getting Weird",
+      "link": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
+      "desc": "Pump.fun's GO bounty platform already has hundreds of listings following its pitch to let users “Pay ANYONE to do ANYTHING.”",
+      "date": "2026-06-05T11:33:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin sentiment hit peak bearishness at recent lows, peak bullishness near tops",
+      "link": "https://www.coindesk.com/daybook-us/2026/06/04/bitcoin-sentiment-hit-peak-bearishness-at-recent-lows-peak-bullishness-near-tops",
+      "desc": "Your day-ahead look for June 5, 2026",
+      "date": "2026-06-05T11:25:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Forward Industries moves $32M in SOL amid $1B paper loss",
+      "link": "https://cointelegraph.com/news/forward-industries-moves-319m-in-sol-to-coinbase-prime-amid-113b-paper-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Forward Industries moved $31.9 million in SOL to Coinbase Prime as its Solana bet sits over 70% underwater, underscoring growing strain on corporate crypto treasuries.",
+      "date": "2026-06-05T10:59:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "South Korea police probe Polymarket users over illegal gambling claims: Report",
+      "link": "https://cointelegraph.com/news/south-korean-authorities-first-illegal-gambling-probe-polymarket-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "South Korean police reportedly launched the country’s first illegal gambling probe into local Polymarket users amid election-betting scrutiny.",
+      "date": "2026-06-05T10:47:17.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/403777/south-korean-police-investigates-local-polymarket-users?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -53,16 +130,6 @@
       "link": "https://www.coindesk.com/markets/2026/06/05/jpmorgan-bank-of-america-and-citi-are-going-on-the-blockchain-offensive-with-a-shared-tokenized-network",
       "desc": "American's biggest banks plan to introduce a shared tokenized network next year to tackle the potential threat of stablecoins eating into their deposits.",
       "date": "2026-06-05T09:16:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "South Korean police investigate local Polymarket users on illegal gambling charges: report",
-      "link": "https://www.theblock.co/post/403777/south-korean-police-investigates-local-polymarket-users?utm_source=rss&utm_medium=rss",
-      "desc": "South Korean Polymarket users could be subject to a fine of up to 10 million Korean won, which is worth around $6,495.",
-      "date": "2026-06-05T08:59:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -125,7 +192,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years",
+      "title": "Zcash plummets 38% as Shielded Labs reveals a major bug that went undetected for four years",
       "link": "https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years",
       "desc": "Shielded Labs revealed that the bug could have helped an attacker print unlimited counterfeit tokens. That could have damaged trust in the token's supply and its value.",
       "date": "2026-06-05T05:43:07.000Z",
@@ -631,42 +698,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin steadies above $60,000 while derivatives send an unambiguous warning",
-      "link": "https://www.coindesk.com/markets/2026/06/04/bitcoin-steadies-above-usd60-000-while-derivatives-send-an-unambiguous-warning",
-      "desc": "BTC crashed to $61,300 before recovering to $62,500 with $3 billion in liquidations over two days. Traders loaded up on $60,000 puts in anticipation of further declines.",
-      "date": "2026-06-04T11:02:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Tom Lee’s BitMine Plans $300M Preferred Stock Sale for ETH Treasury Push",
       "link": "https://decrypt.co/369988/tom-lees-bitmine-plans-300m-preferred-stock-sale-for-eth-treasury-push",
       "desc": "The offering would tie fixed cash dividends to a staking-heavy ETH treasury model as Strategy’s preferred stock remains under pressure.",
       "date": "2026-06-04T10:49:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘The low is almost in’: Standard Chartered says bitcoin bottom near after tough week for crypto",
-      "link": "https://www.theblock.co/post/403625/the-low-is-almost-in-standard-chartered-says-bitcoin-bottom-near-after-tough-week-for-crypto?utm_source=rss&utm_medium=rss",
-      "desc": "Standard Chartered said bitcoin's low is \"almost in,\" citing resilient ETF holdings and likely Strategy buybacks after a painful week for crypto.",
-      "date": "2026-06-04T10:27:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "This bitcoin metric has marked every bear market bottom, and it's just flashed again",
-      "link": "https://www.coindesk.com/markets/2026/06/04/this-bitcoin-metric-has-marked-every-bear-market-bottom-and-it-s-just-flashed-again",
-      "desc": "More than half of the bitcoin in circulation is sitting on unrealized losses as the BTC price tests historically significant bear-market support levels.",
-      "date": "2026-06-04T10:20:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -727,16 +764,6 @@
       "link": "https://cointelegraph.com/news/cftc-follows-sec-in-scrapping-no-deny-rule-for-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "CFTC Chairman Mike Selig says the rescission of its “no-deny” policy means it now has more flexibility when settling enforcement actions.",
       "date": "2026-06-04T03:28:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Israel’s tax authority ‘disappointed’ in voluntary crypto disclosures: Report",
-      "link": "https://cointelegraph.com/news/israel-tax-authority-voluntary-crypto-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "After expecting billions of dollars worth of crypto holdings to be reported during a voluntary disclosure period, the country's tax office said only 58 filers took advantage of the procedure.",
-      "date": "2026-06-03T23:00:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
