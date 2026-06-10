@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-10T05:00:51.122Z",
+  "generatedAt": "2026-06-10T06:52:18.645Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 264,
+  "filteredOut": 268,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "decrypt",
@@ -39,7 +39,27 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-10T05:00:50.493Z",
+      "date": "2026-06-10T06:52:18.235Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "'Maximal' ban on insider trading would hurt prediction markets, says researcher",
+      "link": "https://cointelegraph.com/news/prediction-markets-need-a-little-insider-trading-academic-research-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "“The same insider trade that improves the accuracy of the price today can reduce the participation that makes the price informative tomorrow,” said Balbinder Singh Gill.",
+      "date": "2026-06-10T05:55:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Gold and bitcoin: the assets the rally forgot",
+      "link": "https://www.ft.com/content/830cacfc-cda7-4da8-acde-49f6079bc524",
+      "desc": "Gold and ‘digital gold’ both feel like yesterday’s Fomo trades",
+      "date": "2026-06-10T05:30:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -48,7 +68,7 @@
       "sourceName": "FINANCIAL TIMES",
       "title": "ECB moved to rein in Revolut’s ‘self-guided missiles’ in Europe",
       "link": "https://www.ft.com/content/7cc86162-f68c-4772-b7ce-9c72dfb15f05",
-      "desc": "Europe’s most valuable fintech was ordered to address ‘deficiencies’ in oversight with staff encouraged to rapidly launch new financial products",
+      "desc": "Europe’s most valuable fintech was ordered to address ‘deficiencies’ in oversight amid a rapid product rollout",
       "date": "2026-06-10T04:00:26.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -533,6 +553,16 @@
       "termBoost": 0
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%",
+      "link": "https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73",
+      "desc": "The decentralized identity protocol said a compromised employee's laptop let attackers seize its bridges and mint tokens at will.",
+      "date": "2026-06-09T10:54:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Strategy's bitcoin purchase fails to stir BTC price",
@@ -619,16 +649,6 @@
       "termBoost": 0
     },
     {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Dutch supercar brand Spyker wins crypto backing in latest revival bid",
-      "link": "https://www.ft.com/content/223afb01-062e-4b27-b352-3f81d5ed4e56",
-      "desc": "Ukrainian billionaire Volodymyr Nosov acquires ‘significant’ stake in carmaker",
-      "date": "2026-06-09T07:30:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Zcash finalizes Ironwood upgrade plan, targets July activation",
@@ -679,48 +699,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Chinese mining CEO says Strategy can survive a $30,000 bitcoin without selling",
-      "link": "https://www.coindesk.com/markets/2026/06/08/chinese-mining-ceo-says-strategy-can-survive-a-usd30-000-bitcoin-without-selling",
-      "desc": "Jiang Zhuoer of BTC.TOP called the week's selloff speculation overblown, arguing Strategy's small debt and the design of its preferred shares let it keep buying.",
-      "date": "2026-06-09T04:55:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Humanity Protocol token crashes more than 80% after a $32 million private-key hack",
-      "link": "https://www.coindesk.com/tech/2026/06/09/humanity-protocol-token-crashes-more-than-80-after-a-usd32-million-private-key-hack",
-      "desc": "The decentralized identity project said attackers compromised the keys of a foundation member and are dumping the stolen H tokens for ether.",
-      "date": "2026-06-09T04:54:48.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "UK financial regulator floats allowing 10% crypto allocations for retail funds",
       "link": "https://cointelegraph.com/news/uk-fca-floats-allowing-10-crypto-allocations-for-retail-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The Financial Conduct Authority floated the idea of allowing limited exposure to crypto for retail-focused funds if it aligns with “disclosed investment objectives.”",
       "date": "2026-06-09T04:40:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Forehead tattoos and alcohol dares: Inside the dark underbelly of crypto's memecoin craze",
-      "link": "https://www.coindesk.com/markets/2026/06/08/forehead-tattoos-and-alcohol-dares-inside-the-dark-underbelly-of-crypto-s-memecoin-craze",
-      "desc": "Users are being paid to shave their heads, chug liquor and interview homeless people on camera, raising questions about whether Pump.fun's latest product rewards creativity or exploitation.",
-      "date": "2026-06-08T22:58:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -865,16 +849,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-08T13:58:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Congress to Discuss Crypto Tax Rules: What to Watch",
@@ -885,19 +859,13 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Strategy buys 1,550 Bitcoin after controversial 32 BTC sale",
-      "link": "https://cointelegraph.com/news/strategy-resumes-bitcoin-purchases-1550-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Strategy resumed Bitcoin buying by purchasing 1,550 BTC for $101.3 million, bringing its total holdings to 845,256 BTC after last week’s controversial sale.",
-      "date": "2026-06-08T13:50:00.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/370309/strategy-buys-bitcoin-pads-cash-reserves-biggest-weekly-drop-2022"
-        }
-      ],
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Strategy Buys Bitcoin, Pads Cash Reserves Following Biggest Weekly Stock Drop Since 2022",
+      "link": "https://decrypt.co/370309/strategy-buys-bitcoin-pads-cash-reserves-biggest-weekly-drop-2022",
+      "desc": "Strategy’s stockpile was $10.7 billion underwater as of Monday morning after Bitcoin hit its lowest price since October 2024.s",
+      "date": "2026-06-08T13:46:18.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
