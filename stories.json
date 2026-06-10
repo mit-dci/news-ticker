@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T15:46:21.333Z",
+  "generatedAt": "2026-06-10T17:07:50.156Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 265,
@@ -7,13 +7,19 @@
   "dupsMerged": 4,
   "items": [
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "A Quantum Clock Is Ticking for Bitcoin and Crypto—Here's How Stellar Is Preparing",
-      "link": "https://decrypt.co/370570/quantum-clock-ticking-bitcoin-crypto-how-stellar-preparing",
-      "desc": "The Stellar Development Foundation unveiled a three-step roadmap to prepare the XLM network for the coming quantum computing threat.",
-      "date": "2026-06-09T19:49:05.000Z",
-      "alsoAt": [],
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's",
+      "link": "https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s",
+      "desc": "A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains.",
+      "date": "2026-06-10T16:07:00.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/370570/quantum-clock-ticking-bitcoin-crypto-how-stellar-preparing"
+        }
+      ],
       "priorityTerm": true,
       "termBoost": 3
     },
@@ -24,6 +30,76 @@
       "link": "https://thedefiant.io/news/tokens/lava-network-signs-tokenization-pact-for-planned-40-000-unit-caribbean-project",
       "desc": "The agreement with developer BHL Group is an early-stage memorandum of understanding, and the Alba Bay community is not slated to break ground until 2027",
       "date": "2026-06-10T21:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-10T17:07:49.905Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Raydium DEX says $1.34 million exploit hit retired AMM program, treasury to cover losses",
+      "link": "https://www.theblock.co/post/404304/raydium-dex-1-34-million-exploit-retired-amm-program-treasury-cover-losses?utm_source=rss&utm_medium=rss",
+      "desc": "The exploit drained roughly $1.34 million from five inactive Raydium liquidity pools, and impacted users will be compensated.",
+      "date": "2026-06-10T17:07:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Tether leads up to $1.4 billion round in robotics firm Neura, plans crypto wallet integration",
+      "link": "https://www.theblock.co/post/404303/tether-leads-up-to-1-4-billion-round-in-robotics-firm-neura-plans-crypto-wallet-integration?utm_source=rss&utm_medium=rss",
+      "desc": "Tether will also provide and \"deploy\" technology within the Neura robotics ecosystem, including a crypto wallet integration.",
+      "date": "2026-06-10T17:05:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "7 Factors That Actually Matter When Choosing a Crypto Swap Platform",
+      "link": "https://decrypt.co/370527/7-factors-that-actually-matter-when-choosing-a-crypto-swap-platform",
+      "desc": "With crypto swaps growing in popularity, the best crypto swap platforms are embracing speed, security, and asset availability.",
+      "date": "2026-06-10T17:01:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "UK crypto advocates push back on exchange transfer restrictions, say banks are ‘choking off’ adoption",
+      "link": "https://www.theblock.co/post/404273/uk-crypto-advocates-push-back-exchange-transfer-blocks-banks-choking-off-adoption?utm_source=rss&utm_medium=rss",
+      "desc": "Industry groups say roughly 40% of UK crypto transactions are blocked or restricted by banks, as they push to ease restrictions.",
+      "date": "2026-06-10T16:36:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto Long & Short: Who answers the 3am call when DeFi breaks?",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-long-and-short-who-answers-the-3am-call-when-defi-breaks",
+      "desc": "In this week's Crypto Long & Short, Ben Nadareski writes that to win over big investors, DeFi builders must act like accountable money managers, not just software developers. Then, Stephen Stonberg says that bitcoin holders can survive crashes and protect their assets by earning income through reinsurance.",
+      "date": "2026-06-10T16:20:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "New CFTC Rules on Prediction Markets Would Ban Wagers on Ouster of US Enemies",
+      "link": "https://decrypt.co/370656/cftc-rules-prediction-markets-ban-wagers-ouster-us-enemies",
+      "desc": "Proposed CFTC rules would forbid markets where an outcome could be impacted by war or assassination, even when conflict isn’t mentioned.",
+      "date": "2026-06-10T16:06:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,12 +120,12 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-10T15:46:21.176Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin rises despite US inflation hitting 3-year high: Where will BTC price go?",
+      "link": "https://cointelegraph.com/markets/bitcoin-rises-despite-us-inflation-hitting-3-year-high-where-will-btc-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "BTC's rebound shows signs of weakening under a string of technical resistance levels, raising the odds of a dip below $60,000 in June.",
+      "date": "2026-06-10T15:54:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -180,6 +256,16 @@
       "link": "https://thedefiant.io/news/hacks/humanity-protocol-post-mortem-malware-developer-machine-seven-keys",
       "desc": "A forensic report from Humanity Protocol found a single malware-infected developer machine held backups of seven private keys, giving an attacker full control over both its Ethereum and BNB Smart Chain infrastructure.",
       "date": "2026-06-10T13:45:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Converts Stock Holdings Into On-Chain Tokens With bStocks Launch",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/binance-launches-bstocks-tokenized-us-equities-24-7-onchain-trading",
+      "desc": "Binance has activated its tokenized-equity layer, converting live stock positions on its brokerage platform into BNB Chain tokens tradable around the clock. The first five bStocks include Nvidia, Tesla, Circle, Micron, and Sandisk.",
+      "date": "2026-06-10T13:23:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -442,13 +528,7 @@
       "link": "https://cointelegraph.com/news/hyperliquid-paradigm-urge-revision-of-genius-money-laundering-rule?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The Hyperliquid Policy Center and Paradigm say the Treasury’s money-laundering rules for the GENIUS Act are too onerous for stablecoin issuers.",
       "date": "2026-06-10T06:40:53.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/404159/hyperliquid-advocate-paradigm-urge-us-revise-proposed-anti-money-laundering-rule?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -488,16 +568,6 @@
       "link": "https://www.theblock.co/post/404194/washington-man-gets-five-years?utm_source=rss&utm_medium=rss",
       "desc": "Geoffrey K. Auyeung helped overseas fraudsters launder $100 million in scam proceeds through crypto and bank accounts, according to the DOJ.",
       "date": "2026-06-10T01:56:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "House crypto tax hearing reveals divide over urgency in advancing legislation",
-      "link": "https://www.theblock.co/post/404187/house-crypto-tax-hearing-legislation?utm_source=rss&utm_medium=rss",
-      "desc": "A House committee hearing on the taxation of digital assets offered a glimpse into lawmakers' views, highlighting rifts in approaches.",
-      "date": "2026-06-10T00:31:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -732,16 +802,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "A16z, Paradigm lead $175 million bet to move global credit markets onchain",
-      "link": "https://www.coindesk.com/business/2026/06/09/a16z-paradigm-lead-usd175-million-bet-to-move-global-credit-markets-onchain",
-      "desc": "Morpho secured $175 million from Paradigm, a16z crypto and Ribbit as the lending protocol seeks to become foundational infrastructure for onchain credit markets.",
-      "date": "2026-06-09T14:07:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
@@ -862,16 +922,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Kraken signs FIFA World Cup 2026 partnership ahead of tourney kickoff",
-      "link": "https://cointelegraph.com/news/kraken-lands-fifa-world-cup-2026-sponsorship-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The crypto exchange will promote digital asset adoption through fan activations and product experiences at the first 48-team FIFA World Cup.",
-      "date": "2026-06-09T07:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bored Ape Maker Yuga Labs Rescues Dozens of Ethereum NFTs From Exploit",
@@ -888,46 +938,6 @@
       "link": "https://bitcoinmagazine.com/news/full-of-strategic-bitcoin-reserve-bill",
       "desc": "Bitcoin Magazine Full Text of Strategic Bitcoin Reserve Bill Officially Published, Revealing 20-Year Lock-Up, Proof-of-Reserve Mandates The full text of H.R. 8957 reveals that the proposed Strategic Bitcoin Reserve would impose a 20-year lock-up on federally held bitcoin. This post Full Text of Strategic Bitcoin Reserve Bill Officially Published, Revealing 20-Year Lock-Up, Proof-of-Reserve Mandates first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-08T17:42:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "BitMine Buys 126,971 ETH for $207M at $1,630 Average as Prices Hit June Low",
-      "link": "https://thedefiant.io/news/markets/bitmine-buys-126971-eth-207m-1630-average-prices-hit-june-low",
-      "desc": "BitMine Immersion Technologies acquired 126,971 ETH for approximately $207 million last week at an average of $1,630 per token, its largest weekly purchase of 2026, lifting its total treasury to 5.54 million ETH, equal to 4.59% of Ethereum's circulating supply.",
-      "date": "2026-06-08T16:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Strategy Buys 1,550 BTC for $101M One Week After Selling 32, Cash Reserve Hits $1B",
-      "link": "https://thedefiant.io/news/markets/strategy-buys-1550-btc-101m-one-week-after-selling-32-cash-reserve-1b",
-      "desc": "Strategy purchased 1,550 bitcoin for $101.3 million between June 1 and 7, one week after its first BTC sale since 2022. Cash reserve reached $1 billion.",
-      "date": "2026-06-08T16:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "PiggyBank's LAB Hedge Fails, Cutting USDC Vault NAV by 15%",
-      "link": "https://thedefiant.io/news/defi/piggybanks-lab-hedge-fails-cutting-usdc-vault-nav-by-15-percent",
-      "desc": "A Solana yield protocol's bet on a contested mid-cap token turned a dollar-stable vault into one nursing double-digit losses. Depositors are waiting on a promised post-mortem.",
-      "date": "2026-06-08T15:53:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Yuga Labs Executes White-Hat Rescue of 68 NFTs After Flooring Protocol Exploit",
-      "link": "https://thedefiant.io/news/hacks/yuga-labs-white-hat-rescue-68-nfts-flooring-protocol-exploit",
-      "desc": "Yuga Labs used its GrailsOTC trading desk to pull 68 blue-chip NFTs valued at more than $500,000 out of vulnerable Flooring Protocol pools before attackers could drain them.",
-      "date": "2026-06-08T15:48:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
