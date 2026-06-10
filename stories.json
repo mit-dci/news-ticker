@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-10T06:52:18.645Z",
+  "generatedAt": "2026-06-10T08:24:25.253Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 268,
+  "filteredOut": 266,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "decrypt",
@@ -34,13 +34,75 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Zodia Custody secures Payment Institution licence",
+      "link": "https://www.finextra.com/newsarticle/47892/zodia-custody-secures-payment-institution-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Crypto-asset platform Zodia Custody has secured a Payment Institution licence from Luxembourg’s Commission de Surveillance du Secteur Financier (CSSF).",
+      "date": "2026-06-10T09:01:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/404086/zodia-custody-secures-luxembourg-payment-institution-license-to-expand-eu-stablecoin-services?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-10T06:52:18.235Z",
+      "date": "2026-06-10T08:24:24.458Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Japan’s three megabanks to debut live stablecoin transactions by March 2027",
+      "link": "https://www.theblock.co/post/404212/japans-three-megabanks-stablecoin-march-2027?utm_source=rss&utm_medium=rss",
+      "desc": "MUFG Bank, Mizuho Bank, and SMBC have set up a council to examine operational frameworks and governance for the stablecoin issuance.",
+      "date": "2026-06-10T07:58:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "EU proposes expanded sanctions on Russia-linked crypto platforms",
+      "link": "https://www.theblock.co/post/404207/eu-proposes-russia-crypto-sanction?utm_source=rss&utm_medium=rss",
+      "desc": "The European Commission may introduce a full ban on crypto services from non-EU countries that host platforms helping Russia evade sanctions.",
+      "date": "2026-06-10T07:05:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Chainalysis, South Korean police link up to fight crypto crime",
+      "link": "https://cointelegraph.com/news/chainalysis-south-korean-police-link-up-to-fight-crypto-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "South Korea's national police has been battling crypto-enabled crimes from DPRK-state level threats to scams targeting retail investors.",
+      "date": "2026-06-10T07:03:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Hyperliquid, Paradigm urge revision of GENIUS money-laundering rule",
+      "link": "https://cointelegraph.com/news/hyperliquid-paradigm-urge-revision-of-genius-money-laundering-rule?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Hyperliquid Policy Center and Paradigm say the Treasury’s money-laundering rules for the GENIUS Act are too onerous for stablecoin issuers.",
+      "date": "2026-06-10T06:40:53.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/404159/hyperliquid-advocate-paradigm-urge-us-revise-proposed-anti-money-laundering-rule?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -170,16 +232,6 @@
       "link": "https://www.finextra.com/pressarticle/110086/nydfs-proposes-stablecoin-regulatory-framework?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "New York State Department of Financial Services (DFS) Acting Superintendent Kaitlin Asrow today announced a proposed regulation to build on New York’s first-in-the-nation stablecoin framework in accordance with federal regulations under the GENIUS Act.",
       "date": "2026-06-09T19:58:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Hyperliquid advocate and Paradigm urge US to revise proposed anti-money laundering rule",
-      "link": "https://www.theblock.co/post/404159/hyperliquid-advocate-paradigm-urge-us-revise-proposed-anti-money-laundering-rule?utm_source=rss&utm_medium=rss",
-      "desc": "The Hyperliquid-backed lobby group and Paradigm seek to prevent rules that would limit decentralized stablecoin usage on public blockchains.",
-      "date": "2026-06-09T18:37:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -573,16 +625,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Zodia Custody secures Luxembourg payment institution license to expand EU stablecoin services",
-      "link": "https://www.theblock.co/post/404086/zodia-custody-secures-luxembourg-payment-institution-license-to-expand-eu-stablecoin-services?utm_source=rss&utm_medium=rss",
-      "desc": "Zodia Custody secured a Luxembourg payment licence from the CSSF, enabling regulated stablecoin custody and transfers across the EU.",
-      "date": "2026-06-09T10:36:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "SBI Shinsei links bank deposits to crypto rewards in Japan: Nikkei",
@@ -645,16 +687,6 @@
       "link": "https://www.coindesk.com/business/2026/06/09/coinbase-and-cardless-unveil-credit-card-backed-by-stablecoins",
       "desc": "The stablecoin-secured card is for situations where a credit card cannot be approved on an unsecured basis.",
       "date": "2026-06-09T08:04:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Zcash finalizes Ironwood upgrade plan, targets July activation",
-      "link": "https://www.theblock.co/post/404065/zcash-finalizes-ironwood-upgrade-plan?utm_source=rss&utm_medium=rss",
-      "desc": "The Ironwood upgrade would introduce a new shielded pool and ensure the circulating ZEC supply remains bounded.",
-      "date": "2026-06-09T07:14:26.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -825,26 +857,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-price-60k-support-not-yet-safe-as-more-macro-headwinds-stack-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin analysis warned that $60,000 may not hold next, as bear-market moves continued and macro hurdles multiplied.",
       "date": "2026-06-08T15:17:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Spot Bitcoin ETFs bleed $1.7B as outflow streak hits four weeks",
-      "link": "https://cointelegraph.com/news/bitcoin-etfs-outflows-ether-altcoin-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "BlackRock’s IBIT accounted for most of the weekly Bitcoin ETF redemptions, while Fidelity and Grayscale funds also saw outflows.",
-      "date": "2026-06-08T14:46:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "South Korea police raid Bithumb over lawmaker hiring favoritism probe: report",
-      "link": "https://cointelegraph.com/news/south-korea-police-raid-bithumb-over-lawmaker-hiring-favoritism-probe-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "South Korean lawmaker Kim Byung-gi faces probe over alleged nepotism tied to his son’s crypto jobs as police raid Bithumb's offices.",
-      "date": "2026-06-08T14:02:36.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
