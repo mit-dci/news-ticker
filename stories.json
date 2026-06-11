@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-11T16:27:59.647Z",
+  "generatedAt": "2026-06-11T17:45:02.961Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 249,
+  "filteredOut": 250,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "bis",
@@ -12,7 +12,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-11T16:27:59.165Z",
+      "date": "2026-06-11T17:45:02.723Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,57 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-11T16:27:59.165Z",
+      "date": "2026-06-11T17:45:02.723Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network",
+      "link": "https://bitcoinmagazine.com/news/bitgo-launches-lightning-earn",
+      "desc": "Bitcoin Magazine BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network BitGo launched Lightning Earn, enabling institutional bitcoin holders to earn BTC-denominated fees by providing Lightning Network liquidity through an integration with Amboss Rails. This post BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-11T17:09:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Authorities Take Down 'AudiA6' Group That Allegedly Laundered $389 Million in Bitcoin",
+      "link": "https://decrypt.co/370812/authorities-take-down-audia6-allegedly-laundered-389-million-bitcoin",
+      "desc": "Authorities are seeking extradition to the U.S. of two arrested individuals for allegedly laundering $389 million in Bitcoin.",
+      "date": "2026-06-11T16:52:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "‘You sell what you can, not what you want’: Jack Mallers says bitcoin is pricing a global liquidity crisis",
+      "link": "https://www.theblock.co/post/404453/sell-what-you-can-not-what-you-want-jack-mallers-bitcoin-pricing-global-liquidity-crisis?utm_source=rss&utm_medium=rss",
+      "desc": "Strike CEO Jack Mallers says Bitcoin at $63,000 reflects a liquidity-starved world, and questions Strategy's perpetual stock capital dynamic.",
+      "date": "2026-06-11T16:46:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Banking rails are moving past the 'stablecoin winner' narrative: Sygnum",
+      "link": "https://www.coindesk.com/business/2026/06/11/big-banks-are-ditching-private-blockchains-to-build-tokenized-cash-networks-on-public-infrastructure",
+      "desc": "Digital asset bank Sygnum says institutional clients want multiple tokenized cash instruments operating interchangeably on a single platform.",
+      "date": "2026-06-11T16:37:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Converts Stock Holdings Into On-Chain Tokens With bStocks Launch",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/binance-launches-bstocks-tokenized-us-equities-24-7-onchain-trading",
+      "desc": "Binance has activated its tokenized-equity layer, converting live stock positions on its brokerage platform into BNB Chain tokens tradable around the clock. The first five bStocks include Nvidia, Tesla, Circle, Micron, and Sandisk.",
+      "date": "2026-06-11T16:35:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -289,7 +339,13 @@
       "link": "https://www.finextra.com/pressarticle/110114/archax-enables-real-time-interest-payments-on-hedera?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Archax, the UK/EU-regulated digital asset platform, today announced real-time streaming cash flows for tokenized securities on Hedera, the trusted public network for building fast, secure, and compliant decentralized applications.",
       "date": "2026-06-11T12:42:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/archax-launches-real-time-yield-payments-for-tokenized-securities-on-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -779,26 +835,6 @@
       "termBoost": 0
     },
     {
-      "source": "coincenter",
-      "sourceName": "COIN CENTER",
-      "title": "Comment to FinCEN on AML/CFT Programs",
-      "link": "https://coincenter.org/comment-to-fincen-on-aml-cft-programs/",
-      "desc": "A PDF version of this filing is available here. To whom it may concern: Coin Center is an independent nonprofit research and advocacy center focused on the public policy issues facing cryptocurrency technologies such as Bitcoin and Ethereum. Our mission is to build a better understanding of these technologies and to promote a regulatory climate […] The post Comment to FinCEN on AML/CFT Programs appeared first on Coin Center.",
-      "date": "2026-06-09T16:41:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "UK crypto advocates push back on exchange transfer restrictions, say banks are ‘choking off’ adoption",
-      "link": "https://www.theblock.co/post/404273/uk-crypto-advocates-push-back-exchange-transfer-blocks-banks-choking-off-adoption?utm_source=rss&utm_medium=rss",
-      "desc": "Industry groups say roughly 40% of UK crypto transactions are blocked or restricted by banks, as they push to ease restrictions.",
-      "date": "2026-06-10T16:36:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Raydium Confirms $1.34M Drain on Deprecated AMM V3, Pledges Treasury Compensation",
@@ -815,16 +851,6 @@
       "link": "https://thedefiant.io/news/blockchains/hyli-winds-down-zk-blockchain-project-zk-traction",
       "desc": "ZK blockchain project Hyli is shutting down after two years, with the team citing weak demand for zero-knowledge technology. The closure comes the same day Botanix wound down its Bitcoin Layer 2.",
       "date": "2026-06-10T16:31:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto Long & Short: Who answers the 3am call when DeFi breaks?",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-long-and-short-who-answers-the-3am-call-when-defi-breaks",
-      "desc": "In this week's Crypto Long & Short, Ben Nadareski writes that to win over big investors, DeFi builders must act like accountable money managers, not just software developers. Then, Stephen Stonberg says that bitcoin holders can survive crashes and protect their assets by earning income through reinsurance.",
-      "date": "2026-06-10T16:20:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -931,16 +957,6 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Binance Converts Stock Holdings Into On-Chain Tokens With bStocks Launch",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/binance-launches-bstocks-tokenized-us-equities-24-7-onchain-trading",
-      "desc": "Binance has activated its tokenized-equity layer, converting live stock positions on its brokerage platform into BNB Chain tokens tradable around the clock. The first five bStocks include Nvidia, Tesla, Circle, Micron, and Sandisk.",
-      "date": "2026-06-10T13:23:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
       "title": "Botanix Shuts Down Bitcoin L2 Spiderchain After Four Years",
       "link": "https://thedefiant.io/news/blockchains/botanix-shuts-down-bitcoin-l2-spiderchain-after-four-years",
       "desc": "Polychain-backed Botanix Labs is winding down its Spiderchain Bitcoin Layer 2 after a year of mainnet operation, citing insufficient demand for Bitcoin-native DeFi. Users have until July 9 to withdraw assets.",
@@ -1025,16 +1041,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "EU proposes ban on 11 crypto platforms in Russia sanctions push",
-      "link": "https://cointelegraph.com/news/eu-russia-sanctions-11-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The proposed measures would ban transactions on 11 crypto platforms and expand sanctions targeting networks accused of helping Russia evade restrictions.",
-      "date": "2026-06-10T09:46:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Japan's Largest Banks Plan Joint Stablecoin Launch by March 2027",
@@ -1075,32 +1081,12 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Traditional Finance is Rushing Into Crypto as Institutions Buy Bitcoin’s Dip: Axios",
-      "link": "https://bitcoinmagazine.com/markets/traditional-finance-rushing-to-crypto",
-      "desc": "Bitcoin Magazine Traditional Finance is Rushing Into Crypto as Institutions Buy Bitcoin’s Dip: Axios TradFi institutions are shedding their skepticism toward crypto, and the shift is accelerating in 2026. This post Traditional Finance is Rushing Into Crypto as Institutions Buy Bitcoin’s Dip: Axios first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-09T17:41:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aave Proposes Protocol-Wide Risk Framework After KelpDAO Exploit",
-      "link": "https://thedefiant.io/news/defi/aave-proposes-protocol-wide-risk-framework-after-kelpdao-exploit",
-      "desc": "LlamaRisk has submitted two Aave governance proposals covering a four-layer protocol-wide risk standard and a PT oracle upgrade to Chainlink CRE. Founder Stani Kulechov says assets that fail the new standard will be off-boarded.",
-      "date": "2026-06-09T17:39:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "New Documentary ‘Bitcoin Season’ Charts Bitcoin’s Push Into the NBA",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-season-charts-bitcoins-in-the-nba",
-      "desc": "Bitcoin Magazine New Documentary ‘Bitcoin Season’ Charts Bitcoin’s Push Into the NBA A new upcoming documentary, Bitcoin Season, explores how Bitcoin is gaining traction in professional basketball. This post New Documentary ‘Bitcoin Season’ Charts Bitcoin’s Push Into the NBA first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-09T17:00:00.000Z",
+      "source": "bitcoincore",
+      "sourceName": "BITCOIN CORE",
+      "title": "Private Broadcast May Reveal Sender IP Address in Bitcoin Core 31.0",
+      "link": "https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/",
+      "desc": "We have become aware of a privacy bug in the -privatebroadcast feature, newly introduced in Bitcoin Core 31.0, that may cause the originator’s IP address to be revealed to the receiving peer under certain network conditions. A fix is forthcoming and will be released with 31.1. Users of -privatebroadcast are advised to apply one of the workarounds below until 31.1 is released. Affected users This bug affects users where all the following are true: The node is running Bitcoin Core 31.0 and -privatebroadcast is set. Transactions are broadcast using the sendrawtransaction RPC. Wallet RPCs (sendtoaddress, sendall, etc.) do not use private broadcast and are not affected. Tor is reachable for outbound connections. Outbound IPv4 or IPv6 connections can be made directly. No -onlynet restriction excludes them, and no -proxy=... value applies to them. BIP324 v2 transport is not disabled with -v2transport=0. Impact When private broadcast selects an IPv4 or IPv6 peer that advertises support for v2 (BIP324) transport, the initial connection is routed through the Tor proxy as expected. If the v2 handshake fails on that connection, Bitcoin Core retries it as v1. The v1 retry is not routed through the Tor proxy and instead connects directly to the peer over IPv4 or IPv6, exposing the originator’s IP address to the recipient. Initial v1 connections (to peers that do not advertise v2) are correctly routed through the Tor proxy and are not affected. The bug is specific to the v1 reconnection that follows a failed v2 handshake. Connections to onion and I2P peers are also unaffected, because they remain routed through their respective proxies on any v1 retry and therefore never expose a clearnet IP address. This breaks the privacy guarantee stated in the 31.0 release notes: “Their IP address (and thus geolocation) is never known to the recipients”. How this can happen A v2 handshake is unlikely to fail for a peer that actually supports v2 transport. The bug is most likely to be triggered by a malicious peer deliberately closing the v2 handshake to force a v1 retry. Workarounds Until they can upgrade to 31.1, users of -privatebroadcast should apply one of the following: Disable the feature. Set -privatebroadcast=0. Disable v2 transport. Set -v2transport=0. This causes all of the node’s connections to use the unencrypted v1 protocol, which has the downside that it becomes easier to fingerprint and censor on clearnet. Route IPv4/IPv6 outbound through Tor. Set -proxy=127.0.0.1:9050 (replace 9050 with your Tor SOCKS port if different). This routes all outbound IPv4/IPv6 P2P traffic through Tor exit nodes, which has the downside of making the node easier to Sybil attack. Credits Credit to Eugene Siegel for discovering the bug.",
+      "date": "2026-06-06T04:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
