@@ -1,35 +1,18 @@
 {
-  "generatedAt": "2026-06-11T14:45:48.874Z",
+  "generatedAt": "2026-06-11T16:27:59.647Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 249,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 3,
   "items": [
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The quantum clock is ticking: it's Bitcoin's problem, not Ethereum's",
-      "link": "https://www.coindesk.com/opinion/2026/06/10/the-quantum-clock-is-ticking-it-s-bitcoin-s-problem-not-ethereum-s",
-      "desc": "A recent research note published by Citi analysts reached a conclusion about quantum risk that should give every institutional bitcoin holder pause, Tabar explains.",
-      "date": "2026-06-10T16:07:00.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/370570/quantum-clock-ticking-bitcoin-crypto-how-stellar-preparing"
-        }
-      ],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-11T14:45:48.862Z",
+      "date": "2026-06-11T16:27:59.165Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -39,7 +22,113 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-11T14:45:48.862Z",
+      "date": "2026-06-11T16:27:59.165Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "World Cup Could Bring Billions in Volume to Prediction Markets in 'Watershed Moment': Bernstein",
+      "link": "https://decrypt.co/370786/world-cup-billions-volume-prediction-markets-watershed-moment-bernstein",
+      "desc": "The 48-team FIFA World Cup tournament is expected to be the single largest catalyst for online sports betting in history, Bernstein said.",
+      "date": "2026-06-11T16:20:01.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/404403/bernstein-calls-fifa-world-cup-a-watershed-moment-for-prediction-markets-projects-5-10b-consumer-volume-surge?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Hungary Backs Away From Bitcoin and Crypto Criminalization in Regulatory U-Turn",
+      "link": "https://bitcoinmagazine.com/news/hungary-backs-away-from-bitcoin-laws",
+      "desc": "Bitcoin Magazine Hungary Backs Away From Bitcoin and Crypto Criminalization in Regulatory U-Turn Hungary is reversing its restrictive crypto laws, moving to decriminalize Bitcoin and cryptocurrency trading and eliminating penalties that had driven major digital asset firms out of the country. This post Hungary Backs Away From Bitcoin and Crypto Criminalization in Regulatory U-Turn first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-11T16:16:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "MassPay taps Coinbase to expand stablecoin payouts",
+      "link": "https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stablecoin rails will cut costs and speed up settlement for businesses paying globally.",
+      "date": "2026-06-11T16:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Community bank group launches new ad campaign targeting Clarity Act stablecoin reward language",
+      "link": "https://www.theblock.co/post/404439/community-bank-group-ad-campaign-targeting-clarity-act-stablecoin-reward-language?utm_source=rss&utm_medium=rss",
+      "desc": "A key group representing small to mid-sized community banks plans to launch a new ad warning of risks in digital assets.",
+      "date": "2026-06-11T15:14:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Wall Street Giants, Sovereign Wealth Fund Back Canton Network Creator in $355M Round",
+      "link": "https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round",
+      "desc": "Canton Network creator Digital Asset secured $355 million in a funding round led by Andreessen Horowitz alongside an array of other backers.",
+      "date": "2026-06-11T15:05:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Banks Say Stablecoin Rules Should Cover Secondary Markets",
+      "link": "https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
+      "desc": "Banking industry trade groups argue AML rules should focus on higher-risk activity while addressing gaps in stablecoin secondary markets.",
+      "date": "2026-06-11T15:03:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency",
+      "link": "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Executives from Franklin Templeton and BNP Paribas say tokenized assets and stablecoins could improve capital efficiency across Europe as Wall Street expands tokenization efforts.",
+      "date": "2026-06-11T15:01:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-11T15:01:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto for Advisors: Crypto ETFs",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/06/10/crypto-for-advisors-crypto-etfs",
+      "desc": "Global crypto ETFs saw significant outflows in May, but diversified exposures showed relative resilience; we explore what the data signals for long-term investors.",
+      "date": "2026-06-11T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Brian Armstrong Says Coinbase Processes $1T in Stablecoin Payments Annually",
+      "link": "https://thedefiant.io/news/cefi/brian-armstrong-says-coinbase-processes-usd1t-in-stablecoin-payments-annually",
+      "desc": "Coinbase CEO Brian Armstrong disclosed three platform-scale metrics on Thursday: approximately $1 trillion in annual stablecoin movement, $20 billion in USDC held on platform, and more than 160 million autonomous transactions via the x402 agentic payments protocol in the last year.",
+      "date": "2026-06-11T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -280,16 +369,6 @@
       "link": "https://decrypt.co/370738/imf-urges-nepal-monitor-crypto-as-usage-rises-despite-ban",
       "desc": "The warning echoes the IMF's concerns over crypto adoption, including previous clashes with El Salvador over Bitcoin accumulation.",
       "date": "2026-06-11T11:33:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bernstein calls FIFA World Cup a ‘watershed moment’ for prediction markets, projects $5-10B consumer volume surge",
-      "link": "https://www.theblock.co/post/404403/bernstein-calls-fifa-world-cup-a-watershed-moment-for-prediction-markets-projects-5-10b-consumer-volume-surge?utm_source=rss&utm_medium=rss",
-      "desc": "Bernstein sees the FIFA World Cup as a potential watershed moment for prediction markets, projecting a $5B to $10B uplift in volume.",
-      "date": "2026-06-11T11:13:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -700,6 +779,16 @@
       "termBoost": 0
     },
     {
+      "source": "coincenter",
+      "sourceName": "COIN CENTER",
+      "title": "Comment to FinCEN on AML/CFT Programs",
+      "link": "https://coincenter.org/comment-to-fincen-on-aml-cft-programs/",
+      "desc": "A PDF version of this filing is available here. To whom it may concern: Coin Center is an independent nonprofit research and advocacy center focused on the public policy issues facing cryptocurrency technologies such as Bitcoin and Ethereum. Our mission is to build a better understanding of these technologies and to promote a regulatory climate […] The post Comment to FinCEN on AML/CFT Programs appeared first on Coin Center.",
+      "date": "2026-06-09T16:41:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "UK crypto advocates push back on exchange transfer restrictions, say banks are ‘choking off’ adoption",
@@ -750,38 +839,12 @@
       "termBoost": 0
     },
     {
-      "source": "coincenter",
-      "sourceName": "COIN CENTER",
-      "title": "Comment to FinCEN and OFAC on PPSI AML/CFT and Sanctions Program Requirements",
-      "link": "https://coincenter.org/comment-to-fincen-and-ofac-on-ppsi-aml-cft-and-sanctions-program-requirements/",
-      "desc": "A PDF version of this filing is available here. To whom it may concern: Coin Center is an independent nonprofit research and advocacy center focused on the public policy issues facing cryptocurrency technologies such as Bitcoin and Ethereum. Our mission is to build a better understanding of these technologies and to promote a regulatory climate […] The post Comment to FinCEN and OFAC on PPSI AML/CFT and Sanctions Program Requirements appeared first on Coin Center.",
-      "date": "2026-06-09T16:04:02.000Z",
-      "alsoAt": [
-        {
-          "source": "COIN CENTER",
-          "sourceId": "coincenter",
-          "url": "https://coincenter.org/comment-to-fincen-on-aml-cft-programs/"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin rises despite US inflation hitting 3-year high: Where will BTC price go?",
       "link": "https://cointelegraph.com/markets/bitcoin-rises-despite-us-inflation-hitting-3-year-high-where-will-btc-price-go?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "BTC's rebound shows signs of weakening under a string of technical resistance levels, raising the odds of a dip below $60,000 in June.",
       "date": "2026-06-10T15:54:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ethereum could become a fully zero-knowledge proof-based protocol in 3 to 5 years, Joe Lubin says",
-      "link": "https://www.theblock.co/post/404185/ethereum-fully-zero-knowledge-proof-based-protocol-3-to-5-years-joe-lubin?utm_source=rss&utm_medium=rss",
-      "desc": "Ethereum needs infinite capacity to meet the infinite demands of being a World Computer, making L2s necessary, Joe Lubin said.",
-      "date": "2026-06-10T15:22:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -992,42 +1055,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Chainalysis, South Korean police link up to fight crypto crime",
-      "link": "https://cointelegraph.com/news/chainalysis-south-korean-police-link-up-to-fight-crypto-crime?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "South Korea's national police has been battling crypto-enabled crimes from DPRK-state level threats to scams targeting retail investors.",
-      "date": "2026-06-10T07:03:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Crypto Tax Bills Face Pushback in House Committee Hearing",
       "link": "https://decrypt.co/370599/crypto-tax-bills-pushback-house-committee",
       "desc": "Pro-crypto Democrats questioned staking and mining tax exemptions Tuesday, while party leadership said the bills may need to wait until after the midterms.",
       "date": "2026-06-09T21:44:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum",
-      "link": "https://decrypt.co/370576/seattle-man-prison-laundering-foreign-fraud-funds-bitcoin-ethereum",
-      "desc": "The fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.",
-      "date": "2026-06-09T20:26:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "December Trial Date Set for US Soldier Accused of Insider Trading on Polymarket",
-      "link": "https://decrypt.co/370571/december-trial-date-us-soldier-insider-trading-polymarket",
-      "desc": "The insider trading case is the government's first to center on prediction markets.",
-      "date": "2026-06-09T20:09:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1068,36 +1101,6 @@
       "link": "https://bitcoinmagazine.com/news/bitcoin-season-charts-bitcoins-in-the-nba",
       "desc": "Bitcoin Magazine New Documentary ‘Bitcoin Season’ Charts Bitcoin’s Push Into the NBA A new upcoming documentary, Bitcoin Season, explores how Bitcoin is gaining traction in professional basketball. This post New Documentary ‘Bitcoin Season’ Charts Bitcoin’s Push Into the NBA first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-09T17:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Starknet Launches STRK20 Privacy Layer, Bringing Shielded ERC-20 Balances and Transfers to Ethereum L2",
-      "link": "https://thedefiant.io/news/blockchains/starknet-strk20-privacy-layer-shielded-erc20-balances-transfers",
-      "desc": "Starknet launched STRK20 on Tuesday, a note-based privacy framework that lets users shield ERC-20 token balances and conduct private transfers and swaps on the Ethereum layer-2 network, with an encrypted viewing-key path for compliance.",
-      "date": "2026-06-09T16:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Crypto Industry Heavyweights Urge Senate to Pass Clarity Act With Developer Protections Intact",
-      "link": "https://bitcoinmagazine.com/news/crypto-leaders-urge-to-pass-clarity-act",
-      "desc": "Bitcoin Magazine Crypto Industry Heavyweights Urge Senate to Pass Clarity Act With Developer Protections Intact More than 60 leading crypto executives urged Senate leaders to pass the Digital Asset Market Clarity Act with its blockchain developer protections intact. This post Crypto Industry Heavyweights Urge Senate to Pass Clarity Act With Developer Protections Intact first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-09T15:41:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Five Years On, El Salvador Is Still Buying Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/five-years-on-el-salvador-bitcoin",
-      "desc": "Bitcoin Magazine Five Years On, El Salvador Is Still Buying Bitcoin Five years ago yesterday, El Salvador’s Congress voted 62-to-22 to pass the world’s first Bitcoin Law, making the small Central American nation the first country on earth to grant bitcoin legal tender status. The date was June 8, 2021. Half a decade later, the government holds 7,677 BTC worth approximately $480 million — and it […] This post Five Years On, El Salvador Is Still Buying Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-09T15:32:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
