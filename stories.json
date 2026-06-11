@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T22:11:59.351Z",
+  "generatedAt": "2026-06-11T23:03:01.784Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 246,
+  "filteredOut": 243,
   "errors": [],
   "dupsMerged": 5,
   "items": [
@@ -18,12 +18,32 @@
       "termBoost": 3
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Canada's Koho hits unicorn status and targets banking license",
+      "link": "https://www.finextra.com/newsarticle/47904/canadas-koho-hits-unicorn-status-and-targets-banking-license?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Canadian fintech Koho has raised C$130 million at a C$1.33 billion valuation, providing it with the initial capital base it needs in its pursuit of a federal banking license.",
+      "date": "2026-06-12T00:01:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Digital Asset raises $355m to make Canton the onchain infrastructure for capital markets",
+      "link": "https://www.finextra.com/newsarticle/47905/digital-asset-raises-355m-to-make-canton-the-onchain-infrastructure-for-capital-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "A host of financial services giants, including BNP Paribas, Coinbase and HSBC, have joined a $355 million funding round for Digital Asset, the firm behind the Canton Network public, permissionless blockchain purpose-built for institutional finance.",
+      "date": "2026-06-12T00:01:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-11T22:11:58.898Z",
+      "date": "2026-06-11T23:03:01.307Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +53,27 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-11T22:11:58.898Z",
+      "date": "2026-06-11T23:03:01.307Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
+      "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
+      "desc": "The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
+      "date": "2026-06-11T23:03:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Solana Foundation Launches Frontier Traders, an Institutional Program for $500M+ Volume Firms",
+      "link": "https://thedefiant.io/news/blockchains/solana-foundation-frontier-traders-institutional-program-500m-volume",
+      "desc": "The Solana Foundation formalized Solana's institutional market-structure tier with Frontier Traders, requiring $500M in trailing 30-day DEX volume for VIP access, with the debut campaign running on SpaceX tokenized equity.",
+      "date": "2026-06-11T21:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1093,16 +1133,6 @@
       "link": "https://www.finextra.com/newsarticle/47894/top-japanese-banks-plot-stablecoin-roll-out?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Three of Japan's top banks have joined forces to issue a Yen-backed stablecoin in 2026.",
       "date": "2026-06-10T11:13:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Zodia Custody secures Payment Institution licence",
-      "link": "https://www.finextra.com/newsarticle/47892/zodia-custody-secures-payment-institution-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Crypto-asset platform Zodia Custody has secured a Payment Institution licence from Luxembourg’s Commission de Surveillance du Secteur Financier (CSSF).",
-      "date": "2026-06-10T09:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
