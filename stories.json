@@ -1,18 +1,29 @@
 {
-  "generatedAt": "2026-06-11T21:17:08.496Z",
+  "generatedAt": "2026-06-11T22:11:59.351Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 248,
+  "filteredOut": 246,
   "errors": [],
   "dupsMerged": 5,
   "items": [
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says",
+      "link": "https://decrypt.co/370851/bitcoin-quantum-threat-now-coinbase",
+      "desc": "Coinbase's quantum advisory council says crypto developers should begin post-quantum migration work now, warning that unresolved questions around abandoned and vulnerable coins could become one of Bitcoin's biggest battles.",
+      "date": "2026-06-11T21:50:06.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-11T21:17:08.332Z",
+      "date": "2026-06-11T22:11:58.898Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +33,27 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-11T21:17:08.332Z",
+      "date": "2026-06-11T22:11:58.898Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Nobody Told the ERP That Blockchain Won",
+      "link": "https://www.pymnts.com/blockchain/2026/nobody-told-the-erp-that-blockchain-won/",
+      "desc": "Blockchain finance has spent years making the inevitable seem imminent. This week, industry insiders raised the stakes further, predicting that Wall Street will operate solely on blockchain technology in under five years. The logic tracks: Once assets are digitized and placed on blockchain-based infrastructure, longstanding inefficiencies begin to fall away. Deposits move at internet […] The post Nobody Told the ERP That Blockchain Won appeared first on PYMNTS.com.",
+      "date": "2026-06-11T21:28:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Citi launches blockchain marketplace for private companies shares: Report",
+      "link": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The US banking giant's blockchain marketplace will offer tokenized depositary receipts of private company shares amid Wall Street's broad embrace of tokenized assets.",
+      "date": "2026-06-11T21:24:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -260,6 +291,16 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-11T15:21:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Community bank group launches new ad campaign targeting Clarity Act stablecoin reward language",
@@ -296,16 +337,6 @@
       "link": "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Executives from Franklin Templeton and BNP Paribas say tokenized assets and stablecoins could improve capital efficiency across Europe as Wall Street expands tokenization efforts.",
       "date": "2026-06-11T15:01:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-11T15:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -678,6 +709,16 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
+      "title": "US lawmakers seek coordinated federal response to crypto theft and scams",
+      "link": "https://cointelegraph.com/news/doj-crypto-theft-task-force-proposed-by-bipartisan-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The bipartisan bill envisions the Justice Department leading a task force to coordinate crypto theft investigations, support local law enforcement and improve blockchain forensics efforts.",
+      "date": "2026-06-11T07:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
       "title": "Bitso brings peso-backed MXNB stablecoin to XRP Ledger via Ripple partnership",
       "link": "https://cointelegraph.com/news/ripple-bitso-bring-mxn-stablecoin-settlement-to-xrp-ledger-for-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The companies are pairing MXNB and RLUSD on the XRP Ledger to support institutional payments between the United States and Mexico as stablecoin adoption grows across Latin America.",
@@ -1012,26 +1053,6 @@
       "link": "https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule",
       "desc": "The groups say issuers, DeFi apps, and validators need clearer limits on who is responsible once stablecoins change hands.",
       "date": "2026-06-10T14:33:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Crypto outflows are sentiment shock, not structural crisis: CoinShares' Butterfill",
-      "link": "https://cointelegraph.com/news/crypto-outflows-sentiment-shock-structural-crisis-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "CoinShares’ James Butterfill said recent crypto outflows reflect a macro-driven sentiment shock, while other analysts warned Bitcoin’s rebound may remain fragile.",
-      "date": "2026-06-10T14:08:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Delaware Advances Bill to Ban ‘Predatory’ Bitcoin ATMs",
-      "link": "https://decrypt.co/370638/delaware-advances-bill-to-ban-predatory-bitcoin-atms",
-      "desc": "Lawmakers have advanced legislation that would ban all cryptocurrency kiosks statewide, with physical removal mandated within 90 days.",
-      "date": "2026-06-10T13:52:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
