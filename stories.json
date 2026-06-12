@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T16:31:13.116Z",
+  "generatedAt": "2026-06-12T17:47:21.272Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 251,
+  "filteredOut": 257,
   "errors": [],
   "dupsMerged": 4,
   "items": [
@@ -41,20 +41,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-12T16:31:12.241Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-12T17:47:19.582Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-12T16:31:12.241Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-12T17:47:19.581Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,7 +64,57 @@
       "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
       "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
       "desc": "The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
-      "date": "2026-06-12T16:31:11.000Z",
+      "date": "2026-06-12T17:47:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Tennessee Man Indicted for Alleged Crypto Ponzi Scheme That Stole Millions From Investors",
+      "link": "https://decrypt.co/370943/tennessee-man-indicted-crypto-ponzi-scheme-stole-millions-investors",
+      "desc": "Feds indicted a Tennessee man for allegedly running a crypto Ponzi scheme from 2020-2024 and bilking investors out of millions.",
+      "date": "2026-06-12T17:22:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "As Credit Tightens, FinTechs Look to Deposits for Growth",
+      "link": "https://www.pymnts.com/news/banking/2026/credit-tightens-fintechs-deposits-growth/",
+      "desc": "As interest rate uncertainty lingers and wholesale funding becomes more expensive, digital-first financial firms are using high-yield savings accounts to address two challenges. They are trying to attract loyal customers and secure a cheaper, more durable source of capital to fund their lending businesses. The strategy reflects a broader evolution in FinTech business models. […] The post As Credit Tightens, FinTechs Look to Deposits for Growth appeared first on PYMNTS.com.",
+      "date": "2026-06-12T17:12:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Iran-Linked Group That Hacked Kash Patel's Email Threatens World Cup With Hijacked FBI Drones",
+      "link": "https://decrypt.co/370937/iran-group-hacked-kash-patel-email-threatens-world-cup-hijacked-drones",
+      "desc": "The Iran-linked hacking group said it accessed footage from FBI-controlled drones and warned World Cup teams that they could be targeted.",
+      "date": "2026-06-12T17:12:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Blockworks Acquires Messari in Crypto Data Consolidation",
+      "link": "https://thedefiant.io/news/infrastructure/blockworks-acquires-messari-crypto-data-consolidation",
+      "desc": "Crypto data and media company Blockworks has acquired rival research platform Messari at a discount to its prior valuation, the Wall Street Journal and Bloomberg reported Friday. The deal joins two of the most prominent names in the crypto intelligence space.",
+      "date": "2026-06-12T16:50:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Americans Traded Up to $34 Billion on Offshore Prediction Markets: Study",
+      "link": "https://decrypt.co/370908/americans-traded-34-billion-offshore-prediction-markets-study",
+      "desc": "The study estimated Americans could end up wagering up to $133 billion annually on offshore prediction markets by 2030.",
+      "date": "2026-06-12T16:44:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -418,16 +468,6 @@
       "link": "https://www.coindesk.com/markets/2026/06/12/blackrock-files-to-list-its-bitcoin-income-etf-with-expected-debut-next-week",
       "desc": "An 8-A share registration filing, in this case for Nasdaq, is usually one of the last steps before an ETF goes live.",
       "date": "2026-06-12T07:07:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin edges higher on Iran peace hope as SpaceX opens for trade",
-      "link": "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
-      "desc": "Crypto firmed across the board following the largest equity listing in history. The token most tied to Elon Musk traded right in line with the market.",
-      "date": "2026-06-12T06:32:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -812,16 +852,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Yellow Card selects Turnkey for stablecoin payments in emerging markets",
-      "link": "https://www.finextra.com/pressarticle/110115/yellow-card-selects-turnkey-for-stablecoin-payments-in-emerging-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Yellow Card, one of the largest licensed stablecoin infrastructure providers in the world, operating across 34 countries, including 20 in Africa, has selected Turnkey for stablecoin payments in emerging markets.",
-      "date": "2026-06-11T13:36:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Citi Rolls Out Tokenized Private-Company Shares for Wealth and Institutional Clients",
@@ -932,36 +962,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise",
-      "link": "https://cointelegraph.com/news/tradfi-advisors-want-stablecoins-tokenization-over-bitcoin-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitwise’s Matt Hougan says it was “pretty hard to engage with advisers on Bitcoin” during recent discussions, who are more interested in stablecoins and tokenization.",
-      "date": "2026-06-11T07:01:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "US lawmakers seek coordinated federal response to crypto theft and scams",
-      "link": "https://cointelegraph.com/news/doj-crypto-theft-task-force-proposed-by-bipartisan-lawmakers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The bipartisan bill envisions the Justice Department leading a task force to coordinate crypto theft investigations, support local law enforcement and improve blockchain forensics efforts.",
-      "date": "2026-06-11T07:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitso brings peso-backed MXNB stablecoin to XRP Ledger via Ripple partnership",
-      "link": "https://cointelegraph.com/news/ripple-bitso-bring-mxn-stablecoin-settlement-to-xrp-ledger-for-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The companies are pairing MXNB and RLUSD on the XRP Ledger to support institutional payments between the United States and Mexico as stablecoin adoption grows across Latin America.",
-      "date": "2026-06-11T07:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Lava Network Signs Tokenization Pact for Planned 40,000-Unit Caribbean Project",
@@ -982,16 +982,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow",
-      "link": "https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow",
-      "desc": "Solana-based decentralized exchange Raydium will repay the funds swiped in the $1.34 million exploit using its treasury.",
-      "date": "2026-06-10T20:19:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "DOJ Opens Debanking Probe Into JPMorgan, Bank of America and Wells Fargo",
@@ -1002,52 +992,12 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "The Internet Is Furious at Anthropic After Claude Fable 5 Release",
-      "link": "https://decrypt.co/370688/internet-furious-anthropic-claude-mythos-fable-5",
-      "desc": "Token burn, silent censorship, and a mandatory data grab—the biggest Claude release has become Anthropic's messiest.",
-      "date": "2026-06-10T19:17:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "On-Chain Tracking Revives Allegations That Hoskinson Sold 1.5B ADA in the 2021 Rally",
       "link": "https://thedefiant.io/news/people/on-chain-tracking-revives-allegations-that-hoskinson-sold-1-5b-ada-in-the-2021-rally",
       "desc": "An NFT creator published a thread claiming to trace large ADA flows to IOG-linked stake pool pledges from the 2021 bull market. Cardano's founder has made no public statement in response to the new analysis. ADA is down 42% over the past 30 days.",
       "date": "2026-06-10T18:17:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Attacker Mints 10 Billion TOP Tokens Through Governance Takeover, Drains $1.58M from Balancer Pool",
-      "link": "https://thedefiant.io/news/hacks/attacker-mints-10-billion-top-tokens-governance-takeover-drains-1-58m-balancer",
-      "desc": "An attacker exploited Token of Power's Aragon DAO on Tuesday to mint 10 billion TOP tokens via a malicious governance proposal, then swapped the supply for 944.2 WETH worth roughly $1.58 million.",
-      "date": "2026-06-10T17:08:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Raydium Confirms $1.34M Drain on Deprecated AMM V3, Pledges Treasury Compensation",
-      "link": "https://thedefiant.io/news/hacks/raydium-drained-1-3m-attacker-bridges-ethereum-tornado-cash",
-      "desc": "Raydium core contributor Infra confirmed Wednesday that an attacker drained ~$1.34M from the legacy AMM V3 program, a contract phased out in 2021. Current users were unaffected, the treasury will cover full compensation, and the root cause was a self-contained LP-mint validation flaw. PeckShield",
-      "date": "2026-06-10T16:34:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Hyli Winds Down Two-Year ZK Blockchain Project, Citing Lack of ZK Traction",
-      "link": "https://thedefiant.io/news/blockchains/hyli-winds-down-zk-blockchain-project-zk-traction",
-      "desc": "ZK blockchain project Hyli is shutting down after two years, with the team citing weak demand for zero-knowledge technology. The closure comes the same day Botanix wound down its Bitcoin Layer 2.",
-      "date": "2026-06-10T16:31:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
