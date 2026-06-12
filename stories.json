@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-12T07:02:40.550Z",
+  "generatedAt": "2026-06-12T08:50:05.523Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 246,
+  "filteredOut": 249,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "decrypt",
@@ -23,7 +23,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-12T07:02:40.537Z",
+      "date": "2026-06-12T08:50:05.134Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-12T07:02:40.536Z",
+      "date": "2026-06-12T08:50:05.133Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,16 +43,46 @@
       "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
       "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
       "desc": "The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
-      "date": "2026-06-12T07:02:38.000Z",
+      "date": "2026-06-12T08:50:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin in volatile trading above $63,000, DOGE unchanged",
+      "title": "There's one simple way to tell whether bitcoin has really bottomed. Right now, it hasn't.",
+      "link": "https://www.coindesk.com/markets/2026/06/12/there-s-one-simple-way-to-tell-whether-bitcoin-has-really-bottomed-right-now-it-hasn-t",
+      "desc": "Bitcoin's weekly RSI contains a critical level that has reliably separated bull and bear market regimes across multiple cycles. Right now, the indicator has yet to clear that line.",
+      "date": "2026-06-12T07:57:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "International sting shuts down $390M crypto money-laundering ring",
+      "link": "https://cointelegraph.com/news/international-sting-shuts-down-390m-crypto-money-laundering-ring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Eleven countries were involved in the joint operation that ended the AudiA6 crypto laundering ring and Dark2Web marketplace.",
+      "date": "2026-06-12T07:12:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-12T07:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin traders eye rally to $75,000, Japan set to hike rate to 31-year high",
       "link": "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
-      "desc": "Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.",
+      "desc": "Crypto firmed across the board following the largest equity listing in history. The token most tied to Elon Musk traded right in line with the market.",
       "date": "2026-06-12T06:32:02.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -110,7 +140,7 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "LG, Arbitrum launch blockchain-based bid for $679B ad market",
+      "title": "LG, Arbitrum launch blockchain-based bid in $679B ad market",
       "link": "https://cointelegraph.com/news/lg-arbitrum-launch-blockchain-based-bid-for-679b-ad-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "LG is building a blockchain focused on buying and selling ads, joining a wave of companies launching their own blockchains in recent years.",
       "date": "2026-06-12T04:32:04.000Z",
@@ -168,19 +198,9 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Nobody Told the ERP That Blockchain Won",
-      "link": "https://www.pymnts.com/blockchain/2026/nobody-told-the-erp-that-blockchain-won/",
-      "desc": "Blockchain finance has spent years making the inevitable seem imminent. This week, industry insiders raised the stakes further, predicting that Wall Street will operate solely on blockchain technology in under five years. The logic tracks: Once assets are digitized and placed on blockchain-based infrastructure, longstanding inefficiencies begin to fall away. Deposits move at internet […] The post Nobody Told the ERP That Blockchain Won appeared first on PYMNTS.com.",
-      "date": "2026-06-11T21:28:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Citi launches blockchain marketplace for private companies shares: Report",
+      "title": "Citi launches blockchain marketplace for shares of private companies: Report",
       "link": "https://cointelegraph.com/news/citi-launches-blockchain-marketplace-private-company-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The US banking giant's blockchain marketplace will offer tokenized depositary receipts of private company shares amid Wall Street's broad embrace of tokenized assets.",
       "date": "2026-06-11T21:24:56.000Z",
@@ -218,16 +238,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Lawmakers Move to Create Federal Task Force Against Crypto Theft",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/lawmakers-move-to-create-federal-task-force-against-crypto-theft/",
-      "desc": "A bill introduced Thursday (June 11) in the U.S. House would create a federal task force to combat crypto theft and support victims. The Federal Cryptocurrency Theft Enforcement and Coordination Act was introduced by Reps. Lance Gooden, R-Texas, and Josh Gottheimer, D-N.J., according to a Thursday press release. The organization that would be created […] The post Lawmakers Move to Create Federal Task Force Against Crypto Theft appeared first on PYMNTS.com.",
-      "date": "2026-06-11T20:27:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Nasdaq-Listed Bitcoin Firm Nakamoto Sells BTC, Cuts Debt and Authorizes Share Buyback",
@@ -254,13 +264,7 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-bank-tokenized-physical-gold-retail-singapore",
       "desc": "Singapore largest bank will let retail customers buy, hold and trade tokenized gold backed by 1 gram of physical bullion stored in a DBS vault, launching via its digibank app in H2 2026.",
       "date": "2026-06-11T19:44:08.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/06/11/singapore-bank-dbs-to-offer-tokenized-gold-to-retail-customers"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -927,16 +931,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "UK crypto advocates launch campaign against banks blocking exchange transfers",
-      "link": "https://cointelegraph.com/news/uk-crypto-advocates-launch-campaign-against-banks-blocking-exchange-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Stand With Crypto UK says banks are restricting access to regulated exchanges even as policymakers seek to position the country as a hub for digital asset innovation.",
-      "date": "2026-06-10T18:55:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "On-Chain Tracking Revives Allegations That Hoskinson Sold 1.5B ADA in the 2021 Rally",
@@ -973,16 +967,6 @@
       "link": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-executive-education",
       "desc": "Bitcoin Magazine Morgan Stanley’s Bitcoin Executive Says Education — Not Products — Is Wall Street’s Real Obstacle Morgan Stanley's Head of Digital Asset Strategy Amy Oldenburg says Bitcoin's biggest barrier to mainstream adoption is not product availability but investor and advisor education. This post Morgan Stanley’s Bitcoin Executive Says Education — Not Products — Is Wall Street’s Real Obstacle first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-10T17:46:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Anchorage backs Treasury’s GENIUS AML rules, seeks secondary-market sanctions clarity",
-      "link": "https://cointelegraph.com/news/anchorage-backs-treasurys-genius-aml-rules-seeks-secondary-market-sanctions-clarity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A public comment letter argues that regulated stablecoin issuers need clearer compliance standards to avoid sanctions risks tied to secondary-market activity.",
-      "date": "2026-06-10T17:20:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1093,16 +1077,6 @@
       "link": "https://thedefiant.io/news/blockchains/botanix-shuts-down-bitcoin-l2-spiderchain-after-four-years",
       "desc": "Polychain-backed Botanix Labs is winding down its Spiderchain Bitcoin Layer 2 after a year of mainnet operation, citing insufficient demand for Bitcoin-native DeFi. Users have until July 9 to withdraw assets.",
       "date": "2026-06-10T13:21:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Top Japanese banks plot stablecoin roll out",
-      "link": "https://www.finextra.com/newsarticle/47894/top-japanese-banks-plot-stablecoin-roll-out?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Three of Japan's top banks have joined forces to issue a Yen-backed stablecoin in 2026.",
-      "date": "2026-06-10T11:13:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
