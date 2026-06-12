@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T05:07:22.963Z",
+  "generatedAt": "2026-06-12T07:02:40.550Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 245,
+  "filteredOut": 246,
   "errors": [],
   "dupsMerged": 5,
   "items": [
@@ -20,20 +20,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-12T05:07:22.950Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-12T07:02:40.537Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-12T05:07:22.950Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-12T07:02:40.536Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,67 @@
       "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
       "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
       "desc": "The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
-      "date": "2026-06-12T05:07:22.000Z",
+      "date": "2026-06-12T07:02:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin in volatile trading above $63,000, DOGE unchanged",
+      "link": "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
+      "desc": "Crypto firmed across the board on the largest listing in history, but the token most tied to Elon Musk traded right in line with the market.",
+      "date": "2026-06-12T06:32:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations",
+      "link": "https://www.coindesk.com/policy/2026/06/12/former-sec-cftc-chair-gary-gensler-argues-that-prediction-markets-don-t-overrule-state-regulations",
+      "desc": "The former regulator joined a number of interest groups in arguing that prediction markets are overstepping their bounds by offering sports-related contracts.",
+      "date": "2026-06-12T06:27:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "The Material Holding America Together Is Disappearing. AetherStrike Tokenized It.",
+      "link": "https://thedefiant.io/education/research-and-opinion/the-material-holding-america-together-is-disappearing-aetherstrike-tokenized-it",
+      "desc": "A regulated security backed 1:1 by independently certified bitumen reserves — issued under ERC-3643, settled on Ethereum, and offered to accredited investors through a dedicated SPV. The thesis: a structural supply shock in U.S. asphalt binder, met with a tokenization framework purpose-built for",
+      "date": "2026-06-12T05:55:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "BlackRock files 8-A for yield-bearing bitcoin ETF; analyst expects launch next week",
+      "link": "https://www.theblock.co/post/404530/blackrock-8a-yield-bearing-bitcoin-etf?utm_source=rss&utm_medium=rss",
+      "desc": "Bloomberg Analyst Eric Balchunas said the filing signals an imminent launch, adding that he expects it to start trading next week.",
+      "date": "2026-06-12T05:39:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The company that makes your TV is taking ads onchain. Arbitrum helped",
+      "link": "https://www.coindesk.com/markets/2026/06/12/the-company-that-makes-your-tv-is-taking-ads-onchain-arbitrum-helped",
+      "desc": "LG Electronics has built a blockchain-based advertising platform with the help of Arbitrum.",
+      "date": "2026-06-12T05:35:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Is Tether the Coppernose of our time?",
+      "link": "https://www.ft.com/content/bcdeac73-5855-4d8b-b512-5ba65a2e01ad",
+      "desc": "USDT vs USDC",
+      "date": "2026-06-12T05:00:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -357,16 +417,6 @@
       "link": "https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stablecoin rails will cut costs and speed up settlement for businesses paying globally.",
       "date": "2026-06-11T16:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-11T15:21:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -757,16 +807,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Figure to acquire Kiavi for $717 million to expand RWA tokenization network",
-      "link": "https://www.theblock.co/post/404373/figure-kiavi-acquisition?utm_source=rss&utm_medium=rss",
-      "desc": "Figure said moving Kiavi assets onchain could reduce costs while maintaining a capital-light, high-margin business model.",
-      "date": "2026-06-11T07:45:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "TradFi advisers want stablecoins, tokenization over Bitcoin: Bitwise",
@@ -797,52 +837,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "BlackRock files new amendment for yield-generating bitcoin ETF; launch expected soon, Bloomberg analyst says",
-      "link": "https://www.theblock.co/post/404367/blackrock-amendment-yield-bitcoin-etf?utm_source=rss&utm_medium=rss",
-      "desc": "BlackRock's new bitcoin fund seeks to provide yield through active covered call strategies on IBIT shares and ETP indices.",
-      "date": "2026-06-11T05:52:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Corporate bitcoin buying has collapsed from $500 million per day to almost negligible",
-      "link": "https://www.coindesk.com/markets/2026/06/11/it-s-not-just-bitcoin-etfs-corporate-btc-buying-has-dried-up-too",
-      "desc": "ETF outflows have dominated the narrative but corporate bitcoin treasuries have gone quiet too, compounding the demand-side weakness.",
-      "date": "2026-06-11T05:16:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Analysts tip pressure for Bitcoin, gold as US inflation tops 4%",
       "link": "https://cointelegraph.com/news/pressure-on-bitcoin-and-gold-increases-as-us-inflation-tops-4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "“We continue to view the current macro environment as a headwind for Bitcoin,” 10x Research’s Markus Thielen said.",
       "date": "2026-06-11T04:51:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP holds above $1.10 as ETF inflows rise, but traders remain cautious",
-      "link": "https://www.coindesk.com/markets/2026/06/11/xrp-holds-above-usd1-10-as-etf-inflows-rise-but-traders-remain-cautious",
-      "desc": "XRP bounced from recent lows on a late volume surge, though the token continued to lag the broader crypto market as futures traders positioned around key support levels.",
-      "date": "2026-06-11T04:50:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin has reached a deep bear-market valuation zone. The hard part may come next.",
-      "link": "https://www.coindesk.com/markets/2026/06/11/bitcoin-has-reached-a-deep-bear-market-valuation-zone-the-hard-part-may-come-next",
-      "desc": "Two widely watched gauges show capitulation, but the analyst flagging them warns the slow grind comes next.",
-      "date": "2026-06-11T04:34:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -947,32 +947,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Privacy returns to focus as Ethereum developers explore new token standards",
-      "link": "https://www.coindesk.com/tech/2026/06/10/privacy-returns-to-focus-as-ethereum-developers-explore-new-token-standards",
-      "desc": "In this week's edition of The Protocol Newsletter, we're looking at where privacy is headed in the Ethereum ecosystem.",
-      "date": "2026-06-10T18:14:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Botanix Will Shut Down Bitcoin Layer-2 Network in July, Citing Lack of DeFi Demand",
       "link": "https://decrypt.co/370671/botanix-shut-down-bitcoin-layer-2-network-lack-defi-demand",
       "desc": "Botanix asked users to withdraw funds, disclosing plans to wind down its Bitcoin-based layer-2 network in July.",
       "date": "2026-06-10T18:11:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "BlackRock and Fidelity are quietly turning bitcoin ETFs into a two-firm market",
-      "link": "https://www.coindesk.com/markets/2026/06/10/blackrock-and-fidelity-are-quietly-turning-bitcoin-etfs-into-a-two-firm-market",
-      "desc": "BlackRock's IBIT and Fidelity's FBTC are attracting the vast majority of new bitcoin ETF money, leaving smaller funds increasingly sidelined as institutional investors consolidate around the industry's largest players.",
-      "date": "2026-06-10T18:09:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -993,6 +973,16 @@
       "link": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-executive-education",
       "desc": "Bitcoin Magazine Morgan Stanley’s Bitcoin Executive Says Education — Not Products — Is Wall Street’s Real Obstacle Morgan Stanley's Head of Digital Asset Strategy Amy Oldenburg says Bitcoin's biggest barrier to mainstream adoption is not product availability but investor and advisor education. This post Morgan Stanley’s Bitcoin Executive Says Education — Not Products — Is Wall Street’s Real Obstacle first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-10T17:46:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Anchorage backs Treasury’s GENIUS AML rules, seeks secondary-market sanctions clarity",
+      "link": "https://cointelegraph.com/news/anchorage-backs-treasurys-genius-aml-rules-seeks-secondary-market-sanctions-clarity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A public comment letter argues that regulated stablecoin issuers need clearer compliance standards to avoid sanctions risks tied to secondary-market activity.",
+      "date": "2026-06-10T17:20:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
