@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-12T08:50:05.523Z",
+  "generatedAt": "2026-06-12T10:32:28.167Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 249,
+  "filteredOut": 250,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 2,
   "items": [
     {
       "source": "decrypt",
@@ -20,20 +20,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-12T08:50:05.134Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-12T10:32:28.154Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-12T08:50:05.133Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-12T10:32:28.154Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,57 @@
       "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
       "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
       "desc": "The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
-      "date": "2026-06-12T08:50:04.000Z",
+      "date": "2026-06-12T10:32:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "There is a ‘fundamental clash’ between bitcoin and institutionalization, says BTC circular economy project founder",
+      "link": "https://www.theblock.co/post/404563/bitcoin-ekasi-btc-prague?utm_source=rss&utm_medium=rss",
+      "desc": "Bitcoin Ekasi's Hermann Vivier emphasized that bitcoin's store-of-value narrative does not exist without usage as a medium of exchange.",
+      "date": "2026-06-12T10:30:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "LG Electronics Teams With Arbitrum for Blockchain-Based Ad Platform",
+      "link": "https://decrypt.co/370866/lg-electronics-teams-with-arbitrum-for-blockchain-based-ad-platform",
+      "desc": "The South Korean tech giant built a custom layer-2 network with Arbitrum for an advertising platform set to launch this year.",
+      "date": "2026-06-12T10:23:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitwise’s Dragosch sees up to 20% further downside for bitcoin, puts ‘max pain’ scenario at $48,000",
+      "link": "https://www.theblock.co/post/404561/bitwise-dragosch-bitcoin-max-pain-48k?utm_source=rss&utm_medium=rss",
+      "desc": "Bitwise's Dragosch sees up to 20% more bitcoin downside, with the long-term holder cost basis at $48,000 the \"max pain\" scenario.",
+      "date": "2026-06-12T10:02:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Metaplanet buys Siiibo Securities to accelerate bitcoin financial ecosystem plans",
+      "link": "https://www.coindesk.com/markets/2026/06/12/metaplanet-buys-siiibo-securities-to-accelerate-bitcoin-financial-ecosystem-plans",
+      "desc": "The approximately $13.1 million acquisition gives Metaplanet a regulated securities platform to develop Bitcoin-linked investment products.",
+      "date": "2026-06-12T10:00:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Metaplanet to acquire Siiibo Securities for $13 million to develop bitcoin-linked yield products",
+      "link": "https://www.theblock.co/post/404564/metaplanet-siiibo-securities-acquisition?utm_source=rss&utm_medium=rss",
+      "desc": "Metaplanet CEO Simon Gerovich said the deal is expected to close in July, and the company plans to rename the business Metaplanet Securities.",
+      "date": "2026-06-12T09:39:38.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,6 +114,16 @@
       "link": "https://cointelegraph.com/news/international-sting-shuts-down-390m-crypto-money-laundering-ring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Eleven countries were involved in the joint operation that ended the AudiA6 crypto laundering ring and Dark2Web marketplace.",
       "date": "2026-06-12T07:12:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "BlackRock files to list its bitcoin income ETF, with expected debut next week",
+      "link": "https://www.coindesk.com/markets/2026/06/12/blackrock-files-to-list-its-bitcoin-income-etf-with-expected-debut-next-week",
+      "desc": "An 8-A share registration filing, in this case for Nasdaq, is usually one of the last steps before an ETF goes live.",
+      "date": "2026-06-12T07:07:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -304,18 +364,7 @@
       "link": "https://cointelegraph.com/news/coinbase-world-cup-prediction-market-boost-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bernstein says the 2026 FIFA World Cup could inject billions into prediction markets, with Coinbase and Robinhood positioned to capture a wave of new users.",
       "date": "2026-06-11T17:57:06.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/370786/world-cup-billions-volume-prediction-markets-watershed-moment-bernstein"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/404403/bernstein-calls-fifa-world-cup-a-watershed-moment-for-prediction-markets-projects-5-10b-consumer-volume-surge?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -401,6 +450,16 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/binance-launches-bstocks-tokenized-us-equities-24-7-onchain-trading",
       "desc": "Binance has activated its tokenized-equity layer, converting live stock positions on its brokerage platform into BNB Chain tokens tradable around the clock. The first five bStocks include Nvidia, Tesla, Circle, Micron, and Sandisk.",
       "date": "2026-06-11T16:35:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "World Cup Could Bring Billions in Volume to Prediction Markets in 'Watershed Moment': Bernstein",
+      "link": "https://decrypt.co/370786/world-cup-billions-volume-prediction-markets-watershed-moment-bernstein",
+      "desc": "The 48-team FIFA World Cup tournament is expected to be the single largest catalyst for online sports betting in history, Bernstein said.",
+      "date": "2026-06-11T16:20:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -751,16 +810,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Japan’s parliament advances bill to classify cryptocurrencies as financial instruments",
-      "link": "https://www.theblock.co/post/404402/japans-advances-bill-classify-crypto-financial-instruments?utm_source=rss&utm_medium=rss",
-      "desc": "The legislation is expected to take effect next year if approved by the upper house, the House of Councillors.",
-      "date": "2026-06-11T10:50:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin advances, holds above key technical level that ether, solana can't break through",
@@ -771,42 +820,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "South Korean police book Bithumb CEO as bribery suspect in lawmaker hiring probe: report",
-      "link": "https://www.theblock.co/post/404392/bithumb-ceo-bribery-case?utm_source=rss&utm_medium=rss",
-      "desc": "Police are investigating whether Bithumb CEO Lee hired lawmaker Kim's son as a favor and whether Kim later used his position to target Upbit.",
-      "date": "2026-06-11T09:57:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "ETPPA warns that digital euro proposals could undermine open banking",
       "link": "https://www.finextra.com/pressarticle/110107/etppa-warns-that-digital-euro-proposals-could-undermine-open-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "ETPPA warns that emerging digital euro proposals could undermine the principles of open banking by excluding licensed Payment Initiation Service Providers (PISPs) from access to digital euro accounts.",
       "date": "2026-06-11T09:41:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "BlackRock's income-paying bitcoin ETF nears launch at a fee that undercuts rivals",
-      "link": "https://www.coindesk.com/markets/2026/06/11/blackrock-s-income-paying-bitcoin-etf-nears-launch-at-a-fee-that-undercuts-rivals",
-      "desc": "The iShares Bitcoin Premium Income ETF makes money by selling call options on BlackRock's own IBIT.",
-      "date": "2026-06-11T08:59:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Philippines' central bank says Binance and its local partner lack licenses to operate",
-      "link": "https://www.coindesk.com/policy/2026/06/11/philippines-central-bank-says-binance-and-its-local-partner-lack-licenses-to-operate",
-      "desc": "Binance and its local partner do not hold the necessary license required to operate in the country, the Philippine central bank said, according to a local media report.",
-      "date": "2026-06-11T08:49:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -877,16 +896,6 @@
       "link": "https://thedefiant.io/news/tokens/lava-network-signs-tokenization-pact-for-planned-40-000-unit-caribbean-project",
       "desc": "The agreement with developer BHL Group is an early-stage memorandum of understanding, and the Alba Bay community is not slated to break ground until 2027",
       "date": "2026-06-10T21:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin miner margins fall to record low: Will BTC’s $60K floor hold?",
-      "link": "https://cointelegraph.com/markets/bitcoin-miner-margins-fall-to-record-low-will-btcs-60k-floor-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin miner profits recently fell to record lows, while Bitcoin struggles to hold the $60,000 floor. Should traders be worried?",
-      "date": "2026-06-10T20:42:55.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1037,16 +1046,6 @@
       "link": "https://thedefiant.io/podcasts-and-videos/podcast/defi-s-near-death-moment-or-mike-silagadze-on-ether-fi-security-and-what-comes-next",
       "desc": "How close did DeFi come to a real systemic collapse? In this episode, Camila Russo sits down with Mike Silagadze, co-founder and CEO of Ether.fi, to break down the Kelp exploit, the DeFi United rescue effort, and why Mike believes the default path could have been far worse if nobody had stepped in.",
       "date": "2026-06-10T14:43:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule",
-      "link": "https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule",
-      "desc": "The groups say issuers, DeFi apps, and validators need clearer limits on who is responsible once stablecoins change hands.",
-      "date": "2026-06-10T14:33:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
