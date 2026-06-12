@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-12T13:41:32.175Z",
+  "generatedAt": "2026-06-12T15:05:29.449Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 253,
+  "filteredOut": 254,
   "errors": [],
-  "dupsMerged": 2,
+  "dupsMerged": 3,
   "items": [
     {
       "source": "decrypt",
@@ -28,12 +28,12 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-12T13:41:31.414Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Zelle heads to India; preps stablecoin for global expansion",
+      "link": "https://www.finextra.com/newsarticle/47912/zelle-heads-to-india-preps-stablecoin-for-global-expansion?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "US bank-owned P2P payments service Zelle is going global, with users soon getting the ability to send money to friends and family in India.",
+      "date": "2026-06-12T15:12:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,17 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-12T13:41:31.413Z",
+      "date": "2026-06-12T15:05:28.865Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-12T15:05:28.865Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +63,69 @@
       "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
       "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
       "desc": "The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
-      "date": "2026-06-12T13:41:31.000Z",
+      "date": "2026-06-12T15:05:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "GameStop Renews Bitcoin Deal That Did Little for Its Record Quarter",
+      "link": "https://decrypt.co/370905/gamestop-renews-bitcoin-deal-that-did-little-for-its-record-quarter",
+      "desc": "The retailer rolled its Coinbase options deal forward in late May, keeping nearly all its Bitcoin tied up for upfront cash.",
+      "date": "2026-06-12T15:02:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction",
+      "link": "https://bitcoinmagazine.com/news/sam-bankman-fried-loses-appeal-ftx",
+      "desc": "Bitcoin Magazine Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction One of Sam Bankman-Fried's final viable avenues to overturn his conviction closed Friday after a federal appeals court upheld both his fraud conviction and 25-year prison sentence, keeping the disgraced FTX founder behind bars. This post Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-12T14:45:21.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "MassPay and Coinbase team on stablecoin-powered payouts",
+      "link": "https://www.finextra.com/pressarticle/110124/masspay-and-coinbase-team-on-stablecoin-powered-payouts?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "MassPay Holdings LLC, a global payout orchestration platform, and Coinbase, the world’s leading regulated cryptocurrency exchange, announced a strategic partnership to bring stablecoin-powered cross-border payout capabilities to businesses worldwide.",
+      "date": "2026-06-12T14:10:00.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "XRP sentiment falls to 8-month low, and that has been a buy signal before",
+      "link": "https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before",
+      "desc": "Santiment's weighted sentiment gauge for XRP just hit its weakest reading since October 2025. The firm notes the token's strongest rebounds have tended to start when the crowd was this checked out.",
+      "date": "2026-06-12T14:08:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Appeals court rejects Sam Bankman-Fried’s bid for new trial in FTX fraud case",
+      "link": "https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&utm_medium=rss",
+      "desc": "Sam Bankman-Fried lost his appeal to overturn his 25-year sentence after accusing the original court of not giving him a fair chance.",
+      "date": "2026-06-12T13:47:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -71,6 +143,16 @@
           "url": "https://www.coindesk.com/markets/2026/06/12/metaplanet-buys-siiibo-securities-to-accelerate-bitcoin-financial-ecosystem-plans"
         }
       ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Polish president vetoes crypto bill for third time ahead of MiCA deadline",
+      "link": "https://cointelegraph.com/news/polish-president-vetoes-crypto-bill-third-time-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Polish President Karol Nawrocki vetoed a bill to implement MiCA for the third time, just weeks before the end of the EU crypto framework's transitional period.",
+      "date": "2026-06-12T13:25:53.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -254,19 +336,9 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-12T07:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin traders eye rally to $75,000, Japan set to hike rate to 31-year high",
+      "title": "Live updates: Bitcoin holds $63,000 as SpaceX shares get ready to trade on Nasdaq",
       "link": "https://www.coindesk.com/tech/2026/06/12/live-updates-bitcoin-in-volatile-trading-above-usd63-000-doge-unchanged",
       "desc": "Crypto firmed across the board following the largest equity listing in history. The token most tied to Elon Musk traded right in line with the market.",
       "date": "2026-06-12T06:32:02.000Z",
@@ -534,16 +606,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘You sell what you can, not what you want’: Jack Mallers says bitcoin is pricing a global liquidity crisis",
-      "link": "https://www.theblock.co/post/404453/sell-what-you-can-not-what-you-want-jack-mallers-bitcoin-pricing-global-liquidity-crisis?utm_source=rss&utm_medium=rss",
-      "desc": "Strike CEO Jack Mallers says Bitcoin at $63,000 reflects a liquidity-starved world, and questions Strategy's perpetual stock capital dynamic.",
-      "date": "2026-06-11T16:46:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Banking rails are moving past the 'stablecoin winner' narrative: Sygnum",
@@ -580,16 +642,6 @@
       "link": "https://bitcoinmagazine.com/news/hungary-backs-away-from-bitcoin-laws",
       "desc": "Bitcoin Magazine Hungary Backs Away From Bitcoin and Crypto Criminalization in Regulatory U-Turn Hungary is reversing its restrictive crypto laws, moving to decriminalize Bitcoin and cryptocurrency trading and eliminating penalties that had driven major digital asset firms out of the country. This post Hungary Backs Away From Bitcoin and Crypto Criminalization in Regulatory U-Turn first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-11T16:16:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "MassPay taps Coinbase to expand stablecoin payouts",
-      "link": "https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stablecoin rails will cut costs and speed up settlement for businesses paying globally.",
-      "date": "2026-06-11T16:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -744,16 +796,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ondo Finance hires former Invesco ETF chief to build onchain investment products",
-      "link": "https://www.coindesk.com/business/2026/06/10/ondo-finance-hires-former-invesco-etf-chief-to-build-onchain-investment-products",
-      "desc": "John Hoffman will spearhead Ondo's expansion from tokenizing individual assets to full investment portfolios and strategies.",
-      "date": "2026-06-11T12:57:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Hungary to reverse crypto trading crackdown after EU scrutiny",
@@ -761,32 +803,6 @@
       "desc": "Hungary’s government said it will unwind crypto trading restrictions that required approved validation for conversions and exposed users and service providers to criminal liability.",
       "date": "2026-06-11T12:52:15.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "It's not SpaceX. Bitcoin ETF outflows may be an arbitrage story",
-      "link": "https://www.coindesk.com/markets/2026/06/11/bitcoin-etf-outflows-may-be-more-about-arbitrage-unwinds-than-spacex-fomo",
-      "desc": "While some analysts argue investors are selling bitcoin to free up capital for anticipated IPOs such as SpaceX and Anthropic, Sygnum's Fabian Dori says market data points elsewhere.",
-      "date": "2026-06-11T12:42:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Archax enables real-time interest payments on Hedera",
-      "link": "https://www.finextra.com/pressarticle/110114/archax-enables-real-time-interest-payments-on-hedera?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Archax, the UK/EU-regulated digital asset platform, today announced real-time streaming cash flows for tokenized securities on Hedera, the trusted public network for building fast, secure, and compliant decentralized applications.",
-      "date": "2026-06-11T12:42:00.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/archax-launches-real-time-yield-payments-for-tokenized-securities-on-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -900,6 +916,16 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Archax introduces real-time yield payments for tokenized securities on Hedera",
+      "link": "https://cointelegraph.com/news/archax-launches-real-time-yield-payments-for-tokenized-securities-on-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The UK-regulated digital asset platform said its new system allows interest payments to follow tokenized securities in real time, with payouts distributed continuously in USDC.",
+      "date": "2026-06-11T07:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Lava Network Signs Tokenization Pact for Planned 40,000-Unit Caribbean Project",
@@ -970,26 +996,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Is Getting Closer to the Bottom, But Demand Is Falling: CryptoQuant",
-      "link": "https://decrypt.co/370663/bitcoin-getting-closer-bottom-demand-falling-cryptoquant",
-      "desc": "Bitcoin's bear market might be nearing an end, analysts said, but individuals and institutions aren't lining up to buy the top crypto asset.",
-      "date": "2026-06-10T17:47:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Morgan Stanley’s Bitcoin Executive Says Education — Not Products — Is Wall Street’s Real Obstacle",
-      "link": "https://bitcoinmagazine.com/news/morgan-stanley-bitcoin-executive-education",
-      "desc": "Bitcoin Magazine Morgan Stanley’s Bitcoin Executive Says Education — Not Products — Is Wall Street’s Real Obstacle Morgan Stanley's Head of Digital Asset Strategy Amy Oldenburg says Bitcoin's biggest barrier to mainstream adoption is not product availability but investor and advisor education. This post Morgan Stanley’s Bitcoin Executive Says Education — Not Products — Is Wall Street’s Real Obstacle first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-10T17:46:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Attacker Mints 10 Billion TOP Tokens Through Governance Takeover, Drains $1.58M from Balancer Pool",
@@ -1016,26 +1022,6 @@
       "link": "https://thedefiant.io/news/blockchains/hyli-winds-down-zk-blockchain-project-zk-traction",
       "desc": "ZK blockchain project Hyli is shutting down after two years, with the team citing weak demand for zero-knowledge technology. The closure comes the same day Botanix wound down its Bitcoin Layer 2.",
       "date": "2026-06-10T16:31:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "DeFi's Near-Death Moment | Mike Silagadze on Ether.fi, Security, and What Comes Next",
-      "link": "https://thedefiant.io/podcasts-and-videos/podcast/defi-s-near-death-moment-or-mike-silagadze-on-ether-fi-security-and-what-comes-next",
-      "desc": "How close did DeFi come to a real systemic collapse? In this episode, Camila Russo sits down with Mike Silagadze, co-founder and CEO of Ether.fi, to break down the Kelp exploit, the DeFi United rescue effort, and why Mike believes the default path could have been far worse if nobody had stepped in.",
-      "date": "2026-06-10T14:43:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Humanity Protocol Traces $36M Hack to Single Malware-Infected Machine That Held Seven Keys",
-      "link": "https://thedefiant.io/news/hacks/humanity-protocol-post-mortem-malware-developer-machine-seven-keys",
-      "desc": "A forensic report from Humanity Protocol found a single malware-infected developer machine held backups of seven private keys, giving an attacker full control over both its Ethereum and BNB Smart Chain infrastructure.",
-      "date": "2026-06-10T13:45:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
