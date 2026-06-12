@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-12T20:46:58.153Z",
+  "generatedAt": "2026-06-12T21:35:15.282Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 258,
+  "filteredOut": 256,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "coindesk",
@@ -44,7 +44,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-12T20:46:57.612Z",
+      "date": "2026-06-12T21:35:14.820Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -54,17 +54,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-12T20:46:57.612Z",
+      "date": "2026-06-12T21:35:14.820Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
-      "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
-      "desc": "The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
-      "date": "2026-06-12T20:46:56.000Z",
+      "title": "'Peirce Out': A Decade of Dissent",
+      "link": "https://thedefiant.io/news/people/the-long-road-of-hester-peirce",
+      "desc": "She arrived at the SEC in 2018 as a Republican commissioner with light crypto baggage and left this week as the regulator whose quotes had narrated the industry's regulatory story. A retrospective on eight years of dissent.",
+      "date": "2026-06-12T21:26:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -81,10 +81,10 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Hester Peirce Bids Farewell to the SEC After Nearly 30 Years",
-      "link": "https://thedefiant.io/news/people/hester-peirce-farewell-remarks-sec-project-crypto",
-      "desc": "SEC Commissioner Hester Peirce delivered her farewell remarks Tuesday at the U.S. Chamber of Commerce Capital Markets Summit, closing a tenure defined by crypto-industry advocacy and dissent from the Gensler era.",
-      "date": "2026-06-12T19:24:46.000Z",
+      "title": "CFTC Sues New Mexico to Block State Gaming Laws From Reaching Federally Regulated Prediction Markets",
+      "link": "https://thedefiant.io/converge/regulation/cftc-sues-new-mexico-prediction-markets-jurisdiction",
+      "desc": "The federal derivatives regulator filed suit Thursday in federal court seeking to bar New Mexico from enforcing state gaming laws against CFTC-registered prediction-market exchanges, making New Mexico the eighth state to face federal litigation over the question of exclusive jurisdiction.",
+      "date": "2026-06-12T20:30:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -120,6 +120,11 @@
           "source": "THE DEFIANT",
           "sourceId": "defiant",
           "url": "https://thedefiant.io/news/infrastructure/blockworks-acquires-messari-crypto-data-consolidation"
+        },
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/blockworks-buys-rival-messari-at-fraction-of-2022-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "termBoost": 0
@@ -191,6 +196,16 @@
       "link": "https://decrypt.co/370908/americans-traded-34-billion-offshore-prediction-markets-study",
       "desc": "The study estimated Americans could end up wagering up to $133 billion annually on offshore prediction markets by 2030.",
       "date": "2026-06-12T16:44:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Hester Peirce Bids Farewell to the SEC After Nearly 30 Years",
+      "link": "https://thedefiant.io/news/people/hester-peirce-farewell-remarks-sec-project-crypto",
+      "desc": "SEC Commissioner Hester Peirce delivered her farewell remarks Tuesday at the U.S. Chamber of Commerce Capital Markets Summit, closing a tenure defined by crypto-industry advocacy and dissent from the Gensler era.",
+      "date": "2026-06-12T16:24:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -730,6 +745,16 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
+      "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
+      "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
+      "desc": "The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
+      "date": "2026-06-11T19:33:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
       "title": "LG Electronics Pilots On-Chain Ad Network Built on Arbitrum Layer 2",
       "link": "https://thedefiant.io/news/blockchains/lg-electronics-pilots-on-chain-ad-network-arbitrum-layer-2",
       "desc": "LG Electronics is building a blockchain-based advertising network on its own Arbitrum-derived Layer 2, with a pilot completed and a commercial launch targeted for later this year.",
@@ -974,16 +999,6 @@
       "link": "https://www.finextra.com/newsarticle/47902/satispay-targets-120-million-financial-raise?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Italian fintech unicorn Satispay is planning to raise up to €120 million, with around half covered by subscription commitments from existing investors including Greyhound, Addition and Lightrock.",
       "date": "2026-06-11T11:08:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Lava Network Signs Tokenization Pact for Planned 40,000-Unit Caribbean Project",
-      "link": "https://thedefiant.io/news/tokens/lava-network-signs-tokenization-pact-for-planned-40-000-unit-caribbean-project",
-      "desc": "The agreement with developer BHL Group is an early-stage memorandum of understanding, and the Alba Bay community is not slated to break ground until 2027",
-      "date": "2026-06-10T21:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
