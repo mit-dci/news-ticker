@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-12T17:47:21.272Z",
+  "generatedAt": "2026-06-12T18:41:53.224Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 257,
+  "filteredOut": 256,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "coindesk",
@@ -41,20 +41,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-12T17:47:19.582Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-12T18:41:53.211Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-12T17:47:19.581Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-12T18:41:53.211Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,7 +64,53 @@
       "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
       "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
       "desc": "The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
-      "date": "2026-06-12T17:47:19.000Z",
+      "date": "2026-06-12T18:41:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race",
+      "link": "https://bitcoinmagazine.com/news/blockworks-acquires-messari",
+      "desc": "Bitcoin Magazine Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race Blockworks' acquisition of Messari for just over $10 million combines two major crypto data platforms. This post Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-12T18:41:15.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/infrastructure/blockworks-acquires-messari-crypto-data-consolidation"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin's Hidden Yield: Why Options Are Taking Over Crypto | David Lawant, Anchorage Digital",
+      "link": "https://thedefiant.io/converge/podcast/bitcoin-s-hidden-yield-why-options-are-taking-over-crypto-or-david-lawant-anchorage-digital",
+      "desc": "Bitcoin does not have native yield. But that has not stopped institutions, treasury companies, miners, whales, ETFs, and crypto-native desks from looking for ways to generate returns on top of BTC. In this episode of Converge by The Defiant, David Lawant, Head of Research at Anchorage Digital,",
+      "date": "2026-06-12T18:34:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Former SEC Chair Gensler rejects CFTC claim of authority over prediction market sports betting",
+      "link": "https://www.theblock.co/post/404662/former-sec-chair-gensler-rejects-cftc-claim-authority-prediction-market-sports-betting?utm_source=rss&utm_medium=rss",
+      "desc": "Gary Gensler is calling malarkey the claim that the CFTC has jurisdiction over prediction markets, specifically sports bets.",
+      "date": "2026-06-12T17:49:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Coinbase Brings US-Regulated Gold and Silver Futures to 24/7 Trading, with Oil Next",
+      "link": "https://thedefiant.io/converge/cefi/coinbase-gold-silver-futures-24-7-trading-us-regulated-oil",
+      "desc": "Coinbase Derivatives is moving its CFTC-registered gold and silver futures to around-the-clock trading effective Friday evening, the first time these US-regulated contracts will not close for weekends, with oil futures to follow.",
+      "date": "2026-06-12T17:48:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -95,16 +141,6 @@
       "link": "https://decrypt.co/370937/iran-group-hacked-kash-patel-email-threatens-world-cup-hijacked-drones",
       "desc": "The Iran-linked hacking group said it accessed footage from FBI-controlled drones and warned World Cup teams that they could be targeted.",
       "date": "2026-06-12T17:12:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Blockworks Acquires Messari in Crypto Data Consolidation",
-      "link": "https://thedefiant.io/news/infrastructure/blockworks-acquires-messari-crypto-data-consolidation",
-      "desc": "Crypto data and media company Blockworks has acquired rival research platform Messari at a discount to its prior valuation, the Wall Street Journal and Bloomberg reported Friday. The deal joins two of the most prominent names in the crypto intelligence space.",
-      "date": "2026-06-12T16:50:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -217,6 +253,16 @@
           "url": "https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6"
         }
       ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Gensler Files Brief Arguing Sports Prediction Markets Fall Outside CFTC Swap Rules",
+      "link": "https://thedefiant.io/news/regulation/gensler-amicus-brief-sports-prediction-markets-cftc-swap-rules",
+      "desc": "Former CFTC and SEC chair Gary Gensler filed an amicus brief with the Sixth Circuit arguing that sports-event prediction markets are not swaps under Dodd-Frank, directly contradicting the CFTC's own position in the KalshiEX v. Ohio appeal.",
+      "date": "2026-06-12T14:30:00.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -692,16 +738,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "JPMorgan says debasement trade retreat has ‘accelerated’ for bitcoin",
-      "link": "https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold?utm_source=rss&utm_medium=rss",
-      "desc": "The retreat from the debasement trade has continued for gold and accelerated for bitcoin in recent weeks, JPMorgan analysts said.",
-      "date": "2026-06-11T17:54:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network",
@@ -822,16 +858,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. House bill would erect crypto-theft task force across law enforcement agencies",
-      "link": "https://www.coindesk.com/policy/2026/06/10/u-s-house-bill-would-erect-crypto-theft-task-force-across-law-enforcement-agencies",
-      "desc": "New legislation from a bipartisan duo would set up a multi-agency group under the U.S. attorney general to take a lead on cryptocurrency theft cases.",
-      "date": "2026-06-11T14:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Nakamoto Inc. (NAKA) Strengthens Balance With 600 Bitcoin Sale, Refinancing, and Buyback Authorization",
@@ -878,16 +904,6 @@
       "link": "https://cointelegraph.com/news/hungary-decriminalize-crypto-trading-prison-terms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Hungary’s government said it will unwind crypto trading restrictions that required approved validation for conversions and exposed users and service providers to criminal liability.",
       "date": "2026-06-11T12:52:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Public Companies Added 43,557 BTC in May as SpaceX Enters Bitcoin Treasury Race",
-      "link": "https://bitcoinmagazine.com/news/public-companies-added-43557-bitcoin",
-      "desc": "Bitcoin Magazine Public Companies Added 43,557 BTC in May as SpaceX Enters Bitcoin Treasury Race Public companies added a net 43,557 BTC worth $3.2 billion in May, led by Strategy’s continued accumulation. This post Public Companies Added 43,557 BTC in May as SpaceX Enters Bitcoin Treasury Race first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-11T12:37:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -988,16 +1004,6 @@
       "link": "https://thedefiant.io/converge/regulation/doj-opens-debanking-probe-jpmorgan-bank-of-america-wells-fargo",
       "desc": "Federal prosecutors have subpoenaed JPMorgan Chase, Bank of America and Wells Fargo, examining whether banks unlawfully terminated customer accounts for political reasons. The probe directly validates the crypto industry's Operation Chokepoint 2.0 grievances.",
       "date": "2026-06-10T19:45:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "On-Chain Tracking Revives Allegations That Hoskinson Sold 1.5B ADA in the 2021 Rally",
-      "link": "https://thedefiant.io/news/people/on-chain-tracking-revives-allegations-that-hoskinson-sold-1-5b-ada-in-the-2021-rally",
-      "desc": "An NFT creator published a thread claiming to trace large ADA flows to IOG-linked stake pool pledges from the 2021 bull market. Cardano's founder has made no public statement in response to the new analysis. ADA is down 42% over the past 30 days.",
-      "date": "2026-06-10T18:17:26.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
