@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T10:32:28.167Z",
+  "generatedAt": "2026-06-12T12:06:09.483Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 250,
+  "filteredOut": 248,
   "errors": [],
   "dupsMerged": 2,
   "items": [
@@ -18,12 +18,12 @@
       "termBoost": 3
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-12T10:32:28.154Z",
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #409",
+      "link": "https://bitcoinops.org/en/newsletters/2026/06/12/",
+      "desc": "This week’s newsletter describes a draft BIP to replace the testnet4 test network with a successor. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-06-12T00:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-12T10:32:28.154Z",
+      "date": "2026-06-12T12:06:09.472Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-12T12:06:09.471Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +53,67 @@
       "title": "Fidelity’s Dollar Stablecoin Taps Curve and Uniswap as Its DeFi Liquidity Layer",
       "link": "https://thedefiant.io/converge/defi/fidelity-digital-dollar-curve-uniswap-defi-liquidity",
       "desc": "The Fidelity Digital Dollar stablecoin deployed Curve Finance Stableswap LP positions and Uniswap LP positions simultaneously in a single Ethereum block Thursday evening, with Curve founder Michael Egorov noting the same-block execution as evidence of DeFi operational expertise.",
-      "date": "2026-06-12T10:32:26.000Z",
+      "date": "2026-06-12T12:06:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "For crypto, SpaceX's stock market debut could go either way",
+      "link": "https://www.coindesk.com/daybook-us/2026/06/12/for-crypto-spacex-s-stock-market-debut-could-go-either-way",
+      "desc": "Your day-ahead look for June 12, 2026",
+      "date": "2026-06-12T11:23:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Monero prices rocket to $438 amid $120 million onchain laundering maze",
+      "link": "https://www.coindesk.com/markets/2026/06/12/monero-spiked-to-usd430-as-usd120-million-moved-through-it-then-tether-froze-usd72-million",
+      "desc": "Onchain sleuth ZachXBT traced remaining funds across exchanges, instant swap services and other blockchains. Tether later froze $72 million in USDT linked to the activity.",
+      "date": "2026-06-12T11:10:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Gary Gensler Backs States in Fight Over Prediction Market Regulation",
+      "link": "https://decrypt.co/370875/gary-gensler-backs-states-in-fight-over-prediction-market-regulation",
+      "desc": "The former SEC and CFTC chair says Congress \"categorically\" did not intend to put sports betting under exclusive federal oversight.",
+      "date": "2026-06-12T11:02:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Barclays to acquire GoHenry, expand youth financial education offering in UK",
+      "link": "https://www.finextra.com/newsarticle/47909/barclays-to-acquire-gohenry-expand-youth-financial-education-offering-in-uk?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Barclays has agreed to acquire UK-based fintech GoHenry from Acorns as demand for early financial education and digital-first banking experiences continues to grow.",
+      "date": "2026-06-12T11:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin miner 'capitulation' comes as trader sees later 2026 bear-market bottom",
+      "link": "https://cointelegraph.com/markets/bitcoin-miner-capitulation-comes-as-trader-sees-later-2026-bear-market-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin miner metic sparked talk of \"capitulation\" as profit margins stayed under 5%, but the BTC price bear-market bottom remained absent.",
+      "date": "2026-06-12T10:46:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "While bitcoin holds near $63,000, some data points to pain ahead for bulls",
+      "link": "https://www.coindesk.com/markets/2026/06/12/while-bitcoin-holds-near-usd63-000-some-data-points-to-pain-ahead-for-bulls",
+      "desc": "Onchain data shows the bitcoin market price is only just above its realized price and demand is weakening, especially from ETFs.",
+      "date": "2026-06-12T10:41:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -234,16 +304,6 @@
       "link": "https://www.finextra.com/newsarticle/47905/digital-asset-raises-355m-to-make-canton-the-onchain-infrastructure-for-capital-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "A host of financial services giants, including BNP Paribas, Coinbase and HSBC, have joined a $355 million funding round for Digital Asset, the firm behind the Canton Network public, permissionless blockchain purpose-built for institutional finance.",
       "date": "2026-06-12T00:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "FDIC Stablecoin Rulemaking Shows Differences on Fees and Deposits",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/fdic-stablecoin-rulemaking-highlights-fight-over-fees-deposits-and-custody/",
-      "desc": "Regulating new technology has never been as easy as it is necessary. And U.S. federal banking agencies gave stablecoin regulation their strongest shot during the recent rulemaking period for the federal GENIUS Act’s implementation. On Tuesday (June 9), the comment period for the Federal Deposit Insurance Corp.’s (FDIC) proposed GENIUS Act framework closed. The agency’s proposed GENIUS […] The post FDIC Stablecoin Rulemaking Shows Differences on Fees and Deposits appeared first on PYMNTS.com.",
-      "date": "2026-06-11T23:16:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -750,16 +810,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Hungary to scrap Orban-era crypto rules that carried jail terms: reports",
-      "link": "https://www.theblock.co/post/404417/hungary-reverses-orban-era-crypto-rules?utm_source=rss&utm_medium=rss",
-      "desc": "Hungary will decriminalize crypto trading, reversing Orban-era rules that carried jail terms and led platforms like Revolut to suspend services.",
-      "date": "2026-06-11T12:19:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Japan crypto bill advances with ETF, tax reform path: Report",
@@ -806,16 +856,6 @@
       "link": "https://www.finextra.com/newsarticle/47902/satispay-targets-120-million-financial-raise?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Italian fintech unicorn Satispay is planning to raise up to €120 million, with around half covered by subscription commitments from existing investors including Greyhound, Addition and Lightrock.",
       "date": "2026-06-11T11:08:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin advances, holds above key technical level that ether, solana can't break through",
-      "link": "https://www.coindesk.com/markets/2026/06/11/bitcoin-advances-holds-above-key-technical-level-that-ether-solana-can-t-break-through",
-      "desc": "BTC's dominance rate has risen from last week's low, a sign of renewed capital flowing into the largest cryptocurrency as major altcoins struggle.",
-      "date": "2026-06-11T10:45:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -876,16 +916,6 @@
       "link": "https://cointelegraph.com/news/delaware-new-jersey-advance-bills-banning-crypto-atms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Lawmakers in Delaware and New Jersey have advanced laws that would completely ban crypto ATMs, a measure that has only been enacted in three US states.",
       "date": "2026-06-11T03:18:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "CFTC proposes framework favoring sports event contracts over gambling",
-      "link": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The proposed rules would preserve election markets and allow many sports-based prediction contracts while limiting bets that could encourage manipulation.",
-      "date": "2026-06-10T22:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1026,16 +1056,6 @@
       "link": "https://decrypt.co/370656/cftc-rules-prediction-markets-ban-wagers-ouster-us-enemies",
       "desc": "Proposed CFTC rules would forbid markets where an outcome could be impacted by war or assassination, even when conflict isn’t mentioned.",
       "date": "2026-06-10T16:06:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High",
-      "link": "https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high",
-      "desc": "The reading likely supports restrictive monetary policy.",
-      "date": "2026-06-10T14:46:07.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
