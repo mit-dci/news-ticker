@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-06-13T17:31:45.902Z",
+  "generatedAt": "2026-06-13T18:31:31.885Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 275,
+  "filteredOut": 276,
   "errors": [],
   "dupsMerged": 4,
   "items": [
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
+      "link": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&utm_medium=rss",
+      "desc": "The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins.",
+      "date": "2026-06-13T18:21:35.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -34,7 +45,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-13T17:31:45.710Z",
+      "date": "2026-06-13T18:31:30.772Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,7 +55,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-13T17:31:45.710Z",
+      "date": "2026-06-13T18:31:30.772Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
+      "link": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
+      "desc": "Anthropic’s new Claude Fable 5 puts powerful cyber tools behind safety filters. DeFi, already hit by more than $840 million in hacks this year, is one of the industries with the most to lose if the filters fail.",
+      "date": "2026-06-13T18:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -572,16 +593,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "While bitcoin holds near $63,000, some data points to pain ahead for bulls",
-      "link": "https://www.coindesk.com/markets/2026/06/12/while-bitcoin-holds-near-usd63-000-some-data-points-to-pain-ahead-for-bulls",
-      "desc": "Onchain data shows the bitcoin market price is only just above its realized price and demand is weakening, especially from ETFs.",
-      "date": "2026-06-12T10:41:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "There is a ‘fundamental clash’ between bitcoin and institutionalization, says BTC circular economy project founder",
@@ -722,16 +733,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Man who spent 1,500 BTC on graphics card now helps insure bitcoin holders",
-      "link": "https://www.theblock.co/post/404438/man-who-spent-1500-btc-graphics-card-now-helps-insure-bitcoin-holders?utm_source=rss&utm_medium=rss",
-      "desc": "Bitsurance, insures clients' bitcoin against \"physical attacks\" like fire, water, robbery and the \"$5 Wrench Attack.\"",
-      "date": "2026-06-11T21:01:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bukele’s Reform Makes El Salvador a Top Tax Haven: 0% on Foreign Income and Bitcoin Gains with Minimal Presence",
@@ -808,16 +809,6 @@
       "link": "https://thedefiant.io/news/cefi/coinbase-usdc-lending-vaults-morpho-steakhouse-ethena-risk-tier",
       "desc": "Coinbase has launched two onchain USDC lending vaults built on Morpho and curated by Steakhouse Financial: a conservative Prime tier backed by BTC and ETH collateral, and a Higher Yield tier drawing on Ethena-powered assets.",
       "date": "2026-06-11T19:10:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "U.S. Charges Two Men for $389 Million Bitcoin and Crypto Money Laundering Scheme Tied to Dark Web",
-      "link": "https://bitcoinmagazine.com/news/u-s-charges-two-men-389-million-bitcoin",
-      "desc": "Bitcoin Magazine U.S. Charges Two Men for $389 Million Bitcoin and Crypto Money Laundering Scheme Tied to Dark Web Federal prosecutors charged two Eastern European nationals with operating AudiA6, a cryptocurrency mixing service and cybercrime platform that allegedly laundered nearly $400 million in bitcoin. This post U.S. Charges Two Men for $389 Million Bitcoin and Crypto Money Laundering Scheme Tied to Dark Web first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-11T17:55:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
