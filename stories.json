@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-13T21:29:40.338Z",
+  "generatedAt": "2026-06-13T21:55:32.154Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 286,
+  "filteredOut": 288,
   "errors": [],
   "dupsMerged": 4,
   "items": [
@@ -45,7 +45,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-13T21:29:39.670Z",
+      "date": "2026-06-13T21:55:32.144Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -55,7 +55,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-13T21:29:39.670Z",
+      "date": "2026-06-13T21:55:32.144Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -148,17 +148,6 @@
       "date": "2026-06-13T11:52:41.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says",
-      "link": "https://decrypt.co/370851/bitcoin-quantum-threat-now-coinbase",
-      "desc": "Coinbase's quantum advisory council says crypto developers should begin post-quantum migration work now, warning that unresolved questions around abandoned and vulnerable coins could become one of Bitcoin's biggest battles.",
-      "date": "2026-06-11T21:50:06.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "cointelegraph",
@@ -699,16 +688,6 @@
       "link": "https://www.finextra.com/newsarticle/47905/digital-asset-raises-355m-to-make-canton-the-onchain-infrastructure-for-capital-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "A host of financial services giants, including BNP Paribas, Coinbase and HSBC, have joined a $355 million funding round for Digital Asset, the firm behind the Canton Network public, permissionless blockchain purpose-built for institutional finance.",
       "date": "2026-06-12T00:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Solana Foundation Launches Frontier Traders, an Institutional Program for $500M+ Volume Firms",
-      "link": "https://thedefiant.io/news/blockchains/solana-foundation-frontier-traders-institutional-program-500m-volume",
-      "desc": "The Solana Foundation formalized Solana's institutional market-structure tier with Frontier Traders, requiring $500M in trailing 30-day DEX volume for VIP access, with the debut campaign running on SpaceX tokenized equity.",
-      "date": "2026-06-11T21:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
