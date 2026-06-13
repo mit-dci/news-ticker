@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-13T13:35:14.944Z",
+  "generatedAt": "2026-06-13T14:45:33.090Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 265,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "coindesk",
@@ -34,7 +34,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-13T13:35:14.642Z",
+      "date": "2026-06-13T14:45:32.987Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,7 +44,27 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-13T13:35:14.642Z",
+      "date": "2026-06-13T14:45:32.987Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Perpetual futures could become crypto's next ETF moment",
+      "link": "https://www.coindesk.com/business/2026/06/13/perpetual-futures-could-become-crypto-s-next-etf-moment",
+      "desc": "John Palmer, head of derivatives at Kraken, said he expects sophisticated traders to lead adoption of newly approved U.S. perpetual futures, with broader institutional participation likely to follow over time.",
+      "date": "2026-06-13T14:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
+      "link": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Strategy's recent Bitcoin sale appeared to clash with Saylor's \"never sell\" mantra, but he says the move reflects how the company's digital credit business works.",
+      "date": "2026-06-13T13:58:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -94,7 +114,7 @@
       "sourceName": "COINDESK",
       "title": "Bitcoin steadies above $63,000 as its worst week in months got a late macro rescue",
       "link": "https://www.coindesk.com/markets/2026/06/13/bitcoin-steady-above-usd63-000-as-its-worst-week-in-months-got-a-late-macro-rescue",
-      "desc": "A tiny Strategy sale raised a bigger question about Saylor’s never-sell stance, while easing Iran fears and a strong SpaceX debut helped risk assets recover.",
+      "desc": "A tiny Strategy sale raised a bigger question about Saylor’s never-sell stance, while easing Iran fears, and a strong SpaceX debut helped risk assets recover.",
       "date": "2026-06-13T05:46:38.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -368,13 +388,7 @@
       "link": "https://www.finextra.com/pressarticle/110124/masspay-and-coinbase-team-on-stablecoin-powered-payouts?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "MassPay Holdings LLC, a global payout orchestration platform, and Coinbase, the world’s leading regulated cryptocurrency exchange, announced a strategic partnership to bring stablecoin-powered cross-border payout capabilities to businesses worldwide.",
       "date": "2026-06-12T14:10:00.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -600,16 +614,6 @@
       "link": "https://www.coindesk.com/markets/2026/06/12/blackrock-files-to-list-its-bitcoin-income-etf-with-expected-debut-next-week",
       "desc": "An 8-A share registration filing, in this case for Nasdaq, is usually one of the last steps before an ETF goes live.",
       "date": "2026-06-12T07:07:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Former SEC, CFTC Chair Gary Gensler argues that prediction markets don't overrule state regulations",
-      "link": "https://www.coindesk.com/policy/2026/06/12/former-sec-cftc-chair-gary-gensler-argues-that-prediction-markets-don-t-overrule-state-regulations",
-      "desc": "The former regulator joined a number of interest groups in arguing that prediction markets are overstepping their bounds by offering sports-related contracts.",
-      "date": "2026-06-12T06:27:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
