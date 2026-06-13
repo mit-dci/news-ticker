@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-13T12:38:45.136Z",
+  "generatedAt": "2026-06-13T13:35:14.944Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 264,
+  "filteredOut": 265,
   "errors": [],
   "dupsMerged": 6,
   "items": [
@@ -34,7 +34,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-13T12:38:44.497Z",
+      "date": "2026-06-13T13:35:14.642Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,7 +44,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-13T12:38:44.497Z",
+      "date": "2026-06-13T13:35:14.642Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto should adopt the best of centralization, says LMAX CEO",
+      "link": "https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
+      "desc": "As digital assets mature the industry should borrow more from traditional market infrastructure, especially credit, clearing and collateral systems, David Mercer argues.",
+      "date": "2026-06-13T13:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -624,16 +634,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The company that makes your TV is taking ads onchain. Arbitrum helped",
-      "link": "https://www.coindesk.com/markets/2026/06/12/the-company-that-makes-your-tv-is-taking-ads-onchain-arbitrum-helped",
-      "desc": "LG Electronics has built a blockchain-based advertising platform with the help of Arbitrum.",
-      "date": "2026-06-12T05:35:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "ft",
       "sourceName": "FINANCIAL TIMES",
       "title": "Is Tether the Coppernose of our time?",
@@ -910,16 +910,6 @@
       "link": "https://thedefiant.io/news/cefi/brian-armstrong-says-coinbase-processes-usd1t-in-stablecoin-payments-annually",
       "desc": "Coinbase CEO Brian Armstrong disclosed three platform-scale metrics on Thursday: approximately $1 trillion in annual stablecoin movement, $20 billion in USDC held on platform, and more than 160 million autonomous transactions via the x402 agentic payments protocol in the last year.",
       "date": "2026-06-11T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Citi Rolls Out Tokenized Private-Company Shares for Wealth and Institutional Clients",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/citi-rolls-out-tokenized-private-company-shares-wealth-institutional-clients",
-      "desc": "Citigroup is making tokenized interests in private companies available to wealth-management and institutional clients on SIX Digital Exchange, the Wall Street Journal reported. The bank has already completed its first transaction and is in talks with additional private firms.",
-      "date": "2026-06-11T13:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
