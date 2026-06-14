@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-14T15:13:43.965Z",
+  "generatedAt": "2026-06-14T16:02:37.732Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 314,
+  "filteredOut": 320,
   "errors": [],
   "dupsMerged": 1,
   "items": [
@@ -42,20 +42,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-14T15:13:43.408Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-14T16:02:37.182Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-14T15:13:43.408Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-14T16:02:37.181Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -118,17 +118,6 @@
       "date": "2026-06-14T05:32:00.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
-      "link": "https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up",
-      "desc": "Pruden argues that to defend against a quantum computer capable of cryptographically relevant operations, we need post-quantum cryptography and regulatory coordination that the industry has been deferring for years.",
-      "date": "2026-06-12T15:31:00.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "coindesk",
@@ -393,56 +382,6 @@
       "link": "https://www.coindesk.com/markets/2026/06/12/vaneck-bets-bnb-s-real-world-usage-can-stand-out-in-a-crowded-crypto-etf-market",
       "desc": "VanEck says BNB’s user activity and revenue generation make it a stronger long-term crypto investment case than many blockchain projects still selling a vision.",
       "date": "2026-06-12T16:05:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bloomberg Analyst: Most Bitcoin ETF Investors Have Stayed Put Despite Outflows",
-      "link": "https://www.coindesk.com/markets/2026/06/08/bloomberg-analyst-most-bitcoin-etf-investors-have-stayed-put-despite-outflows",
-      "desc": "Bitcoin ETF investors have pulled billions this year, but the broader crypto ETF market remains more resilient than recent headlines suggest.",
-      "date": "2026-06-12T15:49:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Q2 2026 Sets All-Time High for DeFi Hack Count With ~70 Exploits, $746M Stolen",
-      "link": "https://thedefiant.io/news/hacks/q2-2026-most-hacked-quarter-defi-70-exploits-746m",
-      "desc": "DeFi logged approximately 70 separate exploits in Q2 2026, roughly doubling the previous quarterly record, even as the $746 million dollar total remains a fraction of historical single-event peaks.",
-      "date": "2026-06-12T15:45:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "SpaceX Officially Joins Public Bitcoin Leaderboard as 8th Largest Holder With 18,712 BTC",
-      "link": "https://bitcoinmagazine.com/news/spacex-officially-join-bitcoin-leaderboard",
-      "desc": "Bitcoin Magazine SpaceX Officially Joins Public Bitcoin Leaderboard as 8th Largest Holder With 18,712 BTC Elon Musk's SpaceX is set to begin trading on the Nasdaq under the ticker SPCX on Friday, officially joining the ranks of public Bitcoin treasury companies with 18,712 BTC worth roughly $1.29 billion, making it the eighth-largest corporate holder of bitcoin. This post SpaceX Officially Joins Public Bitcoin Leaderboard as 8th Largest Holder With 18,712 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-12T15:45:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Second Circuit Affirms SBF’s Fraud Conviction and 25-Year Sentence",
-      "link": "https://thedefiant.io/news/regulation/second-circuit-affirms-sbf-fraud-conviction-25-year-sentence",
-      "desc": "A three-judge Second Circuit panel affirmed Sam Bankman-Fried’s conviction on seven counts of fraud and conspiracy, along with his 25-year prison sentence, closing his primary legal path to overturning the 2023 verdict.",
-      "date": "2026-06-12T15:41:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "'Winter Is Over': Standard Chartered Calls Crypto Bottom as Bitcoin Recovers From $60K Fall",
-      "link": "https://decrypt.co/370907/winter-over-standard-chartered-calls-crypto-bottom-bitcoin-recovers-60k-fall",
-      "desc": "Standard Chartered analyst Geoff Kendrick suggests the crypto market has hit its lowest point following Bitcoin's recent drop below $60,000.",
-      "date": "2026-06-12T15:16:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
