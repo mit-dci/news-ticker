@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-14T05:08:46.325Z",
+  "generatedAt": "2026-06-14T07:03:51.625Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 294,
+  "filteredOut": 296,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 3,
   "items": [
     {
       "source": "block",
@@ -34,7 +34,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-14T05:08:45.318Z",
+      "date": "2026-06-14T07:03:51.165Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,7 +44,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-14T05:08:45.318Z",
+      "date": "2026-06-14T07:03:51.165Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-14T05:32:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -231,11 +241,6 @@
           "source": "THE DEFIANT",
           "sourceId": "defiant",
           "url": "https://thedefiant.io/news/infrastructure/blockworks-acquires-messari-crypto-data-consolidation"
-        },
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/blockworks-buys-rival-messari-at-fraction-of-2022-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "termBoost": 0
@@ -608,26 +613,6 @@
       "link": "https://cointelegraph.com/news/international-sting-shuts-down-390m-crypto-money-laundering-ring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Eleven countries were involved in the joint operation that ended the AudiA6 crypto laundering ring and Dark2Web marketplace.",
       "date": "2026-06-12T07:12:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "The Material Holding America Together Is Disappearing. AetherStrike Tokenized It.",
-      "link": "https://thedefiant.io/education/research-and-opinion/the-material-holding-america-together-is-disappearing-aetherstrike-tokenized-it",
-      "desc": "A regulated security backed 1:1 by independently certified bitumen reserves — issued under ERC-3643, settled on Ethereum, and offered to accredited investors through a dedicated SPV. The thesis: a structural supply shock in U.S. asphalt binder, met with a tokenization framework purpose-built for",
-      "date": "2026-06-12T05:55:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "BlackRock files 8-A for yield-bearing bitcoin ETF; analyst expects launch next week",
-      "link": "https://www.theblock.co/post/404530/blackrock-8a-yield-bearing-bitcoin-etf?utm_source=rss&utm_medium=rss",
-      "desc": "Bloomberg Analyst Eric Balchunas said the filing signals an imminent launch, adding that he expects it to start trading next week.",
-      "date": "2026-06-12T05:39:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
