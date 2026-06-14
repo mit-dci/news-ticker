@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-06-14T13:06:51.541Z",
+  "generatedAt": "2026-06-14T14:15:43.208Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 308,
+  "filteredOut": 312,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 2,
   "items": [
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
+      "link": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution.",
+      "date": "2026-06-14T13:49:48.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "block",
       "sourceName": "THE BLOCK",
@@ -34,7 +45,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-14T13:06:51.412Z",
+      "date": "2026-06-14T14:15:42.677Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,7 +55,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-14T13:06:51.412Z",
+      "date": "2026-06-14T14:15:42.677Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
+      "link": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
+      "desc": "Former SEC lawyers say that using its power to grant tokenization \"innovation\" efforts an exemption from securities law isn't as strong as a full-fledged rule.",
+      "date": "2026-06-14T14:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -434,66 +455,11 @@
       "date": "2026-06-12T14:45:21.000Z",
       "alsoAt": [
         {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/06/12/ftx-s-sam-bankman-fried-loses-appeal-of-criminal-conviction-on-fraud-conspiracy-charges"
-        },
-        {
           "source": "FINANCIAL TIMES",
           "sourceId": "ft",
           "url": "https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "MassPay and Coinbase team on stablecoin-powered payouts",
-      "link": "https://www.finextra.com/pressarticle/110124/masspay-and-coinbase-team-on-stablecoin-powered-payouts?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "MassPay Holdings LLC, a global payout orchestration platform, and Coinbase, the world’s leading regulated cryptocurrency exchange, announced a strategic partnership to bring stablecoin-powered cross-border payout capabilities to businesses worldwide.",
-      "date": "2026-06-12T14:10:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP sentiment falls to 8-month low, and that has been a buy signal before",
-      "link": "https://www.coindesk.com/markets/2026/06/12/xrp-sentiment-falls-to-an-eight-month-low-and-that-has-been-a-buy-signal-before",
-      "desc": "Santiment's weighted sentiment gauge for XRP just hit its weakest reading since October 2025. The firm notes the token's strongest rebounds have tended to start when the crowd was this checked out.",
-      "date": "2026-06-12T14:08:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Appeals court rejects Sam Bankman-Fried’s bid for new trial in FTX fraud case",
-      "link": "https://www.theblock.co/post/404637/appeals-court-rejects-sam-bankman-frieds-bid-for-new-trial-in-ftx-fraud-case?utm_source=rss&utm_medium=rss",
-      "desc": "Sam Bankman-Fried lost his appeal to overturn his 25-year sentence after accusing the original court of not giving him a fair chance.",
-      "date": "2026-06-12T13:47:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Metaplanet Acquires Siiibo Securities in Push to Build Bitcoin Financial Ecosystem",
-      "link": "https://bitcoinmagazine.com/news/metaplanet-acquires-siiibo-securities",
-      "desc": "Bitcoin Magazine Metaplanet Acquires Siiibo Securities in Push to Build Bitcoin Financial Ecosystem Metaplanet is acquiring Siiibo Securities for 2.1 billion yen ($13.1 million), giving Japan's largest corporate Bitcoin holder a securities license and distribution platform to launch Bitcoin-linked investment products. This post Metaplanet Acquires Siiibo Securities in Push to Build Bitcoin Financial Ecosystem first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-12T13:32:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Polish president vetoes crypto bill for third time ahead of MiCA deadline",
-      "link": "https://cointelegraph.com/news/polish-president-vetoes-crypto-bill-third-time-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Polish President Karol Nawrocki vetoed a bill to implement MiCA for the third time, just weeks before the end of the EU crypto framework's transitional period.",
-      "date": "2026-06-12T13:25:53.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
