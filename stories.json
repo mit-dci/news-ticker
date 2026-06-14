@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-14T17:36:53.134Z",
+  "generatedAt": "2026-06-14T18:31:45.754Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 327,
+  "filteredOut": 328,
   "errors": [],
   "dupsMerged": 0,
   "items": [
@@ -29,23 +29,12 @@
       "termBoost": 3
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
-      "link": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
-      "desc": "A Coinbase-convened panel says Bitcoin should start preparing for quantum attacks now, but declines to take a position on whether millions of vulnerable coins, including many linked to Satoshi Nakamoto, should eventually be frozen.",
-      "date": "2026-06-13T06:07:00.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-14T17:36:52.686Z",
+      "date": "2026-06-14T18:31:45.514Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -55,9 +44,30 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-14T17:36:52.686Z",
+      "date": "2026-06-14T18:31:45.514Z",
       "alsoAt": [],
       "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Summer of crypto (regs): State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto",
+      "desc": "Lawmakers are debating taxes, the CFTC put out a prediction market proposal and court cases are heating up.",
+      "date": "2026-06-14T18:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
+      "link": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
+      "desc": "A Coinbase-convened panel says Bitcoin should start preparing for quantum attacks now, but declines to take a position on whether millions of vulnerable coins, including many linked to Satoshi Nakamoto, should eventually be frozen.",
+      "date": "2026-06-13T06:07:00.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
     },
     {
       "source": "coindesk",
@@ -296,26 +306,6 @@
       "link": "https://thedefiant.io/converge/podcast/bitcoin-s-hidden-yield-why-options-are-taking-over-crypto-or-david-lawant-anchorage-digital",
       "desc": "Bitcoin does not have native yield. But that has not stopped institutions, treasury companies, miners, whales, ETFs, and crypto-native desks from looking for ways to generate returns on top of BTC. In this episode of Converge by The Defiant, David Lawant, Head of Research at Anchorage Digital,",
       "date": "2026-06-12T18:34:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Former SEC Chair Gensler rejects CFTC claim of authority over prediction market sports betting",
-      "link": "https://www.theblock.co/post/404662/former-sec-chair-gensler-rejects-cftc-claim-authority-prediction-market-sports-betting?utm_source=rss&utm_medium=rss",
-      "desc": "Gary Gensler is calling malarkey the claim that the CFTC has jurisdiction over prediction markets, specifically sports bets.",
-      "date": "2026-06-12T17:49:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Coinbase Brings US-Regulated Gold and Silver Futures to 24/7 Trading, with Oil Next",
-      "link": "https://thedefiant.io/converge/cefi/coinbase-gold-silver-futures-24-7-trading-us-regulated-oil",
-      "desc": "Coinbase Derivatives is moving its CFTC-registered gold and silver futures to around-the-clock trading effective Friday evening, the first time these US-regulated contracts will not close for weekends, with oil futures to follow.",
-      "date": "2026-06-12T17:48:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
