@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-14T03:11:44.004Z",
+  "generatedAt": "2026-06-14T05:08:46.325Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 291,
+  "filteredOut": 294,
   "errors": [],
   "dupsMerged": 4,
   "items": [
@@ -29,23 +29,12 @@
       "termBoost": 3
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
-      "link": "https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up",
-      "desc": "Pruden argues that to defend against a quantum computer capable of cryptographically relevant operations, we need post-quantum cryptography and regulatory coordination that the industry has been deferring for years.",
-      "date": "2026-06-12T15:31:00.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-14T03:11:43.996Z",
+      "date": "2026-06-14T05:08:45.318Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -55,9 +44,20 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-14T03:11:43.996Z",
+      "date": "2026-06-14T05:08:45.318Z",
       "alsoAt": [],
       "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The U.S. government is betting $2 Billion on quantum computing, and the defense side can't keep up",
+      "link": "https://www.coindesk.com/opinion/2026/06/12/the-u-s-government-is-betting-usd2-billion-on-quantum-computing-and-the-defense-side-can-t-keep-up",
+      "desc": "Pruden argues that to defend against a quantum computer capable of cryptographically relevant operations, we need post-quantum cryptography and regulatory coordination that the industry has been deferring for years.",
+      "date": "2026-06-12T15:31:00.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
     },
     {
       "source": "coindesk",
@@ -146,16 +146,6 @@
       "link": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Morpho’s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.",
       "date": "2026-06-13T11:52:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-13T05:47:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -638,26 +628,6 @@
       "link": "https://www.theblock.co/post/404530/blackrock-8a-yield-bearing-bitcoin-etf?utm_source=rss&utm_medium=rss",
       "desc": "Bloomberg Analyst Eric Balchunas said the filing signals an imminent launch, adding that he expects it to start trading next week.",
       "date": "2026-06-12T05:39:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Is Tether the Coppernose of our time?",
-      "link": "https://www.ft.com/content/bcdeac73-5855-4d8b-b512-5ba65a2e01ad",
-      "desc": "USDT vs USDC",
-      "date": "2026-06-12T05:00:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "LG, Arbitrum launch blockchain-based bid in $679B ad market",
-      "link": "https://cointelegraph.com/news/lg-arbitrum-launch-blockchain-based-bid-for-679b-ad-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "LG is building a blockchain focused on buying and selling ads, joining a wave of companies launching their own blockchains in recent years.",
-      "date": "2026-06-12T04:32:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
