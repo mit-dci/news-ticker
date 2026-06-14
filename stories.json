@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-14T20:30:45.003Z",
+  "generatedAt": "2026-06-14T21:30:05.348Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 330,
+  "filteredOut": 332,
   "errors": [],
   "dupsMerged": 0,
   "items": [
@@ -31,20 +31,30 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-14T20:30:44.648Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-14T21:30:04.847Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-14T20:30:44.648Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-14T21:30:04.846Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "China Takes on Swift With New Cross-Border Payment System",
+      "link": "https://www.pymnts.com/news/cross-border-commerce/cross-border-payments/2026/china-takes-on-swift-with-new-cross-border-payment-system/",
+      "desc": "China is reportedly preparing the commercial launch of a digital currency-focused cross-border payment program. The new platform, dubbed “mBridge,” is being backed by the central banks of China, Hong Kong, Saudi Arabia, Thailand and the United Arab Emirates, the Financial Times (FT) reported Saturday (June 13), citing sources familiar with the matter. While it’s […] The post China Takes on Swift With New Cross-Border Payment System appeared first on PYMNTS.com.",
+      "date": "2026-06-14T21:29:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -136,16 +146,6 @@
       "link": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "A fake Bithumb email used in the $36 million Humanity Protocol hack points to the involvement of North Korean threat actors, according to Quantstamp.",
       "date": "2026-06-14T11:07:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-14T05:32:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -266,26 +266,6 @@
       "link": "https://thedefiant.io/converge/regulation/cftc-staff-dcm-convert-perpetual-style-digital-commodity-futures-true-perpetuals",
       "desc": "CFTC staff issued release 9252-26 on Friday, giving designated contract markets a no-action path to convert existing perpetual-style digital commodity futures into true perpetuals, advancing the agency's buildout of a regulated US crypto derivatives market.",
       "date": "2026-06-12T22:39:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "'Peirce Out': A Decade of Dissent",
-      "link": "https://thedefiant.io/news/people/the-long-road-of-hester-peirce",
-      "desc": "She arrived at the SEC in 2018 as a Republican commissioner with light crypto baggage and left this week as the regulator whose quotes had narrated the industry's regulatory story. A retrospective on eight years of dissent.",
-      "date": "2026-06-12T21:26:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets",
-      "link": "https://www.theblock.co/post/404674/cftc-sues-new-mexico-latest-bid-assert-authority-sports-betting-markets?utm_source=rss&utm_medium=rss",
-      "desc": "New Mexico is the next state in the CFTC's crosshairs as the fight continues over regulatory jurisdiction over sports betting.",
-      "date": "2026-06-12T20:37:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
