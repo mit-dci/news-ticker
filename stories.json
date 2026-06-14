@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-14T16:02:37.732Z",
+  "generatedAt": "2026-06-14T16:59:09.791Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 320,
+  "filteredOut": 325,
   "errors": [],
-  "dupsMerged": 1,
+  "dupsMerged": 0,
   "items": [
     {
       "source": "cointelegraph",
@@ -42,20 +42,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-14T16:02:37.182Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-14T16:59:09.695Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-14T16:02:37.181Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-14T16:59:09.695Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -286,13 +286,7 @@
       "link": "https://bitcoinmagazine.com/news/blockworks-acquires-messari",
       "desc": "Bitcoin Magazine Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race Blockworks' acquisition of Messari for just over $10 million combines two major crypto data platforms. This post Blockworks Acquires Messari in Deal Highlighting Crypto’s Data Consolidation Race first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-12T18:41:15.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/infrastructure/blockworks-acquires-messari-crypto-data-consolidation"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -342,46 +336,6 @@
       "link": "https://decrypt.co/370937/iran-group-hacked-kash-patel-email-threatens-world-cup-hijacked-drones",
       "desc": "The Iran-linked hacking group said it accessed footage from FBI-controlled drones and warned World Cup teams that they could be targeted.",
       "date": "2026-06-12T17:12:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Americans Traded Up to $34 Billion on Offshore Prediction Markets: Study",
-      "link": "https://decrypt.co/370908/americans-traded-34-billion-offshore-prediction-markets-study",
-      "desc": "The study estimated Americans could end up wagering up to $133 billion annually on offshore prediction markets by 2030.",
-      "date": "2026-06-12T16:44:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Hester Peirce Bids Farewell to the SEC After Nearly 30 Years",
-      "link": "https://thedefiant.io/news/people/hester-peirce-farewell-remarks-sec-project-crypto",
-      "desc": "SEC Commissioner Hester Peirce delivered her farewell remarks Tuesday at the U.S. Chamber of Commerce Capital Markets Summit, closing a tenure defined by crypto-industry advocacy and dissent from the Gensler era.",
-      "date": "2026-06-12T16:24:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Sam Bankman-Fried loses fraud conviction appeal",
-      "link": "https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6",
-      "desc": "Three-judge panel upholds 25-year prison sentence for founder of collapsed crypto exchange FTX",
-      "date": "2026-06-12T16:10:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "VanEck bets BNB’s real-world usage can stand out in a crowded crypto ETF market",
-      "link": "https://www.coindesk.com/markets/2026/06/12/vaneck-bets-bnb-s-real-world-usage-can-stand-out-in-a-crowded-crypto-etf-market",
-      "desc": "VanEck says BNB’s user activity and revenue generation make it a stronger long-term crypto investment case than many blockchain projects still selling a vision.",
-      "date": "2026-06-12T16:05:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
