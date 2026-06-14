@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-14T14:15:43.208Z",
+  "generatedAt": "2026-06-14T15:13:43.965Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 312,
+  "filteredOut": 314,
   "errors": [],
-  "dupsMerged": 2,
+  "dupsMerged": 1,
   "items": [
     {
       "source": "cointelegraph",
@@ -45,7 +45,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-14T14:15:42.677Z",
+      "date": "2026-06-14T15:13:43.408Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -55,7 +55,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-14T14:15:42.677Z",
+      "date": "2026-06-14T15:13:43.408Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
+      "link": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
+      "desc": "The concept, called Predictive Allocation, will encourage participants to anticipate where liquidity will be needed next, instead of rewarding them for directing incentives toward pools that have already generated fees.",
+      "date": "2026-06-14T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -367,6 +377,16 @@
       "termBoost": 0
     },
     {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Sam Bankman-Fried loses fraud conviction appeal",
+      "link": "https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6",
+      "desc": "Three-judge panel upholds 25-year prison sentence for founder of collapsed crypto exchange FTX",
+      "date": "2026-06-12T16:10:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "VanEck bets BNB’s real-world usage can stand out in a crowded crypto ETF market",
@@ -424,42 +444,6 @@
       "desc": "Standard Chartered analyst Geoff Kendrick suggests the crypto market has hit its lowest point following Bitcoin's recent drop below $60,000.",
       "date": "2026-06-12T15:16:08.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Zelle heads to India; preps stablecoin for global expansion",
-      "link": "https://www.finextra.com/newsarticle/47912/zelle-heads-to-india-preps-stablecoin-for-global-expansion?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "US bank-owned P2P payments service Zelle is going global, with users soon getting the ability to send money to friends and family in India.",
-      "date": "2026-06-12T15:12:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "GameStop Renews Bitcoin Deal That Did Little for Its Record Quarter",
-      "link": "https://decrypt.co/370905/gamestop-renews-bitcoin-deal-that-did-little-for-its-record-quarter",
-      "desc": "The retailer rolled its Coinbase options deal forward in late May, keeping nearly all its Bitcoin tied up for upfront cash.",
-      "date": "2026-06-12T15:02:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction",
-      "link": "https://bitcoinmagazine.com/news/sam-bankman-fried-loses-appeal-ftx",
-      "desc": "Bitcoin Magazine Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction One of Sam Bankman-Fried's final viable avenues to overturn his conviction closed Friday after a federal appeals court upheld both his fraud conviction and 25-year prison sentence, keeping the disgraced FTX founder behind bars. This post Sam Bankman-Fried Loses Appeal to Overturn FTX Fraud Conviction first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-12T14:45:21.000Z",
-      "alsoAt": [
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6"
-        }
-      ],
       "termBoost": 0
     },
     {
