@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-15T22:42:32.402Z",
+  "generatedAt": "2026-06-15T23:35:15.266Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 287,
+  "filteredOut": 285,
   "errors": [],
   "dupsMerged": 5,
   "items": [
@@ -18,12 +18,12 @@
       "termBoost": 3
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-15T22:42:31.716Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "China-led digital payments system mBridge set for commercial launch",
+      "link": "https://www.finextra.com/newsarticle/47920/china-led-digital-payments-system-mbridge-set-for-commercial-launch?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "A China-led blockchain-based cross-border currency platform is set for its commercial launch, according to the Financial Times.",
+      "date": "2026-06-16T00:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,27 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-15T22:42:31.716Z",
+      "date": "2026-06-15T23:35:15.256Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-15T23:35:15.255Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-15T22:39:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
