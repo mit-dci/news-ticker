@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-15T17:22:25.292Z",
+  "generatedAt": "2026-06-15T18:53:51.355Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 297,
+  "filteredOut": 294,
   "errors": [],
   "dupsMerged": 3,
   "items": [
@@ -20,20 +20,60 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-15T17:22:24.953Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-15T18:53:50.769Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-15T17:22:24.953Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-15T18:53:50.768Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered",
+      "link": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
+      "desc": "Uniswap’s native token UNI is set to surge nearly fortyfold in the coming years as Wall Street migrates on-chain, Standard Chartered said.",
+      "date": "2026-06-15T18:37:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "‘There’s room for win-win outcomes’: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs",
+      "link": "https://www.theblock.co/post/404792/win-win-outcomes-solana-treasury-forward-acquire-sol-dats?utm_source=rss&utm_medium=rss",
+      "desc": "Forward Industries is offering to acquire Solana DAT competitors at a premium as their mNAVs slip along with the declining price of SOL.",
+      "date": "2026-06-15T17:59:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "The 4 Biggest Problems Banks Have With Stablecoins",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/4-biggest-problems-banks-have-with-stablecoins/",
+      "desc": "There’s a battle brewing over blockchain finance. Banks view stablecoins as a new form of private money that lacks the stabilizing infrastructure developed around banking over the past century. Stablecoin advocates counter that many of those protections emerged only after innovation occurred, and that competition from blockchain-based payments could ultimately produce a more efficient […] The post The 4 Biggest Problems Banks Have With Stablecoins appeared first on PYMNTS.com.",
+      "date": "2026-06-15T17:57:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody's Biting",
+      "link": "https://decrypt.co/371198/solana-treasury-firm-forward-industries-trying-acquire-rivals",
+      "desc": "Forward Industries has been unsuccessful on all three recent attempts to combine with rival publicly traded Solana treasury firms.",
+      "date": "2026-06-15T17:30:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -418,17 +458,6 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
-      "link": "https://www.theblock.co/post/404685/coinbase-quantum-report-flags-exchange-cold-wallets-among-millions-of-bitcoin-exposed-by-address-reuse?utm_source=rss&utm_medium=rss",
-      "desc": "The report lays out possible solutions to the abandoned coins problem, such as setting a deadline for migration and then freezing vulnerable coins.",
-      "date": "2026-06-13T18:21:35.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
       "title": "Bitcoin tops $65,000 as reports of US-Iran peace deal ease geopolitical fears",
       "link": "https://www.theblock.co/post/404723/bitcoin-tops-65000-us-iran-peace-deal?utm_source=rss&utm_medium=rss",
       "desc": "The rally reflected improving risk sentiment following reports that the U.S. and Iran have reached a peace agreement, analysts said.",
@@ -503,6 +532,16 @@
       "link": "https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open",
       "desc": "The price of crude oil is tumbling, and U.S. stock futures are moving higher.",
       "date": "2026-06-15T00:08:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin Covenants Part 1: Exploring New Possibilities for Complex Spending Conditions on the Bitcoin Network",
+      "link": "https://cointelegraph.com/research/bitcoin-covenants-part-1-exploring-new-possibilities-for-complex-spending-conditions-on-the-bitcoin-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A single missing feature in Bitcoin Script has spawned twelve competing proposals. Cointelegraph Research gives an overview.",
+      "date": "2026-06-15T00:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -603,16 +642,6 @@
       "link": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "A fake Bithumb email used in the $36 million Humanity Protocol hack points to the involvement of North Korean threat actors, according to Quantstamp.",
       "date": "2026-06-14T11:07:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto’s next billion-dollar hacker may move at superhuman speed",
-      "link": "https://www.coindesk.com/tech/2026/06/13/crypto-s-next-billion-dollar-hacker-may-move-at-superhuman-speed",
-      "desc": "Anthropic’s new Claude Fable 5 puts powerful cyber tools behind safety filters. DeFi, already hit by more than $840 million in hacks this year, is one of the industries with the most to lose if the filters fail.",
-      "date": "2026-06-13T18:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
