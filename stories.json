@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-15T10:36:35.996Z",
+  "generatedAt": "2026-06-15T13:04:55.561Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 324,
+  "filteredOut": 316,
   "errors": [],
-  "dupsMerged": 0,
+  "dupsMerged": 1,
   "items": [
     {
       "source": "cointelegraph",
@@ -18,12 +18,22 @@
       "termBoost": 3
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "CloudMargin appoints Nico Busch as chief product officer",
+      "link": "https://www.finextra.com/pressarticle/110130/cloudmargin-appoints-nico-busch-as-chief-product-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "CloudMargin, the only collateral and margin management solution purpose-built for the cloud, announced today the appointment of Nico Busch, a veteran capital markets, fintech and data product executive, as Chief Product Officer, effective today.",
+      "date": "2026-06-15T13:37:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-15T10:36:35.541Z",
+      "date": "2026-06-15T13:04:55.551Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +43,73 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-15T10:36:35.541Z",
+      "date": "2026-06-15T13:04:55.551Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Paradigm leads $9 million round in LatAm payments app El Dorado",
+      "link": "https://www.theblock.co/post/404709/paradigm-leads-9-million-round-el-dorado?utm_source=rss&utm_medium=rss",
+      "desc": "El Dorado was founded in 2022 by Latin American immigrants with firsthand experience dealing with cross-border payments.",
+      "date": "2026-06-15T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Rain brings integrated loyalty to stablecoin card programmes",
+      "link": "https://www.finextra.com/newsarticle/47913/rain-brings-integrated-loyalty-to-stablecoin-card-programmes?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Stablecoin payments infrastructure company Rain has added a native loyalty capability built directly into its card issuing stack.",
+      "date": "2026-06-15T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "‘Still adding dots’: Michael Saylor’s Strategy buys another 1,587 bitcoin for $100 million as total holdings reach 846,842 BTC",
+      "link": "https://www.theblock.co/post/404728/still-adding-dots-michael-saylors-strategy-buys-more-bitcoin?utm_source=rss&utm_medium=rss",
+      "desc": "Strategy's total holdings account for more than 4% of the 21 million bitcoin supply cap — worth around $56 billion.",
+      "date": "2026-06-15T12:06:46.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/06/15/strategy-deploys-usd100-million-from-usd-reserves-to-acquire-1-587-btc"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Markets cheer U.S.-Iran Breakthrough though Middle East risks, Fed remain in focus",
+      "link": "https://www.coindesk.com/daybook-us/2026/06/15/markets-cheer-u-s-iran-breakthrough-though-middle-east-risks-fed-remain-in-focus",
+      "desc": "Your day-ahead look for June 15, 2026",
+      "date": "2026-06-15T11:58:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins",
+      "link": "https://decrypt.co/371124/philippines-issues-stricter-crypto-listing-rules-bans-privacy-coins",
+      "desc": "The Philippines' central bank has tightened crypto oversight with new rules governing how exchanges assess and monitor digital assets.",
+      "date": "2026-06-15T11:27:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S.-Iran deal lifts equities, sends oil lower, while crypto stays wary",
+      "link": "https://www.coindesk.com/markets/2026/06/15/u-s-iran-deal-lifts-equities-sends-oil-lower-while-crypto-stays-wary",
+      "desc": "The peace deal reached over the weekend provided the stimulus many markets had been waiting for. Crypto traders, however, have learned to distrust this particular headline",
+      "date": "2026-06-15T11:19:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -50,10 +126,20 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Middle East ceasfire, Fed interest-rate decision: Crypto Week Ahead",
+      "title": "Middle East ceasefire, Fed interest-rate decision: Crypto Week Ahead",
       "link": "https://www.coindesk.com/markets/2026/06/15/middle-east-ceasfire-fed-interest-rate-decision-crypto-week-ahead",
       "desc": "Your look at what's coming in the week starting June 15.",
       "date": "2026-06-15T10:14:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Japan’s Bitbank cracks down on Polymarket-linked transfers",
+      "link": "https://cointelegraph.com/news/bitbank-japan-crackdown-polymarket-linked-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Japanese crypto exchange Bitbank warns users of possible account suspensions for Polymarket-linked transactions, citing Japan’s gambling laws.",
+      "date": "2026-06-15T10:05:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -115,6 +201,16 @@
       "link": "https://cointelegraph.com/news/aztec-connects-depreciated-smart-contract-exploited-for-2-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The Aztec Connect platform was deprecated in March 2023, but the immutable smart contract still held over $2 million in crypto assets.",
       "date": "2026-06-15T05:43:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live markets: Bitcoin jumps above $66,000 as short squeeze builds on US-Iran deal hopes",
+      "link": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
+      "desc": "A ceasefire in April collapsed, and U.S. strikes broke a second truce on June 9 with bitcoin giving back the entire move both times.",
+      "date": "2026-06-15T05:19:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -325,26 +421,6 @@
       "link": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Strategy's recent Bitcoin sale appeared to clash with Saylor's “never sell” mantra, but he says the move reflects how the company's digital credit business works.",
       "date": "2026-06-13T13:58:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto should adopt the best of centralization, says LMAX CEO",
-      "link": "https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
-      "desc": "As digital assets mature the industry should borrow more from traditional market infrastructure, especially credit, clearing and collateral systems, David Mercer argues.",
-      "date": "2026-06-13T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Morpho's $175M raise shows where crypto VC money is flowing",
-      "link": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Morpho’s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.",
-      "date": "2026-06-13T11:52:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
