@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-15T18:53:51.355Z",
+  "generatedAt": "2026-06-15T20:09:54.057Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 294,
+  "filteredOut": 288,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "cointelegraph",
@@ -20,20 +20,80 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-15T18:53:50.769Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-15T20:09:53.319Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-15T18:53:50.768Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-15T20:09:53.319Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker",
+      "link": "https://decrypt.co/371227/polymarket-trader-loses-1-million-spain-world-cup-bet",
+      "desc": "One trader lost $1 million betting Spain would win. Another bought \"No\" at 9¢ and walked away with $4.3 million.",
+      "date": "2026-06-15T20:06:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "July 1 MiCA Deadline Threatens Thousands of European Crypto Firms",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/july-1-mica-deadline-threatens-thousands-of-european-crypto-firms/",
+      "desc": "Crypto exchanges and users are set to be impacted by the July 1 deadline for compliance with Europe’s Markets in Crypto-Assets Regulation (MiCA), according to multiple media reports. NewsBTC reported Monday (June 15) that crypto service providers that are not properly licensed in the MiCA framework may face restrictions, wind-down plans or changes to […] The post July 1 MiCA Deadline Threatens Thousands of European Crypto Firms appeared first on PYMNTS.com.",
+      "date": "2026-06-15T19:57:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Rain Debuts Native Loyalty for Stablecoin Card Programs",
+      "link": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/rain-debuts-native-loyalty-stablecoin-card-programs/",
+      "desc": "Stablecoin payments infrastructure company Rain introduced a new loyalty capability called Rewards, according to a Monday (June 15) press release. Rewards is integrated into Rain’s issuing stack and lets any partner running a card program on Rain launch fully branded rewards for their customers with no need for a separate vendor or in-house infrastructure, […] The post Rain Debuts Native Loyalty for Stablecoin Card Programs appeared first on PYMNTS.com.",
+      "date": "2026-06-15T19:51:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
+      "link": "https://cointelegraph.com/news/sec-crypto-adviser-cftc-blockchain-forensics?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The CFTC staff appointment came amid the US Congress seeking to overhaul federal financial regulators’ roles over digital assets with the CLARITY Act.",
+      "date": "2026-06-15T19:41:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BitMine boosts ETH holdings closer to $10B as bear market accumulation continues",
+      "link": "https://cointelegraph.com/news/bitmine-eth-holdings-near-10b-bear-market-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "BitMine continued buying Ether through the market downturn, growing its stake to nearly 5% of the circulating supply while generating staking yield amid mounting ecosystem challenges.",
+      "date": "2026-06-15T18:55:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Kraken rolls out perpetual futures for US traders through CFTC-regulated venue",
+      "link": "https://cointelegraph.com/news/kraken-launches-perpetual-futures-for-us-traders-through-cftc-regulated-venue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The offering follows Kraken's acquisition of Bitnomial and comes amid a broader push to bring crypto derivatives trading onshore.",
+      "date": "2026-06-15T18:53:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,7 +104,13 @@
       "link": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
       "desc": "Uniswap’s native token UNI is set to surge nearly fortyfold in the coming years as Wall Street migrates on-chain, Standard Chartered said.",
       "date": "2026-06-15T18:37:57.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/404809/standard-chartered-uniswap-uni-token-price-100-by-2030?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -482,16 +548,6 @@
       "link": "https://cointelegraph.com/news/aztec-connects-depreciated-smart-contract-exploited-for-2-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The Aztec Connect platform was deprecated in March 2023, but the immutable smart contract still held over $2 million in crypto assets.",
       "date": "2026-06-15T05:43:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live markets: Bitcoin jumps above $67,000 as short squeeze builds on US-Iran deal hopes",
-      "link": "https://www.coindesk.com/tech/2026/06/15/live-markets-bitcoin-not-fully-out-of-danger-as-trump-warns-of-further-iran-strikes",
-      "desc": "A ceasefire in April collapsed, and U.S. strikes broke a second truce on June 9 with bitcoin giving back the entire move both times.",
-      "date": "2026-06-15T05:19:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
