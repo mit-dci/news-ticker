@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-15T05:50:24.659Z",
+  "generatedAt": "2026-06-15T08:03:01.533Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 329,
+  "filteredOut": 326,
   "errors": [],
   "dupsMerged": 0,
   "items": [
@@ -18,6 +18,36 @@
       "termBoost": 3
     },
     {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-15T08:03:01.174Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-15T08:03:01.174Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high",
+      "link": "https://www.coindesk.com/markets/2026/06/15/bitcoin-traders-have-a-reason-to-watch-tuesday-s-boj-rate-decision-yen-shorts-are-at-a-nine-year-high",
+      "desc": "A large build-up of speculative short positions in the yen raises the risk of a sharp short squeeze if the BOJ signals more aggressive tightening, potentially unwinding yen-funded carry trades that support risk assets.",
+      "date": "2026-06-15T06:41:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
@@ -29,22 +59,32 @@
       "termBoost": 3
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-15T05:50:24.175Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin tops $65,000 as reports of US-Iran peace deal ease geopolitical fears",
+      "link": "https://www.theblock.co/post/404723/bitcoin-tops-65000-us-iran-peace-deal?utm_source=rss&utm_medium=rss",
+      "desc": "The rally reflected improving risk sentiment following reports that the U.S. and Iran have reached a peace agreement, analysts said.",
+      "date": "2026-06-15T05:55:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-15T05:50:24.175Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "CFTC sues New Mexico over prediction market jurisdiction",
+      "link": "https://cointelegraph.com/news/cftc-sues-new-mexico-over-prediction-market-jurisdiction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "New Mexico is the eighth state sued by the CFTC over prediction markets, as Gary Gensler doubted the regulators' claim of authority over sports event contracts.",
+      "date": "2026-06-15T05:54:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Aztec Connect’s abandoned smart contract exploited for $2.1M",
+      "link": "https://cointelegraph.com/news/aztec-connects-depreciated-smart-contract-exploited-for-2-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Aztec Connect platform was deprecated in March 2023, but the immutable smart contract still held over $2 million in crypto assets.",
+      "date": "2026-06-15T05:43:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -147,17 +187,6 @@
       "date": "2026-06-14T18:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Top cryptographers can't agree on Bitcoin's biggest quantum question",
-      "link": "https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question",
-      "desc": "A Coinbase-convened panel says Bitcoin should start preparing for quantum attacks now, but declines to take a position on whether millions of vulnerable coins, including many linked to Satoshi Nakamoto, should eventually be frozen.",
-      "date": "2026-06-13T06:07:00.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "coindesk",
