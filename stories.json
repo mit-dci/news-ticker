@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-15T20:09:54.057Z",
+  "generatedAt": "2026-06-15T21:32:46.279Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 288,
+  "filteredOut": 286,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "cointelegraph",
@@ -23,7 +23,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-15T20:09:53.319Z",
+      "date": "2026-06-15T21:32:44.425Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-15T20:09:53.319Z",
+      "date": "2026-06-15T21:32:44.425Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
+      "link": "https://www.theblock.co/post/404802/spot-hype-etfs-near-900-million-volume-early-demand-signals-institutional-interest?utm_source=rss&utm_medium=rss",
+      "desc": "Volume across the three products has been uneven, with BHYP and THYP accounting for the bulk of activity while HYPG continues to ramp.",
+      "date": "2026-06-15T21:26:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -120,16 +130,6 @@
       "link": "https://www.theblock.co/post/404792/win-win-outcomes-solana-treasury-forward-acquire-sol-dats?utm_source=rss&utm_medium=rss",
       "desc": "Forward Industries is offering to acquire Solana DAT competitors at a premium as their mNAVs slip along with the declining price of SOL.",
       "date": "2026-06-15T17:59:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "The 4 Biggest Problems Banks Have With Stablecoins",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/4-biggest-problems-banks-have-with-stablecoins/",
-      "desc": "There’s a battle brewing over blockchain finance. Banks view stablecoins as a new form of private money that lacks the stabilizing infrastructure developed around banking over the past century. Stablecoin advocates counter that many of those protections emerged only after innovation occurred, and that competition from blockchain-based payments could ultimately produce a more efficient […] The post The 4 Biggest Problems Banks Have With Stablecoins appeared first on PYMNTS.com.",
-      "date": "2026-06-15T17:57:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -252,7 +252,13 @@
       "link": "https://cointelegraph.com/news/pudgy-penguins-winds-down-pudgy-party-mobile-game?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Pudgy Penguins will halt development of Pudgy Party and focus on Pudgy World, as another Web3 gaming project shuts down after failing to find a sustainable business model.",
       "date": "2026-06-15T15:05:14.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -508,6 +514,16 @@
       "link": "https://www.theblock.co/post/404731/bernstein-robinhood-strong-tailwinds-world-cup-record-prediction-market-volumes?utm_source=rss&utm_medium=rss",
       "desc": "Bernstein projects Robinhood’s prediction market revenue to increase from $150 million in 2025 to $586 million in 2026.",
       "date": "2026-06-15T10:02:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI",
+      "link": "https://cointelegraph.com/news/bybit-launches-tokenized-bond-products-from-pimco-and-cmbi-through-rwa-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The new offering gives eligible users access to tokenized institutional bond funds as demand for blockchain-based real-world assets continues to grow.",
+      "date": "2026-06-15T07:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
