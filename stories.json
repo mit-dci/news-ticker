@@ -1,28 +1,88 @@
 {
-  "generatedAt": "2026-06-16T18:49:53.049Z",
+  "generatedAt": "2026-06-16T20:03:33.172Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 261,
+  "filteredOut": 262,
   "errors": [],
   "dupsMerged": 6,
   "items": [
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-16T18:49:52.400Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-16T20:03:32.932Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-16T18:49:52.399Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-16T20:03:32.932Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?",
+      "link": "https://cointelegraph.com/markets/bitcoin-risk-metric-nears-low-risk-zone-as-holders-absorb-125k-btc-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Bitcoin’s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand mark the start of a new demand phase. Will prices follow?",
+      "date": "2026-06-16T19:54:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "FBI Says It Foiled Drone Attack Plot Targeting White House UFC Event",
+      "link": "https://decrypt.co/371339/fbi-foiled-drone-attack-plot-targeting-white-house-ufc-event",
+      "desc": "Federal prosecutors allege five men planned to use explosive-laden drones and sniper teams to take out \"high-value targets\" at the UFC event.",
+      "date": "2026-06-16T19:47:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Coinbase lets users transfer stock portfolios as exchange expands beyond crypto",
+      "link": "https://cointelegraph.com/news/coinbase-acats-stock-portfolio-transfers-beyond-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The crypto exchange is deepening its push into traditional finance by enabling ACATS stock transfers and expanding trading products beyond digital assets.",
+      "date": "2026-06-16T19:31:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "China Recruits 26 Banks for Digital Yuan Project",
+      "link": "https://www.pymnts.com/cbdc/2026/china-recruits-26-banks-for-digital-yuan-project/",
+      "desc": "China has reportedly recruited 26 financial institutions for its digital yuan effort. According to a Tuesday (June 16) report from Reuters, the effort is part of China’s plan to expand efficient and low-cost cross-border payments and promote global adoption of the yuan. The agreement lets participants to join the Cross-border e-CNY Transfer Services, or CBETS, an […] The post China Recruits 26 Banks for Digital Yuan Project appeared first on PYMNTS.com.",
+      "date": "2026-06-16T19:14:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options",
+      "link": "https://decrypt.co/371293/coinbase-launch-tokenized-stock-trading-crypto-equities-options",
+      "desc": "Publicly traded crypto exchange Coinbase added to its feature set Tuesday as it seeks to become the \"everything exchange.\"",
+      "date": "2026-06-16T19:00:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity",
+      "link": "https://cointelegraph.com/markets/xrp-whale-withdrawals-top-720m-as-risk-adjusted-returns-hints-an-opporunity?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Whales pulled more than 720 million XRP from exchanges, as various data points converge to predict a potential 50% rally.",
+      "date": "2026-06-16T18:44:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -117,42 +177,12 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Flutterwave Valuation Hits $3.3 Billion Following Ripple Investment",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/flutterwave-valuation-hits-3-3-billion-following-ripple-investment/",
-      "desc": "Africa-focused FinTech startup Flutterwave has reportedly sold an equity stake to blockchain company Ripple. This investment lifts Flutterwave’s valuation to $3.3 billion, CEO Olugbenga Agboola said in an interview with Bloomberg News published Tuesday (June 16). The news outlet added that Agboola declined to reveal how much Ripple invested or the size of its […] The post Flutterwave Valuation Hits $3.3 Billion Following Ripple Investment appeared first on PYMNTS.com.",
-      "date": "2026-06-16T16:31:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Binance says it considers EU license compliant amid reports of potential rejection",
       "link": "https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Without specifically calling out a report on Binance’s EU license, the crypto exchange warned that any rejection forcing it to delay activities in the region could “weaken liquidity” and present other potential risks.",
       "date": "2026-06-16T16:26:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Nuvei’s Payoneer Deal Shows Businesses Want More From Cross-Border Payments",
-      "link": "https://www.pymnts.com/news/cross-border-commerce/cross-border-payments/2026/nuvei-payoneer-deal-shows-businesses-want-more-from-cross-border-payments/",
-      "desc": "Global commerce has shrunk the world. Now, the world is shrinking global commerce as the cross-border payments market is entering a new phase of consolidation. Global FinTech Nuvei’s planned $2.75 billion acquisition of financial services platform Payoneer, announced Monday (June 15), underscores a broader shift underway across financial services. While innovation in cross-border payments […] The post Nuvei’s Payoneer Deal Shows Businesses Want More From Cross-Border Payments appeared first on PYMNTS.com.",
-      "date": "2026-06-16T15:45:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Nigeria Leads Africa’s Adoption of Cross-Border Stablecoin Payments",
-      "link": "https://www.pymnts.com/news/cross-border-commerce/cross-border-payments/2026/nigeria-leads-africas-adoption-of-cross-border-stablecoin-payments/",
-      "desc": "Nigeria has become sub-Saharan Africa’s leader in cross-border stablecoin payments. That’s according to an International Monetary Fund (IMF) report published Tuesday (June 16), showing that the country accounts for 60% of stablecoin inflows since 2019. “What began as a niche technology has become a meaningful cross-border payments channel. Its rapid growth is easing long-standing […] The post Nigeria Leads Africa’s Adoption of Cross-Border Stablecoin Payments appeared first on PYMNTS.com.",
-      "date": "2026-06-16T15:42:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -559,16 +589,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "IMF says Nigeria’s stablecoin adoption is ‘testing the limits’ of monetary and regulatory frameworks",
-      "link": "https://www.theblock.co/post/404862/imf-nigeria-stablecoin-adoption-testing-limits-monetary-regulatory-frameworks?utm_source=rss&utm_medium=rss",
-      "desc": "The IMF said stablecoin adoption in Nigeria is testing monetary and regulatory frameworks, while warning of digital dollarization risks.",
-      "date": "2026-06-16T09:32:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Antony Jenkins joins fintech VC Aperture Capital",
@@ -901,42 +921,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitmine adds another $136 million of ether after raising $274 million in preferred stock sale",
-      "link": "https://www.coindesk.com/business/2026/06/15/bitmine-adds-another-usd136-million-of-ether-after-raising-usd274-million-in-preferred-stock-sale",
-      "desc": "Tom Lee's Ethereum treasury firm, through the preferred stock sale, is using a financing tool pioneered by Michael Saylor's bitcoin treasury firm Strategy.",
-      "date": "2026-06-15T13:04:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered",
-      "link": "https://cointelegraph.com/news/tokenization-push-defi-assets-trillion-2030-standard-chartered?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Standard Chartered forecasts assets locked in decentralized finance will reach $2.7 trillion by 2030, driven by tokenization and crypto-native growth.",
-      "date": "2026-06-15T12:28:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins",
       "link": "https://decrypt.co/371124/philippines-issues-stricter-crypto-listing-rules-bans-privacy-coins",
       "desc": "The Philippines' central bank has tightened crypto oversight with new rules governing how exchanges assess and monitor digital assets.",
       "date": "2026-06-15T11:27:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Japan’s Bitbank cracks down on Polymarket-linked transfers",
-      "link": "https://cointelegraph.com/news/bitbank-japan-crackdown-polymarket-linked-transfers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Japanese crypto exchange Bitbank warns users of possible account suspensions for Polymarket-linked transactions, citing Japan’s gambling laws.",
-      "date": "2026-06-15T09:05:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
