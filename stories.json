@@ -1,28 +1,98 @@
 {
-  "generatedAt": "2026-06-16T17:15:46.483Z",
+  "generatedAt": "2026-06-16T18:49:53.049Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 264,
+  "filteredOut": 261,
   "errors": [],
   "dupsMerged": 6,
   "items": [
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-16T17:15:46.429Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-16T18:49:52.400Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-16T17:15:46.429Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-16T18:49:52.399Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Pump.fun activity craters 80% in three months, dragging Solana fees lower as traders rotate into perps",
+      "link": "https://www.theblock.co/post/404806/pump-fun-activity-craters-80-three-months-solana-fees-lower-traders-rotate-perps?utm_source=rss&utm_medium=rss",
+      "desc": "The platform's fall from grace is best reflected in the PUMP token itself, which is down 40% in the last six months alone.",
+      "date": "2026-06-16T18:26:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Japan Rates Hit Three-Decade High, But No ‘Meaningful Disruption’ to Crypto Market",
+      "link": "https://decrypt.co/371311/japan-rates-hit-three-decade-high-but-no-meaningful-disruption-to-crypto-market",
+      "desc": "Japan's central bank lifted rates to a level unseen in decades, a move that once shook crypto markets—yet prices barely stirred.",
+      "date": "2026-06-16T18:07:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Binance Vows EU Commitment as License Application Faces Rejection",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/binance-vows-eu-commitment-as-license-application-faces-rejection/",
+      "desc": "Binance remains committed to securing a license so that its cryptocurrency exchange can continue operating in the European Union (EU), the company said in a Tuesday (June 16) blog post. The company published its post on the same day that Reuters reported, citing unnamed sources, that Binance’s application for a license is about to be turned down by Greece’s […] The post Binance Vows EU Commitment as License Application Faces Rejection appeared first on PYMNTS.com.",
+      "date": "2026-06-16T18:01:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Squid adds Ripple’s RLUSD stablecoin for cross-chain swaps",
+      "link": "https://www.theblock.co/post/405005/squid-ripple-rlusd-stablecoin-cross-chain-swaps?utm_source=rss&utm_medium=rss",
+      "desc": "Cross-chain platform Squid has integrated Ripple's RLUSD stablecoin, allowing users to swap into and out of RLUSD across chains and assets.",
+      "date": "2026-06-16T17:40:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ripple targets Africa’s booming remittance market with Flutterwave investment",
+      "link": "https://cointelegraph.com/news/ripple-flutterwave-africa-stablecoin-remittances-investment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Ripple’s investment in Flutterwave will bring RLUSD, Ripple Payments and XRPL to one of Africa’s largest fintechs as blockchain remittances gain traction.",
+      "date": "2026-06-16T17:28:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Cardone Capital’s Bitcoin-REIT Hybrid: Targeting 22-32% Returns by Blending Cash-Flowing Properties and BTC Holdings",
+      "link": "https://bitcoinmagazine.com/business/cardone-capitals-bitcoin-reit-hybrid-targeting-22-32-returns-by-blending-cash-flowing-properties-and-btc-holdings",
+      "desc": "Bitcoin Magazine Cardone Capital’s Bitcoin-REIT Hybrid: Targeting 22-32% Returns by Blending Cash-Flowing Properties and BTC Holdings At Consensus 2026, Cardone detailed how his firm acquired a 366-unit Boca Raton property for $235M and paired it with $100M in Bitcoin, generating tax benefits and aiming for 22-32% returns over decades. This post Cardone Capital’s Bitcoin-REIT Hybrid: Targeting 22-32% Returns by Blending Cash-Flowing Properties and BTC Holdings first appeared on Bitcoin Magazine and is written by Juan Galt.",
+      "date": "2026-06-16T17:27:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin DeFi demand concentrated in small-but-deep pockets, Rootstock exec says",
+      "link": "https://www.theblock.co/post/404980/bitcoin-defi-demand-concentrated-small-pockets-rootstock-exec-says?utm_source=rss&utm_medium=rss",
+      "desc": "DeFi liquidity is down, with total value locked dropping from roughly $180 billion to $70 billion in less than a year.",
+      "date": "2026-06-16T17:19:38.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -62,17 +132,7 @@
       "title": "Binance says it considers EU license compliant amid reports of potential rejection",
       "link": "https://cointelegraph.com/news/binance-response-mica-european-union-license?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Without specifically calling out a report on Binance’s EU license, the crypto exchange warned that any rejection forcing it to delay activities in the region could “weaken liquidity” and present other potential risks.",
-      "date": "2026-06-16T16:24:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ripple targets Africa’s remittance market with Flutterwave investment",
-      "link": "https://cointelegraph.com/news/ripple-flutterwave-africa-stablecoin-remittances-investment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Ripple’s investment in Flutterwave will bring RLUSD, Ripple Payments and XRPL to one of Africa’s largest fintechs as blockchain remittances gain traction.",
-      "date": "2026-06-16T16:11:58.000Z",
+      "date": "2026-06-16T16:26:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -286,16 +346,6 @@
           "url": "https://cointelegraph.com/news/state-street-launches-genius-act-aligned-money-market-fund-for-stablecoin-reserves?utm_source=rss&utm_medium=rss&utm_campaign=rss"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Wyoming’s State Stablecoin Becomes Ground Zero for Crypto Debate",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/wyomings-state-stablecoin-becomes-ground-zero-for-crypto-debate/",
-      "desc": "Wyoming has become the first state in the U.S. to launch its own stablecoin. And with that launch, Bloomberg News reported Tuesday (June 16), comes a debate about what the Frontier Stable Token means for the cryptocurrency industry. Governor Mark Gordon told Bloomberg he’s been a “cautious adopter” of the coin, focused more on making sure they […] The post Wyoming’s State Stablecoin Becomes Ground Zero for Crypto Debate appeared first on PYMNTS.com.",
-      "date": "2026-06-16T13:41:33.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -529,16 +579,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "South Korean police arrest 23 individuals in $11 million USDT laundering case: report",
-      "link": "https://www.theblock.co/post/404843/south-korea-usdt-laundering-arrest?utm_source=rss&utm_medium=rss",
-      "desc": "From February 2024 to April 2025, the group allegedly moved $11.1 million in illegal funds by purchasing USDT and trading on exchanges.",
-      "date": "2026-06-16T08:02:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Tether Gold now has a dedicated options market on Bybit",
@@ -585,16 +625,6 @@
       "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high",
       "desc": "The Bank of Japan raised its key interest rate by 25 basis points to 1%, the highest level since 1995.",
       "date": "2026-06-16T04:30:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Spot HYPE ETFs near $900 million in volume as early demand signals institutional interest",
-      "link": "https://www.theblock.co/post/404802/spot-hype-etfs-near-900-million-volume-early-demand-signals-institutional-interest?utm_source=rss&utm_medium=rss",
-      "desc": "Volume across the three products has been uneven, with BHYP and THYP accounting for the bulk of activity while HYPG continues to ramp.",
-      "date": "2026-06-15T21:26:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
