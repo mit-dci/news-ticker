@@ -1,11 +1,168 @@
 {
-  "generatedAt": "2026-06-16T13:07:07.848Z",
+  "generatedAt": "2026-06-16T15:15:52.158Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 275,
+  "filteredOut": 273,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 6,
   "items": [
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-16T15:15:51.958Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-16T15:15:51.958Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Coinbase to join tokenized stock race with onchain shares, dividend payments",
+      "link": "https://www.coindesk.com/business/2026/06/16/coinbase-to-join-tokenized-stock-race-with-onchain-shares-dividend-payments",
+      "desc": "The crypto exchange said investors will own the shares and receive dividends, underscoring growing momentum behind tokenized securities.",
+      "date": "2026-06-16T15:03:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Binance says its European regulatory application is compliant despite report of Greek rejection",
+      "link": "https://www.coindesk.com/policy/2026/06/16/binance-says-its-european-regulatory-application-is-fully-compliant-despite-report-of-greek-rejection",
+      "desc": "An EU crypto license application by the world’s largest crypto exchange is set to be rejected by the Greek regulator HCMC, according to a report from Reuters.",
+      "date": "2026-06-16T14:55:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ethereum’s biggest protocol overhaul in years moves into its final development stage",
+      "link": "https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage",
+      "desc": "Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.",
+      "date": "2026-06-16T14:48:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "SEC Chair Atkins defends CFTC’s Selig despite questions over agency’s ability to regulate prediction markets",
+      "link": "https://www.theblock.co/post/404956/sec-atkins-defends-cftc-selig-questions-agencys-ability-regulate-prediction-markets?utm_source=rss&utm_medium=rss",
+      "desc": "SEC Chair Paul Atkins came to the defense of CFTC Michael Selig as the derivatives agency digs in its heels on regulating prediction markets.",
+      "date": "2026-06-16T14:36:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Robinhood Cuts 10% of Workforce, Takes $28M Restructuring Charge",
+      "link": "https://thedefiant.io/news/cefi/robinhood-cuts-10-percent-workforce-28m-restructuring-charge",
+      "desc": "Robinhood is cutting roughly 10% of its full-time employees in a corporate restructuring CEO Vlad Tenev has framed as a push for a high performance culture, with $28 million in charges expected in Q2 2026.",
+      "date": "2026-06-16T14:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Binance may be forced to halt services for EU clients next month: Reuters",
+      "link": "https://www.theblock.co/post/404947/binance-may-forced-halt-services-eu-clients-next-month-reuters?utm_source=rss&utm_medium=rss",
+      "desc": "The reported setback comes just weeks before the EU's July 1 deadline for crypto firms to obtain MiCA authorization or cease operating.",
+      "date": "2026-06-16T14:19:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "SpaceX’s debut: A win for crypto price discovery, a fail for tokenized access",
+      "link": "https://cointelegraph.com/features/spacex-ipo-crypto-price-tokenized-stock?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "SpaceX’s blockbuster debut didn’t just mint a trillionaire; it became a real-world stress test for crypto’s promise of democratized market access.",
+      "date": "2026-06-16T14:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "BlackRock Launches New Bitcoin ETF Combining BTC Exposure With Covered Call Income",
+      "link": "https://bitcoinmagazine.com/news/blackrock-launches-new-bitcoin-etf",
+      "desc": "Bitcoin Magazine BlackRock Launches New Bitcoin ETF Combining BTC Exposure With Covered Call Income BlackRock has launched the iShares Bitcoin Premium Income ETF (BITA), a covered-call bitcoin fund that combines spot BTC and IBIT exposure with option-writing to generate monthly income while retaining most of bitcoin's upside potential. This post BlackRock Launches New Bitcoin ETF Combining BTC Exposure With Covered Call Income first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-16T13:54:18.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/blackrock-launches-bita-covered-call-bitcoin-etf-monthly-income"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/404825/blackrock-launches-new-ishares-bitcoin-premium-income-etf-covered-call-nasdaq?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Scale of Stablecoin Adoption in Nigeria Makes Risks 'More Pronounced', Says IMF",
+      "link": "https://decrypt.co/371287/scale-stablecoin-adoption-nigeria-risks-more-pronounced-imf",
+      "desc": "Efforts to suppress stablecoin use are “likely to be only partly effective,” the International Monetary Fund’s researchers said.",
+      "date": "2026-06-16T13:49:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Ripple buys into Flutterwave Series E at $3.2 billion valuation, backs RLUSD integration",
+      "link": "https://www.theblock.co/post/404942/ripple-flutterwave-series-3-2-billion-valuation-rlusd-integration?utm_source=rss&utm_medium=rss",
+      "desc": "Ripple backs Flutterwave's $3.2 billion Series E with RLUSD and XRP Ledger integration across 34 African markets through investment.",
+      "date": "2026-06-16T13:45:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "State Street launches GENIUS-compliant money market fund for stablecoin issuers",
+      "link": "https://www.theblock.co/post/404941/state-street-launches-genius-compliant-money-market-fund-for-stablecoin-issuers?utm_source=rss&utm_medium=rss",
+      "desc": "SSCXX is a Rule 2a-7 government money market fund, a conservative type of fund that invests only in cash and yield-bearing cash equivalents.",
+      "date": "2026-06-16T13:44:23.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/06/16/state-street-targets-stablecoin-reserve-boom-with-new-money-market-fund"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Wyoming’s State Stablecoin Becomes Ground Zero for Crypto Debate",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/wyomings-state-stablecoin-becomes-ground-zero-for-crypto-debate/",
+      "desc": "Wyoming has become the first state in the U.S. to launch its own stablecoin. And with that launch, Bloomberg News reported Tuesday (June 16), comes a debate about what the Frontier Stable Token means for the cryptocurrency industry. Governor Mark Gordon told Bloomberg he’s been a “cautious adopter” of the coin, focused more on making sure they […] The post Wyoming’s State Stablecoin Becomes Ground Zero for Crypto Debate appeared first on PYMNTS.com.",
+      "date": "2026-06-16T13:41:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
@@ -17,22 +174,22 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-16T13:07:07.836Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin’s rally and HYPE’s record run mask a market still waiting for real conviction, analysts say",
+      "link": "https://www.theblock.co/post/404920/bitcoin-rally-hype-record-run-market-waiting-real-conviction-analysts?utm_source=rss&utm_medium=rss",
+      "desc": "Bitcoin held above $66,000 after the Iran truce as HYPE hit a fresh ATH above $76, but Wintermute and Bitfinex flagged thin ETF conviction.",
+      "date": "2026-06-16T13:36:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-16T13:07:07.836Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Gate CrossEx: An Exchange-Native Answer to the Institutional Capital Fragmentation Problem",
+      "link": "https://www.theblock.co/post/404882/gate-crossex-an-exchange-native-answer-to-the-institutional-capital-fragmentation-problem?utm_source=rss&utm_medium=rss",
+      "desc": "For sophisticated crypto desks, the bottleneck has rarely been finding liquidity, but rather moving capital fast enough to use it. A fund running active books across the largest CEXs operates multiple separate balance sheets that don’t talk to each other. Every account must be funded to meet worst-case requirements. Collateral can’t be netted across venues. […]",
+      "date": "2026-06-16T13:24:12.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -103,16 +260,6 @@
       "link": "https://decrypt.co/371246/blackrock-debuts-bita-bitcoin-etf-trading-upside-double-digit-yield",
       "desc": "BlackRock launched an ETF that limits Bitcoin gains in exchange for double-digit payouts by selling call options on its holdings.",
       "date": "2026-06-16T12:01:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "BlackRock launches new Bitcoin ETF that generates income using a covered call strategy",
-      "link": "https://www.theblock.co/post/404825/blackrock-launches-new-ishares-bitcoin-premium-income-etf-covered-call-nasdaq?utm_source=rss&utm_medium=rss",
-      "desc": "BITA holds bitcoin and BlackRock’s bitcoin ETF (IBIT) and generates income by selling call options on up to 35% of those IBIT holdings.",
-      "date": "2026-06-16T12:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -227,16 +374,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Devengo becomes first non-bank certified under the One-Leg Out Instant Credit Transfer scheme",
-      "link": "https://www.finextra.com/pressarticle/110144/devengo-becomes-first-non-bank-certified-under-the-one-leg-out-instant-credit-transfer-scheme?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Devengo, the Spanish fintech specializing in account-to-account (A2A) payment infrastructure, has become the first non-bank institution of the European Payments Council (EPC), which connects European instant payments with instant payment systems in other countries.",
-      "date": "2026-06-16T10:05:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "IMF says Nigeria’s stablecoin adoption is ‘testing the limits’ of monetary and regulatory frameworks",
@@ -253,26 +390,6 @@
       "link": "https://www.finextra.com/newsarticle/47924/antony-jenkins-joins-fintech-vc-aperture-capital?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "10x Banking founder and former Barclays CEO Antony Jenkins has joined early-stage fintech fund Aperture Capital as an investtment committee member.",
       "date": "2026-06-16T09:22:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Triple-A enables instore stablecoin payments for Luxlexicon",
-      "link": "https://www.finextra.com/pressarticle/110142/triple-a-enables-instore-stablecoin-payments-for-luxlexicon?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Today, Triple-A, a global payment institution, announces it is enabling LuxLexicon, Singapore’s leading luxury handbag resale and consignment platform under Carousell Group, to introduce stablecoin payments into its in-store shopping experience.",
-      "date": "2026-06-16T09:04:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "European Payments Council grants SEPA Participant status to fintech Currenxie",
-      "link": "https://www.finextra.com/pressarticle/110140/european-payments-council-grants-sepa-participant-status-to-fintech-currenxie?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Currenxie, the global financial platform for borderless businesses, today announced that it has been officially granted Single Euro Payments Area (SEPA) Participant status by the European Payments Council (EPC).",
-      "date": "2026-06-16T08:59:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -309,7 +426,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live markets: SpaceX's $60 billion Cursor deal fuels pre-market rally",
+      "title": "Live markets: Bitcoin falls below $66,000 as SpaceX rallies on Cursor agreement",
       "link": "https://www.coindesk.com/tech/2026/06/16/live-markets-bitcoin-etfs-bled-cash-monday-while-every-other-crypto-etf-gained",
       "desc": "Ether, XRP, Solana and Hyperliquid funds all took in money, but bitcoin's outflow was really just Grayscale's GBTC.",
       "date": "2026-06-16T05:41:40.000Z",
@@ -403,32 +520,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘There’s room for win-win outcomes’: Largest Solana treasury firm Forward looks to acquire smaller SOL DATs",
-      "link": "https://www.theblock.co/post/404792/win-win-outcomes-solana-treasury-forward-acquire-sol-dats?utm_source=rss&utm_medium=rss",
-      "desc": "Forward Industries is offering to acquire Solana DAT competitors at a premium as their mNAVs slip along with the declining price of SOL.",
-      "date": "2026-06-15T17:59:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "BitMine boosts ETH holdings closer to $10B as bear market accumulation continues",
       "link": "https://cointelegraph.com/news/bitmine-eth-holdings-near-10b-bear-market-accumulation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "BitMine continued buying Ether through the market downturn, growing its stake to nearly 5% of the circulating supply while generating staking yield amid mounting ecosystem challenges.",
       "date": "2026-06-15T17:55:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Kraken rolls out perpetual futures for US traders through CFTC-regulated venue",
-      "link": "https://cointelegraph.com/news/kraken-launches-perpetual-futures-for-us-traders-through-cftc-regulated-venue?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The offering follows Kraken's acquisition of Bitnomial and comes amid a broader push to bring crypto derivatives trading onshore.",
-      "date": "2026-06-15T17:53:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -471,9 +568,9 @@
       "date": "2026-06-15T16:17:38.000Z",
       "alsoAt": [
         {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/404751/kraken-launches-crypto-perps-trading-in-us-on-kraken-pro?utm_source=rss&utm_medium=rss"
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/kraken-launches-perpetual-futures-for-us-traders-through-cftc-regulated-venue?utm_source=rss&utm_medium=rss&utm_campaign=rss"
         }
       ],
       "termBoost": 0
@@ -489,42 +586,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Strategy supporters rebut ‘death spiral’ fears as bitcoin price wobbles",
-      "link": "https://www.theblock.co/post/404764/strategy-supporters-rebut-death-spiral-fears-as-bitcoin-price-wobbles?utm_source=rss&utm_medium=rss",
-      "desc": "\"The death-spiral story assumes that Strategy is one bad week from selling bitcoins, and it skips several steps to get there,\" said Benchmark.",
-      "date": "2026-06-15T15:43:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Benchmark says SEC’s NMS proposal is the ‘most consequential’ US crypto rule this year",
-      "link": "https://www.theblock.co/post/404768/benchmark-sec-nms-proposal-most-consequential-us-crypto-rule-this-year?utm_source=rss&utm_medium=rss",
-      "desc": "Benchmark said the SEC's proposal last week to rescind Rules 611 and 610(e) is the year's \"most consequential\" U.S. crypto rule.",
-      "date": "2026-06-15T15:33:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin Giant Strategy Pads Cash Cushion for Second Straight Week, Buys BTC",
       "link": "https://decrypt.co/371176/bitcoin-giant-strategy-pads-cash-cushion-second-week-buys-btc",
       "desc": "Strategy expanded its USD Reserve to $1.1 billion and increased its total Bitcoin holdings, after dipping into those funds last month.",
       "date": "2026-06-15T15:29:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘Let’s just put it in an ETF’ is the worst outcome for bitcoin, says Trezor exec",
-      "link": "https://www.theblock.co/post/404752/lets-put-it-in-etf-worst-outcome-bitcoin-says-trezor-exec?utm_source=rss&utm_medium=rss",
-      "desc": "Trezor Chief Commercial Officer Danny Sanders said simplifying self-custody remains one of bitcoin's biggest onboarding challenges.",
-      "date": "2026-06-15T15:22:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -695,16 +762,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Rain brings integrated loyalty to stablecoin card programmes",
-      "link": "https://www.finextra.com/newsarticle/47913/rain-brings-integrated-loyalty-to-stablecoin-card-programmes?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Stablecoin payments infrastructure company Rain has added a native loyalty capability built directly into its card issuing stack.",
-      "date": "2026-06-15T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Tokenization could push DeFi assets to $2.7T by 2030: Standard Chartered",
@@ -725,42 +782,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Markets cheer U.S.-Iran Breakthrough though Middle East risks, Fed remain in focus",
-      "link": "https://www.coindesk.com/daybook-us/2026/06/15/markets-cheer-u-s-iran-breakthrough-though-middle-east-risks-fed-remain-in-focus",
-      "desc": "Your day-ahead look for June 15, 2026",
-      "date": "2026-06-15T11:58:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins",
       "link": "https://decrypt.co/371124/philippines-issues-stricter-crypto-listing-rules-bans-privacy-coins",
       "desc": "The Philippines' central bank has tightened crypto oversight with new rules governing how exchanges assess and monitor digital assets.",
       "date": "2026-06-15T11:27:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S.-Iran deal lifts equities, sends oil lower, while crypto stays wary",
-      "link": "https://www.coindesk.com/markets/2026/06/15/u-s-iran-deal-lifts-equities-sends-oil-lower-while-crypto-stays-wary",
-      "desc": "The peace deal reached over the weekend provided the stimulus many markets had been waiting for. Crypto traders, however, have learned to distrust this particular headline",
-      "date": "2026-06-15T11:19:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Middle East ceasefire, Fed interest-rate decision: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/06/15/middle-east-ceasfire-fed-interest-rate-decision-crypto-week-ahead",
-      "desc": "Your look at what's coming in the week starting June 15.",
-      "date": "2026-06-15T10:14:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -801,26 +828,6 @@
       "link": "https://thedefiant.io/converge/regulation/blockchain-association-brca-preservation-senate-floor",
       "desc": "The Blockchain Association brought member executives to Capitol Hill this week, reporting meetings with more than half the Senate as it presses lawmakers to preserve the BRCA developer-protection provision of the CLARITY Act before an August recess deadline.",
       "date": "2026-06-15T00:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin Covenants Part 1: Exploring New Possibilities for Complex Spending Conditions on the Bitcoin Network",
-      "link": "https://cointelegraph.com/research/bitcoin-covenants-part-1-exploring-new-possibilities-for-complex-spending-conditions-on-the-bitcoin-network?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "A single missing feature in Bitcoin Script has spawned twelve competing proposals. Cointelegraph Research gives an overview.",
-      "date": "2026-06-14T23:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "StanChart looks for 3 signs of BTC bottom, including Strategy’s Monday news",
-      "link": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Standard Chartered’s Geoff Kendrick tells clients “winter is over” as the analyst said crypto prices have likely seen the low for the cycle, ahead of Strategy’s Bitcoin purchase update.",
-      "date": "2026-06-14T18:10:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
