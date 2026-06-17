@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-17T17:04:41.989Z",
+  "generatedAt": "2026-06-17T18:16:45.890Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 261,
+  "filteredOut": 256,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "bis",
@@ -12,7 +12,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-17T17:04:41.109Z",
+      "date": "2026-06-17T18:16:45.464Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,83 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-17T17:04:41.109Z",
+      "date": "2026-06-17T18:16:45.464Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "CFTC Seeks Industry Input to Unlock FinTech Innovation",
+      "link": "https://www.pymnts.com/legal/regulation/2026/cftc-seeks-industry-input-to-unlock-fintech-innovation/",
+      "desc": "The Commodity Futures Trading Commission (CFTC) is looking for ways it can make it easier for FinTech firms to partner with federally regulated institutions. The regulator has issued a Request for Information that will assist it in identifying regulations, guidance documents, orders, no-action letters and other CFTC regulatory items that unduly impede FinTechs from […] The post CFTC Seeks Industry Input to Unlock FinTech Innovation appeared first on PYMNTS.com.",
+      "date": "2026-06-17T18:03:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Congress Strikes Housing-Bill Deal That Bans Fed CBDC Through 2030",
+      "link": "https://thedefiant.io/converge/regulation/congress-housing-bill-cbdc-ban-through-2030",
+      "desc": "Congressional negotiators folded a statutory ban on a Federal Reserve central bank digital currency into the bipartisan 21st Century ROAD to Housing Act, blocking any Fed-issued retail digital dollar until December 31, 2030. The text now heads back to the Senate floor.",
+      "date": "2026-06-17T17:57:00.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/congress-reaches-deal-on-housing-bill-inclusive-of-cbdc-ban-until-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "US lawmakers warn against presidential pardon for Sam Bankman-Fried",
+      "link": "https://cointelegraph.com/news/resolution-donald-trump-against-pardon-sam-bankman-fried?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The former FTX CEO is currently serving a 25-year sentence after being found guilty on seven felony charges related to the misuse of customer funds.",
+      "date": "2026-06-17T17:29:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Mexican Billionaire Ricardo Salinas Bets 70% of His Portfolio on Bitcoin, Eyes $1 Million Price",
+      "link": "https://bitcoinmagazine.com/news/mexican-billionaire-ricardo-salinas-bets",
+      "desc": "Bitcoin Magazine Mexican Billionaire Ricardo Salinas Bets 70% of His Portfolio on Bitcoin, Eyes $1 Million Price Mexican billionaire Ricardo Salinas says he has increased his bitcoin allocation from 10% in 2020 to 70% of his portfolio today and believes bitcoin will eventually reach $1 million. This post Mexican Billionaire Ricardo Salinas Bets 70% of His Portfolio on Bitcoin, Eyes $1 Million Price first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-17T17:25:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Illinois Set to Begin Taxing Bitcoin, Crypto Transactions as Critics Slam 'Most Punitive' Tax",
+      "link": "https://decrypt.co/371425/illinois-taxing-bitcoin-crypto-transactions-critics-slam-most-punitive-tax",
+      "desc": "Critics say the Illinois transaction-level tax could deal severe consequences to the crypto industry and consumers in the state.",
+      "date": "2026-06-17T17:22:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "What Is Hyperliquid? The Decentralized Exchange With Its Own Blockchain",
+      "link": "https://decrypt.co/resources/what-hyperliquid-decentralized-exchange-blockchain",
+      "desc": "Hyperliquid’s decentralized exchange has rapidly grown to become one of the biggest projects in crypto. Here’s how it works.",
+      "date": "2026-06-17T17:14:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Illinois Enacts the Strictest Digital-Asset Tax in the US as Industry Group Urges Veto",
+      "link": "https://thedefiant.io/converge/regulation/illinois-strictest-digital-asset-tax-sb3019-cci-veto",
+      "desc": "Illinois Governor JB Pritzker has signed SB 3019, the Digital Asset Privilege Tax Act, making the state the first in the country to impose a transaction-based tax on everyday digital-asset activity. The Crypto Council for Innovation is pushing for a line-item veto of Article 3.",
+      "date": "2026-06-17T17:05:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -249,7 +325,13 @@
       "link": "https://www.coindesk.com/markets/2026/06/17/warsh-s-first-fed-meeting-could-be-more-about-communication-than-rates",
       "desc": "While monetary policy is expected to remain unchanged, markets are focused on whether the new chair begins reshaping how the U.S. central bank communicates.",
       "date": "2026-06-17T13:58:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/06/17/fed-holds-rates-steady-in-first-decision-under-new-chairman-kevin-warsh"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -329,16 +411,6 @@
       "link": "https://www.theblock.co/post/405075/bitcoin-holds-below-65000-as-warsh-faces-first-fomc-test-and-strategy-concerns-linger?utm_source=rss&utm_medium=rss",
       "desc": "BTC trades below $65K, with the Fed expected to hold rates while inflation sits near a three-year high ahead of Warsh's first FOMC meeting.",
       "date": "2026-06-17T12:28:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "British Neobank Plasma Debuts Stablecoin Banking Product",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/british-neobank-plasma-debuts-stablecoin-banking-product/",
-      "desc": "U.K. neobank Plasma has launched what it calls its flagship stablecoin banking product. Plasma One, announced Wednesday (June 17), is part of what the company says is its bet that the next iteration of consumer banking will be built on stablecoin rails. “For years, stablecoin adoption has been held back by a fragmented system […] The post British Neobank Plasma Debuts Stablecoin Banking Product appeared first on PYMNTS.com.",
-      "date": "2026-06-17T12:00:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -509,19 +581,9 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Congress reaches deal on housing bill with CBDC ban until 2030",
-      "link": "https://cointelegraph.com/news/congress-reaches-deal-on-housing-bill-inclusive-of-cbdc-ban-until-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The US could soon temporarily ban a central bank digital currency, as House and Senate leaders came to a deal on the 21st Century Road to Housing Act.",
-      "date": "2026-06-17T06:11:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live markets: Markets turn their focus to the Fed as oil returns to pre-war levels",
+      "title": "Live markets: Fed holds rates steady, but makes a hawkish turn as Warsh takes over",
       "link": "https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june",
       "desc": "Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.",
       "date": "2026-06-17T05:01:03.000Z",
@@ -575,16 +637,6 @@
       "link": "https://bitcoinops.org/en/podcast/2026/06/16/",
       "desc": "Mark “Murch” Erhardt, Gustavo Flores Echaiz, and Mike Schmidt are joined by Vasil Dimov to discuss Newsletter #409.",
       "date": "2026-06-16T00:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin Covenants Part 2: OP_CHECKTEMPLATEVERIFY",
-      "link": "https://cointelegraph.com/research/bitcoin-covenants-part-2-op-checktemplateverify?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "CTV lets a Bitcoin output commit to precisely what the next transaction must look like. This enables trust-minimized vaults, congestion control, and smart contract primitives without pre-signed key management.",
-      "date": "2026-06-16T23:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -951,16 +1003,6 @@
       "link": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
       "desc": "Uniswap’s native token UNI is set to surge nearly fortyfold in the coming years as Wall Street migrates on-chain, Standard Chartered said.",
       "date": "2026-06-15T18:37:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody's Biting",
-      "link": "https://decrypt.co/371198/solana-treasury-firm-forward-industries-trying-acquire-rivals",
-      "desc": "Forward Industries has been unsuccessful on all three recent attempts to combine with rival publicly traded Solana treasury firms.",
-      "date": "2026-06-15T17:30:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
