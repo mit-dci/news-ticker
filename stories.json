@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-17T05:11:33.106Z",
+  "generatedAt": "2026-06-17T07:16:00.076Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 261,
+  "filteredOut": 262,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 3,
   "items": [
     {
       "source": "bis",
@@ -12,7 +12,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-17T05:11:32.965Z",
+      "date": "2026-06-17T07:15:59.892Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,57 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-17T05:11:32.965Z",
+      "date": "2026-06-17T07:15:59.892Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Senate, House reach agreement on housing bill banning CBDC through 2030",
+      "link": "https://www.theblock.co/post/405037/housing-bill-cbdc-ban-agreement?utm_source=rss&utm_medium=rss",
+      "desc": "US Senate and House leaders have jointly released an updated version of a housing legislation that includes a CBDC ban.",
+      "date": "2026-06-17T07:08:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "BitGo offers Europe’s crypto firms a MiCA-compliance lifeline as license deadline looms",
+      "link": "https://www.coindesk.com/business/2026/06/17/bitgo-offers-europe-s-crypto-firms-a-mica-compliance-lifeline-as-license-deadline-looms",
+      "desc": "BaFin-regulated BitGo says its Crypto-as-a-Service platform can help eligible crypto players across Europe with an alternative way to navigate MiCA.",
+      "date": "2026-06-17T06:34:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Forget the price charts. Here's how bitcoin and S&P 500 look like when adjusted for the money printer",
+      "link": "https://www.coindesk.com/markets/2026/06/17/forget-the-price-charts-here-s-how-bitcoin-and-s-and-p-500-look-like-when-adjusted-for-the-money-printer",
+      "desc": "Valuations shaped by M2 money supply growth paint reveal concerning trends for risk assets.",
+      "date": "2026-06-17T06:30:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Congress reaches deal on housing bill with CBDC ban until 2030",
+      "link": "https://cointelegraph.com/news/congress-reaches-deal-on-housing-bill-inclusive-of-cbdc-ban-until-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The US could soon temporarily ban a central bank digital currency, as House and Senate leaders came to a deal on the 21st Century Road to Housing Act.",
+      "date": "2026-06-17T06:11:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-17T06:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -59,7 +109,7 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Senators urge Treasury ensure state authority in GENIUS application",
+      "title": "Senators urge Treasury to ensure state authority in GENIUS application",
       "link": "https://cointelegraph.com/news/senators-urge-treasury-ensure-state-authority-in-genius-application?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "A bipartisan group of US senators told the Treasury that its application of stablecoin laws should be done in a way that “preserves and promotes State participation.”",
       "date": "2026-06-17T02:21:42.000Z",
@@ -93,16 +143,6 @@
       "link": "https://thedefiant.io/converge/regulation/binance-could-face-eu-exit-as-reports-say-greek-regulator-is-set-to-reject-mica-license",
       "desc": "Greece's Hellenic Capital Market Commission appears set to reject Binance's MiCA license application, putting the world's largest crypto exchange on course to lose EU client access on July 1. Binance disputes the account and says its application was considered compliant, promising an update before",
       "date": "2026-06-16T21:27:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-16T21:26:55.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -458,11 +498,6 @@
           "source": "THE DEFIANT",
           "sourceId": "defiant",
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/blackrock-launches-bita-covered-call-bitcoin-etf-monthly-income"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/404825/blackrock-launches-new-ishares-bitcoin-premium-income-etf-covered-call-nasdaq?utm_source=rss&utm_medium=rss"
         }
       ],
       "termBoost": 0
@@ -689,16 +724,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Antony Jenkins joins fintech VC Aperture Capital",
-      "link": "https://www.finextra.com/newsarticle/47924/antony-jenkins-joins-fintech-vc-aperture-capital?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "10x Banking founder and former Barclays CEO Antony Jenkins has joined early-stage fintech fund Aperture Capital as an investtment committee member.",
-      "date": "2026-06-16T09:22:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Tether Gold now has a dedicated options market on Bybit",
@@ -735,16 +760,6 @@
       "link": "https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "The US Government Accountability Office says that regulators, including the FDIC, lack an “ongoing coordination mechanism for addressing blockchain risks.”",
       "date": "2026-06-16T04:42:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin rises after Bank of Japan hikes interest rates to a 31-year high",
-      "link": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rises-after-bank-of-japan-hikes-interest-rates-to-a-31-year-high",
-      "desc": "The Bank of Japan raised its key interest rate by 25 basis points to 1%, the highest level since 1995.",
-      "date": "2026-06-16T04:30:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -799,16 +814,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BitMine boosts ETH holdings closer to $10B as bear market accumulation continues",
-      "link": "https://cointelegraph.com/news/bitmine-eth-holdings-near-10b-bear-market-accumulation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "BitMine continued buying Ether through the market downturn, growing its stake to nearly 5% of the circulating supply while generating staking yield amid mounting ecosystem challenges.",
-      "date": "2026-06-15T17:55:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody's Biting",
@@ -845,13 +850,7 @@
       "link": "https://bitcoinmagazine.com/news/kraken-launches-cftc-regulated-bitcoin",
       "desc": "Bitcoin Magazine Kraken Launches CFTC-Regulated Bitcoin and Crypto Perpetual Futures for U.S. Traders Kraken has launched CFTC-regulated crypto perpetual futures for eligible U.S. traders through its newly acquired Bitnomial platform, bringing the world's most-traded crypto derivatives product under U.S. regulatory oversight. This post Kraken Launches CFTC-Regulated Bitcoin and Crypto Perpetual Futures for U.S. Traders first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-15T16:17:38.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/kraken-launches-perpetual-futures-for-us-traders-through-cftc-regulated-venue?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
