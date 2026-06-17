@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-06-17T20:16:30.314Z",
+  "generatedAt": "2026-06-17T21:15:58.125Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 257,
-  "errors": [],
+  "successCount": 16,
+  "filteredOut": 218,
+  "errors": [
+    "FEDERAL RESERVE: fetch failed",
+    "FINANCIAL TIMES: fetch failed"
+  ],
   "dupsMerged": 5,
   "items": [
     {
@@ -12,7 +15,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-17T20:16:29.702Z",
+      "date": "2026-06-17T21:15:54.255Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +25,37 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-17T20:16:29.702Z",
+      "date": "2026-06-17T21:15:54.255Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Litecoin Spot ETF Sits at $9M as Altcoin-ETF Era Tests Its Demand Thesis",
+      "link": "https://thedefiant.io/news/markets/litecoin-spot-etf-9m-altcoin-etf-era-demand-thesis-ece431",
+      "desc": "The first US spot Litecoin ETF has been trading for nearly eight months, but Canary Capital's LTCC has drawn under $10 million as LTC sits 89% below its all-time high, testing the thesis that altcoin ETF approval automatically translates into institutional inflows.",
+      "date": "2026-06-17T21:11:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Fidelity joins Wall Street's race to manage stablecoin reserves",
+      "link": "https://www.coindesk.com/markets/2026/06/17/fidelity-joins-wall-street-s-race-to-manage-stablecoin-reserves",
+      "desc": "Following State Street, Fidelity is targeting reserve assets that underpin the expanding stablecoin market.",
+      "date": "2026-06-17T20:30:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin capitulation ‘twice as weak’ after spot liquidity turns supportive: Glassnode",
+      "link": "https://cointelegraph.com/markets/bitcoin-capitulation-twice-as-weak-as-spot-liquidity-turns-supportive-glassnode?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Bitcoin’s realized losses fell by 46% as increasing bid-side liquidity points to easing sell pressure. Can bulls push BTC price back above $70,000?",
+      "date": "2026-06-17T20:26:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -149,6 +182,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Fed holds rates steady in first decision under new Chairman Kevin Warsh",
+      "link": "https://www.coindesk.com/markets/2026/06/17/fed-holds-rates-steady-in-first-decision-under-new-chairman-kevin-warsh",
+      "desc": "The accompanying policy statement and updated economic projections, however, took a hawkish turn.",
+      "date": "2026-06-17T17:52:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "US lawmakers warn against presidential pardon for Sam Bankman-Fried",
@@ -195,16 +238,6 @@
       "link": "https://thedefiant.io/converge/regulation/illinois-strictest-digital-asset-tax-sb3019-cci-veto",
       "desc": "Illinois Governor JB Pritzker has signed SB 3019, the Digital Asset Privilege Tax Act, making the state the first in the country to impose a transaction-based tax on everyday digital-asset activity. The Crypto Council for Innovation is pushing for a line-item veto of Article 3.",
       "date": "2026-06-17T17:05:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "U.S. Bank Marketplace Streamlines Client Access to CheckAlt Receivables Solutions",
-      "link": "https://www.pymnts.com/back-office/accounts-receivable/2026/us-bank-marketplace-streamlines-client-access-checkalt-receivables-solutions/",
-      "desc": "U.S. Bank clients can now access CheckAlt’s integrated receivables and payment processing solutions through the bank’s online marketplace. The marketplace, the U.S. Bank Connected Partnership Network, offers FinTech and other third-party payment and treasury solutions that are fully integrated with U.S. Bank systems, CheckAlt said in a Wednesday (June 17) press release. CheckAlt’s participation […] The post U.S. Bank Marketplace Streamlines Client Access to CheckAlt Receivables Solutions appeared first on PYMNTS.com.",
-      "date": "2026-06-17T16:54:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -393,9 +426,9 @@
       "date": "2026-06-17T13:58:00.000Z",
       "alsoAt": [
         {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/markets/2026/06/17/fed-holds-rates-steady-in-first-decision-under-new-chairman-kevin-warsh"
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405152/crypto-markets-wobble-hawkish-fed-outlook-kevin-warsh-first-fomc-meeting?utm_source=rss&utm_medium=rss"
         }
       ],
       "termBoost": 0
@@ -757,16 +790,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bipartisan senators push Treasury to uphold states’ authorities under the GENIUS Act",
-      "link": "https://www.theblock.co/post/405018/bipartisan-senators-push-treasury-uphold-states-authorities-under-genius-act?utm_source=rss&utm_medium=rss",
-      "desc": "A group of bipartisan senators pressed the Treasury Department to preserve states' ability to regulate stablecoins.",
-      "date": "2026-06-16T20:07:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?",
@@ -823,26 +846,6 @@
       "link": "https://decrypt.co/371311/japan-rates-hit-three-decade-high-but-no-meaningful-disruption-to-crypto-market",
       "desc": "Japan's central bank lifted rates to a level unseen in decades, a move that once shook crypto markets—yet prices barely stirred.",
       "date": "2026-06-16T18:07:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "State Street launches GENIUS Act-aligned money market fund for stablecoin reserves",
-      "link": "https://cointelegraph.com/news/state-street-launches-genius-act-aligned-money-market-fund-for-stablecoin-reserves?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The launch comes amid growing competition among financial institutions to manage assets backing dollar-pegged stablecoins.",
-      "date": "2026-06-16T17:28:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ripple targets Africa’s booming remittance market with Flutterwave investment",
-      "link": "https://cointelegraph.com/news/ripple-flutterwave-africa-stablecoin-remittances-investment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Ripple’s investment in Flutterwave will bring RLUSD, Ripple Payments and XRPL to one of Africa’s largest fintechs as blockchain remittances gain traction.",
-      "date": "2026-06-16T17:28:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -983,16 +986,6 @@
       "link": "https://thedefiant.io/news/cefi/kraken-coinbase-perps-onshore-us-derivatives-launch",
       "desc": "Kraken and Coinbase each launched perpetual futures products Monday, with Kraken going live on CFTC-regulated crypto contracts via Bitnomial and Coinbase introducing four thematic equity-index perpetuals on US soil.",
       "date": "2026-06-15T21:17:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch",
-      "link": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down",
-      "desc": "Pudgy Party, a mobile battle royale game, has closed up shop as the Pudgy Penguins team shifts its focus to its Pudgy World experience.",
-      "date": "2026-06-15T20:47:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
