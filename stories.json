@@ -1,11 +1,61 @@
 {
-  "generatedAt": "2026-06-17T14:12:44.144Z",
+  "generatedAt": "2026-06-17T15:46:17.185Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 257,
+  "filteredOut": 264,
   "errors": [],
   "dupsMerged": 3,
   "items": [
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-17T15:46:16.967Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-17T15:46:16.967Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Florida Man 'Bitcoin Rodney' Pleads Guilty Over $1.8 Billion HyperFund Crypto Fraud",
+      "link": "https://decrypt.co/371420/florida-man-bitcoin-rodney-pleads-guilty-1-8-billion-crypto-fraud",
+      "desc": "A Miami-based man who went by the name “Bitcoin Rodney” pleaded guilty for his role in what prosecutors said was a massive global fraud.",
+      "date": "2026-06-17T15:37:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Trace Finance raises $32M for cross-border stablecoin settlement expansion",
+      "link": "https://cointelegraph.com/news/trace-finance-cross-border-stablecoin-settlement-expansion?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The raise comes as stablecoin regulation advances globally and financial firms invest in infrastructure connecting blockchain payments with traditional banking systems.",
+      "date": "2026-06-17T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin price sets $64.5K week-to-date low as Strategy selling worries return",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-sets-645k-week-to-date-low-as-strategy-selling-worries-return?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Bitcoin circled $65,000 after downside BTC price pressure into the FOMC meeting as analysis warned over the impact of Strategy potentially selling more BTC in the future.",
+      "date": "2026-06-17T14:49:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
@@ -27,22 +77,42 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-17T14:12:43.628Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bhutan sends $34.5 million in bitcoin to Binance, holdings fall below 1,750 BTC: Arkham",
+      "link": "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&utm_medium=rss",
+      "desc": "Bhutan transferred 533 BTC worth $34.5 million to Binance, leaving state-linked wallets holding 1,749.96 BTC, Arkham data shows.",
+      "date": "2026-06-17T14:27:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-17T14:12:43.628Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Stablecoin infrastructure firm Trace Finance raises $32 million Series A, says valuation grew 10x from seed",
+      "link": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&utm_medium=rss",
+      "desc": "CoinFund led the round, with Coinbase Ventures, Haun Ventures, Jump Capital, Paxos, Chainlink Labs and others participating.",
+      "date": "2026-06-17T14:19:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto’s security nightmare won’t be solved by ordinary audits",
+      "link": "https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits",
+      "desc": "Without an update to the current auditing infrastructure, the crypto space will likely continue to suffer significant losses, explains Beyer.",
+      "date": "2026-06-17T14:12:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Limitless CEO says no prediction market platform will dominate, citing perpetual futures precedent",
+      "link": "https://www.theblock.co/post/405086/limitless-ceo-no-prediction-market-platform-will-dominate-perpetual-futures-precedent?utm_source=rss&utm_medium=rss",
+      "desc": "Limitless CEO CJ Hetherington tells Bernstein no platform will dominate prediction markets, sizing the institutional opportunity 10x sports.",
+      "date": "2026-06-17T14:11:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,6 +123,16 @@
       "link": "https://bitcoinmagazine.com/news/oman-launches-mandatory-bitcoin-mining",
       "desc": "Bitcoin Magazine Oman Launches Mandatory National Bitcoin Mining Pool in State-Backed Push for Regulatory Control Oman launched a mandatory state-backed Bitcoin mining pool requiring all licensed miners to participate, tightening regulatory oversight while expanding the country's $700 million-plus push into industrial-scale Bitcoin mining. This post Oman Launches Mandatory National Bitcoin Mining Pool in State-Backed Push for Regulatory Control first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-17T14:11:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ready USDC card halts non-EEA service after issuer change, users report",
+      "link": "https://cointelegraph.com/news/ready-usdc-card-service-halt-non-eea-report?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Users reported losing access to Ready’s USDC card outside the EEA after a card provider change triggered rapid deactivation notices.",
+      "date": "2026-06-17T14:08:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -195,7 +275,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Heir to 135-year Gulf dynasty is moving a $6 trillion trade market onto blockchain rails",
+      "title": "Fifth-generation Kanoo group member is moving a $6 trillion trade market onto blockchain rails",
       "link": "https://www.coindesk.com/business/2026/06/17/heir-to-135-year-gulf-dynasty-is-moving-a-usd6-trillion-trade-market-onto-blockchain-rails",
       "desc": "Abdulla Kanoo says his ARP Digital firm is building settlement infrastructure for the growing flow of trade between emerging economies, a market that could reach $32 trillion by 2030.",
       "date": "2026-06-17T11:30:37.000Z",
@@ -329,16 +409,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "23% of CFOs See Stablecoins Gaining Ground",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/23percent-of-cfos-see-stablecoins-gaining-ground/",
-      "desc": "Stablecoins may be finding their lane with chief financial officers, not as a financial revolution, but as a controlled way to move money through more familiar banking channels. That is the clearest opening in “Waiting for Certainty: Why Most CFOs Are Holding Back on Crypto and Stablecoins,” a recent installment of PYMNTS Intelligence’s 2026 […] The post 23% of CFOs See Stablecoins Gaining Ground appeared first on PYMNTS.com.",
-      "date": "2026-06-17T08:00:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "BitGo offers Europe’s crypto firms a MiCA-compliance lifeline as license deadline looms",
@@ -405,6 +475,16 @@
       "link": "https://cointelegraph.com/news/senators-urge-treasury-ensure-state-authority-in-genius-application?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "A bipartisan group of US senators told the Treasury that its application of stablecoin laws should be done in a way that “preserves and promotes State participation.”",
       "date": "2026-06-17T02:21:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin Covenants Part 2: OP_CHECKTEMPLATEVERIFY",
+      "link": "https://cointelegraph.com/research/bitcoin-covenants-part-2-op-checktemplateverify?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "CTV lets a Bitcoin output commit to precisely what the next transaction must look like. This enables trust-minimized vaults, congestion control, and smart contract primitives without pre-signed key management.",
+      "date": "2026-06-16T23:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -659,16 +739,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "MANTRA to be acquired by Inveniam, backer that invested $20 million last year",
-      "link": "https://www.theblock.co/post/404964/mantra-to-be-acquired-by-inveniam-backer-that-invested-20-million-last-year?utm_source=rss&utm_medium=rss",
-      "desc": "The deal comes after MANTRA’s token suffered a major collapse in 2025 and then the company announced a restructure and layoffs.",
-      "date": "2026-06-16T15:27:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Binance Reportedly Faces European Union Exit as MiCA License Bid Nears Rejection",
@@ -699,26 +769,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Binance says its European regulatory application is compliant despite report of Greek rejection",
-      "link": "https://www.coindesk.com/policy/2026/06/16/binance-says-its-european-regulatory-application-is-fully-compliant-despite-report-of-greek-rejection",
-      "desc": "An EU crypto license application by the world’s largest crypto exchange is set to be rejected by the Greek regulator HCMC, according to a report from Reuters.",
-      "date": "2026-06-16T14:55:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ethereum’s biggest protocol overhaul in years moves into its final development stage",
-      "link": "https://www.coindesk.com/tech/2026/06/16/ethereum-s-biggest-protocol-overhaul-in-years-moves-into-its-final-development-stage",
-      "desc": "Developers are entering the final stretch of work on Glamsterdam, the network's next major upgrade, as teams begin testing a version of the fork in a closed environment.",
-      "date": "2026-06-16T14:48:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Humanity Protocol Launches New H Token Airdrop After $36M Exploit",
@@ -729,32 +779,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "SEC Chair Atkins defends CFTC’s Selig despite questions over agency’s ability to regulate prediction markets",
-      "link": "https://www.theblock.co/post/404956/sec-atkins-defends-cftc-selig-questions-agencys-ability-regulate-prediction-markets?utm_source=rss&utm_medium=rss",
-      "desc": "SEC Chair Paul Atkins came to the defense of CFTC Michael Selig as the derivatives agency digs in its heels on regulating prediction markets.",
-      "date": "2026-06-16T14:36:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Robinhood Cuts 10% of Workforce, Takes $28M Restructuring Charge",
       "link": "https://thedefiant.io/news/cefi/robinhood-cuts-10-percent-workforce-28m-restructuring-charge",
       "desc": "Robinhood is cutting roughly 10% of its full-time employees in a corporate restructuring CEO Vlad Tenev has framed as a push for a high performance culture, with $28 million in charges expected in Q2 2026.",
       "date": "2026-06-16T14:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Binance may be forced to halt services for EU clients next month: Reuters",
-      "link": "https://www.theblock.co/post/404947/binance-may-forced-halt-services-eu-clients-next-month-reuters?utm_source=rss&utm_medium=rss",
-      "desc": "The reported setback comes just weeks before the EU's July 1 deadline for crypto firms to obtain MiCA authorization or cease operating.",
-      "date": "2026-06-16T14:19:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -805,16 +835,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Robinhood cuts 10% of workforce as Tenev touts business strength",
-      "link": "https://cointelegraph.com/news/robinhood-cuts-workforce-tenev-strong-business?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Robinhood cuts about 10% of staff as CEO Vlad Tenev says business “has never been stronger” despite weak Q1 trading.",
-      "date": "2026-06-16T12:13:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Morning Minute: HYPE Soars to ATH as SPCX Takes Off",
@@ -841,26 +861,6 @@
       "link": "https://decrypt.co/371277/south-korea-charges-23-over-crypto-laundering-tied-to-11m-cambodian-scam-ring",
       "desc": "South Korea has arrested dozens accused of moving $11.1 million in crypto for a Cambodia-based phishing group.",
       "date": "2026-06-16T11:42:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Solana treasury firms resist Forward Industries’ consolidation push",
-      "link": "https://cointelegraph.com/news/solana-treasury-firms-reject-forward-industries-offers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Two Solana treasury firms rejected acquisition proposals from Forward Industries, while a third offer expired without a response.",
-      "date": "2026-06-16T11:22:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "About that White House UFC crypto prize",
-      "link": "https://www.ft.com/content/e2a5dfb6-83bc-4263-bc29-a1ba0f8bf7ac",
-      "desc": "CROnching the numbers",
-      "date": "2026-06-16T10:56:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -925,82 +925,12 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "BitGo Joins Fortune 500 with $16.2B Revenue, Marking Milestone for Regulated Bitcoin Infrastructure",
-      "link": "https://bitcoinmagazine.com/business/bitgo-joins-fortune-500-with-16-2b-revenue-marking-milestone-for-regulated-bitcoin-custody",
-      "desc": "Bitcoin Magazine BitGo Joins Fortune 500 with $16.2B Revenue, Marking Milestone for Regulated Bitcoin Infrastructure CEO Mike Belshe’s firm, now operating as a federally chartered OCC trust bank, powers custody for major Bitcoin ETFs, stablecoins like World Liberty Financial’s USD1, and SoFiUSD, highlighting institutional adoption of regulated crypto infrastructure. This post BitGo Joins Fortune 500 with $16.2B Revenue, Marking Milestone for Regulated Bitcoin Infrastructure first appeared on Bitcoin Magazine and is written by Juan Galt.",
-      "date": "2026-06-15T16:22:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Sui Processes $65 Billion in Stablecoin Transfers in Five Days After Zeroing Out Fees",
       "link": "https://thedefiant.io/converge/blockchains/sui-65-billion-stablecoin-transfers-gasless-fee-removal",
       "desc": "The Layer 1's gasless stablecoin design pushed transfer throughput to nearly $65 billion since June 10, recasting Sui as a fee-free settlement rail for institutional and agentic payments.",
       "date": "2026-06-15T16:08:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Giant Strategy Pads Cash Cushion for Second Straight Week, Buys BTC",
-      "link": "https://decrypt.co/371176/bitcoin-giant-strategy-pads-cash-cushion-second-week-buys-btc",
-      "desc": "Strategy expanded its USD Reserve to $1.1 billion and increased its total Bitcoin holdings, after dipping into those funds last month.",
-      "date": "2026-06-15T15:29:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aztec Connect Drained of $2.1M Through Deprecated Contract Three Years After Shutdown",
-      "link": "https://thedefiant.io/news/hacks/aztec-connect-deprecated-contract-exploit-2-1m-zk-proof",
-      "desc": "An attacker exploited a proof-verification flaw in Aztec Connect's abandoned RollupProcessorV3 contract to withdraw roughly $2.1 million, including 909 ETH, from a privacy bridge that Aztec Labs shut down three years ago and can no longer control.",
-      "date": "2026-06-15T15:04:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Thetanuts Finance: $2.1M Attack, Partial White-Hat Recovery",
-      "link": "https://thedefiant.io/news/hacks/aztec-connect-thetanuts-zk-rollup-exploit-4-3m",
-      "desc": "The on-chain options and structured product protocol Thetanuts Finance was exploited for $2.1 million. Security firm Blockaid published the exploit transaction and exploiter address shortly after the attack.",
-      "date": "2026-06-15T15:02:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "One Indicted Over Crypto ‘Wrench Attack’ in France",
-      "link": "https://decrypt.co/371143/one-indicted-over-crypto-wrench-attack-in-france",
-      "desc": "The crypto-related assault reportedly involved attackers posing as police officers, and follows a spate of attacks in the country.",
-      "date": "2026-06-15T14:40:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Strategy Buys 1,587 Bitcoin for $100M Below Its Blended Cost Basis, Lifting Stack to 846,842 BTC",
-      "link": "https://thedefiant.io/news/cefi/strategy-buys-1-587-bitcoin-for-100m-below-its-blended-cost-basis-lifting-stack-to-846-842-btc",
-      "desc": "Michael Saylor's firm paid an average $63,024 a coin this week, roughly 17% under the $75,656 it has paid across its entire 846,842-BTC treasury.",
-      "date": "2026-06-15T14:40:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Tom Lee's BitMine Adds $139 Million in Ethereum Ahead of Preferred Share Trading Start",
-      "link": "https://decrypt.co/371142/tom-lees-bitmine-139-million-ethereum-preferred-share-trading",
-      "desc": "BitMine Immersion Technologies expanded its leading Ethereum treasury to more than 5.6 million ETH valued at greater than $10 billion.",
-      "date": "2026-06-15T14:36:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
