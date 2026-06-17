@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-17T23:00:46.525Z",
+  "generatedAt": "2026-06-17T23:59:26.973Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 259,
+  "filteredOut": 260,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "bis",
@@ -12,7 +12,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-17T23:00:45.466Z",
+      "date": "2026-06-17T23:59:26.872Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-17T23:00:45.466Z",
+      "date": "2026-06-17T23:59:26.872Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Illinois Gov. JB Pritzker Triggers Industry Backlash With Crypto Tax Law",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/illinois-gov-jb-pritzker-triggers-industry-backlash-with-crypto-tax-law/",
+      "desc": "The governor of Illinois signed a law that will impose a 0.2% tax on customers’ use of digital asset services, including exchange, transfer or custody activities, according to the Crypto Council for Innovation (CCI). The organization outlined the law in a Tuesday (June 16) letter in which it asked Gov. JB Pritzker to issue a line-item veto for the […] The post Illinois Gov. JB Pritzker Triggers Industry Backlash With Crypto Tax Law appeared first on PYMNTS.com.",
+      "date": "2026-06-17T23:15:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -157,6 +167,11 @@
       "date": "2026-06-17T19:13:41.000Z",
       "alsoAt": [
         {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/47949/brazilian-stablecoin-infrastructure-firm-trace-finance-raises-32m?utm_medium=rssfinextra&utm_source=finextrafeed"
+        },
+        {
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&utm_medium=rss"
@@ -201,16 +216,6 @@
       "link": "https://decrypt.co/371439/bitcoin-slides-fed-deliver-price-stability-under-kevin-warsh",
       "desc": "The first FOMC meeting under new Federal Reserve Chair Kevin Warsh produced the expected result, yet Bitcoin and other assets dipped.",
       "date": "2026-06-17T18:20:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "CFTC Seeks Industry Input to Unlock FinTech Innovation",
-      "link": "https://www.pymnts.com/legal/regulation/2026/cftc-seeks-industry-input-to-unlock-fintech-innovation/",
-      "desc": "The Commodity Futures Trading Commission (CFTC) is looking for ways it can make it easier for FinTech firms to partner with federally regulated institutions. The regulator has issued a Request for Information that will assist it in identifying regulations, guidance documents, orders, no-action letters and other CFTC regulatory items that unduly impede FinTechs from […] The post CFTC Seeks Industry Input to Unlock FinTech Innovation appeared first on PYMNTS.com.",
-      "date": "2026-06-17T18:03:52.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -819,16 +824,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Coinbase lets users transfer stock portfolios as exchange expands beyond crypto",
-      "link": "https://cointelegraph.com/news/coinbase-acats-stock-portfolio-transfers-beyond-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The crypto exchange is deepening its push into traditional finance by enabling ACATS stock transfers and expanding trading products beyond digital assets.",
-      "date": "2026-06-16T19:31:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options",
@@ -955,16 +950,6 @@
       "link": "https://decrypt.co/371280/morning-minute-hype-soars-to-ath-as-spcx-takes-off",
       "desc": "SPCX jumped 20%+ in after hours trading last night with all eyes on its Hyperliquid perp, leading to a 12% spike in HYPE.",
       "date": "2026-06-16T12:03:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "BlackRock Debuts BITA Bitcoin ETF, Trading Partial Upside for Double-Digit Yield",
-      "link": "https://decrypt.co/371246/blackrock-debuts-bita-bitcoin-etf-trading-upside-double-digit-yield",
-      "desc": "BlackRock launched an ETF that limits Bitcoin gains in exchange for double-digit payouts by selling call options on its holdings.",
-      "date": "2026-06-16T12:01:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
