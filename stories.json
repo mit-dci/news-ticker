@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-17T01:52:54.044Z",
+  "generatedAt": "2026-06-17T03:11:14.096Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 260,
+  "filteredOut": 261,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "bis",
@@ -12,7 +12,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-17T01:52:53.302Z",
+      "date": "2026-06-17T03:11:13.797Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-17T01:52:53.302Z",
+      "date": "2026-06-17T03:11:13.797Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Senators urge Treasury ensure state authority in GENIUS application",
+      "link": "https://cointelegraph.com/news/senators-urge-treasury-ensure-state-authority-in-genius-application?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "A bipartisan group of US senators told the Treasury that its application of stablecoin laws should be done in a way that “preserves and promotes State participation.”",
+      "date": "2026-06-17T02:21:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -609,16 +619,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "India files charges against 8 defendants in alleged $20 million Coinbase spoofing scam",
-      "link": "https://www.theblock.co/post/404872/india-files-charges-against-8-defendants-in-alleged-20-million-coinbase-spoofing-scam?utm_source=rss&utm_medium=rss",
-      "desc": "India's Directorate of Enforcement charged Chirag Tomar and associates over an alleged $20 million Coinbase spoofing scheme.",
-      "date": "2026-06-16T11:05:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "ft",
       "sourceName": "FINANCIAL TIMES",
       "title": "About that White House UFC crypto prize",
@@ -725,6 +725,16 @@
       "link": "https://thedefiant.io/news/cefi/kraken-coinbase-perps-onshore-us-derivatives-launch",
       "desc": "Kraken and Coinbase each launched perpetual futures products Monday, with Kraken going live on CFTC-regulated crypto contracts via Bitnomial and Coinbase introducing four thematic equity-index perpetuals on US soil.",
       "date": "2026-06-15T21:17:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Pudgy Penguins NFT Game 'Pudgy Party' Shuts Down Less Than a Year After Launch",
+      "link": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down",
+      "desc": "Pudgy Party, a mobile battle royale game, has closed up shop as the Pudgy Penguins team shifts its focus to its Pudgy World experience.",
+      "date": "2026-06-15T20:47:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -922,22 +932,6 @@
       "desc": "Standard Chartered analyst Geoffrey Kendrick's bullish call comes as spot bitcoin exchange-traded fund inflows return, oil prices fall and Coinbase's CEO says bitcoin likely bottomed near $60,000.",
       "date": "2026-06-15T14:16:45.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Pudgy Penguins winds down Pudgy Party mobile game",
-      "link": "https://cointelegraph.com/news/pudgy-penguins-winds-down-pudgy-party-mobile-game?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Pudgy Penguins will halt development of Pudgy Party and focus on Pudgy World, as another Web3 gaming project shuts down after failing to find a sustainable business model.",
-      "date": "2026-06-15T14:05:14.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down"
-        }
-      ],
       "termBoost": 0
     },
     {
