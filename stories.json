@@ -1,13 +1,10 @@
 {
-  "generatedAt": "2026-06-17T21:15:58.125Z",
+  "generatedAt": "2026-06-17T22:11:23.857Z",
   "sourceCount": 18,
-  "successCount": 16,
-  "filteredOut": 218,
-  "errors": [
-    "FEDERAL RESERVE: fetch failed",
-    "FINANCIAL TIMES: fetch failed"
-  ],
-  "dupsMerged": 5,
+  "successCount": 18,
+  "filteredOut": 259,
+  "errors": [],
+  "dupsMerged": 7,
   "items": [
     {
       "source": "bis",
@@ -15,7 +12,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-17T21:15:54.255Z",
+      "date": "2026-06-17T22:11:23.845Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -25,8 +22,60 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-17T21:15:54.255Z",
+      "date": "2026-06-17T22:11:23.845Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Michigan Federal Judge Rules Sports Prediction Markets Are Not Under CFTC Purview",
+      "link": "https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview",
+      "desc": "The judge said Polymarket is not likely to succeed on the merits of its case against Michigan state regulators.",
+      "date": "2026-06-17T22:06:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-17T21:55:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Gaming groups urge Congress to ban prediction markets sports betting in CLARITY Act",
+      "link": "https://cointelegraph.com/news/gaming-organizations-congress-prediction-markets-ban-clarity-act?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Gambling industry groups want the US Senate to step in to clarify that the Commodity Futures Trading Commission does not have the authority to oversee prediction markets.",
+      "date": "2026-06-17T21:37:01.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405030/gaming-industry-urges-congress-ban-sports-prediction-markets?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Zama, Morpho and Steakhouse Open First Confidential USDC Yield Vault on Ethereum",
+      "link": "https://thedefiant.io/news/defi/zama-morpho-steakhouse-confidential-usdc-yield-vault-ethereum",
+      "desc": "Zama, Morpho and Steakhouse open the first DeFi yield vault for Confidential USDC on June 23, routing encrypted cUSDC into Steakhouse Prime v2 on Morpho and putting fully homomorphic encryption to work in live lending.",
+      "date": "2026-06-17T21:19:15.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/404992/zama-morpho-steakhouse-launch-first-confidential-defi-yield-vault-ethereum?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -464,16 +513,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-17T13:15:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Senators Introduce Bipartisan Resolution Opposing SBF Pardon",
@@ -606,16 +645,6 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "Zama, Morpho and Steakhouse launch first ‘confidential DeFi yield’ vault on Ethereum",
-      "link": "https://www.theblock.co/post/404992/zama-morpho-steakhouse-launch-first-confidential-defi-yield-vault-ethereum?utm_source=rss&utm_medium=rss",
-      "desc": "Zama, Morpho and Steakhouse launch the first confidential DeFi yield vault on Ethereum, letting firms earn yield without exposed balances.",
-      "date": "2026-06-17T10:00:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
       "title": "Australia’s High Court backs regulator in Block Earner crypto yield case",
       "link": "https://www.theblock.co/post/405048/australia-high-court-block-earner-crypto-yield-case?utm_source=rss&utm_medium=rss",
       "desc": "Australia’s High Court unanimously ruled that Block Earner required a financial services licence, overturning a 2025 appeal decision.",
@@ -686,26 +715,6 @@
       "link": "https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june",
       "desc": "Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.",
       "date": "2026-06-17T05:01:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP gives back breakout gains, slipping below $1.23 on heavy selling",
-      "link": "https://www.coindesk.com/markets/2026/06/17/xrp-gives-back-breakout-gains-slipping-below-usd1-23-on-heavy-selling",
-      "desc": "XRP briefly traded above key resistance before sellers stepped in, with rising volume suggesting traders used the rally to cut positions rather than add risk.",
-      "date": "2026-06-17T04:39:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "US gaming industry groups urge Senate to ban sports prediction markets in crypto bill: report",
-      "link": "https://www.theblock.co/post/405030/gaming-industry-urges-congress-ban-sports-prediction-markets?utm_source=rss&utm_medium=rss",
-      "desc": "US gaming groups called on Congress to ban sports and casino-style prediction markets in a crypto market structure bill, Semafor reported.",
-      "date": "2026-06-17T04:19:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -826,16 +835,6 @@
       "link": "https://decrypt.co/371293/coinbase-launch-tokenized-stock-trading-crypto-equities-options",
       "desc": "Publicly traded crypto exchange Coinbase added to its feature set Tuesday as it seeks to become the \"everything exchange.\"",
       "date": "2026-06-16T19:00:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "XRP whale wallet withdrawals top 720M as risk-adjusted return data points to opportunity",
-      "link": "https://cointelegraph.com/markets/xrp-whale-withdrawals-top-720m-as-risk-adjusted-returns-hints-an-opporunity?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Whales pulled more than 720 million XRP from exchanges, as various data points converge to predict a potential 50% rally.",
-      "date": "2026-06-16T18:44:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -966,26 +965,6 @@
       "link": "https://decrypt.co/371246/blackrock-debuts-bita-bitcoin-etf-trading-upside-double-digit-yield",
       "desc": "BlackRock launched an ETF that limits Bitcoin gains in exchange for double-digit payouts by selling call options on its holdings.",
       "date": "2026-06-16T12:01:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "South Korea Charges 23 Over Crypto Laundering Tied to $11M Cambodian Scam Ring",
-      "link": "https://decrypt.co/371277/south-korea-charges-23-over-crypto-laundering-tied-to-11m-cambodian-scam-ring",
-      "desc": "South Korea has arrested dozens accused of moving $11.1 million in crypto for a Cambodia-based phishing group.",
-      "date": "2026-06-16T11:42:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Kraken and Coinbase Bring Perps Onshore as US Derivatives Markets Shift",
-      "link": "https://thedefiant.io/news/cefi/kraken-coinbase-perps-onshore-us-derivatives-launch",
-      "desc": "Kraken and Coinbase each launched perpetual futures products Monday, with Kraken going live on CFTC-regulated crypto contracts via Bitnomial and Coinbase introducing four thematic equity-index perpetuals on US soil.",
-      "date": "2026-06-15T21:17:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
