@@ -1,11 +1,111 @@
 {
-  "generatedAt": "2026-06-17T09:10:50.757Z",
+  "generatedAt": "2026-06-17T11:13:54.674Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 262,
+  "filteredOut": 259,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 4,
   "items": [
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-17T11:13:53.510Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-17T11:13:53.510Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "China pays closer attention to stablecoins as cross-border role expands",
+      "link": "https://cointelegraph.com/news/china-central-bank-stablecoins-cross-border-payments?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "A senior PBOC official called for closer monitoring, stronger regulation and international coordination as stablecoins gain importance in global payments.",
+      "date": "2026-06-17T11:02:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin is setting up 'meaningful floors' in $60K–$70K range: Analyst",
+      "link": "https://cointelegraph.com/markets/bitcoin-is-setting-up-meaningful-floors-in-60k70k-range-analyst?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Bitcoin’s $6000–$70,000 cost-basis cluster hints at a bottom, but a bearish daily flag keeps BTC exposed to a deeper selloff toward $50,000.",
+      "date": "2026-06-17T11:02:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Uniswap Jumps Double Digits as Standard Chartered Eyes $100 UNI by 2030",
+      "link": "https://decrypt.co/371393/uniswap-jumps-double-digits-as-standard-chartered-eyes-100-uni-by-2030",
+      "desc": "The DeFi token is up 20% in a day, with a Standard Chartered note and Uniswap's tokenized-stock launch fueling fresh demand.",
+      "date": "2026-06-17T10:48:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "UNI token surges while rest of crypto market looks to Fed's Warsh for guidance",
+      "link": "https://www.coindesk.com/markets/2026/06/17/uni-token-surges-while-rest-of-crypto-market-looks-to-fed-s-warsh-for-guidance",
+      "desc": "The Federal Open Markets Committee is set to announce the first interest-rate decision under Fed Chair Kevin Warsh, who then faces questions from journalists.",
+      "date": "2026-06-17T10:36:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Forget retail traders: The real multi-trillion-dollar crypto future is building infrastructure for machines",
+      "link": "https://www.coindesk.com/business/2026/06/17/forget-retail-traders-the-real-multi-trillion-dollar-future-of-crypto-is-building-infrastructure-for-machines",
+      "desc": "While legacy banks keep corporate money idled in slow regional accounts, a new protocol allows software systems to settle multi-currency trade instantly.",
+      "date": "2026-06-17T10:29:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Hyperliquid's $10B open interest coincides with growth in equity-linked markets: Talos",
+      "link": "https://cointelegraph.com/news/hyperliquids-10b-open-interest-growth-equities-commodities?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Hyperliquid’s $10 billion open interest milestone shows growing demand for onchain equities and commodities trading with 24/7 accessibility, according to Talos.",
+      "date": "2026-06-17T10:03:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Zama, Morpho and Steakhouse launch first ‘confidential DeFi yield’ vault on Ethereum",
+      "link": "https://www.theblock.co/post/404992/zama-morpho-steakhouse-launch-first-confidential-defi-yield-vault-ethereum?utm_source=rss&utm_medium=rss",
+      "desc": "Zama, Morpho and Steakhouse launch the first confidential DeFi yield vault on Ethereum, letting firms earn yield without exposed balances.",
+      "date": "2026-06-17T10:00:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Australia’s High Court backs regulator in Block Earner crypto yield case",
+      "link": "https://www.theblock.co/post/405048/australia-high-court-block-earner-crypto-yield-case?utm_source=rss&utm_medium=rss",
+      "desc": "Australia’s High Court unanimously ruled that Block Earner required a financial services licence, overturning a 2025 appeal decision.",
+      "date": "2026-06-17T09:45:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
@@ -17,22 +117,28 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-17T09:10:50.308Z",
-      "alsoAt": [],
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "House, Senate Strike Deal on Housing Bill With CBDC Ban Through 2030",
+      "link": "https://decrypt.co/371390/house-senate-strike-deal-on-housing-bill-with-cbdc-ban-through-2030",
+      "desc": "A bicameral deal on the 21st Century ROAD to Housing Act revives a provision barring the Fed from issuing a digital dollar until 2030.",
+      "date": "2026-06-17T09:34:43.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405037/housing-bill-cbdc-ban-agreement?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-17T09:10:50.308Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BitGo courts crypto firms awaiting MiCA approval amid Binance licensing concerns",
+      "link": "https://cointelegraph.com/news/bitgo-mica-vasp-workaround-binance-license-uncertainty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "BitGo launches a MiCA-compliant crypto infrastructure platform in Europe as exchanges face pressure to meet July 1 licensing rules across the EU.",
+      "date": "2026-06-17T09:02:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,16 +149,6 @@
       "link": "https://www.pymnts.com/cryptocurrency/2026/23percent-of-cfos-see-stablecoins-gaining-ground/",
       "desc": "Stablecoins may be finding their lane with chief financial officers, not as a financial revolution, but as a controlled way to move money through more familiar banking channels. That is the clearest opening in “Waiting for Certainty: Why Most CFOs Are Holding Back on Crypto and Stablecoins,” a recent installment of PYMNTS Intelligence’s 2026 […] The post 23% of CFOs See Stablecoins Gaining Ground appeared first on PYMNTS.com.",
       "date": "2026-06-17T08:00:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Senate, House reach agreement on housing bill banning CBDC through 2030",
-      "link": "https://www.theblock.co/post/405037/housing-bill-cbdc-ban-agreement?utm_source=rss&utm_medium=rss",
-      "desc": "US Senate and House leaders have jointly released an updated version of a housing legislation that includes a CBDC ban.",
-      "date": "2026-06-17T07:08:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -544,16 +640,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Ripple takes stake in Flutterwave",
-      "link": "https://www.finextra.com/newsarticle/47931/ripple-takes-stake-in-flutterwave?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "African payments powerhouse Flutterwave has hit a $3.25 billion valuation on its Series E funding round after an investment from US blockchain firm Ripple.",
-      "date": "2026-06-16T13:37:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Bitcoin’s rally and HYPE’s record run mask a market still waiting for real conviction, analysts say",
@@ -570,26 +656,6 @@
       "link": "https://www.theblock.co/post/404882/gate-crossex-an-exchange-native-answer-to-the-institutional-capital-fragmentation-problem?utm_source=rss&utm_medium=rss",
       "desc": "For sophisticated crypto desks, the bottleneck has rarely been finding liquidity, but rather moving capital fast enough to use it. A fund running active books across the largest CEXs operates multiple separate balance sheets that don’t talk to each other. Every account must be funded to meet worst-case requirements. Collateral can’t be netted across venues. […]",
       "date": "2026-06-16T13:24:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ledn says bitcoin-backed lending market could reach $1 trillion as securitization attracts institutional capital",
-      "link": "https://www.theblock.co/post/404885/ledn-says-bitcoin-backed-lending-market-could-reach-1-trillion-as-securitization-attracts-institutional-capital?utm_source=rss&utm_medium=rss",
-      "desc": "The company estimates it has a 30% share of the global consumer bitcoin-backed lending market, originating $1.4 billion in loans in 2025.",
-      "date": "2026-06-16T12:47:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Robinhood cuts 10% of staff, expects $28 million in restructuring charges",
-      "link": "https://www.theblock.co/post/404883/robinhood-cuts-10-of-staff-expects-28-million-in-restructuring-charges?utm_source=rss&utm_medium=rss",
-      "desc": "Robinhood cut 10% of its staff and expects $28 million in restructuring charges tied to flattening management layers and an efficiency push.",
-      "date": "2026-06-16T12:45:59.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -724,42 +790,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Tether Gold now has a dedicated options market on Bybit",
-      "link": "https://www.coindesk.com/markets/2026/06/16/tether-gold-now-has-a-dedicated-options-market-on-bybit",
-      "desc": "These options, settled in USDT, let traders hedge risk, speculate on gold prices.",
-      "date": "2026-06-16T05:52:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin recovery rests on US-Iran deal as momentum remains weak",
       "link": "https://cointelegraph.com/news/bitcoin-price-momentum-remains-weak-despite-reclaiming-67k-swissblock?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "LVRG Research director Nick Ruck says Bitcoin could face a “volatile path” if a recently agreed peace deal between the US and Iran breaks down.",
       "date": "2026-06-16T05:46:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live markets: Bitcoin falls below $66,000 as SpaceX rallies on Cursor agreement",
-      "link": "https://www.coindesk.com/tech/2026/06/16/live-markets-bitcoin-etfs-bled-cash-monday-while-every-other-crypto-etf-gained",
-      "desc": "Ether, XRP, Solana and Hyperliquid funds all took in money, but bitcoin's outflow was really just Grayscale's GBTC.",
-      "date": "2026-06-16T05:41:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "US government watchdog urges FDIC to coordinate on crypto oversight",
-      "link": "https://cointelegraph.com/news/us-government-watchdog-urges-fdic-coordinate-on-crypto-oversight?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The US Government Accountability Office says that regulators, including the FDIC, lack an “ongoing coordination mechanism for addressing blockchain risks.”",
-      "date": "2026-06-16T04:42:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -790,16 +826,6 @@
       "link": "https://decrypt.co/371227/polymarket-trader-loses-1-million-spain-world-cup-bet",
       "desc": "One trader lost $1 million betting Spain would win. Another bought \"No\" at 9¢ and walked away with $4.3 million.",
       "date": "2026-06-15T20:06:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
-      "link": "https://cointelegraph.com/news/sec-crypto-adviser-cftc-blockchain-forensics?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The CFTC staff appointment came amid the US Congress seeking to overhaul federal financial regulators’ roles over digital assets with the CLARITY Act.",
-      "date": "2026-06-15T18:41:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
