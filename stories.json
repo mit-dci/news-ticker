@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-17T15:46:17.185Z",
+  "generatedAt": "2026-06-17T17:04:41.989Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 264,
+  "filteredOut": 261,
   "errors": [],
   "dupsMerged": 3,
   "items": [
@@ -12,7 +12,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-17T15:46:16.967Z",
+      "date": "2026-06-17T17:04:41.109Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,87 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-17T15:46:16.967Z",
+      "date": "2026-06-17T17:04:41.109Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "U.S. Bank Marketplace Streamlines Client Access to CheckAlt Receivables Solutions",
+      "link": "https://www.pymnts.com/back-office/accounts-receivable/2026/us-bank-marketplace-streamlines-client-access-checkalt-receivables-solutions/",
+      "desc": "U.S. Bank clients can now access CheckAlt’s integrated receivables and payment processing solutions through the bank’s online marketplace. The marketplace, the U.S. Bank Connected Partnership Network, offers FinTech and other third-party payment and treasury solutions that are fully integrated with U.S. Bank systems, CheckAlt said in a Wednesday (June 17) press release. CheckAlt’s participation […] The post U.S. Bank Marketplace Streamlines Client Access to CheckAlt Receivables Solutions appeared first on PYMNTS.com.",
+      "date": "2026-06-17T16:54:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto industry aghast at Illinois' new tax on holding or transferring digital assets in state budget",
+      "link": "https://www.coindesk.com/policy/2026/06/17/crypto-industry-aghast-at-illinois-new-tax-on-holding-or-transferring-digital-assets-in-state-budget",
+      "desc": "The 0.2% tax on any business activity involving digital assets was added last-minute, and is unlikely to change, two people familiar with the matter said.",
+      "date": "2026-06-17T16:50:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto Long & Short: The measure of a maturing market",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-long-and-short-the-measure-of-a-maturing-market",
+      "desc": "In this week's Crypto Long & Short, trusted indexes turn fragmented digital assets into a mature market that big institutions can confidently invest in, writes Kirsten Wegner. Then, the division between traditional finance (TradFi) and crypto is disappearing, says Dave LaValle, President of CoinDesk Data & Indices.",
+      "date": "2026-06-17T16:48:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ethereum's Glamsterdam Upgrade Enters Final Devnet Phase With 200M Gas-Limit Target",
+      "link": "https://thedefiant.io/news/blockchains/ethereum-glamsterdam-final-devnet-200m-gas-limit-target",
+      "desc": "Glamsterdam has reached its final devnet stage, locking in ten EIPs including ePBS and Block-Level Access Lists. The bundle clears the path for a 200 million gas-limit floor and mainnet activation in H2 2026.",
+      "date": "2026-06-17T16:44:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "MiCA’s Moment of Truth: Can Crypto Survive the Regulation It Asked For?",
+      "link": "https://www.pymnts.com/blockchain/2026/micas-moment-of-truth-can-crypto-survive-the-regulation-it-asked-for/",
+      "desc": "The question for banks and payment players isn’t whether crypto is becoming compliant, but whether compliance finally makes crypto useful. For years, crypto firms argued that regulatory uncertainty was holding back innovation. Europe responded with Markets in Crypto-Assets (MiCA), the world’s first comprehensive framework governing crypto exchanges, stablecoin issuers and digital asset service providers. […] The post MiCA’s Moment of Truth: Can Crypto Survive the Regulation It Asked For? appeared first on PYMNTS.com.",
+      "date": "2026-06-17T16:25:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bybit lands on Singapore MAS Investor Alert List",
+      "link": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Crypto exchange Bybit has been added to Singapore’s MAS Investor Alert List, which flags entities that may be mistakenly perceived as licensed or regulated.",
+      "date": "2026-06-17T16:25:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Polychain and Coinbase-backed Satori Finance DEX winds down citing ‘unfavorable market conditions’",
+      "link": "https://www.theblock.co/post/405136/polychain-coinbase-backed-satori-finance-dex-winds-down-unfavorable-market-conditions?utm_source=rss&utm_medium=rss",
+      "desc": "Satori raised $10 million in a May 2022 seed round led by Polychain Capital with participation from Coinbase, Jump and others.",
+      "date": "2026-06-17T16:19:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Moody’s rolls out credit ratings on Solana in tokenized asset push",
+      "link": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push",
+      "desc": "The ratings giant is embedding credit scores directly into blockchain-based securities, a move aimed at boosting institutional adoption.",
+      "date": "2026-06-17T16:13:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -479,6 +559,26 @@
       "termBoost": 0
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Matter Labs Cuts Staff, Pivots Fully to Institutional Privacy Platform Prividium",
+      "link": "https://thedefiant.io/news/people/matter-labs-cuts-staff-pivots-prividium-institutional-privacy",
+      "desc": "Matter Labs CEO Alex Gluchowski announced layoffs and a full strategic pivot on Tuesday, committing the company behind zkSync entirely to Prividium, its institutional on-chain privacy infrastructure platform.",
+      "date": "2026-06-17T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #409 Recap Podcast",
+      "link": "https://bitcoinops.org/en/podcast/2026/06/16/",
+      "desc": "Mark “Murch” Erhardt, Gustavo Flores Echaiz, and Mike Schmidt are joined by Vasil Dimov to discuss Newsletter #409.",
+      "date": "2026-06-16T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin Covenants Part 2: OP_CHECKTEMPLATEVERIFY",
@@ -639,16 +739,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Squid adds Ripple’s RLUSD stablecoin for cross-chain swaps",
-      "link": "https://www.theblock.co/post/405005/squid-ripple-rlusd-stablecoin-cross-chain-swaps?utm_source=rss&utm_medium=rss",
-      "desc": "Cross-chain platform Squid has integrated Ripple's RLUSD stablecoin, allowing users to swap into and out of RLUSD across chains and assets.",
-      "date": "2026-06-16T17:40:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "State Street launches GENIUS Act-aligned money market fund for stablecoin reserves",
@@ -675,16 +765,6 @@
       "link": "https://bitcoinmagazine.com/business/cardone-capitals-bitcoin-reit-hybrid-targeting-22-32-returns-by-blending-cash-flowing-properties-and-btc-holdings",
       "desc": "Bitcoin Magazine Cardone Capital’s Bitcoin-REIT Hybrid: Targeting 22-32% Returns by Blending Cash-Flowing Properties and BTC Holdings At Consensus 2026, Cardone detailed how his firm acquired a 366-unit Boca Raton property for $235M and paired it with $100M in Bitcoin, generating tax benefits and aiming for 22-32% returns over decades. This post Cardone Capital’s Bitcoin-REIT Hybrid: Targeting 22-32% Returns by Blending Cash-Flowing Properties and BTC Holdings first appeared on Bitcoin Magazine and is written by Juan Galt.",
       "date": "2026-06-16T17:27:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin DeFi demand concentrated in small-but-deep pockets, Rootstock exec says",
-      "link": "https://www.theblock.co/post/404980/bitcoin-defi-demand-concentrated-small-pockets-rootstock-exec-says?utm_source=rss&utm_medium=rss",
-      "desc": "DeFi liquidity is down, with total value locked dropping from roughly $180 billion to $70 billion in less than a year.",
-      "date": "2026-06-16T17:19:38.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -719,16 +799,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ripple invests in Flutterwave, pushing its stablecoin and XRP Ledger into payments across Africa",
-      "link": "https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa",
-      "desc": "The deal values Flutterwave at $3.2 billion, and will integrate Ripple's RLUSD and the XRP Ledger network to speed cross-border payments across Africa.",
-      "date": "2026-06-16T15:35:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Coinbase CEO Armstrong Calls Accredited-Investor Rules a 'Regressive Tax'",
@@ -759,16 +829,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Coinbase to join tokenized stock race with onchain shares, dividend payments",
-      "link": "https://www.coindesk.com/business/2026/06/16/coinbase-to-join-tokenized-stock-race-with-onchain-shares-dividend-payments",
-      "desc": "The crypto exchange said investors will own the shares and receive dividends, underscoring growing momentum behind tokenized securities.",
-      "date": "2026-06-16T15:03:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Humanity Protocol Launches New H Token Airdrop After $36M Exploit",
@@ -785,16 +845,6 @@
       "link": "https://thedefiant.io/news/cefi/robinhood-cuts-10-percent-workforce-28m-restructuring-charge",
       "desc": "Robinhood is cutting roughly 10% of its full-time employees in a corporate restructuring CEO Vlad Tenev has framed as a push for a high performance culture, with $28 million in charges expected in Q2 2026.",
       "date": "2026-06-16T14:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "SpaceX’s debut: A win for crypto price discovery, a fail for tokenized access",
-      "link": "https://cointelegraph.com/features/spacex-ipo-crypto-price-tokenized-stock?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "SpaceX’s blockbuster debut didn’t just mint a trillionaire; it became a real-world stress test for crypto’s promise of democratized market access.",
-      "date": "2026-06-16T14:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -911,26 +961,6 @@
       "link": "https://decrypt.co/371198/solana-treasury-firm-forward-industries-trying-acquire-rivals",
       "desc": "Forward Industries has been unsuccessful on all three recent attempts to combine with rival publicly traded Solana treasury firms.",
       "date": "2026-06-15T17:30:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Paradigm Leads $9 Million Round in Latin American Stablecoin App El Dorado",
-      "link": "https://thedefiant.io/converge/cefi/paradigm-leads-9m-round-el-dorado-latam-stablecoin-app",
-      "desc": "Paradigm has led a roughly $9 million round in El Dorado, the stablecoin-powered payments app that has signed up more than a million users across Latin America. The bet extends the venture firm's push into dollar-rails for emerging markets.",
-      "date": "2026-06-15T16:36:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Sui Processes $65 Billion in Stablecoin Transfers in Five Days After Zeroing Out Fees",
-      "link": "https://thedefiant.io/converge/blockchains/sui-65-billion-stablecoin-transfers-gasless-fee-removal",
-      "desc": "The Layer 1's gasless stablecoin design pushed transfer throughput to nearly $65 billion since June 10, recasting Sui as a fee-free settlement rail for institutional and agentic payments.",
-      "date": "2026-06-15T16:08:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
