@@ -1,28 +1,104 @@
 {
-  "generatedAt": "2026-06-17T18:16:45.890Z",
+  "generatedAt": "2026-06-17T19:18:28.695Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 256,
+  "filteredOut": 253,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-17T18:16:45.464Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-17T18:16:45.464Z",
+      "date": "2026-06-17T19:18:28.212Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-17T19:18:28.211Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "CoinFund, Coinbase Back Stablecoin Payments Startup Trace in $32 Million Raise",
+      "link": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
+      "desc": "Stablecoin infrastructure firm Trace Finance said Wednesday that it raised a $32 million Series A round to help expand its reach.",
+      "date": "2026-06-17T19:17:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin layer-2s face a bear-market reality check",
+      "link": "https://www.coindesk.com/tech/2026/06/17/bitcoin-layer-2s-face-a-bear-market-reality-check",
+      "desc": "Botanix's shutdown has raised an uncomfortable question for Bitcoin builders: Does the market actually want programmable BTC, or just a better way to borrow, lend and earn yield on it?",
+      "date": "2026-06-17T19:17:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Trace Finance Raises $32 Million for Stablecoin Infrastructure Offering",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/trace-finance-raises-32-million-for-stablecoin-infrastructure-offering/",
+      "desc": "Cross-border payments/stablecoin settlement infrastructure company Trace Finance has raised $32 million in new funding. The Series A financing, announced Wednesday (June 17), will help Trace deepen its product capabilities in areas like foreign exchange (FX), compliance and stablecoin settlements and expand within “priority jurisdictions” such as Brazil, the U.S. and the Asia-Pacific region. “Connecting […] The post Trace Finance Raises $32 Million for Stablecoin Infrastructure Offering appeared first on PYMNTS.com.",
+      "date": "2026-06-17T19:13:41.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "FIFA wanted Avalanche's blockchain to help curb World Cup ticket scalping. Here's how it's going",
+      "link": "https://www.coindesk.com/tech/2026/06/17/fifa-wanted-avalanche-s-blockchain-to-help-curb-world-cup-ticket-scalping-here-s-how-it-s-going",
+      "desc": "In this week's edition of The Protocol Newsletter, we're looking at how FIFA is using the Avalanche blockchain to test out a new ticketing system.",
+      "date": "2026-06-17T19:08:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "‘One of the most anti-crypto laws in the US’: Illinois Gov. Pritzker signs 0.2% crypto tax",
+      "link": "https://www.theblock.co/post/405146/one-most-anti-crypto-laws-in-us-illinois-gov-pritzker-signs-0-2-crypto-tax?utm_source=rss&utm_medium=rss",
+      "desc": "Crypto industry lobbyists and representatives are speaking out against the Digital Asset Tax Act passed into law in Illinois on Tuesday.",
+      "date": "2026-06-17T18:50:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Coinbase-Backed Crypto Perps Exchange Satori Finance Is Shutting Down",
+      "link": "https://decrypt.co/371435/coinbase-backed-crypto-perps-exchange-satori-finance-shutting-down",
+      "desc": "Perps DEX Satori Finance is the latest in a string of crypto firms forced to shut their doors amid an extended market downturn.",
+      "date": "2026-06-17T18:31:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Slides as Fed Says It Will 'Deliver Price Stability' Under Kevin Warsh",
+      "link": "https://decrypt.co/371439/bitcoin-slides-fed-deliver-price-stability-under-kevin-warsh",
+      "desc": "The first FOMC meeting under new Federal Reserve Chair Kevin Warsh produced the expected result, yet Bitcoin and other assets dipped.",
+      "date": "2026-06-17T18:20:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -239,16 +315,6 @@
       "link": "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&utm_medium=rss",
       "desc": "Bhutan transferred 533 BTC worth $34.5 million to Binance, leaving state-linked wallets holding 1,749.96 BTC, Arkham data shows.",
       "date": "2026-06-17T14:27:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Stablecoin infrastructure firm Trace Finance raises $32 million Series A, says valuation grew 10x from seed",
-      "link": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&utm_medium=rss",
-      "desc": "CoinFund led the round, with Coinbase Ventures, Haun Ventures, Jump Capital, Paxos, Chainlink Labs and others participating.",
-      "date": "2026-06-17T14:19:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -691,16 +757,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. senators urge Treasury not to leave states out of GENIUS Act stablecoin process",
-      "link": "https://www.coindesk.com/policy/2026/06/16/u-s-senators-urge-treasury-not-to-leave-states-out-of-genius-act-stablecoin-process",
-      "desc": "Senators led by Republican Cynthia Lummis are insisting the Treasury Department ensure states get a process to prove their ability to supervise stablecoins.",
-      "date": "2026-06-16T20:36:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Crypto Exchange Binance Will Be Rejected for EU Regulatory License: Reuters",
@@ -767,16 +823,6 @@
       "link": "https://cointelegraph.com/markets/xrp-whale-withdrawals-top-720m-as-risk-adjusted-returns-hints-an-opporunity?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Whales pulled more than 720 million XRP from exchanges, as various data points converge to predict a potential 50% rally.",
       "date": "2026-06-16T18:44:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Pump.fun activity craters 80% in three months, dragging Solana fees lower as traders rotate into perps",
-      "link": "https://www.theblock.co/post/404806/pump-fun-activity-craters-80-three-months-solana-fees-lower-traders-rotate-perps?utm_source=rss&utm_medium=rss",
-      "desc": "The platform's fall from grace is best reflected in the PUMP token itself, which is down 40% in the last six months alone.",
-      "date": "2026-06-16T18:26:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -983,26 +1029,6 @@
       "link": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down",
       "desc": "Pudgy Party, a mobile battle royale game, has closed up shop as the Pudgy Penguins team shifts its focus to its Pudgy World experience.",
       "date": "2026-06-15T20:47:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker",
-      "link": "https://decrypt.co/371227/polymarket-trader-loses-1-million-spain-world-cup-bet",
-      "desc": "One trader lost $1 million betting Spain would win. Another bought \"No\" at 9¢ and walked away with $4.3 million.",
-      "date": "2026-06-15T20:06:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Wall Street Could Boost Uniswap's Token Price Nearly 40x by 2030: Standard Chartered",
-      "link": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
-      "desc": "Uniswap’s native token UNI is set to surge nearly fortyfold in the coming years as Wall Street migrates on-chain, Standard Chartered said.",
-      "date": "2026-06-15T18:37:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
