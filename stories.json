@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-18T01:22:27.481Z",
+  "generatedAt": "2026-06-18T02:21:00.247Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 261,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "decrypt",
@@ -23,7 +23,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-18T01:22:27.052Z",
+      "date": "2026-06-18T02:20:59.890Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,16 +33,42 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-18T01:22:27.052Z",
+      "date": "2026-06-18T02:20:59.890Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "CME Group to sue CFTC over approval of perpetual futures, CEO tells CNBC",
+      "link": "https://www.theblock.co/post/405173/cme-group-to-sue-cftc-ceo-says?utm_source=rss&utm_medium=rss",
+      "desc": "CME Group CEO Duffy said perpetual futures should be classified as swaps under the Dodd-Frank Act, which would form the basis of the lawsuit.",
+      "date": "2026-06-18T01:32:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Brazilian stablecoin infrastructure firm Trace Finance raises $32m",
+      "link": "https://www.finextra.com/newsarticle/47949/brazilian-stablecoin-infrastructure-firm-trace-finance-raises-32m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Brazil-based stablecoin infrastructure firm Trace Finance has raised $32 million in Series A funding to expand across Latin America, the US and Asia Pacific.",
+      "date": "2026-06-18T00:01:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
       "source": "pymnts",
       "sourceName": "PYMNTS",
-      "title": "Illinois Gov. JB Pritzker Triggers Industry Backlash With Crypto Tax Law",
+      "title": "Illinois Puts Crypto Transfers in the Tax Crosshairs",
       "link": "https://www.pymnts.com/cryptocurrency/2026/illinois-gov-jb-pritzker-triggers-industry-backlash-with-crypto-tax-law/",
-      "desc": "The governor of Illinois signed a law that will impose a 0.2% tax on customers’ use of digital asset services, including exchange, transfer or custody activities, according to the Crypto Council for Innovation (CCI). The organization outlined the law in a Tuesday (June 16) letter in which it asked Gov. JB Pritzker to issue a line-item veto for the […] The post Illinois Gov. JB Pritzker Triggers Industry Backlash With Crypto Tax Law appeared first on PYMNTS.com.",
+      "desc": "The governor of Illinois signed a law that will impose a 0.2% tax on customers’ use of digital asset services, including exchange, transfer or custody activities, according to the Crypto Council for Innovation (CCI). The organization outlined the law in a Tuesday (June 16) letter in which it asked Gov. JB Pritzker to issue a line-item veto for the […] The post Illinois Puts Crypto Transfers in the Tax Crosshairs appeared first on PYMNTS.com.",
       "date": "2026-06-17T23:15:32.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -167,27 +193,6 @@
       "desc": "Botanix's shutdown has raised an uncomfortable question for Bitcoin builders: Does the market actually want programmable BTC, or just a better way to borrow, lend and earn yield on it?",
       "date": "2026-06-17T19:17:07.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Trace Finance Raises $32 Million for Stablecoin Infrastructure Offering",
-      "link": "https://www.pymnts.com/news/investment-tracker/2026/trace-finance-raises-32-million-for-stablecoin-infrastructure-offering/",
-      "desc": "Cross-border payments/stablecoin settlement infrastructure company Trace Finance has raised $32 million in new funding. The Series A financing, announced Wednesday (June 17), will help Trace deepen its product capabilities in areas like foreign exchange (FX), compliance and stablecoin settlements and expand within “priority jurisdictions” such as Brazil, the U.S. and the Asia-Pacific region. “Connecting […] The post Trace Finance Raises $32 Million for Stablecoin Infrastructure Offering appeared first on PYMNTS.com.",
-      "date": "2026-06-17T19:13:41.000Z",
-      "alsoAt": [
-        {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/47949/brazilian-stablecoin-infrastructure-firm-trace-finance-raises-32m?utm_medium=rssfinextra&utm_source=finextrafeed"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405104/trace-finance-funding-valuation-stablecoins-crypto?utm_source=rss&utm_medium=rss"
-        }
-      ],
       "termBoost": 0
     },
     {
