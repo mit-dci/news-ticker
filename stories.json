@@ -1,18 +1,29 @@
 {
-  "generatedAt": "2026-06-17T23:59:26.973Z",
+  "generatedAt": "2026-06-18T01:22:27.481Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 260,
+  "filteredOut": 261,
   "errors": [],
   "dupsMerged": 8,
   "items": [
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow",
+      "link": "https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow",
+      "desc": "French authorities said that government cybersecurity researchers will stop certifying security products that lack quantum-resistant encryption beginning in 2027.",
+      "date": "2026-06-18T00:31:06.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-17T23:59:26.872Z",
+      "date": "2026-06-18T01:22:27.052Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +33,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-17T23:59:26.872Z",
+      "date": "2026-06-18T01:22:27.052Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -744,16 +755,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinops",
-      "sourceName": "BITCOIN OPTECH",
-      "title": "Bitcoin Optech Newsletter #409 Recap Podcast",
-      "link": "https://bitcoinops.org/en/podcast/2026/06/16/",
-      "desc": "Mark “Murch” Erhardt, Gustavo Flores Echaiz, and Mike Schmidt are joined by Vasil Dimov to discuss Newsletter #409.",
-      "date": "2026-06-16T00:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
@@ -940,16 +941,6 @@
       "link": "https://decrypt.co/371284/hyperliquid-etfs-draw-in-172m-since-launch-as-hype-hits-all-time-high",
       "desc": "U.S. spot Bitcoin ETFs have shed nearly $5.6 billion since Hyperliquid ETFs launched, highlighting market divergence.",
       "date": "2026-06-16T12:32:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Morning Minute: HYPE Soars to ATH as SPCX Takes Off",
-      "link": "https://decrypt.co/371280/morning-minute-hype-soars-to-ath-as-spcx-takes-off",
-      "desc": "SPCX jumped 20%+ in after hours trading last night with all eyes on its Hyperliquid perp, leading to a 12% spike in HYPE.",
-      "date": "2026-06-16T12:03:38.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
