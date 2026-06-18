@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-18T15:45:53.951Z",
+  "generatedAt": "2026-06-18T17:05:12.056Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 266,
+  "filteredOut": 267,
   "errors": [],
   "dupsMerged": 5,
   "items": [
@@ -42,20 +42,30 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-18T15:45:53.646Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-18T17:05:11.420Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-18T15:45:53.646Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-18T17:05:11.419Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Federal Agencies Propose Identity Verification Rule for Stablecoin Issuers",
+      "link": "https://www.pymnts.com/legal/2026/federal-agencies-propose-identity-verification-rule-for-stablecoin-issuers/",
+      "desc": "Five federal agencies are seeking public comment on a proposal to require certain payment stablecoin issuers to maintain a customer identification program. “The proposal would introduce requirements for these stablecoin issuers that are comparable to customer identification program requirements for banks and credit unions,” the Federal Reserve Board said in a Thursday (June 18) […] The post Federal Agencies Propose Identity Verification Rule for Stablecoin Issuers appeared first on PYMNTS.com.",
+      "date": "2026-06-18T15:59:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -150,6 +160,16 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ledn adds Tether Gold as loan collateral, expanding Bitcoin-backed lending model",
+      "link": "https://cointelegraph.com/news/ledn-tether-gold-xaut-loans-bitcoin-backed-lending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Ledn’s addition of Tether Gold lending comes as tokenized commodities expand, with the sector accounting for nearly 17% of the $43 billion RWA market.",
+      "date": "2026-06-18T14:10:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
@@ -165,16 +185,6 @@
       "title": "Tether’s XAUT gold token added to Ledn lending platform",
       "link": "https://www.theblock.co/post/405168/tethers-xaut-gold-token-added-to-ledn-lending-platform?utm_source=rss&utm_medium=rss",
       "desc": "\"When XAUT-backed loans go live, you will be able to borrow against your gold the way you already borrow against Bitcoin,\" Ledn said.",
-      "date": "2026-06-18T14:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ledn adds Tether Gold as loan collateral, expanding Bitcoin-backed lending model",
-      "link": "https://cointelegraph.com/news/ledn-tether-gold-xaut-loans-bitcoin-backed-lending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Ledn’s addition of Tether Gold lending comes as tokenized commodities expand, with the sector accounting for nearly 17% of the $43 billion RWA market.",
       "date": "2026-06-18T14:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -829,16 +839,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Inveniam to acquire Mantra after turbulent year marked by OM crash",
-      "link": "https://cointelegraph.com/news/inveniam-acquire-mantra-om-token-collapse?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Inveniam announced plans to acquire Mantra, a blockchain project that spent the past year recovering from the collapse of its OM token and prolonged market pressure.",
-      "date": "2026-06-17T12:54:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Uniswap Jumps Double Digits as Standard Chartered Eyes $100 UNI by 2030",
@@ -905,16 +905,6 @@
       "link": "https://decrypt.co/371293/coinbase-launch-tokenized-stock-trading-crypto-equities-options",
       "desc": "Publicly traded crypto exchange Coinbase added to its feature set Tuesday as it seeks to become the \"everything exchange.\"",
       "date": "2026-06-16T19:00:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Japan Rates Hit Three-Decade High, But No ‘Meaningful Disruption’ to Crypto Market",
-      "link": "https://decrypt.co/371311/japan-rates-hit-three-decade-high-but-no-meaningful-disruption-to-crypto-market",
-      "desc": "Japan's central bank lifted rates to a level unseen in decades, a move that once shook crypto markets—yet prices barely stirred.",
-      "date": "2026-06-16T18:07:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
