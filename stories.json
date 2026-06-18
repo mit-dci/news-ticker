@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-18T02:21:00.247Z",
+  "generatedAt": "2026-06-18T03:47:27.112Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 261,
+  "filteredOut": 262,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "decrypt",
@@ -23,7 +23,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-18T02:20:59.890Z",
+      "date": "2026-06-18T03:47:27.100Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,27 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-18T02:20:59.890Z",
+      "date": "2026-06-18T03:47:27.100Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Tether winds down gold-backed derivative stablecoin aUSDT",
+      "link": "https://cointelegraph.com/news/tether-winds-down-gold-backed-derivative-stablecoin-ausdt?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Tether is focusing on stronger user demand, deeper liquidity, and broader long-term market opportunity for its leading products.",
+      "date": "2026-06-18T03:26:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Ark Invest buys $18 million worth of Coinbase shares, offloads $29 million in Robinhood",
+      "link": "https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&utm_medium=rss",
+      "desc": "The trades came as Coinbase's stock closed down 2.57% at $164.92 on Wednesday, while Robinhood gained 8.78%.",
+      "date": "2026-06-18T03:03:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -100,13 +120,7 @@
       "link": "https://cointelegraph.com/news/gaming-organizations-congress-prediction-markets-ban-clarity-act?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Gambling industry groups want the US Senate to step in to clarify that the Commodity Futures Trading Commission does not have the authority to oversee prediction markets.",
       "date": "2026-06-17T21:37:01.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405030/gaming-industry-urges-congress-ban-sports-prediction-markets?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -730,16 +744,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live markets: Fed holds rates steady, but makes a hawkish turn as Warsh takes over",
-      "link": "https://www.coindesk.com/tech/2026/06/17/live-markets-a-bitcoin-bottom-signal-flashed-as-holders-absorbed-125-000-btc-in-june",
-      "desc": "Bitcoin's Sharpe ratio hit a level that has marked every cycle low since 2015, but in each case it preceded months of basing rather than an immediate rebound.",
-      "date": "2026-06-17T05:01:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Senators urge Treasury to ensure state authority in GENIUS application",
@@ -806,16 +810,6 @@
       "link": "https://decrypt.co/371343/binance-rejected-eu-regulatory-license-reuters",
       "desc": "Binance said it believes it is compliant as a regulatory deadline in the European Union nears—and a report says it's likely to lose access.",
       "date": "2026-06-16T20:25:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin metric near ‘low-risk’ zone after holders absorb 125K BTC in June: Time for a rebound?",
-      "link": "https://cointelegraph.com/markets/bitcoin-risk-metric-nears-low-risk-zone-as-holders-absorb-125k-btc-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Bitcoin’s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand mark the start of a new demand phase. Will prices follow?",
-      "date": "2026-06-16T19:54:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
