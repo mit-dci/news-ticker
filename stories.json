@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-18T19:18:28.940Z",
+  "generatedAt": "2026-06-18T20:17:44.915Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 272,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "coindesk",
@@ -45,7 +45,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-18T19:18:28.353Z",
+      "date": "2026-06-18T20:17:44.410Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -55,7 +55,87 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-18T19:18:28.353Z",
+      "date": "2026-06-18T20:17:44.410Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Sen. Gillibrand’s son is building a perps exchange that wants dual CFTC, SEC oversight: report",
+      "link": "https://www.theblock.co/post/405334/sen-gillibrand-son-building-perps-exchange-dual-cftc-sec-oversight?utm_source=rss&utm_medium=rss",
+      "desc": "The American Perpetuals Exchange Corporation raised $30 million at a $300 million valuation, Fortune reported on Thursday.",
+      "date": "2026-06-18T20:06:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Rep. Steil introduces bill to block lawmakers from placing prediction markets bets on public policy issues",
+      "link": "https://www.theblock.co/post/405331/rep-steil-introduces-bill-to-block-lawmakers-from-placing-prediction-markets-bets-on-public-policy-issues?utm_source=rss&utm_medium=rss",
+      "desc": "Rep. Bryan Steil introduced legislation aimed at preventing lawmakers and their families from profiting from bets on political outcomes.",
+      "date": "2026-06-18T19:55:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "BlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF",
+      "link": "https://bitcoinmagazine.com/news/blackrock-executive-calls-bitcoin-too-big",
+      "desc": "Bitcoin Magazine BlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF BlackRock's new BITA ETF uses a covered-call strategy on its spot Bitcoin ETF holdings to generate monthly income. This post BlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-18T19:53:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ethereum Foundation leadership exodus continues with director’s departure",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-leadership-exodus-continues-with-directors-departure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Hsiao-Wei Wang’s departure adds to a wave of Ethereum Foundation exits, fueling debate over governance, decentralization and the network’s future.",
+      "date": "2026-06-18T19:51:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "CFTC enters settlement with former Celsius CEO, imposes a permanent trading ban",
+      "link": "https://www.theblock.co/post/405323/cftc-enters-settlement-former-celsius-ceo-imposes-permanent-trading-ban?utm_source=rss&utm_medium=rss",
+      "desc": "The CFTC said it has settled its case against former Celsius CEO Alexander Mashinsky, who is currently serving a 12-year prison sentence.",
+      "date": "2026-06-18T19:28:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator",
+      "link": "https://www.coindesk.com/policy/2026/06/18/ex-celsius-ceo-mashinsky-gets-u-s-cftc-ban-in-final-resolution-with-regulator",
+      "desc": "Alexander Mashinsky, the founder of failed crypto lender Celsius, had earlier been imprisoned for fraud and is now formally banned from CFTC registration.",
+      "date": "2026-06-18T19:26:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Europe's Crypto Firms Face Squeeze as MiCA Transition Period End Looms",
+      "link": "https://decrypt.co/371561/europes-crypto-firms-face-squeeze-mica-transition-period-end-looms",
+      "desc": "As the MiCA grace period closes, only a fraction of registered firms hold full licenses, setting up the prospect of a wave of consolidation.",
+      "date": "2026-06-18T19:26:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Backpack's Tokenized SpaceX Token on Solana Crosses 10,000 Holders, Nearly Double xStocks' SPCXx",
+      "link": "https://thedefiant.io/converge/defi/backpack-s-tokenized-spacex-token-on-solana-crosses-10-000-holders-nearly-double-xstocks-spcxx",
+      "desc": "Backpack's tokenized SpaceX share token has crossed 10,000 onchain holders on Solana, six days after listing alongside the company's Nasdaq debut. The milestone widens the holder gap with rival xStocks' SpaceX product and lands as Backpack chief executive Armani Ferrante stakes out a structural",
+      "date": "2026-06-18T19:19:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -103,20 +183,10 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act rule",
+      "title": "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act pitch",
       "link": "https://www.coindesk.com/policy/2026/06/18/u-s-agencies-seek-stablecoin-customer-id-rules-akin-to-banks-in-new-genius-act-rule",
       "desc": "The Federal Reserve, Treasury and other regulators have issued a proposed rule that would set identification standards, and it's now open for public comments.",
       "date": "2026-06-18T17:17:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Federal Agencies Propose Identity Verification Rule for Stablecoin Issuers",
-      "link": "https://www.pymnts.com/legal/2026/federal-agencies-propose-identity-verification-rule-for-stablecoin-issuers/",
-      "desc": "Five federal agencies are seeking public comment on a proposal to require certain payment stablecoin issuers to maintain a customer identification program. “The proposal would introduce requirements for these stablecoin issuers that are comparable to customer identification program requirements for banks and credit unions,” the Federal Reserve Board said in a Thursday (June 18) […] The post Federal Agencies Propose Identity Verification Rule for Stablecoin Issuers appeared first on PYMNTS.com.",
-      "date": "2026-06-18T15:59:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -177,7 +247,13 @@
       "link": "https://www.theblock.co/post/405271/ethereum-foundation-co-exec-director-board-member-hsiao-wei-wang-steps-down?utm_source=rss&utm_medium=rss",
       "desc": "Several high-ranking EF leaders have left, including the Protocol cluster leads and former co-executive director Tomasz Stańczak.",
       "date": "2026-06-18T15:07:48.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -221,6 +297,16 @@
       "termBoost": 0
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Cap Labs CAP Token Auction Closes at $106 Million FDV With 5.5x Oversubscription",
+      "link": "https://thedefiant.io/news/defi/cap-labs-cap-token-auction-106m-fdv-oversubscription",
+      "desc": "Cap Labs' batch auction for its CAP governance token drew 1,002 bids and $16.4 million in commitments, clearing at $0.011 per token for a $106 million fully diluted valuation.",
+      "date": "2026-06-18T14:06:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Kraken integrates Solana DEX trading into core app, with support for additional networks planned",
@@ -257,13 +343,7 @@
       "link": "https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin",
       "desc": "Bitcoin Magazine CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification CME Group plans to sue the CFTC over its approval of bitcoin perpetual futures, arguing the contracts are swaps — not futures — under Dodd-Frank. This post CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-18T13:50:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405173/cme-group-to-sue-cftc-ceo-says?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -503,16 +583,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ark Invest buys $18 million worth of Coinbase shares, offloads $29 million in Robinhood",
-      "link": "https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood?utm_source=rss&utm_medium=rss",
-      "desc": "The trades came as Coinbase's stock closed down 2.57% at $164.92 on Wednesday, while Robinhood gained 8.78%.",
-      "date": "2026-06-18T03:03:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Brazilian stablecoin infrastructure firm Trace Finance raises $32m",
@@ -613,16 +683,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "FIFA wanted Avalanche's blockchain to help curb World Cup ticket scalping. Here's how it's going",
-      "link": "https://www.coindesk.com/tech/2026/06/17/fifa-wanted-avalanche-s-blockchain-to-help-curb-world-cup-ticket-scalping-here-s-how-it-s-going",
-      "desc": "In this week's edition of The Protocol Newsletter, we're looking at how FIFA is using the Avalanche blockchain to test out a new ticketing system.",
-      "date": "2026-06-17T19:08:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Coinbase-Backed Crypto Perps Exchange Satori Finance Is Shutting Down",
@@ -649,13 +709,7 @@
       "link": "https://thedefiant.io/converge/regulation/congress-housing-bill-cbdc-ban-through-2030",
       "desc": "Congressional negotiators folded a statutory ban on a Federal Reserve central bank digital currency into the bipartisan 21st Century ROAD to Housing Act, blocking any Fed-issued retail digital dollar until December 31, 2030. The text now heads back to the Senate floor.",
       "date": "2026-06-17T17:57:00.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371390/house-senate-strike-deal-on-housing-bill-with-cbdc-ban-through-2030"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -735,26 +789,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Trace Finance raises $32M for cross-border stablecoin settlement expansion",
-      "link": "https://cointelegraph.com/news/trace-finance-cross-border-stablecoin-settlement-expansion?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The raise comes as stablecoin regulation advances globally and financial firms invest in infrastructure connecting blockchain payments with traditional banking systems.",
-      "date": "2026-06-17T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin price sets $64.5K week-to-date low as Strategy selling worries return",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-sets-645k-week-to-date-low-as-strategy-selling-worries-return?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Bitcoin circled $65,000 after downside BTC price pressure into the FOMC meeting as analysis warned over the impact of Strategy potentially selling more BTC in the future.",
-      "date": "2026-06-17T14:49:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "EBAday 2026: Salv wins the Fintech Zone",
@@ -775,16 +809,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ready USDC card halts non-EEA service after issuer change, users report",
-      "link": "https://cointelegraph.com/news/ready-usdc-card-service-halt-non-eea-report?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Users reported losing access to Ready’s USDC card outside the EEA after a card provider change triggered rapid deactivation notices.",
-      "date": "2026-06-17T14:08:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "79% of Bitcoin Supply Now Locked by Long-Term Holders. Analyst Sees Bear Market Nearing Exhaustion",
@@ -795,32 +819,12 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Crypto Industry Slams Illinois’ New Digital Asset Tax as ‘Most Punitive’ in U.S.",
-      "link": "https://bitcoinmagazine.com/news/crypto-slams-illinois-digital-asset-tax",
-      "desc": "Bitcoin Magazine Crypto Industry Slams Illinois’ New Digital Asset Tax as ‘Most Punitive’ in U.S. Illinois became the first U.S. state to impose a transaction-based crypto tax after Gov. JB Pritzker signed SB 3019 into law. This post Crypto Industry Slams Illinois’ New Digital Asset Tax as ‘Most Punitive’ in U.S. first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-17T13:33:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Senators Introduce Bipartisan Resolution Opposing SBF Pardon",
       "link": "https://decrypt.co/371399/senators-introduce-bipartisan-resolution-opposing-sbf-pardon",
       "desc": "Senators Gallego and Lummis want the chamber on record that the FTX fraudster should get no clemency under any circumstances.",
       "date": "2026-06-17T12:55:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Uniswap Jumps Double Digits as Standard Chartered Eyes $100 UNI by 2030",
-      "link": "https://decrypt.co/371393/uniswap-jumps-double-digits-as-standard-chartered-eyes-100-uni-by-2030",
-      "desc": "The DeFi token is up 20% in a day, with a Standard Chartered note and Uniswap's tokenized-stock launch fueling fresh demand.",
-      "date": "2026-06-17T10:48:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
