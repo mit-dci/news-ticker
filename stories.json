@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-06-18T12:34:48.836Z",
+  "generatedAt": "2026-06-18T14:03:22.898Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 261,
+  "filteredOut": 263,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Algorand unveils roadmap to achieve quantum resistance by 2028",
+      "link": "https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027",
+      "desc": "The announcement reflects a crypto's growing recognition that adopting quantum-resistant cryptography could take years, requiring changes not only to user wallets but also to core protocol infrastructure.",
+      "date": "2026-06-18T14:00:00.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
@@ -31,20 +42,91 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-18T12:34:46.304Z",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-18T14:03:22.446Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-18T12:34:46.303Z",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-18T14:03:22.446Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Tether’s XAUT gold token added to Ledn lending platform",
+      "link": "https://www.theblock.co/post/405168/tethers-xaut-gold-token-added-to-ledn-lending-platform?utm_source=rss&utm_medium=rss",
+      "desc": "\"When XAUT-backed loans go live, you will be able to borrow against your gold the way you already borrow against Bitcoin,\" Ledn said.",
+      "date": "2026-06-18T14:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "FV Bank unveils unified fintech platform for stablecoins, payments and programmable finance",
+      "link": "https://www.finextra.com/pressarticle/110183/fv-bank-unveils-unified-fintech-platform-for-stablecoins-payments-and-programmable-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "FV Bank today announced the expansion of its regulated financial infrastructure platform, bringing stablecoin settlement, digital asset custody, programmable payments, and cross-border banking rails into a single programmable financial layer.",
+      "date": "2026-06-18T14:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification",
+      "link": "https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin",
+      "desc": "Bitcoin Magazine CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification CME Group plans to sue the CFTC over its approval of bitcoin perpetual futures, arguing the contracts are swaps — not futures — under Dodd-Frank. This post CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-18T13:50:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405173/cme-group-to-sue-cftc-ceo-says?utm_source=rss&utm_medium=rss"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-18T13:28:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Morning Minute: Crypto Sinks After Hawkish FOMC",
+      "link": "https://decrypt.co/371517/morning-minute-crypto-sinks-after-hawkish-fomc",
+      "desc": "Bitcoin slid to $64k as rate hike odds soared after Kevin Warsh's first FOMC presser. But was it Warsh or Saylor truly driving the selloff?",
+      "date": "2026-06-18T13:22:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Capital B shareholders approve up to $120B in financing capacity for Bitcoin strategy",
+      "link": "https://cointelegraph.com/news/capital-b-shareholders-approve-120b-capital?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Capital B shareholders approved up to $120 billion in financing capacity, including equity and credit instruments, to support the company's Bitcoin accumulation strategy.",
+      "date": "2026-06-18T12:46:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -189,16 +271,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "European Fintech Association elects new board of directors",
-      "link": "https://www.finextra.com/pressarticle/110176/european-fintech-association-elects-new-board-of-directors?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "The European FinTech Association (EFA) today announced the election of its new Board of Directors, bringing together senior leaders from across Europe's fintech ecosystem to guide the Association's work over the coming term.",
-      "date": "2026-06-18T08:50:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "pymnts",
       "sourceName": "PYMNTS",
       "title": "Crypto’s Future May Depend on Lawyers Who Think Like Operators",
@@ -265,16 +337,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-18T06:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says",
@@ -302,22 +364,6 @@
       "desc": "The trades came as Coinbase's stock closed down 2.57% at $164.92 on Wednesday, while Robinhood gained 8.78%.",
       "date": "2026-06-18T03:03:18.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CME Group to sue CFTC over approval of perpetual futures, CEO tells CNBC",
-      "link": "https://www.theblock.co/post/405173/cme-group-to-sue-cftc-ceo-says?utm_source=rss&utm_medium=rss",
-      "desc": "CME Group CEO Duffy said perpetual futures should be classified as swaps under the Dodd-Frank Act, which would form the basis of the lawsuit.",
-      "date": "2026-06-18T01:32:44.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -613,16 +659,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Moody’s rolls out credit ratings on Solana in tokenized asset push",
-      "link": "https://www.coindesk.com/business/2026/06/17/moody-s-rolls-out-credit-ratings-on-solana-in-tokenized-asset-push",
-      "desc": "The ratings giant is embedding credit scores directly into blockchain-based securities, a move aimed at boosting institutional adoption.",
-      "date": "2026-06-17T16:13:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Florida Man 'Bitcoin Rodney' Pleads Guilty Over $1.8 Billion HyperFund Crypto Fraud",
@@ -675,26 +711,6 @@
       "link": "https://www.theblock.co/post/405111/bhutan-bitcoin-binance-holdings-fall-below-1750-btc-arkham?utm_source=rss&utm_medium=rss",
       "desc": "Bhutan transferred 533 BTC worth $34.5 million to Binance, leaving state-linked wallets holding 1,749.96 BTC, Arkham data shows.",
       "date": "2026-06-17T14:27:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto’s security nightmare won’t be solved by ordinary audits",
-      "link": "https://www.coindesk.com/opinion/2026/06/17/crypto-s-security-nightmare-won-t-be-solved-by-ordinary-audits",
-      "desc": "Without an update to the current auditing infrastructure, the crypto space will likely continue to suffer significant losses, explains Beyer.",
-      "date": "2026-06-17T14:12:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Limitless CEO says no prediction market platform will dominate, citing perpetual futures precedent",
-      "link": "https://www.theblock.co/post/405086/limitless-ceo-no-prediction-market-platform-will-dominate-perpetual-futures-precedent?utm_source=rss&utm_medium=rss",
-      "desc": "Limitless CEO CJ Hetherington tells Bernstein no platform will dominate prediction markets, sizing the institutional opportunity 10x sports.",
-      "date": "2026-06-17T14:11:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -809,16 +825,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Hyperliquid's $10B open interest coincides with growth in equity-linked markets: Talos",
-      "link": "https://cointelegraph.com/news/hyperliquids-10b-open-interest-growth-equities-commodities?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Hyperliquid’s $10 billion open interest milestone shows growing demand for onchain equities and commodities trading with 24/7 accessibility, according to Talos.",
-      "date": "2026-06-17T10:03:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Matter Labs Cuts Staff, Pivots Fully to Institutional Privacy Platform Prividium",
@@ -899,32 +905,12 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "7 Ways Businesses Are Using Crypto Swap APIs",
-      "link": "https://decrypt.co/370811/7-ways-businesses-are-using-crypto-swap-apis",
-      "desc": "Real-world case studies show how the best crypto swap APIs help wallets, aggregators, and protocols improve onboarding and retention.",
-      "date": "2026-06-16T17:02:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Coinbase CEO Armstrong Calls Accredited-Investor Rules a 'Regressive Tax'",
       "link": "https://thedefiant.io/news/regulation/coinbase-armstrong-accredited-investor-regressive-tax",
       "desc": "Coinbase CEO Brian Armstrong called Monday for an overhaul of the U.S. accredited-investor framework, arguing that wealth-based gatekeeping concentrates private-market gains among the already wealthy. He proposed replacing the net worth and income test with a financial literacy exam, or removing",
       "date": "2026-06-16T15:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Binance Reportedly Faces European Union Exit as MiCA License Bid Nears Rejection",
-      "link": "https://bitcoinmagazine.com/news/binance-faces-european-union-exit",
-      "desc": "Bitcoin Magazine Binance Reportedly Faces European Union Exit as MiCA License Bid Nears Rejection Binance could reportedly be forced to exit the European Union as Greece is poised to reject its MiCA license application. This post Binance Reportedly Faces European Union Exit as MiCA License Bid Nears Rejection first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-16T15:26:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
