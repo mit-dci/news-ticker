@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-06-18T20:17:44.915Z",
+  "generatedAt": "2026-06-18T21:18:05.545Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 272,
+  "filteredOut": 270,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 4,
   "items": [
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Algorand Plans to Be Ready for Quantum Computing Threat by End of 2027",
+      "link": "https://decrypt.co/371581/algorand-plans-ready-quantum-computing-threat-end-2027",
+      "desc": "Quantum computing threatens the blockchain ecosystem, from Bitcoin to Ethereum and beyond, and Algorand has a plan to be prepared.",
+      "date": "2026-06-18T20:52:47.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -45,7 +56,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-18T20:17:44.410Z",
+      "date": "2026-06-18T21:18:05.179Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -55,7 +66,67 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-18T20:17:44.410Z",
+      "date": "2026-06-18T21:18:05.179Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions",
+      "link": "https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=rss&utm_medium=rss",
+      "desc": "Bitcoin transactions below 0.01 BTC now make up about 80% of all daily transactions, up from about 44% in 2023, CryptoQuant said.",
+      "date": "2026-06-18T21:07:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Custodia, Vantage propose token that toggles between bank deposits and stablecoins",
+      "link": "https://cointelegraph.com/news/custodia-vantage-unveil-token-that-shifts-between-bank-deposits-and-stablecoins?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The proposed system aims to connect traditional banking infrastructure with blockchain-based payment networks with banks retaining customer deposits.",
+      "date": "2026-06-18T21:02:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "CFTC Hits Celsius Crypto Fraudster Alex Mashinsky With Permanent Trading Ban",
+      "link": "https://decrypt.co/371608/cftc-celsius-crypto-fraudster-alex-mashinsky-permanent-trading-ban",
+      "desc": "The settlement ensures that convicted Celsius founder Alex Mashinsky is unable to trade in CFTC markets or register with the regulator.",
+      "date": "2026-06-18T21:02:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "New Texas power grid allocation framework could lift bitcoin miners turned data center operators",
+      "link": "https://www.theblock.co/post/405322/texas-power-grid-allocation-framework-lift-bitcoin-miners-data-center-operators?utm_source=rss&utm_medium=rss",
+      "desc": "The Electric Reliability Council of Texas says data centers account for nearly 90% of the 438 GW of large-load demand in the state.",
+      "date": "2026-06-18T20:55:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Zelle Readies Stablecoin for First Cross-Border Push",
+      "link": "https://www.pymnts.com/news/cross-border-payments/2026/zelle-readies-stablecoin-for-first-cross-border-push/",
+      "desc": "Zelle network operator Early Warning Services plans to launch a proprietary U.S. dollar-backed stablecoin as part of its strategy to expand Zelle person-to-person digital payments beyond the United States. The ZelleUSD (ZLUSD) stablecoin will support future international payment capabilities, giving U.S. consumers another way to send money to friends and family around the world, the company […] The post Zelle Readies Stablecoin for First Cross-Border Push appeared first on PYMNTS.com.",
+      "date": "2026-06-18T20:28:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ireland mulls crypto safeguards in response to financial risks",
+      "link": "https://cointelegraph.com/news/ireland-government-standards-crypto-risk-assessment?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "For the first time in seven years, the Irish government released an assessment related to digital assets, noting risks from money laundering, terrorism financing, sanctions violations and bribery.",
+      "date": "2026-06-18T20:25:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -517,22 +588,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Tether winds down aUSDT stablecoin and Alloy platform to sharpen focus",
-      "link": "https://www.theblock.co/post/405190/tether-winds-down-ausdt?utm_source=rss&utm_medium=rss",
-      "desc": "Tether said it is winding down the 'Alloy by Tether' platform and discontinuing support for aUSDT, a stablecoin over-collateralized by XAUT.",
-      "date": "2026-06-18T07:59:05.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/tether-winds-down-gold-backed-derivative-stablecoin-ausdt?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note",
@@ -559,7 +614,13 @@
       "link": "https://cointelegraph.com/news/florida-man-pleads-guilty-to-18b-crypto-fraud-scheme?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Rodney “Bitcoin Rodney” Burton faces a maximum sentence of five years in federal prison for conspiracy to operate an unlicensed money transmitting business.",
       "date": "2026-06-18T06:06:20.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371420/florida-man-bitcoin-rodney-pleads-guilty-1-8-billion-crypto-fraud"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -579,6 +640,16 @@
       "link": "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says",
       "desc": "Long-time bitcoin bull Matt Hougan told CoinDesk that during this bear market and with ‘doubts swirling’, investors have found ‘it easier to reach for something more tangible:’ stablecoins and tokenization.",
       "date": "2026-06-18T04:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Tether winds down gold-backed derivative stablecoin aUSDT",
+      "link": "https://cointelegraph.com/news/tether-winds-down-gold-backed-derivative-stablecoin-ausdt?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Tether is focusing on stronger user demand, deeper liquidity, and broader long-term market opportunity for its leading products.",
+      "date": "2026-06-18T03:26:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -713,16 +784,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "US lawmakers warn against presidential pardon for Sam Bankman-Fried",
-      "link": "https://cointelegraph.com/news/resolution-donald-trump-against-pardon-sam-bankman-fried?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The former FTX CEO is currently serving a 25-year sentence after being found guilty on seven felony charges related to the misuse of customer funds.",
-      "date": "2026-06-17T17:29:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Mexican Billionaire Ricardo Salinas Bets 70% of His Portfolio on Bitcoin, Eyes $1 Million Price",
@@ -773,22 +834,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Florida Man 'Bitcoin Rodney' Pleads Guilty Over $1.8 Billion HyperFund Crypto Fraud",
-      "link": "https://decrypt.co/371420/florida-man-bitcoin-rodney-pleads-guilty-1-8-billion-crypto-fraud",
-      "desc": "A Miami-based man who went by the name “Bitcoin Rodney” pleaded guilty for his role in what prosecutors said was a massive global fraud.",
-      "date": "2026-06-17T15:37:41.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405197/bitcoin-rodney-pleads-guilty-in-1-8-billion-crypto-fraud-case?utm_source=rss&utm_medium=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "EBAday 2026: Salv wins the Fintech Zone",
@@ -819,16 +864,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Senators Introduce Bipartisan Resolution Opposing SBF Pardon",
-      "link": "https://decrypt.co/371399/senators-introduce-bipartisan-resolution-opposing-sbf-pardon",
-      "desc": "Senators Gallego and Lummis want the chamber on record that the FTX fraudster should get no clemency under any circumstances.",
-      "date": "2026-06-17T12:55:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Matter Labs Cuts Staff, Pivots Fully to Institutional Privacy Platform Prividium",
@@ -845,16 +880,6 @@
       "link": "https://thedefiant.io/converge/regulation/binance-could-face-eu-exit-as-reports-say-greek-regulator-is-set-to-reject-mica-license",
       "desc": "Greece's Hellenic Capital Market Commission appears set to reject Binance's MiCA license application, putting the world's largest crypto exchange on course to lose EU client access on July 1. Binance disputes the account and says its application was considered compliant, promising an update before",
       "date": "2026-06-16T21:27:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "DeFi Lending and DEX Fees Slump as Leverage Drains Out After June Selloff",
-      "link": "https://thedefiant.io/news/defi/defi-lending-and-dex-fees-slump-as-leverage-drains-out-after-june-selloff",
-      "desc": "Fees fell as much as 65% week over week across the largest lending protocols and decentralized exchanges.",
-      "date": "2026-06-16T20:49:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
