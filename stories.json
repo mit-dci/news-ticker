@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-18T11:24:42.455Z",
+  "generatedAt": "2026-06-18T12:34:48.836Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 260,
+  "filteredOut": 261,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "cointelegraph",
@@ -29,6 +29,46 @@
       "termBoost": 3
     },
     {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-18T12:34:46.304Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-18T12:34:46.303Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Ireland Tightens Crypto Safeguards in New Financial Crime Action Plan",
+      "link": "https://decrypt.co/371518/ireland-tightens-crypto-safeguards-in-new-financial-crime-action-plan",
+      "desc": "A new National Risk Assessment names crypto-asset misuse among Ireland's top threats, as a 30-point plan tightens checks on crypto funds.",
+      "date": "2026-06-18T12:29:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin slips below $64,000 as hawkish Fed overshadows signs of onchain repair",
+      "link": "https://www.theblock.co/post/405213/bitcoin-slips-below-64000-as-hawkish-fed-overshadows-signs-of-onchain-repair?utm_source=rss&utm_medium=rss",
+      "desc": "Bitcoin holds near $64,000 as BTC ETFs post an $82.2 million net outflow, and Glassnode said improving liquidity may be forming a floor.",
+      "date": "2026-06-18T12:23:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Hong Kong pilots wholesale application of CBDC in a live market environment",
@@ -39,22 +79,32 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-18T11:24:42.056Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Stablecoin compliance startup Range raises $8.3 million from fintech and crypto VCs",
+      "link": "https://www.theblock.co/post/405205/stablecoin-compliance-startup-range-fintech-crypto-vcs-series-a?utm_source=rss&utm_medium=rss",
+      "desc": "\"Stablecoins and fiat are converging, and finance teams need one platform to run both safely and at scale,\" Range CEO Andres Monteoliva said.",
+      "date": "2026-06-18T11:48:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-18T11:24:42.056Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Aztec investigates $2 million exploit of deprecated payments product",
+      "link": "https://www.theblock.co/post/405207/aztec-investigates-2-million-exploit-of-deprecated-payments-product?utm_source=rss&utm_medium=rss",
+      "desc": "The immutable stage 2 rollup was sunset in 2022, and Aztec Labs holds no admin keys or control over the system, the team said.",
+      "date": "2026-06-18T11:35:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "G7 calls for joint action on North Korean crypto theft, cybercrime",
+      "link": "https://cointelegraph.com/news/g7-north-korea-crypto-theft-cybercrime-warning?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "G7 leaders broadened their warning over North Korean crypto theft to include wider cybercrime as researchers link DPRK-affiliated actors to billions of dollars in stolen digital assets.",
+      "date": "2026-06-18T11:33:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -353,6 +403,16 @@
       "link": "https://cointelegraph.com/markets/bitcoin-capitulation-twice-as-weak-as-spot-liquidity-turns-supportive-glassnode?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Bitcoin’s realized losses fell by 46% as increasing bid-side liquidity points to easing sell pressure. Can bulls push BTC price back above $70,000?",
       "date": "2026-06-17T20:26:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Crypto markets wobble after hawkish Fed outlook in Kevin Warsh’s first FOMC meeting",
+      "link": "https://www.theblock.co/post/405152/crypto-markets-wobble-hawkish-fed-outlook-kevin-warsh-first-fomc-meeting?utm_source=rss&utm_medium=rss",
+      "desc": "Most major cryptocurrencies fell between 1% and 3% following the decision, with bitcoin dropping to $64,150.",
+      "date": "2026-06-17T20:19:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -665,39 +725,7 @@
       "link": "https://bitcoinmagazine.com/markets/79-of-bitcoin-supply-now-locked-by-longs",
       "desc": "Bitcoin Magazine 79% of Bitcoin Supply Now Locked by Long-Term Holders. Analyst Sees Bear Market Nearing Exhaustion Bitcoin may be nearing a bear market bottom, according to K33, as long-term holders now control a record 79% of circulating supply and historically low old-coin spending suggests persistent accumulation despite ongoing macroeconomic uncertainty. This post 79% of Bitcoin Supply Now Locked by Long-Term Holders. Analyst Sees Bear Market Nearing Exhaustion first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-17T14:00:52.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405055/long-term-holders-are-hodling-k33-says-record-supply-metric-suggests-bear-market-nearing-end?utm_source=rss&utm_medium=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Mexican billionaire with 70% of his investment portfolio in bitcoin says it's better than real estate",
-      "link": "https://www.coindesk.com/business/2026/06/17/mexican-billionaire-with-70-of-his-investment-portfolio-in-bitcoin-says-it-s-better-than-real-estate",
-      "desc": "Ricardo Salinas Pliego, whose net worth is estimated at roughly $5 billion, is a bitcoin maximalist who told his wife to mortgage her house to buy bitcoin.",
-      "date": "2026-06-17T14:00:00.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Kevin Warsh's first Fed meeting could be more about communication than rates",
-      "link": "https://www.coindesk.com/markets/2026/06/17/warsh-s-first-fed-meeting-could-be-more-about-communication-than-rates",
-      "desc": "While monetary policy is expected to remain unchanged, markets are focused on whether the new chair begins reshaping how the U.S. central bank communicates.",
-      "date": "2026-06-17T13:58:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405152/crypto-markets-wobble-hawkish-fed-outlook-kevin-warsh-first-fomc-meeting?utm_source=rss&utm_medium=rss"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -751,16 +779,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin holds below $65,000 as Warsh faces first FOMC test and Strategy concerns linger",
-      "link": "https://www.theblock.co/post/405075/bitcoin-holds-below-65000-as-warsh-faces-first-fomc-test-and-strategy-concerns-linger?utm_source=rss&utm_medium=rss",
-      "desc": "BTC trades below $65K, with the Fed expected to hold rates while inflation sits near a three-year high ahead of Warsh's first FOMC meeting.",
-      "date": "2026-06-17T12:28:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "China pays closer attention to stablecoins as cross-border role expands",
@@ -797,16 +815,6 @@
       "link": "https://cointelegraph.com/news/hyperliquids-10b-open-interest-growth-equities-commodities?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Hyperliquid’s $10 billion open interest milestone shows growing demand for onchain equities and commodities trading with 24/7 accessibility, according to Talos.",
       "date": "2026-06-17T10:03:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BitGo courts crypto firms awaiting MiCA approval amid Binance licensing concerns",
-      "link": "https://cointelegraph.com/news/bitgo-mica-vasp-workaround-binance-license-uncertainty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "BitGo launches a MiCA-compliant crypto infrastructure platform in Europe as exchanges face pressure to meet July 1 licensing rules across the EU.",
-      "date": "2026-06-17T09:02:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -917,16 +925,6 @@
       "link": "https://bitcoinmagazine.com/news/binance-faces-european-union-exit",
       "desc": "Bitcoin Magazine Binance Reportedly Faces European Union Exit as MiCA License Bid Nears Rejection Binance could reportedly be forced to exit the European Union as Greece is poised to reject its MiCA license application. This post Binance Reportedly Faces European Union Exit as MiCA License Bid Nears Rejection first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-16T15:26:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Robinhood Trims Headcount by 10% Amid Crypto Revenue Crunch",
-      "link": "https://decrypt.co/371290/robinhood-trims-headcount-10-crypto-revenue-crunch",
-      "desc": "Robinhood is letting go of 10% of its employees, attempting to streamline operations amid a downturn in crypto-related revenue.",
-      "date": "2026-06-16T15:17:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
