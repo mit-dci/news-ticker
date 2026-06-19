@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-19T12:46:40.144Z",
+  "generatedAt": "2026-06-19T14:04:08.827Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 265,
+  "filteredOut": 266,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "cointelegraph",
@@ -47,20 +47,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-19T12:46:37.648Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-19T12:46:37.648Z",
+      "date": "2026-06-19T14:04:08.815Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -70,8 +60,75 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-19T12:46:37.648Z",
+      "date": "2026-06-19T14:04:08.815Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-19T14:04:08.814Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Franklin Templeton Files for Two ETFs That Reinvest Stock Dividends Into Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/franklin-templeton-files-two-etfs-bitcoin",
+      "desc": "Bitcoin Magazine Franklin Templeton Files for Two ETFs That Reinvest Stock Dividends Into Bitcoin Franklin Templeton filed for two new ETFs that automatically reinvest stock dividends into Bitcoin exposure, blending traditional equity investing with a built-in Bitcoin accumulation strategy. This post Franklin Templeton Files for Two ETFs That Reinvest Stock Dividends Into Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-19T13:50:15.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405402/franklin-templeton-files-for-etfs-that-reinvest-stock-dividends-into-bitcoin?utm_source=rss&utm_medium=rss"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Two Texas brothers admit to $8 million crypto robbery after holding family at gunpoint, face up to 20 years in prison",
+      "link": "https://www.theblock.co/post/405429/two-texas-brothers-admit-to-8-million-crypto-robbery-after-holding-family-at-gunpoint-face-up-to-20-years-in-prison?utm_source=rss&utm_medium=rss",
+      "desc": "Brothers Isiah and Raymond Garcia pleaded guilty to an armed $8 million crypto robbery and kidnapping in Minnesota.",
+      "date": "2026-06-19T13:48:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Binance’s MiCA fight raises questions over ECB influence",
+      "link": "https://cointelegraph.com/news/mica-rules-questions-ecb-role-binance-licensing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Lawyers say MiCA rules do not bar the European Central Bank from communicating with national regulators during the application process, though crypto licensing decisions remain with member states.",
+      "date": "2026-06-19T13:38:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ethereum faces core development funding crisis, former contributor warns",
+      "link": "https://cointelegraph.com/news/former-ethereum-foundation-contributor-claims-core-development-funding-crisis?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The warning comes as the Ethereum Foundation reduces spending, adjusts its treasury strategy and undergoes a wave of leadership departures.",
+      "date": "2026-06-19T13:16:19.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -173,32 +230,6 @@
       "desc": "Bitcoin market participants may be left in \"complete disbelief\" as the market reverses from a liquidity grab without another major leg lower, a trader predicted.",
       "date": "2026-06-19T10:44:28.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ethereum could face core development ‘funding crisis’ within nine months, says former EF contributor",
-      "link": "https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor?utm_source=rss&utm_medium=rss",
-      "desc": "Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.",
-      "date": "2026-06-19T10:11:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Franklin Templeton files for ETFs that reinvest stock dividends into bitcoin",
-      "link": "https://www.theblock.co/post/405402/franklin-templeton-files-for-etfs-that-reinvest-stock-dividends-into-bitcoin?utm_source=rss&utm_medium=rss",
-      "desc": "Franklin has filed for two new ETFs that would reinvest stock dividends into BTC, with an expected effective date as early as Sept. 1, 2026.",
-      "date": "2026-06-19T09:54:15.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -528,27 +559,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "CME Group sues CFTC over crypto perpetual futures",
-      "link": "https://cointelegraph.com/news/cme-group-cftc-lawsuit-perpetual-futures-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The lawsuit targets the federal regulator and Chair Michael Selig, alleging that the Commodity Futures Trading Commissioin is treating cryptocurrency “futures” as “swaps,” posing risks to derivatives markets.",
-      "date": "2026-06-18T17:42:09.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405286/cme-sues-cftc-over-perpetual-futures-us-accusing-agency-suddenly-changing-course?utm_source=rss&utm_medium=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act pitch",
@@ -661,7 +671,18 @@
       "link": "https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin",
       "desc": "Bitcoin Magazine CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification CME Group plans to sue the CFTC over its approval of bitcoin perpetual futures, arguing the contracts are swaps — not futures — under Dodd-Frank. This post CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-18T13:50:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/cme-group-cftc-lawsuit-perpetual-futures-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -705,16 +726,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "G7 calls for joint action on North Korean crypto theft, cybercrime",
-      "link": "https://cointelegraph.com/news/g7-north-korea-crypto-theft-cybercrime-warning?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "G7 leaders broadened their warning over North Korean crypto theft to include wider cybercrime as researchers link DPRK-affiliated actors to billions of dollars in stolen digital assets.",
-      "date": "2026-06-18T11:33:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin's nemesis, the Dollar Index, is on the verge of a major breakout",
@@ -751,26 +762,6 @@
       "link": "https://www.coindesk.com/policy/2026/06/18/malta-s-financial-regulator-explores-bringing-parts-of-defi-under-mica-s-orbit",
       "desc": "The MFSA is seeking feedback on whether decentralization should be assessed as a spectrum rather than a binary concept.",
       "date": "2026-06-18T10:43:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin market cap rebound to take '5-10 years' after dropping 10 places since mid-2025",
-      "link": "https://cointelegraph.com/markets/bitcoin-market-cap-rebound-to-take-5-10-years-after-dropping-10-places-since-mid-2025?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Bitcoin could be absent from the world's top five assets by market cap until 2036, despite an estimate seeing the BTC bear market being nearly 70% complete.",
-      "date": "2026-06-18T10:29:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Aztec hit by second $2.1M exploit in less than week: SlowMist",
-      "link": "https://cointelegraph.com/news/aztec-exploited-21-million-previous-hack-slowmist?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Security researchers warn that deprecated smart contracts can remain vulnerable long after projects stop maintaining them.",
-      "date": "2026-06-18T10:28:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -911,16 +902,6 @@
       "link": "https://bitcoinmagazine.com/news/oman-launches-mandatory-bitcoin-mining",
       "desc": "Bitcoin Magazine Oman Launches Mandatory National Bitcoin Mining Pool in State-Backed Push for Regulatory Control Oman launched a mandatory state-backed Bitcoin mining pool requiring all licensed miners to participate, tightening regulatory oversight while expanding the country's $700 million-plus push into industrial-scale Bitcoin mining. This post Oman Launches Mandatory National Bitcoin Mining Pool in State-Backed Push for Regulatory Control first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-17T14:11:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "79% of Bitcoin Supply Now Locked by Long-Term Holders. Analyst Sees Bear Market Nearing Exhaustion",
-      "link": "https://bitcoinmagazine.com/markets/79-of-bitcoin-supply-now-locked-by-longs",
-      "desc": "Bitcoin Magazine 79% of Bitcoin Supply Now Locked by Long-Term Holders. Analyst Sees Bear Market Nearing Exhaustion Bitcoin may be nearing a bear market bottom, according to K33, as long-term holders now control a record 79% of circulating supply and historically low old-coin spending suggests persistent accumulation despite ongoing macroeconomic uncertainty. This post 79% of Bitcoin Supply Now Locked by Long-Term Holders. Analyst Sees Bear Market Nearing Exhaustion first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-17T14:00:52.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
