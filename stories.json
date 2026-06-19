@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-19T11:02:18.877Z",
+  "generatedAt": "2026-06-19T12:46:40.144Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 268,
+  "filteredOut": 265,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "cointelegraph",
@@ -35,6 +35,46 @@
       "termBoost": 3
     },
     {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #410",
+      "link": "https://bitcoinops.org/en/newsletters/2026/06/19/",
+      "desc": "This week’s newsletter summarizes a discussion about wallets removing opt-in replace-by-fee signaling from the transactions they create. Also included are our regular sections describing recent changes to services and client software and notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-06-19T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-19T12:46:37.648Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-19T12:46:37.648Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-19T12:46:37.648Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow",
@@ -44,6 +84,46 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "GoMining challenges Jack Dorsey's Square with payments system designed around bitcoin",
+      "link": "https://www.coindesk.com/business/2026/06/19/gomining-challenges-jack-dorsey-s-square-with-payments-system-designed-around-bitcoin",
+      "desc": "GoMining unveiled a software development kit and programmable access for its bitcoin payment protocol GoBTC Pay, allowing merchants to accept BTC for everyday purchases.",
+      "date": "2026-06-19T12:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Binance can serve Philippine traders under SEC framework, BlockShoals says",
+      "link": "https://cointelegraph.com/news/blockshoals-binance-regulatory-status-philippines?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The exchange's Philippine return relies on an SEC sandbox arrangement that BlockShoals says permits trading access without a local VASP license.",
+      "date": "2026-06-19T12:15:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "BitGo and Bielik.io partner for crypto trading",
+      "link": "https://www.finextra.com/pressarticle/110193/bitgo-and-bielikio-partner-for-crypto-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "BitGo Europe GmbH (“BitGo Europe”), a subsidiary of BitGo Holdings, Inc. (NYSE: BTGO) (“BitGo”), the digital asset infrastructure company, today announced a partnership with Bielik Vault Sp. z o.o. (”Bielik.io”), a Warsaw-based crypto trading platform, to support Bielik.io’s transition from Poland’s legacy Virtual Asset Service Provider framework by integrating BitGo Europe’s Crypto-as-a-Service infrastructure.",
+      "date": "2026-06-19T12:14:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Repay completes stablecoin payments proof of concept",
+      "link": "https://www.finextra.com/pressarticle/110192/repay-completes-stablecoin-payments-proof-of-concept?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Repay Holdings Corporation (NASDAQ: RPAY) (\"REPAY\"), a leading provider of vertically-integrated payment solutions, today announced the successful completion of a proof of concept demonstrating stablecoin payment capabilities on its platform.",
+      "date": "2026-06-19T12:08:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "finextra",
@@ -66,32 +146,12 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-19T11:02:18.517Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-19T11:02:18.517Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-19T11:02:18.517Z",
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Texas Brothers Plead Guilty to $8M Armed Crypto Kidnapping",
+      "link": "https://decrypt.co/371665/texas-brothers-plead-guilty-to-8m-armed-crypto-kidnapping",
+      "desc": "Isiah and Raymond Garcia held a Minnesota family at gunpoint for eight hours and forced the father to transfer over $8 million in crypto.",
+      "date": "2026-06-19T11:14:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -132,7 +192,13 @@
       "link": "https://www.theblock.co/post/405402/franklin-templeton-files-for-etfs-that-reinvest-stock-dividends-into-bitcoin?utm_source=rss&utm_medium=rss",
       "desc": "Franklin has filed for two new ETFs that would reinvest stock dividends into BTC, with an expected effective date as early as Sept. 1, 2026.",
       "date": "2026-06-19T09:54:15.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/daybook-us/2026/06/19/franklin-templeton-proposes-new-funds-that-turn-corporate-dividends-into-bitcoin"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -222,16 +288,6 @@
       "link": "https://www.theblock.co/post/405380/cftc-sec-public-comment-swaps?utm_source=rss&utm_medium=rss",
       "desc": "CME Group sued the CFTC on Thursday over the agency's decision to classify perpetual futures as futures contracts rather than swaps.",
       "date": "2026-06-19T05:15:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live markets: Bitcoin and precious metals remain under pressure",
-      "link": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
-      "desc": "About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.",
-      "date": "2026-06-19T05:04:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -729,32 +785,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Grayscale applies traditional finance models to AAVE, sees $175 value",
-      "link": "https://cointelegraph.com/news/grayscale-aave-traditional-finance-defi-token-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Grayscale and CoinShares are applying traditional valuation techniques to crypto assets as institutions explore revenue-generating DeFi protocols.",
-      "date": "2026-06-18T09:45:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "The bond market is flashing a clear signal on interest rates. Bitcoin bulls should take note",
       "link": "https://www.coindesk.com/markets/2026/06/18/the-bond-market-is-flashing-a-clear-signal-on-interest-rates-bitcoin-bulls-should-take-note",
       "desc": "The bond market is sending a signal that complicates prospects of a near-term bitcoin bull run.",
       "date": "2026-06-18T07:08:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says",
-      "link": "https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says",
-      "desc": "Bitcoin briefly slipped below its 200-week moving average twice in the past two weeks, a rare event that Kraken says has historically marked strong entry points for buyers.",
-      "date": "2026-06-18T05:08:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -845,16 +881,6 @@
       "link": "https://decrypt.co/371425/illinois-taxing-bitcoin-crypto-transactions-critics-slam-most-punitive-tax",
       "desc": "Critics say the Illinois transaction-level tax could deal severe consequences to the crypto industry and consumers in the state.",
       "date": "2026-06-17T17:22:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "What Is Hyperliquid? The Decentralized Exchange With Its Own Blockchain",
-      "link": "https://decrypt.co/resources/what-hyperliquid-decentralized-exchange-blockchain",
-      "desc": "Hyperliquid’s decentralized exchange has rapidly grown to become one of the biggest projects in crypto. Here’s how it works.",
-      "date": "2026-06-17T17:14:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
