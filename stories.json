@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-19T01:38:18.353Z",
+  "generatedAt": "2026-06-19T03:11:22.026Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 272,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "decrypt",
@@ -56,7 +56,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-19T01:38:18.020Z",
+      "date": "2026-06-19T03:11:21.817Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -66,7 +66,43 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-19T01:38:18.020Z",
+      "date": "2026-06-19T03:11:21.817Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Morgan Stanley files amendments for ETH and SOL ETFs, revealing lowest fees in market",
+      "link": "https://www.theblock.co/post/405362/morgan-stanley-eth-sol-etf-amendments?utm_source=rss&utm_medium=rss",
+      "desc": "The disclosure of additional amendments typically reflects active communication with the SEC and progress in the launch process.",
+      "date": "2026-06-19T02:54:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Celsius’ Mashinsky gets permanent trading ban in CFTC settlement",
+      "link": "https://cointelegraph.com/news/cftc-permanently-bans-celsius-mashinsky-from-trading?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The US commodities watchdog has settled with Celsius founder Alex Mashinsky, ending the agency’s first-ever case against a crypto lending platform.",
+      "date": "2026-06-19T02:33:11.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405323/cftc-enters-settlement-former-celsius-ceo-imposes-permanent-trading-ban?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Fidelity launches GENIUS-aligned money market fund for stablecoin issuers",
+      "link": "https://www.theblock.co/post/405357/fidelity-stablecoin-money-market-fund?utm_source=rss&utm_medium=rss",
+      "desc": "The fund invests exclusively in eligible reserve assets permitted for stablecoin issuers under the GENIUS Act.",
+      "date": "2026-06-19T01:58:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -217,16 +253,6 @@
       "link": "https://cointelegraph.com/news/ethereum-foundation-leadership-exodus-continues-with-directors-departure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Hsiao-Wei Wang’s departure adds to a wave of Ethereum Foundation exits, fueling debate over governance, decentralization and the network’s future.",
       "date": "2026-06-18T19:51:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CFTC enters settlement with former Celsius CEO, imposes a permanent trading ban",
-      "link": "https://www.theblock.co/post/405323/cftc-enters-settlement-former-celsius-ceo-imposes-permanent-trading-ban?utm_source=rss&utm_medium=rss",
-      "desc": "The CFTC said it has settled its case against former Celsius CEO Alexander Mashinsky, who is currently serving a 12-year prison sentence.",
-      "date": "2026-06-18T19:28:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -498,32 +524,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin slips below $64,000 as hawkish Fed overshadows signs of onchain repair",
-      "link": "https://www.theblock.co/post/405213/bitcoin-slips-below-64000-as-hawkish-fed-overshadows-signs-of-onchain-repair?utm_source=rss&utm_medium=rss",
-      "desc": "Bitcoin holds near $64,000 as BTC ETFs post an $82.2 million net outflow, and Glassnode said improving liquidity may be forming a floor.",
-      "date": "2026-06-18T12:23:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Hong Kong pilots wholesale application of CBDC in a live market environment",
       "link": "https://www.finextra.com/newsarticle/47953/hong-kong-pilots-wholesale-application-of-cbdc-in-a-live-market-environment?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Hong Kong is piloting the use of a central bank digital currency for advance margin payments in after-hours derivatives trading.",
       "date": "2026-06-18T11:53:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Stablecoin compliance startup Range raises $8.3 million from fintech and crypto VCs",
-      "link": "https://www.theblock.co/post/405205/stablecoin-compliance-startup-range-fintech-crypto-vcs-series-a?utm_source=rss&utm_medium=rss",
-      "desc": "\"Stablecoins and fiat are converging, and finance teams need one platform to run both safely and at scale,\" Range CEO Andres Monteoliva said.",
-      "date": "2026-06-18T11:48:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -694,16 +700,6 @@
       "link": "https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview",
       "desc": "The judge said Polymarket is not likely to succeed on the merits of its case against Michigan state regulators.",
       "date": "2026-06-17T22:06:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Gaming groups urge Congress to ban prediction markets sports betting in CLARITY Act",
-      "link": "https://cointelegraph.com/news/gaming-organizations-congress-prediction-markets-ban-clarity-act?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Gambling industry groups want the US Senate to step in to clarify that the Commodity Futures Trading Commission does not have the authority to oversee prediction markets.",
-      "date": "2026-06-17T21:37:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
