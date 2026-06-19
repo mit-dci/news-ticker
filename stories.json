@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-19T09:11:42.088Z",
+  "generatedAt": "2026-06-19T11:02:18.877Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 269,
+  "filteredOut": 268,
   "errors": [],
   "dupsMerged": 5,
   "items": [
@@ -46,12 +46,42 @@
       "termBoost": 3
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Mena startup Sovra raises $2m in pre-seed funding",
+      "link": "https://www.finextra.com/pressarticle/110190/mena-startup-sovra-raises-2m-in-pre-seed-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Sovra, the fintech platform that provides people with a global dollar account, has raised more than $2 million in pre-seed funding.",
+      "date": "2026-06-19T11:52:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Zodia Custody secures payment license in Luxembourg",
+      "link": "https://www.finextra.com/pressarticle/110189/zodia-custody-secures-payment-license-in-luxembourg?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Zodia Custody (Europe) S.A, the institution-first crypto asset platform with shareholders and investors including Standard Chartered, Northern Trust, SBI Holdings, National Australia Bank, and Emirates NBD, today announced that it has been granted a Payment Institution licence by Luxembourg’s Commission de Surveillance du Secteur Financier (CSSF).",
+      "date": "2026-06-19T11:48:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-19T11:02:18.517Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-19T09:11:42.079Z",
+      "date": "2026-06-19T11:02:18.517Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -61,7 +91,57 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-19T09:11:42.079Z",
+      "date": "2026-06-19T11:02:18.517Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Base targets June 25 mainnet launch for Beryl upgrade and new B20 token standard",
+      "link": "https://www.theblock.co/post/405410/base-targets-june-25-mainnet-launch-for-beryl-upgrade-and-new-b20-token-standard?utm_source=rss&utm_medium=rss",
+      "desc": "Base's Beryl upgrade introduces the B20 native token standard, cuts withdrawal delays to 5 days, and activates on mainnet June 25.",
+      "date": "2026-06-19T10:48:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin tipped for Q3 'macro bottom' near $50K as major liquidity grab looms",
+      "link": "https://cointelegraph.com/markets/bitcoin-tipped-for-q3-macro-bottom-near-50k-as-major-liquidity-grab-looms?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Bitcoin market participants may be left in \"complete disbelief\" as the market reverses from a liquidity grab without another major leg lower, a trader predicted.",
+      "date": "2026-06-19T10:44:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Ethereum could face core development ‘funding crisis’ within nine months, says former EF contributor",
+      "link": "https://www.theblock.co/post/405404/ethereum-could-face-core-development-funding-crisis-within-nine-months-says-former-ef-contributor?utm_source=rss&utm_medium=rss",
+      "desc": "Former EF contributor VanEpps warned Ethereum could face a core development funding crisis within 3-9 months after CIP expired.",
+      "date": "2026-06-19T10:11:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Franklin Templeton files for ETFs that reinvest stock dividends into bitcoin",
+      "link": "https://www.theblock.co/post/405402/franklin-templeton-files-for-etfs-that-reinvest-stock-dividends-into-bitcoin?utm_source=rss&utm_medium=rss",
+      "desc": "Franklin has filed for two new ETFs that would reinvest stock dividends into BTC, with an expected effective date as early as Sept. 1, 2026.",
+      "date": "2026-06-19T09:54:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin activity nears record highs on microtransaction surge",
+      "link": "https://cointelegraph.com/news/bitcoin-activity-nears-record-highs-on-microtransaction-surge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Near-record OP_RETURN usage is driving a surge in low-value Bitcoin transactions, pushing Bitcoin network activity close to all-time highs despite muted price action.",
+      "date": "2026-06-19T09:16:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -148,7 +228,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live markets: Bitcoin has traded below its mining cost for five months, squeezing miners",
+      "title": "Live markets: Bitcoin and precious metals remain under pressure",
       "link": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
       "desc": "About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.",
       "date": "2026-06-19T05:04:22.000Z",
@@ -429,7 +509,13 @@
       "link": "https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns",
       "desc": "Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.",
       "date": "2026-06-18T15:41:17.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -453,16 +539,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "The DAO hack at 10: From $50 million exploit to a $130 million Ethereum security fund",
-      "link": "https://www.theblock.co/post/405248/ethereum-130-million-security-fund-the-dao-hack-10-years?utm_source=rss&utm_medium=rss",
-      "desc": "Ten years ago, an attacker drained roughly 3.6 million ETH from The DAO, helping to spur the creation of the modern crypto security industry.",
-      "date": "2026-06-18T15:20:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bybit lands on Singapore MAS Investor Alert List",
@@ -470,22 +546,6 @@
       "desc": "Crypto exchange Bybit has been added to Singapore’s MAS Investor Alert List, which flags entities that may be mistakenly perceived as licensed or regulated.",
       "date": "2026-06-18T15:14:27.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ethereum Foundation co-Exec Director and board member Hsiao-Wei Wang steps down",
-      "link": "https://www.theblock.co/post/405271/ethereum-foundation-co-exec-director-board-member-hsiao-wei-wang-steps-down?utm_source=rss&utm_medium=rss",
-      "desc": "Several high-ranking EF leaders have left, including the Protocol cluster leads and former co-executive director Tomasz Stańczak.",
-      "date": "2026-06-18T15:07:48.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -505,16 +565,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-to-145k-by-october-why-this-crazy-accurate-4chan-prediction-is-sketchy?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "A viral 4chan Bitcoin prediction appears to have nailed past BTC prices, but edited targets and impossible supply claims weaken its $145,000 call.",
       "date": "2026-06-18T14:46:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Federal Reserve rolls out proposing rulemaking requiring stablecoin issuers to maintain customer identification program",
-      "link": "https://www.theblock.co/post/405247/federal-reserve-rolls-out-proposing-rulemaking-requiring-stablecoin-issuers-to-maintain-customer-identification-program?utm_source=rss&utm_medium=rss",
-      "desc": "The Fed rolled out a rule requiring stablecoin issuers to have a program in place to identify customers to combat illicit finance.",
-      "date": "2026-06-18T14:22:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -699,52 +749,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ryan Salame’s wife to face charges over FTX-funded congressional run",
-      "link": "https://cointelegraph.com/news/ryan-salames-wife-to-face-charges-over-ftx-funded-congressional-run?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "A federal judge has denied a bid from Michelle Bond, the wife of former FTX executive Ryan Salame, to have campaign finance charges against her dismissed.",
-      "date": "2026-06-18T06:17:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Florida man pleads guilty for promoting $1.8B ‘HyperFund’ crypto fraud",
-      "link": "https://cointelegraph.com/news/florida-man-pleads-guilty-to-18b-crypto-fraud-scheme?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Rodney “Bitcoin Rodney” Burton faces a maximum sentence of five years in federal prison for conspiracy to operate an unlicensed money transmitting business.",
-      "date": "2026-06-18T06:06:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Buying bitcoin below its 200-week average has historically delivered over 100% in median returns, Kraken says",
       "link": "https://www.coindesk.com/markets/2026/06/18/buying-bitcoin-below-its-200-week-average-has-historically-delivered-over-100-in-median-returns-kraken-says",
       "desc": "Bitcoin briefly slipped below its 200-week moving average twice in the past two weeks, a rare event that Kraken says has historically marked strong entry points for buyers.",
       "date": "2026-06-18T05:08:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Next bull run will be slower, less volatile as investors' crypto appetite evolves, Bitwise CIO says",
-      "link": "https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says",
-      "desc": "Long-time bitcoin bull Matt Hougan told CoinDesk that during this bear market and with ‘doubts swirling’, investors have found ‘it easier to reach for something more tangible:’ stablecoins and tokenization.",
-      "date": "2026-06-18T04:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Brazilian stablecoin infrastructure firm Trace Finance raises $32m",
-      "link": "https://www.finextra.com/newsarticle/47949/brazilian-stablecoin-infrastructure-firm-trace-finance-raises-32m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Brazil-based stablecoin infrastructure firm Trace Finance has raised $32 million in Series A funding to expand across Latin America, the US and Asia Pacific.",
-      "date": "2026-06-18T00:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
