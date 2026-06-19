@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-19T07:15:57.861Z",
+  "generatedAt": "2026-06-19T09:11:42.088Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 270,
+  "filteredOut": 269,
   "errors": [],
   "dupsMerged": 5,
   "items": [
@@ -51,7 +51,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-19T07:15:57.261Z",
+      "date": "2026-06-19T09:11:42.079Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -61,7 +61,27 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-19T07:15:57.261Z",
+      "date": "2026-06-19T09:11:42.079Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Microsoft found malware that hijacks crypto wallets and spreads through USB sticks",
+      "link": "https://www.coindesk.com/tech/2026/06/19/microsoft-found-malware-that-hijacks-crypto-wallets-and-spreads-through-usb-sticks",
+      "desc": "The software intercepts shortcut files and directs them to install a worm that harvests private keys from the Windows clipboard and inserts its own destination wallet addresses when it detects a transfer.",
+      "date": "2026-06-19T08:48:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Goldman Sachs cuts year-end gold target by $500, doubting rate cuts",
+      "link": "https://cointelegraph.com/news/goldman-sachs-cuts-year-end-gold-target-by-500-doubting-rate-cuts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Goldman Sachs revised its year-end forecast for gold to $4,900, indicating an increase from current levels, but less than previously expected.",
+      "date": "2026-06-19T08:05:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -278,16 +298,6 @@
       "link": "https://www.theblock.co/post/405322/texas-power-grid-allocation-framework-lift-bitcoin-miners-data-center-operators?utm_source=rss&utm_medium=rss",
       "desc": "The Electric Reliability Council of Texas says data centers account for nearly 90% of the 438 GW of large-load demand in the state.",
       "date": "2026-06-18T20:55:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Zelle Readies Stablecoin for First Cross-Border Push",
-      "link": "https://www.pymnts.com/news/cross-border-payments/2026/zelle-readies-stablecoin-for-first-cross-border-push/",
-      "desc": "Zelle network operator Early Warning Services plans to launch a proprietary U.S. dollar-backed stablecoin as part of its strategy to expand Zelle person-to-person digital payments beyond the United States. The ZelleUSD (ZLUSD) stablecoin will support future international payment capabilities, giving U.S. consumers another way to send money to friends and family around the world, the company […] The post Zelle Readies Stablecoin for First Cross-Border Push appeared first on PYMNTS.com.",
-      "date": "2026-06-18T20:28:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
