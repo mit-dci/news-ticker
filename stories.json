@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-19T20:33:09.149Z",
+  "generatedAt": "2026-06-19T21:26:43.666Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 261,
+  "filteredOut": 262,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "cointelegraph",
@@ -47,20 +47,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-19T20:33:08.415Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-19T20:33:08.415Z",
+      "date": "2026-06-19T21:26:43.406Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -70,7 +60,53 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-19T20:33:08.415Z",
+      "date": "2026-06-19T21:26:43.406Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-19T21:26:43.405Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
+      "link": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The offering from the financial services company will reportedly only include yes-or-no bets on whether the S&P 500 closes above or below a target price.",
+      "date": "2026-06-19T21:11:07.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-19T21:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "$13B Bitcoin options expiry looms: Will bulls endure more pain in June?",
+      "link": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Bitcoin bears hold the upper hand in the upcoming Bitcoin options expiry, a potentially early warning that more BTC downside could unfold.",
+      "date": "2026-06-19T20:57:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -81,16 +117,6 @@
       "link": "https://cointelegraph.com/news/whitebit-secures-mica-license-austria-gains-access-eu-crypto-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "The Austrian authorization gives WhiteBIT access to the EU's unified crypto framework, which will require exchanges to hold MiCA licenses or stop serving clients after July 1.",
       "date": "2026-06-19T20:07:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Charles Schwab Planning to Roll Out S&#038;P 500 Prediction Markets With Cboe: WSJ",
-      "link": "https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe",
-      "desc": "Global financial institution Charles Schwab is the latest firm hoping to steal a piece of the growing prediction market pie.",
-      "date": "2026-06-19T20:02:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -227,16 +253,6 @@
       "link": "https://bitcoinmagazine.com/news/warsh-fed-exposes-bitcoin",
       "desc": "Bitcoin Magazine Kevin Warsh Still Needs to Manage the Dollar, While Bitcoin Runs Automatically Warsh’s hawkish first FOMC shows why the dollar still needs constant management — something Bitcoin’s fixed supply was built to avoid. This post Kevin Warsh Still Needs to Manage the Dollar, While Bitcoin Runs Automatically first appeared on Bitcoin Magazine and is written by Nick Ward.",
       "date": "2026-06-19T14:21:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-19T14:09:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -681,16 +697,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ethereum Foundation leadership exodus continues with director’s departure",
-      "link": "https://cointelegraph.com/news/ethereum-foundation-leadership-exodus-continues-with-directors-departure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Hsiao-Wei Wang’s departure adds to a wave of Ethereum Foundation exits, fueling debate over governance, decentralization and the network’s future.",
-      "date": "2026-06-18T19:51:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator",
@@ -913,26 +919,6 @@
       "link": "https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview",
       "desc": "The judge said Polymarket is not likely to succeed on the merits of its case against Michigan state regulators.",
       "date": "2026-06-17T22:06:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Zama, Morpho and Steakhouse Open First Confidential USDC Yield Vault on Ethereum",
-      "link": "https://thedefiant.io/news/defi/zama-morpho-steakhouse-confidential-usdc-yield-vault-ethereum",
-      "desc": "Zama, Morpho and Steakhouse open the first DeFi yield vault for Confidential USDC on June 23, routing encrypted cUSDC into Steakhouse Prime v2 on Morpho and putting fully homomorphic encryption to work in live lending.",
-      "date": "2026-06-17T21:19:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Litecoin Spot ETF Sits at $9M as Altcoin-ETF Era Tests Its Demand Thesis",
-      "link": "https://thedefiant.io/news/markets/litecoin-spot-etf-9m-altcoin-etf-era-demand-thesis-ece431",
-      "desc": "The first US spot Litecoin ETF has been trading for nearly eight months, but Canary Capital's LTCC has drawn under $10 million as LTC sits 89% below its all-time high, testing the thesis that altcoin ETF approval automatically translates into institutional inflows.",
-      "date": "2026-06-17T21:11:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
