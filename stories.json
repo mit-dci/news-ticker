@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-19T16:50:52.416Z",
+  "generatedAt": "2026-06-19T17:38:05.583Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 265,
+  "filteredOut": 268,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "cointelegraph",
@@ -50,7 +50,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-19T16:50:52.215Z",
+      "date": "2026-06-19T17:38:05.572Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -60,7 +60,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-19T16:50:52.215Z",
+      "date": "2026-06-19T17:38:05.572Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -70,7 +70,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-19T16:50:52.215Z",
+      "date": "2026-06-19T17:38:05.572Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -152,6 +152,11 @@
       "desc": "Bitcoin Magazine Franklin Templeton Files for Two ETFs That Reinvest Stock Dividends Into Bitcoin Franklin Templeton filed for two new ETFs that automatically reinvest stock dividends into Bitcoin exposure, blending traditional equity investing with a built-in Bitcoin accumulation strategy. This post Franklin Templeton Files for Two ETFs That Reinvest Stock Dividends Into Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-19T13:50:15.000Z",
       "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/franklin-templeton-bitcoin-drip-etfs-reinvest-stock-dividends-btc-exposure?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+        },
         {
           "source": "THE BLOCK",
           "sourceId": "block",
@@ -665,32 +670,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bybit lands on Singapore MAS Investor Alert List",
-      "link": "https://cointelegraph.com/news/bybit-singapore-mas-investor-alert-list?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Crypto exchange Bybit has been added to Singapore’s MAS Investor Alert List, which flags entities that may be mistakenly perceived as licensed or regulated.",
-      "date": "2026-06-18T15:14:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Crypto for Advisors: Trading the bitcoin cycle",
       "link": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-for-advisors-trading-the-bitcoin-cycle",
       "desc": "Bitcoin’s 4-year cycle makes DCA costly. Learn why a cycle-smart strategy is essential for advisors to better manage volatility and maximize client returns.",
       "date": "2026-06-18T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin to $145K by October? Why this 'crazy accurate' 4chan prediction is sketchy",
-      "link": "https://cointelegraph.com/markets/bitcoin-to-145k-by-october-why-this-crazy-accurate-4chan-prediction-is-sketchy?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "A viral 4chan Bitcoin prediction appears to have nailed past BTC prices, but edited targets and impossible supply claims weaken its $145,000 call.",
-      "date": "2026-06-18T14:46:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -882,26 +867,6 @@
       "link": "https://thedefiant.io/converge/regulation/congress-housing-bill-cbdc-ban-through-2030",
       "desc": "Congressional negotiators folded a statutory ban on a Federal Reserve central bank digital currency into the bipartisan 21st Century ROAD to Housing Act, blocking any Fed-issued retail digital dollar until December 31, 2030. The text now heads back to the Senate floor.",
       "date": "2026-06-17T17:57:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Mexican Billionaire Ricardo Salinas Bets 70% of His Portfolio on Bitcoin, Eyes $1 Million Price",
-      "link": "https://bitcoinmagazine.com/news/mexican-billionaire-ricardo-salinas-bets",
-      "desc": "Bitcoin Magazine Mexican Billionaire Ricardo Salinas Bets 70% of His Portfolio on Bitcoin, Eyes $1 Million Price Mexican billionaire Ricardo Salinas says he has increased his bitcoin allocation from 10% in 2020 to 70% of his portfolio today and believes bitcoin will eventually reach $1 million. This post Mexican Billionaire Ricardo Salinas Bets 70% of His Portfolio on Bitcoin, Eyes $1 Million Price first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-17T17:25:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Illinois Enacts the Strictest Digital-Asset Tax in the US as Industry Group Urges Veto",
-      "link": "https://thedefiant.io/converge/regulation/illinois-strictest-digital-asset-tax-sb3019-cci-veto",
-      "desc": "Illinois Governor JB Pritzker has signed SB 3019, the Digital Asset Privilege Tax Act, making the state the first in the country to impose a transaction-based tax on everyday digital-asset activity. The Crypto Council for Innovation is pushing for a line-item veto of Article 3.",
-      "date": "2026-06-17T17:05:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
