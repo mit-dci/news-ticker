@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-19T18:39:01.467Z",
+  "generatedAt": "2026-06-19T19:34:38.271Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 266,
+  "filteredOut": 265,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "cointelegraph",
@@ -47,20 +47,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-19T18:39:01.210Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-19T18:39:01.209Z",
+      "date": "2026-06-19T19:34:38.259Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -70,7 +60,27 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-19T18:39:01.209Z",
+      "date": "2026-06-19T19:34:38.259Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-19T19:34:38.259Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Sonic Labs Founders Including Andre Cronje Quit Board as New CEO Pledges to Get '1% Better' Daily",
+      "link": "https://thedefiant.io/news/blockchains/sonic-labs-founders-including-andre-cronje-quit-board-as-new-ceo-pledges-to-get-1-better-daily",
+      "desc": "Andre Cronje, Michael Kong and David Richardson are stepping down from the board of the Layer 1 blockchain, whose token has fallen about 97% from its peak, as Matt Visser takes over as CEO",
+      "date": "2026-06-19T19:33:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -192,6 +202,27 @@
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "date": "2026-06-19T14:09:17.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ethereum Foundation Loses Second Co-Executive Director as Hsiao-Wei Wang Steps Down",
+      "link": "https://thedefiant.io/news/people/ethereum-foundation-hsiao-wei-wang-resigns-co-executive-director",
+      "desc": "Hsiao-Wei Wang resigned as co-executive director and board member of the Ethereum Foundation on Thursday after a sabbatical, the second co-ED exit at the Switzerland-based nonprofit in four months and the latest in a five-month wave of senior departures.",
+      "date": "2026-06-19T14:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -674,22 +705,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ethereum Foundation loses another key leader as co-executive director Hsiao-Wei Wang resigns",
-      "link": "https://www.coindesk.com/tech/2026/06/18/ethereum-foundation-loses-another-key-leader-as-co-executive-director-hsiao-wei-wang-resigns",
-      "desc": "Wang's departure follows the resignation of fellow co-executive director Tomasz Stańczak and marks the latest in a string of high-profile exits at the EF.",
-      "date": "2026-06-18T15:41:17.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Jerome Powell Supports Fed's New Stablecoin Policies—But Chair Kevin Warsh Abstains",
@@ -882,16 +897,6 @@
       "link": "https://thedefiant.io/news/markets/litecoin-spot-etf-9m-altcoin-etf-era-demand-thesis-ece431",
       "desc": "The first US spot Litecoin ETF has been trading for nearly eight months, but Canary Capital's LTCC has drawn under $10 million as LTC sits 89% below its all-time high, testing the thesis that altcoin ETF approval automatically translates into institutional inflows.",
       "date": "2026-06-17T21:11:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "CoinFund, Coinbase Back Stablecoin Payments Startup Trace Finance in $32 Million Raise",
-      "link": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
-      "desc": "Stablecoin infrastructure firm Trace Finance said Wednesday that it raised a $32 million Series A round to help expand its reach.",
-      "date": "2026-06-17T19:17:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
