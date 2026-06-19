@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-19T17:38:05.583Z",
+  "generatedAt": "2026-06-19T18:39:01.467Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 268,
+  "filteredOut": 266,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "cointelegraph",
@@ -47,10 +47,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-19T18:39:01.210Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-19T17:38:05.572Z",
+      "date": "2026-06-19T18:39:01.209Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -60,17 +70,57 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-19T17:38:05.572Z",
+      "date": "2026-06-19T18:39:01.209Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-19T17:38:05.572Z",
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "JPMorgan: Bitcoin Mining Costs Have ‘Worsened’ as BTC Trades Below Production Cost",
+      "link": "https://bitcoinmagazine.com/news/jpmorgan-bitcoin-mining-costs-worsened",
+      "desc": "Bitcoin Magazine JPMorgan: Bitcoin Mining Costs Have ‘Worsened’ as BTC Trades Below Production Cost JPMorgan says Bitcoin mining economics have deteriorated as BTC trades about 19% below its estimated $78,000 production cost, forcing public miners into record coin sales and rendering roughly 20% of the industry unprofitable. This post JPMorgan: Bitcoin Mining Costs Have ‘Worsened’ as BTC Trades Below Production Cost first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-19T18:35:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Republican lawmaker proposes prediction markets insider trading ban, not including White House officials",
+      "link": "https://cointelegraph.com/news/prediction-markets-law-white-house-officials?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The bill did not specifically bar members of the US Congress from using the platforms or making sports bets, but prohibited policy wagers.",
+      "date": "2026-06-19T18:30:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
+      "link": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj",
+      "desc": "The planned offering would let customers bet on index moves as Coinbase and Robinhood expand in the sector.",
+      "date": "2026-06-19T17:51:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "The 5 Largest Publicly Traded Solana Treasury Firms",
+      "link": "https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms",
+      "desc": "Institutions are gobbling up Solana for their balance sheets. These are the top publicly traded treasuries.",
+      "date": "2026-06-19T17:40:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin traders expect new lows but data cautions against overly bearish bias",
+      "link": "https://cointelegraph.com/markets/bitcoin-eyes-new-yearly-lows-as-traders-warn-not-to-get-too-bearish-here?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "A concentrated liquidity pocket below $59,000 raises the chance of a Bitcoin price sell-off to new 2026 lows, but data suggests bulls will absorb the dip.",
+      "date": "2026-06-19T17:38:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -614,16 +664,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "JPMorgan says bitcoin mining economics have ‘worsened’ as BTC trades below production cost",
-      "link": "https://www.theblock.co/post/405302/jpmorgan-bitcoin-mining-btc-production-cost?utm_source=rss&utm_medium=rss",
-      "desc": "JPMorgan's current estimated production cost of bitcoin is about $78,000, while bitcoin is currently trading around $62,500.",
-      "date": "2026-06-18T18:31:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "U.S. agencies seek stablecoin customer-ID rules akin to banks in new GENIUS Act pitch",
@@ -706,18 +746,7 @@
       "link": "https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin",
       "desc": "Bitcoin Magazine CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification CME Group plans to sue the CFTC over its approval of bitcoin perpetual futures, arguing the contracts are swaps — not futures — under Dodd-Frank. This post CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-18T13:50:00.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/cme-group-cftc-lawsuit-perpetual-futures-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -748,6 +777,22 @@
       "desc": "Hong Kong is piloting the use of a central bank digital currency for advance margin payments in after-hours derivatives trading.",
       "date": "2026-06-18T11:53:00.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "CME to Sue CFTC Over Bitcoin Perpetual Futures Approval: CEO",
+      "link": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo",
+      "desc": "Outgoing CME chief Terry Duffy says perpetual futures are actually swaps under Dodd-Frank, and that the exchange will file suit Thursday.",
+      "date": "2026-06-18T11:20:05.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405446/td-cowen-cme-upper-hand-cftc-lawsuit-crypto-perpetual-futures?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -847,26 +892,6 @@
       "link": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
       "desc": "Stablecoin infrastructure firm Trace Finance said Wednesday that it raised a $32 million Series A round to help expand its reach.",
       "date": "2026-06-17T19:17:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Coinbase-Backed Crypto Perps Exchange Satori Finance Is Shutting Down",
-      "link": "https://decrypt.co/371435/coinbase-backed-crypto-perps-exchange-satori-finance-shutting-down",
-      "desc": "Perps DEX Satori Finance is the latest in a string of crypto firms forced to shut their doors amid an extended market downturn.",
-      "date": "2026-06-17T18:31:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Congress Strikes Housing-Bill Deal That Bans Fed CBDC Through 2030",
-      "link": "https://thedefiant.io/converge/regulation/congress-housing-bill-cbdc-ban-through-2030",
-      "desc": "Congressional negotiators folded a statutory ban on a Federal Reserve central bank digital currency into the bipartisan 21st Century ROAD to Housing Act, blocking any Fed-issued retail digital dollar until December 31, 2030. The text now heads back to the Senate floor.",
-      "date": "2026-06-17T17:57:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
