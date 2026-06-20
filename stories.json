@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-19T23:52:18.180Z",
+  "generatedAt": "2026-06-20T00:47:57.079Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 263,
+  "filteredOut": 264,
   "errors": [],
   "dupsMerged": 11,
   "items": [
@@ -35,22 +35,12 @@
       "termBoost": 3
     },
     {
-      "source": "bitcoinops",
-      "sourceName": "BITCOIN OPTECH",
-      "title": "Bitcoin Optech Newsletter #410",
-      "link": "https://bitcoinops.org/en/newsletters/2026/06/19/",
-      "desc": "This week’s newsletter summarizes a discussion about wallets removing opt-in replace-by-fee signaling from the transactions they create. Also included are our regular sections describing recent changes to services and client software and notable changes to popular Bitcoin infrastructure software.",
-      "date": "2026-06-19T00:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-19T23:52:18.168Z",
+      "date": "2026-06-20T00:47:56.839Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -60,7 +50,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-19T23:52:18.168Z",
+      "date": "2026-06-20T00:47:56.839Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -70,7 +60,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-19T23:52:18.168Z",
+      "date": "2026-06-20T00:47:56.839Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #410",
+      "link": "https://bitcoinops.org/en/newsletters/2026/06/19/",
+      "desc": "This week’s newsletter summarizes a discussion about wallets removing opt-in replace-by-fee signaling from the transactions they create. Also included are our regular sections describing recent changes to services and client software and notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-06-19T00:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -338,17 +338,6 @@
         }
       ],
       "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow",
-      "link": "https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow",
-      "desc": "French authorities said that government cybersecurity researchers will stop certifying security products that lack quantum-resistant encryption beginning in 2027.",
-      "date": "2026-06-18T00:31:06.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "coindesk",
