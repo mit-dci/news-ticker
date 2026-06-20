@@ -1,18 +1,28 @@
 {
-  "generatedAt": "2026-06-20T18:32:19.870Z",
+  "generatedAt": "2026-06-20T19:32:34.228Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 282,
+  "filteredOut": 286,
   "errors": [],
   "dupsMerged": 9,
   "items": [
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-20T19:32:34.032Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-20T18:32:19.669Z",
+      "date": "2026-06-20T19:32:34.031Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,17 +32,17 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-20T18:32:19.669Z",
+      "date": "2026-06-20T19:32:34.031Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-20T18:32:19.669Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
+      "link": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
+      "date": "2026-06-20T19:09:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -592,9 +602,9 @@
       "date": "2026-06-19T02:33:11.000Z",
       "alsoAt": [
         {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405323/cftc-enters-settlement-former-celsius-ceo-imposes-permanent-trading-ban?utm_source=rss&utm_medium=rss"
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371608/cftc-celsius-crypto-fraudster-alex-mashinsky-permanent-trading-ban"
         }
       ],
       "termBoost": 0
@@ -630,32 +640,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
-      "link": "https://cointelegraph.com/news/malta-defi-framework-daos-software-based-organizations-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The Maltese regulator is seeking industry feedback on a legal framework for software-governed organizations, arguing that many DeFi projects are not fully decentralized.",
-      "date": "2026-06-18T22:04:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions",
       "link": "https://www.theblock.co/post/405340/cryptoquant-bitcoin-micro-transactions-btc?utm_source=rss&utm_medium=rss",
       "desc": "Bitcoin transactions below 0.01 BTC now make up about 80% of all daily transactions, up from about 44% in 2023, CryptoQuant said.",
       "date": "2026-06-18T21:07:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "CFTC Hits Celsius Crypto Fraudster Alex Mashinsky With Permanent Trading Ban",
-      "link": "https://decrypt.co/371608/cftc-celsius-crypto-fraudster-alex-mashinsky-permanent-trading-ban",
-      "desc": "The settlement ensures that convicted Celsius founder Alex Mashinsky is unable to trade in CFTC markets or register with the regulator.",
-      "date": "2026-06-18T21:02:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -696,36 +686,6 @@
       "link": "https://bitcoinmagazine.com/news/blackrock-executive-calls-bitcoin-too-big",
       "desc": "Bitcoin Magazine BlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF BlackRock's new BITA ETF uses a covered-call strategy on its spot Bitcoin ETF holdings to generate monthly income. This post BlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-18T19:53:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ex-Celsius CEO Mashinsky gets U.S. CFTC ban in final resolution with regulator",
-      "link": "https://www.coindesk.com/policy/2026/06/18/ex-celsius-ceo-mashinsky-gets-u-s-cftc-ban-in-final-resolution-with-regulator",
-      "desc": "Alexander Mashinsky, the founder of failed crypto lender Celsius, had earlier been imprisoned for fraud and is now formally banned from CFTC registration.",
-      "date": "2026-06-18T19:26:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Europe's Crypto Firms Face Squeeze as MiCA Transition Period End Looms",
-      "link": "https://decrypt.co/371561/europes-crypto-firms-face-squeeze-mica-transition-period-end-looms",
-      "desc": "As the MiCA grace period closes, only a fraction of registered firms hold full licenses, setting up the prospect of a wave of consolidation.",
-      "date": "2026-06-18T19:26:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Backpack's Tokenized SpaceX Token on Solana Crosses 10,000 Holders, Nearly Double xStocks' SPCXx",
-      "link": "https://thedefiant.io/converge/defi/backpack-s-tokenized-spacex-token-on-solana-crosses-10-000-holders-nearly-double-xstocks-spcxx",
-      "desc": "Backpack's tokenized SpaceX share token has crossed 10,000 onchain holders on Solana, six days after listing alongside the company's Nasdaq debut. The milestone widens the holder gap with rival xStocks' SpaceX product and lands as Backpack chief executive Armani Ferrante stakes out a structural",
-      "date": "2026-06-18T19:19:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
