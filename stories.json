@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-20T10:49:52.670Z",
+  "generatedAt": "2026-06-20T11:39:30.135Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 267,
+  "filteredOut": 271,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "cointelegraph",
@@ -26,10 +26,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-20T11:39:29.397Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-20T10:49:52.352Z",
+      "date": "2026-06-20T11:39:29.397Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -39,17 +49,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-20T10:49:52.352Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-20T10:49:52.351Z",
+      "date": "2026-06-20T11:39:29.397Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -193,6 +193,16 @@
       "link": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj",
       "desc": "The planned offering would let customers bet on index moves as Coinbase and Robinhood expand in the sector.",
       "date": "2026-06-19T17:51:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "TD Cowen says CME has the upper hand in lawsuit against CFTC over crypto perpetual futures",
+      "link": "https://www.theblock.co/post/405446/td-cowen-cme-upper-hand-cftc-lawsuit-crypto-perpetual-futures?utm_source=rss&utm_medium=rss",
+      "desc": "\"We expect CME will seek a preliminary injunction to block perps as the case proceeds,\" said TD Cowen's Jaret Seiberg.",
+      "date": "2026-06-19T17:47:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -822,52 +832,6 @@
       "link": "https://www.finextra.com/newsarticle/47953/hong-kong-pilots-wholesale-application-of-cbdc-in-a-live-market-environment?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Hong Kong is piloting the use of a central bank digital currency for advance margin payments in after-hours derivatives trading.",
       "date": "2026-06-18T11:53:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "CME to Sue CFTC Over Bitcoin Perpetual Futures Approval: CEO",
-      "link": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo",
-      "desc": "Outgoing CME chief Terry Duffy says perpetual futures are actually swaps under Dodd-Frank, and that the exchange will file suit Thursday.",
-      "date": "2026-06-18T11:20:05.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405446/td-cowen-cme-upper-hand-cftc-lawsuit-crypto-perpetual-futures?utm_source=rss&utm_medium=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin's nemesis, the Dollar Index, is on the verge of a major breakout",
-      "link": "https://www.coindesk.com/daybook-us/2026/06/18/bitcoin-s-nemesis-the-dollar-index-is-on-the-verge-of-a-major-breakout",
-      "desc": "Your day-ahead look for June 18, 2026",
-      "date": "2026-06-18T11:10:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived",
-      "link": "https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived",
-      "desc": "ASTER sees two-way volatility as bullish protocol-specific news meets hawkish Fed.",
-      "date": "2026-06-18T11:02:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto market positioning is 'defensive and thin' after Fed, Marex analysts say",
-      "link": "https://www.coindesk.com/markets/2026/06/18/crypto-market-positioning-is-defensive-and-thin-after-fed-marex-analysts-say",
-      "desc": "While the Federal Reserve held interest rates, Chair Kevin Warsh made it clear the U.S. central bank is more worried about inflation than growth.",
-      "date": "2026-06-18T10:56:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
