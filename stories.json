@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-20T13:35:26.164Z",
+  "generatedAt": "2026-06-20T14:47:36.173Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 274,
+  "filteredOut": 278,
   "errors": [],
   "dupsMerged": 10,
   "items": [
@@ -26,20 +26,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-20T13:35:25.980Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-20T13:35:25.979Z",
+      "date": "2026-06-20T14:47:35.192Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -49,7 +39,17 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-20T13:35:25.979Z",
+      "date": "2026-06-20T14:47:35.192Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-20T14:47:35.192Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -58,7 +58,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "Pudgy Penguins expands retail footprint with Target trading card rollout",
       "link": "https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The NFT-born franchise is bringing its Vibes Series 3 trading cards to Target stores across the United States as it expands into physical products and mainstream retail.",
+      "desc": "The NFT-born franchise is bringing its Vibes Series 3 trading cards to Target stores across the US as it expands into physical products and mainstream retail.",
       "date": "2026-06-20T11:49:02.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -82,17 +82,6 @@
       "date": "2026-06-20T05:12:43.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Algorand unveils roadmap to achieve quantum resistance by 2028",
-      "link": "https://www.coindesk.com/tech/2026/06/18/algorand-unveils-post-quantum-roadmap-to-secure-blockchain-by-2027",
-      "desc": "The announcement reflects a crypto's growing recognition that adopting quantum-resistant cryptography could take years, requiring changes not only to user wallets but also to core protocol infrastructure.",
-      "date": "2026-06-18T14:00:00.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "bitcoinops",
@@ -772,36 +761,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/06/17/crypto-for-advisors-trading-the-bitcoin-cycle",
       "desc": "Bitcoin’s 4-year cycle makes DCA costly. Learn why a cycle-smart strategy is essential for advisors to better manage volatility and maximize client returns.",
       "date": "2026-06-18T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Cap Labs CAP Token Auction Closes at $106 Million FDV With 5.5x Oversubscription",
-      "link": "https://thedefiant.io/news/defi/cap-labs-cap-token-auction-106m-fdv-oversubscription",
-      "desc": "Cap Labs' batch auction for its CAP governance token drew 1,002 bids and $16.4 million in commitments, clearing at $0.011 per token for a $106 million fully diluted valuation.",
-      "date": "2026-06-18T14:06:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "FV Bank unveils unified fintech platform for stablecoins, payments and programmable finance",
-      "link": "https://www.finextra.com/pressarticle/110183/fv-bank-unveils-unified-fintech-platform-for-stablecoins-payments-and-programmable-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "FV Bank today announced the expansion of its regulated financial infrastructure platform, bringing stablecoin settlement, digital asset custody, programmable payments, and cross-border banking rails into a single programmable financial layer.",
-      "date": "2026-06-18T14:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification",
-      "link": "https://bitcoinmagazine.com/news/cme-group-to-sue-cftc-over-bitcoin",
-      "desc": "Bitcoin Magazine CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification CME Group plans to sue the CFTC over its approval of bitcoin perpetual futures, arguing the contracts are swaps — not futures — under Dodd-Frank. This post CME Group to Sue CFTC Over Bitcoin Perpetual Futures Approval in Clash Over Dodd-Frank Classification first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-18T13:50:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
