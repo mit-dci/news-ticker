@@ -1,28 +1,18 @@
 {
-  "generatedAt": "2026-06-20T19:32:34.228Z",
+  "generatedAt": "2026-06-20T20:30:06.637Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 286,
+  "filteredOut": 290,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 8,
   "items": [
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-20T19:32:34.032Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-20T19:32:34.031Z",
+      "date": "2026-06-20T20:30:06.561Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +22,17 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-20T19:32:34.031Z",
+      "date": "2026-06-20T20:30:06.561Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-20T20:30:06.561Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -322,13 +322,7 @@
       "link": "https://thedefiant.io/news/people/ethereum-foundation-hsiao-wei-wang-resigns-co-executive-director",
       "desc": "Hsiao-Wei Wang resigned as co-executive director and board member of the Ethereum Foundation on Thursday after a sabbatical, the second co-ED exit at the Switzerland-based nonprofit in four months and the latest in a five-month wave of senior departures.",
       "date": "2026-06-19T14:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -656,36 +650,6 @@
       "link": "https://www.theblock.co/post/405322/texas-power-grid-allocation-framework-lift-bitcoin-miners-data-center-operators?utm_source=rss&utm_medium=rss",
       "desc": "The Electric Reliability Council of Texas says data centers account for nearly 90% of the 438 GW of large-load demand in the state.",
       "date": "2026-06-18T20:55:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Sen. Gillibrand’s son is building a perps exchange that wants dual CFTC, SEC oversight: report",
-      "link": "https://www.theblock.co/post/405334/sen-gillibrand-son-building-perps-exchange-dual-cftc-sec-oversight?utm_source=rss&utm_medium=rss",
-      "desc": "The American Perpetuals Exchange Corporation raised $30 million at a $300 million valuation, Fortune reported on Thursday.",
-      "date": "2026-06-18T20:06:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Rep. Steil introduces bill to block lawmakers from placing prediction markets bets on public policy issues",
-      "link": "https://www.theblock.co/post/405331/rep-steil-introduces-bill-to-block-lawmakers-from-placing-prediction-markets-bets-on-public-policy-issues?utm_source=rss&utm_medium=rss",
-      "desc": "Rep. Bryan Steil introduced legislation aimed at preventing lawmakers and their families from profiting from bets on political outcomes.",
-      "date": "2026-06-18T19:55:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "BlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF",
-      "link": "https://bitcoinmagazine.com/news/blackrock-executive-calls-bitcoin-too-big",
-      "desc": "Bitcoin Magazine BlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF BlackRock's new BITA ETF uses a covered-call strategy on its spot Bitcoin ETF holdings to generate monthly income. This post BlackRock Executive Calls Bitcoin “Too Big to Ignore”, Discusses New Bitcoin Premium Income ETF first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-18T19:53:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
