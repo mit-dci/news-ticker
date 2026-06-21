@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-21T17:33:00.020Z",
+  "generatedAt": "2026-06-21T18:33:55.840Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 325,
+  "filteredOut": 330,
   "errors": [],
-  "dupsMerged": 2,
+  "dupsMerged": 1,
   "items": [
     {
       "source": "bis",
@@ -12,7 +12,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-21T17:32:59.927Z",
+      "date": "2026-06-21T18:33:55.464Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-21T17:32:59.927Z",
+      "date": "2026-06-21T18:33:55.464Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +32,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-21T17:32:59.927Z",
+      "date": "2026-06-21T18:33:55.464Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -253,6 +253,16 @@
       "termBoost": 0
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "House Republican Introduces Insider Trading Bill to Ban Lawmaker Prediction Market Bets",
+      "link": "https://decrypt.co/371705/house-republican-insider-trading-bill-ban-lawmaker-prediction-market",
+      "desc": "The bill is meant to curb potential insider trading, blocking lawmakers and family members from policy-related prediction market bets.",
+      "date": "2026-06-19T19:36:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Sonic Labs Founders Including Andre Cronje Quit Board as New CEO Pledges to Get '1% Better' Daily",
@@ -269,62 +279,6 @@
       "link": "https://bitcoinmagazine.com/news/jpmorgan-bitcoin-mining-costs-worsened",
       "desc": "Bitcoin Magazine JPMorgan: Bitcoin Mining Costs Have ‘Worsened’ as BTC Trades Below Production Cost JPMorgan says Bitcoin mining economics have deteriorated as BTC trades about 19% below its estimated $78,000 production cost, forcing public miners into record coin sales and rendering roughly 20% of the industry unprofitable. This post JPMorgan: Bitcoin Mining Costs Have ‘Worsened’ as BTC Trades Below Production Cost first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-19T18:35:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Republican lawmaker proposes prediction markets insider trading ban, not including White House officials",
-      "link": "https://cointelegraph.com/news/prediction-markets-law-white-house-officials?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The bill did not specifically bar members of the US Congress from using the platforms or making sports bets, but prohibited policy wagers.",
-      "date": "2026-06-19T18:30:21.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371705/house-republican-insider-trading-bill-ban-lawmaker-prediction-market"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Schwab to join prediction markets race with S&P 500 event-based options: WSJ",
-      "link": "https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj",
-      "desc": "The planned offering would let customers bet on index moves as Coinbase and Robinhood expand in the sector.",
-      "date": "2026-06-19T17:51:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "TD Cowen says CME has the upper hand in lawsuit against CFTC over crypto perpetual futures",
-      "link": "https://www.theblock.co/post/405446/td-cowen-cme-upper-hand-cftc-lawsuit-crypto-perpetual-futures?utm_source=rss&utm_medium=rss",
-      "desc": "\"We expect CME will seek a preliminary injunction to block perps as the case proceeds,\" said TD Cowen's Jaret Seiberg.",
-      "date": "2026-06-19T17:47:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "The 5 Largest Publicly Traded Solana Treasury Firms",
-      "link": "https://decrypt.co/339551/5-largest-publicly-traded-solana-treasury-firms",
-      "desc": "Institutions are gobbling up Solana for their balance sheets. These are the top publicly traded treasuries.",
-      "date": "2026-06-19T17:40:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin traders expect new lows but data cautions against overly bearish bias",
-      "link": "https://cointelegraph.com/markets/bitcoin-eyes-new-yearly-lows-as-traders-warn-not-to-get-too-bearish-here?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "A concentrated liquidity pocket below $59,000 raises the chance of a Bitcoin price sell-off to new 2026 lows, but data suggests bulls will absorb the dip.",
-      "date": "2026-06-19T17:38:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
