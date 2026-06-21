@@ -1,18 +1,28 @@
 {
-  "generatedAt": "2026-06-21T05:13:16.795Z",
+  "generatedAt": "2026-06-21T07:08:48.556Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 299,
+  "filteredOut": 305,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 5,
   "items": [
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-21T07:08:47.858Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-21T05:13:16.340Z",
+      "date": "2026-06-21T07:08:47.858Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,17 +32,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-21T05:13:16.340Z",
+      "date": "2026-06-21T07:08:47.858Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-21T05:13:16.339Z",
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
+      "link": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
+      "desc": "Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.",
+      "date": "2026-06-21T06:46:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -85,17 +95,6 @@
       "date": "2026-06-20T19:09:21.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Algorand plans ‘broad quantum resilience’ by 2027",
-      "link": "https://cointelegraph.com/news/algorand-plans-broad-quantum-resilience-by-2027?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Algorand is planning new accounts and consensus mechanisms designed to be resistant to the cryptography-breaking threat of quantum computers.",
-      "date": "2026-06-19T05:51:24.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "block",
@@ -348,11 +347,6 @@
       "date": "2026-06-19T13:50:15.000Z",
       "alsoAt": [
         {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/franklin-templeton-bitcoin-drip-etfs-reinvest-stock-dividends-btc-exposure?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-        },
-        {
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/post/405402/franklin-templeton-files-for-etfs-that-reinvest-stock-dividends-into-bitcoin?utm_source=rss&utm_medium=rss"
@@ -518,56 +512,6 @@
       "link": "https://cointelegraph.com/news/goldman-sachs-cuts-year-end-gold-target-by-500-doubting-rate-cuts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Goldman Sachs revised its year-end forecast for gold to $4,900, indicating an increase from current levels, but less than previously expected.",
       "date": "2026-06-19T08:05:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "AllUnity debuts SEKAU, a fully reserved Swedish krona stablecoin",
-      "link": "https://cointelegraph.com/news/allunity-debut-fully-reserved-swedish-krona-stablecoin-sekau?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "AllUnity launches Swedish krona-backed stablecoin SEKAU with multi-chain support, expanding its stablecoin portfolio regulated under the EU’s MiCA framework.",
-      "date": "2026-06-19T07:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "What Is the CLARITY Act? The Crypto Market Structure Bill Explained",
-      "link": "https://www.theblock.co/learn/404536/what-is-the-clarity-act?utm_source=rss&utm_medium=rss",
-      "desc": "The CLARITY Act, formally the Digital Asset Market Clarity Act, is a proposed U.S. cryptocurrency market structure bill that would establish a federal framework for how digital assets are issued, traded and regulated in the United States. The bill focuses on digital asset regulation, including how crypto firms should comply with federal law and which regulators […]",
-      "date": "2026-06-19T06:48:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "What Happens When Bitcoin Reaches 21 Million Supply?",
-      "link": "https://www.theblock.co/learn/405386/what-happens-when-bitcoin-reaches-21-million-supply?utm_source=rss&utm_medium=rss",
-      "desc": "Bitcoin has a maximum supply of 21 million coins, a limit written into the network’s code by its creator, Satoshi Nakamoto. Once all 21 million bitcoin have been mined, no new bitcoin will ever be created. Regardless, the network is expected to keep operating much the same as it does today. Instead of mining newly […]",
-      "date": "2026-06-19T06:36:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Microsoft warns users of 'Crypto Clipper' malware spread via USB drives",
-      "link": "https://cointelegraph.com/news/microsoft-alerts-users-to-crypto-clipper-windows-malware?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The malware blends data theft with remote code execution, “turning a financially motivated stealer into a lightweight backdoor,” Microsoft said.",
-      "date": "2026-06-19T05:33:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CFTC, SEC request public comment to clarify definition of ‘swaps’ amid CME lawsuit",
-      "link": "https://www.theblock.co/post/405380/cftc-sec-public-comment-swaps?utm_source=rss&utm_medium=rss",
-      "desc": "CME Group sued the CFTC on Thursday over the agency's decision to classify perpetual futures as futures contracts rather than swaps.",
-      "date": "2026-06-19T05:15:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
