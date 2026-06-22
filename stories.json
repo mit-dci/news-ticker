@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-22T19:41:24.634Z",
+  "generatedAt": "2026-06-22T21:02:17.116Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 262,
+  "filteredOut": 253,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "bitcoinmag",
@@ -30,10 +30,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-22T21:02:16.429Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-22T19:41:24.621Z",
+      "date": "2026-06-22T21:02:16.428Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,27 +53,125 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-22T19:41:24.621Z",
+      "date": "2026-06-22T21:02:16.428Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-22T19:41:24.621Z",
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Anchorage Digital Introduces Tokenized Deposit Platform for Banks",
+      "link": "https://www.pymnts.com/blockchain/2026/anchorage-digital-introduces-tokenized-deposit-platform-for-banks/",
+      "desc": "Anchorage Digital launched Monday (June 22) a new tokenized deposit infrastructure aimed at enabling banks to offer around-the-clock settlement without overhauling their existing core systems, according to a Monday press release. The financial services firm said the platform allows regulated banks to issue and manage tokenized deposits on blockchain networks. According to Anchorage, the […] The post Anchorage Digital Introduces Tokenized Deposit Platform for Banks appeared first on PYMNTS.com.",
+      "date": "2026-06-22T21:01:47.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ric Edelman says crypto’s biggest growth story is happening off the price chart",
+      "link": "https://www.coindesk.com/markets/2026/06/22/ric-edelman-says-crypto-s-biggest-growth-story-is-happening-off-the-price-chart",
+      "desc": "Crypto prices remain under pressure, but Ric Edelman says institutional adoption and tokenization are accelerating behind the scenes.",
+      "date": "2026-06-22T20:58:40.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "21Shares co-founder warns tokenization hype is outrunning Wall Street reality",
+      "link": "https://www.coindesk.com/markets/2026/06/22/21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality",
+      "desc": "Tokenization can improve settlement and asset movement, but key pieces of financial infrastructure remain unprepared for institutional-scale adoption.",
+      "date": "2026-06-22T20:53:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Fomo Raises $75 Million for Consumer Crypto Trading App",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/fomo-raises-75-million-for-consumer-crypto-trading-app/",
+      "desc": "Consumer-focused cryptocurrency trading app fomo has raised $75 million in new funding. The company announced its Series B round Monday (June 22), noting that it comes as the company is marking more than $4 billion in trading volume on its year-old platform. Beyond that, fomo said, more than 68,000 users have made their first […] The post Fomo Raises $75 Million for Consumer Crypto Trading App appeared first on PYMNTS.com.",
+      "date": "2026-06-22T20:25:32.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405563/crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum’s ‘next phase’ of growth",
-      "link": "https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth?utm_source=rss&utm_medium=rss",
-      "desc": "Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.",
-      "date": "2026-06-22T19:39:22.000Z",
+      "title": "Solana treasury firm Solmate’s largest stakeholder sues board for self-dealing, fiduciary breaches",
+      "link": "https://www.theblock.co/post/405690/solana-treasury-firm-solmate-largest-stakeholder-sues-board-self-dealing-fiduciary-breaches?utm_source=rss&utm_medium=rss",
+      "desc": "Board members Ron Sade and Keren Maimon personally bought about 2.298 million SLMT shares at $4.97, diluting shareholders ~20%.",
+      "date": "2026-06-22T20:17:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Strive says digital credit selloff was a liquidation event, not a credit crisis",
+      "link": "https://www.coindesk.com/markets/2026/06/22/strive-says-digital-credit-selloff-was-a-liquidation-event-not-a-credit-crisis",
+      "desc": "A sharp selloff in digital credit products exposed growing pains in a young market, a Strive executive argues the underlying credit fundamentals remain intact.",
+      "date": "2026-06-22T20:14:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab",
+      "link": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
+      "desc": "Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
+      "date": "2026-06-22T20:12:31.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Chainlink Brings Samsung, Toyota and Sony Pricing On-Chain With APAC Equities Streams",
+      "link": "https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain",
+      "desc": "Chainlink launched APAC Equities Streams on Monday, putting live pricing for large-cap Asian companies on-chain to power equity perps, prediction markets and structured products in Asian time zones.",
+      "date": "2026-06-22T20:05:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Aztec Reaches L2Beat Stage 2 After Governance Revokes Rollup Contract Ownership",
+      "link": "https://thedefiant.io/news/blockchains/aztec-l2beat-stage-2-governance-revokes-rollup-contract-ownership",
+      "desc": "On-chain governance stripped admin control over Aztec's rollup contract, freezing the code in place and clearing the technical bar for L2Beat's top decentralization tier.",
+      "date": "2026-06-22T20:05:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "OCC Applying Bank Secrecy Act to Stablecoin Issuers",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/occ-applying-bank-secrecy-act-to-stablecoin-issuers/",
+      "desc": "U.S. banking regulators want to apply new compliance standards to stablecoin issuers. The Office of the Comptroller of the Currency (OCC) issued a proposed rulemaking Monday (June 22) that would require permitted payment stablecoin issuers (PPSI) under its supervision to comply with the Bank Secrecy Act and sections of the GENIUS Act. PPSIs would also have to follow […] The post OCC Applying Bank Secrecy Act to Stablecoin Issuers appeared first on PYMNTS.com.",
+      "date": "2026-06-22T20:03:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -161,6 +269,11 @@
           "source": "THE DEFIANT",
           "sourceId": "defiant",
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-closes-250-digital-launches-franklin-crypto"
+        },
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/franklin-templeton-launches-dedicated-crypto-division-after-completing-250-digital-acquisition?utm_source=rss&utm_medium=rss&utm_campaign=rss"
         }
       ],
       "termBoost": 0
@@ -357,16 +470,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
-      "link": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
-      "desc": "The crypto bank aims to help financial institutions offer round-the-clock payments and settlement without replacing their core systems.",
-      "date": "2026-06-22T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Morgan Stanley Files Amended S-1s for Spot Solana and Ethereum Trusts",
@@ -524,16 +627,6 @@
       "link": "https://www.coindesk.com/markets/2026/06/22/bitcoin-mining-network-becoming-more-sensitive-to-price-swings-jpmorgan-says",
       "desc": "A growing share of miners are operating near breakeven levels, making hashrate and mining difficulty increasingly responsive to bitcoin's price movements, the bank said.",
       "date": "2026-06-22T12:51:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B",
-      "link": "https://www.theblock.co/post/405563/crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report?utm_source=rss&utm_medium=rss",
-      "desc": "Fomo raised a $75 million Series B round at a $550 million valuation led by Index Ventures, with participation from USV and others.",
-      "date": "2026-06-22T12:46:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -900,26 +993,6 @@
       "link": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "A Japanese corporate pension fund with about 1,200 participating small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto.",
       "date": "2026-06-21T08:54:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
-      "link": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
-      "desc": "Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.",
-      "date": "2026-06-21T07:12:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
-      "link": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
-      "desc": "Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.",
-      "date": "2026-06-21T06:46:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
