@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-22T18:02:20.329Z",
+  "generatedAt": "2026-06-22T19:41:24.634Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 267,
+  "filteredOut": 262,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "bitcoinmag",
@@ -30,20 +30,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-22T18:02:20.229Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-22T18:02:20.228Z",
+      "date": "2026-06-22T19:41:24.621Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +43,145 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-22T18:02:20.228Z",
+      "date": "2026-06-22T19:41:24.621Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-22T19:41:24.621Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitmine, SharpLink and Joe Lubin back Ethlabs nonprofit to advance Ethereum’s ‘next phase’ of growth",
+      "link": "https://www.theblock.co/post/405694/bitmine-sharplink-and-joe-lubin-back-ethlabs-nonprofit-to-advance-ethereums-next-phase-of-growth?utm_source=rss&utm_medium=rss",
+      "desc": "Ethlabs, backed by Joe Lubin and the two largest ETH DATs, Bitmine and SharpLink, will focus on institutional adoption.",
+      "date": "2026-06-22T19:39:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "NYSE Parent ICE and OKX Form 50-50 Joint Venture for Tokenized Equities, Co-Chaired by Andrew Cuomo",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ice-okx-50-50-joint-venture-tokenized-nyse-equities-cuomo-co-chair",
+      "desc": "Intercontinental Exchange and OKX will build a U.S. broker-dealer to route OKX's customers into NYSE tokenized equities and ICE futures, pending regulatory approval.",
+      "date": "2026-06-22T19:27:39.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405640/nyse-intercontinental-exchange-okx-expand-access-tokenized-equities-joint-venture-cuomo?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ether’s biggest corporate holders back new Ethereum research hub",
+      "link": "https://www.coindesk.com/business/2026/06/22/ether-s-biggest-corporate-holders-back-new-ethereum-research-hub",
+      "desc": "Ethlabs was formed with support from SharpLink, Bitmine and Consensys CEO Joe Lubin as the network's development is expanding beyond the Ethereum Foundation.",
+      "date": "2026-06-22T19:20:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
+      "link": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Solana captured 95% of tokenized equity volumes as analysts debate whether $60 was the bottom for SOL.",
+      "date": "2026-06-22T19:17:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Crypto Industry Urges Congress to Pass Tax Bill—But Will It Happen This Year?",
+      "link": "https://decrypt.co/371804/crypto-industry-urges-congress-pass-tax-bill",
+      "desc": "A bill that would make crypto mining and staking more attractive is a top priority for industry leaders—and a growing concern for House Democrats.",
+      "date": "2026-06-22T18:53:56.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405603/crypto-industry-groups-urge-congress-pass-tax-staking-mining-bill-unchanged?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Revolut’s South Africa Waitlist Nears 100K 2 Years Before Launch",
+      "link": "https://www.pymnts.com/news/investment-tracker/fintech-investments/2026/revoluts-south-africa-waitlist-nears-100k-2-years-before-launch/",
+      "desc": "Revolut’s expansion plans now reportedly include South Africa as interest there in the FinTech grows. The British company plans to launch in Africa’s largest economy by 2028, an official told Bloomberg News in an interview published Monday (June 22). “We are already seeing exceptional demand for our product, and our waitlist is fast approaching […] The post Revolut’s South Africa Waitlist Nears 100K 2 Years Before Launch appeared first on PYMNTS.com.",
+      "date": "2026-06-22T18:52:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ethereum Foundation’s Interim ED Lays Out Execution Plan: MEV Elimination, Default Privacy, ETH Pay",
+      "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-csa-execution-plan-mev-privacy-eth-pay",
+      "desc": "Bastian Aue, the Ethereum Foundation’s interim executive director, outlined how EF will implement its new mandate: treating MEV extraction as a structural threat, making privacy a protocol default, and moving EF compensation into ETH and Ethereum-native stablecoins.",
+      "date": "2026-06-22T18:32:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Securitize asks court to reject tZERO’s ‘meritless’ tokenization patent allegations",
+      "link": "https://www.theblock.co/post/405672/securitize-asks-court-reject-tzeros-meritless-tokenization-patent-allegations?utm_source=rss&utm_medium=rss",
+      "desc": "Securitize alleged that tZERO's actions are \"nothing more than the culmination\" of shareholder pressure to capitalize on the patents.",
+      "date": "2026-06-22T18:21:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division",
+      "link": "https://bitcoinmagazine.com/news/franklin-templeton-closes-250-digital",
+      "desc": "Bitcoin Magazine Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division Franklin Templeton has completed its acquisition of 250 Digital. This post Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-22T18:18:45.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-closes-250-digital-launches-franklin-crypto"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Ethereum MEV Bot JaredFromSubway Threatens Legal Action After $7.5 Million Loss",
+      "link": "https://decrypt.co/371787/ethereum-mev-bot-jaredfromsubway-legal-action-7-5-million-attack",
+      "desc": "The well-known trading bot took a hit this weekend after it fell victim to a series of transactions that left its logic exposed.",
+      "date": "2026-06-22T18:12:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Five Former EF Researchers Launch Ethlabs, an Independent Non-Profit R&D Lab for Ethereum",
+      "link": "https://thedefiant.io/news/people/five-former-ef-researchers-launch-ethlabs-independent-nonprofit-rd-lab-ethereum",
+      "desc": "Ansgar Dietrichs, Barnabé Monnot, Caspar Schwarz-Schilling, Josh Rudolf, and Julian Ma have launched Ethlabs, an independent non-profit R&D lab backed by Bitmine, Sharplink, and Consensys founder Joe Lubin, with a thesis that Ethereum will become the universal onchain settlement layer.",
+      "date": "2026-06-22T18:02:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,16 +192,6 @@
       "link": "https://decrypt.co/371789/new-york-stock-exchange-ice-okx-crypto-tokenized-securities",
       "desc": "The pair will focus on advancing tokenization and digital asset infrastructure in a joint venture co-chaired by the former governor of New York.",
       "date": "2026-06-22T18:00:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Franklin Templeton Closes 250 Digital Acquisition, Launches Franklin Crypto for Institutional Allocators",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-closes-250-digital-launches-franklin-crypto",
-      "desc": "The $1.78 trillion asset manager stands up a dedicated institutional crypto unit, extending a platform that already includes the BENJI tokenized money-market fund and a proposed pair of dividend-into-bitcoin ETFs.",
-      "date": "2026-06-22T17:31:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -179,16 +297,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Intercontinental Exchange, OKX expand access to tokenized equities via joint venture co-chaired by former Gov. Cuomo",
-      "link": "https://www.theblock.co/post/405640/nyse-intercontinental-exchange-okx-expand-access-tokenized-equities-joint-venture-cuomo?utm_source=rss&utm_medium=rss",
-      "desc": "The new joint venture will enable OKX customers in the U.S. and internationally to access ICE futures and NYSE tokenized equities markets.",
-      "date": "2026-06-22T15:59:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking",
@@ -249,16 +357,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Crypto industry groups urge Congress to pass tax staking and mining bill unchanged",
-      "link": "https://www.theblock.co/post/405603/crypto-industry-groups-urge-congress-pass-tax-staking-mining-bill-unchanged?utm_source=rss&utm_medium=rss",
-      "desc": "Crypto advocacy groups are urging Congress to pass a tax bill, saying the measure would provide clarity on mining and staking rewards.",
-      "date": "2026-06-22T15:14:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
@@ -315,16 +413,6 @@
       "link": "https://bitcoinmagazine.com/news/ice-and-okx-form-crypto-to-connect-nyse",
       "desc": "Bitcoin Magazine ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users A new ICE-OKX joint venture creates a regulated bridge between traditional finance and crypto, giving OKX's 120 million users access to ICE futures markets and NYSE tokenized equities. This post ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-22T14:17:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Andrew Cuomo Chairing OKX-Intercontinental Exchange Blockchain Project",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/andrew-cuomo-chairing-okx-intercontinental-exchange-blockchain-project/",
-      "desc": "Blockchain company OKX has launched a joint venture with New York Stock Exchange owner Intercontinental Exchange. The collaboration, announced Monday (June 22) will operate as a U.S. regulated broker dealer and futures commissions merchant, allowing OKX’s American and overseas customers to access Intercontinental Exchange (ICE) futures and New York Stock Exchange (NYSE) tokenized equities markets. The […] The post Andrew Cuomo Chairing OKX-Intercontinental Exchange Blockchain Project appeared first on PYMNTS.com.",
-      "date": "2026-06-22T14:06:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -456,16 +544,6 @@
       "link": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments?utm_source=rss&utm_medium=rss",
       "desc": "Solana is now the third blockchain where MoneyGram operates an official validator, alongside Tempo and the Midnight Network.",
       "date": "2026-06-22T12:30:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Bank of England Cancels Plans for Stablecoin Ownership Limits",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/bank-of-england-cancels-plans-for-stablecoin-ownership-limits/",
-      "desc": "England’s central bank is easing its stablecoin restrictions following pushback from the cryptocurrency industry. The Bank of England (BOE) announced Monday (June 22) that it would not introduce the temporary holding limits on stablecoins it had been considering. Instead, the bank will apply a “temporary issuance guardrail” to “each systemic stablecoin,” initially set at 40 billion pounds. […] The post Bank of England Cancels Plans for Stablecoin Ownership Limits appeared first on PYMNTS.com.",
-      "date": "2026-06-22T12:27:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -716,26 +794,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "How Does Tether Make Money? Understanding the Business Model Behind USDT",
-      "link": "https://www.theblock.co/learn/405498/how-does-tether-make-money?utm_source=rss&utm_medium=rss",
-      "desc": "Tether primarily makes money by earning interest on the reserve assets that back USDT, the world’s largest stablecoin. When USDT is minted, Tether receives dollars or equivalent assets and invests most of those reserves in short-term U.S. Treasury bills and other low-risk instruments. The yield generated by those reserves is the core source of Tether’s […]",
-      "date": "2026-06-22T07:05:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "South Korea’s Toss Bank to test blockchain-based financial infrastructure on Solana",
-      "link": "https://www.theblock.co/post/405505/toss-solana-partnership?utm_source=rss&utm_medium=rss",
-      "desc": "Toss Bank and Solana will work on a proof-of-concept for overseas remittances and payments involving stablecoins.",
-      "date": "2026-06-22T06:37:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin developers want to fix the 'replace this transaction with a higher fee' button. Here's why",
@@ -842,13 +900,7 @@
       "link": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "A Japanese corporate pension fund with about 1,200 participating small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto.",
       "date": "2026-06-21T08:54:41.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405489/japan-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -888,16 +940,6 @@
       "link": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Jaredfromsubway.eth was responsible for 70% of sandwich attacks on Ethereum between November 2024 and October 2025.",
       "date": "2026-06-21T00:04:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin rotations into altcoins collapse: Have altseasons 'disappeared'?",
-      "link": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
-      "date": "2026-06-20T19:09:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
