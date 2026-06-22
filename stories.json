@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-06-22T01:53:15.940Z",
+  "generatedAt": "2026-06-22T03:12:43.558Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 335,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 316,
+  "errors": [
+    "COINTELEGRAPH: COINTELEGRAPH: HTTP 524"
+  ],
   "dupsMerged": 0,
   "items": [
     {
@@ -12,7 +14,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-22T01:53:15.934Z",
+      "date": "2026-06-22T03:12:43.219Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +24,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-22T01:53:15.934Z",
+      "date": "2026-06-22T03:12:43.219Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +34,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-22T01:53:15.934Z",
+      "date": "2026-06-22T03:12:43.219Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -87,36 +89,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Bitcoin’s drop to $23,980 remains the worst-case scenario as weaker ETF flows and low US demand show big investors are still cautious.",
-      "date": "2026-06-21T14:21:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Dash eyes Philippines as market for crypto payments",
-      "link": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Dash is assessing the Philippines for a crypto payments push as regulators promote easier business registration, though industry participants say compliant market entry can still take years.",
-      "date": "2026-06-21T12:25:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
-      "link": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "A Japanese corporate pension fund with about 1,200 participating small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto.",
-      "date": "2026-06-21T08:54:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
@@ -137,36 +109,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-21T04:36:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
-      "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "US-listed spot Bitcoin exchange-traded funds saw their biggest 30-day net outflow since launching in 2024, coming as Bitcoin fell 17% over the past month.",
-      "date": "2026-06-21T04:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M",
-      "link": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Jaredfromsubway.eth was responsible for 70% of sandwich attacks on Ethereum between November 2024 and October 2025.",
-      "date": "2026-06-21T00:04:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Secret Network’s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
@@ -177,62 +119,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin rotations into altcoins collapse: Have altseasons 'disappeared'?",
-      "link": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
-      "date": "2026-06-20T19:09:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
       "link": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss",
       "desc": "Sonic Labs said the three \"remain invested in Sonic's success\" but will no longer make business decisions for the Layer 1 network, formerly Fantom.",
       "date": "2026-06-20T16:01:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
-      "link": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto and blockchain industries.",
-      "date": "2026-06-20T14:57:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Pudgy Penguins expands retail footprint with Target trading card rollout",
-      "link": "https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The NFT-born franchise is bringing its Vibes Series 3 trading cards to Target stores across the US as it expands into physical products and mainstream retail.",
-      "date": "2026-06-20T11:49:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Philippine SEC signals readiness for RWA tokenization",
-      "link": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Philippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos more legitimate investment options while helping steer them away from scams.",
-      "date": "2026-06-20T07:05:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Crypto kidnappers who robbed Minnesota family of $8M plead guilty",
-      "link": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Two Texas brothers admitted to holding a Minnesota family at gunpoint and forcing the transfer of $8 million in cryptocurrency.",
-      "date": "2026-06-20T05:12:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
