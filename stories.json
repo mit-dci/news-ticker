@@ -1,18 +1,28 @@
 {
-  "generatedAt": "2026-06-22T12:03:06.867Z",
+  "generatedAt": "2026-06-22T14:19:09.396Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 303,
+  "filteredOut": 293,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 3,
   "items": [
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-22T14:19:08.679Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-22T12:03:06.860Z",
+      "date": "2026-06-22T14:19:08.679Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,17 +32,157 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-22T12:03:06.860Z",
+      "date": "2026-06-22T14:19:08.679Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-22T12:03:06.859Z",
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users",
+      "link": "https://bitcoinmagazine.com/news/ice-and-okx-form-crypto-to-connect-nyse",
+      "desc": "Bitcoin Magazine ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users A new ICE-OKX joint venture creates a regulated bridge between traditional finance and crypto, giving OKX's 120 million users access to ICE futures markets and NYSE tokenized equities. This post ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-22T14:17:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Andrew Cuomo Chairing OKX-Intercontinental Exchange Blockchain Project",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/andrew-cuomo-chairing-okx-intercontinental-exchange-blockchain-project/",
+      "desc": "Blockchain company OKX has launched a joint venture with New York Stock Exchange owner Intercontinental Exchange. The collaboration, announced Monday (June 22) will operate as a U.S. regulated broker dealer and futures commissions merchant, allowing OKX’s American and overseas customers to access Intercontinental Exchange (ICE) futures and New York Stock Exchange (NYSE) tokenized equities markets. The […] The post Andrew Cuomo Chairing OKX-Intercontinental Exchange Blockchain Project appeared first on PYMNTS.com.",
+      "date": "2026-06-22T14:06:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
+      "link": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
+      "desc": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions as it expands its stablecoin payments strategy.",
+      "date": "2026-06-22T13:53:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-22T13:50:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Social trading platform Fomo raises $75M, reaches $550M valuation",
+      "link": "https://cointelegraph.com/news/fomo-raise-series-b-trading-app-550m-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The Series B round values the social trading and token discovery platform at $550 million as crypto venture funding remains active in 2026.",
+      "date": "2026-06-22T13:42:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "OKX and NYSE partner to bridge tradfi and crypto markets in joint venture led by Andrew Cuomo",
+      "link": "https://www.coindesk.com/markets/2026/06/22/okx-and-nyse-partner-to-bridge-tradfi-and-crypto-markets-in-joint-venture-led-by-andrew-cuomo",
+      "desc": "The goal is to enable OKX’s 120 million global users to access ICE futures and NYSE tokenized equities markets, the two U.S. companies announced.",
+      "date": "2026-06-22T13:40:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Tom Lee says ‘best years for crypto remain ahead’ as Bitmine buys another 52,203 ETH",
+      "link": "https://www.theblock.co/post/405595/tom-lee-says-best-years-for-crypto-remain-ahead-as-bitmine-buys-another-52203-eth?utm_source=rss&utm_medium=rss",
+      "desc": "Bitmine added 52,203 ETH, lifting holdings to 5.67 million ETH as Tom Lee reiterated long-term crypto optimism outlook.",
+      "date": "2026-06-22T13:31:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Strive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC",
+      "link": "https://bitcoinmagazine.com/news/strive-asst-buys-759-bitcoin-for-50-mil",
+      "desc": "Bitcoin Magazine Strive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC Strive purchased 759 BTC for roughly $50 million last week, boosting its holdings to 19,864 BTC and outpacing Strategy's 520 BTC purchase as it accelerates its bitcoin accumulation strategy. This post Strive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-22T13:21:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitmine added $92 million of ETH, with Tom Lee continuing to believe in 'crypto spring'",
+      "link": "https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring",
+      "desc": "The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply.",
+      "date": "2026-06-22T13:04:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin mining network becoming more sensitive to price swings, JPMorgan says",
+      "link": "https://www.coindesk.com/markets/2026/06/22/bitcoin-mining-network-becoming-more-sensitive-to-price-swings-jpmorgan-says",
+      "desc": "A growing share of miners are operating near breakeven levels, making hashrate and mining difficulty increasingly responsive to bitcoin's price movements, the bank said.",
+      "date": "2026-06-22T12:51:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B",
+      "link": "https://www.theblock.co/post/405563/crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report?utm_source=rss&utm_medium=rss",
+      "desc": "Fomo raised a $75 million Series B round at a $550 million valuation led by Index Ventures, with participation from USV and others.",
+      "date": "2026-06-22T12:46:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "MoneyGram becomes Solana validator, expands blockchain payments strategy",
+      "link": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments?utm_source=rss&utm_medium=rss",
+      "desc": "Solana is now the third blockchain where MoneyGram operates an official validator, alongside Tempo and the Midnight Network.",
+      "date": "2026-06-22T12:30:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Bank of England Cancels Plans for Stablecoin Ownership Limits",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/bank-of-england-cancels-plans-for-stablecoin-ownership-limits/",
+      "desc": "England’s central bank is easing its stablecoin restrictions following pushback from the cryptocurrency industry. The Bank of England (BOE) announced Monday (June 22) that it would not introduce the temporary holding limits on stablecoins it had been considering. Instead, the bank will apply a “temporary issuance guardrail” to “each systemic stablecoin,” initially set at 40 billion pounds. […] The post Bank of England Cancels Plans for Stablecoin Ownership Limits appeared first on PYMNTS.com.",
+      "date": "2026-06-22T12:27:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "EUR trading accounts for 1% of Binance spot volume, CryptoQuant says",
+      "link": "https://cointelegraph.com/news/eur-trades-binance-spot-volume-cryptoquant?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Euro-denominated trading accounts for around 1% of Binance's spot volume, according to CryptoQuant data, as the exchange faces uncertainty ahead of MiCA's July 1 deadline.",
+      "date": "2026-06-22T12:26:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts",
+      "link": "https://decrypt.co/371760/bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts",
+      "desc": "With ETF outflows persisting and selling \"nearly exhausted,\" analysts say Bitcoin is range-bound and waiting for a catalyst.",
+      "date": "2026-06-22T12:12:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -49,7 +199,7 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "These XRP price charts hint at a potential 25% relief rally in July",
+      "title": "These XRP price charts hint at potential 25% relief rally in July",
       "link": "https://cointelegraph.com/markets/these-xrp-price-charts-hint-at-a-potential-25-relief-rally-in-july?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "An XRP death cross and liquidation signals align for a possible 25% relief rally in the short term, while one analyst eyes a longer-term rebound toward $8.",
       "date": "2026-06-22T11:39:19.000Z",
@@ -249,7 +399,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live markets: Friday's biggest bitcoin options expiry of the year puts $60,000 in focus",
+      "title": "Live markets: Bitcoin bounces to $65,000; Saylor's Strategy adds cash, coins",
       "link": "https://www.coindesk.com/tech/2026/06/22/live-markets-bitcoin-is-stuck-near-usd64-000-as-etf-outflows-reach-a-sixth-week",
       "desc": "Eased ETF selling and improving risk appetite are being offset by a firmer dollar and cautious institutional flows, leaving bitcoin range-bound, one analyst said.",
       "date": "2026-06-22T07:34:05.000Z",
@@ -283,16 +433,6 @@
       "link": "https://www.coindesk.com/tech/2026/06/22/bitcoin-developers-want-to-fix-the-replace-this-transaction-with-a-higher-fee-button-here-s-why",
       "desc": "A helpful feature of speeding up transactions has become redundant and a \"fingerprint\" for tracking. Developers now want to do away with it.",
       "date": "2026-06-22T06:19:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-22T06:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -353,6 +493,16 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Secret Network bridge exploited for $4.7M with ‘infinite mint’ bug",
+      "link": "https://cointelegraph.com/news/secret-network-bridge-exploited-infinite-mint-bug?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "An exploit of the Secret Network went undiscovered for a week as the hacker moved the loot into Ethereum and then to exchanges.",
+      "date": "2026-06-22T03:49:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Altura winds down stablecoin vault after ‘unprecedented level’ of withdrawal requests",
@@ -376,16 +526,6 @@
           "url": "https://decrypt.co/371756/1-9m-in-fake-bets-drove-polymarket-hype-wsj"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Turkish FinTech Midas Targets Consumer Payments Business",
-      "link": "https://www.pymnts.com/consumer-payments-2/2026/turkish-fintech-midas-targets-consumer-payments-business/",
-      "desc": "Midas has reportedly applied to Turkey’s central bank for an electronic money institution license. The Istanbul-based FinTech hopes to begin offering digital consumer payment products, Bloomberg News reported Friday (June 19), citing an interview with founder Egem Ersalan. He said the company is building a digital wallet and prepaid-card business that will let customers […] The post Turkish FinTech Midas Targets Consumer Payments Business appeared first on PYMNTS.com.",
-      "date": "2026-06-21T22:29:01.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -495,38 +635,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Secret Network’s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
-      "link": "https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days?utm_source=rss&utm_medium=rss",
-      "desc": "Secret Network says about $770,000 of the stolen funds still sits in the attacker's Axelar wallet, and that Axelar declined its request to freeze it.",
-      "date": "2026-06-20T21:57:05.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/secret-network-bridge-exploited-infinite-mint-bug?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin rotations into altcoins collapse: Have altseasons 'disappeared'?",
       "link": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
       "date": "2026-06-20T19:09:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
-      "link": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak?utm_source=rss&utm_medium=rss",
-      "desc": "Sonic Labs said the three \"remain invested in Sonic's success\" but will no longer make business decisions for the Layer 1 network, formerly Fantom.",
-      "date": "2026-06-20T16:01:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
