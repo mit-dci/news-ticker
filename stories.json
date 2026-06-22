@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-22T14:19:09.396Z",
+  "generatedAt": "2026-06-22T16:04:52.068Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 293,
+  "filteredOut": 282,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "bis",
@@ -12,7 +12,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-22T14:19:08.679Z",
+      "date": "2026-06-22T16:04:52.058Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-22T14:19:08.679Z",
+      "date": "2026-06-22T16:04:52.058Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +32,117 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-22T14:19:08.679Z",
+      "date": "2026-06-22T16:04:52.058Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Intercontinental Exchange, OKX expand access to tokenized equities via joint venture co-chaired by former Gov. Cuomo",
+      "link": "https://www.theblock.co/post/405640/nyse-intercontinental-exchange-okx-expand-access-tokenized-equities-joint-venture-cuomo?utm_source=rss&utm_medium=rss",
+      "desc": "The new joint venture will enable OKX customers in the U.S. and internationally to access ICE futures and NYSE tokenized equities markets.",
+      "date": "2026-06-22T15:59:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking",
+      "link": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
+      "desc": "The crypto sector's leading U.S. advocacy groups asked the U.S. House's tax committee to advance a bill to clarify treatment of assets from mining and staking.",
+      "date": "2026-06-22T15:56:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "World Liberty Financial's USD1 Supply Grows 9.7% in a Week to $4.85 Billion",
+      "link": "https://thedefiant.io/news/markets/world-liberty-financial-usd1-supply-grows-9-percent-week-485b",
+      "desc": "USD1's circulating supply expanded 9.7% over the past seven days to $4.85 billion, a 100th-percentile move that pushes the World Liberty Financial-issued stablecoin past Sky's USDS in net weekly inflows.",
+      "date": "2026-06-22T15:54:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "1,200 Tech Companies Tell Senate to Pass CLARITY Act as Lummis Calls Code-as-Crime Risk an 'Absurdity'",
+      "link": "https://thedefiant.io/converge/regulation/1200-tech-companies-clarity-act-lummis-absurdity-developers",
+      "desc": "The Consumer Technology Association, representing more than 1,200 firms including Amazon, Apple and Google, urged the Senate to pass the CLARITY Act without delay. Senator Cynthia Lummis followed with an on-record statement that the bill ends the 'absurdity' of developers needing lawyers to know",
+      "date": "2026-06-22T15:41:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "ENS DAO Opens Temp Check on Handing Treasury and Day-to-Day Authority to ENS Foundation",
+      "link": "https://thedefiant.io/news/defi/ens-dao-temp-check-empowering-ens-foundation-treasury-handover",
+      "desc": "An ENS DAO temp check published Friday would shift treasury control, grants administration and long-term capital strategy to an expanded ENS Foundation, while tokenholders retain protocol-layer authority.",
+      "date": "2026-06-22T15:21:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Tom Lee’s BitMine Adds $92 Million in Ethereum, Hits 4.7% of Total Supply",
+      "link": "https://decrypt.co/371766/tom-lee-bitmine-92-million-ethereum-supply",
+      "desc": "The leading Ethereum treasury firm inched closer to its goal of accumulating 5% of the ETH circulating supply.",
+      "date": "2026-06-22T15:18:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Crypto industry groups urge Congress to pass tax staking and mining bill unchanged",
+      "link": "https://www.theblock.co/post/405603/crypto-industry-groups-urge-congress-pass-tax-staking-mining-bill-unchanged?utm_source=rss&utm_medium=rss",
+      "desc": "Crypto advocacy groups are urging Congress to pass a tax bill, saying the measure would provide clarity on mining and staking rewards.",
+      "date": "2026-06-22T15:14:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
+      "link": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
+      "desc": "The crypto bank aims to help financial institutions offer round-the-clock payments and settlement without replacing their core systems.",
+      "date": "2026-06-22T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Morgan Stanley Files Amended S-1s for Spot Solana and Ethereum Trusts",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-files-amended-s-1s-for-spot-solana-and-ethereum-trusts",
+      "desc": "Morgan Stanley's amended S-1 filings for its spot Solana and spot Ethereum trusts name BNY Mellon and Coinbase Custody as joint custodians, set a 0.14% sponsor fee, and reserve the tickers MSOL and MSSE on NYSE Arca. Both products include staking provisions.",
+      "date": "2026-06-22T14:56:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Jaredfromsubway.eth, Ethereum's Most Active Sandwich Bot, Drained for $7.5M Over the Weekend",
+      "link": "https://thedefiant.io/news/hacks/jaredfromsubway-eth-mev-bot-drained-7-5-million-counter-mev-honeypot",
+      "desc": "An attacker drained more than $7.5 million from jaredfromsubway.eth, the Ethereum address tied to roughly 70% of sandwich attacks on the network, after a counter-MEV honeypot fed it 66 fake token contracts over several weeks. Blockaid disclosed the exploit Saturday.",
+      "date": "2026-06-22T14:55:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Why Google search can be a crypto wallet risk",
+      "link": "https://cointelegraph.com/learn/fake-google-ads-crypto-wallet-security?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Think your wallet is safe? A major crypto risk may start with a Google search and one wrong click.",
+      "date": "2026-06-22T14:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -77,6 +187,16 @@
       "termBoost": 0
     },
     {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Andrew Cuomo to lead new venture between NYSE parent and crypto exchange OKX",
+      "link": "https://www.ft.com/content/ef019832-4301-43ac-b5f8-d0c5c2116826",
+      "desc": "Former New York governor’s role highlights how politicians are rushing into digital assets sector",
+      "date": "2026-06-22T13:44:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Social trading platform Fomo raises $75M, reaches $550M valuation",
@@ -87,22 +207,38 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "OKX and NYSE partner to bridge tradfi and crypto markets in joint venture led by Andrew Cuomo",
-      "link": "https://www.coindesk.com/markets/2026/06/22/okx-and-nyse-partner-to-bridge-tradfi-and-crypto-markets-in-joint-venture-led-by-andrew-cuomo",
-      "desc": "The goal is to enable OKX’s 120 million global users to access ICE futures and NYSE tokenized equities markets, the two U.S. companies announced.",
-      "date": "2026-06-22T13:40:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Tom Lee says ‘best years for crypto remain ahead’ as Bitmine buys another 52,203 ETH",
       "link": "https://www.theblock.co/post/405595/tom-lee-says-best-years-for-crypto-remain-ahead-as-bitmine-buys-another-52203-eth?utm_source=rss&utm_medium=rss",
       "desc": "Bitmine added 52,203 ETH, lifting holdings to 5.67 million ETH as Tom Lee reiterated long-term crypto optimism outlook.",
       "date": "2026-06-22T13:31:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Andrew Cuomo Tapped to Co-Chair OKX-ICE Crypto Joint Venture",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/andrew-cuomo-co-chair-okx-ice-crypto-joint-venture",
+      "desc": "Former New York governor Andrew Cuomo will co-chair a joint venture between OKX and NYSE owner Intercontinental Exchange with ICE futures-exchanges chief Trabue Bland. Cuomo has advised OKX on policy since 2022, spanning the exchange's $504 million DOJ settlement. The venture is the consumer-facing",
+      "date": "2026-06-22T13:29:28.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/06/22/okx-and-nyse-partner-to-bridge-tradfi-and-crypto-markets-in-joint-venture-led-by-andrew-cuomo"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bank of England Publishes Policy Statement and Draft Rules for Systemic Stablecoins",
+      "link": "https://thedefiant.io/converge/regulation/bank-of-england-publishes-policy-statement-and-draft-rules-for-systemic-stablecoins",
+      "desc": "The Bank of England published its policy statement and draft Code of Practice for systemic stablecoin issuers on Monday, replacing per-person holding caps with a £40 billion issuer-level guardrail and lifting the gilt share of reserves to 70%. Industry feedback is open until 22 September.",
+      "date": "2026-06-22T13:29:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -468,6 +604,11 @@
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/post/405486/taiko-confirms-exploit?utm_source=rss&utm_medium=rss"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371769/ethereum-layer-2-taiko-withdraw-bridge-funds-security-breach"
         }
       ],
       "termBoost": 0
@@ -513,12 +654,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Polymarket paid creators to stage fake winning bets on dummy sites: WSJ",
-      "link": "https://www.theblock.co/post/405471/polymarket-paid-creators-to-stage-fake-winning-bets-on-dummy-sites-wsj?utm_source=rss&utm_medium=rss",
-      "desc": "The Journal reviewed more than 1,100 videos and found none of the roughly $1.9 million in bets shown in influencer-produced hype videos were real.",
-      "date": "2026-06-21T22:42:56.000Z",
+      "source": "techcrunch",
+      "sourceName": "TECHCRUNCH",
+      "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+      "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "desc": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
+      "date": "2026-06-21T16:35:00.000Z",
       "alsoAt": [
         {
           "source": "DECRYPT",
@@ -526,36 +667,6 @@
           "url": "https://decrypt.co/371756/1-9m-in-fake-bets-drove-polymarket-hype-wsj"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Fentanyl-linked Chinese network tied to crypto fraud from Japan involving fake ‘Zksync.jp’ token: Nikkei",
-      "link": "https://www.theblock.co/post/405468/fentanyl-linked-chinese-network-tied-to-crypto-fraud-from-japan-involving-fake-zksync-jp-token-nikkei?utm_source=rss&utm_medium=rss",
-      "desc": "The linked criminal group allegedly distributed a scam token under the name \"zksync.jp\" to deceive crypto users worldwide, with losses of over $1 million.",
-      "date": "2026-06-21T20:06:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "techcrunch",
-      "sourceName": "TECHCRUNCH",
-      "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
-      "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
-      "desc": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
-      "date": "2026-06-21T16:35:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Notorious ‘jaredfromsubway’ MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
-      "link": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot?utm_source=rss&utm_medium=rss",
-      "desc": "An X account using the bot's name claimed a $15 million loss and offered a $1 million bounty, but evidence shows it is a likely impersonator.",
-      "date": "2026-06-21T15:00:57.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -641,16 +752,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
       "date": "2026-06-20T19:09:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
-      "link": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto and blockchain industries.",
-      "date": "2026-06-20T14:57:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
