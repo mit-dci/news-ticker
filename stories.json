@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-23T09:10:25.364Z",
+  "generatedAt": "2026-06-23T10:41:29.332Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 249,
+  "filteredOut": 247,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 17,
   "items": [
     {
       "source": "bitcoinmag",
@@ -28,6 +28,72 @@
       "termBoost": 0
     },
     {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-23T10:41:29.031Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-23T10:41:29.031Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-23T10:41:29.031Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Hut 8 agrees to $2.35 million settlement in investor suit tied to US Bitcoin merger",
+      "link": "https://www.theblock.co/post/405760/hut-8-agrees-to-2-35-million-settlement-in-investor-suit-tied-to-us-bitcoin-merger?utm_source=rss&utm_medium=rss",
+      "desc": "Hut 8 agreed to pay $2.35M to settle a securities class action over disclosure claims from its 2023 merger with U.S. Bitcoin Corp.",
+      "date": "2026-06-23T10:35:55.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/06/23/hut-8-to-pay-usd2-35-million-to-settle-investor-suit-over-u-s-bitcoin-merger"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Binance’s Yi He warns of alleged impersonation scam, CoinUp denies ties",
+      "link": "https://cointelegraph.com/news/binances-yi-he-warns-alleged-scammer-coinup-responds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Binance co-founder Yi He warns of an alleged impersonator referred to as “Zhu Pan” in Chinese-language posts as CoinUp distances itself from the individual.",
+      "date": "2026-06-23T10:30:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ripple targets EU, wins preliminary MiCA approval from Luxembourg financial regulator",
+      "link": "https://www.coindesk.com/policy/2026/06/23/ripple-targets-eu-wins-preliminary-mica-approval-from-luxembourg-financial-regulator",
+      "desc": "The license will enable Ripple to offer its stablecoin payment systems to European companies and expand into broader crypto functions.",
+      "date": "2026-06-23T10:17:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Ripple secures preliminary Casp licence in EU",
@@ -38,32 +104,22 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-23T09:10:25.123Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "David Bailey’s Nakamoto closes legacy healthcare clinics as bitcoin operating company pivot nears completion",
+      "link": "https://www.theblock.co/post/405755/david-baileys-nakamoto-closes-legacy-healthcare-clinics-as-bitcoin-operating-company-pivot-nears-completion?utm_source=rss&utm_medium=rss",
+      "desc": "Nakamoto closed its healthcare clinics on June 19, completing a merger-linked wind-down as it pivots fully to bitcoin operations.",
+      "date": "2026-06-23T10:01:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-23T09:10:25.123Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-23T09:10:25.123Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "THORChain resumes trading more than a month after $10M exploit",
+      "link": "https://cointelegraph.com/news/thorchain-resumes-trading-month-10m-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "THORChain resumed all network activity after implementing multiple security upgrades and a vault migration to fix the vulnerabilities that led to the $10.7 million exploit.",
+      "date": "2026-06-23T10:00:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -149,6 +205,11 @@
           "source": "COINDESK",
           "sourceId": "coindesk",
           "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371848/us-senate-passes-housing-bill-with-four-year-fed-cbdc-ban"
         },
         {
           "source": "THE BLOCK",
@@ -877,16 +938,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘Between supportive and restrictive forces’: Bitcoin stalls near $64,000 as Fed rate-hike risk overshadows Iran ceasefire relief",
-      "link": "https://www.theblock.co/post/405557/between-supportive-and-restrictive-forces-bitcoin-stalls-near-64000-as-fed-rate-hike-risk-overshadows-iran-ceasefire-relief?utm_source=rss&utm_medium=rss",
-      "desc": "Bitcoin holds near $64,000 as six weeks of ETF outflows, and a hawkish Fed overshadow the U.S.-Iran peace deal.",
-      "date": "2026-06-22T11:26:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
@@ -919,26 +970,6 @@
       "link": "https://cointelegraph.com/news/q2-2026-most-hacked-quarter-record-83-incidents?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Crypto hackers stole $755 million across 83 cybersecurity incidents, as cross–chain bridges remained the most costly attack vector of the crypto industry.",
       "date": "2026-06-22T10:52:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bank of England backs down on strict stablecoin holding limits, sets $50 billion issuance cap",
-      "link": "https://www.coindesk.com/policy/2026/06/22/bank-of-england-backs-down-on-strict-stablecoin-holding-limits-sets-usd50-billion-issuance-cap",
-      "desc": "The U.K. central bank abandons retail holding limits for a 40-billion-pound aggregate cap and sweetens yield terms for token issuers ahead of a 2027 market launch.",
-      "date": "2026-06-22T10:48:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Geopolitical relief meets the Warsh Fed: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/06/22/geopolitical-relief-meets-the-warsh-fed-crypto-week-ahead",
-      "desc": "Your look at what's coming in the week starting June 22.",
-      "date": "2026-06-22T10:22:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1019,26 +1050,6 @@
       "link": "https://cointelegraph.com/news/taiko-urges-users-to-withdraw-as-bridge-exploit-drains-17m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Taiko’s bridge and ERC20 Vault on Ethereum suffered a compromise in its chain state verification mechanism, allowing forged proofs and unauthorized withdrawals.",
       "date": "2026-06-22T05:31:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Bitcoin’s drop to $23,980 remains the worst-case scenario as weaker ETF flows and low US demand show big investors are still cautious.",
-      "date": "2026-06-21T14:21:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Dash eyes Philippines as market for crypto payments",
-      "link": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Dash is assessing the Philippines for a crypto payments push as regulators promote easier business registration, though industry participants say compliant market entry can still take years.",
-      "date": "2026-06-21T12:25:12.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
