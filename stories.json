@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-23T10:41:29.332Z",
+  "generatedAt": "2026-06-23T12:02:13.300Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 247,
+  "filteredOut": 245,
   "errors": [],
-  "dupsMerged": 17,
+  "dupsMerged": 18,
   "items": [
     {
       "source": "bitcoinmag",
@@ -28,12 +28,32 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Quint hires former Tide CCEO and Revolut COO Laurnce Krieger to advise on M&A",
+      "link": "https://www.finextra.com/pressarticle/110226/quint-hires-former-tide-cceo-and-revolut-coo-laurnce-krieger-to-advise-on-ma?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Quint Group, the award-winning fintech group focused on credit & payments, has today announced the appointment of long-term fintech leader, Laurence Krieger.",
+      "date": "2026-06-23T12:09:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-06-23T12:02:12.805Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-23T10:41:29.031Z",
+      "date": "2026-06-23T12:02:12.805Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +63,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-23T10:41:29.031Z",
+      "date": "2026-06-23T12:02:12.805Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +73,27 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-23T10:41:29.031Z",
+      "date": "2026-06-23T12:02:12.805Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin volatility looks cheap as $10 billion options settlement nears",
+      "link": "https://www.coindesk.com/daybook-us/2026/06/23/bitcoin-volatility-looks-cheap-as-usd10-billion-options-settlement-nears",
+      "desc": "Your day-ahead look for June 23, 2026",
+      "date": "2026-06-23T11:16:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto market drops as Nasdaq tech selloff spills into digital assets",
+      "link": "https://www.coindesk.com/markets/2026/06/23/crypto-market-drops-as-nasdaq-tech-selloff-spills-into-digital-assets",
+      "desc": "Bitcoin lost 2.5% to $62,300 and ether fell more than 4% while $717 million in liquidations amplified losses across altcoins.",
+      "date": "2026-06-23T10:45:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -116,11 +156,17 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "THORChain resumes trading more than a month after $10M exploit",
+      "title": "THORChain resumes trading more than month after $10M exploit",
       "link": "https://cointelegraph.com/news/thorchain-resumes-trading-month-10m-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "THORChain resumed all network activity after implementing multiple security upgrades and a vault migration to fix the vulnerabilities that led to the $10.7 million exploit.",
       "date": "2026-06-23T10:00:24.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405767/thorchain-resumes-trading-after-exploit?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -888,16 +934,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "MoneyGram becomes Solana validator, expands blockchain payments strategy",
-      "link": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments?utm_source=rss&utm_medium=rss",
-      "desc": "Solana is now the third blockchain where MoneyGram operates an official validator, alongside Tempo and the Midnight Network.",
-      "date": "2026-06-22T12:30:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "EUR trading accounts for 1% of Binance spot volume, CryptoQuant says",
@@ -928,16 +964,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin ETF outflow pain eases just as another headwind gathers strength",
-      "link": "https://www.coindesk.com/daybook-us/2026/06/22/bitcoin-etf-outflow-pain-eases-just-as-another-headwind-strengthens",
-      "desc": "Your day-ahead look for June 22, 2026",
-      "date": "2026-06-22T11:30:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
@@ -951,16 +977,6 @@
           "url": "https://decrypt.co/371783/bank-of-england-eases-stablecoin-rules-swaps-holding-caps-for-40b-guardrail"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "As bitcoin, altcoin prices gain, derivatives signal skepticism over a sustained rally",
-      "link": "https://www.coindesk.com/markets/2026/06/22/as-bitcoin-altcoin-prices-gain-derivatives-signal-skepticism-over-a-sustained-rally",
-      "desc": "Analysts noted bitcoin is stuck between key support near $60,000 and resistance around $68,000, and a bearish chart pattern could send prices toward $54,000.",
-      "date": "2026-06-22T11:05:38.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
