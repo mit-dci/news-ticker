@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-23T12:02:13.300Z",
+  "generatedAt": "2026-06-23T13:26:43.639Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 245,
+  "filteredOut": 243,
   "errors": [],
-  "dupsMerged": 18,
+  "dupsMerged": 17,
   "items": [
     {
       "source": "bitcoinmag",
@@ -28,6 +28,156 @@
       "termBoost": 0
     },
     {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-23T13:26:43.436Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-06-23T13:26:43.435Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-23T13:26:43.435Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-23T13:26:43.435Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Strategy: The Capital Stack Meets a Falling Bitcoin Price",
+      "link": "https://www.theblock.co/post/405791/strategy-the-capital-stack-meets-a-falling-bitcoin-price?utm_source=rss&utm_medium=rss",
+      "desc": "Below is a summarized version of The Block Research’s Strategy: The Capital Stack Meets a Falling Bitcoin Price report. The full PDF version of this report is accessible here. Strategy Inc., formerly MicroStrategy, faces the first real test of its Bitcoin-treasury model. It holds 847,363 BTC acquired for $64.10 billion, or an average of $75,651. […]",
+      "date": "2026-06-23T13:24:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Meta leads $900m funding round for Indian fintech Cred",
+      "link": "https://www.finextra.com/newsarticle/47976/meta-leads-900m-funding-round-for-indian-fintech-cred?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Meta has led a $900 million Series H funding round for Cred and hired the Indian fintech giant's CEO to lead WhatsApp.",
+      "date": "2026-06-23T13:19:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-23T13:07:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Midas’ mGLOBAL token tracking Fasanara’s alternative debt strategy launches on Aave Horizon",
+      "link": "https://www.theblock.co/post/405774/midas-mglobal-fasanara-aave-horizon?utm_source=rss&utm_medium=rss",
+      "desc": "Holders will now be able to deposit mGLOBAL tokens on Aave Horizon to borrow USDC while retaining full exposure to the underlying strategy.",
+      "date": "2026-06-23T13:05:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "New DeFi Education Fund coalition seeks to harden crypto against cybersecurity threats",
+      "link": "https://www.theblock.co/post/405698/new-defi-education-fund-coalition-seeks-harden-crypto-against-cybersecurity-threats?utm_source=rss&utm_medium=rss",
+      "desc": "The DeFi Education Fund launched a cybersecurity coalition as part of an effort to bolster itself against bad actors across the blockchain.",
+      "date": "2026-06-23T13:05:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Former Robinhood Crypto COO Tanya Denisova joins stablecoin issuer Agora as head of operations",
+      "link": "https://www.coindesk.com/business/2026/06/23/former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head-of-operations",
+      "desc": "The former Robinhood Crypto executive will oversee operations as Agora scales its rapidly growing AUSD stablecoin business.",
+      "date": "2026-06-23T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "In Clarity Act's final weeks, its path through U.S. Senate not getting much clearer",
+      "link": "https://www.coindesk.com/news-analysis/2026/06/22/in-clarity-act-s-final-weeks-its-path-through-u-s-senate-not-getting-much-clearer",
+      "desc": "Tough negotiations linger in several difficult arenas, but crypto's Washington lobbyists are flying in allies this week and still hoping for a July vote.",
+      "date": "2026-06-23T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The digital euro takes a massive step forward after winning a crucial European Parliament vote",
+      "link": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
+      "desc": "EU lawmakers backed a legal framework to launch a state-backed digital currency by 2029 so the continent can stop relying entirely on U.S. credit card and stablecoin giants.",
+      "date": "2026-06-23T12:37:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Blockchain data startup Allium raises $40M Series B as institutional interest in onchain analytics grows: Fortune",
+      "link": "https://www.theblock.co/post/405776/blockchain-data-startup-allium-raises-40m-series-b-as-institutional-interest-in-onchain-analytics-grows-fortune?utm_source=rss&utm_medium=rss",
+      "desc": "Allium raised a $40 million Series B to expand blockchain data infrastructure for institutional clients, including Visa and the Fed.",
+      "date": "2026-06-23T12:28:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "EU committee advances digital euro bill after key vote",
+      "link": "https://cointelegraph.com/news/eu-committee-digital-euro-cbdc-bill-key-vote?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "EU lawmakers backed rules for an offline and online digital euro, with privacy safeguards, holding limits and no interest payments.",
+      "date": "2026-06-23T12:24:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Morning Minute: Fomo's $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto",
+      "link": "https://decrypt.co/371851/morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypto",
+      "desc": "Crypto majors are selling off as big Tech gets routed; Saylor is hoarding cash; and ETH heavyweights team up to fund R&#038;D with ETHLabs.",
+      "date": "2026-06-23T12:23:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Quint hires former Tide CCEO and Revolut COO Laurnce Krieger to advise on M&A",
@@ -38,42 +188,12 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-23T12:02:12.805Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-23T12:02:12.805Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-23T12:02:12.805Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-23T12:02:12.805Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Former BIS chief softens stance on stablecoins, backs coexistence with fiat",
+      "link": "https://cointelegraph.com/news/former-bis-chief-softens-stance-stablecoins-coexistence-fiat?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Former BIS general manager Agustín Carstens said stablecoins can enhance financial inclusion and innovation but stressed the need for global regulatory frameworks to enable coexistence with fiat money.",
+      "date": "2026-06-23T12:06:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -202,9 +322,9 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: An 'altcoin season' signal flashed, but bitcoin's slide is what set it off",
+      "title": "Live updates: Bitcoin drops to $62,000 as South Korea's Kospi crashes 10%",
       "link": "https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off",
-      "desc": "After nearly two years of declines, alts have run out of sellers and steadied, while bitcoin has dropped hard, sliding back toward $63,600.",
+      "desc": "The fast decline in prices set off $700 million in forced liquidations across the market.",
       "date": "2026-06-23T06:30:21.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -226,16 +346,6 @@
       "link": "https://www.coindesk.com/markets/2026/06/23/spacex-s-usd600-billion-dive-erased-nearly-half-a-bitcoin-market-cap-in-three-days",
       "desc": "The newly public company shed close to half of bitcoin's entire market value in three sessions after announcing its first bond sale. Bitcoin, absorbing the same backdrop, fell less than 1%.",
       "date": "2026-06-23T06:23:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-23T06:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -319,22 +429,6 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Baillie Gifford Launches UK-Regulated Tokenized Bond Fund on Solana and Ethereum With BNY",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/baillie-gifford-bagey-tokenized-bond-fund-solana-ethereum-bny",
-      "desc": "Scottish asset manager Baillie Gifford has launched BAGEY, the first publicly available, fully native UK-regulated tokenized bond fund, with BNY providing custody and wallet infrastructure across Solana and Ethereum.",
-      "date": "2026-06-23T01:43:21.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
       "title": "Treasury Sanctions Three Individuals and Six Entities for Routing Crypto to ISIS",
       "link": "https://thedefiant.io/news/regulation/treasury-sanctions-three-individuals-six-entities-routing-crypto-isis",
       "desc": "OFAC designated three financial facilitators and six money service businesses across Europe, Syria, Turkey, and Nigeria for moving funds to ISIS and its West Africa affiliate using crypto, including two TRON addresses tied to a French national.",
@@ -348,6 +442,16 @@
       "title": "Synthetix Governance Votes to Retire sUSD, Pay Holders in Vested SNX",
       "link": "https://thedefiant.io/news/defi/synthetix-governance-retire-susd-sip-423-vested-snx",
       "desc": "Synthetix governance has moved to retire sUSD entirely under SIP-423, introduced June 12. The proposal would freeze the stablecoin contract and pay all holders back at face value in vested SNX at a conversion of four SNX per sUSD. A companion SIP-424 covering technical implementation is pending.",
+      "date": "2026-06-23T01:43:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Baillie Gifford Launches UK-Regulated Tokenized Bond Fund on Solana and Ethereum With BNY",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/baillie-gifford-bagey-tokenized-bond-fund-solana-ethereum-bny",
+      "desc": "Scottish asset manager Baillie Gifford has launched BAGEY, the first publicly available, fully native UK-regulated tokenized bond fund, with BNY providing custody and wallet infrastructure across Solana and Ethereum.",
       "date": "2026-06-23T01:43:21.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -369,13 +473,7 @@
       "link": "https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw",
       "desc": "Secret Network's cross-chain bridge to Axelar has been suspended after an attacker exploited a years-old minting flaw in a CW20-ICS20 contract to drain $4.67 million in wrapped tokens over seven undetected days. The exploit ran from June 10 to June 17, drained seven Axelar-wrapped assets, and has",
       "date": "2026-06-22T22:57:40.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/secret-network-bridge-exploited-infinite-mint-bug?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -567,6 +665,11 @@
           "source": "COINTELEGRAPH",
           "sourceId": "cointelegraph",
           "url": "https://cointelegraph.com/news/franklin-templeton-launches-dedicated-crypto-division-after-completing-250-digital-acquisition?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/06/23/franklin-templeton-closes-250-digital-acquisition-deal-and-sets-up-new-franklin-crypto-division"
         }
       ],
       "termBoost": 0
@@ -823,42 +926,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "MoneyGram joins Solana as validator amid stablecoin payment push",
-      "link": "https://www.coindesk.com/business/2026/06/22/moneygram-joins-solana-as-validator-amid-stablecoin-payment-push",
-      "desc": "The remittances firm has become a validator on the Solana blockchain, helping process and secure transactions as it expands its stablecoin payments strategy.",
-      "date": "2026-06-22T13:53:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Andrew Cuomo to lead new venture between NYSE parent and crypto exchange OKX",
-      "link": "https://www.ft.com/content/ef019832-4301-43ac-b5f8-d0c5c2116826",
-      "desc": "Former New York governor’s role highlights how politicians are rushing into digital assets sector",
-      "date": "2026-06-22T13:44:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Social trading platform Fomo raises $75M, reaches $550M valuation",
       "link": "https://cointelegraph.com/news/fomo-raise-series-b-trading-app-550m-valuation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "The Series B round values the social trading and token discovery platform at $550 million as crypto venture funding remains active in 2026.",
       "date": "2026-06-22T13:42:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Tom Lee says ‘best years for crypto remain ahead’ as Bitmine buys another 52,203 ETH",
-      "link": "https://www.theblock.co/post/405595/tom-lee-says-best-years-for-crypto-remain-ahead-as-bitmine-buys-another-52203-eth?utm_source=rss&utm_medium=rss",
-      "desc": "Bitmine added 52,203 ETH, lifting holdings to 5.67 million ETH as Tom Lee reiterated long-term crypto optimism outlook.",
-      "date": "2026-06-22T13:31:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -876,9 +949,9 @@
           "url": "https://cointelegraph.com/news/andrew-cuomo-okx-intercontinental-exchange-venture?utm_source=rss&utm_medium=rss&utm_campaign=rss"
         },
         {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/markets/2026/06/22/okx-and-nyse-partner-to-bridge-tradfi-and-crypto-markets-in-joint-venture-led-by-andrew-cuomo"
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/ef019832-4301-43ac-b5f8-d0c5c2116826"
         }
       ],
       "termBoost": 0
@@ -900,36 +973,6 @@
       "link": "https://bitcoinmagazine.com/news/strive-asst-buys-759-bitcoin-for-50-mil",
       "desc": "Bitcoin Magazine Strive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC Strive purchased 759 BTC for roughly $50 million last week, boosting its holdings to 19,864 BTC and outpacing Strategy's 520 BTC purchase as it accelerates its bitcoin accumulation strategy. This post Strive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-22T13:21:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitmine added $92 million of ETH, with Tom Lee continuing to believe in 'crypto spring'",
-      "link": "https://www.coindesk.com/business/2026/06/22/bitmine-added-usd92-million-of-eth-with-tom-lee-continuing-to-believe-in-crypto-spring",
-      "desc": "The largest Ethereum treasury firm slowed its buying pace but remains on track to reach its goal of owning 5% of ETH supply.",
-      "date": "2026-06-22T13:04:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin mining network becoming more sensitive to price swings, JPMorgan says",
-      "link": "https://www.coindesk.com/markets/2026/06/22/bitcoin-mining-network-becoming-more-sensitive-to-price-swings-jpmorgan-says",
-      "desc": "A growing share of miners are operating near breakeven levels, making hashrate and mining difficulty increasingly responsive to bitcoin's price movements, the bank said.",
-      "date": "2026-06-22T12:51:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B",
-      "link": "https://www.theblock.co/post/405563/crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report?utm_source=rss&utm_medium=rss",
-      "desc": "Fomo raised a $75 million Series B round at a $550 million valuation led by Index Ventures, with participation from USV and others.",
-      "date": "2026-06-22T12:46:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1046,26 +1089,6 @@
       "link": "https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "The remittance giant is staking SOL and processing transaction blocks as stablecoin adoption accelerates across the global remittance industry.",
       "date": "2026-06-22T06:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Morgan Stanley amends Ethereum, Solana ETFs to reveal record cheap fees",
-      "link": "https://cointelegraph.com/news/morgan-stanley-amends-ethereum-solana-etfs-to-undercut-rivals-fees?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "ETF analyst Eric Balchunas says Morgan Stanley’s plan to charge 0.14% fees on two upcoming crypto ETFs makes them “the cheapest in [the] US and world.”",
-      "date": "2026-06-22T05:40:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Taiko urges users to withdraw as bridge exploit drains $1.7M",
-      "link": "https://cointelegraph.com/news/taiko-urges-users-to-withdraw-as-bridge-exploit-drains-17m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Taiko’s bridge and ERC20 Vault on Ethereum suffered a compromise in its chain state verification mechanism, allowing forged proofs and unauthorized withdrawals.",
-      "date": "2026-06-22T05:31:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
