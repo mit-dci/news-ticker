@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-23T14:21:01.530Z",
+  "generatedAt": "2026-06-23T15:31:55.298Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 242,
+  "filteredOut": 239,
   "errors": [],
-  "dupsMerged": 16,
+  "dupsMerged": 18,
   "items": [
     {
       "source": "bitcoinmag",
@@ -33,7 +33,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-23T14:21:01.158Z",
+      "date": "2026-06-23T15:31:54.760Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-23T14:21:01.158Z",
+      "date": "2026-06-23T15:31:54.760Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +53,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-23T14:21:01.158Z",
+      "date": "2026-06-23T15:31:54.760Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,17 +63,150 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-23T14:21:01.158Z",
+      "date": "2026-06-23T15:31:54.760Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape",
-      "link": "https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&utm_medium=rss",
-      "desc": "Ethereum Foundation cut 20% of its workforce, reorganizing into five clusters as part of a long-simmering reorganization.",
-      "date": "2026-06-23T13:47:07.000Z",
+      "title": "Tether-backed Oobit brings USDT to nearly 170 million users of Brazil’s PIX payment network",
+      "link": "https://www.theblock.co/post/405819/tether-backed-oobit-brings-usdt-170-million-users-brazils-pix-payment-network?utm_source=rss&utm_medium=rss",
+      "desc": "Created by Banco Central do Brasil in 2020, PIX is one of the world's most widely-adopted digital payment networks.",
+      "date": "2026-06-23T15:29:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Blockchain platform Allium raises $40 million Series B",
+      "link": "https://www.finextra.com/pressarticle/110228/blockchain-platform-allium-raises-40-million-series-b?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Allium, the leading blockchain data platform for enterprises, today announced it has raised $40 million in Series B funding led by Amplify Partners, with participation from existing investors Kleiner Perkins and Theory Ventures. Amplify’s David Beyer will join the Board as part of the investment.",
+      "date": "2026-06-23T15:21:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405776/blockchain-data-startup-allium-raises-40m-series-b-as-institutional-interest-in-onchain-analytics-grows-fortune?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization",
+      "link": "https://decrypt.co/371864/ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization",
+      "desc": "The non-profit is cutting 54 jobs as it reorganizes into focused \"clusters,\" following a succession of leadership departures.",
+      "date": "2026-06-23T15:19:46.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
+      "link": "https://bitcoinmagazine.com/news/us-senate-passes-bill-four-year-fed",
+      "desc": "Bitcoin Magazine US Senate Passes Housing Bill With Four-Year Fed CBDC Ban The U.S. Senate has passed a housing bill that includes a ban on a Federal Reserve-issued CBDC through 2030. This post US Senate Passes Housing Bill With Four-Year Fed CBDC Ban first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-23T15:17:11.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371848/us-senate-passes-housing-bill-with-four-year-fed-cbdc-ban"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405746/us-senate-passes-housing-cbdc-bill?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ethereum Foundation Cuts Budget 40% in Sweeping Restructuring",
+      "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-cuts-20-of-staff-in-sweeping-reorganization",
+      "desc": "The nonprofit is eliminating 54 roles as Vitalik Buterin warns that the leaner organization will involve “grand sacrifices,” including changes to client development, Devcon and institutional work.",
+      "date": "2026-06-23T15:05:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset",
+      "link": "https://www.coindesk.com/tech/2026/06/23/vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset",
+      "desc": "The reduction comes on the same day the EF confirmed a 20% reduction in headcount and follows the resignation of co-Executive Director Hsiao-Wei Wang. Her departure brings the total number of senior Ethereum Foundation figures to leave since January to nine, underscoring the scale of the organization's ongoing turmoil.",
+      "date": "2026-06-23T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Nakamoto Inc. (NAKA) Closes Last Healthcare Clinic, Completes Full Pivot to Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/nakamoto-completes-full-pivot-to-bitcoin",
+      "desc": "Bitcoin Magazine Nakamoto Inc. (NAKA) Closes Last Healthcare Clinic, Completes Full Pivot to Bitcoin Nakamoto has completed its transformation into a pure-play Bitcoin company, shutting its final healthcare clinic and ending all remaining ties to its healthcare business. This post Nakamoto Inc. (NAKA) Closes Last Healthcare Clinic, Completes Full Pivot to Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-23T14:40:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
+      "link": "https://cointelegraph.com/markets/bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "SpaceX’s $600 billion wipeout rattles tech markets, putting Bitcoin’s $60,000 support at risk as traders brace for a deeper BTC selloff.",
+      "date": "2026-06-23T14:38:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-suisse-secures-micar-license",
+      "desc": "Bitcoin Magazine Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein Bitcoin Suisse secured a MiCAR license in Liechtenstein, enabling the crypto financial services firm to expand regulated operations across the European Union under a unified regulatory framework. This post Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-23T14:31:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Why tokenized SpaceX shares broke before retail investors could buy them",
+      "link": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Tokenized SpaceX shares drew more than $1 billion in demand, but many investors received refunds instead. What went wrong?",
+      "date": "2026-06-23T14:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "techcrunch",
+      "sourceName": "TECHCRUNCH",
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "desc": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "date": "2026-06-23T14:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -184,16 +317,6 @@
       "link": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
       "desc": "EU lawmakers backed a legal framework to develop an ECB digital currency by 2029 so the continent can stop relying entirely on U.S. credit card and stablecoin giants.",
       "date": "2026-06-23T12:37:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Blockchain data startup Allium raises $40M Series B as institutional interest in onchain analytics grows: Fortune",
-      "link": "https://www.theblock.co/post/405776/blockchain-data-startup-allium-raises-40m-series-b-as-institutional-interest-in-onchain-analytics-grows-fortune?utm_source=rss&utm_medium=rss",
-      "desc": "Allium raised a $40 million Series B to expand blockchain data infrastructure for institutional clients, including Visa and the Fed.",
-      "date": "2026-06-23T12:28:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -387,32 +510,6 @@
       "desc": "The newly public company shed close to half of bitcoin's entire market value in three sessions after announcing its first bond sale. Bitcoin, absorbing the same backdrop, fell less than 1%.",
       "date": "2026-06-23T06:23:36.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "US Senate passes housing bill with CBDC ban until 2030",
-      "link": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The Senate voted 85-5 to pass a major housing affordability bill that includes a ban on the Federal Reserve making a central bank digital currency until 2030.",
-      "date": "2026-06-23T05:58:20.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371848/us-senate-passes-housing-bill-with-four-year-fed-cbdc-ban"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405746/us-senate-passes-housing-cbdc-bill?utm_source=rss&utm_medium=rss"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -634,22 +731,6 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/ice-okx-50-50-joint-venture-tokenized-nyse-equities-cuomo-co-chair",
       "desc": "Intercontinental Exchange and OKX will build a U.S. broker-dealer to route OKX's customers into NYSE tokenized equities and ICE futures, pending regulatory approval.",
       "date": "2026-06-22T19:27:39.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405640/nyse-intercontinental-exchange-okx-expand-access-tokenized-equities-joint-venture-cuomo?utm_source=rss&utm_medium=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ether’s biggest corporate holders back new Ethereum research hub",
-      "link": "https://www.coindesk.com/business/2026/06/22/ether-s-biggest-corporate-holders-back-new-ethereum-research-hub",
-      "desc": "Ethlabs was formed with support from SharpLink, Bitmine and Consensys CEO Joe Lubin as the network's development is expanding beyond the Ethereum Foundation.",
-      "date": "2026-06-22T19:20:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -821,16 +902,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ethereum Foundation talent exodus sparks fresh debate over leadership",
-      "link": "https://www.coindesk.com/tech/2026/06/22/ethereum-foundation-talent-exodus-sparks-fresh-debate-over-leadership",
-      "desc": "The Ethereum community is once again debating the future of the foundation after co-executive director Hsiao-Wei Wang announced she would step down.",
-      "date": "2026-06-22T16:39:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Re7 Labs Opens $223K USDC Compensation Pool for USR Exploit Victims",
@@ -931,16 +1002,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users",
-      "link": "https://bitcoinmagazine.com/news/ice-and-okx-form-crypto-to-connect-nyse",
-      "desc": "Bitcoin Magazine ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users A new ICE-OKX joint venture creates a regulated bridge between traditional finance and crypto, giving OKX's 120 million users access to ICE futures markets and NYSE tokenized equities. This post ICE and OKX Form Joint Venture to Connect NYSE Infrastructure With 120 Million Crypto Users first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-22T14:17:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Social trading platform Fomo raises $75M, reaches $550M valuation",
@@ -978,16 +1039,6 @@
       "link": "https://thedefiant.io/converge/regulation/bank-of-england-publishes-policy-statement-and-draft-rules-for-systemic-stablecoins",
       "desc": "The Bank of England published its policy statement and draft Code of Practice for systemic stablecoin issuers on Monday, replacing per-person holding caps with a £40 billion issuer-level guardrail and lifting the gilt share of reserves to 70%. Industry feedback is open until 22 September.",
       "date": "2026-06-22T13:29:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Strive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC",
-      "link": "https://bitcoinmagazine.com/news/strive-asst-buys-759-bitcoin-for-50-mil",
-      "desc": "Bitcoin Magazine Strive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC Strive purchased 759 BTC for roughly $50 million last week, boosting its holdings to 19,864 BTC and outpacing Strategy's 520 BTC purchase as it accelerates its bitcoin accumulation strategy. This post Strive (ASST) Buys 759 Bitcoin for $50 Million, Treasury Reaches 19,864 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-22T13:21:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1048,16 +1099,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "US dollar strength hits highest since May 2025: Five things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/us-dollar-strength-hits-highest-since-may-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Bitcoin faced a resurgent US dollar index and macro hurdles as it circled $64,000, but July seasonality could spark BTC price relief.",
-      "date": "2026-06-22T10:13:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Bank of England bows to pressure on stablecoin holdings",
@@ -1084,26 +1125,6 @@
       "link": "https://www.finextra.com/newsarticle/47964/safirum-aims-to-steal-a-march-on-swiss-banks-with-launch-of-chf-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Swiss fintech Safirum is preparing the launch of a CHF stablecoin in a race against time ahead of the realisation of a comparable bank-backed platform from Swiss Stablecoin AG.",
       "date": "2026-06-22T09:09:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "South Korea pushes Travel Rule expansion for smaller crypto transfers",
-      "link": "https://cointelegraph.com/news/south-korea-travel-rule-smaller-crypto-transfers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "South Korea’s FIU is calling for broader crypto transfer reporting rules during FATF talks, citing offshore risks and uneven global AML enforcement.",
-      "date": "2026-06-22T08:58:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "MoneyGram joins Solana as validator, expanding role in blockchain infrastructure",
-      "link": "https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The remittance giant is staking SOL and processing transaction blocks as stablecoin adoption accelerates across the global remittance industry.",
-      "date": "2026-06-22T06:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
