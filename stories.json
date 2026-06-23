@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-06-23T22:55:17.468Z",
+  "generatedAt": "2026-06-23T23:26:18.007Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 232,
+  "filteredOut": 233,
   "errors": [],
-  "dupsMerged": 16,
+  "dupsMerged": 15,
   "items": [
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "UBS demonstrates implementation of compliance checks on transactions crossing Ethereum",
+      "link": "https://www.finextra.com/newsarticle/47974/ubs-demonstrates-implementation-of-compliance-checks-on-transactions-crossing-ethereum?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "UBS and blockchain engineering firm Nethermind have successfully completed two joint proofs of concept demonstrating that the public Ethereum network can support the operational and compliance requirements of top tier financial institutions.",
+      "date": "2026-06-24T00:01:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "bitcoinops",
       "sourceName": "BITCOIN OPTECH",
@@ -22,7 +32,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-23T22:55:16.377Z",
+      "date": "2026-06-23T23:26:17.593Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +42,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-23T22:55:16.377Z",
+      "date": "2026-06-23T23:26:17.593Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +52,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-23T22:55:16.377Z",
+      "date": "2026-06-23T23:26:17.593Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,7 +62,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-23T22:55:16.377Z",
+      "date": "2026-06-23T23:26:17.593Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -62,7 +72,37 @@
       "title": "THORChain Resumes Trading After Month-Long Halt From $10.7M Exploit",
       "link": "https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit",
       "desc": "The cross-chain DEX restored signing, churning, swaps, and LP actions Tuesday morning, six weeks after an Asgard vault breach drained funds across four chains.",
-      "date": "2026-06-23T22:55:15.000Z",
+      "date": "2026-06-23T23:26:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ethereum’s much-hated staking 'tax' may already be obsolete",
+      "link": "https://cointelegraph.com/features/ethereums-funding-scare-why-a-hated-staking-tax-may-already-be-obsolete?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Ethereum’s latest “funding crisis” has triggered a fierce debate: a contentious plan to tax staking rewards versus a new wave of labs and large ETH holders funding development offchain.",
+      "date": "2026-06-23T23:18:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Lawmakers Fast-Track Bipartisan Housing Bill With CBDC Ban",
+      "link": "https://www.pymnts.com/cbdc/2026/lawmakers-fast-track-bipartisan-housing-bill-with-cbdc-ban/",
+      "desc": "A four-year ban on the development of a U.S. central bank digital currency (CBDC) is included in a housing affordability bill that was passed Monday night (June 22) by the Senate. The bipartisan bill, the 21st Century ROAD to Housing Act, passed the Senate on a vote of 85 to 5 and now heads to […] The post Lawmakers Fast-Track Bipartisan Housing Bill With CBDC Ban appeared first on PYMNTS.com.",
+      "date": "2026-06-23T23:09:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Digital Chamber CEO Carbone Presses Senate for CLARITY Act Vote, Citing Financial Friction Cost to Americans",
+      "link": "https://thedefiant.io/news/regulation/digital-chamber-carbone-clarity-act-senate-affordability-testimony",
+      "desc": "Cody Carbone of The Digital Chamber testified Tuesday before the Senate Banking Committee that passing the CLARITY Act is a prerequisite for reducing financial friction costs that fall hardest on lower-income households, as no Senate floor vote has yet been scheduled.",
+      "date": "2026-06-23T22:55:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -528,11 +568,6 @@
           "source": "COINTELEGRAPH",
           "sourceId": "cointelegraph",
           "url": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-        },
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc"
         },
         {
           "source": "DECRYPT",
@@ -1067,26 +1102,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "NYSE Parent ICE and OKX Form 50-50 Joint Venture for Tokenized Equities, Co-Chaired by Andrew Cuomo",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ice-okx-50-50-joint-venture-tokenized-nyse-equities-cuomo-co-chair",
-      "desc": "Intercontinental Exchange and OKX will build a U.S. broker-dealer to route OKX's customers into NYSE tokenized equities and ICE futures, pending regulatory approval.",
-      "date": "2026-06-22T19:27:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Solana grabs 95% of tokenized equity as traders debate if SOL bottom is in",
-      "link": "https://cointelegraph.com/markets/solana-captures-95-of-tokenized-equity-as-sol-bottom-debate-grows?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Solana captured 95% of tokenized equity volumes as analysts debate whether $60 was the bottom for SOL.",
-      "date": "2026-06-22T19:17:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division",
@@ -1184,26 +1199,6 @@
       "link": "https://decrypt.co/371756/1-9m-in-fake-bets-drove-polymarket-hype-wsj",
       "desc": "A Wall Street Journal probe found none of the roughly $1.9 million in bets shown across 1,100-plus creator videos were real.",
       "date": "2026-06-22T10:53:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Bank of England bows to pressure on stablecoin holdings",
-      "link": "https://www.finextra.com/newsarticle/47966/bank-of-england-bows-to-pressure-on-stablecoin-holdings?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "The Bank of England has rowed back on plans for provisional holding limits on GBP stablecoins after facing fierce criticism of its original policy proposals.",
-      "date": "2026-06-22T10:13:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Safirum aims to steal a march on Swiss banks with launch of CHF stablecoin",
-      "link": "https://www.finextra.com/newsarticle/47964/safirum-aims-to-steal-a-march-on-swiss-banks-with-launch-of-chf-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Swiss fintech Safirum is preparing the launch of a CHF stablecoin in a race against time ahead of the realisation of a comparable bank-backed platform from Swiss Stablecoin AG.",
-      "date": "2026-06-22T09:09:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
