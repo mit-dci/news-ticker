@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-23T13:26:43.639Z",
+  "generatedAt": "2026-06-23T14:21:01.530Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 243,
+  "filteredOut": 242,
   "errors": [],
-  "dupsMerged": 17,
+  "dupsMerged": 16,
   "items": [
     {
       "source": "bitcoinmag",
@@ -30,20 +30,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-23T13:26:43.436Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-23T13:26:43.435Z",
+      "date": "2026-06-23T14:21:01.158Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +43,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-23T13:26:43.435Z",
+      "date": "2026-06-23T14:21:01.158Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +53,57 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-23T13:26:43.435Z",
+      "date": "2026-06-23T14:21:01.158Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-23T14:21:01.158Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape",
+      "link": "https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&utm_medium=rss",
+      "desc": "Ethereum Foundation cut 20% of its workforce, reorganizing into five clusters as part of a long-simmering reorganization.",
+      "date": "2026-06-23T13:47:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ethereum Foundation cuts 20% of staff amid leadership exodus",
+      "link": "https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
+      "desc": "The reduction follows a period of significant upheaval at the organization’s leadership level.",
+      "date": "2026-06-23T13:45:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
+      "link": "https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
+      "desc": "Thailand's DSI says a Chinese \"grey capital\" network used illegal crypto mining and cash mules to launder more than $300 million a year.",
+      "date": "2026-06-23T13:40:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "OKX Europe chief says 80% of crypto exchanges won’t survive MiCA as deadline nears",
+      "link": "https://www.theblock.co/post/405777/okx-europe-chief-mica-deadline-nears?utm_source=rss&utm_medium=rss",
+      "desc": "OKX Europe CEO Ghoos said 80% of exchanges won't survive MiCA as ESMA forces unlicensed firms to cease EU operations by July 1.",
+      "date": "2026-06-23T13:31:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -140,9 +180,9 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "The digital euro takes a massive step forward after winning a crucial European Parliament vote",
+      "title": "The ECB digital euro takes step forward after winning key European Parliament vote",
       "link": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
-      "desc": "EU lawmakers backed a legal framework to launch a state-backed digital currency by 2029 so the continent can stop relying entirely on U.S. credit card and stablecoin giants.",
+      "desc": "EU lawmakers backed a legal framework to develop an ECB digital currency by 2029 so the continent can stop relying entirely on U.S. credit card and stablecoin giants.",
       "date": "2026-06-23T12:37:20.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -180,8 +220,8 @@
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
-      "title": "Quint hires former Tide CCEO and Revolut COO Laurnce Krieger to advise on M&A",
-      "link": "https://www.finextra.com/pressarticle/110226/quint-hires-former-tide-cceo-and-revolut-coo-laurnce-krieger-to-advise-on-ma?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "title": "Quint hires former Tide CEO and Revolut COO Laurence Krieger to advise on M&A",
+      "link": "https://www.finextra.com/pressarticle/110226/quint-hires-former-tide-ceo-and-revolut-coo-laurence-krieger-to-advise-on-ma?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Quint Group, the award-winning fintech group focused on credit & payments, has today announced the appointment of long-term fintech leader, Laurence Krieger.",
       "date": "2026-06-23T12:09:00.000Z",
       "alsoAt": [],
@@ -387,11 +427,6 @@
           "source": "DECRYPT",
           "sourceId": "decrypt",
           "url": "https://decrypt.co/371804/crypto-industry-urges-congress-pass-tax-bill"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405603/crypto-industry-groups-urge-congress-pass-tax-staking-mining-bill-unchanged?utm_source=rss&utm_medium=rss"
         }
       ],
       "termBoost": 0
@@ -806,16 +841,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto's second U.S. lobbying front — tax policy — sees industry push on mining, staking",
-      "link": "https://www.coindesk.com/policy/2026/06/22/crypto-s-second-u-s-lobbying-front-tax-policy-sees-industry-push-on-mining-staking",
-      "desc": "The crypto sector's leading U.S. advocacy groups asked the U.S. House's tax committee to advance a bill to clarify treatment of assets from mining and staking.",
-      "date": "2026-06-22T15:56:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "World Liberty Financial's USD1 Supply Grows 9.7% in a Week to $4.85 Billion",
@@ -862,16 +887,6 @@
       "link": "https://decrypt.co/371766/tom-lee-bitmine-92-million-ethereum-supply",
       "desc": "The leading Ethereum treasury firm inched closer to its goal of accumulating 5% of the ETH circulating supply.",
       "date": "2026-06-22T15:18:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
-      "link": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
-      "desc": "The crypto bank aims to help financial institutions offer round-the-clock payments and settlement without replacing their core systems.",
-      "date": "2026-06-22T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
