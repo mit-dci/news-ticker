@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-23T07:46:53.633Z",
+  "generatedAt": "2026-06-23T09:10:25.364Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 248,
+  "filteredOut": 249,
   "errors": [],
-  "dupsMerged": 17,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "bitcoinmag",
@@ -28,12 +28,22 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Ripple secures preliminary Casp licence in EU",
+      "link": "https://www.finextra.com/pressarticle/110221/ripple-secures-preliminary-casp-licence-in-eu?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Ripple, the leading provider of blockchain-based enterprise solutions across traditional and digital finance, today announced it has received preliminary approval for its Crypto Asset Service Provider (CASP) license from Luxembourg’s Commission de Surveillance du Secteur Financier (CSSF) under the EU’s Markets in Crypto Assets (MiCA) regulation.",
+      "date": "2026-06-23T10:02:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-23T07:46:52.394Z",
+      "date": "2026-06-23T09:10:25.123Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +53,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-23T07:46:52.394Z",
+      "date": "2026-06-23T09:10:25.123Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +63,37 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-23T07:46:52.394Z",
+      "date": "2026-06-23T09:10:25.123Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ripple gains preliminary MiCA license ahead of July 1 EU deadline",
+      "link": "https://cointelegraph.com/news/ripple-preliminary-casp-mica-license-july-1-deadline?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Ripple secures preliminary CASP approval in Luxembourg ahead of July 1 MiCA deadline as companies race for EU crypto licensing.",
+      "date": "2026-06-23T08:47:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin price has limited downside, likely near bottom, contrarian indicator suggests",
+      "link": "https://www.coindesk.com/markets/2026/06/23/bitcoin-price-has-limited-downside-likely-near-bottom-contrarian-indicator-suggests",
+      "desc": "The bitcoin price's long-term moving averages are set to flash a bearish signal soon. That's good news for the bulls.",
+      "date": "2026-06-23T08:24:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Study Finds Stablecoins Need a Better Elevator Pitch",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/study-finds-stablecoins-need-a-better-elevator-pitch/",
+      "desc": "For much of the past year, stablecoin discussions have centered on Washington. Regulatory frameworks, reserve requirements and oversight have dominated conversations among policymakers and financial institutions alike. Yet PYMNTS Intelligence research in collaboration with Velera suggests the greatest barrier to adoption may have little to do with regulation at all. Instead, the data points […] The post Study Finds Stablecoins Need a Better Elevator Pitch appeared first on PYMNTS.com.",
+      "date": "2026-06-23T08:00:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -262,22 +302,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Anchorage Digital Launches Tokenized Deposit Platform for Banks",
-      "link": "https://www.pymnts.com/blockchain/2026/anchorage-digital-introduces-tokenized-deposit-platform-for-banks/",
-      "desc": "Anchorage Digital launched Monday (June 22) a new tokenized deposit infrastructure aimed at enabling banks to offer around-the-clock settlement without overhauling their existing core systems, according to a Monday press release. The financial services firm said the platform allows regulated banks to issue and manage tokenized deposits on blockchain networks. According to Anchorage, the […] The post Anchorage Digital Launches Tokenized Deposit Platform for Banks appeared first on PYMNTS.com.",
-      "date": "2026-06-22T21:01:47.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Ric Edelman says crypto’s biggest growth story is happening off the price chart",
@@ -305,22 +329,6 @@
       "desc": "Warbler Labs posted an official governance proposal on June 12 to wind down Goldfinch Prime and move the protocol to maintenance mode. A Snapshot vote is passing 100% in favor. Depositors face a two-or-more-year recovery horizon as GFI trades 99.8% below its January 2022 all-time high.",
       "date": "2026-06-22T20:30:59.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Fomo Raises $75 Million for Consumer Crypto Trading App",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/fomo-raises-75-million-for-consumer-crypto-trading-app/",
-      "desc": "Consumer-focused cryptocurrency trading app fomo has raised $75 million in new funding. The company announced its Series B round Monday (June 22), noting that it comes as the company is marking more than $4 billion in trading volume on its year-old platform. Beyond that, fomo said, more than 68,000 users have made their first […] The post Fomo Raises $75 Million for Consumer Crypto Trading App appeared first on PYMNTS.com.",
-      "date": "2026-06-22T20:25:32.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405563/crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report?utm_source=rss&utm_medium=rss"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -648,6 +656,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
+      "link": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
+      "desc": "The crypto bank aims to help financial institutions offer round-the-clock payments and settlement without replacing their core systems.",
+      "date": "2026-06-22T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Morgan Stanley Files Amended S-1s for Spot Solana and Ethereum Trusts",
@@ -801,6 +819,16 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
+      "title": "Crypto trading app Fomo raises $75 million at $550 million valuation in Index Ventures-led Series B",
+      "link": "https://www.theblock.co/post/405563/crypto-trading-app-fomo-raises-75-million-at-550-million-valuation-in-index-ventures-led-series-b-report?utm_source=rss&utm_medium=rss",
+      "desc": "Fomo raised a $75 million Series B round at a $550 million valuation led by Index Ventures, with participation from USV and others.",
+      "date": "2026-06-22T12:46:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
       "title": "MoneyGram becomes Solana validator, expands blockchain payments strategy",
       "link": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments?utm_source=rss&utm_medium=rss",
       "desc": "Solana is now the third blockchain where MoneyGram operates an official validator, alongside Tempo and the Midnight Network.",
@@ -945,32 +973,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
-      "link": "https://www.coindesk.com/tech/2026/06/22/taiko-halts-its-ethereum-layer-2-network-after-a-bridge-exploit-token-dives-10",
-      "desc": "An attacker forged withdrawal proofs to drain about $1.7 million, the same type of flaw behind this year's biggest bridge hacks. Fast containment kept the damage small.",
-      "date": "2026-06-22T09:23:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Safirum aims to steal a march on Swiss banks with launch of CHF stablecoin",
       "link": "https://www.finextra.com/newsarticle/47964/safirum-aims-to-steal-a-march-on-swiss-banks-with-launch-of-chf-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Swiss fintech Safirum is preparing the launch of a CHF stablecoin in a race against time ahead of the realisation of a comparable bank-backed platform from Swiss Stablecoin AG.",
       "date": "2026-06-22T09:09:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "D24 Fintech appoints Ashish Sethi as CEO",
-      "link": "https://www.finextra.com/pressarticle/110199/d24-fintech-appoints-ashish-sethi-as-ceo?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "D24 Fintech has announced the appointment of Ashish Sethi as Chief Executive Officer, as the company prepares for its next stage of development.",
-      "date": "2026-06-22T09:03:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1011,16 +1019,6 @@
       "link": "https://cointelegraph.com/news/taiko-urges-users-to-withdraw-as-bridge-exploit-drains-17m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Taiko’s bridge and ERC20 Vault on Ethereum suffered a compromise in its chain state verification mechanism, allowing forged proofs and unauthorized withdrawals.",
       "date": "2026-06-22T05:31:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "What would a stablecoin run look like?",
-      "link": "https://www.ft.com/content/7a1928d7-b869-47f6-aa54-8593a791557d",
-      "desc": "Fire sales of assets held in reserve could trigger problems in many other financial markets",
-      "date": "2026-06-22T04:00:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
