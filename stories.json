@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-23T01:42:03.446Z",
+  "generatedAt": "2026-06-23T03:08:53.087Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 250,
+  "filteredOut": 247,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "bitcoinmag",
@@ -30,20 +30,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-23T01:42:03.229Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-23T01:42:03.229Z",
+      "date": "2026-06-23T03:08:52.982Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +43,53 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-23T01:42:03.229Z",
+      "date": "2026-06-23T03:08:52.982Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-23T03:08:52.981Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Baillie Gifford Launches UK-Regulated Tokenized Bond Fund on Solana and Ethereum With BNY",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/baillie-gifford-bagey-tokenized-bond-fund-solana-ethereum-bny",
+      "desc": "Scottish asset manager Baillie Gifford has launched BAGEY, the first publicly available, fully native UK-regulated tokenized bond fund, with BNY providing custody and wallet infrastructure across Solana and Ethereum.",
+      "date": "2026-06-23T01:43:21.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Treasury Sanctions Three Individuals and Six Entities for Routing Crypto to ISIS",
+      "link": "https://thedefiant.io/news/regulation/treasury-sanctions-three-individuals-six-entities-routing-crypto-isis",
+      "desc": "OFAC designated three financial facilitators and six money service businesses across Europe, Syria, Turkey, and Nigeria for moving funds to ISIS and its West Africa affiliate using crypto, including two TRON addresses tied to a French national.",
+      "date": "2026-06-23T01:43:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Synthetix Governance Votes to Retire sUSD, Pay Holders in Vested SNX",
+      "link": "https://thedefiant.io/news/defi/synthetix-governance-retire-susd-sip-423-vested-snx",
+      "desc": "Synthetix governance has moved to retire sUSD entirely under SIP-423, introduced June 12. The proposal would freeze the stablecoin contract and pay all holders back at face value in vested SNX at a conversion of four SNX per sUSD. A companion SIP-424 covering technical implementation is pending.",
+      "date": "2026-06-23T01:43:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -136,9 +172,9 @@
     {
       "source": "pymnts",
       "sourceName": "PYMNTS",
-      "title": "Anchorage Digital Introduces Tokenized Deposit Platform for Banks",
+      "title": "Anchorage Digital Launches Tokenized Deposit Platform for Banks",
       "link": "https://www.pymnts.com/blockchain/2026/anchorage-digital-introduces-tokenized-deposit-platform-for-banks/",
-      "desc": "Anchorage Digital launched Monday (June 22) a new tokenized deposit infrastructure aimed at enabling banks to offer around-the-clock settlement without overhauling their existing core systems, according to a Monday press release. The financial services firm said the platform allows regulated banks to issue and manage tokenized deposits on blockchain networks. According to Anchorage, the […] The post Anchorage Digital Introduces Tokenized Deposit Platform for Banks appeared first on PYMNTS.com.",
+      "desc": "Anchorage Digital launched Monday (June 22) a new tokenized deposit infrastructure aimed at enabling banks to offer around-the-clock settlement without overhauling their existing core systems, according to a Monday press release. The financial services firm said the platform allows regulated banks to issue and manage tokenized deposits on blockchain networks. According to Anchorage, the […] The post Anchorage Digital Launches Tokenized Deposit Platform for Banks appeared first on PYMNTS.com.",
       "date": "2026-06-22T21:01:47.000Z",
       "alsoAt": [
         {
@@ -713,16 +749,6 @@
       "link": "https://decrypt.co/371760/bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts",
       "desc": "With ETF outflows persisting and selling \"nearly exhausted,\" analysts say Bitcoin is range-bound and waiting for a catalyst.",
       "date": "2026-06-22T12:12:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "TradFi fund manager Baillie Gifford introduces Solana, Ethereum tokenized fund with BNY",
-      "link": "https://www.coindesk.com/business/2026/06/22/tradfi-fund-manager-baillie-gifford-introduces-solana-ethereum-tokenized-fund-with-bny",
-      "desc": "Baillie Gifford Enhanced Yield Fund (BAGEY) is denominated in dollars, and gives eligible investors access to an actively managed, short-duration portfolio of public corporate bonds.",
-      "date": "2026-06-22T12:01:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
