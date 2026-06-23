@@ -1,22 +1,11 @@
 {
-  "generatedAt": "2026-06-23T15:31:55.298Z",
+  "generatedAt": "2026-06-23T16:50:54.737Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 239,
+  "filteredOut": 240,
   "errors": [],
-  "dupsMerged": 18,
+  "dupsMerged": 16,
   "items": [
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "“Trust Me Bro” Cryptography Is Not Enough. That Is Exactly Why Qastle Exists.",
-      "link": "https://bitcoinmagazine.com/takes/trust-me-bro-cryptography-is-not-enough-that-is-exactly-why-qastle-exists",
-      "desc": "Bitcoin Magazine “Trust Me Bro” Cryptography Is Not Enough. That Is Exactly Why Qastle Exists. Qastle Wallet responds to Bitcoin 2026 criticism, addressing quantum risk, post-quantum cryptography, true entropy, and the future of wallet security. This post “Trust Me Bro” Cryptography Is Not Enough. That Is Exactly Why Qastle Exists. first appeared on Bitcoin Magazine and is written by James Stephens CBE CCFI.",
-      "date": "2026-06-22T16:31:13.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
     {
       "source": "coincenter",
       "sourceName": "COIN CENTER",
@@ -33,7 +22,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-23T15:31:54.760Z",
+      "date": "2026-06-23T16:50:54.059Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +32,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-23T15:31:54.760Z",
+      "date": "2026-06-23T16:50:54.059Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +42,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-23T15:31:54.760Z",
+      "date": "2026-06-23T16:50:54.059Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +52,87 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-23T15:31:54.760Z",
+      "date": "2026-06-23T16:50:54.059Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Goldfinch set to shutter Prime after community vote backs wind-down proposal",
+      "link": "https://www.theblock.co/post/405825/goldfinch-set-shutter-prime-community-vote-backs-wind-down-proposal?utm_source=rss&utm_medium=rss",
+      "desc": "The protocol facilitated roughly $100 million in loans, but a handful of borrower pools later encountered \"serious performance issues.\"",
+      "date": "2026-06-23T16:42:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Tokenized-Equity Headlines Multiply While On-Chain TVL Slips at Ondo and Backed",
+      "link": "https://thedefiant.io/news/defi/tokenized-equity-headlines-multiply-onchain-tvl-slips-ondo-backed",
+      "desc": "Tokenized-equity issuance and institutional deals are accelerating, but the two protocols DefiLlama tracks under the category, Ondo and Backed, show TVL contracting on both 7-day and 30-day windows.",
+      "date": "2026-06-23T16:40:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "USDC and USDT Supply Both Contracted This Week as Stablecoin Bills Dominate Headlines",
+      "link": "https://thedefiant.io/news/markets/usdc-usdt-supply-contracted-week-stablecoin-legislation-headlines",
+      "desc": "The two largest stablecoins shed supply over the past seven days, even as stablecoin legislation and a steady run of institutional partnerships pushed the sector to the front of the policy conversation.",
+      "date": "2026-06-23T16:40:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "European Union’s ESMA Orders Unlicensed Crypto Firms to Exit EU Market as MiCA Deadline Arrives",
+      "link": "https://bitcoinmagazine.com/news/european-esma-unlicensed-crypto",
+      "desc": "Bitcoin Magazine European Union’s ESMA Orders Unlicensed Crypto Firms to Exit EU Market as MiCA Deadline Arrives ESMA ordered unlicensed crypto firms to stop serving EU clients and wind down operations before MiCA's July 1, 2026 authorization deadline. This post European Union’s ESMA Orders Unlicensed Crypto Firms to Exit EU Market as MiCA Deadline Arrives first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-23T16:35:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "BNY sees 'FOMO' driving asset managers into tokenized funds",
+      "link": "https://www.coindesk.com/markets/2026/06/23/bny-sees-fomo-driving-asset-managers-into-tokenized-funds",
+      "desc": "Fund issuers are exploring blockchain-based ETFs amid fears of missing an early foothold in tokenized finance.",
+      "date": "2026-06-23T16:34:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "H100 Shareholders Approve Bitcoin Deal That Would Make It Europe’s No. 2 Listed Treasury",
+      "link": "https://bitcoinmagazine.com/news/h100-shareholders-approve-bitcoin-deal",
+      "desc": "Bitcoin Magazine H100 Shareholders Approve Bitcoin Deal That Would Make It Europe’s No. 2 Listed Treasury H100 shareholders approved a deal to acquire two Norwegian bitcoin treasury firms, a move that would boost the company's holdings to 3,500 BTC. This post H100 Shareholders Approve Bitcoin Deal That Would Make It Europe’s No. 2 Listed Treasury first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-23T16:30:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Chainlink joins European and Korean bank consortia to develop FX settlement network",
+      "link": "https://cointelegraph.com/news/chainlink-europe-korea-banks-stablecoin-fx-settlement-project-pangea?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Banks across Europe and South Korea will study whether regulated euro and won stablecoins can enable real-time cross-border foreign exchange settlement.",
+      "date": "2026-06-23T15:45:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Chainlink teams up with 47 South Korean, European banks to speed up international money transfers",
+      "link": "https://www.coindesk.com/markets/2026/06/23/chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international-money-transfers",
+      "desc": "The alliance, called Project Pangea, plans to use stablecoins to settle multimillion-dollar currency trades between Europe and South Korea in near real time.",
+      "date": "2026-06-23T15:40:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -205,7 +274,7 @@
       "sourceName": "TECHCRUNCH",
       "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
       "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "desc": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "desc": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
       "date": "2026-06-23T14:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -473,26 +542,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Study Finds Stablecoins Need a Better Elevator Pitch",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/study-finds-stablecoins-need-a-better-elevator-pitch/",
-      "desc": "For much of the past year, stablecoin discussions have centered on Washington. Regulatory frameworks, reserve requirements and oversight have dominated conversations among policymakers and financial institutions alike. Yet PYMNTS Intelligence research in collaboration with Velera suggests the greatest barrier to adoption may have little to do with regulation at all. Instead, the data points […] The post Study Finds Stablecoins Need a Better Elevator Pitch appeared first on PYMNTS.com.",
-      "date": "2026-06-23T08:00:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin drops to $62,000 as South Korea's Kospi crashes 10%",
-      "link": "https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off",
-      "desc": "The fast decline in prices set off $700 million in forced liquidations across the market.",
-      "date": "2026-06-23T06:30:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "XRP drifts toward $1.10 support as traders await break from three-week range",
@@ -649,16 +698,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "21Shares co-founder warns tokenization hype is outrunning Wall Street reality",
-      "link": "https://www.coindesk.com/markets/2026/06/22/21shares-co-founder-warns-tokenization-hype-is-outrunning-wall-street-reality",
-      "desc": "Tokenization can improve settlement and asset movement, but key pieces of financial infrastructure remain unprepared for institutional-scale adoption.",
-      "date": "2026-06-22T20:53:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "a16z-Backed Goldfinch Finance Winds Down After Originating $100M in Loans",
@@ -675,16 +714,6 @@
       "link": "https://www.theblock.co/post/405690/solana-treasury-firm-solmate-largest-stakeholder-sues-board-self-dealing-fiduciary-breaches?utm_source=rss&utm_medium=rss",
       "desc": "Board members Ron Sade and Keren Maimon personally bought about 2.298 million SLMT shares at $4.97, diluting shareholders ~20%.",
       "date": "2026-06-22T20:17:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Strive says digital credit selloff was a liquidation event, not a credit crisis",
-      "link": "https://www.coindesk.com/markets/2026/06/22/strive-says-digital-credit-selloff-was-a-liquidation-event-not-a-credit-crisis",
-      "desc": "A sharp selloff in digital credit products exposed growing pains in a young market, a Strive executive argues the underlying credit fundamentals remain intact.",
-      "date": "2026-06-22T20:14:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -859,11 +888,6 @@
       "date": "2026-06-22T17:13:11.000Z",
       "alsoAt": [
         {
-          "source": "TECHCRUNCH",
-          "sourceId": "techcrunch",
-          "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/"
-        },
-        {
           "source": "DECRYPT",
           "sourceId": "decrypt",
           "url": "https://decrypt.co/371756/1-9m-in-fake-bets-drove-polymarket-hype-wsj"
@@ -892,12 +916,12 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bitcoin Network Activity Hits Highest Level Since 2024: CryptoQuant",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-network-activity-hit-highest-level",
-      "desc": "Bitcoin Magazine Bitcoin Network Activity Hits Highest Level Since 2024: CryptoQuant Bitcoin network activity has surged to its highest level since 2024, with daily transactions topping 800,000, but CryptoQuant says the increase is being driven largely by low-value protocol activity such as Ordinals, Runes and BRC-20 transactions rather than economic demand. This post Bitcoin Network Activity Hits Highest Level Since 2024: CryptoQuant first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-22T16:42:35.000Z",
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bank of England Eases Stablecoin Rules, Swaps Holding Caps for £40B ‘Guardrail’",
+      "link": "https://decrypt.co/371783/bank-of-england-eases-stablecoin-rules-swaps-holding-caps-for-40b-guardrail",
+      "desc": "The BoE scrapped individual holding caps for a £40 billion per-coin issuance limit and will let issuers hold more reserves in government debt.",
+      "date": "2026-06-22T16:43:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1069,32 +1093,6 @@
       "link": "https://cointelegraph.com/markets/these-xrp-price-charts-hint-at-a-potential-25-relief-rally-in-july?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "An XRP death cross and liquidation signals align for a possible 25% relief rally in the short term, while one analyst eyes a longer-term rebound toward $8.",
       "date": "2026-06-22T11:39:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bank of England eases stablecoin rules, introduces 40B pound issuance cap",
-      "link": "https://cointelegraph.com/news/bank-of-england-stablecoin-rules-clears-path-for-2027-launch?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The Bank of England published draft rules for systemic stablecoins, easing reserve requirements and replacing holding limits with a temporary 40-billion British pound issuance cap.",
-      "date": "2026-06-22T11:16:52.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371783/bank-of-england-eases-stablecoin-rules-swaps-holding-caps-for-40b-guardrail"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Q2 2026 emerges as most-hacked quarter on record with 83 incidents",
-      "link": "https://cointelegraph.com/news/q2-2026-most-hacked-quarter-record-83-incidents?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Crypto hackers stole $755 million across 83 cybersecurity incidents, as cross–chain bridges remained the most costly attack vector of the crypto industry.",
-      "date": "2026-06-22T10:52:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
