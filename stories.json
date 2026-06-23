@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T23:54:10.462Z",
+  "generatedAt": "2026-06-23T00:46:48.100Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 248,
+  "filteredOut": 250,
   "errors": [],
   "dupsMerged": 13,
   "items": [
@@ -30,10 +30,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-23T00:46:47.755Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-22T23:54:10.450Z",
+      "date": "2026-06-23T00:46:47.754Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,17 +53,17 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-22T23:54:10.450Z",
+      "date": "2026-06-23T00:46:47.754Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-22T23:54:10.450Z",
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Micron Stock Goes On-Chain 48 Hours Before Earnings as Backpack Securities Lists $MU on Solana",
+      "link": "https://thedefiant.io/news/defi/micron-stock-mu-onchain-backpack-securities-solana-48-hours-earnings",
+      "desc": "Sunrise and Backpack Securities tokenized Micron Technology ($MU) stock on Solana on Monday, landing the asset on-chain 48 hours before the chipmaker's fiscal Q3 earnings report. Each MU token is backed 1:1 by a real share held in custody and redeemable through Backpack Exchange into a traditional",
+      "date": "2026-06-23T00:34:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -238,16 +248,6 @@
       "link": "https://thedefiant.io/news/blockchains/aztec-l2beat-stage-2-governance-revokes-rollup-contract-ownership",
       "desc": "On-chain governance stripped admin control over Aztec's rollup contract, freezing the code in place and clearing the technical bar for L2Beat's top decentralization tier.",
       "date": "2026-06-22T20:05:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "OCC Applying Bank Secrecy Act to Stablecoin Issuers",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/occ-applying-bank-secrecy-act-to-stablecoin-issuers/",
-      "desc": "U.S. banking regulators want to apply new compliance standards to stablecoin issuers. The Office of the Comptroller of the Currency (OCC) issued a proposed rulemaking Monday (June 22) that would require permitted payment stablecoin issuers (PPSI) under its supervision to comply with the Bank Secrecy Act and sections of the GENIUS Act. PPSIs would also have to follow […] The post OCC Applying Bank Secrecy Act to Stablecoin Issuers appeared first on PYMNTS.com.",
-      "date": "2026-06-22T20:03:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -873,16 +873,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ethereum ‘tax’ debate erupts over proposal to redirect portion of staking rewards to ecosystem funding",
-      "link": "https://www.theblock.co/post/405525/ethereum-tax-debate?utm_source=rss&utm_medium=rss",
-      "desc": "A post on the Ethereum Research forum proposes letting validators vote to redirect up to 10% of staking rewards to fund public goods.",
-      "date": "2026-06-22T09:49:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Taiko halts its Ethereum layer-2 network after a bridge exploit, token dives",
@@ -1049,16 +1039,6 @@
       "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "US-listed spot Bitcoin exchange-traded funds saw their biggest 30-day net outflow since launching in 2024, coming as Bitcoin fell 17% over the past month.",
       "date": "2026-06-21T04:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M",
-      "link": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Jaredfromsubway.eth was responsible for 70% of sandwich attacks on Ethereum between November 2024 and October 2025.",
-      "date": "2026-06-21T00:04:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
