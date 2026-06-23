@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-23T04:49:51.791Z",
+  "generatedAt": "2026-06-23T06:24:25.573Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 247,
+  "filteredOut": 248,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 17,
   "items": [
     {
       "source": "bitcoinmag",
@@ -30,10 +30,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-23T06:24:24.896Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-23T04:49:51.779Z",
+      "date": "2026-06-23T06:24:24.895Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,18 +53,70 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-23T04:49:51.779Z",
+      "date": "2026-06-23T06:24:24.895Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-23T04:49:51.779Z",
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "SpaceX’s $600 billion plunge erased nearly half of bitcoin’s market cap in three days.",
+      "link": "https://www.coindesk.com/markets/2026/06/23/spacex-s-usd600-billion-dive-erased-nearly-half-a-bitcoin-market-cap-in-three-days",
+      "desc": "The newly public company shed close to half of bitcoin's entire market value in three sessions after announcing its first bond sale. Bitcoin, absorbing the same backdrop, fell less than 1%.",
+      "date": "2026-06-23T06:23:36.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-23T06:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "US Senate passes housing bill with CBDC ban until 2030",
+      "link": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The Senate voted 85-5 to pass a major housing affordability bill that includes a ban on the Federal Reserve making a central bank digital currency until 2030.",
+      "date": "2026-06-23T05:58:20.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405746/us-senate-passes-housing-cbdc-bill?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Crypto lobby urges Congress pass staking and mining tax bill as is",
+      "link": "https://cointelegraph.com/news/crypto-lobby-urges-congress-pass-staking-mining-tax-bill-without-changes?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "A trio of crypto lobby groups says a bill allowing staking and mining rewards to be taxed when they’re sold should be passed without further amendments.",
+      "date": "2026-06-23T05:01:13.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371804/crypto-industry-urges-congress-pass-tax-bill"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405603/crypto-industry-groups-urge-congress-pass-tax-staking-mining-bill-unchanged?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -134,16 +196,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC",
-      "link": "https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc",
-      "desc": "The idea of a U.S. central bank digital currency — though little more than a research topic at the Federal Reserve — may be getting formally blocked.",
-      "date": "2026-06-22T23:01:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Secret Network's Axelar Bridge Drained $4.67M via Infinite-Mint Flaw",
@@ -186,16 +238,6 @@
       "link": "https://www.coindesk.com/business/2026/06/22/securitize-and-tzero-clash-over-patents-as-race-to-bring-wall-street-onchain-heats-up",
       "desc": "tZERO and Securitize are squaring off over tokenization patents as the market attracts more of Wall Street's attention.",
       "date": "2026-06-22T21:08:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-22T21:02:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -351,22 +393,6 @@
       "desc": "Solana captured 95% of tokenized equity volumes as analysts debate whether $60 was the bottom for SOL.",
       "date": "2026-06-22T19:17:34.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Crypto Industry Urges Congress to Pass Tax Bill—But Will It Happen This Year?",
-      "link": "https://decrypt.co/371804/crypto-industry-urges-congress-pass-tax-bill",
-      "desc": "A bill that would make crypto mining and staking more attractive is a top priority for industry leaders—and a growing concern for House Democrats.",
-      "date": "2026-06-22T18:53:56.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405603/crypto-industry-groups-urge-congress-pass-tax-staking-mining-bill-unchanged?utm_source=rss&utm_medium=rss"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -859,16 +885,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bank of England drops proposed holding caps for sterling stablecoins, sets £40 billion issuance guardrail",
-      "link": "https://www.theblock.co/post/405545/bank-of-england-drops-proposed-individual-holding-caps-for-sterling-stablecoins-sets-40-billion-issuance-guardrail?utm_source=rss&utm_medium=rss",
-      "desc": "The Bank of England proposed a £40 billion systemic stablecoin issuance guardrail and revised backing assets, targeting a 2027 launch.",
-      "date": "2026-06-22T10:46:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Geopolitical relief meets the Warsh Fed: Crypto Week Ahead",
@@ -969,32 +985,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin developers want to fix the 'replace this transaction with a higher fee' button. Here's why",
-      "link": "https://www.coindesk.com/tech/2026/06/22/bitcoin-developers-want-to-fix-the-replace-this-transaction-with-a-higher-fee-button-here-s-why",
-      "desc": "A helpful feature of speeding up transactions has become redundant and a \"fingerprint\" for tracking. Developers now want to do away with it.",
-      "date": "2026-06-22T06:19:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "MoneyGram joins Solana as validator, expanding role in blockchain infrastructure",
       "link": "https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "The remittance giant is staking SOL and processing transaction blocks as stablecoin adoption accelerates across the global remittance industry.",
       "date": "2026-06-22T06:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ethereum validators asked to fund projects with up to 10% of staking rewards under new proposal",
-      "link": "https://www.coindesk.com/tech/2026/06/22/ethereum-validators-asked-to-fund-projects-with-up-to-10-of-staking-rewards-under-new-proposal",
-      "desc": "A new governance proposal would let validators redirect part of their staking income toward ecosystem funding, raising questions about coordination, incentives and who gets to decide where the money goes.",
-      "date": "2026-06-22T05:43:26.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1015,16 +1011,6 @@
       "link": "https://cointelegraph.com/news/taiko-urges-users-to-withdraw-as-bridge-exploit-drains-17m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Taiko’s bridge and ERC20 Vault on Ethereum suffered a compromise in its chain state verification mechanism, allowing forged proofs and unauthorized withdrawals.",
       "date": "2026-06-22T05:31:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP briefly loses $1.14 support before buyers drive sharp rebound",
-      "link": "https://www.coindesk.com/markets/2026/06/22/xrp-briefly-loses-usd1-14-support-before-buyers-drive-sharp-rebound",
-      "desc": "Heavy selling pushed XRP to its lowest level of the weekend session, but strong buying quickly erased most of the decline and returned the token to its recent trading range.",
-      "date": "2026-06-22T05:17:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1055,16 +1041,6 @@
       "link": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Dash is assessing the Philippines for a crypto payments push as regulators promote easier business registration, though industry participants say compliant market entry can still take years.",
       "date": "2026-06-21T12:25:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
-      "link": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "A Japanese corporate pension fund with about 1,200 participating small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto.",
-      "date": "2026-06-21T08:54:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
