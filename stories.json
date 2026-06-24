@@ -1,11 +1,61 @@
 {
-  "generatedAt": "2026-06-23T23:49:32.698Z",
+  "generatedAt": "2026-06-24T00:42:13.963Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 233,
+  "filteredOut": 234,
   "errors": [],
   "dupsMerged": 15,
   "items": [
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-06-24T00:42:13.099Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-24T00:42:13.099Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-24T00:42:13.099Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-24T00:42:13.099Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "THORChain Resumes Trading After Month-Long Halt From $10.7M Exploit",
+      "link": "https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit",
+      "desc": "The cross-chain DEX restored signing, churning, swaps, and LP actions Tuesday morning, six weeks after an Asgard vault breach drained funds across four chains.",
+      "date": "2026-06-24T00:42:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
@@ -27,61 +77,11 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-23T23:49:32.405Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-23T23:49:32.405Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-23T23:49:32.405Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-23T23:49:32.404Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "THORChain Resumes Trading After Month-Long Halt From $10.7M Exploit",
-      "link": "https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit",
-      "desc": "The cross-chain DEX restored signing, churning, swaps, and LP actions Tuesday morning, six weeks after an Asgard vault breach drained funds across four chains.",
-      "date": "2026-06-23T23:49:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Ethereum’s much-hated staking 'tax' may already be obsolete",
       "link": "https://cointelegraph.com/features/ethereums-funding-scare-why-a-hated-staking-tax-may-already-be-obsolete?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Ethereum’s latest “funding crisis” has triggered a fierce debate: a contentious plan to tax staking rewards versus a new wave of labs and large ETH holders funding development offchain.",
+      "desc": "Ethereum’s latest “funding crisis” has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs.",
       "date": "2026-06-23T23:18:08.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -91,7 +91,7 @@
       "sourceName": "PYMNTS",
       "title": "Lawmakers Fast-Track Bipartisan Housing Bill With CBDC Ban",
       "link": "https://www.pymnts.com/cbdc/2026/lawmakers-fast-track-bipartisan-housing-bill-with-cbdc-ban/",
-      "desc": "A four-year ban on the development of a U.S. central bank digital currency (CBDC) is included in a housing affordability bill that was passed Monday night (June 22) by the Senate. The bipartisan bill, the 21st Century ROAD to Housing Act, passed the Senate on a vote of 85 to 5 and now heads to […] The post Lawmakers Fast-Track Bipartisan Housing Bill With CBDC Ban appeared first on PYMNTS.com.",
+      "desc": "A four-year ban on the development of a U.S. central bank digital currency (CBDC) is included in a housing affordability bill that was passed Monday night (June 22) by the Senate. The bipartisan bill, the 21st Century ROAD to Housing Act, passed the Senate on a vote of 85 to 5 and now heads to the […] The post Lawmakers Fast-Track Bipartisan Housing Bill With CBDC Ban appeared first on PYMNTS.com.",
       "date": "2026-06-23T23:09:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -208,7 +208,7 @@
       "sourceName": "PYMNTS",
       "title": "Chainlink Helping Banks Launch Cross-Border Stablecoin Trades",
       "link": "https://www.pymnts.com/news/cross-border-payments/2026/chainlink-helping-banks-launch-cross-border-stablecoin-trades/",
-      "desc": "Chainlink is reportedly joining several dozen international banks on a cross-border stablecoin payments project. The goal is to bring about real-time, stablecoin-based cross-border payments for foreign-exchange trades within a year, an executive from the blockchain infrastructure company told CoinDesk in an interview Tuesday (June 23). Project Pangea, as the effort is known, hopes to […] The post Chainlink Helping Banks Launch Cross-Border Stablecoin Trades appeared first on PYMNTS.com.",
+      "desc": "Chainlink is reportedly joining several dozen international banks on a cross-border stablecoin payments project. The goal is to bring about real-time, stablecoin-based cross-border payments for foreign-exchange trades within a year, an executive from the blockchain infrastructure company told CoinDesk in an interview Tuesday (June 23). Project Pangea, as the effort is known, hopes to reshape […] The post Chainlink Helping Banks Launch Cross-Border Stablecoin Trades appeared first on PYMNTS.com.",
       "date": "2026-06-23T20:30:50.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -248,7 +248,7 @@
       "sourceName": "PYMNTS",
       "title": "Allium Raises $40 Million to Help Enterprises Embrace the Blockchain",
       "link": "https://www.pymnts.com/news/investment-tracker/2026/allium-raises-40-million-to-help-enterprises-embrace-the-blockchain/",
-      "desc": "Enterprise-focused blockchain data platform Allium has raised $40 million in new funding. The company announced its Series B round Tuesday (June 23), noting that it comes at a time when global finance is rapidly moving to blockchain rails, with $302 billion in stablecoins, $394 billion in on-chain payments volume last year, and $27.6 billion […] The post Allium Raises $40 Million to Help Enterprises Embrace the Blockchain appeared first on PYMNTS.com.",
+      "desc": "Enterprise-focused blockchain data platform Allium has raised $40 million in new funding. The company announced its Series B round Tuesday (June 23), noting that it comes at a time when global finance is rapidly moving to blockchain rails, with $302 billion in stablecoins, $394 billion in on-chain payments volume last year, and $27.6 billion in […] The post Allium Raises $40 Million to Help Enterprises Embrace the Blockchain appeared first on PYMNTS.com.",
       "date": "2026-06-23T20:03:48.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -306,16 +306,6 @@
       "link": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Louisiana Senator John Kennedy largely dismissed what he called the “promotion” of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability.",
       "date": "2026-06-23T19:49:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Crypto Stopped Fighting Banks and Started Copying Them",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/crypto-stopped-fighting-banks-and-started-copying-them/",
-      "desc": "The most consequential developments in blockchain finance today are no longer happening at the edges of the financial system. They are happening at its core. Banks, asset managers, exchanges, payment providers and regulators are no longer treating blockchain as a parallel financial universe and started treating it as a faster, more efficient way to […] The post Crypto Stopped Fighting Banks and Started Copying Them appeared first on PYMNTS.com.",
-      "date": "2026-06-23T19:40:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
