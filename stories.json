@@ -1,18 +1,28 @@
 {
-  "generatedAt": "2026-06-24T11:55:58.417Z",
+  "generatedAt": "2026-06-24T12:51:44.959Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 242,
+  "filteredOut": 243,
   "errors": [],
   "dupsMerged": 9,
   "items": [
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-24T12:51:44.449Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-24T11:55:57.990Z",
+      "date": "2026-06-24T12:51:44.448Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +32,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-24T11:55:57.990Z",
+      "date": "2026-06-24T12:51:44.448Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,17 +42,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-24T11:55:57.990Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-24T11:55:57.990Z",
+      "date": "2026-06-24T12:51:44.448Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,8 +52,54 @@
       "title": "THORChain Resumes Trading After Month-Long Halt From $10.7M Exploit",
       "link": "https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit",
       "desc": "The cross-chain DEX restored signing, churning, swaps, and LP actions Tuesday morning, six weeks after an Asgard vault breach drained funds across four chains.",
-      "date": "2026-06-24T11:55:57.000Z",
+      "date": "2026-06-24T12:51:43.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Aave could soar to $3,500 by 2030 on DeFi revival, says StanChart",
+      "link": "https://www.coindesk.com/markets/2026/06/24/aave-could-soar-to-usd3-500-by-2030-on-defi-revival-says-stanchart",
+      "desc": "Geoff Kendrick said Aave has moved past April's cyberattack-related market disruption and is well positioned to benefit from growth in tokenized assets and DeFi.",
+      "date": "2026-06-24T12:48:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "SecondFi traces Cardano wallet exploit to address-level issue",
+      "link": "https://cointelegraph.com/news/cardano-wallet-secondfi-flaw-16-million-ada-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Cardano wallet SecondFi traced the incident to an address-level issue and secured 129 million ADA after attackers drained funds from 374 addresses.",
+      "date": "2026-06-24T12:38:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Morning Minute: Meta Is Building a Prediction Market",
+      "link": "https://decrypt.co/371953/morning-minute-meta-is-building-a-prediction-market",
+      "desc": "Arthur Hayes put out a bull case for the CARDS token, and the Clarity Act is facing some surprising opposition from a new group.",
+      "date": "2026-06-24T12:25:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "CBOE debuts prediction market with S&P 500 contracts",
+      "link": "https://cointelegraph.com/news/cboe-debuts-prediction-market-sp-500-contracts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Cboe launched its first prediction market product tied to the S&P 500 index, citing a growing investor demand for binary options contracts.",
+      "date": "2026-06-24T12:01:43.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -229,16 +275,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Cboe launches prediction market suite with binary option contracts on S&P 500",
-      "link": "https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss",
-      "desc": "The contracts are currently available on Interactive Brokers and are expected to launch on Charles Schwab in the coming months.",
-      "date": "2026-06-24T06:37:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Catholic leaders, US authorities challenge CLARITY Act over illicit activity",
@@ -255,16 +291,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "date": "2026-06-24T06:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live markets: Debasement trade unwinds, Micron earnings take center stage",
-      "link": "https://www.coindesk.com/tech/2026/06/24/live-markets-bitcoin-could-drop-to-usd59-000-in-the-short-term-as-liquidaity-dries-up",
-      "desc": "Trading firm Wintermute's options desk puts bitcoin in a $61,242 to $63,563 range for Tuesday, with correlation rising across tokens and no fresh ETF bid in sight.",
-      "date": "2026-06-24T05:13:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -702,16 +728,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Blockchain platform Allium raises $40 million Series B",
-      "link": "https://www.finextra.com/pressarticle/110228/blockchain-platform-allium-raises-40-million-series-b?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Allium, the leading blockchain data platform for enterprises, today announced it has raised $40 million in Series B funding led by Amplify Partners, with participation from existing investors Kleiner Perkins and Theory Ventures. Amplify’s David Beyer will join the Board as part of the investment.",
-      "date": "2026-06-23T15:21:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization",
@@ -913,16 +929,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Binance’s Yi He warns of alleged impersonation scam, CoinUp denies ties",
-      "link": "https://cointelegraph.com/news/binances-yi-he-warns-alleged-scammer-coinup-responds?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Binance co-founder Yi He warns of an alleged impersonator referred to as “Zhu Pan” in Chinese-language posts as CoinUp distances itself from the individual.",
-      "date": "2026-06-23T10:30:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Ripple Wins Preliminary MiCA CASP Approval in Luxembourg, Unlocking EEA Passporting",
@@ -1069,13 +1075,7 @@
       "link": "https://bitcoinmagazine.com/news/franklin-templeton-closes-250-digital",
       "desc": "Bitcoin Magazine Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division Franklin Templeton has completed its acquisition of 250 Digital. This post Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-22T18:18:45.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/06/23/franklin-templeton-closes-250-digital-acquisition-deal-and-sets-up-new-franklin-crypto-division"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1125,16 +1125,6 @@
       "link": "https://decrypt.co/371766/tom-lee-bitmine-92-million-ethereum-supply",
       "desc": "The leading Ethereum treasury firm inched closer to its goal of accumulating 5% of the ETH circulating supply.",
       "date": "2026-06-22T15:18:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts",
-      "link": "https://decrypt.co/371760/bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts",
-      "desc": "With ETF outflows persisting and selling \"nearly exhausted,\" analysts say Bitcoin is range-bound and waiting for a catalyst.",
-      "date": "2026-06-22T12:12:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
