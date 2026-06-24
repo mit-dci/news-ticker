@@ -1,18 +1,29 @@
 {
-  "generatedAt": "2026-06-24T18:37:32.504Z",
+  "generatedAt": "2026-06-24T19:33:51.038Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 251,
+  "filteredOut": 249,
   "errors": [],
   "dupsMerged": 11,
   "items": [
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Researcher Throws Cold Water on Microsoft Quantum Claims",
+      "link": "https://decrypt.co/371998/microsoft-topological-qubit-quantum-claims-challenge",
+      "desc": "A physicist's formal critique argues Microsoft has not demonstrated the topological qubit behind its Majorana 2 quantum chip.",
+      "date": "2026-06-24T19:07:12.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-24T18:37:31.551Z",
+      "date": "2026-06-24T19:33:50.915Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +33,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-24T18:37:31.551Z",
+      "date": "2026-06-24T19:33:50.915Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +43,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-24T18:37:31.551Z",
+      "date": "2026-06-24T19:33:50.915Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +53,57 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-24T18:37:31.551Z",
+      "date": "2026-06-24T19:33:50.915Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed ‘skinny accounts’ for crypto and fintech firms",
+      "link": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss",
+      "desc": "As the Fed considers granting firms access to \"skinny\" accounts, lawmakers debated how much access those companies should have.",
+      "date": "2026-06-24T19:30:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Leaked Code Suggests Anthropic Is Preparing to Bring Fable 5 Back",
+      "link": "https://decrypt.co/372004/leaked-code-anthropic-preparing-fable-5-subscription",
+      "desc": "A leaker found new strings inside Claude Code that hint at weekly Fable 5 usage built into subscription plans, not sold separately as before.",
+      "date": "2026-06-24T19:25:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-24T19:17:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Pump.fun offers up to $5 million salary for chief legal officer role",
+      "link": "https://www.theblock.co/post/406039/pump-fun-offers-up-5-million-salary-chief-legal-officer-role?utm_source=rss&utm_medium=rss",
+      "desc": "The position covers everything from SEC oversight to MiCA rules and U.K. regulations, and offers a salary between $1 million and $5 million.",
+      "date": "2026-06-24T18:42:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Superstate co-founder raises $3.6 million pre-seed for Ground to help fintechs access onchain yield",
+      "link": "https://www.theblock.co/post/406040/superstate-co-founder-ground-funding-crypto-onchain-yield?utm_source=rss&utm_medium=rss",
+      "desc": "Ground has raised $3.6 million in a pre-seed funding round co-led by Bain Capital Crypto and ParaFi as it emerges from stealth.",
+      "date": "2026-06-24T18:28:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -172,7 +233,7 @@
       "sourceName": "COINDESK",
       "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
       "link": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
-      "desc": "In this week's Crypto Long & Short, Nonco’s Caue Teixeri makes the case that regardless of which coin ultimately wins, infrastructure is the prevailing currency in digital assets. Then, using CoinDesk's liquidation feed, Liquibit Capital's Alen Pavlović finds that June's forced selling peaked near $68,000, days before bitcoin actually bottomed.",
+      "desc": "In this week's Crypto Long & Short, Nonco’s Caue Teixeira makes the case that regardless of which coin ultimately wins, infrastructure is the prevailing currency in digital assets. Then, using CoinDesk's liquidation feed, Liquibit Capital's Alen Pavlović finds that June's forced selling peaked near $68,000, days before bitcoin actually bottomed.",
       "date": "2026-06-24T16:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -306,16 +367,6 @@
       "link": "https://www.theblock.co/post/405989/bitcoin-etp-outflows-push-rolling-one-year-flows-negative-first-time-since-2023-k33?utm_source=rss&utm_medium=rss",
       "desc": "Bitcoin ETP holdings are down 8% from their peak, the largest drawdown on record, according to Head of Research Vetle Lunde.",
       "date": "2026-06-24T14:04:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-24T13:54:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -760,16 +811,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Galaxy Digital invests in Digital Prime Technologies",
-      "link": "https://www.finextra.com/pressarticle/110234/galaxy-digital-invests-in-digital-prime-technologies?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Digital Prime Technologies, a provider of institutional digital asset technology solutions, today announced a strategic investment from Galaxy Digital (Nasdaq: GLXY), a global leader in digital assets and data center infrastructure.",
-      "date": "2026-06-23T20:03:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "ENS DAO Delegates Call Foundation Proposal a Governance Attack as Johnson Self-Delegates",
@@ -1002,32 +1043,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Micron Stock Goes On-Chain 48 Hours Before Earnings as Backpack Securities Lists $MU on Solana",
-      "link": "https://thedefiant.io/news/defi/micron-stock-mu-onchain-backpack-securities-solana-48-hours-earnings",
-      "desc": "Sunrise and Backpack Securities tokenized Micron Technology ($MU) stock on Solana on Monday, landing the asset on-chain 48 hours before the chipmaker's fiscal Q3 earnings report. Each MU token is backed 1:1 by a real share held in custody and redeemable through Backpack Exchange into a traditional",
-      "date": "2026-06-23T00:34:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab",
       "link": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
       "desc": "Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
       "date": "2026-06-22T20:12:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Crypto Industry Urges Congress to Pass Tax Bill—But Will It Happen This Year?",
-      "link": "https://decrypt.co/371804/crypto-industry-urges-congress-pass-tax-bill",
-      "desc": "A bill that would make crypto mining and staking more attractive is a top priority for industry leaders—and a growing concern for House Democrats.",
-      "date": "2026-06-22T18:53:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
