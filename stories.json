@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-06-24T16:45:51.642Z",
+  "generatedAt": "2026-06-24T17:38:40.573Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 242,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 238,
+  "errors": [
+    "PYMNTS: PYMNTS: HTTP 403"
+  ],
   "dupsMerged": 9,
   "items": [
     {
@@ -12,7 +14,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-24T16:45:51.034Z",
+      "date": "2026-06-24T17:38:40.561Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +24,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-24T16:45:51.034Z",
+      "date": "2026-06-24T17:38:40.561Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +34,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-24T16:45:51.034Z",
+      "date": "2026-06-24T17:38:40.561Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,17 +44,37 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-24T16:45:51.034Z",
+      "date": "2026-06-24T17:38:40.561Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "THORChain Resumes Trading After Month-Long Halt From $10.7M Exploit",
-      "link": "https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit",
-      "desc": "The cross-chain DEX restored signing, churning, swaps, and LP actions Tuesday morning, six weeks after an Asgard vault breach drained funds across four chains.",
-      "date": "2026-06-24T16:45:49.000Z",
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Fake Crypto Influencer Gets 15 Months for $1.4M Telegram Staking Fraud",
+      "link": "https://decrypt.co/371989/fake-crypto-influencer-gets-15-months-for-1-4m-telegram-staking-fraud",
+      "desc": "Noman Saleem impersonated crypto influencers on Telegram, luring victims into a fake staking scheme before vanishing with their funds.",
+      "date": "2026-06-24T17:18:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
+      "link": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
+      "desc": "The crypto giant must find a home base in the EU by July 1 or regulators will force the company to shut down operations for millions of regional users.",
+      "date": "2026-06-24T17:18:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Hasn't Broken the 4-Year Cycle Yet, Says 21Shares as BTC Dives Below $60K",
+      "link": "https://decrypt.co/371985/bitcoin-hasnt-broken-4-year-cycle-yet-21shares",
+      "desc": "As Bitcoin falls below the $60,000 mark, 21Shares said that its prediction that BTC breaks the historical four-year cycle hasn't come true.",
+      "date": "2026-06-24T16:59:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,16 +85,6 @@
       "link": "https://www.theblock.co/post/406012/prediction-market-polls-us-voters-prefer-federal-rules-over-state-patchwork?utm_source=rss&utm_medium=rss",
       "desc": "The CFTC has been locked in a tug-of-war with states over who has the ultimate authority over event contracts.",
       "date": "2026-06-24T16:40:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Binance Pledges to Remain in EU Following License Troubles",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/binance-pledges-to-remain-in-eu-following-license-troubles/",
-      "desc": "Cryptocurrency platform Binance reportedly has no plans to leave Europe following recent licensing issues. The world’s largest crypto trading space will now make a new effort to get permission to do business in the European Union, a senior executive told Reuters in an interview published Wednesday (June 24). “Binance ‌is not leaving Europe,” said Gillian Lynch, head of Europe […] The post Binance Pledges to Remain in EU Following License Troubles appeared first on PYMNTS.com.",
-      "date": "2026-06-24T16:22:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -215,16 +227,6 @@
       "link": "https://www.theblock.co/post/405996/standard-chartered-generational-wealth-potential-aave-recovery-predicts-50x-upside-2030?utm_source=rss&utm_medium=rss",
       "desc": "Standard Chartered says Aave could reach $3,500 by end of 2030, a 50x gain based on a DeFi asset growth forecast and post-KelpDAO recovery.",
       "date": "2026-06-24T14:37:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Green Dot Bank-FinTech Split Moves Closer to the Finish Line",
-      "link": "https://www.pymnts.com/news/banking/2026/green-dot-bank-fintech-split-moves-closer-to-the-finish-line/",
-      "desc": "Green Dot has moved one step closer to separating its banking and FinTech operations. The company announced Tuesday (June 23) that its shareholders had approved the sale of Green Dot Bank to CommerceOne. That sale is part of a larger process that involves CommerceOne forming a new publicly traded bank holding company that owns CommerceOne Bank and Green Dot […] The post Green Dot Bank-FinTech Split Moves Closer to the Finish Line appeared first on PYMNTS.com.",
-      "date": "2026-06-24T14:33:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -673,16 +675,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto critic Roubini joins tokenization boom with onchain 'Technodollar'",
-      "link": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar",
-      "desc": "The economist known as \"Dr. Doom\" is supporting a tokenized security backed by a Nasdaq-listed ETF he oversees, designed to protect wealth in global crises.",
-      "date": "2026-06-23T21:54:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Nearly 100 Catholic Leaders Oppose CLARITY Act Over Trafficking Safeguard Provisions",
@@ -699,6 +691,16 @@
       "link": "https://thedefiant.io/news/regulation/cftc-sues-kentucky-exclusive-jurisdiction-prediction-markets",
       "desc": "The CFTC sued Kentucky on Tuesday to stop the state from using its own laws and a new transaction fee to push federally registered prediction markets out, widening a multi-state campaign over exclusive federal jurisdiction.",
       "date": "2026-06-23T21:35:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "THORChain Resumes Trading After Month-Long Halt From $10.7M Exploit",
+      "link": "https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit",
+      "desc": "The cross-chain DEX restored signing, churning, swaps, and LP actions Tuesday morning, six weeks after an Asgard vault breach drained funds across four chains.",
+      "date": "2026-06-23T21:24:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -815,52 +817,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Zcash miner Fortitude gets Nasdaq listing via HeartSciences merger",
-      "link": "https://cointelegraph.com/news/zcash-miner-fortitude-go-public-heartsciences-merger?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The all-stock deal gives Fortitude a Nasdaq listing while HeartSciences retains its healthcare business and existing shareholders keep a minority stake.",
-      "date": "2026-06-23T18:05:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Broadridge appoints Mark Nichols co-president, digital assets",
-      "link": "https://www.finextra.com/pressarticle/110233/broadridge-appoints-mark-nichols-co-president-digital-assets?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Broadridge Financial Solutions, Inc. (NYSE: BR) today announced that Mark Nichols has joined the company as Co-President, Digital Assets, a move that reinforces Broadridge’s ongoing commitment to modernize financial market infrastructure and expand its digital asset capabilities.",
-      "date": "2026-06-23T18:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bull Bitcoin Secures MiCA License in France, Preserving Full Self-Custody and Privacy Features",
       "link": "https://bitcoinmagazine.com/business/bull-bitcoin-secures-mica-license-in-france-preserving-full-self-custody-and-privacy-features",
       "desc": "Bitcoin Magazine Bull Bitcoin Secures MiCA License in France, Preserving Full Self-Custody and Privacy Features Founder Francis Pouliot announced the self-financed, three-year achievement, highlighting successful PASSI and DORA cybersecurity audits without outsourcing core infrastructure. This post Bull Bitcoin Secures MiCA License in France, Preserving Full Self-Custody and Privacy Features first appeared on Bitcoin Magazine and is written by Juan Galt.",
       "date": "2026-06-23T17:58:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coincenter",
-      "sourceName": "COIN CENTER",
-      "title": "Congress must understand: Block rewards are newly created property, not income.",
-      "link": "https://coincenter.org/congress-must-understand-block-rewards-are-newly-created-property-not-income/",
-      "desc": "Some proposals merely defer income tax treatment for miners and stakers without doing anything about the underlying misconception The post Congress must understand: Block rewards are newly created property, not income. appeared first on Coin Center.",
-      "date": "2026-06-22T17:19:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "CFTC chair says perp trading not suitable for all assets it regulates",
-      "link": "https://cointelegraph.com/news/cftc-regulating-agricultural-markets-crypto-prediction-markets-push?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Michael Selig told US cotton producers that the agency’s regulatory approach to crypto perpetual futures may not be a “natural fit for traditional commodity markets, like agriculture.”",
-      "date": "2026-06-23T16:54:38.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1053,30 +1015,20 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
+      "title": "Taiko Bridge Drained $1.7M After SGX Signing Key Left Exposed on GitHub",
+      "link": "https://thedefiant.io/news/hacks/taiko-bridge-exploit-sgx-signing-key-github-1-7m",
+      "desc": "An attacker forged withdrawal proofs using an RSA-3072 private key accidentally committed to Taiko’s public raiko GitHub repository, draining $1.7 million from L1 bridge contracts and forcing the protocol to halt block production and urge all users to exit.",
+      "date": "2026-06-22T23:15:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
       "title": "Secret Network's Axelar Bridge Drained $4.67M via Infinite-Mint Flaw",
       "link": "https://thedefiant.io/news/hacks/secret-network-axelar-bridge-drained-4-67m-infinite-mint-flaw",
       "desc": "Secret Network's cross-chain bridge to Axelar has been suspended after an attacker exploited a years-old minting flaw in a CW20-ICS20 contract to drain $4.67 million in wrapped tokens over seven undetected days. The exploit ran from June 10 to June 17, drained seven Axelar-wrapped assets, and has",
       "date": "2026-06-22T22:57:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "CFTC Opens Comment on 24/7 Energy Futures and Perpetual Oil Contracts",
-      "link": "https://thedefiant.io/news/regulation/cftc-comment-24-7-energy-futures-perpetual-oil-contracts-rfc",
-      "desc": "The CFTC issued a request for comment on running standard futures around the clock and on perpetual contracts referencing physically delivered energy commodities such as crude oil, extending the perpetual-contract model from crypto into oil and gas derivatives.",
-      "date": "2026-06-22T21:15:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "a16z-Backed Goldfinch Finance Winds Down After Originating $100M in Loans",
-      "link": "https://thedefiant.io/news/defi/goldfinch-finance-winds-down-depositors-report-50m-defaults",
-      "desc": "Warbler Labs posted an official governance proposal on June 12 to wind down Goldfinch Prime and move the protocol to maintenance mode. A Snapshot vote is passing 100% in favor. Depositors face a two-or-more-year recovery horizon as GFI trades 99.8% below its January 2022 all-time high.",
-      "date": "2026-06-22T20:30:59.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1087,16 +1039,6 @@
       "link": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
       "desc": "Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
       "date": "2026-06-22T20:12:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Chainlink Brings Samsung, Toyota and Sony Pricing On-Chain With APAC Equities Streams",
-      "link": "https://thedefiant.io/news/defi/chainlink-apac-equities-streams-samsung-toyota-sony-onchain",
-      "desc": "Chainlink launched APAC Equities Streams on Monday, putting live pricing for large-cap Asian companies on-chain to power equity perps, prediction markets and structured products in Asian time zones.",
-      "date": "2026-06-22T20:05:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
