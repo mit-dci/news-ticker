@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-24T20:36:21.481Z",
+  "generatedAt": "2026-06-24T21:35:46.098Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 251,
+  "filteredOut": 248,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "decrypt",
@@ -20,10 +20,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-06-24T21:35:45.606Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-24T20:36:20.812Z",
+      "date": "2026-06-24T21:35:45.606Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +43,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-24T20:36:20.812Z",
+      "date": "2026-06-24T21:35:45.606Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,17 +53,57 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-24T20:36:20.812Z",
+      "date": "2026-06-24T21:35:45.606Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-24T20:36:20.811Z",
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Ethereum Doesn’t Know What It’s Supposed to Be Anymore",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/ethereum-doesnt-know-what-its-supposed-to-be-anymore/",
+      "desc": "Every industry has its defining rivalry. McDonald’s and Burger King; Walmart and Amazon; Microsoft and Apple. In digital assets, that rivalry was bitcoin and ethereum. But on Tuesday (June 23) the Ethereum Foundation announced a significant organizational restructuring, including a 20% workforce reduction and plans to cut spending by 40% over the coming years. The […] The post Ethereum Doesn’t Know What It’s Supposed to Be Anymore appeared first on PYMNTS.com.",
+      "date": "2026-06-24T21:21:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin Slips Under $60,000 as Tech Rout, Hawkish Fed Hit Crypto",
+      "link": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd60-000-as-tech-rout-hawkish-fed-hit-crypto",
+      "desc": "Ether falls harder than Bitcoin in a market-wide risk-off move, while Aave bucks the selloff on V4 and Grayscale tailwinds; total DeFi value drops to about $69 billion",
+      "date": "2026-06-24T21:20:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "FTX exec’s wife scheduled for November trial on campaign finance charges",
+      "link": "https://cointelegraph.com/news/ftx-exec-wife-november-trial-campaign-finance-charges?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "A Manhattan judge ordered that Michelle Bond’s criminal trial start in November after he denied a motion to dismiss the indictment based on claims that prosecutors misled her husband over her charges.",
+      "date": "2026-06-24T21:07:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "The Next GameStop? Meme Stock Traders Make Biggie-Size Bet on Wendy's",
+      "link": "https://decrypt.co/372023/next-gamestop-meme-stock-traders-biggie-size-bet-wendys",
+      "desc": "Shares in fast-food chain Wendy's might be the next hot meme stock for retail investors hungry for a cause.",
+      "date": "2026-06-24T21:02:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin nearly loses $59K as DXY surges: Are traders bracing for more pain?",
+      "link": "https://cointelegraph.com/markets/bitcoin-nearly-loses-59k-as-dxy-surges-are-traders-bracing-for-more-pain?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Bitcoin drops toward new 2026 lows as spot BTC ETF outflows and slowing accumulation from Strategy weigh on market sentiment.",
+      "date": "2026-06-24T20:58:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -687,10 +737,30 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
+      "title": "Blockchain.com, KuCoin expand payment rails across emerging markets",
+      "link": "https://cointelegraph.com/news/blockchaincom-kucoin-connect-digital-assets-to-payment-networks-in-emerging-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Blockchain.com launched a Brazil-focused payments platform for businesses, while KuCoin expanded integrations with banking and mobile-money networks across Mexico, Bangladesh and Zambia.",
+      "date": "2026-06-24T06:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
       "title": "Sweden's H100 shareholders greenlight acquisition deal to triple Bitcoin holdings",
       "link": "https://cointelegraph.com/news/h100-clears-shareholder-hurdle-for-deal-that-would-triple-bitcoin-holdings?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "The Swedish health-tech company moved closer to becoming one of Europe's largest publicly traded Bitcoin treasury firms after shareholders approved a key condition for its planned acquisition of two Norwegian investment companies.",
       "date": "2026-06-24T06:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live markets: Bitcoin claws back some of the losses after Micron beats earnings",
+      "link": "https://www.coindesk.com/tech/2026/06/24/live-markets-bitcoin-could-drop-to-usd59-000-in-the-short-term-as-liquidaity-dries-up",
+      "desc": "Battered crypto sector gets some relief after Micron beats earnings, bringing back some risk appetite to the market.",
+      "date": "2026-06-24T05:13:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -775,16 +845,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Starmer to step down: What Andy Burnham means for crypto in the UK",
-      "link": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Burnham brings a dose of optimism to the UK crypto industry, having previously supported the blockchain industry as mayor of Manchester.",
-      "date": "2026-06-23T22:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Nearly 100 Catholic Leaders Oppose CLARITY Act Over Trafficking Safeguard Provisions",
@@ -815,28 +875,22 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Mark Zuckerberg ordered Meta staff to develop moneyless prediction market: NYT",
-      "link": "https://cointelegraph.com/news/mark-zuckerberg-meta-prediction-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The Meta CEO reportedly plans for the company to launch a prediction market independent of its other apps, allowing users to place wagers using a points system rather than money.",
-      "date": "2026-06-23T21:01:32.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Warwick Takes Personal Blame for sUSD Mismanagement, Charts Basis-Vault Replacement",
       "link": "https://thedefiant.io/news/defi/warwick-personal-blame-susd-mismanagement-basis-vault-replacement",
       "desc": "Synthetix founder Kain Warwick published a detailed thread this morning acknowledging that sUSD has been depegged for over a year, taking personal responsibility for treasury mismanagement, and outlining a basis-vault-backed replacement stablecoin to run on the protocol's new v4 exchange.",
       "date": "2026-06-23T20:40:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Mark Zuckerberg Wants a Prediction Market Too: NYT",
+      "link": "https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market",
+      "desc": "The initiative follows bets on stablecoins and the metaverse.",
+      "date": "2026-06-23T20:13:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -864,16 +918,6 @@
           "url": "https://decrypt.co/371864/ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Crypto isn't problem with US economy, Louisiana senator says",
-      "link": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Louisiana Senator John Kennedy largely dismissed what he called the “promotion” of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability.",
-      "date": "2026-06-23T19:49:59.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1019,16 +1063,6 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-bank-stablecoin-sofiusd-hits-150m-bullish-first-cex-listing",
       "desc": "SoFiUSD, the first stablecoin issued by a US national bank, crossed $150 million in circulating supply on Tuesday as Bullish became the first centralized exchange to list the token.",
       "date": "2026-06-23T04:06:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bithumb Lists Canton (CC) in Korean Won Market as Institutional Blockchain Eyes Retail Liquidity",
-      "link": "https://thedefiant.io/converge/cefi/bithumb-lists-canton-cc-korean-won-market-institutional-blockchain-retail",
-      "desc": "South Korea’s second-largest exchange has listed Canton Coin in its KRW market, opening the Goldman-backed, DTCC-integrated blockchain to retail investors ahead of the 14:00 KST trading start on June 23.",
-      "date": "2026-06-23T03:29:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
