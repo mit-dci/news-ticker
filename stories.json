@@ -1,28 +1,18 @@
 {
-  "generatedAt": "2026-06-24T03:09:11.724Z",
+  "generatedAt": "2026-06-24T04:52:50.389Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 237,
+  "filteredOut": 239,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 13,
   "items": [
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-24T03:09:11.303Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-24T03:09:11.302Z",
+      "date": "2026-06-24T04:52:49.901Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +22,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-24T03:09:11.302Z",
+      "date": "2026-06-24T04:52:49.901Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,17 +32,37 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-24T03:09:11.302Z",
+      "date": "2026-06-24T04:52:49.901Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "THORChain Resumes Trading After Month-Long Halt From $10.7M Exploit",
-      "link": "https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit",
-      "desc": "The cross-chain DEX restored signing, churning, swaps, and LP actions Tuesday morning, six weeks after an Asgard vault breach drained funds across four chains.",
-      "date": "2026-06-24T03:09:10.000Z",
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-24T04:52:49.901Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "CEA Industries ends proxy fight with YZi Labs, adds Ella Zhang as board director",
+      "link": "https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs?utm_source=rss&utm_medium=rss",
+      "desc": "BNB treasury firm CEA Industries has entered a cooperation agreement with YZi Labs, ending months-long governance disputes.",
+      "date": "2026-06-24T03:44:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "StarkWare introduces 'Private KYC' to address personal data breaches",
+      "link": "https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "“Identity checks today ask for your whole document when they only need one fact,” Starknet said.",
+      "date": "2026-06-24T03:14:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -537,13 +547,7 @@
       "link": "https://www.finextra.com/pressarticle/110228/blockchain-platform-allium-raises-40-million-series-b?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Allium, the leading blockchain data platform for enterprises, today announced it has raised $40 million in Series B funding led by Amplify Partners, with participation from existing investors Kleiner Perkins and Theory Ventures. Amplify’s David Beyer will join the Board as part of the investment.",
       "date": "2026-06-23T15:21:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405776/blockchain-data-startup-allium-raises-40m-series-b-as-institutional-interest-in-onchain-analytics-grows-fortune?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -821,9 +825,9 @@
       "date": "2026-06-23T10:00:24.000Z",
       "alsoAt": [
         {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405767/thorchain-resumes-trading-after-exploit?utm_source=rss&utm_medium=rss"
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit"
         }
       ],
       "termBoost": 0
@@ -1021,16 +1025,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin funding rate hits 2-week high: Is $70K next?",
-      "link": "https://cointelegraph.com/markets/bitcoin-funding-rate-hits-2-week-high-is-70k-next?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Bitcoin’s funding rate and orderbook setup signal investor optimism, but ETF outflows and macro red flags could limit BTC’s short-term upside.",
-      "date": "2026-06-22T22:15:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "CFTC Opens Comment on 24/7 Energy Futures and Perpetual Oil Contracts",
@@ -1078,11 +1072,6 @@
       "desc": "Bitcoin Magazine Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division Franklin Templeton has completed its acquisition of 250 Digital. This post Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-22T18:18:45.000Z",
       "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/franklin-templeton-launches-dedicated-crypto-division-after-completing-250-digital-acquisition?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-        },
         {
           "source": "COINDESK",
           "sourceId": "coindesk",
