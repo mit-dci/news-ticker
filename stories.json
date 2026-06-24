@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-24T21:35:46.098Z",
+  "generatedAt": "2026-06-24T22:29:37.466Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 248,
+  "filteredOut": 249,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "decrypt",
@@ -23,7 +23,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-24T21:35:45.606Z",
+      "date": "2026-06-24T22:29:36.718Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-24T21:35:45.606Z",
+      "date": "2026-06-24T22:29:36.718Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-24T21:35:45.606Z",
+      "date": "2026-06-24T22:29:36.718Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +53,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-24T21:35:45.606Z",
+      "date": "2026-06-24T22:29:36.718Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
+      "link": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss",
+      "desc": "An estimated 20% of miners are now unprofitable at current prices, and the stress shows up at the network level, too.",
+      "date": "2026-06-24T21:41:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -74,6 +84,16 @@
       "link": "https://thedefiant.io/news/markets/bitcoin-slips-under-usd60-000-as-tech-rout-hawkish-fed-hit-crypto",
       "desc": "Ether falls harder than Bitcoin in a market-wide risk-off move, while Aave bucks the selloff on V4 and Grayscale tailwinds; total DeFi value drops to about $69 billion",
       "date": "2026-06-24T21:20:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ethlabs Will Overlap with the Ethereum Foundation and Draw Its 'Densest Talent,' Funders Say",
+      "link": "https://thedefiant.io/news/blockchains/new-ethereum-non-profit-ethlabs-is-set-to-overlap-with-ef-and-draw-densest-talent",
+      "desc": "Sharplink, Bitmine and Joe Lubin are backing Ethlabs as the Ethereum Foundation cuts its budget 40%, but no one will say how much money is behind the new lab",
+      "date": "2026-06-24T21:09:55.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -623,13 +643,7 @@
       "link": "https://www.coindesk.com/business/2026/06/22/yzi-labs-nears-settlement-in-activist-campaign-at-bnb-treasury-firm-cea-industries",
       "desc": "Partner Alex Odagiu will serve as an interim president, pending a search for a new chief executive, while head of YZi Labs Ella Zhang and Matthew Roszak also appointed directors of CEA.",
       "date": "2026-06-24T10:47:12.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -821,16 +835,6 @@
       "link": "https://thedefiant.io/news/regulation/digital-chamber-carbone-clarity-act-senate-affordability-testimony",
       "desc": "Cody Carbone of The Digital Chamber testified Tuesday before the Senate Banking Committee that passing the CLARITY Act is a prerequisite for reducing financial friction costs that fall hardest on lower-income households, as no Senate floor vote has yet been scheduled.",
       "date": "2026-06-23T22:55:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "$170M Ether longs liquidated as crypto market tumbles: Is ETH doomed?",
-      "link": "https://cointelegraph.com/markets/170m-ether-positions-liquidated-as-crypto-market-tumbles-is-eth-doomed?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "ETH price hangs in the balance as a fresh wave of liquidations pressure the altcoin and spillover from Bitcoin’s struggles to hold $62,000 impact investor sentiment.",
-      "date": "2026-06-23T22:15:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1053,16 +1057,6 @@
       "link": "https://thedefiant.io/converge/blockchains/moneygram-becomes-solana-validator-joins-institutional-developer-platform",
       "desc": "MoneyGram has launched an active validator node on Solana and joined its institutional developer platform, making Solana the payments giant’s third blockchain validator commitment alongside Tempo and Midnight. The move deepens a blockchain infrastructure push that began with Stellar remittances in",
       "date": "2026-06-23T04:06:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "SoFi's Bank-Issued Stablecoin Hits $150M as Bullish Becomes First CEX to List It",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-bank-stablecoin-sofiusd-hits-150m-bullish-first-cex-listing",
-      "desc": "SoFiUSD, the first stablecoin issued by a US national bank, crossed $150 million in circulating supply on Tuesday as Bullish became the first centralized exchange to list the token.",
-      "date": "2026-06-23T04:06:19.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
