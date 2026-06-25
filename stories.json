@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-25T20:15:02.422Z",
+  "generatedAt": "2026-06-25T21:05:51.818Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 257,
+  "filteredOut": 259,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "decrypt",
@@ -23,7 +23,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-25T20:15:02.002Z",
+      "date": "2026-06-25T21:05:51.806Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-25T20:15:02.002Z",
+      "date": "2026-06-25T21:05:51.806Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-25T20:15:02.002Z",
+      "date": "2026-06-25T21:05:51.806Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +53,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-25T20:15:02.002Z",
+      "date": "2026-06-25T21:05:51.806Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +63,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-25T20:15:02.002Z",
+      "date": "2026-06-25T21:05:51.806Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
+      "link": "https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline?utm_source=rss&utm_medium=rss",
+      "desc": "A sweeping cryptocurrency bill faces a narrowing path to passage as pressure grows on the Senate to take up the legislation next month.",
+      "date": "2026-06-25T20:37:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -104,7 +114,13 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/invesco-files-for-tokenized-stablecoin-reserve-money-market-fund-built-on-superstate-rails",
       "desc": "US asset manager files for a GENIUS Act reserve money market fund whose shares are recorded directly on public blockchains, with Superstate as sub-transfer agent",
       "date": "2026-06-25T19:50:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -643,16 +659,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin has a new line in the sand. Thursday’s core PCE could stress test it.",
-      "link": "https://www.coindesk.com/markets/2026/06/25/bitcoin-has-a-new-line-in-the-sand-thursday-s-core-pce-could-stress-test-it",
-      "desc": "The market has found a new support level and it could be tested following Thursday's U.S. inflation data.",
-      "date": "2026-06-25T04:53:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "ft",
       "sourceName": "FINANCIAL TIMES",
       "title": "Mongolian footballing minnows meet the cruelties of crypto",
@@ -683,32 +689,12 @@
       "termBoost": 0
     },
     {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "How a Crypto Exchange Became a Major Hub for Illicit Iranian Cash",
-      "link": "https://www.wsj.com/finance/currencies/how-a-crypto-exchange-became-a-major-hub-for-illicit-iranian-cash-46e771a2?mod=rss_markets_main",
-      "desc": "Iranian entities have moved more than $3.84 billion in transactions through the crypto exchange CoinEx, according to an analysis of public blockchain data.",
-      "date": "2026-06-25T01:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Stablecore launches stablecoin and digital asset programme for credit unions",
       "link": "https://www.finextra.com/newsarticle/47987/stablecore-launches-stablecoin-and-digital-asset-programme-for-credit-unions?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "An early-access stablecoin and digital asset programme specifically designed for US credit unions has launched.",
       "date": "2026-06-25T00:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin miners face deepening margin squeeze as revenue falls below production costs",
-      "link": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss",
-      "desc": "An estimated 20% of miners are now unprofitable at current prices, and the stress shows up at the network level, too.",
-      "date": "2026-06-24T21:41:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -979,16 +965,6 @@
       "link": "https://thedefiant.io/news/defi/thorchain-resumes-trading-after-month-long-halt-107m-exploit",
       "desc": "The cross-chain DEX restored signing, churning, swaps, and LP actions Tuesday morning, six weeks after an Asgard vault breach drained funds across four chains.",
       "date": "2026-06-23T21:24:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Warwick Takes Personal Blame for sUSD Mismanagement, Charts Basis-Vault Replacement",
-      "link": "https://thedefiant.io/news/defi/warwick-personal-blame-susd-mismanagement-basis-vault-replacement",
-      "desc": "Synthetix founder Kain Warwick published a detailed thread this morning acknowledging that sUSD has been depegged for over a year, taking personal responsibility for treasury mismanagement, and outlining a basis-vault-backed replacement stablecoin to run on the protocol's new v4 exchange.",
-      "date": "2026-06-23T20:40:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
