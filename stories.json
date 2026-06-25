@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-25T17:15:29.077Z",
+  "generatedAt": "2026-06-25T18:15:55.876Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 256,
+  "filteredOut": 257,
   "errors": [],
   "dupsMerged": 7,
   "items": [
@@ -20,10 +20,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-25T18:15:55.399Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-25T17:15:29.066Z",
+      "date": "2026-06-25T18:15:55.398Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +43,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-25T17:15:29.066Z",
+      "date": "2026-06-25T18:15:55.398Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +53,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-25T17:15:29.066Z",
+      "date": "2026-06-25T18:15:55.398Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,24 +63,54 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-25T17:15:29.066Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-25T17:15:29.066Z",
+      "date": "2026-06-25T18:15:55.398Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "Coinbase-incubated Base blockchain suffers ‘Unsafe Head Stall’ interrupting block production",
+      "title": "Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an ‘everything exchange’",
+      "link": "https://www.theblock.co/post/406212/multicoin-hype-hits-319-by-2028-hyperliquid-everything-exchange?utm_source=rss&utm_medium=rss",
+      "desc": "According to the investment firm, Hyperliquid's user base grew from roughly 300,000 to 923,000 during 2025.",
+      "date": "2026-06-25T18:03:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban",
+      "link": "https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban",
+      "desc": "Bitcoin Magazine Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban Senior developers including Andrew Poelstra highlighted broken merge scripts, hidden diffs, and unreliable tracking, pushing Bitcoin projects toward self-hosted Forgejo solutions. This post Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban first appeared on Bitcoin Magazine and is written by Juan Galt.",
+      "date": "2026-06-25T17:54:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
+      "link": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
+      "desc": "The DeFi lender is rebuilding after the fallout from April's KelpDAO exploit sparked a multibillion-dollar exodus of deposits despite Aave itself not being hacked.",
+      "date": "2026-06-25T17:14:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "XRP risks drop below $1, but onchain data highlights silver lining",
+      "link": "https://cointelegraph.com/markets/xrp-may-lose-1-but-onchain-data-signals-improving-outlook-heres-why?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "XRP’s chance of a daily close below $1 are rising, but whale accumulation and shrinking exchange supply may be a sign that traders are buying.",
+      "date": "2026-06-25T17:11:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Coinbase-incubated Base suffers mainnet chain stall interrupting block production",
       "link": "https://www.theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production?utm_source=rss&utm_medium=rss",
       "desc": "Deposits and withdrawals have also been affected, while transactions are delayed or stalled, according to Base's status page.",
       "date": "2026-06-25T17:10:34.000Z",
@@ -352,16 +392,6 @@
       "link": "https://cointelegraph.com/news/binance-eu-service-limits-july-1-mica-effect?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Binance will limit EU onboarding and services from July 1 under MiCA rules after failing to gain authorization from a member state, while withdrawals remain available for users.",
       "date": "2026-06-25T12:21:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Treasury Prime Taps Green Dot to Enable Cash Deposits to Digital Accounts",
-      "link": "https://www.pymnts.com/mobile/2026/treasury-prime-taps-green-dot-to-enable-cash-deposits-to-digital-accounts/",
-      "desc": "Treasury Prime now enables its FinTech partners to let their customers add cash to their digital accounts at more than 90,000 participating Green Dot Network retail locations. This offering is enabled by Treasury Prime’s new Prime Cash solution, which is powered by Green Dot’s embedded finance platform, Arc, and money processing network, the companies said […] The post Treasury Prime Taps Green Dot to Enable Cash Deposits to Digital Accounts appeared first on PYMNTS.com.",
-      "date": "2026-06-25T12:00:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -652,16 +682,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Upheaval at the Ethereum Foundation has some of crypto’s biggest names feeling bullish",
-      "link": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
-      "desc": "In this week's edition of The Protocol Newsletter, we're looking at Ethereum's eventful week that started off with the launch of EthLabs, plus the layoffs at the Ethereum Foundation, and what this all means for the network.",
-      "date": "2026-06-24T19:52:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "A16z-Linked Wallet Pulls 25,560 ETH From Binance in Apparent Accumulation Move",
@@ -688,16 +708,6 @@
       "link": "https://decrypt.co/372004/leaked-code-anthropic-preparing-fable-5-subscription",
       "desc": "A leaker found new strings inside Claude Code that hint at weekly Fable 5 usage built into subscription plans, not sold separately as before.",
       "date": "2026-06-24T19:25:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Pump.fun offers up to $5 million salary for chief legal officer role",
-      "link": "https://www.theblock.co/post/406039/pump-fun-offers-up-5-million-salary-chief-legal-officer-role?utm_source=rss&utm_medium=rss",
-      "desc": "The position covers everything from SEC oversight to MiCA rules and U.K. regulations, and offers a salary between $1 million and $5 million.",
-      "date": "2026-06-24T18:42:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -815,16 +825,6 @@
       "link": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services.",
       "date": "2026-06-24T15:49:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "The Impossibility of Perfect Fairness in Transaction Ordering",
-      "link": "https://cointelegraph.com/research/the-impossibility-of-perfect-fairness-in-transaction-ordering?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Why perfect fairness cannot hold in asynchronous networks, and how different blockchains adopt different relaxations to fairness.",
-      "date": "2026-06-24T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -985,16 +985,6 @@
       "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-cuts-20-percent-staff-reorganization",
       "desc": "The Ethereum Foundation has eliminated 54 positions, about 20% of its workforce, as part of a restructuring tied to its updated spending mandate. Vitalik Buterin announced a 40% annual budget cut targeting a reduction in treasury spend from 15% to 5% by 2030. Arkham Intelligence places EF's ETH",
       "date": "2026-06-23T19:57:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aztec Tells V4 Users to Withdraw Before June 25 as V5 Upgrade Exposes Security Flaws",
-      "link": "https://thedefiant.io/news/defi/aztec-v4-withdraw-june-25-v5-upgrade-security-vulnerability",
-      "desc": "Aztec Network is urging Alpha V4 users to pull funds before June 25, when the V5 governance vote will publicly disclose the current version's critical proving-system vulnerability.",
-      "date": "2026-06-23T18:11:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
