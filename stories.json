@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-25T12:18:28.343Z",
+  "generatedAt": "2026-06-25T13:16:31.035Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 253,
+  "filteredOut": 251,
   "errors": [],
   "dupsMerged": 6,
   "items": [
@@ -20,10 +20,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-25T13:16:30.863Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-25T12:18:28.263Z",
+      "date": "2026-06-25T13:16:30.862Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +43,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-25T12:18:28.263Z",
+      "date": "2026-06-25T13:16:30.862Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +53,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-25T12:18:28.263Z",
+      "date": "2026-06-25T13:16:30.862Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,17 +63,107 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-25T12:18:28.263Z",
+      "date": "2026-06-25T13:16:30.862Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-25T12:18:28.263Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "SBI to acquire Bitbank in $289M deal creating Japan's biggest crypto exchange",
+      "link": "https://cointelegraph.com/news/sbi-acquire-bitbank-289-million-deal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The Japanese financial conglomerate plans to take full control of Bitbank as it expands an ecosystem spanning crypto trading, stablecoins, tokenization and blockchain infrastructure.",
+      "date": "2026-06-25T13:08:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Spark, Uniswap build stablecoin ‘FX Layer’ seeded with $150 million liquidity migration",
+      "link": "https://www.theblock.co/post/406154/spark-uniswap-build-stablecoin-fx-layer-seeded-with-150-million-liquidity-migration?utm_source=rss&utm_medium=rss",
+      "desc": "Spark is establishing a \"liquidity foundation\" for the new pool by migrating $150 million from its USDS ecosystem to Uniswap v4.",
+      "date": "2026-06-25T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
+      "link": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
+      "desc": "The protocols are building shared liquidity and trading infrastructure for a future with hundreds of competing digital currencies on blockchain rails.",
+      "date": "2026-06-25T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance",
+      "link": "https://www.coindesk.com/policy/2026/06/24/post-prison-cz-says-time-behind-bars-didn-t-hurt-the-billionaire-s-business-after-binance",
+      "desc": "The pardoned ex-CEO called prison a character-building \"plus\" as he's pursued a venture-capital career, despite his majority stake in the world's biggest crypto exchange.",
+      "date": "2026-06-25T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "About 60% of World Cup bettors on Polymarket are first-time crypto users",
+      "link": "https://cointelegraph.com/news/polymarket-first-crypto-touchpoint-world-cup-bettors?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Polymarket emerged as an onboarding layer for about 60% of World Cup bettors, who interacted with the blockchain for the first time during their prediction market entry.",
+      "date": "2026-06-25T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Spark migrates $150M in stablecoin to Uniswap to advance shared liquidity",
+      "link": "https://cointelegraph.com/news/spark-deploys-150m-stablecoin-liquidity-uniswap-v4?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Spark deployed approximately $150 million across two Uniswap v4 pools on Ethereum, while its DualPool hook and Shared Liquidity Layer are planned for later phases.",
+      "date": "2026-06-25T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "‘Waiting for buyers’: Bitcoin holds fragile $60K floor ahead of $10.6B quarterly expiry",
+      "link": "https://www.theblock.co/post/406112/waiting-for-buyers-bitcoin-holds-fragile-60k-floor-ahead-of-10-6b-quarterly-expiry?utm_source=rss&utm_medium=rss",
+      "desc": "Bitcoin fell to the low $60,000s ahead of a $10.6B June 26 quarterly expiry as $469M in ETF outflows and negative gamma weigh on sentiment.",
+      "date": "2026-06-25T12:57:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "$47M in Crypto Frozen in Global Infostealer Takedown: Europol",
+      "link": "https://decrypt.co/372071/47m-in-crypto-frozen-in-global-infostealer-takedown-europol",
+      "desc": "Police disrupted SocGholish, Amadey, and StealC, malware that harvests crypto wallets and passwords, freezing €41 million in crypto.",
+      "date": "2026-06-25T12:55:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan",
+      "link": "https://www.coindesk.com/markets/2026/06/25/circle-and-nomura-join-forces-to-target-a-usd750-billion-daily-foreign-exchange-market-in-japan",
+      "desc": "The stablecoin giant and the Japanese financial corporation plan to deploy cross-border foreign exchange settlements as early as next year.",
+      "date": "2026-06-25T12:29:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Binance faces EU service limits next week as MiCA rules take effect",
+      "link": "https://cointelegraph.com/news/binance-eu-service-limits-july-1-mica-effect?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Binance will limit EU onboarding and services from July 1 under MiCA rules after failing to gain authorization from a member state, while withdrawals remain available for users.",
+      "date": "2026-06-25T12:19:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -657,26 +757,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The banking lobby is wrong about stablecoins and community banks",
-      "link": "https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks",
-      "desc": "Congress should not kneecap one of the clearest advances in payment infrastructure to protect community banks from a threat that has not been proven, argues Eco CEO Ryne Saxe.",
-      "date": "2026-06-24T14:47:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Standard Chartered sees ‘generational wealth’ in potential Aave recovery, predicts 50x upside by 2030",
-      "link": "https://www.theblock.co/post/405996/standard-chartered-generational-wealth-potential-aave-recovery-predicts-50x-upside-2030?utm_source=rss&utm_medium=rss",
-      "desc": "Standard Chartered says Aave could reach $3,500 by end of 2030, a 50x gain based on a DeFi asset growth forecast and post-KelpDAO recovery.",
-      "date": "2026-06-24T14:37:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Strategy Shares Crash Below $100 as Bitcoin Sinks Towards $60K",
@@ -703,36 +783,6 @@
       "link": "https://www.finextra.com/newsarticle/47986/digital-euro-clears-european-parliament-hurdle?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Europe has taken another step towards the launch of a digital euro in 2029 after a key parliamentary committee backed the plan.",
       "date": "2026-06-24T14:09:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin ETP outflows push rolling one-year flows negative for first time since 2023: K33",
-      "link": "https://www.theblock.co/post/405989/bitcoin-etp-outflows-push-rolling-one-year-flows-negative-first-time-since-2023-k33?utm_source=rss&utm_medium=rss",
-      "desc": "Bitcoin ETP holdings are down 8% from their peak, the largest drawdown on record, according to Head of Research Vetle Lunde.",
-      "date": "2026-06-24T14:04:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Gold, silver and bitcoin tumble as 'debasement' trade unwinds",
-      "link": "https://www.coindesk.com/markets/2026/06/24/gold-silver-and-bitcoin-tumble-as-debasement-trade-unwinds",
-      "desc": "Precious metals have fallen sharply from their 2025 highs as markets price in Fed rate hikes.",
-      "date": "2026-06-24T13:48:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin could fall to $55,000 before finding a bottom, 10x Research says",
-      "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-could-fall-to-usd55-000-before-finding-a-bottom-10x-research-says",
-      "desc": "A strengthening U.S. dollar and the Fed's hawkish turn under new chair Kevin Warsh may keep pressure on crypto through the summer.",
-      "date": "2026-06-24T13:42:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -823,36 +873,6 @@
       "link": "https://decrypt.co/371948/farage-says-he-can-spend-tether-billionaires-6-7m-gift-on-ferraris-if-he-wants",
       "desc": "Reform UK leader Nigel Farage called the gift from Christopher Harborne a “private matter” amid a standards investigation.",
       "date": "2026-06-24T10:28:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BTC price four-year trend calls for $76K as analysis says Bitcoin 'not broken'",
-      "link": "https://cointelegraph.com/markets/bitcoin-four-year-trend-calls-for-76k-as-analysis-says-btc-price-not-broken?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Bitcoin research said that BTC price action remained in tune with previous cycles as the bear market produces a 20% discount to its four-year \"adoption structure\" trend line.",
-      "date": "2026-06-24T09:40:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "South Korea adds token securities to capital market overhaul",
-      "link": "https://cointelegraph.com/news/south-korea-token-securities-capital-market-overhaul?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "South Korea’s Financial Services Commission has placed token securities infrastructure within a wider capital-market modernization plan covering faster settlement, longer trading hours and digital transformation.",
-      "date": "2026-06-24T08:56:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "OpenPayd secures MiCA license as stablecoin adoption grows in Europe",
-      "link": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
-      "date": "2026-06-24T07:17:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1019,16 +1039,6 @@
       "link": "https://thedefiant.io/converge/regulation/sbi-group-jpysc-yen-stablecoin-issuance-nikkei-japan-payment-services-act",
       "desc": "SBI Group, Japan's $252 billion financial conglomerate, plans to issue JPYSC this week per Nikkei reporting, becoming the first Japanese institution to launch a trust-bank-structured yen stablecoin under the amended Payment Services Act.",
       "date": "2026-06-23T13:48:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
-      "link": "https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
-      "desc": "Thailand's DSI says a Chinese \"grey capital\" network used illegal crypto mining and cash mules to launder more than $300 million a year.",
-      "date": "2026-06-23T13:40:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
