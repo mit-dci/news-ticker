@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-25T07:46:09.401Z",
+  "generatedAt": "2026-06-25T09:08:18.238Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 250,
+  "filteredOut": 251,
   "errors": [],
   "dupsMerged": 7,
   "items": [
@@ -20,30 +20,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-25T07:46:07.398Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-25T07:46:07.398Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-25T07:46:07.398Z",
+      "date": "2026-06-25T09:08:18.226Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +33,57 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-25T07:46:07.398Z",
+      "date": "2026-06-25T09:08:18.226Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-06-25T09:08:18.225Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-06-25T09:08:18.225Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-25T09:08:18.225Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Indonesia sets certification rules for influencers recommending crypto",
+      "link": "https://cointelegraph.com/news/indonesia-certification-rules-influencers-recommending-crypto?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Indonesia’s financial regulator will require influencers recommending crypto and other digital assets to hold relevant certifications as regulators worldwide tighten oversight of finfluencers.",
+      "date": "2026-06-25T08:44:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Polish crypto exchange Kanga secures MiCA license in Latvia",
+      "link": "https://cointelegraph.com/news/poland-kanga-secures-mica-license-latvia?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Poland-founded crypto exchange Kanga has secured a Class 3 MiCA license in Latvia, enabling EU-wide crypto services as Polish lawmakers debate framework's implementation.",
+      "date": "2026-06-25T08:24:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -190,16 +220,6 @@
       "link": "https://www.theblock.co/post/405858/bitcoin-miners-face-deepening-margin-squeeze-as-revenue-falls-below-production-costs?utm_source=rss&utm_medium=rss",
       "desc": "An estimated 20% of miners are now unprofitable at current prices, and the stress shows up at the network level, too.",
       "date": "2026-06-24T21:41:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Ethereum Doesn’t Know What It’s Supposed to Be Anymore",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/ethereum-doesnt-know-what-its-supposed-to-be-anymore/",
-      "desc": "Every industry has its defining rivalry. McDonald’s and Burger King; Walmart and Amazon; Microsoft and Apple. In digital assets, that rivalry was bitcoin and ethereum. But on Tuesday (June 23) the Ethereum Foundation announced a significant organizational restructuring, including a 20% workforce reduction and plans to cut spending by 40% over the coming years. The […] The post Ethereum Doesn’t Know What It’s Supposed to Be Anymore appeared first on PYMNTS.com.",
-      "date": "2026-06-24T21:21:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -817,26 +837,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Blockchain.com, KuCoin expand payment rails across emerging markets",
-      "link": "https://cointelegraph.com/news/blockchaincom-kucoin-connect-digital-assets-to-payment-networks-in-emerging-markets?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Blockchain.com launched a Brazil-focused payments platform for businesses, while KuCoin expanded integrations with banking and mobile-money networks across Mexico, Bangladesh and Zambia.",
-      "date": "2026-06-24T06:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Sweden's H100 shareholders greenlight acquisition deal to triple Bitcoin holdings",
-      "link": "https://cointelegraph.com/news/h100-clears-shareholder-hurdle-for-deal-that-would-triple-bitcoin-holdings?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The Swedish health-tech company moved closer to becoming one of Europe's largest publicly traded Bitcoin treasury firms after shareholders approved a key condition for its planned acquisition of two Norwegian investment companies.",
-      "date": "2026-06-24T06:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "UBS demonstrates implementation of compliance checks on transactions crossing Ethereum",
@@ -1045,16 +1045,6 @@
       "link": "https://decrypt.co/371851/morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypto",
       "desc": "Crypto majors are selling off as big Tech gets routed; Saylor is hoarding cash; and ETH heavyweights team up to fund R&#038;D with ETHLabs.",
       "date": "2026-06-23T12:23:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ripple Wins Preliminary MiCA CASP Approval in Luxembourg, Unlocking EEA Passporting",
-      "link": "https://thedefiant.io/converge/regulation/ripple-preliminary-mica-casp-approval-luxembourg-eea-passporting",
-      "desc": "Ripple has received a preliminary Crypto Asset Service Provider license from Luxembourg's CSSF under MiCA, a regulatory step that positions Ripple Payments for a full rollout across all 30 European Economic Area countries once final conditions are satisfied.",
-      "date": "2026-06-23T08:03:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
