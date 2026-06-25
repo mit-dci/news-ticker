@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-25T03:09:18.712Z",
+  "generatedAt": "2026-06-25T04:52:55.487Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 250,
+  "filteredOut": 253,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "decrypt",
@@ -23,7 +23,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-25T03:09:18.203Z",
+      "date": "2026-06-25T04:52:55.474Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-25T03:09:18.203Z",
+      "date": "2026-06-25T04:52:55.474Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-25T03:09:18.203Z",
+      "date": "2026-06-25T04:52:55.474Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +53,27 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-25T03:09:18.203Z",
+      "date": "2026-06-25T04:52:55.474Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Ripple launches RLUSD stablecoin in Japan after regulatory approval",
+      "link": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&utm_medium=rss",
+      "desc": "Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.",
+      "date": "2026-06-25T03:26:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Abracadabra takes emergency action as MIM stablecoin depeg worsens",
+      "link": "https://cointelegraph.com/news/abracadabra-takes-emergency-measures-as-magic-internet-money-depeg-worsens?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "The protocol is raising interest rates across all Cauldrons to encourage debt repayment and reduce supply.",
+      "date": "2026-06-25T03:22:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -587,13 +607,7 @@
       "link": "https://cointelegraph.com/news/cboe-debuts-prediction-market-sp-500-contracts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "Cboe launched its first prediction market product tied to the S&P 500 index, citing a growing investor demand for binary options contracts.",
       "date": "2026-06-24T12:01:43.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -723,16 +737,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Mark Cuban, Dallas Mavericks face appeal over dismissed Voyager crypto case",
-      "link": "https://www.theblock.co/post/405937/mark-cuban-dallas-mavericks-face-appeal-over-dismissed-voyager-crypto-case?utm_source=rss&utm_medium=rss",
-      "desc": "Voyager investors appealed the dismissal of their claims against Mark Cuban and the Dallas Mavericks to the Eleventh Circuit.",
-      "date": "2026-06-24T08:43:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "OpenPayd secures MiCA license as stablecoin adoption grows in Europe",
@@ -789,32 +793,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live markets: Bitcoin claws back some of the losses after Micron beats earnings",
-      "link": "https://www.coindesk.com/tech/2026/06/24/live-markets-bitcoin-could-drop-to-usd59-000-in-the-short-term-as-liquidaity-dries-up",
-      "desc": "Battered crypto sector gets some relief after Micron beats earnings, bringing back some risk appetite to the market.",
-      "date": "2026-06-24T05:13:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "StarkWare introduces 'Private KYC' to address personal data breaches",
       "link": "https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "“Identity checks today ask for your whole document when they only need one fact,” Starknet said.",
       "date": "2026-06-24T03:14:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "CFTC sues Kentucky after state’s prediction market lawsuits",
-      "link": "https://cointelegraph.com/news/cftc-sues-kentucky-after-states-prediction-market-lawsuits?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "The Commodity Futures Trading Commission has sued Kentucky, now the ninth state the regulator is battling in its fight over prediction markets.",
-      "date": "2026-06-24T02:40:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1037,16 +1021,6 @@
       "link": "https://thedefiant.io/converge/regulation/ripple-preliminary-mica-casp-approval-luxembourg-eea-passporting",
       "desc": "Ripple has received a preliminary Crypto Asset Service Provider license from Luxembourg's CSSF under MiCA, a regulatory step that positions Ripple Payments for a full rollout across all 30 European Economic Area countries once final conditions are satisfied.",
       "date": "2026-06-23T08:03:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "MoneyGram Becomes Solana Validator, Joins Institutional Developer Platform",
-      "link": "https://thedefiant.io/converge/blockchains/moneygram-becomes-solana-validator-joins-institutional-developer-platform",
-      "desc": "MoneyGram has launched an active validator node on Solana and joined its institutional developer platform, making Solana the payments giant’s third blockchain validator commitment alongside Tempo and Midnight. The move deepens a blockchain infrastructure push that began with Stellar remittances in",
-      "date": "2026-06-23T04:06:26.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
