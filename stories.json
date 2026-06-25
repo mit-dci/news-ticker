@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-25T09:08:18.238Z",
+  "generatedAt": "2026-06-25T10:27:15.762Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 251,
+  "filteredOut": 253,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "decrypt",
@@ -20,30 +20,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-25T09:08:18.226Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-25T09:08:18.226Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-25T09:08:18.225Z",
+      "date": "2026-06-25T10:27:15.351Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +33,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-25T09:08:18.225Z",
+      "date": "2026-06-25T10:27:15.351Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +43,67 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-25T09:08:18.225Z",
+      "date": "2026-06-25T10:27:15.351Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-25T10:27:15.351Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-25T10:27:15.351Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Half of UK wealth advisors say most clients’ crypto sits outside their oversight as 61% of European peers face firm restrictions: CoinShares",
+      "link": "https://www.theblock.co/post/406099/half-of-uk-wealth-advisors-say-most-clients-crypto-sits-outside-their-oversight-as-61-of-european-peers-face-firm-restrictions-coinshares?utm_source=rss&utm_medium=rss",
+      "desc": "CoinShares survey found 52% of UK advisors report most clients' crypto exposure sits outside their oversight, with firm policy a key driver.",
+      "date": "2026-06-25T10:14:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Kraken expands OTC lending through an onchain warehouse facility with Maple",
+      "link": "https://www.theblock.co/post/406054/kraken-expands-otc-lending-onchain-warehouse-facility-maple?utm_source=rss&utm_medium=rss",
+      "desc": "Maple’s lenders will provide a revolving line of funding to supply USDC liquidity for Kraken's over-the-counter borrowers.",
+      "date": "2026-06-25T10:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Iran-linked entities moved $3.8B through CoinEx, TRM says",
+      "link": "https://cointelegraph.com/news/iran-entities-moved-38-billion-coinex?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "TRM Labs traced $3.8 billion moved by 60 sanctioned Iranian entities through CoinEx and said that the exchange’s 8% share of illicit transactions was substantially higher than its counterparts.",
+      "date": "2026-06-25T09:44:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Thailand issues arrest warrant for Chinese businessman tied to $28 million illegal crypto mining probe: report",
+      "link": "https://www.theblock.co/post/406090/thailand-issues-arrest-warrant-chinese-businessman-mining-power-theft?utm_source=rss&utm_medium=rss",
+      "desc": "Chinese businessman Wang Yicheng was accused of involvement in illegal crypto mining operations that used $28 million worth of electricity.",
+      "date": "2026-06-25T09:44:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -481,7 +521,13 @@
       "link": "https://bitcoinmagazine.com/news/law-enforcement-catholic-group-clarity-act",
       "desc": "Bitcoin Magazine Law Enforcement, Catholic Groups Send Letters to U.S. Government Warning CLARITY Act Would Create Crypto Crime Loopholes Law enforcement groups and Catholic leaders warned that the CLARITY Act’s Section 604 could create regulatory and AML loopholes by exempting certain crypto developers and infrastructure providers from money transmitter rules. This post Law Enforcement, Catholic Groups Send Letters to U.S. Government Warning CLARITY Act Would Create Crypto Crime Loopholes first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-24T15:59:07.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/371923/crypto-clarity-act-new-enemy-catholic-leaders"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -651,16 +697,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push",
-      "link": "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push?utm_source=rss&utm_medium=rss",
-      "desc": "Black Lake and Nuva Labs completed the onchain minting of $25 million in mortgage loans on Provenance Blockchain.",
-      "date": "2026-06-24T13:00:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "CZ, Binance founder, wants to clear up 'misunderstandings' about who he is",
@@ -721,16 +757,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "21Shares says bitcoin’s post-halving price action ‘still looks familiar,’ but sees recovery toward $100,000 by year-end",
-      "link": "https://www.theblock.co/post/405960/21shares-says-bitcoins-post-halving-price-action-still-looks-familiar-but-sees-recovery-toward-100000-by-year-end?utm_source=rss&utm_medium=rss",
-      "desc": "Bitcoin sits roughly 50% below its $126,000 peak in October 2025 as 21Shares points to a $100,000 base-case recovery by year-end.",
-      "date": "2026-06-24T11:38:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "This forgotten coin could surprise everyone before its next halving",
@@ -767,16 +793,6 @@
       "link": "https://www.coindesk.com/markets/2026/06/24/bitcoin-clings-to-usd62-500-as-bears-tighten-grip-on-crypto-market",
       "desc": "Bitcoin held above $62,500 and ether near $1,665, but sluggish price action and widening put skews signal bears remain firmly in control.",
       "date": "2026-06-24T11:04:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "YZi Labs ends proxy war with BNB treasury company CEA Industries",
-      "link": "https://www.coindesk.com/business/2026/06/22/yzi-labs-nears-settlement-in-activist-campaign-at-bnb-treasury-firm-cea-industries",
-      "desc": "Partner Alex Odagiu will serve as an interim president, pending a search for a new chief executive, while head of YZi Labs Ella Zhang and Matthew Roszak also appointed directors of CEA.",
-      "date": "2026-06-24T10:47:12.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -818,22 +834,6 @@
       "desc": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
       "date": "2026-06-24T07:17:46.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Catholic leaders, US authorities challenge CLARITY Act over illicit activity",
-      "link": "https://cointelegraph.com/news/law-enforcement-and-catholic-groups-warn-clarity-act-facilitates-crypto-crime?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "“Regulatory certainty should not come at the expense of accountability, transparency, victim protection, or public safety,” the law enforcement associations said.",
-      "date": "2026-06-24T06:06:15.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371923/crypto-clarity-act-new-enemy-catholic-leaders"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -979,13 +979,7 @@
       "link": "https://thedefiant.io/converge/regulation/senate-housing-bill-fed-cbdc-ban-through-2030-85-5-vote",
       "desc": "The US Senate voted 85-5 Monday to pass the 21st Century ROAD to Housing Act, which includes a provision barring the Federal Reserve from issuing a central bank digital currency until December 31, 2030. The sweeping bipartisan bill heads to the House for a final vote before going to President",
       "date": "2026-06-23T16:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371848/us-senate-passes-housing-bill-with-four-year-fed-cbdc-ban"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
