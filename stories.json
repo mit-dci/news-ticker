@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-25T14:17:37.357Z",
+  "generatedAt": "2026-06-25T15:28:38.764Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 254,
+  "filteredOut": 256,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "decrypt",
@@ -20,10 +20,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-25T15:28:38.753Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-25T14:17:37.345Z",
+      "date": "2026-06-25T15:28:38.753Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +43,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-25T14:17:37.344Z",
+      "date": "2026-06-25T15:28:38.752Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +53,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-25T14:17:37.344Z",
+      "date": "2026-06-25T15:28:38.752Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,18 +63,84 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-25T14:17:37.344Z",
+      "date": "2026-06-25T15:28:38.752Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-25T14:17:37.344Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Tether-pegged USDT0 stablecoin crosses $100 billion transaction volume milestone",
+      "link": "https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone?utm_source=rss&utm_medium=rss",
+      "desc": "USDT0, backed 1:1 by tethers, the largest stablecoin by market capitalization, is the third-largest holder of USDT.",
+      "date": "2026-06-25T15:15:00.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Quant fund says bitcoin is near a major inflection point as rare onchain signals align",
+      "link": "https://www.coindesk.com/markets/2026/06/25/quant-fund-says-bitcoin-is-near-a-major-inflection-point-as-rare-onchain-signals-align",
+      "desc": "Hyperion Decimus' Chris Sullivan said four historically reliable indicators have aligned, leaving bitcoin one move away from confirming a major turning point.",
+      "date": "2026-06-25T15:14:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin tumbles to new multi-year low of $58,000, but a short-squeeze setup emerges",
+      "link": "https://www.coindesk.com/markets/2026/06/25/bitcoin-plunges-to-new-multi-year-low-of-usd58-000-but-a-short-squeeze-setup-emerges",
+      "desc": "Derivatives markets signal that betting on further slide in prices is getting overcrowded, setting up for a potential snapback.",
+      "date": "2026-06-25T15:03:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto for Advisors: Bitcoin: planning for inheritance",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-for-advisors-bitcoin-planning-for-inheritance",
+      "desc": "Your bitcoin isn’t just an asset; it’s a future. Ensure your loved ones can access it with a solid inheritance plan for when you're no longer here.",
+      "date": "2026-06-25T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "‘Stablecoin’ Google searches down 54% as supply growth stalls after 2025 boom",
+      "link": "https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom?utm_source=rss&utm_medium=rss",
+      "desc": "The decline in search volumes this month coincides with aggregate stablecoin supply having reversed its 10-month expansion.",
+      "date": "2026-06-25T14:36:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template",
+      "link": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines",
+      "desc": "Bitcoin Magazine Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template DMND mining pool and GoMining mined the first known Bitcoin block using Stratum V2's Job Declaration feature, allowing a miner—not the pool—to select transactions and build its own block template, a milestone for decentralizing transaction control in Bitcoin mining. This post Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-25T14:32:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "SBI Holdings Agrees to Acquire Japanese Crypto Exchange Bitbank in $288.6 Million Deal",
+      "link": "https://bitcoinmagazine.com/news/sbi-holdings-agrees-to-acquire-bitbank",
+      "desc": "Bitcoin Magazine SBI Holdings Agrees to Acquire Japanese Crypto Exchange Bitbank in $288.6 Million Deal SBI Holdings will acquire Japanese crypto exchange Bitbank for 46.7 billion yen ($288.6 million), creating Japan’s largest regulated crypto exchange group. This post SBI Holdings Agrees to Acquire Japanese Crypto Exchange Bitbank in $288.6 Million Deal first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-25T14:22:29.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/406105/sbi-holdings-agrees-to-acquire-japanese-crypto-exchange-bitbank-in-288-6-million-deal?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -244,16 +320,6 @@
       "link": "https://www.coindesk.com/markets/2026/06/25/crypto-relief-rally-fails-to-shake-persistent-bearish-derivatives-signal",
       "desc": "A relief rally tied to recovering U.S. equities lifted BTC and ETH off weekly lows, but bearish derivatives positioning and negative CVD suggest the rebound may be fragile.",
       "date": "2026-06-25T10:53:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "SBI Holdings agrees to acquire Japanese crypto exchange Bitbank in $288.6 million deal",
-      "link": "https://www.theblock.co/post/406105/sbi-holdings-agrees-to-acquire-japanese-crypto-exchange-bitbank-in-288-6-million-deal?utm_source=rss&utm_medium=rss",
-      "desc": "SBI Holdings agreed to acquire Bitbank for $288.6 million, with the transaction expected to close around October 2026.",
-      "date": "2026-06-25T10:52:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -665,16 +731,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Binance co-CEO remains ‘committed’ to securing EU license after exchange withdraws Greece bid",
-      "link": "https://www.theblock.co/post/406009/binance-ceo-remains-committed-securing-eu-license-exchange-withdraws-greece-bid?utm_source=rss&utm_medium=rss",
-      "desc": "The world's largest crypto exchange only has one week to secure a license in legally operate in the European Union.",
-      "date": "2026-06-24T16:12:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
@@ -691,16 +747,6 @@
       "link": "https://thedefiant.io/news/defi/uniswap-no-code-token-auction-continuous-clearing",
       "desc": "Teams can now launch token auctions directly from the Uniswap Web App using Continuous Clearing Auctions, with no code required.",
       "date": "2026-06-24T16:07:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
-      "desc": "In this week's Crypto Long & Short, Nonco’s Caue Teixeira makes the case that regardless of which coin ultimately wins, infrastructure is the prevailing currency in digital assets. Then, using CoinDesk's liquidation feed, Liquibit Capital's Alen Pavlović finds that June's forced selling peaked near $68,000, days before bitcoin actually bottomed.",
-      "date": "2026-06-24T16:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -727,32 +773,6 @@
       "link": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "desc": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services.",
       "date": "2026-06-24T15:49:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
-      "link": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
-      "desc": "SecondFi was hit by three separate attacks exploiting a flaw in its wallet generation software. A further 129 million ADA was secured by the team before attackers could reach it.",
-      "date": "2026-06-24T15:45:42.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/cardano-wallet-secondfi-flaw-16-million-ada-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ex-FCA policy insider explains the ‘great divide’ in the UK’s crypto ambition",
-      "link": "https://www.coindesk.com/policy/2026/06/24/ex-fca-policy-insider-explains-the-great-divide-in-the-uk-s-crypto-ambition",
-      "desc": "Former FCA policymaker and Hedera Global Policy VP, Isadora Arredondo says there is a gap between the U.K.'s crypto ambitions and how policy is carried out in practice.",
-      "date": "2026-06-24T15:23:07.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -807,12 +827,12 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "BlackRock Tells Investors to Put Bitcoin in Their Portfolios",
-      "link": "https://bitcoinmagazine.com/news/blackrock-tells-investors-to-put-bitcoin",
-      "desc": "Bitcoin Magazine BlackRock Tells Investors to Put Bitcoin in Their Portfolios BlackRock, the world's largest asset manager, recommends a 1–2% Bitcoin allocation in diversified portfolios, arguing it can enhance returns while maintaining manageable risk. This post BlackRock Tells Investors to Put Bitcoin in Their Portfolios first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-24T13:31:22.000Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "SecondFi traces Cardano wallet exploit to address-level issue",
+      "link": "https://cointelegraph.com/news/cardano-wallet-secondfi-flaw-16-million-ada-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Cardano wallet SecondFi traced the incident to an address-level issue and secured 129 million ADA after attackers drained funds from 374 addresses.",
+      "date": "2026-06-24T12:38:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -863,16 +883,6 @@
       "link": "https://www.finextra.com/videoarticle/3532/how-to-win-as-a-fintech-firm-when-everyone-has-a-digital-solution?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "At EBAday 2026 in Copenhagen, Roisin Levine, Head of UK and Europe Partnerships, Wise Platform joined FinextraTV to provide insights into how fintech firms have impacted the FX markets over the last 5 years. Levine described a shift towards instant payments and a need for fee transparency, brought on by the change created by fintechs like Wise. Levine also discussed the nuanced opportunity for fintech firms to differentiate themselves, at a time when offering digital solutions are far easier and when digitisation has created equal opportunity to innovate. She said that the key point of difference now will be the way in which companies are able to provide a seamless frontend experience for customers, powered by a reliable and agile backend.",
       "date": "2026-06-24T11:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Aave positioned to capture tokenized asset growth in DeFi: Standard Chartered",
-      "link": "https://cointelegraph.com/news/standard-chartered-aave-tokenized-assets-defi-lending?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Standard Chartered said tokenized assets moving into DeFi could drive deposits into Aave and help the protocol rebuild its position as a dominant onchain lending platform.",
-      "date": "2026-06-24T11:21:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -973,32 +983,6 @@
       "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-cuts-20-percent-staff-reorganization",
       "desc": "The Ethereum Foundation has eliminated 54 positions, about 20% of its workforce, as part of a restructuring tied to its updated spending mandate. Vitalik Buterin announced a 40% annual budget cut targeting a reduction in treasury spend from 15% to 5% by 2030. Arkham Intelligence places EF's ETH",
       "date": "2026-06-23T19:57:36.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/blockchains/ethereum-foundation-cuts-20-of-staff-in-sweeping-reorganization"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Congress Schedules CLARITY Act Hearing for July 17 in New York",
-      "link": "https://bitcoinmagazine.com/news/congress-schedules-clarity-act-hearing",
-      "desc": "Bitcoin Magazine Congress Schedules CLARITY Act Hearing for July 17 in New York Congress has scheduled a July 17 hearing in New York on the CLARITY Act as momentum builds for the crypto market structure bill. This post Congress Schedules CLARITY Act Hearing for July 17 in New York first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-23T18:55:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Craig Raw Built One of Bitcoin’s Best Wallets for Free. Apple Might Kill It by June 30.",
-      "link": "https://bitcoinmagazine.com/news/craig-raw-apple-might-kill-it-by-june-30",
-      "desc": "Bitcoin Magazine Craig Raw Built One of Bitcoin’s Best Wallets for Free. Apple Might Kill It by June 30. Apple may terminate Sparrow Wallet creator Craig Raw's developer account on June 30 after he submitted a warning app to combat fake Sparrow Wallet scams. This post Craig Raw Built One of Bitcoin’s Best Wallets for Free. Apple Might Kill It by June 30. first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-23T18:12:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
