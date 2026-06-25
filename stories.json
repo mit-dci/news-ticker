@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-25T19:16:29.883Z",
+  "generatedAt": "2026-06-25T20:15:02.422Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 255,
+  "filteredOut": 257,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "decrypt",
@@ -23,7 +23,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-25T19:16:29.778Z",
+      "date": "2026-06-25T20:15:02.002Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-25T19:16:29.778Z",
+      "date": "2026-06-25T20:15:02.002Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-25T19:16:29.778Z",
+      "date": "2026-06-25T20:15:02.002Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +53,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-25T19:16:29.778Z",
+      "date": "2026-06-25T20:15:02.002Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,8 +63,94 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-25T19:16:29.778Z",
+      "date": "2026-06-25T20:15:02.002Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
+      "link": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss",
+      "desc": "The fund will invest primarily in U.S. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value.",
+      "date": "2026-06-25T20:11:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
+      "link": "https://cointelegraph.com/news/bitcoin-options-traders-hedge-downside-as-uncertainty-lingers-anchorage-says?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Anchorage Digital’s latest analysis shows Bitcoin options traders remain defensive as near-term uncertainty persists, though markets are not pricing an extreme downside scenario for Strategy.",
+      "date": "2026-06-25T20:10:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin may fall lower but BTC power-law frames crash to $58K as ‘normal’",
+      "link": "https://cointelegraph.com/markets/key-bitcoin-price-levels-after-btc-power-law-says-58k-is-normal?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Bitcoin’s drop to $58,000 lines up with the power-law model’s cycle lows, even though futures market data points to deeper lows for BTC price.",
+      "date": "2026-06-25T19:51:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Invesco Files for Tokenized Stablecoin-Reserve Money Market Fund Built on Superstate Rails",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/invesco-files-for-tokenized-stablecoin-reserve-money-market-fund-built-on-superstate-rails",
+      "desc": "US asset manager files for a GENIUS Act reserve money market fund whose shares are recorded directly on public blockchains, with Superstate as sub-transfer agent",
+      "date": "2026-06-25T19:50:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-25T19:32:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Trezor Academy Releases Documentary on Africa’s Bitcoin Economy, Opens Education Donations",
+      "link": "https://bitcoinmagazine.com/news/trezor-academy-releases-documentary",
+      "desc": "Bitcoin Magazine Trezor Academy Releases Documentary on Africa’s Bitcoin Economy, Opens Education Donations Trezor Academy released a documentary highlighting Bitcoin adoption across Africa and launched a donation program to fund Bitcoin education initiatives in the Global South. This post Trezor Academy Releases Documentary on Africa’s Bitcoin Economy, Opens Education Donations first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-25T19:28:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue",
+      "link": "https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue",
+      "desc": "Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.",
+      "date": "2026-06-25T19:19:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Half of UK wealth advisers say clients' crypto is ‘invisible’ to them: CoinShares survey",
+      "link": "https://cointelegraph.com/news/uk-wealth-advisors-clients-crypto-invisible-survey?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "desc": "A CoinShares survey found than many EU-based wealth management companies had policies that restricted investments in digital assets or provided no guidance on the matter.",
+      "date": "2026-06-25T19:18:03.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/406099/half-of-uk-wealth-advisors-say-most-clients-crypto-sits-outside-their-oversight-as-61-of-european-peers-face-firm-restrictions-coinshares?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -291,6 +377,11 @@
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/post/406105/sbi-holdings-agrees-to-acquire-japanese-crypto-exchange-bitbank-in-288-6-million-deal?utm_source=rss&utm_medium=rss"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/372117/sbi-holdings-289-million-bitbank-deal-japan-largest-crypto-exchange"
         }
       ],
       "termBoost": 0
@@ -312,16 +403,6 @@
       "link": "https://www.theblock.co/post/406159/four-arrested-poland-sim-swap-attacks-crypto-exchanges-zachxbt-social-engineering-threat-merry?utm_source=rss&utm_medium=rss",
       "desc": "ZachXBT alleges threat actor 'Merry' is among those detained by Polish authorities in a crypto SIM swap and money laundering investigation.",
       "date": "2026-06-25T13:27:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-25T13:19:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -462,16 +543,6 @@
       "link": "https://www.coindesk.com/markets/2026/06/25/bitcoin-supply-in-loss-reaches-record-high-10-83-million-btc",
       "desc": "Almost 11 million bitcoin are now held at a loss, while long-term holders control a record 14.8 million coins.",
       "date": "2026-06-25T10:28:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Half of UK wealth advisors say most clients’ crypto sits outside their oversight as 61% of European peers face firm restrictions: CoinShares",
-      "link": "https://www.theblock.co/post/406099/half-of-uk-wealth-advisors-say-most-clients-crypto-sits-outside-their-oversight-as-61-of-european-peers-face-firm-restrictions-coinshares?utm_source=rss&utm_medium=rss",
-      "desc": "CoinShares survey found 52% of UK advisors report most clients' crypto exposure sits outside their oversight, with firm policy a key driver.",
-      "date": "2026-06-25T10:14:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -712,32 +783,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed ‘skinny accounts’ for crypto and fintech firms",
-      "link": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss",
-      "desc": "As the Fed considers granting firms access to \"skinny\" accounts, lawmakers debated how much access those companies should have.",
-      "date": "2026-06-24T19:30:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Leaked Code Suggests Anthropic Is Preparing to Bring Fable 5 Back",
       "link": "https://decrypt.co/372004/leaked-code-anthropic-preparing-fable-5-subscription",
       "desc": "A leaker found new strings inside Claude Code that hint at weekly Fable 5 usage built into subscription plans, not sold separately as before.",
       "date": "2026-06-24T19:25:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "The 2036 Issue: Here Come The Sovereigns",
-      "link": "https://bitcoinmagazine.com/print/the-2036-issue-here-come-the-sovereigns",
-      "desc": "Bitcoin Magazine The 2036 Issue: Here Come The Sovereigns From The 2036 Issue: A look at coming impact of sovereign nations on Bitcoin mining, by Jacob Langenkamp, Fellow at BPI. This post The 2036 Issue: Here Come The Sovereigns first appeared on Bitcoin Magazine and is written by Jacob Langenkamp.",
-      "date": "2026-06-24T17:55:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -758,18 +809,17 @@
       "link": "https://thedefiant.io/news/regulation/binance-withdraws-greece-mica-application-targets-new-eu-jurisdiction",
       "desc": "Binance has confirmed it is withdrawing its MiCA license application in Greece and will seek authorization in a different EU member state, with the July 1 wind-down deadline for unlicensed crypto firms days away. The target jurisdiction remains undisclosed.",
       "date": "2026-06-24T17:45:33.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371990/binance-withdraws-mica-license-application-greece-eu-users-limbo"
-        }
-      ],
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Binance Withdraws MiCA License Application in Greece, Leaving EU Users in Limbo",
+      "link": "https://decrypt.co/371990/binance-withdraws-mica-license-application-greece-eu-users-limbo",
+      "desc": "Crypto exchange Binance formally withdrew its MiCA license application in Greece, one week after a report said it would be denied.",
+      "date": "2026-06-24T17:37:52.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -793,16 +843,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
-      "link": "https://cointelegraph.com/markets/bitcoin-daily-close-points-to-the-next-demand-zone-as-530m-in-buy-bids-emerge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "A $525 million Bitcoin buy wall intersects with a major liquidation zone, creating a key battleground between $60,500 and $65,000.",
-      "date": "2026-06-24T16:21:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
@@ -819,32 +859,6 @@
       "link": "https://thedefiant.io/news/defi/uniswap-no-code-token-auction-continuous-clearing",
       "desc": "Teams can now launch token auctions directly from the Uniswap Web App using Continuous Clearing Auctions, with no code required.",
       "date": "2026-06-24T16:07:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Law Enforcement, Catholic Groups Send Letters to U.S. Government Warning CLARITY Act Would Create Crypto Crime Loopholes",
-      "link": "https://bitcoinmagazine.com/news/law-enforcement-catholic-group-clarity-act",
-      "desc": "Bitcoin Magazine Law Enforcement, Catholic Groups Send Letters to U.S. Government Warning CLARITY Act Would Create Crypto Crime Loopholes Law enforcement groups and Catholic leaders warned that the CLARITY Act’s Section 604 could create regulatory and AML loopholes by exempting certain crypto developers and infrastructure providers from money transmitter rules. This post Law Enforcement, Catholic Groups Send Letters to U.S. Government Warning CLARITY Act Would Create Crypto Crime Loopholes first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-24T15:59:07.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/371923/crypto-clarity-act-new-enemy-catholic-leaders"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Credit unions managing $25B in assets join stablecoin infrastructure program",
-      "link": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "desc": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services.",
-      "date": "2026-06-24T15:49:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -975,36 +989,6 @@
       "link": "https://thedefiant.io/news/defi/warwick-personal-blame-susd-mismanagement-basis-vault-replacement",
       "desc": "Synthetix founder Kain Warwick published a detailed thread this morning acknowledging that sUSD has been depegged for over a year, taking personal responsibility for treasury mismanagement, and outlining a basis-vault-backed replacement stablecoin to run on the protocol's new v4 exchange.",
       "date": "2026-06-23T20:40:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Mark Zuckerberg Wants a Prediction Market Too: NYT",
-      "link": "https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market",
-      "desc": "The initiative follows bets on stablecoins and the metaverse.",
-      "date": "2026-06-23T20:13:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "ENS DAO Delegates Call Foundation Proposal a Governance Attack as Johnson Self-Delegates",
-      "link": "https://thedefiant.io/news/defi/ens-dao-delegates-governance-attack-johnson-self-delegates",
-      "desc": "Multiple named delegates escalated opposition to the ENS Foundation empowerment temp check Monday, with Security Council member Brantly Millegan threatening a veto and ENS Labs founder Nick Johnson having self-delegated enough tokens to pass the proposal over their objections.",
-      "date": "2026-06-23T20:00:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ethereum Foundation Cuts 20% of Staff in Sweeping Reorganization",
-      "link": "https://thedefiant.io/news/blockchains/ethereum-foundation-cuts-20-percent-staff-reorganization",
-      "desc": "The Ethereum Foundation has eliminated 54 positions, about 20% of its workforce, as part of a restructuring tied to its updated spending mandate. Vitalik Buterin announced a 40% annual budget cut targeting a reduction in treasury spend from 15% to 5% by 2030. Arkham Intelligence places EF's ETH",
-      "date": "2026-06-23T19:57:36.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
