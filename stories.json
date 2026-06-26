@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-26T15:48:53.425Z",
+  "generatedAt": "2026-06-26T16:42:04.503Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 260,
+  "filteredOut": 259,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "bitcoinops",
@@ -19,20 +19,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-26T15:48:53.413Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-26T15:48:53.412Z",
+      "date": "2026-06-26T16:42:04.491Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +32,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-26T15:48:53.412Z",
+      "date": "2026-06-26T16:42:04.491Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,7 +42,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-26T15:48:53.412Z",
+      "date": "2026-06-26T16:42:04.491Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -62,7 +52,77 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-26T15:48:53.412Z",
+      "date": "2026-06-26T16:42:04.491Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-26T16:42:04.491Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Crypto Biz: The cost of stacking sats",
+      "link": "https://cointelegraph.com/news/cryptoquant-strategy-bitcoin-cboe-perpetual-futures-chainlink-stablecoin-fx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "CryptoQuant urged Strategy to pause Bitcoin buying as dividend coverage shrank. Meanwhile, CBOE eyes crypto perpetual futures and Chainlink joins a stablecoin FX project.",
+      "date": "2026-06-26T16:23:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Sophon Shuts Down Its zkSync Chain and Rebuilds as a Consumer App Studio on Base",
+      "link": "https://thedefiant.io/news/blockchains/sophon-shuts-down-zksync-chain-rebuilds-consumer-app-studio-base",
+      "desc": "Sophon is decommissioning its zkSync-based Layer 2 chain and pivoting to Soph+, a consumer product studio building exclusively on Base. The shutdown caps a chain that raised $60 million through node sales but attracted fewer than 200 daily users and generated roughly $30 in daily fees.",
+      "date": "2026-06-26T16:18:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "US senators push to end CFTC ‘assault’ on state oversight of prediction markets",
+      "link": "https://cointelegraph.com/news/us-senators-cftc-assault-state-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A group of 17 Democratic senators went after the CFTC’s funding for lawsuits over prediction markets, calling it an “assault” on state authorities.",
+      "date": "2026-06-26T16:10:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion",
+      "link": "https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss",
+      "desc": "The company said its prediction markets vertical has generated approximately $3.4 billion in annualized consumer volume.",
+      "date": "2026-06-26T16:05:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Base Resumes Block Production After Roughly Two-Hour Mainnet Halt",
+      "link": "https://thedefiant.io/news/blockchains/base-resumes-block-production-two-hour-mainnet-halt",
+      "desc": "Coinbase-incubated Layer 2 Base stalled block production for about two hours Thursday after an invalid block triggered a consensus fault, before the network recovered. The outage renewed scrutiny of single-sequencer risk on major rollups.",
+      "date": "2026-06-26T16:04:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Why Wall Street's Biggest Traders Are Abandoning Crypto for Prediction Markets | Alex Momot",
+      "link": "https://thedefiant.io/podcasts-and-videos/podcast/why-wall-street-s-biggest-traders-are-abandoning-crypto-for-prediction-markets-or-alex-momot",
+      "desc": "Prediction markets are entering a new phase — and the biggest market makers in the world are taking notice. Alex Momot, Co-founder of Peanut Trade, joins Camila Russo to break down the mechanics, the opportunity, and the risks behind this fast-moving space.",
+      "date": "2026-06-26T15:50:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -688,13 +748,7 @@
       "link": "https://thedefiant.io/news/defi/spark-uniswap-sky-150m-usds-uniswap-v4-stablecoin-fx-layer",
       "desc": "Spark, Uniswap, and Sky are launching shared stablecoin liquidity infrastructure, beginning with a $150 million USDS migration to Uniswap v4 pools designed to serve a multi-issuer stablecoin economy.",
       "date": "2026-06-25T15:52:02.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/spark-deploys-150m-stablecoin-liquidity-uniswap-v4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -819,26 +873,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Binance faces EU service limits next week as MiCA rules take effect",
-      "link": "https://cointelegraph.com/news/binance-eu-service-limits-july-1-mica-effect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Binance will limit EU onboarding and services from July 1 under MiCA rules after failing to gain authorization from a member state, while withdrawals remain available for users.",
-      "date": "2026-06-25T12:21:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Circle, Nomura eye Japan corporate FX with stablecoin settlement: Report",
-      "link": "https://cointelegraph.com/news/circle-nomura-partner-instant-fx-settlement-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Circle and Nomura are reportedly partnering to enable stablecoin-based foreign exchange settlement for Japanese companies as the country's regulated blockchain-based financial infrastructure expands.",
-      "date": "2026-06-25T11:42:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Bitcoin Slips Under $60,000 as Tech Rout, Hawkish Fed Hit Crypto",
@@ -945,26 +979,6 @@
       "link": "https://decrypt.co/371985/bitcoin-hasnt-broken-4-year-cycle-yet-21shares",
       "desc": "As Bitcoin falls below the $60,000 mark, 21Shares said that its prediction that BTC breaks the historical four-year cycle hasn't come true.",
       "date": "2026-06-24T16:59:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
-      "link": "https://decrypt.co/371970/south-korean-officials-meet-us-sec-unified-crypto-rules-scandals",
-      "desc": "Following a series of setbacks for South Korea, a delegation from one of Asia's most active crypto markets met with the SEC's task force.",
-      "date": "2026-06-24T16:11:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Uniswap Adds No-Code Token Auction Tool to Its Web App",
-      "link": "https://thedefiant.io/news/defi/uniswap-no-code-token-auction-continuous-clearing",
-      "desc": "Teams can now launch token auctions directly from the Uniswap Web App using Continuous Clearing Auctions, with no code required.",
-      "date": "2026-06-24T16:07:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
