@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T13:42:09.472Z",
+  "generatedAt": "2026-06-26T14:55:48.544Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 263,
@@ -13,6 +13,76 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/06/26/",
       "desc": "This week’s newsletter describes the responsible disclosure of a denial-of-service vulnerability that affected older versions of LND. Also included are our regular sections with selected questions and answers from the Bitcoin Stack Exchange, announcements of new releases and release candidates, and descriptions of notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-06-26T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-26T14:55:48.529Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-26T14:55:48.529Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-06-26T14:55:48.528Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-06-26T14:55:48.528Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-26T14:55:48.528Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "‘I See Volatility as Opportunity’: Bitcoin Tests Critical Support as Key Level Hangs in the Balance",
+      "link": "https://bitcoinmagazine.com/news/i-see-volatility-as-opportunity-bitcoin",
+      "desc": "Bitcoin Magazine ‘I See Volatility as Opportunity’: Bitcoin Tests Critical Support as Key Level Hangs in the Balance Bitcoin is testing the critical $58,000–$60,000 support zone for a third time, with a break below could trigger a deeper decline. This post ‘I See Volatility as Opportunity’: Bitcoin Tests Critical Support as Key Level Hangs in the Balance first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-26T14:15:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-06-26T14:06:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,52 +103,12 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-26T13:42:09.460Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-26T13:42:09.460Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-26T13:42:09.460Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-26T13:42:09.460Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-26T13:42:09.459Z",
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Tests $59K as ETFs Shed $692M, Options Expiry Looms",
+      "link": "https://decrypt.co/372180/bitcoin-tests-59k-as-etfs-shed-692m-options-expiry-looms",
+      "desc": "Bitcoin fell to around $59,400 as $691 million fled spot ETFs, the most since May, ahead of Friday's $10.6 billion options expiry.",
+      "date": "2026-06-26T13:43:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -286,16 +316,6 @@
       "link": "https://www.theblock.co/learn/406286/what-is-the-genius-act?utm_source=rss&utm_medium=rss",
       "desc": "The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem them, and which regulators supervise the issuers. It is the first […]",
       "date": "2026-06-26T06:19:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-26T06:04:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -789,16 +809,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Iran-linked entities moved $3.8B through CoinEx, TRM says",
-      "link": "https://cointelegraph.com/news/iran-entities-moved-38-billion-coinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "TRM Labs traced $3.8 billion moved by 60 sanctioned Iranian entities through CoinEx and said that the exchange’s 8% share of illicit transactions was substantially higher than its counterparts.",
-      "date": "2026-06-25T09:44:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Bitcoin Slips Under $60,000 as Tech Rout, Hawkish Fed Hit Crypto",
@@ -925,16 +935,6 @@
       "link": "https://thedefiant.io/news/defi/uniswap-no-code-token-auction-continuous-clearing",
       "desc": "Teams can now launch token auctions directly from the Uniswap Web App using Continuous Clearing Auctions, with no code required.",
       "date": "2026-06-24T16:07:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Strategy Shares Crash Below $100 as Bitcoin Sinks Towards $60K",
-      "link": "https://decrypt.co/371965/strategy-shares-crash-below-100-bitcoin-sinks-toward-60k",
-      "desc": "Bitcoin fell to a two-week low price Wednesday as Strategy shares dove below the $100 mark for the first time since March 2024.",
-      "date": "2026-06-24T14:31:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
