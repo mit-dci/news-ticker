@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T13:38:24.689Z",
+  "generatedAt": "2026-06-27T14:33:34.320Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 259,
@@ -12,7 +12,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-27T13:38:24.605Z",
+      "date": "2026-06-27T14:33:33.899Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-27T13:38:24.605Z",
+      "date": "2026-06-27T14:33:33.899Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +32,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-27T13:38:24.605Z",
+      "date": "2026-06-27T14:33:33.899Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +42,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-27T13:38:24.605Z",
+      "date": "2026-06-27T14:33:33.899Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,7 +52,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-27T13:38:24.605Z",
+      "date": "2026-06-27T14:33:33.899Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
+      "link": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
+      "desc": "The prediction markets giant is under investigation in connection with false or deceptive marketing practices, according to news reports.",
+      "date": "2026-06-27T14:13:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -469,7 +479,13 @@
       "link": "https://thedefiant.io/news/blockchains/base-resumes-block-production-two-hour-mainnet-halt",
       "desc": "Coinbase-incubated Layer 2 Base stalled block production for about two hours Thursday after an invalid block triggered a consensus fault, before the network recovered. The outage renewed scrutiny of single-sequencer risk on major rollups.",
       "date": "2026-06-26T16:04:47.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -519,13 +535,7 @@
       "link": "https://www.finextra.com/newsarticle/48000/binance-to-stop-serving-eu-customers-after-failing-to-secure-mica-license?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Crypto giant Binance has told customers in the EU that it will stop providing them with services from 1 July after it failed to secure a license under the bloc’s Markets in Crypto-Assets Regulation.",
       "date": "2026-06-26T13:56:00.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -626,6 +636,22 @@
       "desc": "BTC touched its lowest level since September 2024 before rebounding to $59,770, while ETH slipped further and another $1 billion in futures positions were wiped out.",
       "date": "2026-06-26T11:03:20.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
+      "link": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
+      "desc": "A day after withdrawing its MiCA license application in Greece and saying it is ‘not leaving Europe,’ Binance notified users across the European Union that it will suspend some services.",
+      "date": "2026-06-26T10:19:22.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/06/27/coinbase-and-okx-try-to-lure-in-binance-s-450m-eu-users-after-failing-to-secure-a-mica-license"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -752,22 +778,6 @@
       "desc": "Pension funds are among the world’s largest institutional investors, and in recent years they have started investing in crypto. Pension funds typically invest in crypto through regulated vehicles such as spot bitcoin ETFs, digital asset investment funds, and crypto-related public companies. Because pension funds manage retirement assets and have strict fiduciary responsibilities, they typically use […]",
       "date": "2026-06-26T05:41:52.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Coinbase's Base resumes block production after 2-hour outage",
-      "link": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Coinbase's blockchain Base says a consensus problem knocked its network offline for around two hours on Thursday before it returned online.",
-      "date": "2026-06-26T05:10:44.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -969,16 +979,6 @@
       "link": "https://bitcoinmagazine.com/news/bitplanet-signs-agreement-with-antalpha",
       "desc": "Bitcoin Magazine Bitplanet Signs Agreement with Antalpha to Launch Bitcoin Mining Operations Bitplanet signed an MOU with Antalpha to enter the Bitcoin mining space. This post Bitplanet Signs Agreement with Antalpha to Launch Bitcoin Mining Operations first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-25T15:39:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template",
-      "link": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines",
-      "desc": "Bitcoin Magazine Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template DMND mining pool and GoMining mined the first known Bitcoin block using Stratum V2's Job Declaration feature, allowing a miner—not the pool—to select transactions and build its own block template, a milestone for decentralizing transaction control in Bitcoin mining. This post Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-25T14:32:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
