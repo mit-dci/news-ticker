@@ -1,48 +1,18 @@
 {
-  "generatedAt": "2026-06-27T14:33:34.320Z",
+  "generatedAt": "2026-06-27T15:28:49.368Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 259,
+  "filteredOut": 257,
   "errors": [],
   "dupsMerged": 6,
   "items": [
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-27T14:33:33.899Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-27T14:33:33.899Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-27T14:33:33.899Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-27T14:33:33.899Z",
+      "date": "2026-06-27T15:28:49.011Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,7 +22,67 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-27T14:33:33.899Z",
+      "date": "2026-06-27T15:28:49.011Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-06-27T15:28:49.010Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-06-27T15:28:49.010Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-27T15:28:49.010Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
+      "link": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
+      "desc": "The stablecoin issuer is extending its tokenized gold strategy by allowing holders of XAUT to borrow against their bullion, mirroring bitcoin-backed lending without selling the underlying asset.",
+      "date": "2026-06-27T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Aave Confirms Aavenomics 3.0 Is Live With Buybacks and DAO Spending Cut",
+      "link": "https://thedefiant.io/news/defi/aave-confirms-aavenomics-3-0-live-buybacks-dao-spending-cut",
+      "desc": "Aave confirmed Saturday that Aavenomics 3.0 is now active, with automated AAVE token buybacks running and DAO operational spending reduced, completing a governance roadmap the protocol has built toward since mid-2024.",
+      "date": "2026-06-27T14:57:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Strategy's Enterprise mNAV Drops Below 1 for the First Time",
+      "link": "https://thedefiant.io/news/markets/strategy-enterprise-mnav-drops-below-1-first-time",
+      "desc": "Strategy's enterprise market-to-NAV ratio crossed below 1 on Thursday for the first time, putting the combined weight of its debt, preferred stock, and equity above the value of its 847,363-bitcoin treasury and closing the equity-accretion channel that powered its buying spree.",
+      "date": "2026-06-27T14:57:36.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -379,7 +409,13 @@
       "link": "https://bitcoinmagazine.com/news/billionaire-jeremy-grantham-bitcoin",
       "desc": "Bitcoin Magazine Billionaire Investor Jeremy Grantham: Bitcoin Will ‘Dwindle Away With a Whimper’ Jeremy Grantham doubled down on his long-standing Bitcoin skepticism, predicting the cryptocurrency will \"dwindle away with a whimper.\" This post Billionaire Investor Jeremy Grantham: Bitcoin Will ‘Dwindle Away With a Whimper’ first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-26T17:57:49.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/372205/billionaire-jeremy-grantham-dismisses-bitcoin-crypto"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -903,13 +939,7 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/invesco-files-for-tokenized-stablecoin-reserve-money-market-fund-built-on-superstate-rails",
       "desc": "US asset manager files for a GENIUS Act reserve money market fund whose shares are recorded directly on public blockchains, with Superstate as sub-transfer agent",
       "date": "2026-06-25T19:50:00.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -959,16 +989,6 @@
       "link": "https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban",
       "desc": "Bitcoin Magazine Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban Senior developers including Andrew Poelstra highlighted broken merge scripts, hidden diffs, and unreliable tracking, pushing Bitcoin projects toward self-hosted Forgejo solutions. This post Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban first appeared on Bitcoin Magazine and is written by Juan Galt.",
       "date": "2026-06-25T17:54:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Spark, Uniswap, and Sky Launch $150M Liquidity Migration to Build Shared Stablecoin FX Layer",
-      "link": "https://thedefiant.io/news/defi/spark-uniswap-sky-150m-usds-uniswap-v4-stablecoin-fx-layer",
-      "desc": "Spark, Uniswap, and Sky are launching shared stablecoin liquidity infrastructure, beginning with a $150 million USDS migration to Uniswap v4 pools designed to serve a multi-issuer stablecoin economy.",
-      "date": "2026-06-25T15:52:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
