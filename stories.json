@@ -1,18 +1,28 @@
 {
-  "generatedAt": "2026-06-28T14:35:42.604Z",
+  "generatedAt": "2026-06-28T15:29:23.954Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 291,
+  "filteredOut": 292,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 2,
   "items": [
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-28T15:29:23.913Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-28T14:35:41.756Z",
+      "date": "2026-06-28T15:29:23.912Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +32,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-28T14:35:41.756Z",
+      "date": "2026-06-28T15:29:23.912Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +42,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-28T14:35:41.756Z",
+      "date": "2026-06-28T15:29:23.912Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,17 +52,37 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-28T14:35:41.756Z",
+      "date": "2026-06-28T15:29:23.912Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-28T14:35:41.756Z",
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Samson Mow says bitcoin bottom is in despite skepticism from analysts",
+      "link": "https://www.coindesk.com/markets/2026/06/28/samson-mow-says-bitcoin-bottom-is-in-but-analysts-remain-divided",
+      "desc": "The bitcoin advocate said his crypto bottom claim is based on the fact that the traditional four-year halving cycle has changed, although several analysts continue to expect further downside.",
+      "date": "2026-06-28T15:07:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Michael Saylor teases more bitcoin buying even as Strategy stock continues to fall",
+      "link": "https://www.coindesk.com/markets/2026/06/28/michael-saylor-teases-more-bitcoin-buying-even-as-strategy-stock-continues-to-fall",
+      "desc": "The crypto bull shrugged off market skepticism by sharing a chart of the company's $50 billion stash and teasing that they are going to need more data points.",
+      "date": "2026-06-28T15:02:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners",
+      "link": "https://www.coindesk.com/business/2026/06/28/sbi-s-usd289-million-bitbank-deal-is-symptomatic-of-japan-s-crypto-consolidation-architect-partners",
+      "desc": "The investment bank said the purchase of Japanese crypto exchange Bitbank is a bet on regulated scale as sweeping reforms reshape the country's digital asset market.",
+      "date": "2026-06-28T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -289,13 +319,7 @@
       "link": "https://cointelegraph.com/news/securitize-expects-to-raise-400m-ahead-of-public-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Securitize says less than 30% of shareholders in the acquisition firm taking it public elected to redeem, giving it an expected $400 million on its upcoming debut.",
       "date": "2026-06-27T05:35:27.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/06/26/securitize-expects-to-raise-usd400-million-as-tokenization-firm-nears-public-debut"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -641,36 +665,6 @@
       "link": "https://thedefiant.io/news/blockchains/base-resumes-block-production-two-hour-mainnet-halt",
       "desc": "Coinbase-incubated Layer 2 Base stalled block production for about two hours Thursday after an invalid block triggered a consensus fault, before the network recovered. The outage renewed scrutiny of single-sequencer risk on major rollups.",
       "date": "2026-06-26T16:04:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance Tells EU Users It Will Wind Down Services as MiCA Deadline Hits",
-      "link": "https://thedefiant.io/news/regulation/binance-tells-eu-users-wind-down-services-mica-deadline",
-      "desc": "Binance has begun notifying European Union customers it will restrict services after withdrawing its Greek MiCA application, realizing the EU-exit risk that surfaced earlier this month as the bloc's July 1 enforcement deadline nears.",
-      "date": "2026-06-26T15:17:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tether's USDT Closes In on Ether for No. 2 Crypto Spot by Market Cap",
-      "link": "https://thedefiant.io/news/markets/tether-usdt-closes-in-ether-no-2-crypto-market-cap",
-      "desc": "USDT has drawn level with ether for the second-largest cryptocurrency by market cap, briefly overtaking it earlier in June. Rising stablecoin issuance is meeting a falling ether price.",
-      "date": "2026-06-26T15:07:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Spain says ‘no exceptions or extensions’ for Binance, other crypto firms ahead of MiCA deadline",
-      "link": "https://www.theblock.co/post/406362/spain-says-no-exceptions-extensions-binance-other-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss",
-      "desc": "Industry leaders remain divided over MiCA, with some praising the framework while others warn it could limit customer access to liquidity.",
-      "date": "2026-06-26T15:01:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
