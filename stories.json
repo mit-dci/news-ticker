@@ -1,38 +1,18 @@
 {
-  "generatedAt": "2026-06-28T05:01:24.870Z",
+  "generatedAt": "2026-06-28T06:48:47.369Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 268,
+  "filteredOut": 272,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 4,
   "items": [
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-28T05:01:24.832Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-28T05:01:24.832Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-28T05:01:24.831Z",
+      "date": "2026-06-28T06:48:46.737Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +22,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-28T05:01:24.831Z",
+      "date": "2026-06-28T06:48:46.737Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,7 +32,37 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-28T05:01:24.831Z",
+      "date": "2026-06-28T06:48:46.737Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-28T06:48:46.737Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-28T06:48:46.737Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
+      "link": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A “race condition” after the system was reset prevented the sequencers from catching up, causing the second outage.",
+      "date": "2026-06-28T05:14:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -601,13 +611,7 @@
       "link": "https://thedefiant.io/news/blockchains/base-resumes-block-production-two-hour-mainnet-halt",
       "desc": "Coinbase-incubated Layer 2 Base stalled block production for about two hours Thursday after an invalid block triggered a consensus fault, before the network recovered. The outage renewed scrutiny of single-sequencer risk on major rollups.",
       "date": "2026-06-26T16:04:47.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/coinbases-blockchain-base-back-online-after-2-hour-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -853,46 +857,6 @@
       "link": "https://www.theblock.co/learn/406283/why-public-companies-hold-bitcoin?utm_source=rss&utm_medium=rss",
       "desc": "Public companies hold bitcoin because they view it as a scarce, dollar-denominated reserve asset that can diversify treasury holdings, preserve purchasing power against inflation, attract investors, and provide exposure to the digital asset economy. The model was pioneered by Strategy (formerly MicroStrategy) and has since been adopted by Tesla, Block, Metaplanet, and a range of […]",
       "date": "2026-06-26T07:02:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Too big to fail: Strategy’s $13 billion bitcoin paper loss alone dwarfs hundreds of prominent tokens",
-      "link": "https://www.coindesk.com/markets/2026/06/26/too-big-to-fail-strategy-s-usd13-billion-bitcoin-paper-loss-alone-dwarfs-hundreds-of-prominent-tokens",
-      "desc": "Strategy’s paper loss exceeds the market caps of hundreds of tokens, highlighting the extreme concentration of risk in the crypto market right now.",
-      "date": "2026-06-26T06:37:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "What Is the GENIUS Act? A Guide to U.S. Stablecoin Law",
-      "link": "https://www.theblock.co/learn/406286/what-is-the-genius-act?utm_source=rss&utm_medium=rss",
-      "desc": "The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem them, and which regulators supervise the issuers. It is the first […]",
-      "date": "2026-06-26T06:19:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Tether stablecoin flips Ether by market cap as ETH routs to $1.5K",
-      "link": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ether prices are currently back at crucial long-term support levels last visited in October 2023 and April 2025.",
-      "date": "2026-06-26T06:02:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "How Pension Funds Invest in Crypto",
-      "link": "https://www.theblock.co/learn/406288/how-pension-funds-invest-in-crypto?utm_source=rss&utm_medium=rss",
-      "desc": "Pension funds are among the world’s largest institutional investors, and in recent years they have started investing in crypto. Pension funds typically invest in crypto through regulated vehicles such as spot bitcoin ETFs, digital asset investment funds, and crypto-related public companies. Because pension funds manage retirement assets and have strict fiduciary responsibilities, they typically use […]",
-      "date": "2026-06-26T05:41:52.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
