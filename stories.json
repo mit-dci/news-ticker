@@ -1,38 +1,18 @@
 {
-  "generatedAt": "2026-06-29T15:46:42.074Z",
+  "generatedAt": "2026-06-29T17:02:18.282Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 282,
+  "filteredOut": 279,
   "errors": [],
   "dupsMerged": 1,
   "items": [
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-29T15:46:41.961Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-29T15:46:41.961Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-29T15:46:41.961Z",
+      "date": "2026-06-29T17:02:17.596Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +22,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-29T15:46:41.961Z",
+      "date": "2026-06-29T17:02:17.596Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,7 +32,87 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-29T15:46:41.960Z",
+      "date": "2026-06-29T17:02:17.595Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-06-29T17:02:17.595Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-29T17:02:17.595Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "BNY and Circle expand partnership, adding mint and burn capabilities for USDC",
+      "link": "https://www.theblock.co/post/406581/bny-circle-expand-partnership-adding-mint-burn-capabilities-usdc?utm_source=rss&utm_medium=rss",
+      "desc": "BNY, the world's largest custodian bank, said it plans to add support for additional stablecoin via its Digital Asset Custody platform.",
+      "date": "2026-06-29T16:58:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "CFTC Expands Polymarket Probe to Staged Trades and Fake Wins",
+      "link": "https://thedefiant.io/news/regulation/cftc-expands-polymarket-probe-staged-trades-fake-wins",
+      "desc": "The Commodity Futures Trading Commission is conducting a broad investigation into Polymarket covering staged trades and fake winning bets, Bloomberg reported Friday, advancing the agency’s scrutiny beyond the platform’s prior influencer scheme.",
+      "date": "2026-06-29T16:56:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "OKX and Coinbase Race to Sign Up Binance's Displaced EU Users Before MiCA Deadline",
+      "link": "https://thedefiant.io/news/cefi/okx-coinbase-race-binance-displaced-eu-users-mica-deadline",
+      "desc": "OKX is offering EEA users deposit bonuses of up to 8% and Coinbase has launched a parallel transfer bonus for subscribers in eight European markets, as both licensed exchanges compete to capture users displaced by Binance's July 1 MiCA wind-down.",
+      "date": "2026-06-29T16:48:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-89c12eb1?mod=rss_markets_main",
+      "desc": "Find insight on Sibanye Stillwater, gold, copper-mining equities and more in the latest Market Talks covering Basic Materials.",
+      "date": "2026-06-29T16:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "BlackRock Adds Ethena's Synthetic Dollar to Its $20T Aladdin Risk Management Platform",
+      "link": "https://thedefiant.io/news/defi/blackrock-adds-ethena-s-synthetic-dollar-to-its-usd20t-aladdin-risk-management-platform",
+      "desc": "The world's largest asset manager will list the USDe synthetic dollar as an approved asset on its institutional risk platform, while its BUIDL fund becomes the primary backing for Ethena's whitelabel stablecoins.",
+      "date": "2026-06-29T16:20:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BNY adds USDC minting and redemption to institutional custody platform",
+      "link": "https://cointelegraph.com/news/bny-adds-usdc-minting-and-redemption-to-institutional-custody-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The move deepens BNY's partnership with Circle and builds on the bank's role as the primary custodian of USDC reserves.",
+      "date": "2026-06-29T16:10:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -139,7 +199,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "MiCA July 1 deadline could leave 10 million crypto users searching for a new platform in the EU",
+      "title": "MiCA's looming deadline could leave 10 million crypto users without a platform in the EU",
       "link": "https://www.coindesk.com/business/2026/06/29/mica-july-1-deadline-could-leave-10-million-crypto-users-searching-for-a-new-platform-in-the-eu",
       "desc": "As MiCA takes full effect on July 1, SwissBorg's Alex Fazel told CoinDesk users should choose platforms built to withstand EU regulators' tightening oversight.",
       "date": "2026-06-29T15:03:53.000Z",
@@ -729,36 +789,6 @@
       "link": "https://thedefiant.io/news/hacks/amlbot-polymarket-phishing-3-1-million-11-wallets-ethereum",
       "desc": "Blockchain intelligence firm AMLBot has confirmed the Polymarket supply-chain attack total at approximately $3.1 million in PUSD across 11 user wallets, with funds bridged from Polygon to Ethereum and converted to ETH. Polymarket has pledged full refunds but has not named the compromised vendor.",
       "date": "2026-06-27T17:13:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
-      "link": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
-      "desc": "Emerging markets drive most real-world stablecoin usage, yet founder concentration and venture funding remain U.S.- and Europe-centric.",
-      "date": "2026-06-27T17:01:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
-      "link": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record?utm_source=rss&utm_medium=rss",
-      "desc": "Friday's $444.51 million net outflow capped a seventh straight negative week, the longest weekly run on record for the category.",
-      "date": "2026-06-27T16:29:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
-      "link": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Coinbase and Circle have posted steeper losses than Oracle, Netflix or Salesforce, highlighting the widening gap between crypto equities and the broader market.",
-      "date": "2026-06-27T16:02:38.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
