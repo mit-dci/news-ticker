@@ -1,38 +1,18 @@
 {
-  "generatedAt": "2026-06-29T17:02:18.282Z",
+  "generatedAt": "2026-06-29T18:15:23.733Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 279,
+  "filteredOut": 276,
   "errors": [],
   "dupsMerged": 1,
   "items": [
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-29T17:02:17.596Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-29T17:02:17.596Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-29T17:02:17.595Z",
+      "date": "2026-06-29T18:15:23.558Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +22,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-29T17:02:17.595Z",
+      "date": "2026-06-29T18:15:23.558Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,7 +32,97 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-29T17:02:17.595Z",
+      "date": "2026-06-29T18:15:23.558Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-29T18:15:23.558Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-29T18:15:23.558Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Fidelity Outlines 5 Factors That Could End the Bitcoin and Crypto Winter",
+      "link": "https://bitcoinmagazine.com/news/fidelity-5-factors-bitcoin-crypto-winter",
+      "desc": "Bitcoin Magazine Fidelity Outlines 5 Factors That Could End the Bitcoin and Crypto Winter Fidelity says Bitcoin's current crypto winter could end if history repeats and one or more major catalysts emerge, including the four-year cycle, clearer regulation, Federal Reserve easing, a new breakout crypto use case, or a fresh wave of institutional adoption. This post Fidelity Outlines 5 Factors That Could End the Bitcoin and Crypto Winter first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-29T17:59:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin lending is entering a new institutional era, according to Silicon Valley Bank",
+      "link": "https://www.coindesk.com/business/2026/06/29/bitcoin-lending-is-entering-a-new-institutional-era-according-to-silicon-valley-bank",
+      "desc": "The bank said bitcoin lending has emerged from the 2022 crypto credit collapse with stronger risk controls, growing institutional participation and a path toward lower borrowing costs.",
+      "date": "2026-06-29T17:57:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Galaxy Slashes Clarity Act's 2026 Odds to 50% as Senate Time Runs Short",
+      "link": "https://decrypt.co/372316/galaxy-slashes-clarity-acts-2026-odds-to-50-as-senate-time-runs-short",
+      "desc": "The digital asset firm cut its odds of the market structure bill passing this year to a coin toss, pointing to a shrinking Senate calendar.",
+      "date": "2026-06-29T17:47:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "XRP Ledger's 'Missing Layer' Draws Closer as Developers Test Lending, Credit Features: Ripple",
+      "link": "https://decrypt.co/372314/xrp-ledger-missing-layer-draws-closer-lending-credit-features-ripple",
+      "desc": "Ripple outlined how the XRP Ledger Lending Protocol would provide institutions with a novel way to structure loans directly on-chain.",
+      "date": "2026-06-29T17:45:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Coinbase, Kraken and OKX move to swoop up EU users affected by MiCA restrictions",
+      "link": "https://cointelegraph.com/news/coinbase-okx-kraken-eu-users-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Several exchanges that have already been authorized by EU regulators are attempting to bring in users from companies unlicensed under the Markets in Crypto-Assets rules, offering transfer bonuses and prizes.",
+      "date": "2026-06-29T17:42:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Google Invests $30 Million in X-Border Payment FinTech Nebex",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/google-invests-30-million-in-x-border-payment-fintech-nebex/",
+      "desc": "Google Ventures has helped raise $30 million in funding for space-focused cross-border payments FinTech Nebex. The company’s seed round, announced Monday (June 29), will help it expand its platform and link sovereign space programs with the founders and companies developing new technologies to serve the space industry. In an interview with Bloomberg News, Nebex founder Tejpaul Bhatia said the company aims to find revenue […] The post Google Invests $30 Million in X-Border Payment FinTech Nebex appeared first on PYMNTS.com.",
+      "date": "2026-06-29T17:36:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "JPMorgan backs U.S. crypto bill but warns of risks in digital asset framework",
+      "link": "https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework",
+      "desc": "The bank says Congress should pair regulatory clarity with safeguards as Senate negotiates the Clarity Act.",
+      "date": "2026-06-29T17:31:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -257,16 +327,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-06-29T14:29:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Strategy opens door to selling billions of bitcoin under new capital plan. Here's what it means",
@@ -457,16 +517,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Geoswift and SKUx Debut Programmable Stablecoin Commerce Network",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/geoswift-and-skux-debut-programmable-stablecoin-commerce-network/",
-      "desc": "Payments companies Geoswift and SKUx are teaming to launch a programmable stablecoin commerce network. The collaboration is designed to bridge “digital assets, traditional finance, and real-world commerce at a global scale,” the companies said in a news release provided to PYMNTS Monday (June 29). “While enterprise stablecoin usage continues to accelerate globally, governments, enterprises, payment […] The post Geoswift and SKUx Debut Programmable Stablecoin Commerce Network appeared first on PYMNTS.com.",
-      "date": "2026-06-29T11:00:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Vitalik Buterin says obfuscation could unlock private onchain crypto voting",
@@ -589,16 +639,6 @@
       "link": "https://www.theblock.co/post/406492/loopring-sunsets-dex?utm_source=rss&utm_medium=rss",
       "desc": "Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.",
       "date": "2026-06-29T07:21:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto exchange BitMEX loses CEO, CFO and head of growth",
-      "link": "https://www.coindesk.com/business/2026/06/29/crypto-exchange-bitmex-removes-ceo-cfo-and-head-of-growth",
-      "desc": "The firm’s global general counsel, Peter Wilkinson, has taken over as CEO from Stephan Lutz.",
-      "date": "2026-06-29T07:03:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -779,16 +819,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-capitulation-risk-as-50k-btc-moves-at-a-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Nearly 50,000 BTC shifted to exchanges at a loss while short-term Bitcoin holders' stress level reached 2-year highs. Is BTC headed toward new lows?",
       "date": "2026-06-27T19:27:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "AMLBot Puts Polymarket Phishing Toll at $3.1M Across 11 Wallets, Funds Traced to Ethereum",
-      "link": "https://thedefiant.io/news/hacks/amlbot-polymarket-phishing-3-1-million-11-wallets-ethereum",
-      "desc": "Blockchain intelligence firm AMLBot has confirmed the Polymarket supply-chain attack total at approximately $3.1 million in PUSD across 11 user wallets, with funds bridged from Polygon to Ethereum and converted to ETH. Polymarket has pledged full refunds but has not named the compromised vendor.",
-      "date": "2026-06-27T17:13:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
