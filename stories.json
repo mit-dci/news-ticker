@@ -1,38 +1,18 @@
 {
-  "generatedAt": "2026-06-29T07:07:19.670Z",
+  "generatedAt": "2026-06-29T09:09:22.513Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 311,
+  "filteredOut": 309,
   "errors": [],
-  "dupsMerged": 1,
+  "dupsMerged": 2,
   "items": [
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-29T07:07:19.241Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-29T07:07:19.241Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-29T07:07:19.240Z",
+      "date": "2026-06-29T09:09:22.126Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +22,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-29T07:07:19.240Z",
+      "date": "2026-06-29T09:09:22.126Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,7 +32,63 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-29T07:07:19.240Z",
+      "date": "2026-06-29T09:09:22.126Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-29T09:09:22.126Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-29T09:09:22.126Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/06/29/new-mica-regime-in-europe-u-s-jobs-report-for-june-crypto-week-ahead",
+      "desc": "Your look at what's coming in the week starting June 29.",
+      "date": "2026-06-29T09:08:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns",
+      "link": "https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50?utm_source=rss&utm_medium=rss",
+      "desc": "Galaxy's Alex Thorn said Senate calendar constraints and a lack of progress in negotiations make passage less likely than several weeks ago.",
+      "date": "2026-06-29T08:41:29.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/galaxy-cuts-2026-clarity-act-odds-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption",
+      "link": "https://www.theblock.co/post/406492/loopring-sunsets-dex?utm_source=rss&utm_medium=rss",
+      "desc": "Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.",
+      "date": "2026-06-29T07:21:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -163,16 +199,6 @@
       "link": "https://www.theblock.co/post/406466/bis-says-stablecoins-fall-short-as-money-warns-of-emerging-market-risks-in-annual-report?utm_source=rss&utm_medium=rss",
       "desc": "The Bank for International Settlements argued in its annual report that stablecoins still fall short of money on singleness, elasticity and integrity.",
       "date": "2026-06-28T22:04:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Strategy Valuation Drop Threatens Key Bitcoin Funding Engine",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/strategy-valuation-drop-threatens-key-bitcoin-funding-engine/",
-      "desc": "Bitcoin’s largest corporate buyer, bitcoin treasury company Strategy, saw a valuation metric drop below a key threshold Friday (June 26), Bloomberg reported Friday. The ratio of the company’s enterprise value to its bitcoin holdings, or mNAV, fell below parity, meaning that its financing advantage is gone, according to the report. This occurred after seven months […] The post Strategy Valuation Drop Threatens Key Bitcoin Funding Engine appeared first on PYMNTS.com.",
-      "date": "2026-06-28T21:35:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -469,16 +495,6 @@
       "link": "https://thedefiant.io/news/defi/aave-advances-automated-aave-buyback-overhaul-aavenomics-3-0",
       "desc": "Aave founder Stani Kulechov previewed Aavenomics 3.0 on X Thursday, an automated on-chain buyback mechanism that would route all protocol and GHO revenue to AAVE holders by default, replacing the existing discretionary committee-directed program.",
       "date": "2026-06-27T10:48:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
-      "link": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The nonbinding report outlines Parliament's vision for future EU crypto regulation and warns against national MiCA rules.",
-      "date": "2026-06-27T08:21:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
