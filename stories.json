@@ -1,28 +1,18 @@
 {
-  "generatedAt": "2026-06-30T03:09:29.198Z",
+  "generatedAt": "2026-06-30T04:52:54.456Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 261,
+  "filteredOut": 260,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 6,
   "items": [
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-30T03:09:28.852Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-30T03:09:28.851Z",
+      "date": "2026-06-30T04:52:54.445Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +22,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-30T03:09:28.851Z",
+      "date": "2026-06-30T04:52:54.445Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +32,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-30T03:09:28.851Z",
+      "date": "2026-06-30T04:52:54.445Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,8 +42,70 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-30T03:09:28.851Z",
+      "date": "2026-06-30T04:52:54.445Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-30T04:52:54.445Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin under pressure below $60,000 as Japanese yen hits 40-year low against the U.S. dollar",
+      "link": "https://www.coindesk.com/markets/2026/06/30/bitcoin-under-pressure-below-usd60-000-as-japanese-yen-hits-40-year-low-against-the-u-s-dollar",
+      "desc": "BTC fell in Asia as the Japanese yen tanked to four-decade lows, lifting the dollar higher across the board.",
+      "date": "2026-06-30T04:15:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitmine lifts Ether holdings to 5.7M as it joins Russell 1000",
+      "link": "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitmine purchased about $43 million worth of Ether last week as it entered the Russell 1000 Index, bringing it closer to its goal of owning 5% of ETH’s supply.",
+      "date": "2026-06-30T04:03:33.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Sovereign funds see Bitcoin discount as entry point: MidChains CEO",
+      "link": "https://cointelegraph.com/news/sovereign-funds-see-bitcoin-discount-as-entry-point-midchains-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "It sends “a very clear signal” to other institutions that may be sitting on the sidelines and looking at these larger funds as leaders, said MidChains CEO Basil Al Askari.",
+      "date": "2026-06-30T03:53:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "SEC wins $5.4M judgment in NanoBit crypto fraud case",
+      "link": "https://cointelegraph.com/news/sec-wins-54m-judgment-in-nanobit-crypto-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The SEC alleged that NanoBit’s crypto trading platform was fake and that hundreds of thousands of dollars in investor funds were misappropriated.",
+      "date": "2026-06-30T03:06:34.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/406613/sec-wraps-up-nanobit-crypto-fraud-case-final-judgment-ordering-5-million-fines?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -265,16 +317,6 @@
       "link": "https://cointelegraph.com/news/senate-leaders-july-passage-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Lawmakers in the US Senate are on state work periods until July 13, giving them only four weeks to address a cryptocurrency market structure bill before another break and possible delays due to campaigning for elections.",
       "date": "2026-06-29T19:59:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "SEC wraps up NanoBit crypto fraud case in final judgment, ordering over $5 million in fines",
-      "link": "https://www.theblock.co/post/406613/sec-wraps-up-nanobit-crypto-fraud-case-final-judgment-ordering-5-million-fines?utm_source=rss&utm_medium=rss",
-      "desc": "The SEC resolved its case against NanoBit after alleging the crypto platform lied to investors and stole their money.",
-      "date": "2026-06-29T19:51:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -541,16 +583,6 @@
       "link": "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
       "desc": "The world's largest custody bank is adding USDC custody and minting services as stablecoins move deeper into traditional finance.",
       "date": "2026-06-29T14:46:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitmine lifts Ethereum treasury to 5.7 million ETH through ‘challenging’ weekly slide, joins Russell 1000",
-      "link": "https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000?utm_source=rss&utm_medium=rss",
-      "desc": "Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.",
-      "date": "2026-06-29T14:46:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -835,16 +867,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/06/29/new-mica-regime-in-europe-u-s-jobs-report-for-june-crypto-week-ahead",
-      "desc": "Your look at what's coming in the week starting June 29.",
-      "date": "2026-06-29T09:08:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns",
@@ -937,26 +959,6 @@
       "link": "https://cointelegraph.com/markets/will-bitcoin-price-recover-in-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin’s past July gains and heavy short bets point to a rally toward $75,000, but a break below key support keeps the risk of $55,000 in play.",
       "date": "2026-06-28T16:12:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "EU watchdog EBA details big crypto fines as landmark laws bite",
-      "link": "https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The European Banking Authority laid out a proposed penalty framework on Friday that can strip non-compliant significant token issuers of up to 12.5% of their annual revenue.",
-      "date": "2026-06-28T16:10:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Binance posts over $400M in weekly net outflows as MiCA deadline nears",
-      "link": "https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Early exchange flow data show no clear signs of a mass migration from Binance ahead of the EU MiCA transition deadline, despite rivals' efforts to attract users.",
-      "date": "2026-06-28T11:51:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
