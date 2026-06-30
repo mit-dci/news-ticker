@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-06-30T16:45:25.770Z",
+  "generatedAt": "2026-06-30T17:36:44.374Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 254,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 233,
+  "errors": [
+    "FEDERAL RESERVE: FEDERAL RESERVE: HTTP 502"
+  ],
   "dupsMerged": 7,
   "items": [
     {
@@ -24,32 +26,12 @@
       "termBoost": 3
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-30T16:45:25.147Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-30T16:45:25.147Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-30T16:45:25.147Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Digital Prime Technologies expands Tokenet to BitGo Bank & Trust",
+      "link": "https://www.finextra.com/pressarticle/110301/digital-prime-technologies-expands-tokenet-to-bitgo-bank--trust?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Digital Prime Technologies, a provider of digital asset technology solutions and developer of Tokenet, today announced the completion of Tokenet's integration with BitGo Bank & Trust, National Association (\"BitGo Bank & Trust\"), an OCC-regulated digital asset trust bank and subsidiary of BitGo Holdings, Inc. (NYSE: BTGO) (\"BitGo\"), the digital asset infrastructure company.",
+      "date": "2026-06-30T17:50:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -59,7 +41,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-30T16:45:25.147Z",
+      "date": "2026-06-30T17:36:43.737Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -69,7 +51,107 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-30T16:45:25.147Z",
+      "date": "2026-06-30T17:36:43.737Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-06-30T17:36:43.736Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-06-30T17:36:43.736Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-30T17:36:43.736Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Visa, Mastercard, And Over 140 Companies Launch Stablecoin Open USD",
+      "link": "https://bitcoinmagazine.com/news/visa-mastercard-and-over-140-open-usd",
+      "desc": "Bitcoin Magazine Visa, Mastercard, And Over 140 Companies Launch Stablecoin Open USD Visa, Mastercard, Stripe, Coinbase, and 140+ firms have launched Open USD (OUSD), a new yield-sharing stablecoin that aims to challenge Circle and reshape the economics of the $300 billion stablecoin market. This post Visa, Mastercard, And Over 140 Companies Launch Stablecoin Open USD first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-30T17:27:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Big payment names back new stablecoin",
+      "link": "https://www.finextra.com/newsarticle/48017/big-payment-names-back-new-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Visa, Mastercard, US Bank, Google and Coinbase are among dozens of firms backing Open USD, a new stablecoin slated to launch later this year.",
+      "date": "2026-06-30T17:25:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "SEC opens ETF rule review following crypto fund surge, prediction markets push",
+      "link": "https://www.theblock.co/post/406750/sec-opens-etf-rule-review-following-crypto-fund-surge-prediction-markets-push?utm_source=rss&utm_medium=rss",
+      "desc": "The SEC is taking a fresh look at how a proposed fast-growing new class of ETFs tied to prediction markets should be regulated.",
+      "date": "2026-06-30T17:19:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Crypto companies have spent $189M so far on 2026 US election cycle: Report",
+      "link": "https://cointelegraph.com/news/crypto-companies-spent-2026-us-election-cycle-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The crypto industry, big tech and gambling interest groups are betting big on politicians in the 2026 primaries and elections, with almost $300 million shelled out so far.",
+      "date": "2026-06-30T17:19:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Visa and Google Sign on to Use Money Movement Stablecoin OpenUSD",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/visa-and-google-sign-on-to-use-money-movement-stablecoin-openusd/",
+      "desc": "Several of the world’s payments and tech giants have agreed to use the money movement stablecoin Open USD. That coin is set to go live later this year, according to an announcement Tuesday (June 30) from Open Standard, the company behind Open USD. It noted in a blog post that the launch is happening as […] The post Visa and Google Sign on to Use Money Movement Stablecoin OpenUSD appeared first on PYMNTS.com.",
+      "date": "2026-06-30T17:08:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Magic Eden, Founders Sued by $ME Buyers Over Broken 'Utility' Promises",
+      "link": "https://thedefiant.io/news/defi/magic-eden-founders-sued-by-usdme-buyers-over-broken-utility-promises",
+      "desc": "A nationwide class action in New York accuses the NFT marketplace and its four co-founders of marketing the token's use cases, then delaying or abandoning them as $ME fell roughly 99% from launch",
+      "date": "2026-06-30T16:56:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Morgan Stanley Advances Blockchain Infrastructure Goal With Preliminary Bank Approval",
+      "link": "https://www.pymnts.com/blockchain/2026/morgan-stanley-advances-blockchain-infrastructure-goal-with-preliminary-bank-approval/",
+      "desc": "Morgan Stanley obtained preliminary conditional approval from the Office of the Comptroller of the Currency (OCC) to charter a de novo national trust bank called Morgan Stanley Digital Trust, National Association (MSDTNA). MSDTNA is now working to satisfy OCC conditions for final approval, law firm Davis Polk, which advised Morgan Stanley on the preliminary conditional […] The post Morgan Stanley Advances Blockchain Infrastructure Goal With Preliminary Bank Approval appeared first on PYMNTS.com.",
+      "date": "2026-06-30T16:56:07.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -873,16 +955,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "BNY and Circle expand partnership, adding mint and burn capabilities for USDC",
-      "link": "https://www.theblock.co/post/406581/bny-circle-expand-partnership-adding-mint-burn-capabilities-usdc?utm_source=rss&utm_medium=rss",
-      "desc": "BNY, the world's largest custodian bank, said it plans to add support for additional stablecoin via its Digital Asset Custody platform.",
-      "date": "2026-06-29T16:58:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "CFTC Expands Polymarket Probe to Staged Trades and Fake Wins",
@@ -955,16 +1027,6 @@
       "link": "https://www.coindesk.com/policy/2026/06/29/white-house-to-speak-with-law-enforcement-groups-to-push-crypto-s-clarity-act",
       "desc": "Officials from the White House are said to be sitting down with law enforcement representatives who have objected to illicit-finance portions of the bill.",
       "date": "2026-06-29T15:23:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Strive (ASST) Holds 19,864 BTC With No New Purchases Last Week, Balance Sheet Hits $141.7M Cash",
-      "link": "https://bitcoinmagazine.com/news/strive-asst-holds-19864-btc-no-new",
-      "desc": "Bitcoin Magazine Strive (ASST) Holds 19,864 BTC With No New Purchases Last Week, Balance Sheet Hits $141.7M Cash Strive held its Bitcoin treasury unchanged at 19,864 BTC last week, maintaining $141.7 million in cash. This post Strive (ASST) Holds 19,864 BTC With No New Purchases Last Week, Balance Sheet Hits $141.7M Cash first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-29T15:15:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
