@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-30T12:43:32.286Z",
+  "generatedAt": "2026-06-30T13:37:36.201Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 252,
+  "filteredOut": 261,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "cointelegraph",
@@ -26,10 +26,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-30T13:37:36.114Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-30T12:43:31.026Z",
+      "date": "2026-06-30T13:37:36.113Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -39,7 +49,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-30T12:43:31.026Z",
+      "date": "2026-06-30T13:37:36.113Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -49,7 +59,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-30T12:43:31.026Z",
+      "date": "2026-06-30T13:37:36.113Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -59,17 +69,63 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-30T12:43:31.026Z",
+      "date": "2026-06-30T13:37:36.113Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-30T12:43:31.026Z",
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "UK Reduces Capital Requirements for Stablecoin Issuers",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/uk-reduces-capital-requirements-for-stablecoin-issuers/",
+      "desc": "The U.K. has introduced new digital asset regulations as part of its ongoing quest to become a cryptocurrency hub. The country’s Financial Conduct Authority (FCA) issued new rules Tuesday (June 30) for crypto companies, mandating they meet capital and stress testing requirements as well as market integrity rules governing insider trading and market manipulation. The new framework also sets […] The post UK Reduces Capital Requirements for Stablecoin Issuers appeared first on PYMNTS.com.",
+      "date": "2026-06-30T13:35:07.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tokenized securities need competition, not gatekeepers",
+      "link": "https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers",
+      "desc": "Innovation thrives when investors have choices. For tokenized securities, Washington shouldn't pick winners before the market has a chance to learn what works, argues Patrick McHenry, vice chairman at Ondo Finance and former Chairman of the House Financial Services Committee.",
+      "date": "2026-06-30T13:25:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Nasdaq expands distribution of its market data into blockchain infrastructure",
+      "link": "https://www.coindesk.com/markets/2026/06/30/nasdaq-expands-distribution-of-its-market-data-into-blockchain-infrastructure",
+      "desc": "The exchange operator will offer its TotalView data feed through Pyth's marketplace as financial firms increasingly build applications on blockchain rails.",
+      "date": "2026-06-30T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
+      "link": "https://cointelegraph.com/news/fidelity-tokenized-fund-first-crypto-native-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The onchain capital markets platform allocated $20 million to Fidelity International's tokenized liquidity fund as tokenized Treasury products continue to attract institutional capital.",
+      "date": "2026-06-30T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom",
+      "link": "https://cointelegraph.com/news/record-bitcoin-holder-supply-early-bottom-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The record Bitcoin supply held by long-term holders may suggest that the crypto market bottom will come early, according to Swan’s Cory Klippsten.",
+      "date": "2026-06-30T12:44:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -218,16 +274,6 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
-      "link": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
-      "desc": "The Financial Conduct Authority's proposal follows the Bank of England's backtracking on the limit to the value of stablecoins an individual could hold.",
-      "date": "2026-06-30T10:08:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
       "title": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
       "link": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit",
       "desc": "The group built trust via WhatsApp, then misappropriated user funds to Hong Kong bank accounts instead of executing any actual crypto trades.",
@@ -252,6 +298,16 @@
       "link": "https://www.theblock.co/post/406645/benchmark-sees-500-percent-upside-strategy?utm_source=rss&utm_medium=rss",
       "desc": "Benchmark reiterated its Buy rating and $570 target on Strategy, citing its new active two-way capital management framework.",
       "date": "2026-06-30T08:57:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Plasma Wants to Be the First Stablecoin Bank",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/plasma-wants-first-stablecoin-bank/",
+      "desc": "Watch more: The Digital Shift With Plasma’s Zaheer Ebtikar Start with the part nobody in the payments industry wants to hear. Stablecoins probably won’t win at payments. Hundreds of billions of dollars in stablecoins circulate globally, and consumer payment adoption in developed markets is still thin. The checkout line was never the opening. For Plasma […] The post Plasma Wants to Be the First Stablecoin Bank appeared first on PYMNTS.com.",
+      "date": "2026-06-30T08:03:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -588,6 +644,16 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Coinbase, Kraken and OKX move to swoop up EU users affected by MiCA restrictions",
+      "link": "https://cointelegraph.com/news/coinbase-okx-kraken-eu-users-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Several exchanges that have already been authorized by EU regulators are attempting to bring in users from companies unlicensed under the Markets in Crypto-Assets rules, offering transfer bonuses and prizes.",
+      "date": "2026-06-29T17:50:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Galaxy Slashes Clarity Act's 2026 Odds to 50% as Senate Time Runs Short",
@@ -604,16 +670,6 @@
       "link": "https://decrypt.co/372314/xrp-ledger-missing-layer-draws-closer-lending-credit-features-ripple",
       "desc": "Ripple outlined how the XRP Ledger Lending Protocol would provide institutions with a novel way to structure loans directly on-chain.",
       "date": "2026-06-29T17:45:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Coinbase, Kraken and OKX move to swoop up EU users affected by MiCA restrictions",
-      "link": "https://cointelegraph.com/news/coinbase-okx-kraken-eu-users-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Several exchanges that have already been authorized by EU regulators are attempting to bring in users from companies unlicensed under the Markets in Crypto-Assets rules, offering transfer bonuses and prizes.",
-      "date": "2026-06-29T17:42:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -736,7 +792,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "J.P. Morgan broadens blockchain settlement network as banks modernize cross-border payments",
+      "title": "JPMorgan broadens blockchain settlement network as banks modernize cross-border payments",
       "link": "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments",
       "desc": "The bank added five Asia-Pacific currencies to its Kinexys blockchain platform, allowing institutional clients to settle payments and FX around the clock.",
       "date": "2026-06-29T15:23:36.000Z",
@@ -790,26 +846,6 @@
       "link": "https://www.coindesk.com/tech/2026/06/29/emb-3-pm-utc-ripple-wants-institutions-to-borrow-against-tokenized-assets-on-xrpl",
       "desc": "A proposed XRPL standard would let institutions borrow against tokenized assets, with the blockchain enforcing loan terms while the underwriting stays with human credit teams. It still needs validator approval to go live.",
       "date": "2026-06-29T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Wall Street's BNY expands stablecoin services for institutions, starting with Circle's USDC",
-      "link": "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
-      "desc": "The world's largest custody bank is adding USDC custody and minting services as stablecoins move deeper into traditional finance.",
-      "date": "2026-06-29T14:46:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Strategy opens door to selling billions of bitcoin under new capital plan. Here's what it means",
-      "link": "https://www.coindesk.com/markets/2026/06/29/strategy-opens-the-door-to-selling-bitcoin-under-new-capital-plan-here-s-what-it-means",
-      "desc": "The company can now sell bitcoin to fund the USD reserve, support preferred dividends, and finance up to $2 billion in stock buybacks.",
-      "date": "2026-06-29T14:11:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -900,36 +936,6 @@
       "link": "https://decrypt.co/372279/ukraine-takes-8-3m-in-seized-crypto-under-state-management-in-a-first",
       "desc": "Over 8.3 million USDT seized from an alleged hacking ring has been moved to a wallet held by Ukraine's asset-recovery agency, ARMA.",
       "date": "2026-06-29T10:48:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Germany leads MiCA crypto authorization race as Europe’s deadline looms",
-      "link": "https://cointelegraph.com/news/mica-licenses-cluster-germany-total-reach-244?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "MiCA crypto licensing data shows 244 approved companies across EU and EEA jurisdictions, led by Germany with France and the Netherlands also among top hubs ahead of July 1 cliff.",
-      "date": "2026-06-29T10:48:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BTC price RSI prints key 2026 signal: Five things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-rsi-prints-key-2026-signal-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin prepped an \"interesting\" RSI divergence into the Q2 and June candle close as analysis compared $60,000 to the $30,000 mark in the 2022 bear market.",
-      "date": "2026-06-29T09:55:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Kiwoom eyes Bithumb stake as Korean brokerages push into crypto: Report",
-      "link": "https://cointelegraph.com/news/kiwoom-stake-bithumb-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Kiwoom Securities is reportedly seeking to acquire a stake in crypto exchange Bithumb, as more brokerage firms race to secure a stake in the industry ahead of the FSC’s new regulatory reforms in July.",
-      "date": "2026-06-29T09:40:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
