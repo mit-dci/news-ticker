@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-06-30T13:37:36.201Z",
+  "generatedAt": "2026-06-30T14:54:03.869Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 261,
-  "errors": [],
-  "dupsMerged": 7,
+  "successCount": 17,
+  "filteredOut": 251,
+  "errors": [
+    "PYMNTS: PYMNTS: HTTP 403"
+  ],
+  "dupsMerged": 6,
   "items": [
     {
       "source": "cointelegraph",
@@ -24,42 +26,32 @@
       "termBoost": 3
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-30T13:37:36.114Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Loanch expands into Southeast Asia",
+      "link": "https://www.finextra.com/pressarticle/110298/loanch-expands-into-southeast-asia?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Loanch, a Croatia-based marketplace for alternative lending-based investments, announces the addition of AhaPay to its marketplace. Loanch clients can access investment opportunities, expanding their exposure to the growing fintech sector in Southeast Asia.",
+      "date": "2026-06-30T15:15:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-30T13:37:36.113Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Key Trends in 2026 Payments & The Digital Euro Timeline",
+      "link": "https://www.finextra.com/videoarticle/3536/key-trends-in-2026-payments--the-digital-euro-timeline?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "At EBAday 2026, Julio César Fernández Ramos, Director of Business Development and Operations, and Nuria Mohedas Tamayo, Director of Payments and Digital Banking at Cecabank, joined FinextraTV to discuss key trends within payments innovation. Fernández Ramos explained how digital wallets are becoming the principal interface for customers, aggregating cards, accounts and authentication. Mohedas Tamayo highlighted the need for institutions to be prepared for ongoing changes impacting both customers and business models.",
+      "date": "2026-06-30T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-30T13:37:36.113Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-30T13:37:36.113Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Google leads $30m round for space fintech Nebex",
+      "link": "https://www.finextra.com/newsarticle/48015/google-leads-30m-round-for-space-fintech-nebex?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Google Ventures has led a $30 million seed round for Nebex, a market infrastructure platform for the \"global space economy\".",
+      "date": "2026-06-30T14:57:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -69,24 +61,149 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-30T13:37:36.113Z",
+      "date": "2026-06-30T14:54:03.716Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "UK Reduces Capital Requirements for Stablecoin Issuers",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/uk-reduces-capital-requirements-for-stablecoin-issuers/",
-      "desc": "The U.K. has introduced new digital asset regulations as part of its ongoing quest to become a cryptocurrency hub. The country’s Financial Conduct Authority (FCA) issued new rules Tuesday (June 30) for crypto companies, mandating they meet capital and stress testing requirements as well as market integrity rules governing insider trading and market manipulation. The new framework also sets […] The post UK Reduces Capital Requirements for Stablecoin Issuers appeared first on PYMNTS.com.",
-      "date": "2026-06-30T13:35:07.000Z",
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-30T14:54:03.716Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-06-30T14:54:03.715Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-06-30T14:54:03.715Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-06-30T14:54:03.715Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "New Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
+      "link": "https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss",
+      "desc": "Argos is a recovery tool for users who had shielded funds stuck on ZEC Wallet Lite, an issue impacting some longtime Zcash supporters.",
+      "date": "2026-06-30T14:44:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
+      "link": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test",
+      "desc": "The bank said the bill faces major hurdles, with passage boosting institutional crypto adoption and delays prolonging regulatory uncertainty.",
+      "date": "2026-06-30T14:41:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "FlexTrade integrates with EDX Markets for institutional-grade crypto trading",
+      "link": "https://www.finextra.com/pressarticle/110297/flextrade-integrates-with-edx-markets-for-institutional-grade-crypto-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "FlexTrade Systems, a global leader in multi-asset execution and order management systems, and EDX Markets (EDX), a leading digital asset technology firm that combines an institutional-only trading venue with a central clearinghouse, today announced the integration of EDX into FlexTrade’s crypto and digital assets trading solution, FlexDigitalAssets.",
+      "date": "2026-06-30T14:31:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "UAE-Based Goldman Lampe Private Bank Acquires $137 Million in Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/goldman-lampe-bank-acquires-137m-in-btc",
+      "desc": "Bitcoin Magazine UAE-Based Goldman Lampe Private Bank Acquires $137 Million in Bitcoin Goldman Lampe Private Bank purchased €120 million (roughly $137 million) worth of Bitcoin, the UAE-based institution announced Monday. This post UAE-Based Goldman Lampe Private Bank Acquires $137 Million in Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-30T14:15:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "UK Sets Landmark Crypto Rules in Race to Become Global Hub",
+      "link": "https://bitcoinmagazine.com/news/uk-sets-landmark-crypto-rules-in-race",
+      "desc": "Bitcoin Magazine UK Sets Landmark Crypto Rules in Race to Become Global Hub The UK unveiled its most comprehensive crypto regulatory framework yet, requiring firms to meet capital, stress-testing, and market-abuse standards while easing some stablecoin rules. This post UK Sets Landmark Crypto Rules in Race to Become Global Hub first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-30T14:05:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "MetaMask unveils all-in-one Money Account offerings users up to 4% APY on mUSD holdings",
+      "link": "https://www.theblock.co/post/406570/metamask-all-in-one-money-account-offerings-users-4-apy-musd-holdings?utm_source=rss&utm_medium=rss",
+      "desc": "Consensys tapped Monad as Money Account's “home chain,\" and will initially use Morpho vaults to generate yield.",
+      "date": "2026-06-30T14:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "MetaMask launches stablecoin yield account with card spending",
+      "link": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and EU.",
+      "date": "2026-06-30T14:00:00.000Z",
       "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/372298/crypto-wallet-metamask-yield-paying-money-accounts-monad"
+        },
         {
           "source": "COINDESK",
           "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements"
+          "url": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet"
         }
       ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Sharplink buys 10,000 ETH, repurchases 2.13 million SBET shares in latest buyback",
+      "link": "https://www.theblock.co/post/406721/sharplink-buys-10000-eth-repurchases-2-13-million-shares-latest-buyback?utm_source=rss&utm_medium=rss",
+      "desc": "Sharplink bought 10,000 ETH and repurchased 2.13 million SBET shares after completing a $75 million capital raise.",
+      "date": "2026-06-30T13:59:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Standard Chartered secures MiCA and EMI license",
+      "link": "https://www.finextra.com/pressarticle/110296/standard-chartered-secures-mica-and-emi-license?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Standard Chartered today announced that it has been granted authorisation under the European Union’s Markets in Crypto-Assets (MiCA) Regulation as well as an Electronic Money Institution (EMI), marking a significant milestone in the next phase of its Financing & Securities Services digital asset custody strategy in Europe.",
+      "date": "2026-06-30T13:55:00.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -96,6 +213,16 @@
       "link": "https://www.coindesk.com/opinion/2026/06/29/tokenized-securities-need-competition-not-gatekeepers",
       "desc": "Innovation thrives when investors have choices. For tokenized securities, Washington shouldn't pick winners before the market has a chance to learn what works, argues Patrick McHenry, vice chairman at Ondo Finance and former Chairman of the House Financial Services Committee.",
       "date": "2026-06-30T13:25:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Rio Tinto agrees new financial terms for $18bn copper mine project",
+      "link": "https://www.ft.com/content/e976c76a-05ff-4fc4-99f1-2c204553516d",
+      "desc": "Oyu Tolgoi is Mongolia’s biggest mining scheme and source of foreign investment",
+      "date": "2026-06-30T13:14:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -130,16 +257,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "RedotPay selects OpenPayd for stabelcoin payments",
-      "link": "https://www.finextra.com/pressarticle/110285/redotpay-selects-openpayd-for-stabelcoin-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "RedotPay, a global stablecoin-based payment fintech, has selected OpenPayd, a leading financial infrastructure provider, to enhance its treasury operations, multi-currency payments, and cross-border remittances for customers worldwide.",
-      "date": "2026-06-30T12:43:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Spiko links EU regulated T-bill funds to Coinbase stablecoin rails",
@@ -150,22 +267,22 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Digital assets prime broker FalconX secures MiCA authorisation",
-      "link": "https://www.finextra.com/pressarticle/110284/digital-assets-prime-broker-falconx-secures-mica-authorisation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "FalconX, the leading institutional digital asset prime broker, today announced that FalconX Limited has received authorization under the European Union's Markets in Crypto-Assets Regulation (MiCA) from the Malta Financial Services Authority (MFSA).",
-      "date": "2026-06-30T12:17:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Morning Minute: A Change of Strategy",
       "link": "https://decrypt.co/372411/morning-minute-a-change-of-strategy",
       "desc": "Michael Saylor's Strategy is rolling out some major changes to how it handles Bitcoin going forward. And so far, the market likes it.",
       "date": "2026-06-30T12:13:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "New York Life Investment Management makes first tokenized move partnering with Centrifuge on high-yield corporate bond strategy",
+      "link": "https://www.theblock.co/post/406696/new-york-life-first-tokenized-centrifuge-high-yield-corporate-bond-strategy?utm_source=rss&utm_medium=rss",
+      "desc": "The tokenized fund will enable eligible investors to access NYLIM’s established institutional high-yield strategy.",
+      "date": "2026-06-30T12:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -182,17 +299,11 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "New York Life makes tokenization debut with onchain high-yield bond fund with Centrifuge",
+      "title": "New York Life's $800 billion asset manager makes tokenization debut with Centrifuge fund",
       "link": "https://www.coindesk.com/business/2026/06/29/new-york-life-makes-tokenization-debut-with-onchain-high-yield-bond-fund-with-centrifuge",
       "desc": "The $807 billion asset manager is bringing a high-yield corporate bond strategy onto blockchain with Centrifuge as Wall Street expands beyond tokenized Treasury funds.",
       "date": "2026-06-30T11:20:30.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/406696/new-york-life-first-tokenized-centrifuge-high-yield-corporate-bond-strategy?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -274,6 +385,16 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
+      "title": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
+      "link": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
+      "desc": "The Financial Conduct Authority's proposal follows the Bank of England's backtracking on the limit to the value of stablecoins an individual could hold.",
+      "date": "2026-06-30T10:08:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
       "title": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
       "link": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit",
       "desc": "The group built trust via WhatsApp, then misappropriated user funds to Hong Kong bank accounts instead of executing any actual crypto trades.",
@@ -298,16 +419,6 @@
       "link": "https://www.theblock.co/post/406645/benchmark-sees-500-percent-upside-strategy?utm_source=rss&utm_medium=rss",
       "desc": "Benchmark reiterated its Buy rating and $570 target on Strategy, citing its new active two-way capital management framework.",
       "date": "2026-06-30T08:57:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Plasma Wants to Be the First Stablecoin Bank",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/plasma-wants-first-stablecoin-bank/",
-      "desc": "Watch more: The Digital Shift With Plasma’s Zaheer Ebtikar Start with the part nobody in the payments industry wants to hear. Stablecoins probably won’t win at payments. Hundreds of billions of dollars in stablecoins circulate globally, and consumer payment adoption in developed markets is still thin. The checkout line was never the opening. For Plasma […] The post Plasma Wants to Be the First Stablecoin Bank appeared first on PYMNTS.com.",
-      "date": "2026-06-30T08:03:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -398,13 +509,7 @@
       "link": "https://cointelegraph.com/news/bitmine-lifts-ethereum-holdings-to-57m-as-it-joins-russell-1000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitmine purchased about $43 million worth of Ether last week as it entered the Russell 1000 Index, bringing it closer to its goal of owning 5% of ETH’s supply.",
       "date": "2026-06-30T04:03:33.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -540,16 +645,6 @@
       "link": "https://thedefiant.io/news/defi/stream-finance-starts-collecting-creditor-claims-in-step-toward-global-resolution",
       "desc": "The collapsed yield protocol, whose November failure froze roughly $160 million in deposits and left an estimated $285 million owed across DeFi lending markets, is asking potential creditors to submit claim information through an online form",
       "date": "2026-06-29T21:13:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Strategy’s Turnaround Plan Includes Stock Buyback, Bitcoin Sales and More Reserves",
-      "link": "https://www.wsj.com/finance/currencies/strategys-turnaround-plan-includes-stock-buyback-bitcoin-sales-and-more-reserves-4c61c8b6?mod=rss_markets_main",
-      "desc": "The moves are aimed at stemming the loss of confidence in Michael Saylor’s crypto-hoarding company.",
-      "date": "2026-06-29T20:41:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -770,16 +865,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Binance founder CZ says MiCA application was ‘fully compliant’ and near approval before political forces intervened",
-      "link": "https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened?utm_source=rss&utm_medium=rss",
-      "desc": "Binance founder CZ says the exchange's EU MiCA application was close to approval before unnamed political forces weighed in.",
-      "date": "2026-06-29T15:33:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "White House to speak with law enforcement groups to push Crypto's Clarity Act",
@@ -820,52 +905,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto analytics firm Chainalysis proposes standards for blockchain tracing",
-      "link": "https://www.coindesk.com/policy/2026/06/29/crypto-analytics-firm-chainalysis-proposes-standards-for-blockchain-tracing",
-      "desc": "The blockchain analysis company published a proposed ontology for how investigators can identify clusters of crypto addresses and link them together.",
-      "date": "2026-06-29T15:07:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "MiCA's looming deadline could leave 10 million crypto users without a platform in the EU",
-      "link": "https://www.coindesk.com/business/2026/06/29/mica-july-1-deadline-could-leave-10-million-crypto-users-searching-for-a-new-platform-in-the-eu",
-      "desc": "As MiCA takes full effect on July 1, SwissBorg's Alex Fazel told CoinDesk users should choose platforms built to withstand EU regulators' tightening oversight.",
-      "date": "2026-06-29T15:03:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ripple wants institutions to borrow against tokenized assets on XRPL",
-      "link": "https://www.coindesk.com/tech/2026/06/29/emb-3-pm-utc-ripple-wants-institutions-to-borrow-against-tokenized-assets-on-xrpl",
-      "desc": "A proposed XRPL standard would let institutions borrow against tokenized assets, with the blockchain enforcing loan terms while the underwriting stays with human credit teams. It still needs validator approval to go live.",
-      "date": "2026-06-29T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "From Bitcoin critics to blockchain believers: The 5 biggest crypto backflips",
       "link": "https://cointelegraph.com/features/from-bitcoin-critics-to-blockchain-believers-the-5-biggest-crypto-backflips?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "If you can't beat 'em, join 'em. Here are five crypto skeptics who have reluctantly embraced the opportunity of making loads of money with blockchain.",
       "date": "2026-06-29T13:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bernstein says prediction-market infrastructure rush could spark wave of M&A across consumer platforms",
-      "link": "https://www.theblock.co/post/406520/bernstein-says-prediction-market-infrastructure-rush-could-spark-wave-of-ma-across-consumer-platforms?utm_source=rss&utm_medium=rss",
-      "desc": "Bernstein said DraftKings' DKeX launch keeps prediction-market revenue in-house as consolidation reshapes trading and betting platforms.",
-      "date": "2026-06-29T13:29:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -910,42 +955,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Prediction-market operational consolidation could spur M&A wave: Bernstein",
-      "link": "https://cointelegraph.com/news/prediction-market-consolidation-ma-wave-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bernstein says platforms are bringing exchange, clearing and brokerage infrastructure in-house, setting up potential deals while increasing antitrust and regulatory risks.",
-      "date": "2026-06-29T11:21:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Vitalik Buterin says obfuscation could unlock private onchain crypto voting",
-      "link": "https://cointelegraph.com/news/vitalik-buterin-private-onchain-voting-obfuscation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Vitalik Buterin said indistinguishability obfuscation could eventually support private, collusion-resistant onchain voting without trusted committees, though the technology remains impractical.",
-      "date": "2026-06-29T10:53:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Ukraine Takes $8.3M in Seized Crypto Under State Management in a First",
       "link": "https://decrypt.co/372279/ukraine-takes-8-3m-in-seized-crypto-under-state-management-in-a-first",
       "desc": "Over 8.3 million USDT seized from an alleged hacking ring has been moved to a wallet held by Ukraine's asset-recovery agency, ARMA.",
       "date": "2026-06-29T10:48:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Canadian fintech Float raises C$85m",
-      "link": "https://www.finextra.com/newsarticle/48002/canadian-fintech-float-raises-c85m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Canadian business finance platform Float Financial has raised C$85 million (US$60 million) in a Series C funding round led by Inovia Capital with participation from Goldman Sachs.",
-      "date": "2026-06-29T00:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
