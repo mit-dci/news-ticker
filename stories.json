@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-30T18:39:29.304Z",
+  "generatedAt": "2026-06-30T19:36:08.631Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 250,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "cointelegraph",
@@ -26,30 +26,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-30T18:39:29.239Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-30T18:39:29.239Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-30T18:39:29.238Z",
+      "date": "2026-06-30T19:36:08.586Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -59,7 +39,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-30T18:39:29.238Z",
+      "date": "2026-06-30T19:36:08.586Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -69,7 +49,67 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-30T18:39:29.238Z",
+      "date": "2026-06-30T19:36:08.586Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-06-30T19:36:08.586Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-06-30T19:36:08.586Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Securitize Shareholders Approve Merger, Paving Way for First Publicly Traded Tokenization Company",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-shareholders-approve-merger-first-publicly-traded-tokenization-company",
+      "desc": "Cantor Equity Partners II shareholders voted Monday to approve a business combination with Securitize, expected to close July 1 and list on the NYSE July 2 under ticker SECZ as the first publicly traded tokenization company in the US.",
+      "date": "2026-06-30T18:56:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Nasdaq brings proprietary market data onchain through Pyth",
+      "link": "https://cointelegraph.com/news/nasdaq-brings-proprietary-market-data-onchain-through-pyth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The partnership extends distribution of Nasdaq's TotalView market data to blockchain applications and other software platforms through Pyth's marketplace.",
+      "date": "2026-06-30T18:46:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading",
+      "link": "https://bitcoinmagazine.com/news/anchorage-digital-and-binance-crypto",
+      "desc": "Bitcoin Magazine Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading Anchorage Digital and Binance launched off-exchange settlement for institutional crypto trading, allowing institutions to trade on Binance while keeping their assets in segregated custody at Anchorage Digital Bank instead of on the exchange. This post Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-06-30T18:45:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Why OpenUSD's 'real threat' that tanked Circle stock still faces a steep uphill battle for adoption",
+      "link": "https://www.coindesk.com/business/2026/06/30/why-the-openusd-s-real-threat-that-tanked-circle-stock-still-faces-a-steep-uphill-battle-for-adoption",
+      "desc": "The Stripe- and Coinbase-backed stablecoin consortium can challenge Circle's business model, but analysts say building a network is harder than assembling big-name partners.",
+      "date": "2026-06-30T18:39:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -110,6 +150,16 @@
       "link": "https://bitcoinmagazine.com/news/visa-mastercard-and-over-140-open-usd",
       "desc": "Bitcoin Magazine Visa, Mastercard, And Over 140 Companies Launch Stablecoin Open USD Visa, Mastercard, Stripe, Coinbase, and 140+ firms have launched Open USD (OUSD), a new yield-sharing stablecoin that aims to challenge Circle and reshape the economics of the $300 billion stablecoin market. This post Visa, Mastercard, And Over 140 Companies Launch Stablecoin Open USD first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-30T17:27:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Binance and founder sued by crypto investors in London lawsuit",
+      "link": "https://www.ft.com/content/acf42280-a154-4407-a08a-94190d8986ca",
+      "desc": "Nearly 1,700 UK users allege that world’s largest crypto exchange offered risky products without regulatory approval",
+      "date": "2026-06-30T17:25:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -180,16 +230,6 @@
       "link": "https://cointelegraph.com/news/42-of-businesses-surveyed-use-stablecoins-for-cross-border-payments-cybrid-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The majority of businesses surveyed are likely to use stablecoins within the next 12 months, while regulatory clarity remained the biggest barrier to wider adoption.",
       "date": "2026-06-30T16:34:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Europe’s Crypto Reset Begins: Who’s In, Who’s Out Under MiCA",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/europe-crypto-reset-begins-who-is-out-under-mica/",
-      "desc": "Cryptocurrency has spent 15 years asking if regulators could catch up. Markets in Crypto-Assets Regulation (MiCA), the landmark digital asset regulatory framework that goes into full effect across the European Union’s 27 member nations Wednesday (July 1), asks a different question. Can crypto companies operate inside the financial system? MiCA policy architecture does more than […] The post Europe’s Crypto Reset Begins: Who’s In, Who’s Out Under MiCA appeared first on PYMNTS.com.",
-      "date": "2026-06-30T16:08:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -877,16 +917,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "JPMorgan execs draw comparison between yield stablecoins and ‘shadow banking’",
-      "link": "https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking?utm_source=rss&utm_medium=rss",
-      "desc": "JPMorgan execs argued that stablecoin innovation can easily drift into “shadow banking” if yield payments are permitted.",
-      "date": "2026-06-29T18:37:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Fidelity Outlines 5 Factors That Could End the Bitcoin and Crypto Winter",
@@ -983,13 +1013,7 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/bny-usdc-institutional-custody-platform-circle-partnership",
       "desc": "BNY, the world's largest custodian bank with $59.4 trillion in assets under custody, has made USDC the first stablecoin on its Digital Asset Custody platform, enabling institutional clients to store, transfer, mint, and redeem Circle's dollar-pegged token alongside traditional assets.",
       "date": "2026-06-29T16:30:00.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/bny-adds-usdc-minting-and-redemption-to-institutional-custody-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -999,26 +1023,6 @@
       "link": "https://thedefiant.io/news/defi/blackrock-adds-ethena-s-synthetic-dollar-to-its-usd20t-aladdin-risk-management-platform",
       "desc": "The world's largest asset manager will list the USDe synthetic dollar as an approved asset on its institutional risk platform, while its BUIDL fund becomes the primary backing for Ethena's whitelabel stablecoins.",
       "date": "2026-06-29T16:20:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "2007–2009—The Global Financial Crisis and the Birth of Bitcoin",
-      "link": "https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin",
-      "desc": "Bitcoin Magazine 2007–2009—The Global Financial Crisis and the Birth of Bitcoin An excerpt from Bitcoin: The Honest Money explains how the 2007–2009 financial crisis exposed the fragility of the fiat system and set the stage for Bitcoin’s creation. This post 2007–2009—The Global Financial Crisis and the Birth of Bitcoin first appeared on Bitcoin Magazine and is written by Alex v. Frankenberg.",
-      "date": "2026-06-29T15:45:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's whats being done.",
-      "link": "https://www.coindesk.com/tech/2026/06/29/private-keys-not-smart-contracts-caused-40-of-crypto-s-usd16-billion-hack-losses-here-s-whats-being-done",
-      "desc": "The industry is moving toward fixing the private key vulnerability issue, just not evenly, Wish Wu, co-founder and CEO of Pharos, said.",
-      "date": "2026-06-29T15:45:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
