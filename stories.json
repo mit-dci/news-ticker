@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-30T04:52:54.456Z",
+  "generatedAt": "2026-06-30T06:27:36.074Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 260,
+  "filteredOut": 255,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "bis",
@@ -12,7 +12,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-06-30T04:52:54.445Z",
+      "date": "2026-06-30T06:27:35.523Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-06-30T04:52:54.445Z",
+      "date": "2026-06-30T06:27:35.523Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +32,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-06-30T04:52:54.445Z",
+      "date": "2026-06-30T06:27:35.523Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +42,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-06-30T04:52:54.445Z",
+      "date": "2026-06-30T06:27:35.523Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,7 +52,47 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-06-30T04:52:54.445Z",
+      "date": "2026-06-30T06:27:35.523Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Self-exiled Chinese billionaire sentenced to 30 years for fraud involving crypto",
+      "link": "https://www.theblock.co/post/406639/chinese-billionaire-sentenced-30-years?utm_source=rss&utm_medium=rss",
+      "desc": "Guo was arrested in 2023 for orchestrating a more than $1 billion fraud conspiracy involving cryptocurrency.",
+      "date": "2026-06-30T05:46:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "XRP holds $1 support as network activity rises and leverage clears out",
+      "link": "https://www.coindesk.com/markets/2026/06/30/xrp-holds-usd1-support-as-network-activity-rises-and-leverage-clears-out",
+      "desc": "Active addresses jumped 72% in two weeks while open interest fell to its lowest level since July 2025, giving traders a cleaner setup even as price remains trapped below resistance.",
+      "date": "2026-06-30T05:15:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
+      "link": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
+      "desc": "Bitcoin held below $60,000 as a surging dollar kept crypto pinned. Onchain demand stayed quiet through the week's losses, and Strategy's plan to possibly sell bitcoin added to the caution.",
+      "date": "2026-06-30T05:01:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tether trades at 7% to 10% premium in India. Exchanges say its just supply and demand",
+      "link": "https://www.coindesk.com/markets/2026/06/30/usdt-s-premium-in-india-jumps-to-10-exchanges-say-its-just-supply-and-demand",
+      "desc": "Executives at major platforms CoinDCX and CoinSwitch say the premium reflects a demand-supply imbalance and thin local liquidity.",
+      "date": "2026-06-30T04:59:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -121,20 +161,10 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Singapore's Hyperliquid warning, Indonesia's FinFluencer licence: Asia Express",
+      "title": "Singapore's Hyperliquid warning, Indonesia's FinFluencer license: Asia Express",
       "link": "https://cointelegraph.com/features/singapores-hyperliquid-warning-indonesias-finfluencer-licence-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Hyperliquid follows Bybit onto Singapore's \"naughty\" list, Indonesia's new scheme to certify social media influencers promoting crypto: Asia Express.",
       "date": "2026-06-30T01:23:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "JPMorgan Executives Say Banking Rules Should Apply to Digital Assets",
-      "link": "https://www.pymnts.com/blockchain/2026/jpmorgan-executives-say-banking-rules-should-apply-to-digital-assets/",
-      "desc": "As the United States works to establish a framework for digital assets, lawmakers must ensure it includes durable safeguards, according to an article posted Monday (June 29) by JPMorgan Chase. The article was written by Umar Farooq, global co-head of J.P. Morgan Payments, and Peter Muriungi, CEO of Digital Assets and Blockchain Solutions at JPMorgan […] The post JPMorgan Executives Say Banking Rules Should Apply to Digital Assets appeared first on PYMNTS.com.",
-      "date": "2026-06-30T00:27:38.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -199,16 +229,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "FinTech Partnerships Force Banks to Fix API Oversight",
-      "link": "https://www.pymnts.com/news/banking/2026/fintech-partnerships-force-banks-to-fix-api-oversight/",
-      "desc": "Adding a FinTech partner has become much easier than managing dozens of them over time. To that end, banks and credit unions have been relying on outside providers for everything from payments and digital onboarding to fraud prevention and data analytics. Partnerships remain central to innovation strategies, but each new connection also expands the number […] The post FinTech Partnerships Force Banks to Fix API Oversight appeared first on PYMNTS.com.",
-      "date": "2026-06-29T22:57:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Ansem Airdrops $7M of $ANSEM Memecoin in Bid to Reach 1M Holders",
@@ -239,22 +259,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Ripple Hopes to Bring Lending Layer to XRP Ledger",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/ripple-hopes-bring-lending-layer-xrp-ledger/",
-      "desc": "Ripple wants to add a lending layer to its XRP Ledger blockchain, CoinDesk reported Monday (June 29). The move is a bid by the blockchain company to allow institutions to borrow against on-chain assets instead of simply issuing and moving them, according to the report. The planned XRPL Lending Protocol is built on a “simple […] The post Ripple Hopes to Bring Lending Layer to XRP Ledger appeared first on PYMNTS.com.",
-      "date": "2026-06-29T21:41:11.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/372314/xrp-ledger-missing-layer-draws-closer-lending-credit-features-ripple"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Strategy Snaps 9-Day Losing Streak as Bitcoin Giant Adopts 'Robust' Capital Framework",
@@ -272,22 +276,6 @@
       "desc": "The collapsed yield protocol, whose November failure froze roughly $160 million in deposits and left an estimated $285 million owed across DeFi lending markets, is asking potential creditors to submit claim information through an online form",
       "date": "2026-06-29T21:13:18.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Chainalysis Proposes Standards for Tracing Blockchain Transactions",
-      "link": "https://www.pymnts.com/blockchain/2026/chainalysis-proposes-standards-for-tracing-blockchain-transactions/",
-      "desc": "Blockchain analytics firm Chainalysis is proposing new standards for tracing funds on a blockchain. Chainalysis on Monday (June 29) introduced an ontology that explores how investigators can track funds to wallet clusters to help law enforcement in their investigations into illicit finance. “Investigators and compliance teams rely on blockchain data to follow and seize illicit […] The post Chainalysis Proposes Standards for Tracing Blockchain Transactions appeared first on PYMNTS.com.",
-      "date": "2026-06-29T20:52:59.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/06/29/crypto-analytics-firm-chainalysis-proposes-standards-for-blockchain-tracing"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -397,6 +385,16 @@
       "link": "https://decrypt.co/372316/galaxy-slashes-clarity-acts-2026-odds-to-50-as-senate-time-runs-short",
       "desc": "The digital asset firm cut its odds of the market structure bill passing this year to a coin toss, pointing to a shrinking Senate calendar.",
       "date": "2026-06-29T17:47:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "XRP Ledger's 'Missing Layer' Draws Closer as Developers Test Lending, Credit Features: Ripple",
+      "link": "https://decrypt.co/372314/xrp-ledger-missing-layer-draws-closer-lending-credit-features-ripple",
+      "desc": "Ripple outlined how the XRP Ledger Lending Protocol would provide institutions with a novel way to structure loans directly on-chain.",
+      "date": "2026-06-29T17:45:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -553,6 +551,16 @@
       "link": "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
       "desc": "BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.",
       "date": "2026-06-29T15:13:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto analytics firm Chainalysis proposes standards for blockchain tracing",
+      "link": "https://www.coindesk.com/policy/2026/06/29/crypto-analytics-firm-chainalysis-proposes-standards-for-blockchain-tracing",
+      "desc": "The blockchain analysis company published a proposed ontology for how investigators can identify clusters of crypto addresses and link them together.",
+      "date": "2026-06-29T15:07:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -767,16 +775,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin hovers below $60,000 as crypto braces for a pivotal week",
-      "link": "https://www.coindesk.com/markets/2026/06/29/bitcoin-hovers-below-usd60-000-as-crypto-braces-for-a-pivotal-week",
-      "desc": "BTC added 0.6% to $59,800 to start the week while SOL rose 2%, though derivatives data and chart formations point to continued downside risk.",
-      "date": "2026-06-29T11:03:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Vitalik Buterin says obfuscation could unlock private onchain crypto voting",
@@ -817,16 +815,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Europe’s unlicensed crypto firms face ‘wipeout’ as MiCA deadline hits",
-      "link": "https://www.coindesk.com/policy/2026/06/29/europe-s-unlicensed-crypto-firms-face-wipeout-as-final-regulatory-deadline-falls",
-      "desc": "European regulator ESMA called on unauthorized crypto-asset service providers to wind down their businesses in an orderly manner as the MiCA transitional period ends on July 1.",
-      "date": "2026-06-29T10:01:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "BTC price RSI prints key 2026 signal: Five things to know in Bitcoin this week",
@@ -857,16 +845,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin falls into a technical no man’s land as major support levels sit miles away",
-      "link": "https://www.coindesk.com/markets/2026/06/29/bitcoin-falls-into-a-technical-no-man-s-land-as-major-support-levels-sit-miles-away",
-      "desc": "Bitcoin is trading below key technical and onchain valuation levels, with historical bear market patterns suggesting a potential bottom closer to $45,000.",
-      "date": "2026-06-29T09:40:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns",
@@ -880,16 +858,6 @@
           "url": "https://cointelegraph.com/news/galaxy-cuts-2026-clarity-act-odds-50?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption",
-      "link": "https://www.theblock.co/post/406492/loopring-sunsets-dex?utm_source=rss&utm_medium=rss",
-      "desc": "Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.",
-      "date": "2026-06-29T07:21:49.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -949,16 +917,6 @@
       "link": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The Basel-based institution said that private digital tokens fall short of the requirements for sound money and urged policymakers to accelerate work on tokenized forms of central bank and commercial bank money.",
       "date": "2026-06-28T18:58:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Will Bitcoin price recover in July?",
-      "link": "https://cointelegraph.com/markets/will-bitcoin-price-recover-in-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin’s past July gains and heavy short bets point to a rally toward $75,000, but a break below key support keeps the risk of $55,000 in play.",
-      "date": "2026-06-28T16:12:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
