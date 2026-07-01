@@ -1,29 +1,18 @@
 {
-  "generatedAt": "2026-07-01T16:18:11.120Z",
+  "generatedAt": "2026-07-01T17:16:01.976Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 243,
+  "filteredOut": 240,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 13,
   "items": [
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "StarkWare unveils Starknet quantum roadmap, says industry has no excuse",
-      "link": "https://cointelegraph.com/news/starkware-ceo-blasts-crypto-complacency-in-quantum-threat-elliptic-illusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "“The crypto industry shouldn’t need wake-up calls from the White House or anyone else,” said StarkWare CEO Eli Ben-Sasson.",
-      "date": "2026-06-30T12:30:00.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-01T16:18:10.646Z",
+      "date": "2026-07-01T17:16:01.439Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +22,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-01T16:18:10.646Z",
+      "date": "2026-07-01T17:16:01.439Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +32,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-01T16:18:10.646Z",
+      "date": "2026-07-01T17:16:01.439Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +42,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-01T16:18:10.646Z",
+      "date": "2026-07-01T17:16:01.439Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +52,93 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-01T16:18:10.646Z",
+      "date": "2026-07-01T17:16:01.439Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Drift Protocol Rebrands to Velocity DEX Ahead of Relaunch",
+      "link": "https://thedefiant.io/news/defi/drift-protocol-rebrands-to-velocity-dex-ahead-of-relaunch",
+      "desc": "Solana perpetuals exchange Drift Protocol has rebranded to Velocity DEX, with a private beta planned in the coming days as the platform rebuilds after a $295M April exploit.",
+      "date": "2026-07-01T17:10:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin price returns to $60K as US dollar strength rejects weekly high",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-returns-to-60k-as-us-dollar-strength-rejects-from-weekly-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin started July with a bang, rallying above $60,000 as traders predict a relief rally as the “base case” throughout the month.",
+      "date": "2026-07-01T16:47:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "‘An honest, neutral counterpart:’ Bitmine, Sharplink and Joe Lubin back new Ethereum Institutional non-profit",
+      "link": "https://www.theblock.co/post/406920/neutral-counterpart-bitmine-sharplink-joe-lubin-back-ethereum-institutional-non-profit?utm_source=rss&utm_medium=rss",
+      "desc": "Bitmine, Sharplink and Consensys CEO Joseph Lubin are backing another Ethereum-focused non-profit called the Ethereum Institutional.",
+      "date": "2026-07-01T16:44:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Pops Off 21-Month Low to $60K as Soft Data Eases Rate-Hike Fears",
+      "link": "https://decrypt.co/372522/bitcoin-pops-off-21-month-low-to-60k-as-soft-data-eases-rate-hike-fears",
+      "desc": "BTC recovered from local lows to $60,000 after softer U.S. jobs and factory data revived hopes the Fed's hawkish turn could be easing.",
+      "date": "2026-07-01T16:40:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "ENS Community Member Proposes Dissolving DAO After Founder Blocks Security Council Renewal",
+      "link": "https://thedefiant.io/news/nfts-and-web3/ens-community-member-proposes-dissolving-dao-after-founder-blocks-security-council-renewal",
+      "desc": "Christoph Jentzsch, who wrote code for the original 2016 \"The DAO\" and now runs Tokenize.it, called for ENS DAO to wind down and revoke its own upgrade authority, a day after ENS co-founder Nick Johnson used roughly half of the protocol's active voting power to block a Security Council renewal.",
+      "date": "2026-07-01T16:38:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/406767/ens-co-founder-nick-johnson-blocks-security-council-renewal-with-80-of-votes?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
+      "link": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
+      "desc": "Securitize President Brett Redfearn argues that tokenization will bring crypto's core benefit of disintermediation to retail investors.",
+      "date": "2026-07-01T16:36:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-f0fbb82c?mod=rss_markets_main",
+      "desc": "Find insight on Cloud Capital, Bitcoin, Siltronic and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "date": "2026-07-01T16:26:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Circle CEO Rebuts OUSD Pitch, Defends USDC's Network Effects After Stock Slide",
+      "link": "https://thedefiant.io/converge/markets/circle-ceo-rebuts-ousd-pitch-defends-usdc-s-network-effects-after-stock-slide",
+      "desc": "Jeremy Allaire argued that stablecoin networks are winner-take-most businesses built over years, two days after the launch of the 140-plus-firm Open USD consortium sent Circle's stock down more than 17% in a single session.",
+      "date": "2026-07-01T16:20:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -160,7 +235,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Bitcoin climbs toward $60,000 after Fed Chair Warsh said inflation risks has come down",
+      "title": "Bitcoin breaks above $60,000 after Fed Chair Warsh said inflation risks has come down",
       "link": "https://www.coindesk.com/markets/2026/07/01/bitcoin-retakes-usd60-000-level-after-fed-chair-warsh-said-inflation-risks-has-come-down",
       "desc": "The Fed chair reiterated the central bank's commitment to its 2% inflation target while signaling artificial intelligence could reshape the economy and monetary policy.",
       "date": "2026-07-01T14:36:00.000Z",
@@ -245,7 +320,13 @@
       "link": "https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption",
       "desc": "The launch comes as the Ethereum Foundation narrows its focus to stewarding the core protocol, with independent organizations like EthLabs emerging to take on ecosystem functions such as research & development.",
       "date": "2026-07-01T13:41:44.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/ethereum-institutional-nonprofit-launches-institutional-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -663,6 +744,16 @@
       "termBoost": 0
     },
     {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #411 Recap Podcast",
+      "link": "https://bitcoinops.org/en/podcast/2026/06/30/",
+      "desc": "Mark “Murch” Erhardt, Gustavo Flores Echaiz, and Mike Schmidt are joined by Nishant Bansal and Matthew Zipkin to discuss Newsletter #411.",
+      "date": "2026-06-30T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Lighter to Burn Repurchased LIT, Fund Staking from Ecosystem Reserve",
@@ -699,16 +790,6 @@
       "link": "https://cointelegraph.com/markets/bitmine-ether-buys-eclipsed-by-345m-eth-etf-345m-outflows-is-sub-15k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Tokenization and RWA TVL growth highlight Ethereum’s fundamentals, but stagnant DApps and spot ETF outflows keep the pressure on ETH price.",
       "date": "2026-06-30T21:16:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "ENS co-founder Nick Johnson blocks Security Council renewal with 80% of votes",
-      "link": "https://www.theblock.co/post/406767/ens-co-founder-nick-johnson-blocks-security-council-renewal-with-80-of-votes?utm_source=rss&utm_medium=rss",
-      "desc": "Johnson cited unaddressed concerns with the Security Council while backing an alternative proposal submitted on Tuesday.",
-      "date": "2026-06-30T21:09:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -779,7 +860,18 @@
       "link": "https://bitcoinmagazine.com/news/anchorage-digital-and-binance-crypto",
       "desc": "Bitcoin Magazine Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading Anchorage Digital and Binance launched off-exchange settlement for institutional crypto trading, allowing institutions to trade on Binance while keeping their assets in segregated custody at Anchorage Digital Bank instead of on the exchange. This post Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-30T18:45:49.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/cefi/binance-anchorage-digital-off-exchange-settlement-institutional-traders"
+        },
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/anchorage-digital-expands-binance-access-with-off-exchange-settlement-for-institutions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -819,16 +911,6 @@
       "link": "https://www.finextra.com/newsarticle/48017/big-payment-names-back-new-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Visa, Mastercard, US Bank, Google and Coinbase are among dozens of firms backing Open USD, a new stablecoin slated to launch later this year.",
       "date": "2026-06-30T17:25:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "SEC opens ETF rule review following crypto fund surge, prediction markets push",
-      "link": "https://www.theblock.co/post/406750/sec-opens-etf-rule-review-following-crypto-fund-surge-prediction-markets-push?utm_source=rss&utm_medium=rss",
-      "desc": "The SEC is taking a fresh look at how a proposed fast-growing new class of ETFs tied to prediction markets should be regulated.",
-      "date": "2026-06-30T17:19:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -933,22 +1015,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "UK Sets Landmark Crypto Rules in Race to Become Global Hub",
-      "link": "https://bitcoinmagazine.com/news/uk-sets-landmark-crypto-rules-in-race",
-      "desc": "Bitcoin Magazine UK Sets Landmark Crypto Rules in Race to Become Global Hub The UK unveiled its most comprehensive crypto regulatory framework yet, requiring firms to meet capital, stress-testing, and market-abuse standards while easing some stablecoin rules. This post UK Sets Landmark Crypto Rules in Race to Become Global Hub first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-06-30T14:05:00.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/372394/fca-finalizes-landmark-crypto-rules-to-make-uk-a-global-hub"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Crypto Wallet MetaMask Launches Yield-Paying Money Account on Monad",
@@ -969,32 +1035,22 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Theo becomes first crypto-native investor in Fidelity tokenized fund",
-      "link": "https://cointelegraph.com/news/fidelity-tokenized-fund-first-crypto-native-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The onchain capital markets platform allocated $20 million to Fidelity International's tokenized liquidity fund as tokenized Treasury products continue to attract institutional capital.",
-      "date": "2026-06-30T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Swan's Cory Klippsten sees record Bitcoin holder supply revealing early bottom",
-      "link": "https://cointelegraph.com/news/record-bitcoin-holder-supply-early-bottom-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The record Bitcoin supply held by long-term holders may suggest that the crypto market bottom will come early, according to Swan’s Cory Klippsten.",
-      "date": "2026-06-30T12:44:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Morning Minute: A Change of Strategy",
       "link": "https://decrypt.co/372411/morning-minute-a-change-of-strategy",
       "desc": "Michael Saylor's Strategy is rolling out some major changes to how it handles Bitcoin going forward. And so far, the market likes it.",
       "date": "2026-06-30T12:13:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "FCA Finalizes Landmark Crypto Rules to Make UK a 'Global Hub'",
+      "link": "https://decrypt.co/372394/fca-finalizes-landmark-crypto-rules-to-make-uk-a-global-hub",
+      "desc": "The UK regulator has published its final rulebook for crypto firms ahead of a mandatory regime coming into force in late 2027.",
+      "date": "2026-06-30T10:58:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1081,46 +1137,6 @@
       "link": "https://decrypt.co/372314/xrp-ledger-missing-layer-draws-closer-lending-credit-features-ripple",
       "desc": "Ripple outlined how the XRP Ledger Lending Protocol would provide institutions with a novel way to structure loans directly on-chain.",
       "date": "2026-06-29T17:45:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "CFTC Expands Polymarket Probe to Staged Trades and Fake Wins",
-      "link": "https://thedefiant.io/news/regulation/cftc-expands-polymarket-probe-staged-trades-fake-wins",
-      "desc": "The Commodity Futures Trading Commission is conducting a broad investigation into Polymarket covering staged trades and fake winning bets, Bloomberg reported Friday, advancing the agency’s scrutiny beyond the platform’s prior influencer scheme.",
-      "date": "2026-06-29T16:56:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "OKX and Coinbase Race to Sign Up Binance's Displaced EU Users Before MiCA Deadline",
-      "link": "https://thedefiant.io/news/cefi/okx-coinbase-race-binance-displaced-eu-users-mica-deadline",
-      "desc": "OKX is offering EEA users deposit bonuses of up to 8% and Coinbase has launched a parallel transfer bonus for subscribers in eight European markets, as both licensed exchanges compete to capture users displaced by Binance's July 1 MiCA wind-down.",
-      "date": "2026-06-29T16:48:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "BNY Adds USDC to Institutional Custody Platform in Expanded Circle Partnership",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/bny-usdc-institutional-custody-platform-circle-partnership",
-      "desc": "BNY, the world's largest custodian bank with $59.4 trillion in assets under custody, has made USDC the first stablecoin on its Digital Asset Custody platform, enabling institutional clients to store, transfer, mint, and redeem Circle's dollar-pegged token alongside traditional assets.",
-      "date": "2026-06-29T16:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "BlackRock Adds Ethena's Synthetic Dollar to Its $20T Aladdin Risk Management Platform",
-      "link": "https://thedefiant.io/news/defi/blackrock-adds-ethena-s-synthetic-dollar-to-its-usd20t-aladdin-risk-management-platform",
-      "desc": "The world's largest asset manager will list the USDe synthetic dollar as an approved asset on its institutional risk platform, while its BUIDL fund becomes the primary backing for Ethena's whitelabel stablecoins.",
-      "date": "2026-06-29T16:20:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
