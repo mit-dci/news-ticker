@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T09:49:38.213Z",
+  "generatedAt": "2026-07-01T11:07:42.041Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 249,
+  "filteredOut": 250,
   "errors": [],
   "dupsMerged": 9,
   "items": [
@@ -26,30 +26,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-01T09:49:38.094Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-01T09:49:38.094Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-01T09:49:38.094Z",
+      "date": "2026-07-01T11:07:39.831Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -59,7 +39,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-01T09:49:38.094Z",
+      "date": "2026-07-01T11:07:39.831Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -69,7 +49,77 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-01T09:49:38.094Z",
+      "date": "2026-07-01T11:07:39.831Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-07-01T11:07:39.830Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-07-01T11:07:39.830Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Europe’s MiCA crypto regime is fully in force: Here’s who wins and loses",
+      "link": "https://www.theblock.co/post/406766/europes-mica-crypto-regime-is-fully-in-force-heres-who-wins-and-loses?utm_source=rss&utm_medium=rss",
+      "desc": "With the July 1 deadline now passed, how will the end of MiCA's final transition phase affect users, companies, and the market?",
+      "date": "2026-07-01T11:01:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Crypto enters Q3 with thinner liquidity but less leverage after Q2 reset: Talos",
+      "link": "https://cointelegraph.com/news/crypto-q3-less-leverage-thinner-liquidity-talos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin and Ether open interest fell sharply after $8.35 billion in long liquidations, while ETF outflows, weaker Strategy purchases and declining market depth reduced liquidity.",
+      "date": "2026-07-01T10:59:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Ripple, Coinbase among top donors in crypto’s $189 million election spending: report",
+      "link": "https://www.theblock.co/post/406851/ripple-coinbase-election-donations?utm_source=rss&utm_medium=rss",
+      "desc": "Crypto firms contributed $189 million to the 2026 midterms, with Ripple, Crypto.com and Coinbase leading corporate donations.",
+      "date": "2026-07-01T10:49:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin options traders load up on $50,000 puts and gold futures flash a death cross",
+      "link": "https://www.coindesk.com/markets/2026/07/01/bitcoin-options-traders-load-up-on-usd50-000-puts-and-gold-futures-flash-a-death-cross",
+      "desc": "Bitcoin options flows and a record gold OI suggest traders are bracing for further downside rather than a sustained recovery.",
+      "date": "2026-07-01T10:47:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Aave logs biggest network-growth day in nearly 5 years as DeFi interest returns",
+      "link": "https://www.coindesk.com/markets/2026/07/01/aave-logs-biggest-network-growth-day-in-nearly-5-years-as-defi-interest-returns",
+      "desc": "The lending protocol added 1,806 new wallets in a single day, the most since October 2021, according to Santiment. The AAVE token has risen about 20% in a week even as the broader market slides.",
+      "date": "2026-07-01T10:20:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -136,6 +186,16 @@
       "link": "https://www.coindesk.com/tech/2026/07/01/live-markets-u-s-spot-bitcoin-etfs-had-their-worst-month-ever-in-june-shedding-usd4-5-billion",
       "desc": "The record outflow beat the previous worst month by 29% and came on nine consecutive days of redemptions to close the period.",
       "date": "2026-07-01T07:05:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Why Poland is the only EU country where crypto firms can't get a MiCA license",
+      "link": "https://www.coindesk.com/policy/2026/07/01/why-poland-is-the-only-eu-country-where-crypto-firms-can-t-get-a-mica-license",
+      "desc": "President Karol Nawrocki refuses to sign a law that gives the regulator power to approve companies, forcing tech founders to look outside their own borders for permission to operate.",
+      "date": "2026-07-01T06:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -228,11 +288,6 @@
       "date": "2026-07-01T02:30:07.000Z",
       "alsoAt": [
         {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/48018/uk-investors-sue-binance?utm_medium=rssfinextra&utm_source=finextrafeed"
-        },
-        {
           "source": "DECRYPT",
           "sourceId": "decrypt",
           "url": "https://decrypt.co/372452/binance-changpeng-zhao-sued-200-million-british-investors-reuters"
@@ -248,6 +303,22 @@
       "desc": "A man pleaded guilty to fraud charges after prosecutors said he tricked people into the promise of making returns in crypto liquidity pools.",
       "date": "2026-07-01T01:58:40.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "UK investors sue Binance",
+      "link": "https://www.finextra.com/newsarticle/48018/uk-investors-sue-binance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Nearly 1700 UK investors have filed a group action legal claim seeking at least £150 million from crypto platform Binance and its founder Changpeng Zhao.",
+      "date": "2026-07-01T00:01:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/406842/uk-investors-sue-binance-cz?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -487,16 +558,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Business use of stablecoins set for growth surge: Cybrid report",
-      "link": "https://cointelegraph.com/news/42-of-businesses-surveyed-use-stablecoins-for-cross-border-payments-cybrid-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The majority of businesses surveyed are likely to use stablecoins within the next 12 months, while regulatory clarity remained the biggest barrier to wider adoption.",
-      "date": "2026-06-30T16:34:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Crypto Firms Lead $517 Million Corporate Surge Into 2026 Midterms",
@@ -684,16 +745,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Standard Chartered secures MiCA and EMI license",
-      "link": "https://www.finextra.com/pressarticle/110296/standard-chartered-secures-mica-and-emi-license?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Standard Chartered today announced that it has been granted authorisation under the European Union’s Markets in Crypto-Assets (MiCA) Regulation as well as an Electronic Money Institution (EMI), marking a significant milestone in the next phase of its Financing & Securities Services digital asset custody strategy in Europe.",
-      "date": "2026-06-30T13:55:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Tokenized securities need competition, not gatekeepers",
@@ -794,16 +845,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Hollywood director Carl Rinsch sentenced to 30 months for diverting $11 million in TV production funds to stock options, crypto and luxury purchases",
-      "link": "https://www.theblock.co/post/406675/hollywood-director-carl-rinsch-sentenced-to-30-months-for-diverting-11-million-in-tv-production-funds-to-stock-options-crypto-and-luxury-purchases?utm_source=rss&utm_medium=rss",
-      "desc": "\"47 Ronin\" director Carl Rinsch got 30 months in prison for stealing $11M meant for a Netflix show, spent on crypto and Rolls-Royces.",
-      "date": "2026-06-30T10:57:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin nears 2024 lows as options traders pay up for downside protection",
@@ -834,52 +875,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
-      "link": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
-      "desc": "The Financial Conduct Authority's proposal follows the Bank of England's backtracking on the limit to the value of stablecoins an individual could hold.",
-      "date": "2026-06-30T10:08:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
-      "link": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit",
-      "desc": "The group built trust via WhatsApp, then misappropriated user funds to Hong Kong bank accounts instead of executing any actual crypto trades.",
-      "date": "2026-06-30T09:54:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
       "link": "https://decrypt.co/372391/47-ronin-director-gets-30-months-for-spending-netflixs-11m-on-dogecoin",
       "desc": "Carl Rinsch gambled Netflix's $11 million on stock options and Dogecoin, then spent the winnings on luxury cars and watches.",
       "date": "2026-06-30T09:20:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Benchmark sees over 500% upside in Strategy, reiterates $570 target on new capital framework",
-      "link": "https://www.theblock.co/post/406645/benchmark-sees-500-percent-upside-strategy?utm_source=rss&utm_medium=rss",
-      "desc": "Benchmark reiterated its Buy rating and $570 target on Strategy, citing its new active two-way capital management framework.",
-      "date": "2026-06-30T08:57:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin's correlation with dollar-yen rate hits -0.90, undercutting 'carry trade' theory",
-      "link": "https://www.coindesk.com/markets/2026/06/30/bitcoin-s-52-week-correlation-with-usd-jpy-hits-0-90-undercutting-carry-trade-theory",
-      "desc": "Bitcoin’s price has shown an unusually strong negative 52-week correlation with the dollar-yen exchange rate.",
-      "date": "2026-06-30T07:14:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1056,16 +1057,6 @@
       "link": "https://decrypt.co/372283/morning-minute-bitcoin-headed-for-rare-back-to-back-quarterly-loss",
       "desc": "Another $1.79B in ETF outflows last week certainly isn't helping—but if history repeats, there is reason for hope.",
       "date": "2026-06-29T11:50:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Ukraine Takes $8.3M in Seized Crypto Under State Management in a First",
-      "link": "https://decrypt.co/372279/ukraine-takes-8-3m-in-seized-crypto-under-state-management-in-a-first",
-      "desc": "Over 8.3 million USDT seized from an alleged hacking ring has been moved to a wallet held by Ukraine's asset-recovery agency, ARMA.",
-      "date": "2026-06-29T10:48:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
