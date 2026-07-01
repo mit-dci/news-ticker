@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-01T03:10:41.787Z",
+  "generatedAt": "2026-07-01T05:02:48.426Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 249,
+  "filteredOut": 252,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "cointelegraph",
@@ -26,30 +26,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-01T03:10:41.361Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-01T03:10:41.361Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-01T03:10:41.360Z",
+      "date": "2026-07-01T05:02:47.964Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -59,7 +39,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-01T03:10:41.360Z",
+      "date": "2026-07-01T05:02:47.964Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -69,7 +49,47 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-01T03:10:41.360Z",
+      "date": "2026-07-01T05:02:47.964Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-07-01T05:02:47.964Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-07-01T05:02:47.964Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Taiwan passes key crypto law, clearing legal uncertainty for digital asset sector",
+      "link": "https://www.theblock.co/post/406816/taiwan-passes-crypto-law?utm_source=rss&utm_medium=rss",
+      "desc": "The law requires crypto platforms to obtain licenses from the Financial Supervisory Commission before operating.",
+      "date": "2026-07-01T04:25:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Small fraction of EU crypto groups hold licence as new rules come into force",
+      "link": "https://www.ft.com/content/e19a0352-f76d-4293-870b-9ed5e01050fd",
+      "desc": "Stringent bloc-wide MiCA regulations push unlicensed digital-assets companies to offload customers",
+      "date": "2026-07-01T04:00:26.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -507,7 +527,13 @@
       "link": "https://bitcoinmagazine.com/news/uk-sets-landmark-crypto-rules-in-race",
       "desc": "Bitcoin Magazine UK Sets Landmark Crypto Rules in Race to Become Global Hub The UK unveiled its most comprehensive crypto regulatory framework yet, requiring firms to meet capital, stress-testing, and market-abuse standards while easing some stablecoin rules. This post UK Sets Landmark Crypto Rules in Race to Become Global Hub first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-06-30T14:05:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/372394/fca-finalizes-landmark-crypto-rules-to-make-uk-a-global-hub"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -672,22 +698,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "FCA Finalizes Landmark Crypto Rules to Make UK a 'Global Hub'",
-      "link": "https://decrypt.co/372394/fca-finalizes-landmark-crypto-rules-to-make-uk-a-global-hub",
-      "desc": "The UK regulator has published its final rulebook for crypto firms ahead of a mandatory regime coming into force in late 2027.",
-      "date": "2026-06-30T10:58:51.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/406546/uk-sets-capital-market-abuse-rules-landmark-crypto-framework?utm_source=rss&utm_medium=rss"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Hollywood director Carl Rinsch sentenced to 30 months for diverting $11 million in TV production funds to stock options, crypto and luxury purchases",
@@ -734,6 +744,16 @@
       "link": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
       "desc": "The Financial Conduct Authority's proposal follows the Bank of England's backtracking on the limit to the value of stablecoins an individual could hold.",
       "date": "2026-06-30T10:08:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
+      "link": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit",
+      "desc": "The group built trust via WhatsApp, then misappropriated user funds to Hong Kong bank accounts instead of executing any actual crypto trades.",
+      "date": "2026-06-30T09:54:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -838,22 +858,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "SEC wins $5.4M judgment in NanoBit crypto fraud case",
-      "link": "https://cointelegraph.com/news/sec-wins-54m-judgment-in-nanobit-crypto-fraud-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The SEC alleged that NanoBit’s crypto trading platform was fake and that hundreds of thousands of dollars in investor funds were misappropriated.",
-      "date": "2026-06-30T03:06:34.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Securitize to debut on NYSE this Thursday after gaining final nod for merger",
@@ -864,42 +868,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Singapore's Hyperliquid warning, Indonesia's FinFluencer license: Asia Express",
-      "link": "https://cointelegraph.com/features/singapores-hyperliquid-warning-indonesias-finfluencer-licence-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Hyperliquid follows Bybit onto Singapore's \"naughty\" list, Indonesia's new scheme to certify social media influencers promoting crypto: Asia Express.",
-      "date": "2026-06-30T01:23:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Strategy Abandons ‘Never Sell Bitcoin’ Mantra in Bid to Outlast Crypto Winter",
-      "link": "https://www.wsj.com/finance/currencies/strategy-abandons-never-sell-bitcoin-mantra-in-bid-to-outlast-crypto-winter-b36e4c2f?mod=rss_markets_main",
-      "desc": "Left with few good options, Michael Saylor’s company “kicked the can down the road” with plans for stock buybacks and bitcoin sales.",
-      "date": "2026-06-30T00:20:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "JPMorgan's Kinexys Blockchain Hits $4 Trillion, Adds Five APAC Currencies",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-kinexys-4-trillion-apac-currencies",
       "desc": "J.P. Morgan's Kinexys blockchain payments platform has processed more than $4 trillion in transactions since launch and expanded to eight currencies, adding the Australian dollar, Hong Kong dollar, Japanese yen, Chinese renminbi and Singapore dollar to serve institutional clients across",
       "date": "2026-06-29T23:25:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "UK regulator waters down landmark crypto rules",
-      "link": "https://www.ft.com/content/c2ace628-7bd9-4f3b-b835-970d6dd930bb",
-      "desc": "FCA eases capital and disclosure requirements after complaints that incoming digital assets regime was too onerous",
-      "date": "2026-06-29T23:01:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
