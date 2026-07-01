@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T15:25:13.796Z",
+  "generatedAt": "2026-07-01T16:18:11.120Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 245,
+  "filteredOut": 243,
   "errors": [],
   "dupsMerged": 10,
   "items": [
@@ -18,22 +18,12 @@
       "termBoost": 3
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Nebeus receives MiCA CASP authorisation",
-      "link": "https://www.finextra.com/pressarticle/110317/nebeus-receives-mica-casp-authorisation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Nebeus has been authorised by Spain's CNMV as a Crypto-Asset Service Provider (CASP) under the EU's Markets in Crypto-Assets (MiCA) regulation, placing the Barcelona-based fintech among the first regulated firms able to passport digital asset services across the European Economic Area.",
-      "date": "2026-07-01T15:32:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-01T15:25:13.638Z",
+      "date": "2026-07-01T16:18:10.646Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +33,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-01T15:25:13.638Z",
+      "date": "2026-07-01T16:18:10.646Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +43,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-01T15:25:13.638Z",
+      "date": "2026-07-01T16:18:10.646Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +53,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-01T15:25:13.638Z",
+      "date": "2026-07-01T16:18:10.646Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -73,7 +63,57 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-01T15:25:13.638Z",
+      "date": "2026-07-01T16:18:10.646Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+      "link": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
+      "desc": "The investment bank said new competition from the Stripe- and Coinbase-backed stablecoin consortium could pressure USDC's growth.",
+      "date": "2026-07-01T16:11:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Open USD’s Biggest Challenge Isn’t Circle or Tether, It’s History",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/open-usds-biggest-challenge-isnt-circle-or-tether-its-history/",
+      "desc": "Institutional memory tends to go out the window when covering crypto’s innovations. But the Tuesday (June 30) announcement that more than 140 companies spanning the payments, banking, asset management and cryptocurrency infrastructure spaces have joined a consortium called Open Standard to launch Open USD, or OUSD, a dollar-backed stablecoin, should have had at least some stakeholders feeing […] The post Open USD’s Biggest Challenge Isn’t Circle or Tether, It’s History appeared first on PYMNTS.com.",
+      "date": "2026-07-01T15:58:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ethereum Institutional Launches as Independent Nonprofit to Court Banks and Asset Managers",
+      "link": "https://thedefiant.io/news/blockchains/ethereum-institutional-launches-as-independent-nonprofit-to-court-banks-and-asset-managers",
+      "desc": "A new nonprofit backed by BitMine, SharpLink and Joseph Lubin spins the Ethereum Foundation's institutional outreach work into an independent organization, the second such steward group the three backers have funded in ten days, as the Foundation itself shrinks.",
+      "date": "2026-07-01T15:53:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Solana-based prediction market app on Phantom wallet launches",
+      "link": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches?utm_source=rss&utm_medium=rss",
+      "desc": "“Prediction markets are one of the most powerful applications you can build on a high-performance blockchain,” said Solana Foundation.",
+      "date": "2026-07-01T15:34:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Nebeus receives MiCA CASP authorisation",
+      "link": "https://www.finextra.com/pressarticle/110317/nebeus-receives-mica-casp-authorisation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Nebeus has been authorised by Spain's CNMV as a Crypto-Asset Service Provider (CASP) under the EU's Markets in Crypto-Assets (MiCA) regulation, placing the Barcelona-based fintech among the first regulated firms able to passport digital asset services across the European Economic Area.",
+      "date": "2026-07-01T15:32:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -561,16 +601,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Taiwan’s sweeping crypto law raises the bar with licensing, reserve mandates, and tough penalties",
-      "link": "https://www.coindesk.com/policy/2026/07/01/taiwan-s-sweeping-crypto-law-raises-the-bar-with-licensing-reserve-mandates-and-tough-penalties",
-      "desc": "Taiwan has passed a sweeping new law to regulate its crypto sector, sending the bill to the President for final approval.",
-      "date": "2026-07-01T05:04:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Taiwan passes key crypto law, clearing legal uncertainty for digital asset sector",
@@ -879,16 +909,6 @@
       "link": "https://www.finextra.com/videoarticle/3536/key-trends-in-2026-payments--the-digital-euro-timeline?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "At EBAday 2026, Julio César Fernández Ramos, Director of Business Development and Operations, and Nuria Mohedas Tamayo, Director of Payments and Digital Banking at Cecabank, joined FinextraTV to discuss key trends within payments innovation. Fernández Ramos explained how digital wallets are becoming the principal interface for customers, aggregating cards, accounts and authentication. Mohedas Tamayo highlighted the need for institutions to be prepared for ongoing changes impacting both customers and business models.",
       "date": "2026-06-30T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue",
-      "link": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue?utm_source=rss&utm_medium=rss",
-      "desc": "Expected to launch later this year, Open Standard said businesses will be able to mint and redeem Open USD without fees or volume limits.",
-      "date": "2026-06-30T14:57:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
