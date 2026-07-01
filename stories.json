@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-01T01:48:10.490Z",
+  "generatedAt": "2026-07-01T03:10:41.787Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 250,
+  "filteredOut": 249,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "cointelegraph",
@@ -26,40 +26,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-01T01:48:10.392Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-01T01:48:10.392Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-01T01:48:10.392Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-01T01:48:10.392Z",
+      "date": "2026-07-01T03:10:41.361Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -69,24 +39,69 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-01T01:48:10.392Z",
+      "date": "2026-07-01T03:10:41.361Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "UK investors sue Binance",
-      "link": "https://www.finextra.com/newsarticle/48018/uk-investors-sue-binance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Nearly 1700 UK investors have filed a group action legal claim seeking at least £150 million from crypto platform Binance and its founder Changpeng Zhao.",
-      "date": "2026-07-01T00:01:00.000Z",
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-07-01T03:10:41.360Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-07-01T03:10:41.360Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-07-01T03:10:41.360Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "UK crypto investors sue Binance, Changpeng Zhao for $200M",
+      "link": "https://cointelegraph.com/news/uk-crypto-investors-sue-binance-changpeng-zhao-for-potential-200m-payout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "One Binance customer said he lost the equivalent of more than $132,000 from the crypto exchange’s derivatives offerings before restrictions were imposed on Binance.",
+      "date": "2026-07-01T02:30:07.000Z",
       "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48018/uk-investors-sue-binance?utm_medium=rssfinextra&utm_source=finextrafeed"
+        },
         {
           "source": "DECRYPT",
           "sourceId": "decrypt",
           "url": "https://decrypt.co/372452/binance-changpeng-zhao-sued-200-million-british-investors-reuters"
         }
       ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Million-dollar homes, luxury bags and Lamborghinis: Florida man pleads guilty in crypto fraud scheme",
+      "link": "https://www.theblock.co/post/406789/florida-man-pleads-guilty-crypto-fraud?utm_source=rss&utm_medium=rss",
+      "desc": "A man pleaded guilty to fraud charges after prosecutors said he tricked people into the promise of making returns in crypto liquidity pools.",
+      "date": "2026-07-01T01:58:40.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -859,6 +874,16 @@
       "termBoost": 0
     },
     {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Strategy Abandons ‘Never Sell Bitcoin’ Mantra in Bid to Outlast Crypto Winter",
+      "link": "https://www.wsj.com/finance/currencies/strategy-abandons-never-sell-bitcoin-mantra-in-bid-to-outlast-crypto-winter-b36e4c2f?mod=rss_markets_main",
+      "desc": "Left with few good options, Michael Saylor’s company “kicked the can down the road” with plans for stock buybacks and bitcoin sales.",
+      "date": "2026-06-30T00:20:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "JPMorgan's Kinexys Blockchain Hits $4 Trillion, Adds Five APAC Currencies",
@@ -875,16 +900,6 @@
       "link": "https://www.ft.com/content/c2ace628-7bd9-4f3b-b835-970d6dd930bb",
       "desc": "FCA eases capital and disclosure requirements after complaints that incoming digital assets regime was too onerous",
       "date": "2026-06-29T23:01:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "UK sets final crypto rules as firms face 2027 FCA authorization deadline",
-      "link": "https://cointelegraph.com/news/uk-crypto-rules-2027-fca-authorization-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The UK’s financial regulator has published its crypto regulatory framework, setting the authorization deadline for cryptocurrency firms for February 2027.",
-      "date": "2026-06-29T23:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -915,16 +930,6 @@
       "link": "https://thedefiant.io/news/defi/stream-finance-starts-collecting-creditor-claims-in-step-toward-global-resolution",
       "desc": "The collapsed yield protocol, whose November failure froze roughly $160 million in deposits and left an estimated $285 million owed across DeFi lending markets, is asking potential creditors to submit claim information through an online form",
       "date": "2026-06-29T21:13:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "TD Cowen says crypto market structure bill passage ‘far from assured’ before midterm election",
-      "link": "https://www.theblock.co/post/406621/td-cowen-crypto-market-structure-bill-clarity-act?utm_source=rss&utm_medium=rss",
-      "desc": "The passage of the crypto market structure bill, or Clarity Act, before the November midterm election is \"far from assured,\" said TD Cowen.",
-      "date": "2026-06-29T20:38:52.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
