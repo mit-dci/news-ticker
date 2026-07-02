@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-07-02T16:12:55.844Z",
+  "generatedAt": "2026-07-02T17:04:58.443Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 241,
-  "errors": [
-    "COINDESK: fetch failed"
-  ],
-  "dupsMerged": 4,
+  "successCount": 18,
+  "filteredOut": 250,
+  "errors": [],
+  "dupsMerged": 8,
   "items": [
     {
       "source": "coincenter",
@@ -21,30 +19,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-02T16:12:46.015Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-02T16:12:46.015Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-02T16:12:46.014Z",
+      "date": "2026-07-02T17:04:58.166Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -54,7 +32,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-02T16:12:46.014Z",
+      "date": "2026-07-02T17:04:58.166Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,7 +42,37 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-02T16:12:46.014Z",
+      "date": "2026-07-02T17:04:58.166Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-07-02T17:04:58.166Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-07-02T17:04:58.166Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
+      "link": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi",
+      "desc": "The broker plans to bring perpetual futures into Zengo wallet and expand DeFi products to its core platform as rivals like Robinhood expand onchain offerings.",
+      "date": "2026-07-02T17:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -109,6 +117,32 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
+      "link": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action",
+      "desc": "ISIS-K allegedly used its media wing to solicit donations via Tron, Monero, and Bitcoin, highlighting stablecoin issuers' growing role in sanctions enforcement.",
+      "date": "2026-07-02T14:49:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares",
+      "link": "https://www.coindesk.com/business/2026/07/01/ondo-finance-debuts-sec-aligned-tokenized-stock-model-with-blackrock-etf-micron-shares",
+      "desc": "Broadridge and transfer agent Oasis Pro underpin a new structure that keeps tokenized securities within existing U.S. market rules, based on the SEC's third-party custodial model.",
+      "date": "2026-07-02T14:16:02.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/407031/ondo-tokenizes-blackrocks-ivv-etf-and-micron-stock-under-us-custodial-model?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Payward completes Reap acquistion",
@@ -129,16 +163,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ondo tokenizes BlackRock’s IVV ETF and Micron stock under US custodial model",
-      "link": "https://www.theblock.co/post/407031/ondo-tokenizes-blackrocks-ivv-etf-and-micron-stock-under-us-custodial-model?utm_source=rss&utm_medium=rss",
-      "desc": "Ondo Finance launches tokenized BlackRock IVV ETF and Micron shares under SEC-defined custodial model with Ethereum-based settlement.",
-      "date": "2026-07-02T13:56:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "The biggest blockchain upgrades still to come in 2026",
@@ -155,6 +179,16 @@
       "link": "https://www.theblock.co/post/407026/peter-thiel-backed-crypto-friendly-erebor-bank-eyes-8-billion-valuation-as-deposits-nearly-quadruple-bloomberg?utm_source=rss&utm_medium=rss",
       "desc": "Erebor Bank, backed by Palmer Luckey and Peter Thiel, is in talks to raise funding at a valuation of at least $8 billion, per Bloomberg.",
       "date": "2026-07-02T13:22:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "JPMorgan says Strategy's bitcoin sales policy adds 'two-way risk' to crypto markets",
+      "link": "https://www.coindesk.com/markets/2026/07/02/jpmorgan-says-strategy-s-bitcoin-sales-policy-adds-two-way-risk-to-crypto-markets",
+      "desc": "The bank said Strategy's bitcoin sales policy adds avoidable market uncertainty and should be replaced with equity issuance to build cash reserves.",
+      "date": "2026-07-02T13:11:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -205,7 +239,13 @@
       "link": "https://www.theblock.co/post/407020/accumulation-beneath-the-surface-bitcoin-rebounds-above-61000-as-long-term-holders-accumulate-amid-steady-etf-outflows?utm_source=rss&utm_medium=rss",
       "desc": "Bitcoin reclaims $61,000 as Glassnode and Bitfinex flag long-term holder accumulation beneath persistent ETF selling.",
       "date": "2026-07-02T12:58:24.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/07/02/bitcoin-long-term-holders-have-returned-to-accumulation"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -225,6 +265,16 @@
       "link": "https://www.finextra.com/pressarticle/110327/wealtharc-adds-crypto-assets-to-its-data-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "WealthArc, today announced the integration of crypto assets as a fully supported asset class within its global data infrastructure service, enabling wealth managers, external asset managers, and family offices to deliver a complete portfolio view across digital and traditional assets from a single, reliable data source.",
       "date": "2026-07-02T12:48:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. payroll growth slowed sharply in June, with only 57,000 jobs added",
+      "link": "https://www.coindesk.com/markets/2026/07/02/u-s-payroll-growth-slowed-sharply-in-june-adding-only-57-000-jobs",
+      "desc": "This morning's data could slow market expectations for a Fed rate hike as soon as this summer or early Fall.",
+      "date": "2026-07-02T12:37:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -259,6 +309,36 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
+      "link": "https://www.coindesk.com/policy/2026/07/02/three-years-after-mica-became-law-europe-s-crypto-framework-is-undergoing-a-rethink",
+      "desc": "Europe’s MiCA regime is now up for review, known colloquially as “MiCA 2.0,” through a consultation that closes around September.",
+      "date": "2026-07-02T11:55:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Warsh's comments set the stage for U.S. jobs data to ignite bitcoin, gold rally",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/02/warsh-s-comments-set-the-stage-for-u-s-jobs-data-to-ignite-bitcoin-gold-rally",
+      "desc": "Your day-ahead look for July 2, 2026",
+      "date": "2026-07-02T11:47:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Smaller tokens lead as bitcoin, sol rally in 'first real bounce of the selloff'",
+      "link": "https://www.coindesk.com/markets/2026/07/02/smaller-tokens-lead-as-bitcoin-sol-rally-in-first-real-bounce-of-the-selloff",
+      "desc": "Bitcoin and major cryptocurrencies rebounded on dovish Federal Reserve signals, with speculative tokens like Memecore’s M and Audiera’s BEAT leading gains.",
+      "date": "2026-07-02T11:27:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Solana Foundation launches framework for protocol-level governance",
@@ -285,7 +365,13 @@
       "link": "https://cointelegraph.com/news/sbi-bitcoin-mining-pool-shutdown-five-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "SBI Crypto will shut down its Bitcoin mining pool on July 31 after more than five years, ranking 12th globally with about 2.2% of hashrate share.",
       "date": "2026-07-02T10:37:14.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -349,12 +435,32 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live markets: Bitcoin rises above $61,000 as U.S. jobs data for June disappoints",
+      "link": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
+      "desc": "",
+      "date": "2026-07-02T09:42:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Taiko reopens bridge after $1.7M exploit, says users made whole",
       "link": "https://cointelegraph.com/news/taiko-reopens-bridge-1-7m-exploit-users-made-whole?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Taiko restored bridge transfers after replenishing asset backing and completing security fixes following an 11-day network disruption.",
       "date": "2026-07-02T09:28:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Metaplanet buys another $170 million of bitcoin expanding treasury to 43,000 BTC",
+      "link": "https://www.coindesk.com/markets/2026/07/02/metaplanet-buys-another-usd170-million-of-bitcoin-expanding-treasury-to-43-000-btc",
+      "desc": "The Japanese firm, now the world's third largest publicly traded bitcoin holder, reported stronger Bitcoin Income Generation revenue.",
+      "date": "2026-07-02T08:57:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -372,6 +478,36 @@
           "url": "https://www.theblock.co/post/406999/metaplanet-bitcoin-acquisition-q2?utm_source=rss&utm_medium=rss"
         }
       ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack",
+      "link": "https://www.coindesk.com/markets/2026/07/02/taiko-s-bridge-is-back-online-after-usd1-7-million-hack-and-its-token-is-up-a-staggering-136",
+      "desc": "The protocol completed a multi-stage recovery that included an independent security review. The TAIKO token has surged as much as 136% in recent trading.",
+      "date": "2026-07-02T08:35:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
+      "link": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals",
+      "desc": "Validators and the people who stake with them can now formally signal where the network should go through a new system called Solana Governance Proposals. Any validator with 100,000 SOL behind it can open one, and stakers can overrule how their validator votes.",
+      "date": "2026-07-02T07:15:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "XRP edges higher as whale activity rises while retail traders stay cautious",
+      "link": "https://www.coindesk.com/markets/2026/07/02/xrp-edges-higher-as-whale-activity-rises-while-retail-traders-stay-cautious",
+      "desc": "New wallet creation hit a three-month high and large-holder activity strengthened, but XRP still needs to reclaim $1.10 before the recovery looks convincing.",
+      "date": "2026-07-02T06:20:31.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -441,7 +577,13 @@
       "link": "https://cointelegraph.com/news/robinhood-public-blockchain-mainnet-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The company announced a suite of DeFi products, plans for launching crypto trading in the UK and its public mainnet after months of testing.",
       "date": "2026-07-01T21:38:49.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -455,22 +597,22 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
+      "link": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem",
+      "desc": "Its launch comes as Ethereum's support ecosystem undergoes a broader evolution, following the debut of EthLabs and amid ongoing efforts by the Ethereum Foundation to respond to community criticism over transparency, communication and its role within the ecosystem.",
+      "date": "2026-07-01T21:13:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth",
       "link": "https://bitcoinmagazine.com/print/the-2036-issue-the-future-is-now-words-of-wisdom-from-jeff-booth",
       "desc": "Bitcoin Magazine The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth From The 2036 Issue: An interview with Jeff Booth on where Bitcoin is going over the next decade, by Frank Corva. This post The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth first appeared on Bitcoin Magazine and is written by Frank Corva.",
       "date": "2026-07-01T21:08:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-88a73629?mod=rss_markets_main",
-      "desc": "Find insight on auto loans, homebuying trends, Bitcoin ETFs and more in the latest Market Talks covering Financial Services.",
-      "date": "2026-07-01T20:55:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -561,6 +703,16 @@
       "link": "https://thedefiant.io/news/blockchains/robinhood-launches-robinhood-chain-mainnet-adds-stock-tokens-onchain-lending-and-agentic-crypto",
       "desc": "At a London keynote, the trading platform opened its Arbitrum-based Layer 2 to the public, rolled out new stock tokens and a Morpho-powered lending product, and confirmed launches in Canada and Singapore alongside plans for crypto trading in the UK.",
       "date": "2026-07-01T18:21:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ethereum Foundation lays out use cases for governments, institutions in new policy guide",
+      "link": "https://www.coindesk.com/policy/2026/07/01/ethereum-foundation-lays-out-use-cases-for-governments-institutions-in-new-policy-guide",
+      "desc": "The Ethereum Foundation said policymakers should distinguish between decentralized public blockchains and networks that remain controlled by corporations or foundations, arguing that governance structures will play a critical role in determining which platforms are suitable for long-term public sector use.",
+      "date": "2026-07-01T17:52:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -727,6 +879,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+      "link": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
+      "desc": "The investment bank said new competition from the Stripe- and Coinbase-backed stablecoin consortium could pressure USDC's growth.",
+      "date": "2026-07-01T16:11:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Ethereum Institutional Launches as Independent Nonprofit to Court Banks and Asset Managers",
@@ -763,16 +925,6 @@
       "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
       "desc": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
       "date": "2026-07-01T14:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bank of Korea governor outlines tokenized bond vision, unified ledger plan",
-      "link": "https://cointelegraph.com/news/bank-korea-governor-tokenized-government-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Bank of Korea’s governor praised tokenized government bonds for easing the issuance and management of government debt during a panel discussion at the ECB Forum.",
-      "date": "2026-07-01T13:36:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -909,16 +1061,6 @@
       "link": "https://decrypt.co/372429/circle-stock-dives-coinbase-blackrock-visa-open-usd-stablecoin",
       "desc": "The forthcoming Open USD has more than 100 major supporters onboard, including Coinbase—a key backer of Circle’s USDC.",
       "date": "2026-06-30T17:38:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Magic Eden, Founders Sued by $ME Buyers Over Broken 'Utility' Promises",
-      "link": "https://thedefiant.io/news/defi/magic-eden-founders-sued-by-usdme-buyers-over-broken-utility-promises",
-      "desc": "A nationwide class action in New York accuses the NFT marketplace and its four co-founders of marketing the token's use cases, then delaying or abandoning them as $ME fell roughly 99% from launch",
-      "date": "2026-06-30T16:56:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
