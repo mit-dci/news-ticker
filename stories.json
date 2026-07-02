@@ -1,13 +1,97 @@
 {
-  "generatedAt": "2026-07-02T07:41:22.356Z",
+  "generatedAt": "2026-07-02T09:06:00.216Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 235,
-  "errors": [
-    "BITCOIN CORE: terminated"
-  ],
+  "successCount": 18,
+  "filteredOut": 241,
+  "errors": [],
   "dupsMerged": 13,
   "items": [
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-07-02T09:05:59.579Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-07-02T09:05:59.578Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-07-02T09:05:59.578Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-07-02T09:05:59.578Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-07-02T09:05:59.578Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Metaplanet buys another $170 million of bitcoin expanding treasury to 43,000 BTC",
+      "link": "https://www.coindesk.com/markets/2026/07/02/metaplanet-buys-another-usd170-million-of-bitcoin-expanding-treasury-to-43-000-btc",
+      "desc": "The Japanese firm, now the world's third largest publicly traded bitcoin holder, reported stronger Bitcoin Income Generation revenue.",
+      "date": "2026-07-02T08:57:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Metaplanet buys 2,823 BTC, surpasses 43,000 in Bitcoin holdings",
+      "link": "https://cointelegraph.com/news/metaplanet-buys-2823-btc-surpasses-43000-bitcoin-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Metaplanet bought 2,823 Bitcoin during the second quarter, reducing its average acquisition cost to $106,500 per BTC, and reported $10.9 million in revenue from its income generation strategy.",
+      "date": "2026-07-02T08:55:47.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/406999/metaplanet-bitcoin-acquisition-q2?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack",
+      "link": "https://www.coindesk.com/markets/2026/07/02/taiko-s-bridge-is-back-online-after-usd1-7-million-hack-and-its-token-is-up-a-staggering-136",
+      "desc": "The protocol completed a multi-stage recovery that included an independent security review. The TAIKO token has surged as much as 136% in recent trading.",
+      "date": "2026-07-02T08:35:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
@@ -19,52 +103,12 @@
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-02T07:41:03.300Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-02T07:41:03.300Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-02T07:41:03.300Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-02T07:41:03.300Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-02T07:41:03.300Z",
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
+      "link": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals",
+      "desc": "Validators and the people who stake with them can now formally signal where the network should go through a new system called Solana Governance Proposals. Any validator with 100,000 SOL behind it can open one, and stakers can overrule how their validator votes.",
+      "date": "2026-07-02T07:15:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -185,16 +229,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "The US Senate Calendar Is Becoming Crypto Markets’ Biggest Whale",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/the-us-senate-calendar-is-becoming-crypto-markets-biggest-whale/",
-      "desc": "Six months ago, the crypto industry believed the 2026 legislative calendar would give it a policy sweep across both stablecoins and digital asset markets. It was only last July that the GENIUS Act regulating stablecoins, the first tangible piece of successful crypto policy in the U.S., was signed into law. Crypto players, then, could’ve been forgiven for […] The post The US Senate Calendar Is Becoming Crypto Markets’ Biggest Whale appeared first on PYMNTS.com.",
-      "date": "2026-07-01T21:18:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Solana Launches Onchain Governance With Stake-Weighted Voting for Validators",
@@ -237,17 +271,11 @@
     {
       "source": "wsj",
       "sourceName": "WALL STREET JOURNAL",
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-f0fbb82c?mod=rss_markets_main",
-      "desc": "Find insight on Zcash, Cloud Capital, Bitcoin, Siltronic and more in the latest Market Talks covering Technology, Media and Telecom.",
-      "date": "2026-07-01T20:53:00.000Z",
-      "alsoAt": [
-        {
-          "source": "WALL STREET JOURNAL",
-          "sourceId": "wsj",
-          "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-88a73629?mod=rss_markets_main"
-        }
-      ],
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-88a73629?mod=rss_markets_main",
+      "desc": "Find insight on auto loans, homebuying trends, Bitcoin ETFs and more in the latest Market Talks covering Financial Services.",
+      "date": "2026-07-01T20:55:00.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -770,16 +798,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes",
-      "link": "https://www.coindesk.com/policy/2026/06/30/europe-is-rewriting-its-landmark-crypto-rulebook-mica-as-hard-july-1-deadline-passes",
-      "desc": "The EU is reviewing whether its landmark crypto regulation MiCA needs updating for a market reshaped by stablecoins and tokenization.",
-      "date": "2026-07-01T12:29:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "ft",
       "sourceName": "FINANCIAL TIMES",
       "title": "Google ordered to pay Klarna $2bn antitrust damages",
@@ -810,26 +828,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ark Invest bought more than $75 million of crypto shares during June bloodbath",
-      "link": "https://www.coindesk.com/markets/2026/07/01/ark-invest-bought-more-than-usd75-million-of-crypto-shares-during-june-bloodbath",
-      "desc": "Ark Invest has a tendency to \"buy the dip,\" loading up on shares in cryptocurrency companies when their prices are depressed.",
-      "date": "2026-07-01T11:42:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs",
-      "link": "https://www.coindesk.com/daybook-us/2026/07/01/xrp-hype-funds-are-the-bright-spots-as-investors-flee-bitcoin-ether-etfs",
-      "desc": "Your day-ahead look for July 1, 2026",
-      "date": "2026-07-01T11:15:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Europe’s MiCA crypto regime is fully in force: Here’s who wins and loses",
@@ -856,16 +854,6 @@
       "link": "https://www.theblock.co/post/406851/ripple-coinbase-election-donations?utm_source=rss&utm_medium=rss",
       "desc": "Crypto firms contributed $189 million to the 2026 midterms, with Ripple, Crypto.com and Coinbase leading corporate donations.",
       "date": "2026-07-01T10:49:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "South Korea moves to prosecute crypto whale for alleged pump-and-dump scheme",
-      "link": "https://www.theblock.co/post/406834/south-korea-prosecute-crypto-whale?utm_source=rss&utm_medium=rss",
-      "desc": "The suspect allegedly inflated a token's price on overseas platforms before dumping their holdings on a domestic exchange.",
-      "date": "2026-07-01T09:31:52.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -990,16 +978,6 @@
       "link": "https://thedefiant.io/news/markets/lighter-to-burn-repurchased-lit-fund-staking-from-ecosystem-reserve",
       "desc": "The perpetuals exchange will start burning the LIT it buys with revenue and tap its token reserve to keep staking yields flowing.",
       "date": "2026-06-30T21:54:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin just $5K away from ‘best investment opportunity’ of bear market",
-      "link": "https://cointelegraph.com/markets/bitcoin-is-just-a-5k-drop-away-from-its-best-investment-opportunity-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin's recent selloff brought it within 10% of its realized price — a line that has marked the bottoming zone in Bitcoin's previous bear markets.",
-      "date": "2026-06-30T21:49:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1150,6 +1128,16 @@
       "link": "https://decrypt.co/372391/47-ronin-director-gets-30-months-for-spending-netflixs-11m-on-dogecoin",
       "desc": "Carl Rinsch gambled Netflix's $11 million on stock options and Dogecoin, then spent the winnings on luxury cars and watches.",
       "date": "2026-06-30T09:20:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoincore",
+      "sourceName": "BITCOIN CORE",
+      "title": "Private Broadcast May Reveal Sender IP Address in Bitcoin Core 31.0",
+      "link": "https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/",
+      "desc": "We have become aware of a privacy bug in the -privatebroadcast feature, newly introduced in Bitcoin Core 31.0, that may cause the originator’s IP address to be revealed to the receiving peer under certain network conditions. A fix is forthcoming and will be released with 31.1. Users of -privatebroadcast are advised to apply one of the workarounds below until 31.1 is released. Affected users This bug affects users where all the following are true: The node is running Bitcoin Core 31.0 and -privatebroadcast is set. Transactions are broadcast using the sendrawtransaction RPC. Wallet RPCs (sendtoaddress, sendall, etc.) do not use private broadcast and are not affected. Tor is reachable for outbound connections. Outbound IPv4 or IPv6 connections can be made directly. No -onlynet restriction excludes them, and no -proxy=... value applies to them. BIP324 v2 transport is not disabled with -v2transport=0. Impact When private broadcast selects an IPv4 or IPv6 peer that advertises support for v2 (BIP324) transport, the initial connection is routed through the Tor proxy as expected. If the v2 handshake fails on that connection, Bitcoin Core retries it as v1. The v1 retry is not routed through the Tor proxy and instead connects directly to the peer over IPv4 or IPv6, exposing the originator’s IP address to the recipient. Initial v1 connections (to peers that do not advertise v2) are correctly routed through the Tor proxy and are not affected. The bug is specific to the v1 reconnection that follows a failed v2 handshake. Connections to onion and I2P peers are also unaffected, because they remain routed through their respective proxies on any v1 retry and therefore never expose a clearnet IP address. This breaks the privacy guarantee stated in the 31.0 release notes: “Their IP address (and thus geolocation) is never known to the recipients”. How this can happen A v2 handshake is unlikely to fail for a peer that actually supports v2 transport. The bug is most likely to be triggered by a malicious peer deliberately closing the v2 handshake to force a v1 retry. Workarounds Until they can upgrade to 31.1, users of -privatebroadcast should apply one of the following: Disable the feature. Set -privatebroadcast=0. Disable v2 transport. Set -v2transport=0. This causes all of the node’s connections to use the unencrypted v1 protocol, which has the downside that it becomes easier to fingerprint and censor on clearnet. Route IPv4/IPv6 outbound through Tor. Set -proxy=127.0.0.1:9050 (replace 9050 with your Tor SOCKS port if different). This routes all outbound IPv4/IPv6 P2P traffic through Tor exit nodes, which has the downside of making the node easier to Sybil attack. Credits Credit to Eugene Siegel for discovering the bug.",
+      "date": "2026-06-06T04:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
