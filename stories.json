@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-03T16:03:02.354Z",
+  "generatedAt": "2026-07-03T16:58:59.898Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 249,
+  "filteredOut": 254,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "decrypt",
@@ -30,20 +30,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-03T16:03:01.447Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-03T16:03:01.446Z",
+      "date": "2026-07-03T16:58:40.041Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +43,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-03T16:03:01.446Z",
+      "date": "2026-07-03T16:58:40.041Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +53,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-03T16:03:01.446Z",
+      "date": "2026-07-03T16:58:40.041Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -73,7 +63,17 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-03T16:03:01.446Z",
+      "date": "2026-07-03T16:58:40.041Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-07-03T16:58:40.041Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,7 +83,17 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-03T16:03:01.000Z",
+      "date": "2026-07-03T16:58:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Crypto Biz: Bitcoin maximalism meets the realities of capital markets",
+      "link": "https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Strategy authorizes Bitcoin sales, Open USD takes on USDT and USDC, Fidelity defends Bitcoin security and crypto ramps up political spending for 2026.",
+      "date": "2026-07-03T16:03:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -244,13 +254,7 @@
       "link": "https://www.theblock.co/post/407131/markets-find-their-footing-bitcoin-holds-61000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears?utm_source=rss&utm_medium=rss",
       "desc": "Bitcoin holds above $61,000 and ether above $1,700 as soft U.S. jobs data eases Fed hike bets and spot ETFs snap a 10-day outflow streak.",
       "date": "2026-07-03T11:21:50.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/372522/bitcoin-pops-off-21-month-low-to-60k-as-soft-data-eases-rate-hike-fears"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -420,16 +424,6 @@
       "link": "https://cointelegraph.com/features/is-bitcoin-heading-for-65k-sharplink-buys-16m-eth-market-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Analysts are divided on Bitcoin's next move, but there's some hope at last. Meanwhile, SharpLink has resumed buying Ether after an eight-week pause, and other market news.",
       "date": "2026-07-02T23:17:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "What Payward’s Reap Purchase Says About B2B Stablecoin Cards",
-      "link": "https://www.pymnts.com/news/b2b-payments/2026/payward-reap-purchase-b2b-stablecoin-cards/",
-      "desc": "In a winner-take-most market, firms typically want to be the ones winning and taking the most. Stable coins are shaping up to be exactly that kind of market. On Wednesday (July 1), Payward, the parent company behind the crypto platform Kraken, completed its acquisition of Reap in a deal valued at up to $600 million, […] The post What Payward’s Reap Purchase Says About B2B Stablecoin Cards appeared first on PYMNTS.com.",
-      "date": "2026-07-02T22:58:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -883,16 +877,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Solana Foundation launches framework for protocol-level governance",
-      "link": "https://cointelegraph.com/news/solana-foundation-framework-protocol-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Solana Foundation launched a framework for protocol-level governance, enabling validators with at least 100,000 delegated SOL to publish new proposals.",
-      "date": "2026-07-02T10:59:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand",
@@ -1045,36 +1029,6 @@
       "link": "https://thedefiant.io/news/defi/drift-protocol-rebrands-to-velocity-dex-ahead-of-relaunch",
       "desc": "Solana perpetuals exchange Drift Protocol has rebranded to Velocity DEX, with a private beta planned in the coming days as the platform rebuilds after a $295M April exploit.",
       "date": "2026-07-01T17:10:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "ENS Community Member Proposes Dissolving DAO After Founder Blocks Security Council Renewal",
-      "link": "https://thedefiant.io/news/nfts-and-web3/ens-community-member-proposes-dissolving-dao-after-founder-blocks-security-council-renewal",
-      "desc": "Christoph Jentzsch, who wrote code for the original 2016 \"The DAO\" and now runs Tokenize.it, called for ENS DAO to wind down and revoke its own upgrade authority, a day after ENS co-founder Nick Johnson used roughly half of the protocol's active voting power to block a Security Council renewal.",
-      "date": "2026-07-01T16:38:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
-      "link": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
-      "desc": "Securitize President Brett Redfearn argues that tokenization will bring crypto's core benefit of disintermediation to retail investors.",
-      "date": "2026-07-01T16:36:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Circle CEO Rebuts OUSD Pitch, Defends USDC's Network Effects After Stock Slide",
-      "link": "https://thedefiant.io/converge/markets/circle-ceo-rebuts-ousd-pitch-defends-usdc-s-network-effects-after-stock-slide",
-      "desc": "Jeremy Allaire argued that stablecoin networks are winner-take-most businesses built over years, two days after the launch of the 140-plus-firm Open USD consortium sent Circle's stock down more than 17% in a single session.",
-      "date": "2026-07-01T16:20:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
