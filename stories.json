@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-04T14:32:23.088Z",
+  "generatedAt": "2026-07-04T15:25:47.875Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 272,
+  "filteredOut": 276,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 2,
   "items": [
     {
       "source": "decrypt",
@@ -20,40 +20,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-04T14:32:22.120Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-04T14:32:22.120Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-04T14:32:22.120Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-04T14:32:22.120Z",
+      "date": "2026-07-04T15:25:47.619Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +33,37 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-04T14:32:22.120Z",
+      "date": "2026-07-04T15:25:47.619Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-07-04T15:25:47.618Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-07-04T15:25:47.618Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-07-04T15:25:47.618Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -73,7 +73,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-04T14:32:21.000Z",
+      "date": "2026-07-04T15:25:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -750,6 +750,16 @@
       "termBoost": 0
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Japanese Financial Giant SBI to Shut Down Bitcoin Mining Pool",
+      "link": "https://decrypt.co/372686/japanese-financial-giant-sbi-shut-down-bitcoin-mining-pool",
+      "desc": "SBI Crypto, the subsidiary of the Japanese financial giant, is the latest firm to shutter its Bitcoin mining endeavor.",
+      "date": "2026-07-02T18:28:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "ENS DAO Sunsets Public Goods Working Group After 4.5 Years of Ecosystem Grants",
@@ -817,52 +827,6 @@
       "desc": "Vlad Tenev spoke to his belief in the merging of TradFi and crypto when asked if digital assets have entered an \"enduring\" downturn.",
       "date": "2026-07-02T16:05:44.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Anchorage Digital integrates with Lido to expand institutional access to Ethereum liquid staking",
-      "link": "https://www.finextra.com/pressarticle/110335/anchorage-digital-integrates-with-lido-to-expand-institutional-access-to-ethereum-liquid-staking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Anchorage Digital, home to America's first federally regulated crypto bank, has integrated with Lido, the largest liquid staking protocol on Ethereum, giving institutions compliant access to wstETH without leaving the Anchorage Digital platform.",
-      "date": "2026-07-02T15:05:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "FBI Director Kash Patel's Undisclosed Stock Buy in Bitcoin Giant Strategy Is Down 44%",
-      "link": "https://decrypt.co/372677/fbi-director-kash-patel-undisclosed-stock-buy-bitcoin-giant-strategy",
-      "desc": "FBI Director Kash Patel failed to disclose a significant purchase of stock in Bitcoin treasury firm Strategy from last November.",
-      "date": "2026-07-02T14:50:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
-      "link": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action",
-      "desc": "ISIS-K allegedly used its media wing to solicit donations via Tron, Monero, and Bitcoin, highlighting stablecoin issuers' growing role in sanctions enforcement.",
-      "date": "2026-07-02T14:49:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "SBI Crypto to shut down mining pool that holds roughly 2% of Bitcoin's hashrate",
-      "link": "https://www.coindesk.com/business/2026/07/02/sbi-crypto-to-shut-down-mining-pool-that-holds-roughly-2-of-bitcoin-s-hashrate",
-      "desc": "Miners must redirect their hashrate before the July 31 cutoff, as the pool will stop accepting contributions after that date.",
-      "date": "2026-07-02T14:44:55.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/372686/japanese-financial-giant-sbi-shut-down-bitcoin-mining-pool"
-        }
-      ],
       "termBoost": 0
     },
     {
