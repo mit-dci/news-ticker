@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-05T11:11:29.229Z",
+  "generatedAt": "2026-07-05T11:58:02.852Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 303,
+  "filteredOut": 309,
   "errors": [],
   "dupsMerged": 2,
   "items": [
@@ -26,10 +26,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-07-05T11:58:02.651Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-05T11:11:28.585Z",
+      "date": "2026-07-05T11:58:02.651Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -39,7 +49,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-05T11:11:28.585Z",
+      "date": "2026-07-05T11:58:02.651Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -49,7 +59,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-05T11:11:28.585Z",
+      "date": "2026-07-05T11:58:02.651Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -59,17 +69,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-05T11:11:28.585Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-05T11:11:28.584Z",
+      "date": "2026-07-05T11:58:02.651Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -79,7 +79,17 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-05T11:11:28.000Z",
+      "date": "2026-07-05T11:58:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "South Africa proposes crypto tax rules under existing tax framework",
+      "link": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "South Africa’s tax authority proposed draft guidance clarifying how crypto assets are taxed under existing income and capital gains tax rules, seeking public input until Aug. 31.",
+      "date": "2026-07-05T11:52:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -486,76 +496,6 @@
       "link": "https://cointelegraph.com/news/esma-mica-register-new-casps-stanchart-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "ESMA publishes its first post-deadline MiCA register update, adding 37 crypto-asset service providers, including Standard Chartered and FalconX.",
       "date": "2026-07-03T12:02:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak",
-      "link": "https://decrypt.co/372723/bitcoin-etfs-draw-in-222m-snapping-10-day-losing-streak",
-      "desc": "Thursday's inflows ended a run that drained $2.7 billion, but analysts warn one green day isn't necessarily a trend reversal.",
-      "date": "2026-07-03T11:46:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin whales bought $16.7 billion of bitcoin in 2 weeks even as ETFs bled a record $4 billion",
-      "link": "https://www.coindesk.com/markets/2026/07/03/bitcoin-whales-bought-270-000-btc-in-two-weeks-even-as-etfs-bled-a-record-usd4-billion",
-      "desc": "U.S. institutional demand had its worst month ever in June. Large holders absorbed the selling, marking a divergence that has shown up near past cycle bottoms.",
-      "date": "2026-07-03T11:45:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues",
-      "link": "https://cointelegraph.com/markets/bitcoin-supply-metric-prints-first-buy-signal-since-late-2022-as-bear-market-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin supply dynamics pointed toward the end of the 2026 bear market after the first \"buy\" signal since November 2022, but analysis warned that BTC price could still go lower.",
-      "date": "2026-07-03T11:34:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show",
-      "link": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
-      "desc": "Your day-ahead look for July 3, 2026",
-      "date": "2026-07-03T11:27:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘Markets find their footing’: Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears",
-      "link": "https://www.theblock.co/post/407131/markets-find-their-footing-bitcoin-holds-61000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears?utm_source=rss&utm_medium=rss",
-      "desc": "Bitcoin holds above $61,000 and ether above $1,700 as soft U.S. jobs data eases Fed hike bets and spot ETFs snap a 10-day outflow streak.",
-      "date": "2026-07-03T11:21:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness",
-      "link": "https://cointelegraph.com/news/zcash-ironwood-upgrade-possible-delay-infrastructure-readiness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Shielded Labs said exchanges, mining pools and wallets may need more time to complete Zcash’s Z3 software migration and safely prepare for Ironwood.",
-      "date": "2026-07-03T11:21:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto bulls on firmer footing as U.S. rate-hike risk recedes",
-      "link": "https://www.coindesk.com/markets/2026/07/03/crypto-bulls-on-firmer-footing-as-u-s-rate-hike-risk-recedes",
-      "desc": "Crypto ended the week in a more buoyant state after weak U.S. jobs data reduced the chances of a Fed interest-rate increase and Uniswap gained on a link-up with Robinhood.",
-      "date": "2026-07-03T11:11:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
