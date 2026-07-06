@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-06T16:33:26.336Z",
+  "generatedAt": "2026-07-06T17:52:08.548Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 288,
+  "filteredOut": 283,
   "errors": [],
-  "dupsMerged": 1,
+  "dupsMerged": 2,
   "items": [
     {
       "source": "decrypt",
@@ -34,7 +34,7 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-06T16:33:26.076Z",
+      "date": "2026-07-06T17:52:07.850Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,7 +44,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-06T16:33:26.076Z",
+      "date": "2026-07-06T17:52:07.850Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -54,7 +54,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-06T16:33:26.076Z",
+      "date": "2026-07-06T17:52:07.850Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,7 +64,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-06T16:33:26.076Z",
+      "date": "2026-07-06T17:52:07.850Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -74,7 +74,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-06T16:33:26.076Z",
+      "date": "2026-07-06T17:52:07.850Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -84,7 +84,57 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-06T16:33:26.076Z",
+      "date": "2026-07-06T17:52:07.850Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
+      "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
+      "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
+      "date": "2026-07-06T17:52:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+      "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
+      "date": "2026-07-06T17:52:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitmine announces $74M Ether buys as chair says ‘greater chances of Clarity Act passage’",
+      "link": "https://cointelegraph.com/news/bitmine-ether-treasury-chances-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitmine's big buy contrasts with crypto treasury peer Strategy, which reported selling millions of dollars worth of its Bitcoin holdings on Monday.",
+      "date": "2026-07-06T17:27:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Russia’s Biggest Bank Aims to Enter the Crypto Space",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/russias-biggest-bank-aims-to-enter-the-crypto-space/",
+      "desc": "Russia’s biggest bank reportedly plans to offer a crypto wallet and digital depository this year. That’s according to a report Monday (July 6) from CoinDesk, which says this move will bring Sberbank into a market Russia has spent years hoping to contain. The new services will become part of the Sberbank Online and SberInvestments platforms once Russia adopts its […] The post Russia’s Biggest Bank Aims to Enter the Crypto Space appeared first on PYMNTS.com.",
+      "date": "2026-07-06T17:23:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
+      "link": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
+      "desc": "Bitcoin Magazine USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements After years of development, UTEXO—backed by Tether—rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails. This post USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements first appeared on Bitcoin Magazine and is written by Juan Galt.",
+      "date": "2026-07-06T17:17:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -94,7 +144,7 @@
       "title": "Summer Finance Drained of $6M in Flash Loan Exploit",
       "link": "https://thedefiant.io/news/hacks/summer-finance-drained-of-6m-in-flash-loan-exploit",
       "desc": "DeFi vault platform Summer Finance was drained of roughly $6 million on Monday in an exploit that security firm Blockaid said its detection system flagged as it was unfolding. Blockaid posted the exploit transaction, the attacker's address and the affected Lazy Summer contracts within minutes of…",
-      "date": "2026-07-06T16:33:25.000Z",
+      "date": "2026-07-06T17:08:57.000Z",
       "alsoAt": [
         {
           "source": "THE BLOCK",
@@ -105,22 +155,38 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
-      "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
-      "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-06T16:33:25.000Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "UN agency moves Stellar blockchain payment initiative beyond pilot stage",
+      "link": "https://cointelegraph.com/news/undp-moves-stellar-blockchain-payment-initiative-beyond-pilot-stage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The UN Development Programme said blockchain payment pilots in five countries cut costs, improved resilience and will now inform wider use across its humanitarian and development programs.",
+      "date": "2026-07-06T17:08:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
-      "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-06T16:33:25.000Z",
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Ripple Wins Crypto Service Provider License in EU",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/ripple-wins-crypto-service-provider-license-in-eu/",
+      "desc": "Blockchain finance company Ripple said it is now fully compliant with Europe’s crypto regulations. The company announced Monday (July 6) that it had received its crypto asset service provider (CASP) license from Luxembourg’s financial regulator. The authorization follows a preliminary approval announced last month and brings Ripple in line with the European Union’s Markets in […] The post Ripple Wins Crypto Service Provider License in EU appeared first on PYMNTS.com.",
+      "date": "2026-07-06T16:57:40.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs",
+      "link": "https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs?utm_source=rss&utm_medium=rss",
+      "desc": "Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.",
+      "date": "2026-07-06T16:34:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -167,9 +233,9 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "One month that shook the market: Saylor's struggles over bitcoin strategy yields big losses",
+      "title": "Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook",
       "link": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
-      "desc": "First, it was a tiny amount of bitcoin sales, then it was the purchase of several thousand BTC, and finally, today, the unloading of thousands of BTC. What's happening at Strategy?",
+      "desc": "First, it was a tiny amount of bitcoin sales; then, the purchase of several thousand BTC; and finally, today, the unloading of thousands of BTC. What's happening at Strategy?",
       "date": "2026-07-06T15:47:12.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -465,16 +531,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant",
-      "link": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant",
-      "desc": "The approval means Ripple is now fully MiCA-compliant for payments, financial institutions, corporates and businesses across all 30 European Economic Area countries.",
-      "date": "2026-07-06T10:01:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "New UK Election Funding Rules Could Hit Reform's Crypto Billionaire Donors",
@@ -711,16 +767,6 @@
       "link": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&utm_medium=rss",
       "desc": "Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.",
       "date": "2026-07-04T23:56:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility",
-      "link": "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
-      "desc": "Bitcoin bounced back above $60,000 this week, but increased volatility might be on the way as crypto deposits to exchanges spike.",
-      "date": "2026-07-04T16:57:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
