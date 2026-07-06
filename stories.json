@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-06T15:06:09.108Z",
+  "generatedAt": "2026-07-06T16:33:26.336Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 294,
+  "filteredOut": 288,
   "errors": [],
-  "dupsMerged": 0,
+  "dupsMerged": 1,
   "items": [
     {
       "source": "decrypt",
@@ -29,22 +29,12 @@
       "termBoost": 3
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Klarna applies for US banking license",
-      "link": "https://www.finextra.com/newsarticle/48045/klarna-applies-for-us-banking-license?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Swedish fintech giant Klarna has applied for a US banking license.",
-      "date": "2026-07-06T15:22:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-06T15:06:08.618Z",
+      "date": "2026-07-06T16:33:26.076Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -54,7 +44,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-06T15:06:08.618Z",
+      "date": "2026-07-06T16:33:26.076Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,7 +54,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-06T15:06:08.618Z",
+      "date": "2026-07-06T16:33:26.076Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -74,7 +64,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-06T15:06:08.618Z",
+      "date": "2026-07-06T16:33:26.076Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -84,7 +74,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-06T15:06:08.618Z",
+      "date": "2026-07-06T16:33:26.076Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -94,8 +84,24 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-06T15:06:08.618Z",
+      "date": "2026-07-06T16:33:26.076Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Summer Finance Drained of $6M in Flash Loan Exploit",
+      "link": "https://thedefiant.io/news/hacks/summer-finance-drained-of-6m-in-flash-loan-exploit",
+      "desc": "DeFi vault platform Summer Finance was drained of roughly $6 million on Monday in an exploit that security firm Blockaid said its detection system flagged as it was unfolding. Blockaid posted the exploit transaction, the attacker's address and the affected Lazy Summer contracts within minutes of…",
+      "date": "2026-07-06T16:33:25.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -104,7 +110,107 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-06T15:06:08.000Z",
+      "date": "2026-07-06T16:33:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
+      "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
+      "date": "2026-07-06T16:33:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "AVAX One CEO Jolie Kahn Resigns Days After Stock Crash Warning",
+      "link": "https://thedefiant.io/news/people/avax-one-ceo-jolie-kahn-resigns-days-after-stock-crash-warning",
+      "desc": "AVAX One Technology, the Nasdaq-listed Avalanche treasury and bitcoin-mining company, said Chief Executive Jolie Kahn resigned effective July 3, with Chief Operating Officer Pete Wylie stepping in as interim CEO, according to an 8-K filing with the Securities and Exchange Commission.",
+      "date": "2026-07-06T16:16:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "AVAX One launches CEO search after leader of its Avalanche treasury pivot steps down",
+      "link": "https://www.theblock.co/post/407309/avax-one-ceo-search-leader-avalanche-treasury-pivot-steps-down?utm_source=rss&utm_medium=rss",
+      "desc": "SkyBridge founder Anthony Scaramucci backed AVAX One's $550 million Avalanche treasury strategy announced last year.",
+      "date": "2026-07-06T16:07:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
+      "link": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
+      "desc": "As Wall Street banks adopt digital currencies for faster settlements, overall trading volume spiked 63% in just a single month.",
+      "date": "2026-07-06T16:00:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Yield Guild Games Sunsets YGG Play Publishing Unit, Cuts 35 Jobs",
+      "link": "https://thedefiant.io/news/nfts-and-web3/yield-guild-games-sunsets-ygg-play-publishing-unit-cuts-35-jobs",
+      "desc": "Yield Guild Games (YGG), the web3 gaming guild that pioneered play-to-earn gaming, is sunsetting its game publishing arm YGG Play, affecting 35 jobs, co-founder Gabby Dizon said on X Monday. YGG will pay departing staff eight additional weeks during the transition and help them find new roles,…",
+      "date": "2026-07-06T15:53:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "One month that shook the market: Saylor's struggles over bitcoin strategy yields big losses",
+      "link": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
+      "desc": "First, it was a tiny amount of bitcoin sales, then it was the purchase of several thousand BTC, and finally, today, the unloading of thousands of BTC. What's happening at Strategy?",
+      "date": "2026-07-06T15:47:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
+      "link": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
+      "desc": "The \"Lean Ethereum\" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.",
+      "date": "2026-07-06T15:34:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "ENS Co-Founder Proposes Delegating 5M ENS Tokens to Reform DAO Governance",
+      "link": "https://thedefiant.io/news/defi/ens-co-founder-proposes-delegating-5m-ens-tokens-to-reform-dao-governance",
+      "desc": "Alex Van de Sande, a co-founder of the Ethereum Name Service (ENS), proposed Monday that the ENS DAO delegate 5 million ENS tokens from its dormant community treasury to individual participants.",
+      "date": "2026-07-06T15:27:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Klarna Seeks Green Light to Become a US-Chartered Bank",
+      "link": "https://www.pymnts.com/news/banking/2026/klarna-seeks-green-light-to-become-a-us-chartered-bank/",
+      "desc": "Klarna has become the latest FinTech aiming to become a regulated U.S. bank. The Swedish company announced Monday (July 6) that it had applied to the Utah Department of Financial Institutions and the Federal Deposit Insurance Corporation (FDIC) to establish Klarna Bank USA, its proposed Utah-chartered industrial bank. “Banking is built on trust,” Sebastian Siemiatkowski, co-founder and CEO of […] The post Klarna Seeks Green Light to Become a US-Chartered Bank appeared first on PYMNTS.com.",
+      "date": "2026-07-06T15:22:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Klarna applies for US banking license",
+      "link": "https://www.finextra.com/newsarticle/48045/klarna-applies-for-us-banking-license?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Swedish fintech giant Klarna has applied for a US banking license.",
+      "date": "2026-07-06T15:22:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -411,16 +517,6 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack",
-      "link": "https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss",
-      "desc": "The attacker reportedly used a $65.4 million flash loan to obtain a $70.9 million redemption on Summer.fi's Lazy Summer Protocol.",
-      "date": "2026-07-06T08:49:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
       "title": "South Korea develops crypto-specific procedures for asset seizures and liquidation: report",
       "link": "https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss",
       "desc": "The amendments aim to formalize how courts handle the forced execution of civil judgments against cryptocurrency holdings.",
@@ -439,21 +535,11 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Europe Wants Its Own Digital Money Moment",
-      "link": "https://www.pymnts.com/news/payments-innovation/2026/europe-wants-its-own-digital-money-moment/",
-      "desc": "Watch more: How Stablecoins Are Reshaping Global Banking The same question can have both a strategic answer and a practical one. That’s something EU lawmakers are finding out in real time, after the European Parliament’s ECON Committee approved a plan by the European Central Bank to launch a digital euro by 2029. For Europe, the […] The post Europe Wants Its Own Digital Money Moment appeared first on PYMNTS.com.",
-      "date": "2026-07-06T08:00:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live markets: Bitcoin drops under $62,000 after Strategy sells 3,588 BTC",
+      "title": "Live markets: Bitcoin recoups early decline, rising back above $63,000",
       "link": "https://www.coindesk.com/tech/2026/07/06/live-markets-bitcoin-pops-to-usd63-900-then-reverses-as-week-begins",
-      "desc": "Strategy raised $216 milliion with the sale of 3,588 bitcoin last week.",
+      "desc": "Strategy raised $216 milliion with the sale of 3,588 bitcoin last week, sending prices lower earlier on Monday.",
       "date": "2026-07-06T07:43:21.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -609,16 +695,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time",
-      "link": "https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time",
-      "desc": "Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000.",
-      "date": "2026-07-05T06:00:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
@@ -639,32 +715,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
-      "link": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
-      "desc": "Thomas Sy, head of multi-asset solutions at the $800-billion asset manager, says blockchain can enable complex portfolio construction that's not yet possible in traditional finance.",
-      "date": "2026-07-04T20:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility",
       "link": "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
       "desc": "Bitcoin bounced back above $60,000 this week, but increased volatility might be on the way as crypto deposits to exchanges spike.",
       "date": "2026-07-04T16:57:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Aave’s new Monad market tops $100 million in deposits two days after launch",
-      "link": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
-      "desc": "Aave's V4 deployment also crossed $250 million in deposits on Saturday, a new all-time high for that version of the protocol.",
-      "date": "2026-07-04T16:32:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
