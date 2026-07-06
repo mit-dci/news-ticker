@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T13:46:37.530Z",
+  "generatedAt": "2026-07-06T15:06:09.108Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 301,
+  "filteredOut": 294,
   "errors": [],
   "dupsMerged": 0,
   "items": [
@@ -29,12 +29,22 @@
       "termBoost": 3
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Klarna applies for US banking license",
+      "link": "https://www.finextra.com/newsarticle/48045/klarna-applies-for-us-banking-license?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Swedish fintech giant Klarna has applied for a US banking license.",
+      "date": "2026-07-06T15:22:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-06T13:46:37.248Z",
+      "date": "2026-07-06T15:06:08.618Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,7 +54,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-06T13:46:37.248Z",
+      "date": "2026-07-06T15:06:08.618Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -54,7 +64,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-06T13:46:37.248Z",
+      "date": "2026-07-06T15:06:08.618Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,7 +74,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-06T13:46:37.248Z",
+      "date": "2026-07-06T15:06:08.618Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -74,7 +84,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-06T13:46:37.248Z",
+      "date": "2026-07-06T15:06:08.618Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -84,7 +94,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-06T13:46:37.248Z",
+      "date": "2026-07-06T15:06:08.618Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -94,7 +104,107 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-06T13:46:37.000Z",
+      "date": "2026-07-06T15:06:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Strategy Sells 3,588 Bitcoin for $216M to Fund Dividend Payments",
+      "link": "https://thedefiant.io/news/cefi/strategy-sells-3-588-bitcoin-for-216m-to-fund-dividend-payments",
+      "desc": "Strategy sold 3,588 Bitcoin for $216 million to cover dividends on its Digital Credit securities, the company said in a post on its official X account Monday. The firm now holds 843,775 BTC in its BTC Reserves and $2.55 billion in its USD Reserves, as of July 5, 2026. The sale is the largest…",
+      "date": "2026-07-06T14:58:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin",
+      "link": "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin",
+      "desc": "BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.",
+      "date": "2026-07-06T14:41:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Russian-Sberbank Plans Crypto Wallet and Digital Depository by December",
+      "link": "https://bitcoinmagazine.com/news/russian-sberbank-plans-crypto-wallet",
+      "desc": "Bitcoin Magazine Russian-Sberbank Plans Crypto Wallet and Digital Depository by December Russia's biggest bank, Sberbank, plans to launch a Bitcoin and crypto wallet plus digital asset custody by December as the country rolls out its new crypto framework. This post Russian-Sberbank Plans Crypto Wallet and Digital Depository by December first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-07-06T14:40:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "CertiK Says H1 2026 Web3 Losses Topped $1.31B, Up 28% Excluding Bybit Baseline",
+      "link": "https://thedefiant.io/news/security/certik-says-h1-2026-web3-losses-topped-1-31b-up-28-excluding-bybit-baseline",
+      "desc": "Web3 security incidents cost the industry more than $1.31 billion across 344 events in the first half of 2026, according to CertiK's Hack3D H1 2026 Report, published Monday. Net losses stood near $1.2 billion after frozen and recovered funds, the blockchain security firm said. Headline totals show…",
+      "date": "2026-07-06T14:31:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Vitalik Buterin Outlines 'Lean Ethereum' Roadmap, a Three-to-Four-Year Protocol Overhaul",
+      "link": "https://thedefiant.io/news/blockchains/vitalik-buterin-outlines-lean-ethereum-roadmap-a-three-to-four-year-protocol-overhaul",
+      "desc": "Ethereum co-founder Vitalik Buterin laid out an updated \"Lean Ethereum\" roadmap in a post on X Saturday, describing a three-to-four-year overhaul he called the network's third major protocol iteration since the 2022 Merge. The plan follows a researcher meeting in Berlin and would replace direct…",
+      "date": "2026-07-06T14:29:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Michael Saylor’s Strategy Is Trapped by Its Own Broken Bitcoin Math",
+      "link": "https://www.wsj.com/finance/investing/michael-saylors-strategy-is-trapped-by-its-own-broken-bitcoin-math-b68dd6a6?mod=rss_markets_main",
+      "desc": "The bitcoin hoarder created a bespoke valuation metric that ignores market realities.",
+      "date": "2026-07-06T14:26:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
+      "link": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
+      "desc": "Following its NYSE debut, Securitize CEO Carlos Domingo said the firm wants to expand its institutional tokenization platform rather than buy competitors.",
+      "date": "2026-07-06T14:25:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitmine’s Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum’s total supply",
+      "link": "https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply?utm_source=rss&utm_medium=rss",
+      "desc": "Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.",
+      "date": "2026-07-06T14:15:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-07-06T14:06:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "TeraWulf signs 20-year data center lease with Anthropic expected to generate $19 billion in revenue",
+      "link": "https://www.theblock.co/post/407282/terawulf-data-center-lease-anthropic-19-billion-revenue?utm_source=rss&utm_medium=rss",
+      "desc": "Anthropic will lease at TeraWulf's Justified Data site in Hawesville, Kentucky, which is expected to provide 401 MW of IT load.",
+      "date": "2026-07-06T14:02:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -289,16 +399,6 @@
       "termBoost": 0
     },
     {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Michael Saylor’s Strategy Is Trapped by Its Own Broken Bitcoin Math",
-      "link": "https://www.wsj.com/finance/investing/michael-saylors-strategy-is-trapped-by-its-own-broken-bitcoin-math-b68dd6a6?mod=rss_markets_main",
-      "desc": "The bitcoin hoarder created a bespoke valuation metric that ignores market realities.",
-      "date": "2026-07-06T09:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Dormant $1.9M Bitcoin tied to New York lawsuit moves after nearly 15 years",
@@ -385,16 +485,6 @@
       "link": "https://cointelegraph.com/news/nigel-farage-accepted-gifts-from-crypto-linked-fraudster-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Before he was an MP, Nigel Farage was reportedly gifted staff, security and other benefits from George Cottrell, a convicted fraudster involved in a crypto casino.",
       "date": "2026-07-06T06:02:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-07-06T05:59:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -559,16 +649,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin jumps above $63,000, reversing end-June losses",
-      "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
-      "desc": "The token hit its highest in over a month during thin July 4 trading, with XRP up 5% in 24 hours to lead gains among majors.",
-      "date": "2026-07-04T18:07:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility",
@@ -585,16 +665,6 @@
       "link": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
       "desc": "Aave's V4 deployment also crossed $250 million in deposits on Saturday, a new all-time high for that version of the protocol.",
       "date": "2026-07-04T16:32:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Inside the Trading Engine Behind ChangeNOW’s ‘Fast, Seamless Swaps’",
-      "link": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
-      "desc": "ChangeNOW CSO Pauline Shangett digs into the infrastructure underpinning the exchange’s simple, streamlined frontend.",
-      "date": "2026-07-04T14:01:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
