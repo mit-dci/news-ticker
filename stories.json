@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-07T17:16:10.488Z",
+  "generatedAt": "2026-07-07T18:12:38.260Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 253,
+  "filteredOut": 247,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "decrypt",
@@ -20,50 +20,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Blockchain consensus mechanisms and fragmentation",
-      "link": "https://www.bis.org/publ/bisbull126.htm",
-      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-07T17:16:09.579Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-07T17:16:09.579Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-07T17:16:09.579Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-07T17:16:09.579Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-07T17:16:09.579Z",
+      "date": "2026-07-07T18:12:37.471Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -73,7 +33,47 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-07T17:16:09.579Z",
+      "date": "2026-07-07T18:12:37.471Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Blockchain consensus mechanisms and fragmentation",
+      "link": "https://www.bis.org/publ/bisbull126.htm",
+      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
+      "date": "2026-07-07T18:12:37.470Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-07-07T18:12:37.470Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-07-07T18:12:37.470Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-07-07T18:12:37.470Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,7 +83,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-07T17:16:08.000Z",
+      "date": "2026-07-07T18:12:36.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -93,7 +93,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-07T17:16:08.000Z",
+      "date": "2026-07-07T18:12:36.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -103,7 +103,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-07T17:16:08.000Z",
+      "date": "2026-07-07T18:12:36.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -113,7 +113,93 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-07T17:16:08.000Z",
+      "date": "2026-07-07T18:12:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "USDT wins payments, USDC wins DeFi as stablecoins diverge: Dune",
+      "link": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin while Circle's USDC powers DeFi, highlighting how blockchain choice shapes stablecoin use.",
+      "date": "2026-07-07T18:05:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Vanguard Warms to Crypto With Search for Digital Assets Chief",
+      "link": "https://bitcoinmagazine.com/news/vanguard-warms-to-crypto-hiring",
+      "desc": "Bitcoin Magazine Vanguard Warms to Crypto With Search for Digital Assets Chief Vanguard is hiring its first head of digital assets to develop a long-term crypto and blockchain strategy. This post Vanguard Warms to Crypto With Search for Digital Assets Chief first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-07-07T17:41:17.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/07/07/vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "South African FinTech Float Launches Card-Linked Installments in UK",
+      "link": "https://www.pymnts.com/bnpl/2026/south-african-fintech-float-launches-card-linked-installments-united-kingdom/",
+      "desc": "Float, which has offered credit card-linked installment payment options in South Africa since 2021, expanded to the United Kingdom, Motor Trade News reported Tuesday (July 7). The company links to consumers’ existing credit cards, provides the option of paying in installments without a new line of credit, and offers up to 12 months of installments […] The post South African FinTech Float Launches Card-Linked Installments in UK appeared first on PYMNTS.com.",
+      "date": "2026-07-07T17:36:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "KAST's ToS Draw Fire After Public Feud With EtherFi CEO",
+      "link": "https://thedefiant.io/news/cefi/kast-s-terms-of-service-draw-fire-after-public-feud-with-etherfi-ceo",
+      "desc": "A five-day Twitter exchange between ether.fi CEO Mike Silagadze and KAST CEO Raagulan Pathy escalated from a card-fee comparison into public scrutiny of how KAST treats customer deposits.",
+      "date": "2026-07-07T17:34:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime",
+      "link": "https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime",
+      "desc": "The Capital Markets Authority wants to monitor over 20 blockchains for fraud, laundering, and sanctions evasion under Kenya's new crypto law.",
+      "date": "2026-07-07T17:29:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "SBI Holdings is sole investor in crypto platform EDX Markets’ $76 million Series C",
+      "link": "https://www.theblock.co/post/407489/crypto-platform-edx-markets-series-c-funding-sbi-sole-investor?utm_source=rss&utm_medium=rss",
+      "desc": "Institutional crypto platform EDX Markets has closed a $76 million Series C funding round, with Japan's SBI Holdings as the sole investor.",
+      "date": "2026-07-07T17:25:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "New Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote",
+      "link": "https://bitcoinmagazine.com/news/new-hampshires-100-million-bitcoin-backed",
+      "desc": "Bitcoin Magazine New Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote New Hampshire's Executive Council will vote Wednesday on a first-of-its-kind $100 million Bitcoin-backed municipal bond. This post New Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-07-07T17:19:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks",
+      "link": "https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks",
+      "desc": "Market maker Wintermute remains cautious, suggesting that recent Bitcoin action is a relief rally rather than a fundamental market change.",
+      "date": "2026-07-07T17:16:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -286,16 +372,6 @@
       "link": "https://www.theblock.co/post/407441/vanguard-hiring-crypto-exec-to-help-influence-market?utm_source=rss&utm_medium=rss",
       "desc": "The firm's head of digital assets will lead Vanguard's crypto-related strategy for personal wealth clients and interact with regulators.",
       "date": "2026-07-07T14:36:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Vanguard opens search for digital assets leader in sign of evolving crypto strategy",
-      "link": "https://www.coindesk.com/markets/2026/07/07/vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy",
-      "desc": "The new role would oversee tokenization, stablecoins and blockchain initiatives as Vanguard reassesses digital assets.",
-      "date": "2026-07-07T14:28:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -825,16 +901,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Vitalik Buterin proposes ‘Extremely Lean’ Ethereum, shrinking the chain to near-zero state with ZK proofs",
-      "link": "https://www.theblock.co/post/407319/vitalik-buterin-extremely-lean-ethereum-shrinking-chain-to-near-zero-state-zk-proofs?utm_source=rss&utm_medium=rss",
-      "desc": "Buterin outlined a two-step plan to shift Ethereum's state management to validators and replace per-epoch balance updates with ZK proofs.",
-      "date": "2026-07-06T16:34:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "AVAX One CEO Jolie Kahn Resigns Days After Stock Crash Warning",
@@ -981,16 +1047,6 @@
       "link": "https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit",
       "desc": "The protocol’s SUMR token fell by over 18% after the incident.",
       "date": "2026-07-06T13:42:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Strive (ASST) Adds 17.76 Bitcoin as Falling Prices Boost Its Quarterly Yield",
-      "link": "https://bitcoinmagazine.com/news/strive-asst-adds-17-76-bitcoin",
-      "desc": "Bitcoin Magazine Strive (ASST) Adds 17.76 Bitcoin as Falling Prices Boost Its Quarterly Yield Strive (ASST) added a symbolic 17.76 BTC, pushing its treasury to 19,882 bitcoin as a sharp quarterly accumulation spree delivered a 24% BTC yield. This post Strive (ASST) Adds 17.76 Bitcoin as Falling Prices Boost Its Quarterly Yield first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-07-06T12:48:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
