@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-07T15:29:20.249Z",
+  "generatedAt": "2026-07-07T16:23:58.684Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 260,
+  "filteredOut": 256,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "decrypt",
@@ -20,20 +20,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Blockchain consensus mechanisms and fragmentation",
-      "link": "https://www.bis.org/publ/bisbull126.htm",
-      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-07T15:29:20.014Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-07T15:29:20.014Z",
+      "date": "2026-07-07T16:23:56.665Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +33,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-07T15:29:20.014Z",
+      "date": "2026-07-07T16:23:56.665Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +43,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-07T15:29:20.014Z",
+      "date": "2026-07-07T16:23:56.665Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +53,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-07T15:29:20.014Z",
+      "date": "2026-07-07T16:23:56.665Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -73,7 +63,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-07T15:29:20.014Z",
+      "date": "2026-07-07T16:23:56.665Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Blockchain consensus mechanisms and fragmentation",
+      "link": "https://www.bis.org/publ/bisbull126.htm",
+      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
+      "date": "2026-07-07T16:23:56.664Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,7 +83,17 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-07T15:29:19.000Z",
+      "date": "2026-07-07T16:23:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
+      "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
+      "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
+      "date": "2026-07-07T16:23:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -93,7 +103,57 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-07T15:29:19.000Z",
+      "date": "2026-07-07T16:23:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
+      "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
+      "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
+      "date": "2026-07-07T16:23:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
+      "link": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
+      "desc": "A newly updated agenda from the securities regulator shows so-called Reg Crypto high on its near-term list.",
+      "date": "2026-07-07T16:08:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "SEC plans crypto rule changes for exchanges and broker dealers in 2026 regulatory agenda",
+      "link": "https://www.theblock.co/post/407468/sec-plans-crypto-rule-changes-for-exchanges-broker-dealers-2026-regulatory-agenda?utm_source=rss&utm_medium=rss",
+      "desc": "The SEC is laying the groundwork for cryptocurrency rule changes before the end of the year, with a blueprint for exchanges and brokers.",
+      "date": "2026-07-07T16:03:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "1kx, Blockchain Capital back $7.5 million KOR Protocol Series A at $100 million valuation",
+      "link": "https://www.theblock.co/post/407465/1kx-blockchain-capital-7-5-million-kor-protocol-series-a-100-million-valuation?utm_source=rss&utm_medium=rss",
+      "desc": "KOR Protocol is building an onchain clearinghouse that helps register and route creative works and pay out rights holders.",
+      "date": "2026-07-07T15:57:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Coinbase Gains UK’s Permission to Offer Investment Services",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/coinbase-gains-uks-permission-to-offer-investment-services/",
+      "desc": "Cryptocurrency exchange Coinbase said it has won authorization to provide investment services in the U.K. “In plain terms: we can now offer traditional financial instruments, not just crypto,” the company said in its announcement Tuesday (July 7). “This is not an abstract regulatory milestone. It changes what U.K. users can do on Coinbase.” The new […] The post Coinbase Gains UK’s Permission to Offer Investment Services appeared first on PYMNTS.com.",
+      "date": "2026-07-07T15:37:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -145,17 +205,18 @@
       "link": "https://bitcoinmagazine.com/news/tether-invests-20-million-mercado-bitcoin",
       "desc": "Bitcoin Magazine Tether Invests $20 Million in Brazil’s Mercado Bitcoin Tether invested $20 million in Brazil's Mercado Bitcoin to expand regulated blockchain finance, tokenization and stablecoin infrastructure across Latin America. This post Tether Invests $20 Million in Brazil’s Mercado Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-07-07T15:01:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "How Onchain Capital Can Reach Europe’s Underserved SMEs",
-      "link": "https://cointelegraph.com/research/how-onchain-capital-can-reach-europes-underserved-smes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Novel models for RWA tokenization could allow SMEs to receive credit using tangible assets as collateral. A new Cointelegraph Research report presents a case study.",
-      "date": "2026-07-07T15:00:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/tether-invests-20m-in-brazil-s-mercado-bitcoin"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -874,16 +935,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitmine’s Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum’s total supply",
-      "link": "https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply?utm_source=rss&utm_medium=rss",
-      "desc": "Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.",
-      "date": "2026-07-06T14:15:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit",
@@ -894,12 +945,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitmine added another $74 million in ether as Tom Lee bets on Clarity Act boost",
-      "link": "https://www.coindesk.com/business/2026/07/06/bitmine-added-another-usd74-million-in-ether-as-tom-lee-bets-on-clarity-act-boost",
-      "desc": "The second-largest digital asset treasury increased its buying pace, while Strategy sold a chunk of its bitcoin holdings.",
-      "date": "2026-07-06T12:54:37.000Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK",
+      "link": "https://cointelegraph.com/news/crypto-hacks-fell-47-percent-in-h1-but-ecosystem-is-no-safer-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Crypto exploits rose 59% quarter-on-quarter to $807.5 million in Q2, due partly to the KelpDAO and Drift Protocol exploits, which came at the hands of North Korean hackers.",
+      "date": "2026-07-06T13:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -924,16 +975,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Michael Saylor's Strategy dramatically ups pace of bitcoin sales, raising $216 million",
-      "link": "https://www.coindesk.com/markets/2026/07/06/michael-saylor-s-strategy-dramatically-ups-pace-of-bitcoin-sales-raising-usd216-million",
-      "desc": "The company sold 3,588 bitcoin last week to replenish its dollar reserves for dividends on its preferred stock.",
-      "date": "2026-07-06T12:16:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "New UK Election Funding Rules Could Hit Reform's Crypto Billionaire Donors",
@@ -950,16 +991,6 @@
       "link": "https://www.finextra.com/newsarticle/48041/financial-platform-for-immigrants-lemfi-buys-wealth8?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "LemFi, a Nigerian-founded financial services fintech for immigrant communities, has received the green light from UK regulators to buy investment platform Wealth8.",
       "date": "2026-07-06T00:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
-      "link": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware",
-      "desc": "A new Mac infostealer dubbed PamStealer impersonates the open-source Maccy clipboard manager to steal passwords and more.",
-      "date": "2026-07-05T15:46:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
