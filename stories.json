@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-07T14:17:42.823Z",
+  "generatedAt": "2026-07-07T15:29:20.249Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 260,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "decrypt",
@@ -23,7 +23,7 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-07T14:17:42.594Z",
+      "date": "2026-07-07T15:29:20.014Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-07T14:17:42.594Z",
+      "date": "2026-07-07T15:29:20.014Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-07T14:17:42.594Z",
+      "date": "2026-07-07T15:29:20.014Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +53,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-07T14:17:42.594Z",
+      "date": "2026-07-07T15:29:20.014Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +63,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-07T14:17:42.594Z",
+      "date": "2026-07-07T15:29:20.014Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -73,7 +73,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-07T14:17:42.594Z",
+      "date": "2026-07-07T15:29:20.014Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,7 +83,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-07T14:17:42.000Z",
+      "date": "2026-07-07T15:29:19.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -93,7 +93,98 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-07T14:17:42.000Z",
+      "date": "2026-07-07T15:29:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "BonkDAO Attacker Moves $19M Loot Into New 'BONK 2.0' DAO",
+      "link": "https://thedefiant.io/news/hacks/bonkdao-attacker-moves-19m-loot-into-new-bonk-2-0-dao",
+      "desc": "The wallet behind BonkDAO's $20 million governance attack has parked most of the stolen BONK in a multisig controlled by a newly created shadow DAO, Chainalysis said in a post on its official X account Tuesday.",
+      "date": "2026-07-07T15:22:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Gemini offers 0% stock trading in US as it looks to become ‘all-in-one financial super app’",
+      "link": "https://www.theblock.co/post/407449/gemini-offers-0-stock-trading-in-us-become-all-in-one-financial-super-app?utm_source=rss&utm_medium=rss",
+      "desc": "Gemini said it is looking to become an “all-in-one financial super app\" as it launches 0% commission stock trading for eligible U.S. users.",
+      "date": "2026-07-07T15:10:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Traders Sue Polymarket, CEO Coplan Over Strategy Market Decision",
+      "link": "https://thedefiant.io/news/regulation/traders-sue-polymarket-ceo-coplan-over-strategy-market-decision",
+      "desc": "Two Polymarket users sued the prediction-market platform, its holding entities and CEO Shayne Coplan in New York state court, alleging the site wrongly resolved a market on whether Strategy would sell Bitcoin. William Wood and Thomas Bush filed the complaint in the Supreme Court of the State of New…",
+      "date": "2026-07-07T15:09:04.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/372899/traders-sue-polymarket-over-no-ruling-on-strategy-bitcoin-sale"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Tether Invests $20 Million in Brazil’s Mercado Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/tether-invests-20-million-mercado-bitcoin",
+      "desc": "Bitcoin Magazine Tether Invests $20 Million in Brazil’s Mercado Bitcoin Tether invested $20 million in Brazil's Mercado Bitcoin to expand regulated blockchain finance, tokenization and stablecoin infrastructure across Latin America. This post Tether Invests $20 Million in Brazil’s Mercado Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-07-07T15:01:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "How Onchain Capital Can Reach Europe’s Underserved SMEs",
+      "link": "https://cointelegraph.com/research/how-onchain-capital-can-reach-europes-underserved-smes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Novel models for RWA tokenization could allow SMEs to receive credit using tangible assets as collateral. A new Cointelegraph Research report presents a case study.",
+      "date": "2026-07-07T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin Covenants Part 3: SIGHASH_ANYPREVOUT",
+      "link": "https://cointelegraph.com/research/bitcoin-covenants-part-3-sighash-anyprevout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "APO lets a Bitcoin signature authorize any compatible UTXO rather than one fixed outpoint. It allows for rebindable pre-signed transactions for Lightning, vaults, and layer-2 protocols without new key management overhead.",
+      "date": "2026-07-07T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Multi-trillion-dollar asset manager Vanguard hiring crypto exec to help influence market",
+      "link": "https://www.theblock.co/post/407441/vanguard-hiring-crypto-exec-to-help-influence-market?utm_source=rss&utm_medium=rss",
+      "desc": "The firm's head of digital assets will lead Vanguard's crypto-related strategy for personal wealth clients and interact with regulators.",
+      "date": "2026-07-07T14:36:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Vanguard opens search for digital assets leader in sign of evolving crypto strategy",
+      "link": "https://www.coindesk.com/markets/2026/07/07/vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy",
+      "desc": "The new role would oversee tokenization, stablecoins and blockchain initiatives as Vanguard reassesses digital assets.",
+      "date": "2026-07-07T14:28:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -154,6 +245,16 @@
       "title": "Has Bitcoin bottomed for this cycle? Analysts say 'not yet'",
       "link": "https://cointelegraph.com/features/how-much-longer-until-bitcoin-finds-cycle-bottom-analysts-disagree?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Some Bitcoin analysts point to a deeper downside risk, while others believes they can see the early signs of a recovery.",
+      "date": "2026-07-07T13:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "CAP Token Climbs to #2 Lending-Borrowing Protocol by Volume, 10 Days After Launch",
+      "link": "https://thedefiant.io/news/defi/cap-token-climbs-to-2-lending-borrowing-protocol-by-volume-10-days-after-launch",
+      "desc": "Cap's governance token has generated $862 million in cumulative trading volume since its June 26 debut.",
       "date": "2026-07-07T13:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -260,7 +361,7 @@
       "title": "Ctrl Wallet to shut weeks after security exploit",
       "link": "https://cointelegraph.com/news/ctrl-wallet-shutdown-security-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The move follows a June 23 exploit that has now resulted in closing down the wallet, with users urged to withdraw their assets before all functions are disabled on Aug. 3, 2026.",
-      "date": "2026-07-07T10:46:24.000Z",
+      "date": "2026-07-07T10:48:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -347,27 +448,11 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "MiCA-compliant euro stablecoins grew 128% before MiCA transition ended, says Decta",
+      "title": "MiCA-compliant euro stablecoins grew 128% ahead of July 1 deadline, says Decta",
       "link": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
-      "date": "2026-07-07T09:08:45.000Z",
+      "date": "2026-07-07T09:10:00.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Two traders sue Polymarket over disputed resolution of Strategy bitcoin sale market",
-      "link": "https://www.theblock.co/post/407368/two-traders-sue-polymarket-strategy-bitcoin-sale?utm_source=rss&utm_medium=rss",
-      "desc": "Plaintiffs allege Polymarket wrongly resolved the market as \"No\" despite Strategy's SEC filing disclosing it sold 32 BTC between May 26 and May 31.",
-      "date": "2026-07-07T08:34:34.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/372899/traders-sue-polymarket-over-no-ruling-on-strategy-bitcoin-sale"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -387,16 +472,6 @@
       "link": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates",
       "desc": "Japanese bond yields continue to rise, lifting their U.S. counterparts and posing a potential headwind for risk assets.",
       "date": "2026-07-07T07:50:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live markets: Samsung earnings miss sparks uncertainty as bitcoin dips below $64,000",
-      "link": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
-      "desc": "Spot bitcoin ETFs still lost a net $526.6 million over the shortened holiday week, an eighth straight week of negative flows.",
-      "date": "2026-07-07T06:51:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -488,16 +563,6 @@
       "link": "https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bollinger Bands creator John Bollinger says the charts suggest Bitcoin could take off from here. Vitalik Buterin unveils a new Ethereum strawmap, but why is it taking so long?",
       "date": "2026-07-07T00:03:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "CAP Token Climbs to #2 Lending-Borrowing Protocol by Volume, 10 Days After Launch",
-      "link": "https://thedefiant.io/news/defi/cap-token-climbs-to-2-lending-borrowing-protocol-by-volume-10-days-after-launch",
-      "desc": "Cap's governance token has generated $862 million in cumulative trading volume since its June 26 debut.",
-      "date": "2026-07-06T22:58:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -819,42 +884,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "TeraWulf signs 20-year data center lease with Anthropic expected to generate $19 billion in revenue",
-      "link": "https://www.theblock.co/post/407282/terawulf-data-center-lease-anthropic-19-billion-revenue?utm_source=rss&utm_medium=rss",
-      "desc": "Anthropic will lease at TeraWulf's Justified Data site in Hawesville, Kentucky, which is expected to provide 401 MW of IT load.",
-      "date": "2026-07-06T14:02:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit",
       "link": "https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit",
       "desc": "The protocol’s SUMR token fell by over 18% after the incident.",
       "date": "2026-07-06T13:42:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Russia’s largest bank Sber targets early December crypto wallet launch: report",
-      "link": "https://www.theblock.co/post/407273/russias-largest-bank-sber-targets-early-december-crypto-wallet-launch-report?utm_source=rss&utm_medium=rss",
-      "desc": "Sberbank plans a crypto wallet and digital depository in Sber apps by early December pending Russia’s new digital asset law.",
-      "date": "2026-07-06T13:20:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK",
-      "link": "https://cointelegraph.com/news/crypto-hacks-fell-47-percent-in-h1-but-ecosystem-is-no-safer-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto exploits rose 59% quarter-on-quarter to $807.5 million in Q2, due partly to the KelpDAO and Drift Protocol exploits, which came at the hands of North Korean hackers.",
-      "date": "2026-07-06T13:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -889,52 +924,12 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Standard Chartered enables institutional clients to access USDC minting and redemption",
-      "link": "https://www.finextra.com/pressarticle/110349/standard-chartered-enables-institutional-clients-to-access-usdc-minting-and-redemption?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Standard Chartered today announced the launch of its capability enabling institutional clients to access USDC minting and redemption, developed in partnership with Circle Internet Group, Inc. (Circle) (NYSE: CRCL), the issuer of USDC1 through its regulated entities.",
-      "date": "2026-07-06T12:21:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline",
-      "link": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
-      "date": "2026-07-06T12:20:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Michael Saylor's Strategy dramatically ups pace of bitcoin sales, raising $216 million",
       "link": "https://www.coindesk.com/markets/2026/07/06/michael-saylor-s-strategy-dramatically-ups-pace-of-bitcoin-sales-raising-usd216-million",
       "desc": "The company sold 3,588 bitcoin last week to replenish its dollar reserves for dividends on its preferred stock.",
       "date": "2026-07-06T12:16:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Russia's largest bank plans crypto wallet launch as Moscow clears market path",
-      "link": "https://www.coindesk.com/business/2026/07/06/russia-s-largest-bank-plans-crypto-wallet-launch-as-moscow-clears-market-path",
-      "desc": "Services will integrate into \"Sberbank Online\" and \"SberInvestments\" once the \"On Digital Currency and Digital Rights\" bill takes effect in September.",
-      "date": "2026-07-06T11:36:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. inflation outlook underpins bitcoin bulls after best week since March",
-      "link": "https://www.coindesk.com/daybook-us/2026/07/06/u-s-inflation-outlook-underpins-bitcoin-bulls-after-best-week-since-march",
-      "desc": "Your day-ahead look for July 6, 2026",
-      "date": "2026-07-06T11:15:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
