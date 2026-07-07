@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-07T04:47:11.107Z",
+  "generatedAt": "2026-07-07T06:22:31.654Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 270,
+  "filteredOut": 271,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "decrypt",
@@ -18,23 +18,12 @@
       "termBoost": 3
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Vitalik Buterin says Ethereum’s next rebuild will rival the Merge, and take three to four years",
-      "link": "https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years?utm_source=rss&utm_medium=rss",
-      "desc": "He said quantum safety has \"shifted up a LOT in priority\" and that Hegota, slated for later this year, will likely be Ethereum's last \"pre-Lean\" hard fork.",
-      "date": "2026-07-05T19:56:39.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-07T04:47:10.415Z",
+      "date": "2026-07-07T06:22:31.443Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,7 +33,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-07T04:47:10.415Z",
+      "date": "2026-07-07T06:22:31.443Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -54,7 +43,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-07T04:47:10.415Z",
+      "date": "2026-07-07T06:22:31.443Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,7 +53,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-07T04:47:10.415Z",
+      "date": "2026-07-07T06:22:31.443Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -74,7 +63,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-07T04:47:10.415Z",
+      "date": "2026-07-07T06:22:31.443Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -84,7 +73,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-07T04:47:10.415Z",
+      "date": "2026-07-07T06:22:31.443Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -94,7 +83,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-07T04:47:09.000Z",
+      "date": "2026-07-07T06:22:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -104,8 +93,59 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-07T04:47:09.000Z",
+      "date": "2026-07-07T06:22:30.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-07-07T06:02:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Trader loses $2M in ‘same-block backrun extraction’ exploit",
+      "link": "https://cointelegraph.com/news/trader-loses-2m-in-same-block-backrun-extraction-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "One crypto trader noted the $2 million loss could have been prevented had the victim read the transaction route before signing the transaction.",
+      "date": "2026-07-07T05:58:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+      "link": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+      "desc": "The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling.",
+      "date": "2026-07-07T05:40:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "What Is the U.S. Strategic Bitcoin Reserve?",
+      "link": "https://www.theblock.co/learn/407371/what-is-the-u-s-strategic-bitcoin-reserve?utm_source=rss&utm_medium=rss",
+      "desc": "The U.S. Strategic Bitcoin Reserve is a government-held stockpile of bitcoin, established by executive order in March 2025. The order treats Bitcoin as a long-term reserve asset, comparable to how the country holds gold, and directs that the coins placed in the reserve are not to be sold. Almost all of the U.S. government’s BTC […]",
+      "date": "2026-07-07T05:27:23.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -135,16 +175,6 @@
       "link": "https://cointelegraph.com/news/injective-ceo-warns-layer-1-chains-risk-sacrificing-decentralization-for-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Blockchains will face increasing pressure to compromise on decentralization to meet user demand for speed and scalability, Injective CEO Eric Chen said.",
       "date": "2026-07-07T03:28:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "US Bitcoin reserve hits snag as federal agencies debate for control: Bloomberg",
-      "link": "https://cointelegraph.com/news/trumps-bitcoin-reserve-stalled-by-interagency-dispute-over-control-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The report follows comments from White House crypto adviser Patrick Witt in May, who said the administration was examining the legal implications of creating a Bitcoin reserve.",
-      "date": "2026-07-07T02:17:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -205,16 +235,6 @@
       "link": "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.",
       "date": "2026-07-06T21:57:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out",
-      "link": "https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out",
-      "desc": "The White House says it's still evaluating the \"best structure\" for the federal fund to hold bitcoin as a long-term reserve and a separate stockpile of other crypto assets.",
-      "date": "2026-07-06T21:40:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -287,16 +307,6 @@
           "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack?utm_source=rss&utm_medium=rss"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-07-06T20:03:50.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -852,42 +862,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday",
-      "link": "https://cointelegraph.com/markets/bitcoin-nears-635k-into-weekly-close-as-trader-warns-of-terrible-monday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin reached its highest levels in nearly a fortnight over the weekend, but BTC price action faced an \"absolutely terrible\" Monday track record.",
-      "date": "2026-07-05T16:06:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
       "link": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware",
       "desc": "A new Mac infostealer dubbed PamStealer impersonates the open-source Maccy clipboard manager to steal passwords and more.",
       "date": "2026-07-05T15:46:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "South Africa proposes crypto tax guidance under existing framework",
-      "link": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "South Africa’s tax authority proposed draft guidance clarifying how crypto assets are taxed under existing income and capital gains tax rules, seeking public input until Aug. 31.",
-      "date": "2026-07-05T11:52:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
-      "link": "https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Binance recorded $1.23 billion in weekly net outflows, up 207% from the previous week, as Ethereum withdrawals surged to a three-year high.",
-      "date": "2026-07-05T08:33:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
