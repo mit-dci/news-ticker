@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-07T21:02:46.452Z",
+  "generatedAt": "2026-07-07T21:57:58.192Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 244,
+  "filteredOut": 242,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "decrypt",
@@ -20,10 +20,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-07-07T21:57:57.447Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-07T21:02:45.833Z",
+      "date": "2026-07-07T21:57:57.446Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +43,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-07T21:02:45.833Z",
+      "date": "2026-07-07T21:57:57.446Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +53,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-07T21:02:45.833Z",
+      "date": "2026-07-07T21:57:57.446Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +63,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-07T21:02:45.833Z",
+      "date": "2026-07-07T21:57:57.446Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,17 +73,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-07T21:02:45.833Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-07T21:02:45.833Z",
+      "date": "2026-07-07T21:57:57.446Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,7 +83,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-07T21:02:45.000Z",
+      "date": "2026-07-07T21:57:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -93,7 +93,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-07T21:02:45.000Z",
+      "date": "2026-07-07T21:57:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -103,7 +103,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-07T21:02:45.000Z",
+      "date": "2026-07-07T21:57:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -113,7 +113,33 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-07T21:02:45.000Z",
+      "date": "2026-07-07T21:57:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "SEC crypto rule changes are high on its 2026 agenda",
+      "link": "https://cointelegraph.com/news/sec-crypto-rule-changes-2026-agenda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The financial regulator’s agenda included proposed rule changes related to crypto broker-dealers, digital assets on national securities exchanges and potential safe harbors.",
+      "date": "2026-07-07T21:39:48.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/407468/sec-plans-crypto-rule-changes-for-exchanges-broker-dealers-2026-regulatory-agenda?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost",
+      "link": "https://cointelegraph.com/markets/ether-climbs-toward-2k-as-bitmine-buys-eth-robinhood-l2-boost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "ETH charts a path toward $2,000 as TradFi adoption, DAT buying and a long-awaited network upgrade boost investor interest.",
+      "date": "2026-07-07T21:14:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -214,7 +240,13 @@
       "link": "https://cointelegraph.com/news/kraken-wins-22m-arbitration-against-former-auditor-mazars?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The crypto exchange's parent company says Mazars' withdrawal from its 2022 audit caused millions in damages and tied the dispute to Operation Chokepoint 2.0.",
       "date": "2026-07-07T19:31:03.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/407524/kraken-wins-22-million-arbitration-auditor-mazars-for-ditching-during-operation-choke-point-2-0?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -244,6 +276,11 @@
           "source": "THE DEFIANT",
           "sourceId": "defiant",
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/tether-invests-20m-in-brazil-s-mercado-bitcoin"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america"
         },
         {
           "source": "THE BLOCK",
@@ -374,7 +411,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "Nigel Farage to resign from UK Parliament amid crypto “gift” scandal, will stand in by-election",
       "link": "https://cointelegraph.com/news/nigel-farage-resigns-crypto-donation-scandal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Reform party leader and Brexit champion confirmed that he was the subject of probes by UK authorities following reports of what he called “gifts” from figures tied to cry pto ventures.",
+      "desc": "The Reform party leader and Brexit champion confirmed that he was the subject of probes by UK authorities following reports of what he called “gifts” from figures tied to crypto ventures.",
       "date": "2026-07-07T16:27:19.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -396,16 +433,6 @@
       "link": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
       "desc": "A newly updated agenda from the securities regulator shows so-called Reg Crypto high on its near-term list.",
       "date": "2026-07-07T16:08:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "SEC plans crypto rule changes for exchanges and broker dealers in 2026 regulatory agenda",
-      "link": "https://www.theblock.co/post/407468/sec-plans-crypto-rule-changes-for-exchanges-broker-dealers-2026-regulatory-agenda?utm_source=rss&utm_medium=rss",
-      "desc": "The SEC is laying the groundwork for cryptocurrency rule changes before the end of the year, with a blueprint for exchanges and brokers.",
-      "date": "2026-07-07T16:03:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -869,16 +896,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?",
-      "link": "https://cointelegraph.com/markets/bitcoin-recovers-from-strategy-btc-sale-funding-rates-hit-9-are-bulls-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin sold off as news of Strategy selling BTC shook investors’ nerve but the quick rebound suggests bulls remain ambitiously positioned.",
-      "date": "2026-07-06T21:06:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Ripple Secures Full MiCA License, Completing EU Compliance",
@@ -895,16 +912,6 @@
       "link": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million",
       "desc": "The Bonk DAO wallet was exploited for roughly $20 million worth of the prominent dog-themed meme coin on Solana.",
       "date": "2026-07-06T20:56:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BonkDAO reports $20M theft from ‘malicious governance proposal’",
-      "link": "https://cointelegraph.com/news/bonk-dao-malicious-governance-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The developers behind the memecoin project said they had informed law enforcement after the attack and were working to “recover funds and identify those responsible.”",
-      "date": "2026-07-06T20:55:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
