@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-09T15:03:03.565Z",
+  "generatedAt": "2026-07-09T16:18:46.620Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 243,
+  "filteredOut": 244,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "bcannounce",
@@ -58,20 +58,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Blockchain consensus mechanisms and fragmentation",
-      "link": "https://www.bis.org/publ/bisbull126.htm",
-      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-09T15:03:02.467Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-09T15:03:02.467Z",
+      "date": "2026-07-09T16:18:45.720Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -81,7 +71,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-09T15:03:02.467Z",
+      "date": "2026-07-09T16:18:45.720Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -91,7 +81,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-09T15:03:02.467Z",
+      "date": "2026-07-09T16:18:45.720Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -101,7 +91,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-09T15:03:02.467Z",
+      "date": "2026-07-09T16:18:45.720Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -111,7 +101,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-09T15:03:02.467Z",
+      "date": "2026-07-09T16:18:45.720Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Blockchain consensus mechanisms and fragmentation",
+      "link": "https://www.bis.org/publ/bisbull126.htm",
+      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
+      "date": "2026-07-09T16:18:45.719Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -121,7 +121,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-09T15:03:02.000Z",
+      "date": "2026-07-09T16:18:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -131,7 +131,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-09T15:03:02.000Z",
+      "date": "2026-07-09T16:18:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -141,7 +141,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-09T15:03:02.000Z",
+      "date": "2026-07-09T16:18:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -151,7 +151,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-09T15:03:02.000Z",
+      "date": "2026-07-09T16:18:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -161,7 +161,99 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-09T15:03:02.000Z",
+      "date": "2026-07-09T16:18:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Aave Labs Launches Stable Vaults for Fintech Stablecoin Yield",
+      "link": "https://thedefiant.io/news/defi/aave-labs-launches-stable-vaults-for-fintech-stablecoin-yield",
+      "desc": "The vaults convert Aave's variable lending rates into fixed yields that wallets, exchanges and payment apps can offer their own users.",
+      "date": "2026-07-09T16:06:34.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/407645/aave-labs-rolls-out-stable-vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "PayPal's PYUSD Goes Native on Polygon, Joins Open Money Stack",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/paypal-s-pyusd-goes-native-on-polygon-joins-open-money-stack",
+      "desc": "Paxos, the OCC-regulated issuer of PYUSD, said the stablecoin will now settle directly on Polygon rather than moving there as a bridged token.",
+      "date": "2026-07-09T16:01:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges",
+      "link": "https://www.theblock.co/post/407780/hyperliquid-policy-center-phantom-urge-cftc-to-stop-treating-onchain-protocols-like-traditional-brokers-and-exchanges?utm_source=rss&utm_medium=rss",
+      "desc": "The CFTC and Securities and Exchange Commission issued a Request for Information in mid-June on financial innovation.",
+      "date": "2026-07-09T16:00:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Zapper to Shut Down Aug. 3 After Nearly Seven Years",
+      "link": "https://thedefiant.io/news/defi/zapper-to-shut-down-aug-3-after-nearly-seven-years",
+      "desc": "The DeFi portfolio tracker once handled $13 billion in transaction volume and 2 million monthly users before deciding an orderly wind-down was its best option.",
+      "date": "2026-07-09T15:59:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "JPMorgan says bitcoin’s main risk isn’t Strategy, but blockchain adoption that doesn’t benefit public chains and tokens",
+      "link": "https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto?utm_source=rss&utm_medium=rss",
+      "desc": "JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.",
+      "date": "2026-07-09T15:44:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond",
+      "link": "https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million",
+      "desc": "Bitcoin Magazine New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond New Hampshire's Executive Council voted 3-2 to reject a proposed $100 million Bitcoin-backed municipal bond, shelving what supporters said would have been the world's first such issuance despite arguments that it posed no risk to taxpayers. This post New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-07-09T15:28:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Labour MPs Push to Make UK Crypto Donation Ban Permanent",
+      "link": "https://decrypt.co/373130/labour-mps-push-to-make-uk-crypto-donation-ban-permanent",
+      "desc": "The lawmakers have tabled amendments to make the current moratorium permanent, as the fallout over Reform UK's funding widens.",
+      "date": "2026-07-09T15:26:59.000Z",
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/b6e1ca13-b401-4557-aeef-85527ab0bdd7"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Why this Wall Street veteran is betting on Avalanche",
+      "link": "https://www.theblock.co/post/407752/why-this-wall-street-veteran-is-betting-on-avalanche?utm_source=rss&utm_medium=rss",
+      "desc": "Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions of treasury companies and his bull thesis for Avalanche.",
+      "date": "2026-07-09T15:03:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -298,16 +390,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Aave Labs rolls out Stable Vaults, offering predictable stablecoin yield aimed at mainstream users",
-      "link": "https://www.theblock.co/post/407645/aave-labs-rolls-out-stable-vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users?utm_source=rss&utm_medium=rss",
-      "desc": "Stable Vaults will continuously “optimize capital allocation” across DeFi yield strategies, like Aave V3 and V4 markets.",
-      "date": "2026-07-09T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Age verification is the surveillance nobody voted for",
@@ -418,22 +500,22 @@
       "termBoost": 0
     },
     {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Labour MPs push for permanent ban on crypto political donations",
-      "link": "https://www.ft.com/content/b6e1ca13-b401-4557-aeef-85527ab0bdd7",
-      "desc": "Proposals come amid controversy over Reform UK funding",
-      "date": "2026-07-09T11:00:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures",
       "link": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
       "desc": "These options settle into underlying futures contracts rather than spot cryptoassets, involving no custody, transfer, or administration of tokens.",
       "date": "2026-07-09T10:55:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto for Advisors: Q2 2026 Digital Asset Review",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/07/09/q2-2026-digital-asset-review",
+      "desc": "ETFs face record outflows",
+      "date": "2026-07-09T10:40:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -464,6 +546,16 @@
       "link": "https://cointelegraph.com/news/revolut-usdt-delisting-limited-eea-switzerland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Revolut said USDT support remains unchanged outside EEA and Switzerland as it winds down the stablecoin offering in selected European markets.",
       "date": "2026-07-09T10:23:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Nium acquires crypto wallet Cypher",
+      "link": "https://www.finextra.com/pressarticle/110385/nium-acquires-crypto-wallet-cypher?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Nium, the global leader in cross-border payments infrastructure, today announced the acquisition of Cypher, a crypto-native non-custodial wallet and issuing company.",
+      "date": "2026-07-09T10:12:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -589,16 +681,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Top of Wallet, Top of Mind: How Credit Unions Grow Deposits Through Conversion",
-      "link": "https://www.pymnts.com/credit-unions/2026/top-of-wallet-top-of-mind-how-credit-unions-grow-deposits-through-conversion/",
-      "desc": "If you run a credit union, you’ve already won the hard part. Sixty-one percent of your members consider you their primary financial institution, and 87% are very or extremely satisfied. No digital bank or FinTech is close. The relationship is yours. The question is what that relationship is earning you. Because when a member reaches […] The post Top of Wallet, Top of Mind: How Credit Unions Grow Deposits Through Conversion appeared first on PYMNTS.com.",
-      "date": "2026-07-09T08:00:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Live markets: Bitcoin rises to $63,000, oil and bond yields drop as markets look past latest Iran dustup",
@@ -625,13 +707,7 @@
       "link": "https://cointelegraph.com/news/senate-leaders-urged-to-keep-dev-protections-in-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Senator Ron Wyden has called on Senate leaders to ensure the Blockchain Regulatory Certainty Act remains in the CLARITY Act when it is brought to the floor.",
       "date": "2026-07-09T06:03:49.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/407648/wyden-urges-senate-leaders-preserve-contested-blockchain-developer-protections-in-broader-crypto-bill?utm_source=rss&utm_medium=rss"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -665,16 +741,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "AscendEX crypto exchange shuts down, no assurance on user payouts",
-      "link": "https://www.theblock.co/post/407654/ascendex-shuts-down?utm_source=rss&utm_medium=rss",
-      "desc": "AscendEx announced on July 6 that its platform ceased operations effective July 1, citing regulatory, financial, and operational challenges.",
-      "date": "2026-07-09T04:39:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Mark Cuban-backed DeFi dashboard Zapper shutters after 7 years",
@@ -695,38 +761,12 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Nium Acquires Cypher to Bridge Fiat and Crypto",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/nium-acquires-cypher-to-bridge-fiat-and-crypto/",
-      "desc": "Nium has acquired Cypher to further develop Nium as the core infrastructure layer for compliant money movement and value exchange that bridges fiat and digital assets. The acquisition brings together Nium’s cross-border payments infrastructure and Cypher’s crypto-native non-custodial wallet and issuing capabilities, Nium said in a Wednesday (July 8) press release. The combination will help […] The post Nium Acquires Cypher to Bridge Fiat and Crypto appeared first on PYMNTS.com.",
-      "date": "2026-07-09T00:24:35.000Z",
-      "alsoAt": [
-        {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/pressarticle/110385/nium-acquires-crypto-wallet-cypher?utm_medium=rssfinextra&utm_source=finextrafeed"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher",
       "link": "https://bitcoinmagazine.com/markets/bitcoin-slips-to-62000-paring-rebound",
       "desc": "Bitcoin Magazine Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher Bitcoin slipped to around $62,000 after rebounding from last week's $57,700 low, while CryptoQuant says improving demand, seasonality and valuation support further gains, though its bearish Bull Score Index suggests the move remains a bear-market recovery rather than a full trend reversal. This post Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-07-08T21:18:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Binance Wallet adds Plume’s yield vault offering access to Invesco and Bitwise funds",
-      "link": "https://www.theblock.co/post/407632/binance-wallet-plume-yield-vault-invesco-bitwise-funds?utm_source=rss&utm_medium=rss",
-      "desc": "Binance Wallet has added Plume's yield vault, giving users access to tokenized funds managed by Invesco and Bitwise.",
-      "date": "2026-07-08T21:00:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -972,16 +1012,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Citadel abandons multi-year crypto lawsuit to focus on bankruptcy order against an ex-employee",
-      "link": "https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk",
-      "desc": "After winning a 6 million-pound London arbitration award, Citadel dropped its U.S. trade secrets case, saying another judgment would likely go uncollected.",
-      "date": "2026-07-08T12:45:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bankers Filed Suspicious Activity Report Over Farage's £5M Gift From Tether Billionaire",
@@ -998,6 +1028,16 @@
       "link": "https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month",
       "desc": "The SEC updated its agenda to indicate that a key crypto rulemaking is slated to be released for public comment in July.",
       "date": "2026-07-07T22:01:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
+      "link": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
+      "desc": "Brazilian crypto exchange Mercado Bitcoin has raised $20 million in fresh investment from USDT stablecoin issuer Tether.",
+      "date": "2026-07-07T21:31:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1042,16 +1082,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Vanguard Warms to Crypto With Search for Digital Assets Chief",
-      "link": "https://bitcoinmagazine.com/news/vanguard-warms-to-crypto-hiring",
-      "desc": "Bitcoin Magazine Vanguard Warms to Crypto With Search for Digital Assets Chief Vanguard is hiring its first head of digital assets to develop a long-term crypto and blockchain strategy. This post Vanguard Warms to Crypto With Search for Digital Assets Chief first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-07-07T17:41:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "KAST's ToS Draw Fire After Public Feud With EtherFi CEO",
@@ -1078,42 +1108,6 @@
       "link": "https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks",
       "desc": "Market maker Wintermute remains cautious, suggesting that recent Bitcoin action is a relief rally rather than a fundamental market change.",
       "date": "2026-07-07T17:16:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tether Invests $20M in Brazil's Mercado Bitcoin",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/tether-invests-20m-in-brazil-s-mercado-bitcoin",
-      "desc": "Tether has invested $20 million in a strategic growth financing round for Mercado Bitcoin, Brazil's largest crypto exchange, the stablecoin issuer announced Tuesday. The deal backs Mercado Bitcoin's push into tokenization, payments, credit and capital markets across Latin America. Mercado Bitcoin,…",
-      "date": "2026-07-07T16:16:29.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "BonkDAO Attacker Moves $19M Loot Into New 'BONK 2.0' DAO",
-      "link": "https://thedefiant.io/news/hacks/bonkdao-attacker-moves-19m-loot-into-new-bonk-2-0-dao",
-      "desc": "The wallet behind BonkDAO's $20 million governance attack has parked most of the stolen BONK in a multisig controlled by a newly created shadow DAO, Chainalysis said in a post on its official X account Tuesday.",
-      "date": "2026-07-07T15:22:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Traders Sue Polymarket, CEO Coplan Over Strategy Market Decision",
-      "link": "https://thedefiant.io/news/regulation/traders-sue-polymarket-ceo-coplan-over-strategy-market-decision",
-      "desc": "Two Polymarket users sued the prediction-market platform, its holding entities and CEO Shayne Coplan in New York state court, alleging the site wrongly resolved a market on whether Strategy would sell Bitcoin. William Wood and Thomas Bush filed the complaint in the Supreme Court of the State of New…",
-      "date": "2026-07-07T15:09:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
