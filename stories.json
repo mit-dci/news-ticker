@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-10T10:32:23.327Z",
+  "generatedAt": "2026-07-10T12:00:35.581Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 247,
+  "filteredOut": 244,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "bcannounce",
@@ -55,12 +55,22 @@
       "termBoost": 3
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Making stablecoins stable(r): can regulation help?",
-      "link": "https://www.bis.org/publ/work1355.htm",
-      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-10T10:32:23.203Z",
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #413",
+      "link": "https://bitcoinops.org/en/newsletters/2026/07/10/",
+      "desc": "This week’s newsletter describes research into using fountain codes to allow pruned nodes to contribute to initial block download. Also included are our regular sections announcing new releases and release candidates, and describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-07-10T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "ESMA to review the resilience of crypto custodians",
+      "link": "https://www.finextra.com/newsarticle/48073/esma-to-review-the-resilience-of-crypto-custodians?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Europe's capital markets regulator, the European Securities and Markets Authority (ESMA), has announced plans to examine the operational resilience and governance of crypto custodians.",
+      "date": "2026-07-10T12:23:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -70,7 +80,7 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-10T10:32:23.202Z",
+      "date": "2026-07-10T12:00:34.985Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -80,7 +90,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-10T10:32:23.202Z",
+      "date": "2026-07-10T12:00:34.985Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -90,7 +100,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-10T10:32:23.202Z",
+      "date": "2026-07-10T12:00:34.985Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -100,7 +110,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-10T10:32:23.202Z",
+      "date": "2026-07-10T12:00:34.985Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -110,7 +120,17 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-10T10:32:23.202Z",
+      "date": "2026-07-10T12:00:34.985Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Making stablecoins stable(r): can regulation help?",
+      "link": "https://www.bis.org/publ/work1355.htm",
+      "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
+      "date": "2026-07-10T12:00:34.985Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -120,7 +140,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-10T10:32:22.000Z",
+      "date": "2026-07-10T12:00:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -130,7 +150,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-10T10:32:22.000Z",
+      "date": "2026-07-10T12:00:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -140,7 +160,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-10T10:32:22.000Z",
+      "date": "2026-07-10T12:00:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -150,7 +170,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-10T10:32:22.000Z",
+      "date": "2026-07-10T12:00:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -160,7 +180,98 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-10T10:32:22.000Z",
+      "date": "2026-07-10T12:00:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
+      "link": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
+      "desc": "The approval adds to a growing list of crypto firms seeking federal banking licenses as the industry moves into the regulated financial system.",
+      "date": "2026-07-10T11:41:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Japan's 'invest locally' plan likely to spur demand for assets like bitcoin, gold",
+      "link": "https://www.coindesk.com/daybook-us/2026/07/10/japan-s-invest-locally-plan-likely-to-spur-demand-for-assets-like-bitcoin-gold",
+      "desc": "Your day-ahead look for July 10, 2026",
+      "date": "2026-07-10T11:37:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "USDC issuer Circle wins final approval for US national trust bank charter",
+      "link": "https://cointelegraph.com/news/circle-final-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Circle announces it received final OCC approval for a national trust bank that will initially serve the company and affiliates, with possible future custody services for institutional clients.",
+      "date": "2026-07-10T11:37:25.000Z",
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48064/sony-bank-wins-us-regulatory-approval-for-stablecoin-trust-bank?utm_medium=rssfinextra&utm_source=finextrafeed"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/407876/stablecoin-firm-circle-wins-final-occ-approval-to-open-national-trust-bank?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Jailed Fraudster Charged With Moving $290K in Forfeited Crypto From Prison",
+      "link": "https://decrypt.co/373212/jailed-fraudster-charged-with-moving-290k-in-forfeited-crypto-from-prison",
+      "desc": "A convicted launderer serving time for a $5 million scheme allegedly moved crypto that a court had ordered him to forfeit.",
+      "date": "2026-07-10T11:30:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Japanese lender launches Bitcoin-backed loans of up to $6.2M",
+      "link": "https://cointelegraph.com/news/japan-cryl-bitcoin-backed-loans-6-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "CRYL is offering Bitcoin-backed loans to individuals and businesses as Japanese firms explore broader uses for BTC in lending and credit markets.",
+      "date": "2026-07-10T11:24:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Ledger researchers disclose Tangem card flaw; Tangem says risk to everyday users is ‘virtually non-existent’",
+      "link": "https://www.theblock.co/post/407871/ledger-researchers-disclose-tangem-card-flaw-tangem-says-risk-to-everyday-users-is-virtually-non-existent?utm_source=rss&utm_medium=rss",
+      "desc": "Ledger researchers disclosed a laser attack that resets Tangem card passwords by bypassing a recovery-state check in the firmware.",
+      "date": "2026-07-10T11:08:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Circle Receives Approval to Launch Crypto-Focused Bank",
+      "link": "https://www.wsj.com/finance/currencies/circle-receives-approval-to-launch-crypto-focused-bank-df3a401f?mod=rss_markets_main",
+      "desc": "Circle Internet Group received approval from the U.S. government to establish a national trust bank, a regulatory milestone that sets up the launch of a cryptocurrency-focused bank.",
+      "date": "2026-07-10T10:42:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto defies equity weakness as altcoin optimism builds into the weekend",
+      "link": "https://www.coindesk.com/markets/2026/07/10/crypto-defies-equity-weakness-as-altcoin-optimism-builds-into-the-weekend",
+      "desc": "The price of bitcoin hit $64,400, retesting a level it failed to penetrate on Monday, with a break higher opening the path toward the June 15 peak of $67,250.",
+      "date": "2026-07-10T10:37:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -187,7 +298,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Bitcoin's $60,000-$70,000 range becomes third longest consolidation in history",
+      "title": "Bitcoin's $60,000-$70,000 range becomes third most traded range in history",
       "link": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-usd60k-to-usd70k-range-becomes-third-longest-consolidation-in-history",
       "desc": "Bitcoin has spent 307 days in the $60,000-$70,000 range, the third longest consolidation in any $10,000 price band.",
       "date": "2026-07-10T09:16:52.000Z",
@@ -628,39 +739,13 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Hong Kong SFC orders crypto platforms, online brokers to phase out OTP logins",
-      "link": "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&utm_medium=rss",
-      "desc": "Hong Kong SFC orders internet brokers, crypto platforms to replace OTP logins with passkeys within 12 months following 57% spoofing surge.",
-      "date": "2026-07-09T14:01:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon",
-      "link": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&utm_medium=rss",
-      "desc": "The company said its stablecoin will now be issued natively on Polygon, in addition to becoming available through Polygon's Open Money Stack.",
-      "date": "2026-07-09T13:54:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Russia’s Largest Private Bank Alfa-Bank To Test Bitcoin and Crypto Trading",
       "link": "https://bitcoinmagazine.com/news/russias-largest-private-bank-alfa-bank",
       "desc": "Bitcoin Magazine Russia’s Largest Private Bank Alfa-Bank To Test Bitcoin and Crypto Trading Russia's largest private lender, Alfa-Bank, plans to launch Bitcoin and crypto trading, custody, and a digital depository once new regulations take effect, joining a broader push by major Russian banks to enter the country's emerging crypto market by late 2026 or 2027. This post Russia’s Largest Private Bank Alfa-Bank To Test Bitcoin and Crypto Trading first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-07-09T13:40:50.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/russia-largest-private-bank-alfa-bank-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -786,36 +871,6 @@
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
-      "title": "Sony Bank wins US regulatory approval for stablecoin trust bank",
-      "link": "https://www.finextra.com/newsarticle/48064/sony-bank-wins-us-regulatory-approval-for-stablecoin-trust-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Japan’s Sony Bank has secured conditional approval from the Office of the Comptroller of the Currency to set up a US national trust bank subsidiary.",
-      "date": "2026-07-09T10:46:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto for Advisors: Q2 2026 Digital Asset Review",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/07/09/q2-2026-digital-asset-review",
-      "desc": "ETFs face record outflows",
-      "date": "2026-07-09T10:40:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto remains resilient in face of renewed Middle East tensions",
-      "link": "https://www.coindesk.com/markets/2026/07/09/crypto-remains-resilient-in-face-of-renewed-middle-east-tensions",
-      "desc": "BTC rose 1.2% to $63,000 and Nasdaq futures jumped 2.6% with markets seemingly unconcerned by U.S. airstrikes on Iran. Bitcoin is now up 9% since the end of June.",
-      "date": "2026-07-09T10:36:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
       "title": "Revolut cleans house in Lithuania",
       "link": "https://www.finextra.com/newsarticle/48063/revolut-cleans-house-in-lithuania?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Revolut is moving aggressively to clean up its financial operations in Lithuania, after the country's Financial Crime Investigation Service (FNTT) revealed that 80% of all suspicious transaction reports it receives come from the fintech super app.",
@@ -884,42 +939,12 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Banks to pilot live transactions on Swift's blockchain-based shared ledger",
-      "link": "https://www.finextra.com/newsarticle/48060/banks-to-pilot-live-transactions-on-swifts-blockchain-based-shared-ledger?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Seventeen banks from six countries are preparing to pilot live transactions on Swift's interoperable blockchain-based shared ledger, using tokenised deposits for 24/7 payment availability and better liquidity efficiency.",
-      "date": "2026-07-09T08:56:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Swift launches blockchain ledger with 17-bank tokenized deposit pilot",
       "link": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Swift launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.",
       "date": "2026-07-09T08:51:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Regulators invited Binance to seek new licenses after MiCA setback, co-CEO says",
-      "link": "https://cointelegraph.com/news/regulators-invite-binance-seek-new-license-mica-setback-teng?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Binance is exploring new licensing paths into Europe while continuing to expand its regulatory footprint in Asia, says co-CEO Richard Teng.",
-      "date": "2026-07-09T08:26:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Wyden urges Senate leaders to keep dev protections in crypto bill",
-      "link": "https://cointelegraph.com/news/senate-leaders-urged-to-keep-dev-protections-in-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Senator Ron Wyden has called on Senate leaders to ensure the Blockchain Regulatory Certainty Act remains in the CLARITY Act when it is brought to the floor.",
-      "date": "2026-07-09T06:03:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
