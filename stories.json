@@ -1,39 +1,35 @@
 {
-  "generatedAt": "2026-07-14T12:37:19.087Z",
+  "generatedAt": "2026-07-14T13:33:38.050Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 267,
+  "filteredOut": 266,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
-      "title": "Emirates NBD enables blockchain-based cross-border payments on Partior network",
-      "link": "https://www.finextra.com/newsarticle/48087/emirates-nbd-enables-blockchain-based-cross-border-payments-on-partior-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Emirates NBD has gone live on the Partior network for real-time blockchain-based cross-border US dollar payments.",
-      "date": "2026-07-14T13:04:00.000Z",
+      "title": "Confirmo targets subscription economy with launch of stablecoin recurring payments",
+      "link": "https://www.finextra.com/pressarticle/110414/confirmo-targets-subscription-economy-with-launch-of-stablecoin-recurring-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Confirmo, the stablecoin payment infrastructure provider, has announced Subscribe, enabling enterprise businesses to automate subscription and recurring payments in stablecoins alongside their existing payments stack.",
+      "date": "2026-07-14T14:19:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-14T12:37:19.076Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-14T12:37:19.076Z",
-      "alsoAt": [],
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "ID Finance launches BNPL debit card",
+      "link": "https://www.finextra.com/pressarticle/110412/id-finance-launches-bnpl-debit-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "ID Finance, a leading fintech group operating in Spain and Mexico, has launched Turrón by Plazo, a new flexible payment solution that enables customers to make online and in-store purchases.",
+      "date": "2026-07-14T13:48:00.000Z",
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48082/kraken-launches-crypto-debit-card-in-uk-and-europe?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -42,7 +38,7 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-14T12:37:19.076Z",
+      "date": "2026-07-14T13:33:37.621Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,7 +48,7 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-14T12:37:19.075Z",
+      "date": "2026-07-14T13:33:37.620Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -62,7 +58,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-14T12:37:19.075Z",
+      "date": "2026-07-14T13:33:37.620Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -72,7 +68,27 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-14T12:37:19.075Z",
+      "date": "2026-07-14T13:33:37.620Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-07-14T13:33:37.620Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-07-14T13:33:37.620Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -82,7 +98,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-14T12:37:17.000Z",
+      "date": "2026-07-14T13:33:36.000Z",
       "alsoAt": [
         {
           "source": "COINDESK",
@@ -98,7 +114,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-14T12:37:17.000Z",
+      "date": "2026-07-14T13:33:36.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -108,7 +124,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-14T12:37:17.000Z",
+      "date": "2026-07-14T13:33:36.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -118,7 +134,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-14T12:37:17.000Z",
+      "date": "2026-07-14T13:33:36.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -128,7 +144,69 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-14T12:37:17.000Z",
+      "date": "2026-07-14T13:33:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "European Central Bank taps 36 payment providers for yearlong digital euro pilot",
+      "link": "https://www.theblock.co/post/408228/european-central-bank-taps-36-payment-providers-for-yearlong-digital-euro-pilot?utm_source=rss&utm_medium=rss",
+      "desc": "The ECB selected 36 payment providers to test a beta digital euro in a yearlong pilot beginning in late 2027.",
+      "date": "2026-07-14T13:30:02.000Z",
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/0ddbf3c0-bbe9-4d83-95c0-40e9ccb14b9b"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Strategy became a symbol of the dot-com crash: Could history repeat?",
+      "link": "https://cointelegraph.com/features/from-dot-com-bust-to-bitcoin-king-has-michael-saylor-rewritten-his-legacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "MicroStrategy blew up during the dot-com era, before Michael Saylor transformed it into the world's largest corporate Bitcoin holder. Did he learn his lesson?",
+      "date": "2026-07-14T13:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "White House Crypto Chief Patrick Witt to Begin Military Leave as Clarity Act Nears Senate Deadline",
+      "link": "https://bitcoinmagazine.com/news/white-house-crypto-chief-patrick-witt",
+      "desc": "Bitcoin Magazine White House Crypto Chief Patrick Witt to Begin Military Leave as Clarity Act Nears Senate Deadline White House crypto adviser Patrick Witt will begin military leave later this month as the Senate enters a critical final stretch to pass the Clarity Act before the August recess. This post White House Crypto Chief Patrick Witt to Begin Military Leave as Clarity Act Nears Senate Deadline first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-07-14T13:13:43.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/white-house-crypto-adviser-patrick-witt-to-report-for-military-training-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Humanity Protocol to prioritize operational security following $36M hack",
+      "link": "https://cointelegraph.com/news/humanity-protocol-operational-security-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Humanity Protocol’s founder said they will refocus on operational security, as malicious actors are switching from smart contract vulnerabilities to exploiting human behavior.",
+      "date": "2026-07-14T13:08:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Emirates NBD enables blockchain-based cross-border payments on Partior network",
+      "link": "https://www.finextra.com/newsarticle/48087/emirates-nbd-enables-blockchain-based-cross-border-payments-on-partior-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Emirates NBD has gone live on the Partior network for real-time blockchain-based cross-border US dollar payments.",
+      "date": "2026-07-14T13:04:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -169,13 +247,7 @@
       "link": "https://www.coindesk.com/business/2026/07/14/ecb-picks-firms-including-deutsche-bank-revolut-for-digital-euro-pilot",
       "desc": "The pilot will test a beta version of the digital euro for online, offline, in-store, and e-commerce payments with ECB and central bank staff as users.",
       "date": "2026-07-14T12:10:03.000Z",
-      "alsoAt": [
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/0ddbf3c0-bbe9-4d83-95c0-40e9ccb14b9b"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -209,7 +281,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "ABA, state banking groups push back on CLARITY Act stablecoin yield provisions",
       "link": "https://cointelegraph.com/news/aba-banking-associations-clarity-act-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "ABA and state banking associations published a joint letter calling for more detail on the CLARITY Act’s stablecoin yield provisions, ahead of the bill’s House hearing on July 17.",
+      "desc": "ABA and state banking associations published a joint letter calling for more detail on the CLARITY Act’s stablecoin yield provisions, ahead of the bill’s House hearing on Friday.",
       "date": "2026-07-14T11:40:00.000Z",
       "alsoAt": [
         {
@@ -226,7 +298,7 @@
       "title": "Solana community lead enters UK by-election with onchain transparency pitch",
       "link": "https://cointelegraph.com/news/solana-community-lead-uk-by-election-pension-self-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Superteam UK lead Stephen “Cap” Newnham is taking on Nigel Farage in the Clacton by-election with pledges on pension reform and onchain transparency.",
-      "date": "2026-07-14T11:34:13.000Z",
+      "date": "2026-07-14T11:38:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -407,16 +479,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "White House crypto adviser Patrick Witt to take military leave: Report",
-      "link": "https://cointelegraph.com/news/white-house-crypto-adviser-patrick-witt-to-report-for-military-training-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Witt’s departure comes during a critical moment for the CLARITY Act, with deputy director Harry Jung expected to assume his responsibilities.",
-      "date": "2026-07-14T04:35:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin slips as traders lift July Fed rate hike bets ahead of Inflation report",
@@ -463,16 +525,6 @@
       "link": "https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Reed Smith’s Aquarius platform automates regulatory filings and legal workflows as demand for MiCA compliance tools grows across Europe.",
       "date": "2026-07-13T21:40:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Global Payments May Feel US CBDC Ban First",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/global-payments-may-feel-us-cbdc-ban-first/",
-      "desc": "Nothing visibly changed in American payments when the clock struck midnight on Saturday (July 11). Consumers still used cards, bank accounts and cash, and businesses still moved funds through banking networks. Yet the United States had nonetheless made a consequential architectural choice about the future of money. The 21st Century ROAD to Housing Act, which […] The post Global Payments May Feel US CBDC Ban First appeared first on PYMNTS.com.",
-      "date": "2026-07-13T21:09:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -647,16 +699,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Kraken launches crypto debit card in UK and Europe",
-      "link": "https://www.finextra.com/newsarticle/48082/kraken-launches-crypto-debit-card-in-uk-and-europe?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Kraken has introduced a Mastercard debit card in the UK and Europe that lets users spend hundreds of crypto and cash currencies.",
-      "date": "2026-07-13T14:58:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bolivia weighs adding Tether's USDT to its national payments system",
@@ -723,16 +765,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity",
-      "link": "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity",
-      "desc": "The Securities Transfer Association, an industry group for transfer agents, said company-authorized tokenization should receive preferential treatment under future rules.",
-      "date": "2026-07-13T13:45:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Strive (ASST) Adds 18 Bitcoin, Pushing Treasury to 19,900 BTC",
@@ -749,16 +781,6 @@
       "link": "https://cointelegraph.com/news/coinbase-ventures-leading-crypto-vc-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Coinbase’s venture capital arm leads 2026 crypto investing even as funding withered and unique investors shied away amid the bear market.",
       "date": "2026-07-13T13:26:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Tom Lee says users ‘starting to see Ethereum as money’ as Bitmine adds 27,801 ETH",
-      "link": "https://www.theblock.co/post/408029/tom-lee-says-users-starting-see-ethereum-money-bitmine-adds-27801-eth?utm_source=rss&utm_medium=rss",
-      "desc": "Bitmine accumulates 5.77M ETH tokens, 4.8% of supply, as Tom Lee cites Robinhood Chain driving everyday user adoption.",
-      "date": "2026-07-13T13:25:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -845,16 +867,6 @@
       "link": "https://www.ft.com/content/d4b379c0-9fd1-4364-b787-6457223391b2",
       "desc": "Chair of new task force predicts ‘huge prize’ if progress is made in areas such as issuing sovereign bonds on blockchain",
       "date": "2026-07-13T04:00:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin ETFs draw $197M, snap 8-week outflow streak",
-      "link": "https://cointelegraph.com/news/bitcoin-etfs-draw-197m-snap-8-week-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Analysts are not yet ready to call it a recovery in institutional demand for Bitcoin.",
-      "date": "2026-07-13T01:49:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
