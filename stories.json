@@ -1,28 +1,18 @@
 {
-  "generatedAt": "2026-07-15T07:37:25.317Z",
+  "generatedAt": "2026-07-15T08:48:12.146Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 250,
+  "filteredOut": 252,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 7,
   "items": [
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Blockchain consensus mechanisms and fragmentation",
-      "link": "https://www.bis.org/publ/bisbull126.htm",
-      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-15T07:37:25.304Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-15T07:37:25.304Z",
+      "date": "2026-07-15T08:48:09.548Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +22,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-15T07:37:25.304Z",
+      "date": "2026-07-15T08:48:09.548Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +32,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-15T07:37:25.304Z",
+      "date": "2026-07-15T08:48:09.548Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -52,7 +42,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-15T07:37:25.304Z",
+      "date": "2026-07-15T08:48:09.548Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -62,7 +52,17 @@
       "title": "Making stablecoins stable(r): can regulation help?",
       "link": "https://www.bis.org/publ/work1355.htm",
       "desc": "by Tirupam Goel, Ulf Lewrick, Isha AgarwalWe model a stablecoin issuer that optimises capital, cash and bond holdings under persistent stablecoin flows. Absent regulation, the issuer holds little capital and favours interest-bearing but less-liquid bonds over cash.",
-      "date": "2026-07-15T07:37:25.304Z",
+      "date": "2026-07-15T08:48:09.548Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Blockchain consensus mechanisms and fragmentation",
+      "link": "https://www.bis.org/publ/bisbull126.htm",
+      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
+      "date": "2026-07-15T08:48:09.547Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -72,7 +72,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-15T07:37:23.000Z",
+      "date": "2026-07-15T08:48:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -82,7 +82,7 @@
       "title": "Argentine Judge Orders ID, Freeze of 25 LIBRA-Linked Crypto Wallets",
       "link": "https://thedefiant.io/news/regulation/argentine-judge-orders-id-freeze-of-25-libra-linked-crypto-wallets",
       "desc": "The order targets holders at Binance, Bybit, OKX and Bitfinex, but analyst Fernando Molina says no funds have actually been frozen yet.",
-      "date": "2026-07-15T07:37:23.000Z",
+      "date": "2026-07-15T08:48:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -92,7 +92,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-15T07:37:23.000Z",
+      "date": "2026-07-15T08:48:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -102,7 +102,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-15T07:37:23.000Z",
+      "date": "2026-07-15T08:48:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -112,7 +112,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-15T07:37:23.000Z",
+      "date": "2026-07-15T08:48:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -122,7 +122,37 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-15T07:37:23.000Z",
+      "date": "2026-07-15T08:48:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "US Treasury freezes over $130 million tied to Iran-linked crypto wallets",
+      "link": "https://www.theblock.co/post/408357/us-treasury-freezes-130-million-iran-linked-wallets?utm_source=rss&utm_medium=rss",
+      "desc": "Treasury Secretary Scott Bessent says OFAC sanctioned multiple Iran-linked crypto wallets, freezing over $130 million.",
+      "date": "2026-07-15T08:44:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Stripe, Advent offer $53B to acquire PayPal: Report",
+      "link": "https://cointelegraph.com/news/stripe-advent-53b-acquire-paypal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% premium compared to the company’s Tuesday closing price.",
+      "date": "2026-07-15T08:23:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "UK plans first G7 digital sovereign bond by early 2027",
+      "link": "https://www.coindesk.com/business/2026/07/15/uk-plans-first-g7-digital-sovereign-bond-by-early-2027",
+      "desc": "The security will launch on HSBC’s Orion platform within the BoE and FCA’s Digital Securities Sandbox to test reduced settlement times and costs.",
+      "date": "2026-07-15T08:16:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -233,16 +263,6 @@
       "link": "https://www.ft.com/content/d2ea75d8-ffe4-406f-a04e-59416ae1ed20",
       "desc": "New filings detail long-running legal battle between Heka Funds and the $73bn stablecoin group",
       "date": "2026-07-14T23:36:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Velocity Raises $38 Million as Stablecoins Reshape Mainstream Business Finance",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/velocity-raises-38-million-dollars-stablecoins-reshape-mainstream-business-finance/",
-      "desc": "Velocity raised $38 million in a Series A funding round to expand its stablecoin payments and treasury platform designed for global enterprises, according to a Tuesday (July 14) press release. The company’s platform enables enterprises to retain their core treasury operations while accessing the benefits of stablecoins, including the reduction of settlement times, the elimination […] The post Velocity Raises $38 Million as Stablecoins Reshape Mainstream Business Finance appeared first on PYMNTS.com.",
-      "date": "2026-07-14T21:58:12.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -773,17 +793,11 @@
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
-      "title": "Nexi to participate in the digital euro pilot phase",
-      "link": "https://www.finextra.com/pressarticle/110408/nexi-to-participate-in-the-digital-euro-pilot-phase?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Nexi is among the Payment Service Providers that will participate in the Digital Euro pilot phase, scheduled to begin in the second half of 2027 and run for 12 months.",
-      "date": "2026-07-14T10:50:00.000Z",
-      "alsoAt": [
-        {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/48084/ecb-selects-36-psps-for-digital-euro-pilot-phase?utm_medium=rssfinextra&utm_source=finextrafeed"
-        }
-      ],
+      "title": "ECB selects 36 PSPs for digital euro pilot phase",
+      "link": "https://www.finextra.com/newsarticle/48084/ecb-selects-36-psps-for-digital-euro-pilot-phase?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "The European Central Bank (ECB) has selected 36 payment service providers (PSP) from across the euro area to participate in the digital euro pilot.",
+      "date": "2026-07-14T10:52:00.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -847,16 +861,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Solo bitcoin miner makes $200,000 using $150 equipment",
-      "link": "https://www.coindesk.com/markets/2026/07/14/solo-btc-miner-makes-usd200-000-using-usd150-equipment",
-      "desc": "Solo Bitcoin mining has surged, with 24 blocks found in the past 12 months, a 41% increase year over year.",
-      "date": "2026-07-14T04:43:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "CLARITY Act gains second law enforcement endorsement before Senate push",
@@ -867,32 +871,12 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Nubank receives banking authorisation in Mexico",
-      "link": "https://www.finextra.com/newsarticle/48081/nubank-receives-banking-authorisation-in-mexico?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Brazilian fintech giant Nubank has received final authorisation from Mexican authorities to begin operations as a bank.",
-      "date": "2026-07-14T00:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin Covenants Part 4: OP_CHECKSIGFROMSTACK and OP_CAT",
       "link": "https://cointelegraph.com/research/bitcoin-covenants-part-4-op-checksigfromstack-and-op-cat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "OP_CSFS authenticates signatures over arbitrary data. OP_CAT concatenates stack values into a single message. Together, they let Bitcoin scripts verify transaction structure at spend time, without pre-signed key management or new consensus rules beyond the two opcodes themselves.",
       "date": "2026-07-13T23:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Global law firm launches MiCA compliance tool as crypto companies navigate new EU rules",
-      "link": "https://cointelegraph.com/news/global-law-firm-mica-compliance-tool-crypto-companies-navigate-new-eu-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Reed Smith’s Aquarius platform automates regulatory filings and legal workflows as demand for MiCA compliance tools grows across Europe.",
-      "date": "2026-07-13T21:40:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
