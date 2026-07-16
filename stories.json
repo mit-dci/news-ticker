@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-16T21:49:43.647Z",
+  "generatedAt": "2026-07-16T22:21:42.536Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 247,
+  "filteredOut": 246,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 17,
   "items": [
     {
       "source": "decrypt",
@@ -23,7 +23,7 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-16T21:49:43.268Z",
+      "date": "2026-07-16T22:21:41.838Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-16T21:49:43.268Z",
+      "date": "2026-07-16T22:21:41.838Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-16T21:49:43.268Z",
+      "date": "2026-07-16T22:21:41.838Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +53,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-16T21:49:43.268Z",
+      "date": "2026-07-16T22:21:41.838Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +63,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-16T21:49:43.268Z",
+      "date": "2026-07-16T22:21:41.838Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -73,7 +73,7 @@
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "desc": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-      "date": "2026-07-16T21:49:42.000Z",
+      "date": "2026-07-16T22:21:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,7 +83,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-16T21:49:42.000Z",
+      "date": "2026-07-16T22:21:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -93,7 +93,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-16T21:49:42.000Z",
+      "date": "2026-07-16T22:21:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -103,7 +103,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-16T21:49:42.000Z",
+      "date": "2026-07-16T22:21:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -113,7 +113,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-16T21:49:42.000Z",
+      "date": "2026-07-16T22:21:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -123,8 +123,45 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-16T21:49:42.000Z",
+      "date": "2026-07-16T22:21:41.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Polygon CEO announces job cuts amid Coinme acquisition",
+      "link": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The round of layoffs was part of Polygon transitioning operations to payments following a $250 million deal to acquire Coinme and Sequence in January.",
+      "date": "2026-07-16T22:05:06.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Citadel Securities Takes $400 Million Stake in Crypto.com",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/citadel-securities-takes-400-million-dollar-stake-cryptocom/",
+      "desc": "Crypto.com secured a $400 million strategic investment from Citadel Securities, according to a Thursday (July 16) press release. The investment marks the first institutional funding round in the digital asset platform’s 10-year history and values the company at $20 billion, the release said. The capital injection is intended to accelerate the company’s expansion into new […] The post Citadel Securities Takes $400 Million Stake in Crypto.com appeared first on PYMNTS.com.",
+      "date": "2026-07-16T22:02:24.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/408688/citadel-securities-invests-400-million-crypto-com-20-billion-valuation?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -267,22 +304,6 @@
       "desc": "Bitcoin Magazine Fed Chair Warsh: No Bailout for Crypto Industry in Crisis Federal Reserve Chair Kevin Warsh said the Fed will not bail out failing crypto firms, insisting the industry must bear its own risks while regulators finalize rules under the GENIUS Act. This post Fed Chair Warsh: No Bailout for Crypto Industry in Crisis first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-07-16T18:30:06.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
-      "link": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
-      "desc": "The exchange's first institutional funding round values it at $20 billion and will fund expansion into tokenized securities and derivatives.",
-      "date": "2026-07-16T18:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/408688/citadel-securities-invests-400-million-crypto-com-20-billion-valuation?utm_source=rss&utm_medium=rss"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -533,16 +554,6 @@
           "url": "https://decrypt.co/373629/us-senate-unanimously-opposes-sam-bankman-fried-pardon"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition",
-      "link": "https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss",
-      "desc": "\"Two rounds of changes in one year is a lot to ask of a team, and I understand it is hard to manage,\" Polygon Labs CEO Marc Boiron said.",
-      "date": "2026-07-16T13:47:51.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -920,16 +931,6 @@
       "link": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
       "desc": "The move creates a pathway for public companies to raise capital onchain and issue tokenized securities.",
       "date": "2026-07-15T16:52:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
-      "link": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The deployment marks Aave V4’s first expansion beyond Ethereum and introduces lending infrastructure designed to support future markets for tokenized real-world assets.",
-      "date": "2026-07-15T16:29:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
