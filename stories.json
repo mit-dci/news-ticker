@@ -1,18 +1,28 @@
 {
-  "generatedAt": "2026-07-16T16:30:37.767Z",
+  "generatedAt": "2026-07-16T17:30:29.189Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 254,
+  "filteredOut": 251,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 11,
   "items": [
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-07-16T17:30:29.179Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-16T16:30:37.475Z",
+      "date": "2026-07-16T17:30:29.178Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +32,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-16T16:30:37.475Z",
+      "date": "2026-07-16T17:30:29.178Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +42,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-16T16:30:37.475Z",
+      "date": "2026-07-16T17:30:29.178Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,17 +52,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-16T16:30:37.475Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-16T16:30:37.475Z",
+      "date": "2026-07-16T17:30:29.178Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -62,7 +62,7 @@
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "desc": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-      "date": "2026-07-16T16:30:37.000Z",
+      "date": "2026-07-16T17:30:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -72,7 +72,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-16T16:30:37.000Z",
+      "date": "2026-07-16T17:30:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -82,7 +82,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-16T16:30:37.000Z",
+      "date": "2026-07-16T17:30:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -92,7 +92,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-16T16:30:37.000Z",
+      "date": "2026-07-16T17:30:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -102,7 +102,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-16T16:30:37.000Z",
+      "date": "2026-07-16T17:30:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -112,7 +112,93 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-16T16:30:37.000Z",
+      "date": "2026-07-16T17:30:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ostium Vault Exploiter Routes 10,540 ETH to Tornado Cash",
+      "link": "https://thedefiant.io/news/hacks/ostium-vault-exploiter-routes-10-540-eth-to-tornado-cash",
+      "desc": "Blockchain security firm PeckShield now puts the drain on Arbitrum perpetuals protocol Ostium at roughly $24M, above the up-to-$18M first estimated.",
+      "date": "2026-07-16T17:20:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Visa Launches Stablecoin Platform Built on Open USD",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/visa-launches-stablecoin-platform-built-on-open-usd",
+      "desc": "Crypto head Cuy Sheffield unveiled the platform, which Fortune reported will bring stablecoin services to more than 200 million merchants, initially through Open USD.",
+      "date": "2026-07-16T17:17:18.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis",
+      "link": "https://decrypt.co/373649/xrp-price-cant-keep-up-bitcoin-takes-breather",
+      "desc": "The post-CPI rally gave XRP a nudge. The coin barely moved. Now the chart is filling in the picture.",
+      "date": "2026-07-16T16:56:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Bitcoin VC Veterans Launch $40 Million Holding Company Targeting Small Business Acquisitions",
+      "link": "https://bitcoinmagazine.com/news/bitcoin-vcs-launch-holding-company",
+      "desc": "Bitcoin Magazine Bitcoin VC Veterans Launch $40 Million Holding Company Targeting Small Business Acquisitions Lyn Alden is helping debut a permanent capital company to buys profitable small businesses and put them on a Bitcoin standard. This post Bitcoin VC Veterans Launch $40 Million Holding Company Targeting Small Business Acquisitions first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-07-16T16:56:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Fireblocks Integrates Circle Payment Rails Into Its Platform",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/fireblocks-integrates-circle-payment-rails/",
+      "desc": "Circle’s Gateway and Circle Payments Network (CPN) are now natively accessible within Fireblocks’ stablecoin infrastructure, Fireblocks said in a Thursday (June 16) blog post. Gateway gives Fireblocks customers access to a USDC Virtual Wallet that aggregates balances across supported chains into a single account and executes transfers directly. This means a single balance deploys in […] The post Fireblocks Integrates Circle Payment Rails Into Its Platform appeared first on PYMNTS.com.",
+      "date": "2026-07-16T16:48:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ethics in crypto market structure ‘really not our concern,’ says Blockchain Association CEO",
+      "link": "https://cointelegraph.com/news/ethics-crypto-market-structure-concerns-blockchain-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A former CFTC commissioner urged lawmakers not to “kill all the hard work that we put in the rest of the bill” by making ethics a make-or-break issue on crypto market structure.",
+      "date": "2026-07-16T16:47:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments",
+      "link": "https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments",
+      "desc": "If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure powering the next generation of digital payments.",
+      "date": "2026-07-16T16:37:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Morgan Stanley’s E*TRADE launches spot crypto trading through Zero Hash",
+      "link": "https://cointelegraph.com/news/morgan-stanleys-etrade-rolls-out-spot-crypto-trading-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Eligible E*TRADE retail clients can now buy, sell and hold Bitcoin, Ether and Solana through a partnership with crypto infrastructure provider Zero Hash.",
+      "date": "2026-07-16T16:32:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -123,16 +209,6 @@
       "link": "https://cointelegraph.com/news/tradables-1b-stellar-deal-adds-to-institutional-tokenization-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Tradable will bring up to $1 billion in private credit assets to Stellar, extending the blockchain’s push into institutional finance and tokenized real-world assets.",
       "date": "2026-07-16T16:19:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
-      "link": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
-      "desc": "Visa launched a stablecoin platform that lets banks and fintechs issue, manage and settle digital dollars through its payments network.",
-      "date": "2026-07-16T16:14:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -611,16 +687,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Public Hyperliquid treasury firm Hyperion enters into new 500k HYPE bond agreement with Skew",
-      "link": "https://www.theblock.co/post/408538/hyperliquid-treasury-firm-hyperion-new-500k-hype-bond-skew?utm_source=rss&utm_medium=rss",
-      "desc": "Hyperion will deploy 500,000 tokens to Skew through a HYPE Asset Use Service (HAUS) agreement in exchange for equity and revenue share.",
-      "date": "2026-07-15T21:33:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bitcoin to $40,000? If History’s Anything to Go By, It’s Possible, Says Report",
@@ -829,16 +895,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
-      "link": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
-      "desc": "The government also reaffirmed plans to pilot tokenized government bonds next year and explore tokenizing state-owned real estate.",
-      "date": "2026-07-15T14:35:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "VerifiedX and BitGo Sign MOU to Deliver Qualified Custody for vBTC, Expanding Institutional Access to Native Bitcoin Utility, and with Immediate Support for Non-Synthetic Canonical on Base",
@@ -925,36 +981,6 @@
       "link": "https://cointelegraph.com/news/japan-crypto-amendment-digital-assets-financial-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Japan’s revised Financial Instruments and Exchange Act introduces crypto insider trading rules, tougher penalties and new oversight requirements for crypto businesses.",
       "date": "2026-07-15T11:05:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "South Korea to bring digital assets under new state asset management system",
-      "link": "https://cointelegraph.com/news/south-korea-digital-assets-state-asset-management?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "South Korea’s Economy Ministry plans to include digital assets and intellectual property under the country’s new state-asset management framework.",
-      "date": "2026-07-15T10:53:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin gets new $80K August target: Watch these BTC price levels next",
-      "link": "https://cointelegraph.com/markets/bitcoin-gets-new-80k-august-target-watch-these-btc-price-levels-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "BTC price upside predictions include $68,000 within two weeks and up to $80,000 next month, contrasting with warnings of a 2022 bear-market rerun for the rest of 2026.",
-      "date": "2026-07-15T10:22:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Czech Republic tells ISPs to block Polymarket after gambling blacklisting",
-      "link": "https://cointelegraph.com/news/czech-republic-adds-polymarket-to-unauthorized-gambling-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Czech Finance Ministry added Polymarket to its blacklist of unauthorized online gambling websites, requiring internet providers to block access within 15 days.",
-      "date": "2026-07-15T10:19:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
