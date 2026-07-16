@@ -1,30 +1,18 @@
 {
-  "generatedAt": "2026-07-16T13:33:20.225Z",
+  "generatedAt": "2026-07-16T14:40:59.775Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 240,
-  "errors": [
-    "PYMNTS: PYMNTS: HTTP 403"
-  ],
-  "dupsMerged": 8,
+  "successCount": 18,
+  "filteredOut": 250,
+  "errors": [],
+  "dupsMerged": 9,
   "items": [
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-16T13:33:20.213Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
     {
       "source": "bis",
       "sourceName": "BIS",
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-16T13:33:20.212Z",
+      "date": "2026-07-16T14:40:59.002Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -34,7 +22,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-16T13:33:20.212Z",
+      "date": "2026-07-16T14:40:59.002Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -44,7 +32,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-16T13:33:20.212Z",
+      "date": "2026-07-16T14:40:59.002Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -54,7 +42,17 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-16T13:33:20.212Z",
+      "date": "2026-07-16T14:40:59.002Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-07-16T14:40:59.002Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,7 +62,7 @@
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "desc": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-      "date": "2026-07-16T13:33:19.000Z",
+      "date": "2026-07-16T14:40:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -74,7 +72,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-16T13:33:19.000Z",
+      "date": "2026-07-16T14:40:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -84,7 +82,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-16T13:33:19.000Z",
+      "date": "2026-07-16T14:40:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -94,7 +92,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-16T13:33:19.000Z",
+      "date": "2026-07-16T14:40:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -104,7 +102,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-16T13:33:19.000Z",
+      "date": "2026-07-16T14:40:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -114,7 +112,63 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-16T13:33:19.000Z",
+      "date": "2026-07-16T14:40:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Visa's Sheffield Pegs Adjusted x402 Volume at $19M",
+      "link": "https://thedefiant.io/converge/infrastructure/visa-s-sheffield-pegs-adjusted-x402-volume-at-19m",
+      "desc": "A joint Visa and Artemis analysis finds roughly 4,000 wallets drive about 90% of x402's adjusted spending, with Base accounting for the bulk of activity.",
+      "date": "2026-07-16T14:31:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "1inch Co-Founder Anton Bukov Says He Was Fired, Starts New Venture Second Tier",
+      "link": "https://thedefiant.io/news/people/1inch-co-founder-anton-bukov-says-he-was-fired-starts-new-venture-second-tier",
+      "desc": "The co-founder who led 1inch's architecture and security says he was pushed out in November, still owns half the company, and is now building an infrastructure startup",
+      "date": "2026-07-16T14:12:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Senate Unanimously Votes That Sam Bankman-Fried Should Never Get a Pardon",
+      "link": "https://bitcoinmagazine.com/news/senate-unanumously-bankman-fried",
+      "desc": "Bitcoin Magazine Senate Unanimously Votes That Sam Bankman-Fried Should Never Get a Pardon The Senate unanimously approved a nonbinding resolution declaring that former FTX CEO Sam Bankman-Fried should \"under no circumstances\" receive a presidential pardon or commutation. This post Senate Unanimously Votes That Sam Bankman-Fried Should Never Get a Pardon first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-07-16T13:48:11.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/373629/us-senate-unanimously-opposes-sam-bankman-fried-pardon"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition",
+      "link": "https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss",
+      "desc": "\"Two rounds of changes in one year is a lot to ask of a team, and I understand it is hard to manage,\" Polygon Labs CEO Marc Boiron said.",
+      "date": "2026-07-16T13:47:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Gambling on random Pokémon cards: Onchain gagcha hits record high as crypto sinks",
+      "link": "https://cointelegraph.com/features/pokemon-cards-as-rwas-gacha-spending-hits-records-as-crypto-sinks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Users spent a record $324 million on onchain gacha in June, even as Bitcoin hit a 21-month low. The thrill of scoring a top Pokemon card from a random pack is becoming big business",
+      "date": "2026-07-16T13:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -325,16 +379,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "US Senate Unanimously Opposes Sam Bankman-Fried Pardon",
-      "link": "https://decrypt.co/373629/us-senate-unanimously-opposes-sam-bankman-fried-pardon",
-      "desc": "The nonbinding resolution said the disgraced FTX founder should 'under no circumstances' receive clemency.",
-      "date": "2026-07-16T08:34:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode",
@@ -371,16 +415,6 @@
       "link": "https://cointelegraph.com/news/hyperion-defi-to-deploy-500k-hype-for-hyperliquid-hip-3-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The deal gives Hyperion an equity stake in Skew and a share of listing-service revenue as it expands the utility of its HYPE treasury assets.",
       "date": "2026-07-16T06:41:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin slips back to $64,000 after Korea rate hike, ahead of U.S. data",
-      "link": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
-      "desc": "Blockchain investigator ZachXBT came down heavily on hardware wallets. BTC traded steady near $65,000 after South Korea's rate hike.",
-      "date": "2026-07-16T06:20:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -647,16 +681,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Kraken Institutional taps Upshift to build vaults that earn yield on idle bitcoin, ETH and stablecoins",
-      "link": "https://www.theblock.co/post/408448/kraken-institutional-taps-upshift-to-build-vaults-that-earn-yield-on-idle-bitcoin-eth-and-stablecoins?utm_source=rss&utm_medium=rss",
-      "desc": "Upshift will build dedicated vaults tailored to each client’s specific investment strategy and risk considerations.",
-      "date": "2026-07-15T16:05:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Securitize, Cantor target tokenized IPOs for public markets",
@@ -833,16 +857,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Japan reclassifies crypto as a financial asset, paves way for tax cuts",
-      "link": "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
-      "desc": "Lawmakers said crypto has outgrown its role as a payment method and requires rules designed for investment products.",
-      "date": "2026-07-15T12:05:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Japan passes crypto overhaul to bring digital assets under financial rules",
@@ -913,16 +927,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Stripe, Advent offer $53B to acquire PayPal: Report",
-      "link": "https://cointelegraph.com/news/stripe-advent-53b-acquire-paypal-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% premium compared to the company’s Tuesday closing price.",
-      "date": "2026-07-15T08:23:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Argentine Judge Orders ID, Freeze of 25 LIBRA-Linked Crypto Wallets",
@@ -959,16 +963,6 @@
       "link": "https://bitcoinmagazine.com/technical/the-bitcoin-softfork-that-tried-to-police-junk-data-and-why-its-already-failing",
       "desc": "Bitcoin Magazine The Bitcoin Softfork That Tried to Police “Junk Data” — And Why It’s Already Failing Bitcoin’s real power is that anyone willing to pay fees can write to the ledger. BIP-110’s backers want to change that for data-heavy transactions. The backlash reveals what’s truly at stake. This post The Bitcoin Softfork That Tried to Police “Junk Data” — And Why It’s Already Failing first appeared on Bitcoin Magazine and is written by Brandon Black.",
       "date": "2026-07-14T17:47:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "CleanSpark Signs $6.6 Billion Data Center Lease as Bitcoin Miner Pivots to Compute",
-      "link": "https://bitcoinmagazine.com/news/cleanspark-signs-6-billion-center-lease",
-      "desc": "Bitcoin Magazine CleanSpark Signs $6.6 Billion Data Center Lease as Bitcoin Miner Pivots to Compute CleanSpark, the Nasdaq-listed bitcoin miner, said on July 14 that it has signed a 20-year infrastructure lease with an unnamed high-investment-grade global technology company at its campus in Sandersville, Georgia. The deal marks the firm’s largest step from pure bitcoin mining toward high-performance computing for hyperscale clients. The lease covers data center infrastructure that will […] This post CleanSpark Signs $6.6 Billion Data Center Lease as Bitcoin Miner Pivots to Compute first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-07-14T16:04:07.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
