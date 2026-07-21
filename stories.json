@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-21T14:42:26.583Z",
+  "generatedAt": "2026-07-21T15:34:28.728Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 254,
+  "filteredOut": 256,
   "errors": [],
   "dupsMerged": 13,
   "items": [
@@ -26,20 +26,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-21T14:42:26.571Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
       "link": "https://www.bis.org/publ/work1370.htm",
       "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-      "date": "2026-07-21T14:42:26.570Z",
+      "date": "2026-07-21T15:34:27.648Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -49,7 +39,7 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-21T14:42:26.570Z",
+      "date": "2026-07-21T15:34:27.648Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -59,7 +49,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-21T14:42:26.570Z",
+      "date": "2026-07-21T15:34:27.648Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -69,7 +59,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-21T14:42:26.570Z",
+      "date": "2026-07-21T15:34:27.648Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -79,7 +69,17 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-21T14:42:26.570Z",
+      "date": "2026-07-21T15:34:27.648Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-07-21T15:34:27.648Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -89,7 +89,7 @@
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "desc": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-      "date": "2026-07-21T14:42:25.000Z",
+      "date": "2026-07-21T15:34:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -99,7 +99,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-21T14:42:25.000Z",
+      "date": "2026-07-21T15:34:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -109,7 +109,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-21T14:42:25.000Z",
+      "date": "2026-07-21T15:34:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -119,7 +119,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-21T14:42:25.000Z",
+      "date": "2026-07-21T15:34:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -129,7 +129,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-21T14:42:25.000Z",
+      "date": "2026-07-21T15:34:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -139,7 +139,53 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-21T14:42:25.000Z",
+      "date": "2026-07-21T15:34:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Telegram plans ‘largest rollout of a non-custodial crypto wallet in human history’",
+      "link": "https://www.theblock.co/post/409099/telegram-plans-largest-rollout-non-custodial-crypto-wallet-in-history?utm_source=rss&utm_medium=rss",
+      "desc": "The messaging platform has long been viewed as a potential gateway for bringing a wider audience into crypto.",
+      "date": "2026-07-21T15:20:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Russia’s parliament passes crypto market law with $3,800 annual cap for retail investors",
+      "link": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
+      "desc": "While citizens still cannot use Bitcoin to buy groceries, the Kremlin is officially letting companies use digital tokens to bypass sanctions and other global trade hurdles.",
+      "date": "2026-07-21T15:19:44.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/russias-parliament-passes-law-regulating-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Banks and Credit Unions Win Crypto Trust by Explaining It First",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/banks-credit-unions-win-crypto-trust-explaining-first/",
+      "desc": "The next major digital asset product offered by a bank may not be a wallet, stablecoin or tokenized deposit. It may be an explanation. Cryptocurrency’s categorical vocabulary has expanded faster than the public’s understanding of its products and infrastructure. Bitcoin and other crypto assets, stablecoins, tokenized bank deposits, tokenized securities and central bank digital currencies […] The post Banks and Credit Unions Win Crypto Trust by Explaining It First appeared first on PYMNTS.com.",
+      "date": "2026-07-21T15:08:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "U.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah’s Assets",
+      "link": "https://bitcoinmagazine.com/news/bessent-says-treasury-froze-130m-iran",
+      "desc": "Bitcoin Magazine U.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah’s Assets Treasury Secretary Scott Bessent said the U.S. froze a $130 million crypto wallet linked to Iran's IRGC as part of a broader effort to track and seize assets tied to Supreme Leader Ali Khamenei and increase economic pressure on Tehran. This post U.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah’s Assets first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-07-21T14:42:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -332,16 +378,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Russian parliament passes law regulating crypto market",
-      "link": "https://cointelegraph.com/news/russias-parliament-passes-law-regulating-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The State Duma legislation creates a regulated framework for crypto market participants and now moves to President Vladimir Putin for his signature before becoming law.",
-      "date": "2026-07-21T11:49:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Robinhood Chain tops $430 million in TVL, FalconX sees RWAs as the key differentiator",
@@ -412,16 +448,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Nium CEO Says Stablecoins’ Real Prize Is the Cash Companies Can’t See",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/nium-ceo-says-stablecoins-real-prize-is-cash-companies-cannot-see/",
-      "desc": "Watch more: Why Stablecoins Are A Treasury Story, Not a Crypto Story Ask any corporate treasurer how many usable dollars their company has right now across every account in the country. You’ll often get a pause, not because the money isn’t there, but because nobody can see all of it at once. Global companies run […] The post Nium CEO Says Stablecoins’ Real Prize Is the Cash Companies Can’t See appeared first on PYMNTS.com.",
-      "date": "2026-07-21T08:00:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin ETFs post 5-day inflow streak, longest since May",
@@ -454,7 +480,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live markets: Bitcoin rises to five-week high above $66,400 on rising hope for Clarity Act",
+      "title": "Live markets: Bitcoin rises to five-week high near $67,000 on boosted hope for Clarity Act",
       "link": "https://www.coindesk.com/business/2026/07/21/live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since-april",
       "desc": "Bitcoin ETFs have pulled in roughly $727 million over the past week, the most sustained stretch of buying since the record outflows of June.",
       "date": "2026-07-21T06:42:52.000Z",
@@ -548,16 +574,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Western Union launches stablecard",
-      "link": "https://www.finextra.com/newsarticle/48120/western-union-launches-stablecard?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Western Union has launched its stablecoin wallet and card in partnership with Visa and Rain.",
-      "date": "2026-07-21T00:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
@@ -634,6 +650,16 @@
       "link": "https://bitcoinmagazine.com/news/bitcoin-treasury-capital-b-plans-10-for-1",
       "desc": "Bitcoin Magazine Bitcoin-Treasury Capital B Plans 10-for-1 Reverse Stock Split for September Capital B will execute a 10-for-1 reverse stock split in September as the Paris-listed bitcoin treasury company looks to attract more institutional investors while continuing to build its 3,139 BTC reserve. This post Bitcoin-Treasury Capital B Plans 10-for-1 Reverse Stock Split for September first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-07-20T19:52:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Vietnam sets new crypto trading fines on par with drunk-driving penalties",
+      "link": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss",
+      "desc": "Domestic investors who trade crypto without going through a licensed service provider face fines of roughly $1,140 to $1,900.",
+      "date": "2026-07-20T19:47:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -764,16 +790,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Former NY Governor Cuomo joins OKX board, touts 24/7 tokenized trading",
-      "link": "https://www.theblock.co/post/408938/former-ny-governor-cuomo-joins-okx-board-touts-24-7-tokenized-trading?utm_source=rss&utm_medium=rss",
-      "desc": "Andrew Cuomo said OKX could help bring round-the-clock trading and more international capital into U.S. markets.",
-      "date": "2026-07-20T17:25:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Nigerian president signs order on approach to crypto regulation, taxes",
@@ -800,26 +816,6 @@
       "link": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
       "desc": "\"The reduced pace of buys reflects that Bitmine repurchased 5.5 million common shares,\" Bitmine Chairman Tom Lee said in a statement.",
       "date": "2026-07-20T16:12:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked",
-      "link": "https://www.theblock.co/post/408924/benchmark-backs-exodus-workforce-cut-stablecoin-pivot-overlooked?utm_source=rss&utm_medium=rss",
-      "desc": "Late Friday afternoon, Exodus said it expects the restructuring to generate $10 million to $13 million in annualized cost savings.",
-      "date": "2026-07-20T15:07:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Strive (ASST) Adds 21 Bitcoin as Treasury Reaches 19,921 BTC and Cash Climbs to $157 Million",
-      "link": "https://bitcoinmagazine.com/news/strive-asst-adds-21-bitcoin",
-      "desc": "Bitcoin Magazine Strive (ASST) Adds 21 Bitcoin as Treasury Reaches 19,921 BTC and Cash Climbs to $157 Million Strive (ASST) bought 21 bitcoin for about $1.3 million last week, increasing its treasury to 19,921 BTC while cash reserves rose to $157.4 million, according to a Monday SEC filing. This post Strive (ASST) Adds 21 Bitcoin as Treasury Reaches 19,921 BTC and Cash Climbs to $157 Million first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-07-20T15:06:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -881,22 +877,6 @@
       "desc": "Hyperliquid plans to require developers to stake 500,000 HYPE, worth about $30.4 million, to deploy permissionless prediction markets under HIP-4.",
       "date": "2026-07-20T12:20:23.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout",
-      "link": "https://cointelegraph.com/news/vietnam-crypto-traders-unlicensed-platforms-fines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The new rules establish penalties as much as $1,900 for crypto violations, including unlicensed trading and AML breaches, ahead of Vietnam’s regulated crypto market launch.",
-      "date": "2026-07-20T12:04:06.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss"
-        }
-      ],
       "termBoost": 0
     },
     {
