@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-07-21T15:34:28.728Z",
+  "generatedAt": "2026-07-21T16:31:27.208Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 256,
+  "filteredOut": 249,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 16,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
+      "link": "https://www.coindesk.com/tech/2026/07/21/galaxy-sets-up-usd5-million-fund-to-help-shield-bitcoin-against-quantum-computing-threats",
+      "desc": "The crypto financial services firm is funding developers to strengthen the blockchain's security before quantum computers become powerful enough to steal billions in crypto.",
+      "date": "2026-07-21T16:16:14.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
@@ -29,7 +40,7 @@
       "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
       "link": "https://www.bis.org/publ/work1370.htm",
       "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-      "date": "2026-07-21T15:34:27.648Z",
+      "date": "2026-07-21T16:31:27.195Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -39,7 +50,7 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-21T15:34:27.648Z",
+      "date": "2026-07-21T16:31:27.195Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -49,7 +60,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-21T15:34:27.648Z",
+      "date": "2026-07-21T16:31:27.195Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -59,7 +70,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-21T15:34:27.648Z",
+      "date": "2026-07-21T16:31:27.195Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -69,7 +80,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-21T15:34:27.648Z",
+      "date": "2026-07-21T16:31:27.195Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -79,7 +90,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-21T15:34:27.648Z",
+      "date": "2026-07-21T16:31:27.195Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -89,7 +100,7 @@
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "desc": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-      "date": "2026-07-21T15:34:27.000Z",
+      "date": "2026-07-21T16:31:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -99,7 +110,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-21T15:34:27.000Z",
+      "date": "2026-07-21T16:31:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -109,7 +120,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-21T15:34:27.000Z",
+      "date": "2026-07-21T16:31:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -119,7 +130,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-21T15:34:27.000Z",
+      "date": "2026-07-21T16:31:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -129,7 +140,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-21T15:34:27.000Z",
+      "date": "2026-07-21T16:31:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -139,7 +150,93 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-21T15:34:27.000Z",
+      "date": "2026-07-21T16:31:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-22bed26b?mod=rss_markets_main",
+      "desc": "Find insight on cybersecurity services, Northrop Grumman, bitcoin and more in the latest Market Talks covering technology, media and telecom.",
+      "date": "2026-07-21T16:23:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "U.S. Senator: Clarity Act is ‘Almost There,’ Treasury Secretary Puts It at the ‘1-Yard Line’",
+      "link": "https://bitcoinmagazine.com/news/u-s-senator-clarity-act-is-almost-there",
+      "desc": "Bitcoin Magazine U.S. Senator: Clarity Act is ‘Almost There,’ Treasury Secretary Puts It at the ‘1-Yard Line’ Senate negotiators say the Clarity Act is \"almost there\" as Treasury Secretary Scott Bessent calls it the \"1-yard line,\" with lawmakers racing to pass the crypto market-structure bill before the August recess. This post U.S. Senator: Clarity Act is ‘Almost There,’ Treasury Secretary Puts It at the ‘1-Yard Line’ first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-07-21T16:21:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
+      "link": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious",
+      "desc": "The Ripple-linked token just had its best day in weeks, as Washington may finally be delivering what the XRP Army has been waiting for.",
+      "date": "2026-07-21T16:20:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BIS warns stablecoins could weaken capital controls in emerging markets",
+      "link": "https://cointelegraph.com/news/bis-study-says-stablecoins-bypass-capital-controls-more-easily-than-bank-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Researchers found dollar-backed stablecoins are less affected by capital controls than traditional bank deposits, raising new questions about monetary sovereignty in emerging markets.",
+      "date": "2026-07-21T16:11:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitget plans US expansion ‘with or without’ Clarity Act, CEO says",
+      "link": "https://www.theblock.co/post/409100/bitget-plans-us-expansion-with-without-clarity-act-ceo-says?utm_source=rss&utm_medium=rss",
+      "desc": "Bitget CEO Gracy Chen is leading the crypto exchange's push into the U.S. after initially shelving expansion plans in 2022.",
+      "date": "2026-07-21T16:11:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
+      "link": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
+      "desc": "XXI stock dropped nearly 18% after the company's co-founder stepped down and Tether's plan to combine three Bitcoin firms officially fell apart.",
+      "date": "2026-07-21T16:06:20.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Pump.fun Adds 'BOOST' Liquidity Mode for Every New Coin",
+      "link": "https://thedefiant.io/news/defi/pump-fun-adds-boost-liquidity-mode-for-every-new-coin",
+      "desc": "The Solana launchpad's co-founder says the change adds about 20% liquidity to each newly migrated coin, with all figures the company's own projections.",
+      "date": "2026-07-21T16:04:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Coinbase says ‘low-risk’ config change behind 50-minute July 14 outage impacting trading, card transactions",
+      "link": "https://www.theblock.co/post/409105/coinbase-says-low-risk-config-change-behind-50-minute-july-14-outage-impacting-trading-card-transactions?utm_source=rss&utm_medium=rss",
+      "desc": "Coinbase said user funds were never at risk, and user transactions that were stuck “in-flight” were completed once service was restored.",
+      "date": "2026-07-21T15:35:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -222,16 +319,6 @@
       "link": "https://www.theblock.co/post/409076/malaysia-shuts-down-balaji-srinivasans-network-school-forest-city?utm_source=rss&utm_medium=rss",
       "desc": "Malaysia revoked Network School's license, ordering the Balaji Srinivasan-founded digital nomad commune to cease operations July 22.",
       "date": "2026-07-21T13:50:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Jack Mallers leaves Twenty One as Strike exits Tether’s three-way bitcoin merger",
-      "link": "https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger?utm_source=rss&utm_medium=rss",
-      "desc": "Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.",
-      "date": "2026-07-21T13:47:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -324,6 +411,11 @@
       "date": "2026-07-21T13:00:00.000Z",
       "alsoAt": [
         {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/defi/morpho-launches-fixed-rate-lending-protocol-midnight-on-base"
+        },
+        {
           "source": "COINTELEGRAPH",
           "sourceId": "cointelegraph",
           "url": "https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
@@ -349,6 +441,11 @@
       "desc": "Bitcoin Magazine Jack Mallers Steps Down as CEO of Bitcoin Treasury Twenty One Capital Jack Mallers has stepped down as CEO of bitcoin treasury Twenty One. This post Jack Mallers Steps Down as CEO of Bitcoin Treasury Twenty One Capital first appeared on Bitcoin Magazine and is written by Mathew Di Salvo and Micah Zimmerman.",
       "date": "2026-07-21T12:07:40.000Z",
       "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/people/jack-mallers-steps-down-as-ceo-of-twenty-one-capital"
+        },
         {
           "source": "COINDESK",
           "sourceId": "coindesk",
@@ -654,16 +751,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Vietnam sets new crypto trading fines on par with drunk-driving penalties",
-      "link": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss",
-      "desc": "Domestic investors who trade crypto without going through a licensed service provider face fines of roughly $1,140 to $1,900.",
-      "date": "2026-07-20T19:47:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Exodus to cut 25% of staff in company reorganization",
@@ -800,16 +887,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "New Onramp Report Makes the Case for Spot Bitcoin Over Paper Claims as Price Sits at Half Its Peak",
-      "link": "https://bitcoinmagazine.com/news/onramp-report-makes-case-spot-bitcoin",
-      "desc": "Bitcoin Magazine New Onramp Report Makes the Case for Spot Bitcoin Over Paper Claims as Price Sits at Half Its Peak Onramp argues that spot bitcoin offers stronger long-term value than paper bitcoin exposure, highlighting bitcoin's fixed supply as its price trades roughly 50% below its all-time high. This post New Onramp Report Makes the Case for Spot Bitcoin Over Paper Claims as Price Sits at Half Its Peak first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-07-20T16:40:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
@@ -866,16 +943,6 @@
       "link": "https://www.coindesk.com/business/2026/07/20/saylor-s-strategy-raises-cash-reserves-to-usd3-225-billion-leaving-bitcoin-holdings-unchanged",
       "desc": "For the second consecutive week, the firm kept bitcoin holdings steady, choosing to use the raised capital to boost cash for paying dividends on its preferred stock.",
       "date": "2026-07-20T12:35:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers",
-      "link": "https://cointelegraph.com/news/hyperliquid-hype-stake-permissionless-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Hyperliquid plans to require developers to stake 500,000 HYPE, worth about $30.4 million, to deploy permissionless prediction markets under HIP-4.",
-      "date": "2026-07-20T12:20:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -953,16 +1020,6 @@
       "link": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead",
       "desc": "Your look at what's coming in the week starting July 20.",
       "date": "2026-07-20T08:57:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
-      "link": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
-      "desc": "The Japanese logistics firm plans to pay 2,300 partners, including truck drivers, using JPYC in Japan’s first large-scale corporate stablecoin rollout.",
-      "date": "2026-07-20T08:10:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
