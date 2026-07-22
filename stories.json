@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-22T12:06:20.106Z",
+  "generatedAt": "2026-07-22T13:00:28.768Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 242,
+  "filteredOut": 238,
   "errors": [],
-  "dupsMerged": 18,
+  "dupsMerged": 19,
   "items": [
     {
       "source": "cointelegraph",
@@ -29,18 +29,13 @@
       "termBoost": 3
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Galaxy (GLXY) Commits $5 Million to Prepare Bitcoin for the Quantum Threat",
-      "link": "https://bitcoinmagazine.com/news/galaxy-glxy-commits-5-million",
-      "desc": "Bitcoin Magazine Galaxy (GLXY) Commits $5 Million to Prepare Bitcoin for the Quantum Threat Galaxy Digital launched a Bitcoin Quantum Readiness Initiative to help prepare the Bitcoin network for the potential threat posed by powerful quantum computers. This post Galaxy (GLXY) Commits $5 Million to Prepare Bitcoin for the Quantum Threat first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-07-21T12:54:28.000Z",
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat",
+      "link": "https://decrypt.co/373908/galaxy-commits-5-million-prepare-bitcoin-quantum-threat",
+      "desc": "The crypto firm's initiative arrives as researchers, exchanges, and the U.S. government warn that \"Q-Day\" may land as soon as 2030.",
+      "date": "2026-07-21T12:01:03.000Z",
       "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/373908/galaxy-commits-5-million-prepare-bitcoin-quantum-threat"
-        },
         {
           "source": "THE BLOCK",
           "sourceId": "block",
@@ -63,30 +58,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
-      "link": "https://www.bis.org/publ/work1370.htm",
-      "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-      "date": "2026-07-22T12:06:19.933Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Blockchain consensus mechanisms and fragmentation",
-      "link": "https://www.bis.org/publ/bisbull126.htm",
-      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-22T12:06:19.933Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-22T12:06:19.933Z",
+      "date": "2026-07-22T13:00:28.134Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -96,7 +71,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-22T12:06:19.933Z",
+      "date": "2026-07-22T13:00:28.134Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -106,7 +81,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-22T12:06:19.933Z",
+      "date": "2026-07-22T13:00:28.134Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -116,7 +91,27 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-22T12:06:19.933Z",
+      "date": "2026-07-22T13:00:28.134Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
+      "link": "https://www.bis.org/publ/work1370.htm",
+      "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
+      "date": "2026-07-22T13:00:28.133Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Blockchain consensus mechanisms and fragmentation",
+      "link": "https://www.bis.org/publ/bisbull126.htm",
+      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
+      "date": "2026-07-22T13:00:28.133Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -126,7 +121,7 @@
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "desc": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-      "date": "2026-07-22T12:06:19.000Z",
+      "date": "2026-07-22T13:00:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -136,7 +131,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-22T12:06:19.000Z",
+      "date": "2026-07-22T13:00:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -146,7 +141,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-22T12:06:19.000Z",
+      "date": "2026-07-22T13:00:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -156,7 +151,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-22T12:06:19.000Z",
+      "date": "2026-07-22T13:00:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -166,7 +161,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-22T12:06:19.000Z",
+      "date": "2026-07-22T13:00:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -176,7 +171,43 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-22T12:06:19.000Z",
+      "date": "2026-07-22T13:00:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs",
+      "link": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
+      "desc": "TRM Labs says the UK-sanctioned exchange has rotated hot wallets across blockchains, leaving address-list screening struggling to keep pace.",
+      "date": "2026-07-22T12:44:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Satsuma Shareholders Approve Bitcoin Liquidation, London Delisting",
+      "link": "https://bitcoinmagazine.com/news/satsuma-shareholders-bitcoin-liquidation",
+      "desc": "Bitcoin Magazine Satsuma Shareholders Approve Bitcoin Liquidation, London Delisting Satsuma shareholders voted to sell the company's bitcoin, return the cash to investors, and delist from the London Stock Exchange, ending its run as a bitcoin treasury company after heavy losses. This post Satsuma Shareholders Approve Bitcoin Liquidation, London Delisting first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-07-22T12:40:55.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Zilliqa halts native transactions over bug in its Ledger app dating to 2019",
+      "link": "https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&utm_medium=rss",
+      "desc": "Zilliqa halted native transactions after revealing a bug in its Ledger app dating to 2019 that exposed private keys via onchain signatures.",
+      "date": "2026-07-22T12:39:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -237,6 +268,16 @@
       "link": "https://www.finextra.com/pressarticle/110471/ramp-opens-stablecoin-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Your business operates 24/7, everywhere. Your money does not.",
       "date": "2026-07-22T11:08:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Crypto institutions look beyond audits as trust signals falter: Hacken",
+      "link": "https://cointelegraph.com/news/institutions-crypto-security-beyond-audits-hacken-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Institutional due diligence is shifting toward continuous monitoring, signer controls and incident readiness after operational failures accounted for most crypto losses.",
+      "date": "2026-07-22T11:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -537,16 +578,6 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "Satsuma shareholders approve bitcoin treasury liquidation and London delisting",
-      "link": "https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting?utm_source=rss&utm_medium=rss",
-      "desc": "The vote comes less than a year after UK-based Satsuma Technology raised $218 million to pursue its bitcoin strategy.",
-      "date": "2026-07-21T20:04:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
       "title": "Congress weighs its role as fight over sports betting prediction market oversight forges on",
       "link": "https://www.theblock.co/post/409152/congress-weighs-its-role-as-fight-over-sports-betting-prediction-market-oversight-forges-on?utm_source=rss&utm_medium=rss",
       "desc": "As state and federal regulators continue to clash over who should oversee sports-related prediction markets, lawmakers consider stepping in.",
@@ -613,6 +644,11 @@
       "desc": "The Tiger Global-led round values the startup at $1 billion as it wires stablecoin rails directly into a federally chartered bank, aiming to modernize the correspondent-banking plumbing behind cross-border payments.",
       "date": "2026-07-21T18:13:48.000Z",
       "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48134/augustus-secures-180-million-series-b?utm_medium=rssfinextra&utm_source=finextrafeed"
+        },
         {
           "source": "THE BLOCK",
           "sourceId": "block",
