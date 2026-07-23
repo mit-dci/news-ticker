@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T15:15:11.814Z",
+  "generatedAt": "2026-07-23T16:04:41.949Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 234,
@@ -37,6 +37,11 @@
       "date": "2026-07-23T13:33:43.000Z",
       "alsoAt": [
         {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/374145/blackrock-coinbase-strategy-15m-quantum-proof-bitcoin"
+        },
+        {
           "source": "COINDESK",
           "sourceId": "coindesk",
           "url": "https://www.coindesk.com/business/2026/07/23/blackrock-coinbase-strategy-in-group-pledging-usd15-million-to-prepare-bitcoin-for-quantum-threats"
@@ -59,10 +64,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-07-23T16:04:41.435Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
       "link": "https://www.bis.org/publ/work1370.htm",
       "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-      "date": "2026-07-23T15:15:11.801Z",
+      "date": "2026-07-23T16:04:41.434Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -72,7 +87,7 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-23T15:15:11.801Z",
+      "date": "2026-07-23T16:04:41.434Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -82,7 +97,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-23T15:15:11.801Z",
+      "date": "2026-07-23T16:04:41.434Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -92,7 +107,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-23T15:15:11.801Z",
+      "date": "2026-07-23T16:04:41.434Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -102,17 +117,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-23T15:15:11.801Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-23T15:15:11.801Z",
+      "date": "2026-07-23T16:04:41.434Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -122,7 +127,7 @@
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "desc": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-      "date": "2026-07-23T15:15:10.000Z",
+      "date": "2026-07-23T16:04:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -132,7 +137,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-23T15:15:10.000Z",
+      "date": "2026-07-23T16:04:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -142,7 +147,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-23T15:15:10.000Z",
+      "date": "2026-07-23T16:04:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -152,7 +157,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-23T15:15:10.000Z",
+      "date": "2026-07-23T16:04:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -162,7 +167,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-23T15:15:10.000Z",
+      "date": "2026-07-23T16:04:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -172,7 +177,57 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-23T15:15:10.000Z",
+      "date": "2026-07-23T16:04:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "BitMEX to Shut Down Exchange on Sept. 23, Urges Withdrawals",
+      "link": "https://thedefiant.io/converge/cefi/bitmex-to-shut-down-exchange-on-sept-23-urges-withdrawals",
+      "desc": "Owner HDR Global Trading blamed a strategic review; users have until an Aug. 26 risk-limit cutover before positions get force-closed.",
+      "date": "2026-07-23T15:58:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "How Uncertainty Became the Engagement Engine of the Digital Economy",
+      "link": "https://www.pymnts.com/commerce/2026/how-uncertainty-became-the-engagement-engine-of-the-digital-economy/",
+      "desc": "Gambling is no longer simply a single, static industry. Sports betting apps sit beside retail brokerage platforms on smartphone home screens. Prediction markets allow users to wager on elections, economic data and geopolitical events. Crypto exchanges celebrate perpetual trading while retail investing apps reward streaks, badges and instant feedback. Even shopping incorporates randomized rewards, limited-time […] The post How Uncertainty Became the Engagement Engine of the Digital Economy appeared first on PYMNTS.com.",
+      "date": "2026-07-23T15:57:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
+      "link": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
+      "desc": "A new court status report reveals the agency will pay a flat fee to resolve a two-year fight over what former Chair Gary Gensler knew about Ethereum.",
+      "date": "2026-07-23T15:36:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Goldman Sachs Backs the Clarity Act, Splitting Wall Street Over Crypto Rules",
+      "link": "https://bitcoinmagazine.com/news/goldman-sachs-backs-the-clarity-act",
+      "desc": "Bitcoin Magazine Goldman Sachs Backs the Clarity Act, Splitting Wall Street Over Crypto Rules Goldman Sachs CEO David Solomon endorsed the Clarity Act, breaking with much of the banking industry as Senate Republicans push the crypto market-structure bill despite mounting opposition over stablecoin yield provisions and ethics concerns. This post Goldman Sachs Backs the Clarity Act, Splitting Wall Street Over Crypto Rules first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-07-23T15:34:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Hundreds settle with HMRC as crypto tax crackdown continues",
+      "link": "https://www.ft.com/content/bfc7b491-e553-4686-9531-a07b14a4d4b9?syn-25a6b1a6=1",
+      "desc": "International reporting rules make it harder for investors to conceal gains",
+      "date": "2026-07-23T15:17:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -298,16 +353,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BitMEX token crashes 90% as exchange announces shutdown",
-      "link": "https://cointelegraph.com/markets/bitmex-token-crashes-90-as-exchange-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "BitMEX’s BMEX token plunged about 90% after the exchange announced plans to shut down, ending nearly 12 years in business as its Bitcoin futures market share shrank.",
-      "date": "2026-07-23T12:47:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "ft",
       "sourceName": "FINANCIAL TIMES",
       "title": "Betting account in Cottrell’s name received $9mn in crypto from unidentified sources",
@@ -344,6 +389,16 @@
       "link": "https://decrypt.co/374139/morning-minute-wall-street-moving-onchain-will-drive-the-next-bull-market",
       "desc": "At least that's what Bitwise's CIO believes. Plus Republicans publish new Clarity Act draft, and the SEC Commissioner has a warning for DeFi.",
       "date": "2026-07-23T12:02:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BitMEX token crashes 90% as exchange announces shutdown",
+      "link": "https://cointelegraph.com/markets/bitmex-token-crashes-90-as-exchange-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "BitMEX’s BMEX token plunged about 90% after the exchange announced plans to shut down, ending nearly 12 years in business as its Bitcoin futures market share shrank.",
+      "date": "2026-07-23T12:02:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -534,16 +589,6 @@
       "link": "https://cointelegraph.com/news/crypto-home-invasions-wrench-attacks-certik-h1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Crypto home invasions rose to 20 in H1 2026 from one a year earlier, while France accounted for 33 of 52 verified wrench attacks, according to CertiK.",
       "date": "2026-07-23T08:29:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Why Digital Wallets Matter More Than Crypto for Credit Unions",
-      "link": "https://www.pymnts.com/credit-unions/2026/why-digital-wallets-matter-more-than-crypto-for-credit-unions/",
-      "desc": "Credit unions have an unusual digital asset dilemma. Most members are not asking them to become cryptocurrency exchanges, yet a sizable share of young members expect their financial institutions to provide some route into a financial system that includes crypto, stablecoins and digital wallets. The PYMNTS Intelligence report “The Wallet Effect: How Credit Unions Can […] The post Why Digital Wallets Matter More Than Crypto for Credit Unions appeared first on PYMNTS.com.",
-      "date": "2026-07-23T08:00:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -957,32 +1002,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘You will have a painful fall’: SEC’s Peirce warns crypto vault builders against twisting securities law",
-      "link": "https://www.theblock.co/post/409409/you-will-have-a-painful-fall-secs-peirce-warns-crypto-vault-builders-against-twisting-securities-law?utm_source=rss&utm_medium=rss",
-      "desc": "Hester Peirce, aka \"Crypto Mom\", issued a statement clarifying that onchain vaults and lending may fall under the SEC's remit.",
-      "date": "2026-07-22T15:11:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
       "link": "https://decrypt.co/374049/us-seizes-more-than-25m-in-crypto-tied-to-investment-and-romance-scams",
       "desc": "Prosecutors filed five forfeiture cases as Secret Service agents traced funds from thousands of victims to launderers in Southeast Asia.",
       "date": "2026-07-22T15:10:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/07/22/crypto-long-and-short-the-crypto-question-isn-t-what-to-own-it-s-what-you-can-survive-holding",
-      "desc": "In this week's Crypto Long & Short, Lionsoul Global’s Gregory Mall writes that the primary crypto allocation decision is size, not selection.",
-      "date": "2026-07-22T15:09:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1123,39 +1148,13 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Pump.fun Adds 'BOOST' Liquidity Mode for Every New Coin",
-      "link": "https://thedefiant.io/news/defi/pump-fun-adds-boost-liquidity-mode-for-every-new-coin",
-      "desc": "The Solana launchpad's co-founder says the change adds about 20% liquidity to each newly migrated coin, with all figures the company's own projections.",
-      "date": "2026-07-21T16:04:38.000Z",
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
+      "link": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
+      "desc": "XXI stock dropped nearly 18% after the company's co-founder stepped down and Tether's plan to combine three Bitcoin firms officially fell apart.",
+      "date": "2026-07-21T16:06:20.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Morpho Launches Fixed-Rate Lending Protocol Midnight on Base",
-      "link": "https://thedefiant.io/news/defi/morpho-launches-fixed-rate-lending-protocol-midnight-on-base",
-      "desc": "The DeFi lender also released a new Markets App that lets users set their own rates and terms, starting on Base with more networks to follow.",
-      "date": "2026-07-21T15:47:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Jack Mallers Steps Down as CEO of Twenty One Capital",
-      "link": "https://thedefiant.io/news/people/jack-mallers-steps-down-as-ceo-of-twenty-one-capital",
-      "desc": "Board member Raphael Zagury takes over the Tether-backed bitcoin treasury company, and Strike is no longer under consideration for a business combination.",
-      "date": "2026-07-21T15:35:19.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses"
-        }
-      ],
       "termBoost": 0
     },
     {
