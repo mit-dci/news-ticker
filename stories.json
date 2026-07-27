@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T20:31:21.828Z",
+  "generatedAt": "2026-07-27T21:25:32.287Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 256,
+  "filteredOut": 254,
   "errors": [],
-  "dupsMerged": 19,
+  "dupsMerged": 18,
   "items": [
     {
       "source": "coindesk",
@@ -20,10 +20,20 @@
     {
       "source": "bis",
       "sourceName": "BIS",
+      "title": "The anatomy of stablecoin transactions",
+      "link": "https://www.bis.org/publ/work1359.htm",
+      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
+      "date": "2026-07-27T21:25:31.547Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
       "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
       "link": "https://www.bis.org/publ/work1370.htm",
       "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-      "date": "2026-07-27T20:31:21.120Z",
+      "date": "2026-07-27T21:25:31.546Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +43,7 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-27T20:31:21.120Z",
+      "date": "2026-07-27T21:25:31.546Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +53,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-27T20:31:21.120Z",
+      "date": "2026-07-27T21:25:31.546Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +63,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-27T20:31:21.120Z",
+      "date": "2026-07-27T21:25:31.546Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,17 +73,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-27T20:31:21.120Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-27T20:31:21.120Z",
+      "date": "2026-07-27T21:25:31.546Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,7 +83,7 @@
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "desc": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-      "date": "2026-07-27T20:31:20.000Z",
+      "date": "2026-07-27T21:25:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -93,7 +93,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-27T20:31:20.000Z",
+      "date": "2026-07-27T21:25:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -103,7 +103,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-27T20:31:20.000Z",
+      "date": "2026-07-27T21:25:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -113,7 +113,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-27T20:31:20.000Z",
+      "date": "2026-07-27T21:25:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -123,7 +123,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-27T20:31:20.000Z",
+      "date": "2026-07-27T21:25:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -133,7 +133,67 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-27T20:31:20.000Z",
+      "date": "2026-07-27T21:25:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Cross River to enable P2P payments, banking services for X Money",
+      "link": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The banking-as-a-service provider will power X Money’s peer-to-peer payments, FDIC-insured accounts and Visa debit cards as the platform expands its financial services.",
+      "date": "2026-07-27T21:05:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
+      "link": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
+      "desc": "A searchable database built from New York City's public property assessment records has drawn backlash from critics who say it creates privacy and security risks.",
+      "date": "2026-07-27T21:05:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "The Stablecoin Sandwich Is Missing the Trust Layer",
+      "link": "https://www.pymnts.com/blockchain/2026/the-stablecoin-sandwich-is-missing-the-trust-layer/",
+      "desc": "The stablecoin sandwich has become one of the most persuasive models for explaining how digital currencies like stablecoins can improve cross-border payments. The way the sandwich gets made is typically as follows: A business begins with fiat currency inside the regulated financial system. The money is converted into a stablecoin, transferred across a blockchain network […] The post The Stablecoin Sandwich Is Missing the Trust Layer appeared first on PYMNTS.com.",
+      "date": "2026-07-27T20:46:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Prediction Market Traders Brace for Surprise Fed Rate Hike",
+      "link": "https://decrypt.co/374453/prediction-market-traders-brace-for-surprise-fed-rate-hike",
+      "desc": "Prediction market traders have pushed the odds of a July Fed rate hike to 27% on both Polymarket and Myriad, rising double digits in the last 24 hours.",
+      "date": "2026-07-27T20:43:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Coinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan”",
+      "link": "https://bitcoinmagazine.com/news/coinbase-policy-officer-praises-clarity",
+      "desc": "Bitcoin Magazine Coinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan” Coinbase Chief Policy Officer Faryar Shirzad said it's time for Democrats and Republicans to vote on the Clarity Act. This post Coinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan” first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-07-27T20:43:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "NY Attorney General Letitia James warns Clarity Act would ‘dilute’ states’ ability to go after fraud as pressure mounts",
+      "link": "https://www.theblock.co/post/409831/ny-attorney-general-letitia-james-warns-clarity-act-dilute-states-ability-fraud-pressure-mounts?utm_source=rss&utm_medium=rss",
+      "desc": "NYAG Letitia James urged Congress to tighten a crypto bill, warning that it would weaken states' ability to police the industry.",
+      "date": "2026-07-27T20:31:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -357,48 +417,12 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Circle Buys IBM’s Blockchain Patents to Boost Payments Network",
-      "link": "https://www.pymnts.com/blockchain/2026/circle-buys-ibm-blockchain-patents-boost-payments-network/",
-      "desc": "Digital financial platform Circle acquired IBM’s blockchain patent portfolio, according to a Monday (July 27) press release. “With this acquisition, Circle becomes the leader in blockchain patent holdings in the United States,” the release said. “The expanded IP position directly supports Circle’s foundation for building the internet financial system, including USDC, Circle Payments Network, Arc, […] The post Circle Buys IBM’s Blockchain Patents to Boost Payments Network appeared first on PYMNTS.com.",
-      "date": "2026-07-27T16:30:45.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/07/27/circle-buys-nearly-1-000-blockchain-patents-from-ibm"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/374388/circle-ibm-blockchain-patent-estate"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bitcoin ETFs Bled Nearly Half a Billion Dollars End of Last Week, Reversing Sentiment",
       "link": "https://bitcoinmagazine.com/markets/bitcoin-etfs-see-investor-reversal",
       "desc": "Bitcoin Magazine Bitcoin ETFs Bled Nearly Half a Billion Dollars End of Last Week, Reversing Sentiment Investors cashed out of American Bitcoin exchange-traded funds at the end of last week, ending a seven days winning streak. Data from Farside Investors shows that over $475 million was redeemed from the investment products during trading hours on Thursday and Friday, with BlackRock’s iShares Bitcoin Trust handling most of the trading action. Risk appetite […] This post Bitcoin ETFs Bled Nearly Half a Billion Dollars End of Last Week, Reversing Sentiment first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-07-27T16:24:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-7c70bc18?mod=rss_markets_main",
-      "desc": "Find insight on Evolution Mining, Capricorn Metals, PT Timah and more in the latest Market Talks covering Basic Material.",
-      "date": "2026-07-27T16:23:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -592,6 +616,27 @@
       "desc": "Binance’s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance.",
       "date": "2026-07-27T13:24:17.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
+      "link": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "IBM’s blockchain portfolio includes more than 680 patent families and nearly 1,000 issued patents worldwide, with a particular focus in supply chain applications.",
+      "date": "2026-07-27T13:08:55.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/07/27/circle-buys-nearly-1-000-blockchain-patents-from-ibm"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/374388/circle-ibm-blockchain-patent-estate"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -894,26 +939,6 @@
       "link": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Binance regularly tests its employees for security hygiene, as social engineering is becoming a major source of industry breaches.",
       "date": "2026-07-26T02:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
-      "link": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23?utm_source=rss&utm_medium=rss",
-      "desc": "Other crypto platforms listed alongside HTX include EXMO, Rapira, BitPapa, Aifory Pro, WhiteBird, NoOnecrypto and Exnode.",
-      "date": "2026-07-25T21:23:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
-      "link": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.",
-      "date": "2026-07-25T21:05:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
