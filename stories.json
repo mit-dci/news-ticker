@@ -1,11 +1,33 @@
 {
-  "generatedAt": "2026-07-30T17:31:57.545Z",
+  "generatedAt": "2026-07-30T18:31:18.581Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 236,
+  "filteredOut": 235,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Quantum Solutions loses top Japan ETH treasury spot after another $1.9 million sale",
+      "link": "https://www.theblock.co/post/410175/quantum-solutions-loses-top-japan-eth-treasury-spot-1-9-million-sale?utm_source=rss&utm_medium=rss",
+      "desc": "The two sales have reduced Quantum’s ETH treasury holdings by 28.6% since mid-June and the firm has ceded the top Japanese ETH treasury spot.",
+      "date": "2026-07-30T18:16:45.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
+      "link": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
+      "desc": "The advance reflects IBM’s continued progress toward machines powerful enough to challenge today's cryptography.",
+      "date": "2026-07-30T17:36:03.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -37,30 +59,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Blockchain consensus mechanisms and fragmentation",
-      "link": "https://www.bis.org/publ/bisbull126.htm",
-      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-07-30T17:31:56.144Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-07-30T17:31:56.144Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-07-30T17:31:56.144Z",
+      "date": "2026-07-30T18:31:17.740Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -70,7 +72,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-07-30T17:31:56.144Z",
+      "date": "2026-07-30T18:31:17.740Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -80,7 +82,7 @@
       "title": "The anatomy of stablecoin transactions",
       "link": "https://www.bis.org/publ/work1359.htm",
       "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-07-30T17:31:56.144Z",
+      "date": "2026-07-30T18:31:17.740Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -90,7 +92,27 @@
       "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
       "link": "https://www.bis.org/publ/work1370.htm",
       "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-      "date": "2026-07-30T17:31:56.143Z",
+      "date": "2026-07-30T18:31:17.739Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Blockchain consensus mechanisms and fragmentation",
+      "link": "https://www.bis.org/publ/bisbull126.htm",
+      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
+      "date": "2026-07-30T18:31:17.739Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-07-30T18:31:17.739Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -100,7 +122,7 @@
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "desc": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-      "date": "2026-07-30T17:31:55.000Z",
+      "date": "2026-07-30T18:31:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -110,7 +132,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-07-30T17:31:55.000Z",
+      "date": "2026-07-30T18:31:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -120,7 +142,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-07-30T17:31:55.000Z",
+      "date": "2026-07-30T18:31:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -130,7 +152,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-07-30T17:31:55.000Z",
+      "date": "2026-07-30T18:31:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -140,7 +162,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-07-30T17:31:55.000Z",
+      "date": "2026-07-30T18:31:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -150,7 +172,47 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-07-30T17:31:55.000Z",
+      "date": "2026-07-30T18:31:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto",
+      "link": "https://bitcoinmagazine.com/news/scott-bessent-urges-vote-on-clarity-act",
+      "desc": "Bitcoin Magazine Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto The Treasury Secretary slammed Democrats for holding back the landmark legislation. This post Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-07-30T18:07:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Stripe Helps Data Firm Dune Accept Stablecoin Payments",
+      "link": "https://www.pymnts.com/blockchain/2026/stripe-helps-data-firm-dune-accept-stablecoin-payments/",
+      "desc": "Dune says it is one of Europe’s first companies to receive stablecoin payments through Stripe. The new integration means Dune’s enterprise customers can now pay for data products and application programming interfaces (APIs) in stablecoins, processed directly via Stripe’s payment infrastructure, the blockchain-focused data platform said Thursday (July 30). “Stablecoins are no longer an experiment. […] The post Stripe Helps Data Firm Dune Accept Stablecoin Payments appeared first on PYMNTS.com.",
+      "date": "2026-07-30T18:00:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
+      "link": "https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The new XRPL-based share class gives eligible investors blockchain-based access to a regulated US dollar liquidity fund while keeping traditional custody arrangements.",
+      "date": "2026-07-30T17:38:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
+      "link": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
+      "desc": "Twenty-eight banks, including JPMorgan, Citi and UBS, moved real money across borders in a live test of blockchain-based settlement.",
+      "date": "2026-07-30T17:34:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -337,7 +399,13 @@
       "link": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
       "desc": "The bank said deteriorating prospects for U.S. market structure legislation remove a key catalyst for digital assets, even as tokenization and institutional adoption advance.",
       "date": "2026-07-30T14:06:14.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/410185/jpmorgan-crypto-bill-clarity-act-market-outlook?utm_source=rss&utm_medium=rss"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -889,16 +957,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Anchorage Digital says Fed’s proposed payment account is no ‘workable substitute’ for master account",
-      "link": "https://www.theblock.co/post/410068/anchorage-digital-feds-proposed-payment-account-no-substitute-master-account?utm_source=rss&utm_medium=rss",
-      "desc": "Anchorage Digital says the Fed's proposed payment account that would give some crypto companies access to the central bank doesn't work.",
-      "date": "2026-07-29T17:01:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
@@ -939,16 +997,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
-      "link": "https://www.coindesk.com/markets/2026/07/29/morgan-stanley-execs-admit-the-traditional-9-to-5-banking-day-is-officially-dying",
-      "desc": "Tokenization and 24/7 markets are reshaping finance, making always-on banking a reality.",
-      "date": "2026-07-29T16:09:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Morpho Signs First Hong Kong Partnership With HashKey's HSK Chain",
@@ -965,16 +1013,6 @@
       "link": "https://bitcoinmagazine.com/news/banking-lobby-ceo-talks-crypto-clarity-act",
       "desc": "Bitcoin Magazine Banking Lobby CEO Talks Crypto Clarity Act as Senators Race To Pass Bill The Clarity Act has stalled so far this year partly because of the banking lobby. This post Banking Lobby CEO Talks Crypto Clarity Act as Senators Race To Pass Bill first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-07-29T15:41:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "SoFi crypto transaction revenue grows 10% to $134 million in Q2",
-      "link": "https://www.theblock.co/post/410053/sofi-crypto-transaction-revenue-grows-to-134-million-second-quarter?utm_source=rss&utm_medium=rss",
-      "desc": "Crypto remains a small part of SoFi's $1.2 billion quarterly adjusted net revenue but shows sustained growth.",
-      "date": "2026-07-29T15:19:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1009,16 +1047,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘The moment to act is now’: Solana Policy Institute urges Senate to move on crypto bill as time dwindles",
-      "link": "https://www.theblock.co/post/410041/the-moment-to-act-is-now-solana-policy-institute-urges-senate-to-move-on-crypto-bill-as-time-dwindles?utm_source=rss&utm_medium=rss",
-      "desc": "As the clock ticks on Congress, the Solana Policy Institute is mounting an urgent push for Senate leaders to take up crypto legislation.",
-      "date": "2026-07-29T14:35:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Crypto Giant DCG Warns Senate: Pass Clarity Act or Lose Ground to Singapore, UAE",
@@ -1045,16 +1073,6 @@
       "link": "https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get-rich-quick stories continue to beat substance.",
       "date": "2026-07-29T13:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Emirates enables UAE residents to pay for flights through Crypto.com",
-      "link": "https://cointelegraph.com/news/emirates-starts-letting-uae-residents-pay-for-flights-through-cryptocom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The service is limited to eligible UAE residents and bookings are priced and settled in dirhams.",
-      "date": "2026-07-29T12:14:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1105,16 +1123,6 @@
       "link": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
       "desc": "The odds that a ceasefire lasts at least 14 consecutive days dropped by 10% today on Polymarket, and traders on Myriad believe peace talks won't happen until next month.",
       "date": "2026-07-28T22:46:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "SEC Chairman Says He’s ‘Committed’ to Helping Advance Crypto Clarity Act",
-      "link": "https://bitcoinmagazine.com/news/sec-chair-paul-atkins-supports-clarity-act",
-      "desc": "Bitcoin Magazine SEC Chairman Says He’s ‘Committed’ to Helping Advance Crypto Clarity Act SEC Chairman Paul Atkins is the latest to throw support behind the crypto bill. This post SEC Chairman Says He’s ‘Committed’ to Helping Advance Crypto Clarity Act first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-07-28T21:53:59.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
