@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-05T10:18:38.774Z",
+  "generatedAt": "2026-08-05T11:16:58.448Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 241,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 227,
+  "errors": [
+    "PYMNTS: PYMNTS: HTTP 403"
+  ],
   "dupsMerged": 11,
   "items": [
     {
@@ -18,42 +20,48 @@
       "termBoost": 3
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Blockchain consensus mechanisms and fragmentation",
-      "link": "https://www.bis.org/publ/bisbull126.htm",
-      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-08-05T10:18:38.101Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Glaxy and BNY come together to pair digital asset custody and staking",
+      "link": "https://www.finextra.com/pressarticle/110581/glaxy-and-bny-come-together-to-pair-digital-asset-custody-and-staking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Galaxy today announced a strategic collaboration with BNY (NYSE: BNY), a global financial services company, to further advance digital asset infrastructure for institutional markets, including support for staking, a process that allows eligible digital assets to earn rewards, on BNY’s Digital Asset Custody platform.",
+      "date": "2026-08-05T12:12:00.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "STX deploys Eventus Validus platform for trade surveillance",
+      "link": "https://www.finextra.com/pressarticle/110580/stx-deploys-eventus-validus-platform-for-trade-surveillance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Eventus, a leading provider of comprehensive, at-scale trade surveillance and financial risk solutions, and STX, a U.S. based CFTC regulated event contracts exchange focused on sports, crypto and other real-world events, announced today that STX has deployed the Eventus Validus platform for all trade surveillance on the regulated market it will launch.",
+      "date": "2026-08-05T12:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-08-05T10:18:38.101Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Broadridge and Payward Services collaborate to give xStocks holders a voice in corporate governance",
+      "link": "https://www.finextra.com/pressarticle/110578/broadridge-and-payward-services-collaborate-to-give-xstocks-holders-a-voice-in-corporate-governance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Broadridge Financial Solutions, Inc., (NYSE: BR), a global Fintech leader, today announced Broadridge’s unified governance platform will support shareholder communications and proxy voting for eligible holders of xStocks, the industry-leading tokenized equities framework developed by Payward Services, the B2B infrastructure platform from Payward.",
+      "date": "2026-08-05T11:57:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-08-05T10:18:38.101Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-08-05T10:18:38.101Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Fintechs out-acquire banks for the first time on record",
+      "link": "https://www.finextra.com/pressarticle/110576/fintechs-out-acquire-banks-for-the-first-time-on-record?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "N5Deal, a fintech platform of licensed financial businesses across 36+ jurisdictions, today published its 2026 Fintech M&A Report.",
+      "date": "2026-08-05T11:50:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +71,47 @@
       "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
       "link": "https://www.bis.org/publ/work1370.htm",
       "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-      "date": "2026-08-05T10:18:38.100Z",
+      "date": "2026-08-05T11:16:57.695Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Blockchain consensus mechanisms and fragmentation",
+      "link": "https://www.bis.org/publ/bisbull126.htm",
+      "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
+      "date": "2026-08-05T11:16:57.695Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-08-05T11:16:57.695Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-08-05T11:16:57.695Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-08-05T11:16:57.695Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -73,7 +121,7 @@
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "desc": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-      "date": "2026-08-05T10:18:37.000Z",
+      "date": "2026-08-05T11:16:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,7 +131,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-08-05T10:18:37.000Z",
+      "date": "2026-08-05T11:16:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -93,7 +141,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-08-05T10:18:37.000Z",
+      "date": "2026-08-05T11:16:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -103,7 +151,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-08-05T10:18:37.000Z",
+      "date": "2026-08-05T11:16:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -113,7 +161,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-08-05T10:18:37.000Z",
+      "date": "2026-08-05T11:16:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -123,7 +171,47 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-08-05T10:18:37.000Z",
+      "date": "2026-08-05T11:16:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Circle shares jump as earnings beat offsets revenue miss, Arc blockchain gains Wall Street backing",
+      "link": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
+      "desc": "Shares jumped 10% in pre-market trading as the stablecoin issuer revealed institutional adoption for its layer 1 blockchain Arc.",
+      "date": "2026-08-05T11:13:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
+      "link": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
+      "desc": "Derivatives data show subdued activity in bitcoin and ether but aggressive positioning in select altcoins.",
+      "date": "2026-08-05T11:01:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin ETFs log inflows as cold wallet hack reignites custody debate",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-cold-wallet-hack-custody-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US spot Bitcoin ETFs drew $382 million in two-day inflows, with Galaxy’s Bitcoin ETF returning to gains as the Coldcard incident renewed custody concerns.",
+      "date": "2026-08-05T10:43:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "S&P gives BlackRock tokenized reserve fund top stability rating",
+      "link": "https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The rating recognizes the fund’s ability to maintain a stable net asset value, while S&P separately reaffirmed USDT among the lowest-rated stablecoins under its existing assessment framework.",
+      "date": "2026-08-05T10:40:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -159,8 +247,29 @@
       "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
       "link": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Glassnode confirmed that its aggregate BTC price cycle tool was in its coldest phase since the collapse of FTX in late 2022.",
-      "date": "2026-08-05T09:34:41.000Z",
+      "date": "2026-08-05T09:40:00.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
+      "link": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "JPMorgan’s Kinexys platform will tokenize select BlackRock money market fund shares denominated in pounds, euros and US dollars.",
+      "date": "2026-08-05T09:24:03.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/410554/blackrock-debuts-tokenized-share-classes-for-select-european-money-market-funds-with-311-billion-in-assets?utm_source=rss&utm_medium=rss"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -386,16 +495,6 @@
       "link": "https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody",
       "desc": "Bitcoin Magazine Self Custody Is Dead. Long Live Self Custody The Coldcard security failure has shaken Bitcoin's confidence in hardware wallets—but abandoning self-custody would mean abandoning the very reason Bitcoin exists. History suggests the lesson isn't to trust custodians again, but to build stronger, more resilient ways to hold our own keys. This post Self Custody Is Dead. Long Live Self Custody first appeared on Bitcoin Magazine and is written by Juan Galt.",
       "date": "2026-08-04T21:25:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-d1c533a2?mod=rss_markets_main",
-      "desc": "Find insight on the K-shaped economy, bitcoin ETFs and more in the latest Market Talks covering financial services.",
-      "date": "2026-08-04T21:09:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -756,16 +855,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "BNY to add crypto staking to digital asset custody platform",
-      "link": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
-      "desc": "The custody bank has selected Galaxy to provide staking infrastructure as it broadens services for institutional crypto investors.",
-      "date": "2026-08-04T12:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "OKX says Coldcard exploit triggers ‘record’ inflows to centralized exchanges",
@@ -876,42 +965,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
-      "link": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
-      "desc": "Earlier this week, BlackRock expanded its U.S. tokenized cash platform which involved offering onchain shares of an existing fund, plus a new daily reinvestment stablecoin fund.",
-      "date": "2026-08-04T10:03:24.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/post/410554/blackrock-debuts-tokenized-share-classes-for-select-european-money-market-funds-with-311-billion-in-assets?utm_source=rss&utm_medium=rss"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Axiology strengthens board with senior appointments from State Street and SIX",
-      "link": "https://www.finextra.com/pressarticle/110561/axiology-strengthens-board-with-senior-appointments-from-state-street-and-six?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Axiology, the digital asset financial infrastructure platform, today announces the appointment of two new non-executive board members: David Newns and Boris Battistini.",
-      "date": "2026-08-04T09:58:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal",
@@ -948,16 +1001,6 @@
       "link": "https://cointelegraph.com/news/apple-telegram-app-store-gram-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Apple restored Telegram after the messaging platform removed content that violated its child safety policies and banned the user who posted it.",
       "date": "2026-08-04T08:03:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Nigeria sets crypto tax collection rules for digital asset platforms",
-      "link": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The framework specifies how existing tax obligations apply to crypto disposals and rewards, with some withheld amounts payable in the originating token.",
-      "date": "2026-08-04T07:25:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
