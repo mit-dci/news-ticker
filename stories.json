@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-05T09:03:05.873Z",
+  "generatedAt": "2026-08-05T10:18:38.774Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 240,
+  "filteredOut": 241,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "decrypt",
@@ -20,30 +20,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "The anatomy of stablecoin transactions",
-      "link": "https://www.bis.org/publ/work1359.htm",
-      "desc": "by Fabian Schär, Anneke Kosse, Tara Rice, Takeshi Shirakami, Jirapat SiridhasanakulStablecoin transfers are often interpreted as payments. On programmable blockchains, however, they are frequently embedded in atomically executed transaction bundles that combine trading, lending, arbitrage, liquidity provision, and settlement. We show that ignoring this structure materially distorts the interpretation of stablecoin activity. Using 593 million event logs from 141 million Ethereum transactions involving three major U.S. dollar stablecoins, we develop a replicable framework to measure transaction complexity from archive node data, public contract labels, and event signatures.",
-      "date": "2026-08-05T09:03:05.680Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
-      "link": "https://www.bis.org/publ/work1370.htm",
-      "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-      "date": "2026-08-05T09:03:05.679Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-08-05T09:03:05.679Z",
+      "date": "2026-08-05T10:18:38.101Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +33,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-08-05T09:03:05.679Z",
+      "date": "2026-08-05T10:18:38.101Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +43,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-08-05T09:03:05.679Z",
+      "date": "2026-08-05T10:18:38.101Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -73,7 +53,17 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-08-05T09:03:05.679Z",
+      "date": "2026-08-05T10:18:38.101Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
+      "link": "https://www.bis.org/publ/work1370.htm",
+      "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
+      "date": "2026-08-05T10:18:38.100Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,7 +73,7 @@
       "title": "SummerFi to Wind Down After Seven Years, Citing Exploit",
       "link": "https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit",
       "desc": "Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.",
-      "date": "2026-08-05T09:03:05.000Z",
+      "date": "2026-08-05T10:18:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -93,7 +83,7 @@
       "title": "eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up",
       "link": "https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo",
       "desc": "eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.",
-      "date": "2026-08-05T09:03:05.000Z",
+      "date": "2026-08-05T10:18:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -103,7 +93,7 @@
       "title": "NEAR Governance Votes to Scrap Developer Gas Rebate",
       "link": "https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate",
       "desc": "NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…",
-      "date": "2026-08-05T09:03:05.000Z",
+      "date": "2026-08-05T10:18:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -113,7 +103,7 @@
       "title": "BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply",
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply",
       "desc": "BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…",
-      "date": "2026-08-05T09:03:05.000Z",
+      "date": "2026-08-05T10:18:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -123,7 +113,7 @@
       "title": "EDX Markets Closes $76M Series C Led by SBI Holdings",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings",
       "desc": "EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…",
-      "date": "2026-08-05T09:03:05.000Z",
+      "date": "2026-08-05T10:18:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -133,7 +123,63 @@
       "title": "Tether's Former CIO Heathcote Plans to Sell Equity Stake",
       "link": "https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake",
       "desc": "Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…",
-      "date": "2026-08-05T09:03:05.000Z",
+      "date": "2026-08-05T10:18:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
+      "link": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
+      "desc": "The attack exposed a five-year-old firmware flaw. The industry’s rapid response is accelerating the adoption of collaborative multisig security.",
+      "date": "2026-08-05T09:55:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
+      "link": "https://decrypt.co/374941/ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery",
+      "desc": "Eric Halem and his crew wore police vests to enter a Koreatown high-rise, then handcuffed a 17-year-old and took his hard drive.",
+      "date": "2026-08-05T09:52:42.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/post/410805/former-lapd-officer-gets-life-sentence-bitcoin-robbery?utm_source=rss&utm_medium=rss"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Glassnode confirmed that its aggregate BTC price cycle tool was in its coldest phase since the collapse of FTX in late 2022.",
+      "date": "2026-08-05T09:34:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Proof of Play to shut down after blockchain gaming thesis falls short",
+      "link": "https://cointelegraph.com/news/proof-of-play-shut-blockchain-gaming-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The a16z-backed studio will open-source Pirate Nation assets, while an independent foundation continues supporting the PIRATE token.",
+      "date": "2026-08-05T09:10:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Why bitcoin’s ‘500-day rule’ faces its biggest test yet",
+      "link": "https://www.coindesk.com/markets/2026/08/05/why-bitcoin-s-500-day-rule-faces-its-biggest-test-yet",
+      "desc": "The so-called ‘500-day rule’ says buying BTC roughly 500 days before a bitcoin halving and selling it about 500 days after would have produced profits in prior cycles.",
+      "date": "2026-08-05T09:06:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -164,16 +210,6 @@
       "link": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-european-crypto-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The completed tie-up combines Boerse Stuttgart Digital’s custody business with Tradias’ trading operations under a joint management team.",
       "date": "2026-08-05T08:47:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Former LAPD officer gets life sentence for kidnapping teen in $350,000 bitcoin robbery: report",
-      "link": "https://www.theblock.co/post/410805/former-lapd-officer-gets-life-sentence-bitcoin-robbery?utm_source=rss&utm_medium=rss",
-      "desc": "Former LAPD officer Eric Halem was sentenced to life plus 15 years for kidnapping teen and stealing $350,000 in bitcoin.",
-      "date": "2026-08-05T08:37:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -848,6 +884,11 @@
       "date": "2026-08-04T10:03:24.000Z",
       "alsoAt": [
         {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/post/410554/blackrock-debuts-tokenized-share-classes-for-select-european-money-market-funds-with-311-billion-in-assets?utm_source=rss&utm_medium=rss"
@@ -881,16 +922,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Binance launches bitcoin-backed ‘Lite Loan’ with $1,000 borrowing limit",
-      "link": "https://www.theblock.co/post/410544/binance-lite-loan-bitcoin?utm_source=rss&utm_medium=rss",
-      "desc": "Binance has launched Lite Loan, a bitcoin-backed borrowing product that lets eligible users borrow up to $1,000 in USDT.",
-      "date": "2026-08-04T09:30:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "US yen intervention puts Bitcoin, risk assets on notice for liquidity flux",
@@ -911,16 +942,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes",
-      "link": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
-      "desc": "Japan may have spent as much as $36.6 billion buying yen in the first joint US-Japan action to support the currency since 1998. Bitget Wallet’s Alvin Kan says it can slow a disorderly slide without reversing the broader trend.",
-      "date": "2026-08-04T08:41:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Apple briefly removes Telegram from App Store, Gram rebounds",
@@ -931,42 +952,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
-      "link": "https://www.coindesk.com/markets/2026/08/04/bhutan-s-gmc-puts-part-of-its-bitcoin-treasury-to-work-after-10-000-btc-pledge",
-      "desc": "The planned Gelephu Mindfulness City says 3iQ will run part of its bitcoin treasury on a market-neutral basis, a shift from holding the coins as a long-term national asset.",
-      "date": "2026-08-04T07:56:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Nigeria sets crypto tax collection rules for digital asset platforms",
       "link": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The framework specifies how existing tax obligations apply to crypto disposals and rewards, with some withheld amounts payable in the originating token.",
       "date": "2026-08-04T07:25:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy",
-      "link": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Galaxy Research said 90% of the stolen Bitcoin remains unmoved as investigators examine a suspected fourth wave that could lift losses to $130 million.",
-      "date": "2026-08-04T04:47:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitmine adds $19.6M in ETH, repurchases 4.5M shares",
-      "link": "https://cointelegraph.com/news/bitmine-buys-10399-eth-repurchases-4-5-million-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitmine said it now holds about 4.8% of Ether’s circulating supply as it pursues its 5% acquisition target.",
-      "date": "2026-08-04T03:52:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1117,16 +1108,6 @@
       "link": "https://thedefiant.io/news/security/coldcard-thefts-near-usd114-million-as-fourth-attack-wave-hits",
       "desc": "A firmware bug that shipped in 2021 made Coldcard seeds guessable, and attackers have drained more than 1,800 BTC since Thursday. The latest sweep can still be outbid in the mempool, giving some victims a window to rescue their coins.",
       "date": "2026-08-03T15:02:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Coldcard Losses Near $114M as Small Bitcoin Transfers Spike",
-      "link": "https://decrypt.co/374820/coldcard-losses-near-114m-as-small-bitcoin-transfers-spike",
-      "desc": "Transfers of less than 1 BTC hit levels last seen days after the FTX collapse, while Galaxy Research flagged a likely fourth wave of thefts.",
-      "date": "2026-08-03T10:15:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
