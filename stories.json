@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T19:47:21.736Z",
+  "generatedAt": "2026-08-07T20:13:43.285Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 244,
+  "filteredOut": 243,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "block",
@@ -33,7 +33,7 @@
       "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
       "link": "https://www.bis.org/publ/work1370.htm",
       "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-      "date": "2026-08-07T19:47:21.211Z",
+      "date": "2026-08-07T20:13:42.826Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,7 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-08-07T19:47:21.211Z",
+      "date": "2026-08-07T20:13:42.826Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,7 +53,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-08-07T19:47:21.211Z",
+      "date": "2026-08-07T20:13:42.826Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -63,7 +63,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-08-07T19:47:21.211Z",
+      "date": "2026-08-07T20:13:42.826Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -73,7 +73,53 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-08-07T19:47:21.211Z",
+      "date": "2026-08-07T20:13:42.826Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
+      "link": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The US government sanctioned an individual and two crypto exchanges it said facilitated money laundering for a combined $5 million in digital assets linked to Iran.",
+      "date": "2026-08-07T20:02:20.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Solana Perp DEX Flash Trade to Wind Down Unless It Finds a Buyer",
+      "link": "https://thedefiant.io/news/defi/solana-perp-dex-flash-trade-to-wind-down-unless-it-finds-a-buyer",
+      "desc": "Any proceeds from a sale of the exchange's tech stack, brand and IP go to FAF holders pro rata, with team tokens excluded from the distribution.",
+      "date": "2026-08-07T20:01:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
+      "link": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
+      "desc": "Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.",
+      "date": "2026-08-07T20:00:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "US sanctions two more Iranian crypto exchanges under ‘Economic Fury’ campaign",
+      "link": "https://www.theblock.co/news/regulation/2026-08-07-us-sanctions-two-more-iranian-crypto-exchanges-under-economic-fury-campaign-411184?utm_source=rss&utm_medium=rss",
+      "desc": "The U.S. Treasury Department traced more than $3 million in transfers between Shelbit and IRGC-linked wallets.",
+      "date": "2026-08-07T19:49:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -94,16 +140,6 @@
       "link": "https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet",
       "desc": "A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.",
       "date": "2026-08-07T19:18:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
-      "link": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
-      "desc": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
-      "date": "2026-08-07T18:42:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1028,16 +1064,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
-      "link": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the protocol’s $169 million quarterly revenue.",
-      "date": "2026-08-06T12:55:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
@@ -1060,16 +1086,6 @@
       "link": "https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
       "desc": "It looks like Uniswap is playing to win with their zero-fee model, and the early data shows them already taking the top spot.",
       "date": "2026-08-06T12:28:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income",
-      "link": "https://www.theblock.co/news/markets/2026-08-06-bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income-410979?utm_source=rss&utm_medium=rss",
-      "desc": "Bernstein said Circle's partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.",
-      "date": "2026-08-06T12:10:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1110,16 +1126,6 @@
       "link": "https://thedefiant.io/news/defi/uniswap-pools-trade-launchpad-live-frong-memecoin",
       "desc": "Pools opened four and a half hours behind its own countdown. Uniswap Labs claims the product and disclaims every token on it, including FRONG, the frog memecoin named after its teaser video that leads the platform at a $12.1 million valuation.",
       "date": "2026-08-05T23:05:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aave And ether.fi Founders Lead Opposition To Ethereum's Staking Yield Burn",
-      "link": "https://thedefiant.io/news/blockchains/eip-8363-staking-issuance-burn-reaction-kulechov-silagadze",
-      "desc": "Stani Kulechov and Mike Silagadze headline two days of opposition to the tapered issuance burn, now renumbered EIP-8363. Ethereum core devs decide Thursday whether to consider it for Hegotá.",
-      "date": "2026-08-05T19:54:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
