@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-08-11T10:47:33.774Z",
+  "generatedAt": "2026-08-11T11:16:53.538Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 274,
-  "errors": [],
-  "dupsMerged": 8,
+  "successCount": 17,
+  "filteredOut": 266,
+  "errors": [
+    "PYMNTS: PYMNTS: HTTP 403"
+  ],
+  "dupsMerged": 6,
   "items": [
     {
       "source": "defiant",
@@ -37,40 +39,10 @@
     {
       "source": "bis",
       "sourceName": "BIS",
-      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
-      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
-      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-08-11T10:47:32.849Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "The macroeconomics of stablecoins",
-      "link": "https://www.bis.org/publ/work1363.htm",
-      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-08-11T10:47:32.849Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Stablecoin remuneration on centralised exchanges",
-      "link": "https://www.bis.org/publ/bisbull125.htm",
-      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-08-11T10:47:32.849Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
       "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
       "link": "https://www.bis.org/publ/work1370.htm",
       "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-      "date": "2026-08-11T10:47:32.848Z",
+      "date": "2026-08-11T11:16:52.525Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -80,7 +52,67 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-08-11T10:47:32.848Z",
+      "date": "2026-08-11T11:16:52.525Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
+      "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
+      "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
+      "date": "2026-08-11T11:16:52.525Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "The macroeconomics of stablecoins",
+      "link": "https://www.bis.org/publ/work1363.htm",
+      "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
+      "date": "2026-08-11T11:16:52.525Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bis",
+      "sourceName": "BIS",
+      "title": "Stablecoin remuneration on centralised exchanges",
+      "link": "https://www.bis.org/publ/bisbull125.htm",
+      "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
+      "date": "2026-08-11T11:16:52.525Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "‘One of the single biggest barriers to growth’: UK lawmakers press banks over crypto access ahead of new FCA regime",
+      "link": "https://www.theblock.co/news/regulation/2026-08-11-uk-crypto-banking-access-411389",
+      "desc": "UK lawmakers have asked banks to explain how the new FCA crypto regime may change their policies toward digital asset firms.",
+      "date": "2026-08-11T11:04:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin-backed lending is entering its institutional era: Two Prime",
+      "link": "https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime",
+      "desc": "Public companies are increasingly borrowing against their bitcoin holdings to fund acquisitions and capital spending without selling the asset.",
+      "date": "2026-08-11T11:04:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
+      "link": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in USDT market cap over a 60-day period.",
+      "date": "2026-08-11T10:55:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -131,16 +163,6 @@
       "link": "https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals",
       "desc": "The APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.",
       "date": "2026-08-11T08:41:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "71% of Stablecoin Holders Would Spend Them With a Debit Card",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/71-percent-of-stablecoin-holders-would-spend-them-with-a-debit-card/",
-      "desc": "Digital assets may be winning consumers’ attention, but a 14-percentage-point gap shows they haven’t yet won the checkout. “From Asset to Everyday Money: Making Digital Currencies Spendable,” a Payments Innovation Tracker® from PYMNTS Intelligence and Paymentology, finds that consumers increasingly want cryptocurrencies and stablecoins to work like familiar forms of money. Demand is growing for everyday purchases, subscriptions and larger transactions. […] The post 71% of Stablecoin Holders Would Spend Them With a Debit Card appeared first on PYMNTS.com.",
-      "date": "2026-08-11T08:00:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -477,6 +499,16 @@
       "termBoost": 0
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "BIP-110 Bitcoin Fork Stalls at Two Blocks as Its Only Miner Quits",
+      "link": "https://thedefiant.io/news/blockchains/bip-110-bitcoin-fork-stalls-at-two-blocks-as-its-only-miner-quits",
+      "desc": "OCEAN will refund roughly 0.3 BTC to miners whose hashrate its Stratum templates sent to the breakaway chain for about 18 hours.",
+      "date": "2026-08-10T16:15:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "XRP Price Weakens as Crypto Market Awaits Clarity",
@@ -513,18 +545,7 @@
       "link": "https://bitcoinmagazine.com/news/bip110-stalls-bitcoin-miners-do-not-follow",
       "desc": "Bitcoin Magazine BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow A controversial proposal — supported by the Knots community — aimed at clearing up spam on the Bitcoin network, attempted to fork on Saturday. It failed spectacularly, picking up only a fraction of the mining power of the main Bitcoin network. This post BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-08-10T15:12:36.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/blockchains/bip-110-bitcoin-fork-stalls-at-two-blocks-as-its-only-miner-quits"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -669,42 +690,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
-      "link": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-      "desc": "The FCA said it will 'have more to say on' their approach to tokenization, as it draws up rules to put assets on the blockchain.",
-      "date": "2026-08-10T11:38:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin's BIP-110 episode is free-market capitalism in purest form",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/10/bitcoin-s-bip-110-episode-is-free-market-capitalism-in-purest-form",
-      "desc": "Your day-ahead look for Aug. 10, 2026",
-      "date": "2026-08-10T11:31:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week",
       "link": "https://cointelegraph.com/markets/markets-drop-september-rate-hike-bet-into-cpi-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin spiked to a new August high into Sunday’s weekly close as market participants turned their attention to the next US inflation reports.",
       "date": "2026-08-10T11:13:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
-      "link": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
-      "desc": "BTC rose to $65,209 and Nasdaq 100 index futures gained 0.45% on reports that Iran may strike a deal with Oman to reopen the Strait of Hormuz.",
-      "date": "2026-08-10T10:45:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
