@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-11T11:45:38.144Z",
+  "generatedAt": "2026-08-11T12:18:17.046Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 275,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 244,
+  "errors": [
+    "FINEXTRA: FINEXTRA: HTTP 520"
+  ],
   "dupsMerged": 6,
   "items": [
     {
@@ -40,7 +42,7 @@
       "title": "Blockchain consensus mechanisms and fragmentation",
       "link": "https://www.bis.org/publ/bisbull126.htm",
       "desc": "by Daniel Eidan, Jon Frost, Rudraksh Kansal, Ulf Lewrick, Sang Hyuk Lim, Tomasz RybarczykWhile all permissionless blockchains use token-based incentives to sustain honest validation, differences in how validator rewards, coordination and participation are structured lead to distinct equilibria and trade-offs between decentralisation, security and scalability. These trade-offs underpin the emergence of multiple layer 1 networks and the expansion of layer 2 solutions, resulting in fragmentation of infrastructure, liquidity and assets across and within chains. Tools to mitigate fragmentation &#8211; eg bridges and native multi-chain issuance &#8211; can reduce frictions, but they reintroduce new dependencies on trust, governance and operational resilience.",
-      "date": "2026-08-11T11:45:38.134Z",
+      "date": "2026-08-11T12:18:00.256Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -50,7 +52,7 @@
       "title": "Implementation of global regulatory framework for cryptoassets and stablecoins - Executive Summary",
       "link": "https://www.bis.org/fsi/fsisummaries/exsum_24901.htm",
       "desc": "The rapid growth of cryptoasset markets and the increasing integration of stablecoins into financial systems have prompted the Financial Stability Board (FSB) to take action. In July 2023, the FSB published its global regulatory framework for cryptoasset activities (FSB Crypto Framework), consisting of high-level recommendations for cryptoasset activities and markets (CA recommendations) and revised recommendations for global stablecoin arrangements (GSC recommendations), based on the principle of \"same activity, same risk, same regulation\".",
-      "date": "2026-08-11T11:45:38.134Z",
+      "date": "2026-08-11T12:18:00.256Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -60,7 +62,7 @@
       "title": "The macroeconomics of stablecoins",
       "link": "https://www.bis.org/publ/work1363.htm",
       "desc": "by Boris Hofmann, Matthias Kaldorf, Matthias RottnerWe analyse the macroeconomic impact of stablecoins using a quantitative macroeconomic model. Stablecoins influence the economy through two opposing channels: (i) a bank lending channel, as household demand for stablecoins raises deposit rates, increases bank funding costs, and reduces loan supply; and (ii) a fiscal space channel, as stablecoin issuers' demand for Treasury bills lowers sovereign borrowing costs, expands fiscal space for tax reductions or higher spending.",
-      "date": "2026-08-11T11:45:38.134Z",
+      "date": "2026-08-11T12:18:00.256Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -70,7 +72,7 @@
       "title": "Stablecoin remuneration on centralised exchanges",
       "link": "https://www.bis.org/publ/bisbull125.htm",
       "desc": "by Wenqian Huang, Nikola Tarashev, Xinyi WangCentralised exchanges remunerate stablecoin holders, using the return on the issuer's reserve assets or income from market activity. Under the reserve-based model, yields track policy rates &#8211; akin to yields on cash-management instruments &#8211; whereas under the activity-based model, yields are much more volatile. By turning stablecoins into substitutes for bank deposits or money market funds or into funding instruments for exchanges' risky activities, remuneration models may shape the macro financial implications of wide stablecoin adoption in the future.",
-      "date": "2026-08-11T11:45:38.134Z",
+      "date": "2026-08-11T12:18:00.256Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -80,7 +82,47 @@
       "title": "Dollarisation and monetary control: what lessons for the rise of stablecoins?",
       "link": "https://www.bis.org/publ/work1370.htm",
       "desc": "by Boris Hofmann, Aaron Mehrotra, Jan PaulickThe emergence of stablecoins has created a new channel to access US dollar liquidity in emerging market and developing economies (EMDEs), similar to the historical role of foreign currency deposits, or \"deposit dollarisation\". This has raised concerns about the possible implications for monetary control in EMDEs. Drawing on data on foreign currency deposits and dollar-pegged stablecoin inflows for more than 130 economies, we compare the dynamics and drivers of \"stablecoin dollarisation\" with those of conventional deposit dollarisation.",
-      "date": "2026-08-11T11:45:38.133Z",
+      "date": "2026-08-11T12:18:00.255Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
+      "link": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Russia’s central bank proposed allowing Bitcoin, Ether and USDT to trade on regulated exchanges, following a law signed by President Vladimir Putin last week.",
+      "date": "2026-08-11T12:09:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
+      "link": "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
+      "desc": "Once its proceeds mix with scam money, exchanges struggle to separate proliferation finance from ordinary laundering, the paper warns.",
+      "date": "2026-08-11T12:02:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "MoneyGram expands on Solana with global crypto-to-cash service",
+      "link": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
+      "desc": "Wallets and apps on Solana can now tap MoneyGram's global network to move between digital assets and local currencies.",
+      "date": "2026-08-11T12:02:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
+      "link": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
+      "desc": "The regulator cited missing transaction reports and the company’s failure to respond to an information request.",
+      "date": "2026-08-11T11:45:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -161,16 +203,6 @@
       "link": "https://decrypt.co/375301/coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
       "desc": "Futures, perpetuals and options spanning crypto, commodities, equities and FX, limited to clients who qualify as professional investors.",
       "date": "2026-08-11T09:58:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "United Fintech installs senior leadership team",
-      "link": "https://www.finextra.com/pressarticle/110609/united-fintech-installs-senior-leadership-team?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "United Fintech has appointed three new partners and established a senior leadership team, putting in place a long-term partnership model as the company enters its next chapter as trusted, neutral infrastructure for wholesale finance.",
-      "date": "2026-08-11T09:11:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -637,16 +669,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
-      "link": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
-      "desc": "Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.",
-      "date": "2026-08-10T13:50:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
@@ -744,16 +766,6 @@
       "link": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
       "desc": "The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.",
       "date": "2026-08-10T09:04:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Robinhood launches crypto trading in the UK",
-      "link": "https://www.finextra.com/newsarticle/48217/robinhood-launches-crypto-trading-in-the-uk?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Robinhood is launching access to crypto trading in the UK, enabling customers to trade digital assets directly through Bitstamp UK Ltd, the crypto exchange acquired by the stock trading app in 2024.",
-      "date": "2026-08-10T08:52:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
