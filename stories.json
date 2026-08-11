@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T17:20:10.099Z",
+  "generatedAt": "2026-08-11T17:48:15.045Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 270,
+  "filteredOut": 269,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "defiant",
@@ -22,6 +22,26 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Zerohash Connects Financial Institutions to Robinhood Chain",
+      "link": "https://www.pymnts.com/blockchain/2026/zerohash-connects-financial-institutions-to-robinhood-chain/",
+      "desc": "zerohash now enables its client base of banks, brokerages and payment companies to connect to Robinhood Chain and the assets running on it, including Global Dollar (USDG), the company said in a Tuesday (Aug. 11) press release. This capability is enabled by zerohash, a provider of infrastructure for crypto, stablecoin and tokenized assets, adding support […] The post Zerohash Connects Financial Institutions to Robinhood Chain appeared first on PYMNTS.com.",
+      "date": "2026-08-11T17:34:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Stablecoin Cards Turn Crypto’s Last Mile Into a Payments Infrastructure Business",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/stablecoin-cards-turn-crypto-last-mile-into-payments-infrastructure-business/",
+      "desc": "Stablecoins do not have an acceptance problem in the conventional sense. They have an interoperability problem. Thredd’s new partnership with stablecoin platform Cashi, announced Tuesday (Aug. 11), is important not because another cryptocurrency card is entering the market. It is important because the stablecoin economy is beginning to standardize around an increasingly clear commercial architecture. […] The post Stablecoin Cards Turn Crypto’s Last Mile Into a Payments Infrastructure Business appeared first on PYMNTS.com.",
+      "date": "2026-08-11T17:24:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -246,16 +266,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "UK Lawmakers Accuse Banks of Hindering Crypto Sector’s Growth",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/uk-lawmakers-accuse-banks-of-hindering-crypto-sectors-growth/",
-      "desc": "Some British lawmakers say the country’s banks are impeding the cryptocurrency sector’s growth. As the Financial Times (FT) reported Tuesday (Aug. 11), these lawmakers warn that lenders’ refusal to offer services to crypto companies and investors is one of the largest obstacles to the digital asset sector’s expansion in the U.K. The report cites a letter to […] The post UK Lawmakers Accuse Banks of Hindering Crypto Sector’s Growth appeared first on PYMNTS.com.",
-      "date": "2026-08-11T13:29:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "SharpLink reports $394M in Q2 net loss fueled by ETH decline",
@@ -286,23 +296,19 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Thredd Helps Cashi Launch Stablecoin Card Program",
-      "link": "https://www.pymnts.com/news/payment-methods/2026/thredd-helps-cashi-launch-stablecoin-card-program/",
-      "desc": "Thredd is working with Cashi to power the stablecoin payments FinTech’s spending and cash-back card. The card program, which is live now in Hong Kong with plans to expand to Mexico in the latter part of this year, lets customers use digital assets to pay for everyday purchases, Thredd said in a news release Tuesday (Aug. 11), the same […] The post Thredd Helps Cashi Launch Stablecoin Card Program appeared first on PYMNTS.com.",
-      "date": "2026-08-11T12:26:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Russia proposes exchange trading of Bitcoin, Ether and Tether’s USDT",
       "link": "https://cointelegraph.com/news/bank-of-russia-trading-bitcoin-ether-tether-usdt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Russia’s central bank proposed allowing Bitcoin, Ether and USDT to trade on regulated exchanges, following a law signed by President Vladimir Putin last week.",
       "date": "2026-08-11T12:09:38.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp"
+        }
+      ],
       "termBoost": 0
     },
     {
