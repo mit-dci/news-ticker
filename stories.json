@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T19:49:52.354Z",
+  "generatedAt": "2026-08-11T20:14:41.205Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 265,
+  "filteredOut": 264,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "defiant",
@@ -16,6 +16,47 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "CFTC Charges Goliath Ventures With $400M Bitcoin Fraud",
+      "link": "https://bitcoinmagazine.com/news/cftc-charges-goliath-in-bitcoin-fraud",
+      "desc": "Bitcoin Magazine CFTC Charges Goliath Ventures With $400M Bitcoin Fraud Regulator says roughly 1,600 customers lost money in Bitcoin and crypto operation whose CEO has already pleaded guilty This post CFTC Charges Goliath Ventures With $400M Bitcoin Fraud first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-08-11T20:14:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
+      "link": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
+      "desc": "The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.",
+      "date": "2026-08-11T20:10:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "MoneyGram expands crypto cash ramps to Solana",
+      "link": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "MoneyGram’s Ramps service now connects Solana wallets and applications to its global cash network, with Rift becoming the first wallet to integrate the service.",
+      "date": "2026-08-11T19:53:02.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/moneygram-ramps-goes-live-on-solana-with-cash-in-in-only-25-countries"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -277,22 +318,6 @@
       "desc": "The Democrats who may get a bigger say in future crypto legislative efforts are familiar figures, and they generally look at digital assets with distrust.",
       "date": "2026-08-11T14:40:15.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "MoneyGram Brings Cash-To-Crypto Ramps To Solana",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/moneygram-ramps-goes-live-on-solana-with-cash-in-in-only-25-countries",
-      "desc": "MoneyGram Ramps is now native to Solana, ending its run as a Stellar-only product. Trading app Rift is the first Solana wallet to integrate it.",
-      "date": "2026-08-11T14:35:39.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -828,32 +853,12 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow",
-      "link": "https://bitcoinmagazine.com/news/bip110-stalls-bitcoin-miners-do-not-follow",
-      "desc": "Bitcoin Magazine BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow A controversial proposal — supported by the Knots community — aimed at clearing up spam on the Bitcoin network, attempted to fork on Saturday. It failed spectacularly, picking up only a fraction of the mining power of the main Bitcoin network. This post BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-08-10T15:12:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
       "link": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
       "desc": "Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
       "date": "2026-08-10T14:12:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
-      "link": "https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitdeer mined 2,694 BTC in Q2, but ended the quarter holding just 150 BTC after liquidating its treasury earlier this year.",
-      "date": "2026-08-10T13:07:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
