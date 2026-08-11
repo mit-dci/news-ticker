@@ -224,10 +224,11 @@ function parseFeed(xml, feed) {
       link = extractTag(block, 'link');
     }
 
-    // Atom: <published> or <updated> — RSS: <pubDate>
+    // Atom: <published> or <updated> — RSS 2.0: <pubDate> —
+    // RSS 1.0/RDF (e.g. BIS): Dublin Core <dc:date>
     const dateStr = isAtom
       ? (extractTag(block, 'published') || extractTag(block, 'updated'))
-      : extractTag(block, 'pubDate');
+      : (extractTag(block, 'pubDate') || extractTag(block, 'dc:date'));
 
     // Atom: <summary> or <content> — RSS: <description>
     const desc = stripHtml(isAtom
