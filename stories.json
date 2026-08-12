@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T20:14:17.204Z",
+  "generatedAt": "2026-08-12T20:45:58.567Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 254,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "defiant",
@@ -12,7 +12,27 @@
       "title": "Harmony Patches Pre-Staking Quorum and Receipt-Replay Flaws After ONE Mint Claim",
       "link": "https://thedefiant.io/news/hacks/harmony-patches-pre-staking-quorum-and-receipt-replay-flaws-after-one-mint-claim",
       "desc": "Harmony asked exchanges to block four wallets and paused its bridge, while an analyst’s estimate of four billion unauthorized ONE remains unconfirmed.",
-      "date": "2026-08-12T20:14:16.000Z",
+      "date": "2026-08-12T20:45:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+      "link": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Council Speaker Julie Menin sent letters to four companies offering prediction market services to New Yorkers as part of an investigation into their marketing practices.",
+      "date": "2026-08-12T20:22:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SEC Staff Clears Franklin Funds to Use Onchain Money Fund for Cash and Collateral",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/sec-staff-clears-franklin-funds-to-use-onchain-money-fund-for-cash-and-collateral",
+      "desc": "The relief lets Franklin Templeton’s registered funds hold FOBXX through an affiliated blockchain-integrated system, subject to 12 custody and control conditions.",
+      "date": "2026-08-12T20:16:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,7 +103,13 @@
       "link": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
       "desc": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.",
       "date": "2026-08-12T18:58:26.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -915,16 +941,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
-      "link": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin price action sank to one-week lows ahead of US CPI data, while retail investors piled into gold ETFs and XAU/USD hit its highest levels in nine weeks.",
-      "date": "2026-08-11T16:24:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "UK parliamentarians question banks over refusal to provide services to crypto firms",
@@ -975,16 +991,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline",
-      "link": "https://cointelegraph.com/news/adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Shipfinex plans to bring 35 vessels onchain through ADI Chain as tokenization expands into the multitrillion-dollar maritime industry.",
-      "date": "2026-08-11T13:59:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
@@ -1001,16 +1007,6 @@
       "link": "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
       "desc": "Once its proceeds mix with scam money, exchanges struggle to separate proliferation finance from ordinary laundering, the paper warns.",
       "date": "2026-08-11T12:02:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
-      "link": "https://decrypt.co/375301/coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
-      "desc": "Futures, perpetuals and options spanning crypto, commodities, equities and FX, limited to clients who qualify as professional investors.",
-      "date": "2026-08-11T09:58:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
