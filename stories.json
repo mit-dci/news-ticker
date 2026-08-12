@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T23:15:14.754Z",
+  "generatedAt": "2026-08-12T23:45:21.228Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 255,
+  "filteredOut": 256,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "coindesk",
@@ -286,6 +286,16 @@
       "link": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional access as Hong Kong’s regulated stablecoin market takes shape.",
       "date": "2026-08-12T16:07:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
+      "link": "https://decrypt.co/375441/xrp-drained-tx-bridge",
+      "desc": "A flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge’s reserves.",
+      "date": "2026-08-12T16:00:52.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -721,22 +731,6 @@
       "desc": "DOGE gained almost 3% to 7 cents and BNB 2% to $614, while bitcoin was the only major in the red on both the day and the week.",
       "date": "2026-08-12T04:53:46.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
-      "link": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
-      "desc": "An attacker created unbacked XRP on another blockchain, then exchanged it for real XRP held in reserve. The bridge has been halted and its operator has filed a complaint with the FBI.",
-      "date": "2026-08-12T04:33:25.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/375441/xrp-drained-tx-bridge"
-        }
-      ],
       "termBoost": 0
     },
     {
