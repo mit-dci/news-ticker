@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T03:44:40.978Z",
+  "generatedAt": "2026-08-12T04:35:06.960Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 263,
+  "filteredOut": 265,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "defiant",
@@ -16,6 +16,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
+      "link": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
+      "desc": "An attacker created unbacked XRP on another blockchain, then exchanged it for real XRP held in reserve. The bridge has been halted and its operator has filed a complaint with the FBI.",
+      "date": "2026-08-12T04:33:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -707,16 +717,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
-      "link": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
-      "desc": "Bitcoin failed to hold $65,000 for a fourth day as an oil rally revived inflation worries before Wednesday's U.S. price data.",
-      "date": "2026-08-11T04:50:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "ft",
       "sourceName": "FINANCIAL TIMES",
       "title": "Banks’ refusal to take on crypto firms risks stunting UK industry’s growth, lawmakers say",
@@ -920,22 +920,6 @@
       "desc": "Authorisation from regulator accelerates UK-headquartered fintech’s European expansion plans",
       "date": "2026-08-10T09:43:23.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bcannounce",
-      "sourceName": "BTC CORE ANN",
-      "title": "Bitcoin Core 29.4 released",
-      "link": "https://bitcoincore.org/en/2026/07/13/release-29.4/",
-      "desc": "Bitcoin Core version 29.4 is now available for download. See the release notes for more information about the bug fixes in this release. If you have any questions, please stop by the #bitcoin IRC chatroom (IRC, web) and we’ll do our best to help you.",
-      "date": "2026-07-13T04:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "BITCOIN CORE",
-          "sourceId": "bitcoincore",
-          "url": "https://bitcoincore.org/en/2026/07/13/release-29.4/"
-        }
-      ],
       "termBoost": 0
     }
   ]
