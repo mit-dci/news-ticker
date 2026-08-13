@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-13T11:46:07.265Z",
+  "generatedAt": "2026-08-13T12:18:31.539Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 253,
-  "errors": [],
-  "dupsMerged": 6,
+  "successCount": 17,
+  "filteredOut": 244,
+  "errors": [
+    "PYMNTS: PYMNTS: HTTP 403"
+  ],
+  "dupsMerged": 7,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bullish reports $280 million Q2 net loss as crypto trading slows",
+      "link": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
+      "desc": "Bullish reported $92.6 million in adjusted revenue and refined its full-year guidance as subscription, services and other revenue reached a record $62.7 million.",
+      "date": "2026-08-13T12:09:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -31,7 +43,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
       "link": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance” but have sacrificed some of their inherent immutability and decentralization.",
+      "desc": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance,” but have sacrificed some of their inherent immutability and decentralization.",
       "date": "2026-08-13T10:50:24.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -65,7 +77,7 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
+      "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
       "link": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken’s xStocks.",
       "date": "2026-08-13T09:53:36.000Z",
@@ -390,7 +402,13 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/sec-staff-clears-franklin-funds-to-use-onchain-money-fund-for-cash-and-collateral",
       "desc": "The relief lets Franklin Templeton’s registered funds hold FOBXX through an affiliated blockchain-integrated system, subject to 12 custody and control conditions.",
       "date": "2026-08-12T20:16:45.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -812,16 +830,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP trading could get spicy after CPI report as futures bets hit highest since October",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
-      "desc": "Your day-ahead look for Aug. 12, 2026",
-      "date": "2026-08-12T11:15:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Bitcoin market in ‘hibernation’ as perp trading activity sinks to three-year low ahead of US CPI release: K33",
@@ -878,16 +886,6 @@
       "link": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Suspected North Korean IT workers joined a fake crypto startup — without realizing their every move was being tracked to extract valuable intel.",
       "date": "2026-08-12T07:34:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
-      "link": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Harmony is working with exchanges to freeze funds and is preparing a patch after claims that 2.8 billion unauthorized ONE hit trading platforms.",
-      "date": "2026-08-12T06:02:52.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1018,16 +1016,6 @@
       "link": "https://thedefiant.io/news/nfts-and-web3/ousted-pudgy-penguins-co-founder-sells-out-44-444-piece-nft-mint-on-robinhood-chain",
       "desc": "An onchain tally of the mint events by analyst 0xlaplaced puts the take at $1,282,852 — well above the $755,000 figures that circulated during the sale — while the Spritehood contract's source code remains unverified.",
       "date": "2026-08-11T14:57:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
-      "link": "https://decrypt.co/375312/why-strategy-selling-bitcoin-how-much",
-      "desc": "The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.",
-      "date": "2026-08-11T14:46:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
