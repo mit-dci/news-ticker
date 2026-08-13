@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-08-13T22:45:31.008Z",
+  "generatedAt": "2026-08-13T23:15:55.294Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 253,
+  "filteredOut": 252,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 11,
   "items": [
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "MUFG trials blockchain settlement for Japanese Government Bond repo trades",
+      "link": "https://www.finextra.com/newsarticle/48246/mufg-trials-blockchain-settlement-for-japanese-government-bond-repo-trades?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Mitsubishi UFJ Financial Group (MUFG) is running a proof-of-concept for bringing Japanese Government Bond repo transactions on-chain using the Canton Network blockchain.",
+      "date": "2026-08-14T00:01:00.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Chime Weighs Adding Stablecoin Wallet to Consumer Banking App",
+      "link": "https://www.pymnts.com/blockchain/2026/chime-weighs-adding-stablecoin-wallet-to-consumer-banking-app/",
+      "desc": "Chime Financial is considering adding stablecoins as a feature in its consumer banking app, Bloomberg reported Thursday (Aug. 13), citing unnamed sources. The FinTech asked blockchain technology companies to submit proposals to provide stablecoin wallet services that would enable Chime customers to send and receive the digital assets without needing a separate account or another […] The post Chime Weighs Adding Stablecoin Wallet to Consumer Banking App appeared first on PYMNTS.com.",
+      "date": "2026-08-13T23:13:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "link": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
+      "desc": "The SEC was ready to release at least some part of the innovation exemption alongside its now-canceled open meeting for \"Reg Crypto\" on Friday.",
+      "date": "2026-08-13T23:09:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -508,16 +544,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
-      "link": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
-      "desc": "MUFG is preparing a proof-of-concept for onchain JGB transactions using the Canton network.",
-      "date": "2026-08-13T10:15:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
@@ -756,9 +782,14 @@
       "date": "2026-08-12T21:20:05.000Z",
       "alsoAt": [
         {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout"
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf"
+        },
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "termBoost": 0
@@ -867,22 +898,6 @@
       "desc": "Bitcoin Magazine Bitcoin Flashes Bottom Signals as “Digital Gold” Narrative Returns Has Bitcoin bottomed out? Data shows it might have. This post Bitcoin Flashes Bottom Signals as “Digital Gold” Narrative Returns first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-08-12T19:09:41.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
-      "link": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
-      "desc": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.",
-      "date": "2026-08-12T18:58:26.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -1022,16 +1037,6 @@
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bar-a-mobile-plans-stellar-wallet-with-wirex-and-crossmint",
       "desc": "Wirex will provide payment and card infrastructure, Crossmint will handle wallet onboarding, and Stellar will supply the blockchain layer for the planned feature.",
       "date": "2026-08-12T11:26:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Itau Unibanco joins Brazilian tokenisation pilot",
-      "link": "https://www.finextra.com/newsarticle/48234/itau-unibanco-joins-brazilian-tokenisation-pilot?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "The largest bank in Latin America, Itau Unibanco, has teamed up with digital asset infrastructure provider OpenAssets in joining a tokenisation pilot in Brazil.",
-      "date": "2026-08-12T10:10:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
