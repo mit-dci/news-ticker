@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-08-13T17:20:19.535Z",
+  "generatedAt": "2026-08-13T17:48:09.225Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 256,
+  "filteredOut": 255,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 9,
   "items": [
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "SEC Tees Up New Crypto Regulations as Clarity Act Continues to Languish",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/sec-tees-up-new-crypto-regulations-as-clarity-act-continues-to-languish/",
+      "desc": "The Securities and Exchange Commission (SEC) will consider a potentially significant overhaul of crypto regulation Friday (Aug. 14), moving to establish formal exemptions that could allow digital asset projects to raise capital without registering securities and eventually move outside the agency’s jurisdiction. At its Friday open meeting, the SEC will consider proposing new rules to […] The post SEC Tees Up New Crypto Regulations as Clarity Act Continues to Languish appeared first on PYMNTS.com.",
+      "date": "2026-08-13T17:47:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
+      "link": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
+      "desc": "The thesis is that high yields on long-term U.S. Treasuries make non-yielding assets like bitcoin less attractive.",
+      "date": "2026-08-13T17:43:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Crypto group backs Custodia in Supreme Court battle over Fed access",
+      "link": "https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Blockchain Association argues the Fed should not have broad discretion to deny eligible state-chartered banks direct access to its payment system.",
+      "date": "2026-08-13T17:36:09.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-08-13-blockchain-association-backs-custodia-petition-411672"
+        }
+      ],
+      "termBoost": 0
+    },
     {
       "source": "ft",
       "sourceName": "FINANCIAL TIMES",
@@ -89,7 +125,13 @@
       "link": "https://thedefiant.io/news/defi/standard-chartered-100-uni-target-too-low-robinhood-chain-burns",
       "desc": "Geoff Kendrick says UNI burns funded by Robinhood Chain trading have run at an annualized $90 million since Jul. 27. DefiLlama data puts Uniswap's protocol revenue at 2.4 times its prior level, with Robinhood Chain supplying about 60% of it.",
       "date": "2026-08-13T15:14:41.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -391,16 +433,6 @@
       "link": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Copper Markets US will offer qualified custody, staking, financing and OTC services after securing its regulated US presence.",
       "date": "2026-08-13T07:14:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Blockchain Association backs Custodia’s Supreme Court bid over Fed master account access",
-      "link": "https://www.theblock.co/news/regulation/2026-08-13-blockchain-association-backs-custodia-petition-411672",
-      "desc": "The industry group said the case is about ensuring 'lawful digital asset businesses can compete on equal footing.'",
-      "date": "2026-08-13T06:07:59.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -888,16 +920,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Miden bets on privacy stablecoins with introduction of USDCx",
-      "link": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
-      "desc": "USDCx will let users transact without publicly exposing balances, counterparties or transaction histories, while allowing selective disclosure for compliance.",
-      "date": "2026-08-12T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Harmony Patches Pre-Staking Quorum and Receipt-Replay Flaws After ONE Mint Claim",
@@ -914,26 +936,6 @@
       "link": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
       "desc": "A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
       "date": "2026-08-12T14:13:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
-      "link": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
-      "date": "2026-08-12T13:31:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’",
-      "link": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Five years after El Salvador made Bitcoin legal tender, the experiment has fallen short of its original promises for locals, but it’s been great for Bitcoin’s global profile.",
-      "date": "2026-08-12T13:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
