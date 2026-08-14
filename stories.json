@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-14T10:48:11.994Z",
+  "generatedAt": "2026-08-14T11:16:19.447Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 250,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 242,
+  "errors": [
+    "PYMNTS: PYMNTS: HTTP 403"
+  ],
   "dupsMerged": 12,
   "items": [
     {
@@ -16,6 +18,42 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
+      "link": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
+      "desc": "Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as the largest cryptocurrency wiped out last week's gains and altcoins struggled to find direction.",
+      "date": "2026-08-14T11:06:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Strategy, Metaplanet could face MSCI index removal under new proposal",
+      "link": "https://www.theblock.co/news/business/2026-08-14-strategy-metaplanet-msci-index-proposal-411809",
+      "desc": "An MSCI proposal could see Strategy and Metaplanet removed from its global indexes under a new non-operating company screen.",
+      "date": "2026-08-14T10:57:33.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’",
+      "link": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin futures open interest on Binance fell alongside BTC price as analysis published on CryptoQuant flagged mounting pressure on leveraged longs.",
+      "date": "2026-08-14T10:43:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -68,32 +106,12 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Younger Members Push Credit Unions Toward Crypto Services",
-      "link": "https://www.pymnts.com/credit-unions/2026/younger-members-push-credit-unions-toward-crypto-services/",
-      "desc": "Crypto has a funny way of arriving before the meeting agenda catches up. Many credit union members have already made room for it, even as their financial institutions are still deciding what to do. “Credit Unions Sit on the Sidelines While Members Already Own Crypto” is a PYMNTS Intelligence and Velera collaboration. The report is based […] The post Younger Members Push Credit Unions Toward Crypto Services appeared first on PYMNTS.com.",
-      "date": "2026-08-14T08:00:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
       "link": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
       "desc": "Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.",
       "date": "2026-08-14T07:14:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
-      "link": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
-      "desc": "A new consultation targets \"non-operating companies\" broadly. Two familiar names still land on the deletion list.",
-      "date": "2026-08-14T06:20:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -128,16 +146,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Figure’s Blockchain Marketplace Tops $1 Billion Weekly Loan Applications After Record Q2",
-      "link": "https://www.pymnts.com/earnings/2026/figures-blockchain-marketplace-tops-1-billion-weekly-loan-applications-after-record-q2/",
-      "desc": "Blockchain-native capital marketplace Figure Technology Solutions saw its Consumer Loan Marketplace volume leap 132% to $4.3 billion in the second quarter as both prospects and investors saw the benefits of this platform for capital, CEO Michael Tannenbaum said Thursday (Aug. 13) during an earnings call. Figure Connect, the company’s blockchain-based marketplace for private credit, accounted […] The post Figure’s Blockchain Marketplace Tops $1 Billion Weekly Loan Applications After Record Q2 appeared first on PYMNTS.com.",
-      "date": "2026-08-14T01:18:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "MUFG trials blockchain settlement for Japanese Government Bond repo trades",
@@ -151,16 +159,6 @@
           "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Chime Weighs Adding Stablecoin Wallet to Consumer Banking App",
-      "link": "https://www.pymnts.com/blockchain/2026/chime-weighs-adding-stablecoin-wallet-to-consumer-banking-app/",
-      "desc": "Chime Financial is considering adding stablecoins as a feature in its consumer banking app, Bloomberg reported Thursday (Aug. 13), citing unnamed sources. The FinTech asked blockchain technology companies to submit proposals to provide stablecoin wallet services that would enable Chime customers to send and receive the digital assets without needing a separate account or another […] The post Chime Weighs Adding Stablecoin Wallet to Consumer Banking App appeared first on PYMNTS.com.",
-      "date": "2026-08-13T23:13:30.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -429,13 +427,7 @@
       "link": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
       "desc": "The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
       "date": "2026-08-13T16:40:49.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -813,16 +805,6 @@
       "link": "https://thedefiant.io/news/defi/uniswap-founder-says-team-renounced-creator-fees-from-employee-testing",
       "desc": "TradePools said test tokens built while developing Pools no longer send creator fees to Uniswap Labs, with past and future fees redirected to an ETH-for-burn mechanism.",
       "date": "2026-08-13T01:09:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "ASX shareholder plans to sue former directors over failed blockchain project",
-      "link": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "ASX’s failed blockchain-based CHESS overhaul faces renewed governance scrutiny after the exchange admitted misleading the market.",
-      "date": "2026-08-13T01:00:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
