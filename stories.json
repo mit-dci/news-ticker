@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T12:17:46.575Z",
+  "generatedAt": "2026-08-14T12:47:27.728Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 251,
+  "filteredOut": 250,
   "errors": [],
   "dupsMerged": 14,
   "items": [
@@ -16,6 +16,46 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #418",
+      "link": "https://bitcoinops.org/en/newsletters/2026/08/14/",
+      "desc": "This week’s newsletter describes a proposed contract protocol for mitigating Lightning Network channel jamming, reports on the availability of static Bitcoin Core binaries for testing, and summarizes a change replacing Bitcoin Core’s per-peer transaction rate-limiting with a global approach. Also included are our regular sections announcing new releases and release candidates, and describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-08-14T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
+      "link": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
+      "desc": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
+      "date": "2026-08-14T12:38:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Norway sovereign wealth fund sees indirect bitcoin exposure hit all-time high, with Strategy accounting for 86%: K33",
+      "link": "https://www.theblock.co/news/markets/2026-08-14-norway-sovereign-wealth-fund-indirect-bitcoin-exposure-all-time-high-strategy-k33-411815",
+      "desc": "Norges Bank Investment Management also disclosed a new $88 million stake in Ethereum treasury firm Bitmine.",
+      "date": "2026-08-14T12:25:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Kraken parent Payward posts $508 million in Q2 adjusted revenue as growth broadens beyond crypto trading",
+      "link": "https://www.theblock.co/news/business/2026-08-14-kraken-parent-payward-508-million-q2-adjusted-revenue-411818",
+      "desc": "Kraken parent Payward posted $508M in Q2 adjusted revenue, up 17%, as funded accounts grew 42% to 6.6M and volume fell 13% to $310B.",
+      "date": "2026-08-14T12:21:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -875,32 +915,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value",
-      "link": "https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652",
-      "desc": "The company's HYPE holdings increased to $133 million during the second quarter, up from $71 million at the end of Q1.",
-      "date": "2026-08-12T21:19:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Circle’s cirBTC Is Live on Ethereum but Has Only 40 BTC Outstanding",
       "link": "https://thedefiant.io/news/tokens/circle-s-cirbtc-is-live-on-ethereum-but-has-only-40-btc-outstanding",
       "desc": "Circle National Trust custodies the backing, while published Bitcoin addresses and Chainlink Proof of Reserve provide onchain visibility; Arc support remains forthcoming.",
       "date": "2026-08-12T21:18:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
-      "link": "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654",
-      "desc": "Franklin Templeton received a no-action letter from the SEC enabling its traditional registered funds to invest in its BENJI/FOBXX fund.",
-      "date": "2026-08-12T21:04:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1007,16 +1027,6 @@
       "link": "https://thedefiant.io/news/blockchains/solana-foundation-kingmaking-debate-flash-trade-lily-liu",
       "desc": "Flash.Trade's founder said Foundation backing for a rival contributed to his decision to wind the perps exchange down. Foundation president Lily Liu says the market decides who wins.",
       "date": "2026-08-12T16:32:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
-      "link": "https://decrypt.co/375441/xrp-drained-tx-bridge",
-      "desc": "A flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge’s reserves.",
-      "date": "2026-08-12T16:00:52.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
