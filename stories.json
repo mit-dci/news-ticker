@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T08:29:00.125Z",
+  "generatedAt": "2026-08-14T08:54:07.863Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 248,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "cointelegraph",
@@ -16,6 +16,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
+      "link": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
+      "desc": "WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.",
+      "date": "2026-08-14T08:51:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Crypto payments barely register among euro area merchants, ECB finds",
+      "link": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Crypto acceptance was just 0.2% online and remained below 1% at physical points of sale, while mobile payments gained ground.",
+      "date": "2026-08-14T08:22:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "pymnts",
@@ -757,16 +777,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
-      "link": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
-      "desc": "An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.",
-      "date": "2026-08-13T03:39:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Securitize’s Tokenized Assets Hit $4.3 Billion as Revenue Falls",
@@ -848,11 +858,6 @@
           "source": "DECRYPT",
           "sourceId": "decrypt",
           "url": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf"
-        },
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "termBoost": 0
