@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-15T22:03:49.845Z",
+  "generatedAt": "2026-08-15T22:38:07.386Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 293,
+  "filteredOut": 294,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "block",
@@ -570,6 +570,16 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "SEC cancels key crypto regulatory meeting",
+      "link": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The SEC canceled a meeting on proposed crypto offering rules after the Senate left for recess without voting on the CLARITY Act.",
+      "date": "2026-08-14T08:02:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
@@ -637,22 +647,6 @@
       "desc": "The SEC was ready to release at least some part of the innovation exemption alongside its now-canceled open meeting for \"Reg Crypto\" on Friday.",
       "date": "2026-08-13T23:09:14.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "link": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
-      "desc": "The first major crypto rule to be proposed by the U.S. Securities and Exchange Commission will have to wait a bit longer after a sudden postponement.",
-      "date": "2026-08-13T22:18:07.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
       "termBoost": 0
     }
   ]
