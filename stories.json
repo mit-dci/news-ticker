@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-15T03:15:53.375Z",
+  "generatedAt": "2026-08-15T03:44:45.762Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 267,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 258,
+  "errors": [
+    "PYMNTS: PYMNTS: HTTP 403"
+  ],
   "dupsMerged": 9,
   "items": [
     {
@@ -16,16 +18,6 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Mastercard Offers Brazilian Acquirers 50% Payout and Services in Will Bank Dispute",
-      "link": "https://www.pymnts.com/mastercard/2026/mastercard-offers-brazilian-acquirers-50percent-payout-services-will-bank-dispute/",
-      "desc": "Mastercard is proposing to pay half the amount demanded by Brazilian merchant acquirers that were impacted by the collapse of Will Financeira, also known as Will Bank, a FinTech tied to the failed Banco Master, Bloomberg reported Friday (Aug. 14), citing unnamed sources. In addition, Mastercard is proposing to provide the firms with services such […] The post Mastercard Offers Brazilian Acquirers 50% Payout and Services in Will Bank Dispute appeared first on PYMNTS.com.",
-      "date": "2026-08-15T00:06:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
     },
     {
       "source": "bitcoinops",
