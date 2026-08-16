@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T17:05:08.463Z",
+  "generatedAt": "2026-08-16T17:36:38.557Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 322,
+  "filteredOut": 324,
   "errors": [],
   "dupsMerged": 1,
   "items": [
@@ -43,7 +43,13 @@
       "link": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
       "desc": "While the data breach exposed the personal order details of thousands of customers, all private keys, seed phrases, and crypto assets remain completely safe.",
       "date": "2026-08-16T14:02:32.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -354,32 +360,6 @@
       "desc": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
       "date": "2026-08-14T17:46:06.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal",
-      "link": "https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal",
-      "desc": "Bitcoin Magazine Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal Bitcoin treasury Strategy could be dropped from the MSCI. It doesn't appear to care. This post Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-08-14T17:24:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
-      "link": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
-      "desc": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
-      "date": "2026-08-14T17:14:02.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868"
-        }
-      ],
       "termBoost": 0
     }
   ]
