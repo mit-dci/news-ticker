@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-08-17T10:42:51.371Z",
+  "generatedAt": "2026-08-17T11:07:20.990Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 323,
-  "errors": [],
-  "dupsMerged": 2,
+  "successCount": 17,
+  "filteredOut": 312,
+  "errors": [
+    "PYMNTS: PYMNTS: HTTP 403"
+  ],
+  "dupsMerged": 3,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitpanda fined €70,000 in Austria’s first published MiCA enforcement case",
+      "link": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
+      "desc": "The fine stems from Bitpanda failing to submit a mandatory white paper 20 days before publication and omitting required disclosures in marketing materials.",
+      "date": "2026-08-17T10:52:31.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -39,16 +57,6 @@
       "link": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot",
       "desc": "The price of bitcoin tracked a bounce in equities, but a $390 million ETF outflow streak and 10% odds on landmark crypto legislation leave markets searching for direction.",
       "date": "2026-08-17T09:59:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitpanda fined in Austria’s first published MiCA penalty",
-      "link": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The FMA said Bitpanda breached MiCA rules on crypto white papers and marketing communications, with the decision now final.",
-      "date": "2026-08-17T09:31:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -103,12 +111,12 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "42% of Stablecoin Holders Want Crypto for Major Purchases",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/42-percent-of-stablecoin-holders-want-crypto-for-major-purchases/",
-      "desc": "Cryptocurrency’s path into everyday commerce may look familiar via a card in a wallet, a purchase at the register and digital assets moving behind the scenes. That is the central opportunity in “From Asset to Everyday Money: Making Digital Currencies Spendable,” the July edition of the Payments Innovation Tracker® Series from PYMNTS Intelligence and Paymentology. […] The post 42% of Stablecoin Holders Want Crypto for Major Purchases appeared first on PYMNTS.com.",
-      "date": "2026-08-17T08:00:28.000Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’",
+      "link": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "BitMart’s Chinese-language X account demanded an Aug. 19 repayment plan, while Sheldon Xia called its claims of blocked withdrawals and non-payment of salaries “fabricated rumors.”",
+      "date": "2026-08-17T08:15:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
