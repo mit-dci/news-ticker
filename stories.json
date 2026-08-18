@@ -1,11 +1,52 @@
 {
-  "generatedAt": "2026-08-18T09:10:26.176Z",
+  "generatedAt": "2026-08-18T09:43:08.252Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 282,
+  "filteredOut": 279,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Blockchain Association backs SEC’s proposal to scrap outdated NMS rules, citing tokenization benefits",
+      "link": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
+      "desc": "The rules, established in 2005, have \"failed to achieve their stated purposes,\" the Blockchain Association said.",
+      "date": "2026-08-18T09:35:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
+      "date": "2026-08-18T09:31:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
+      "link": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
+      "desc": "Austria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto rulebook.",
+      "date": "2026-08-18T09:31:04.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960"
+        },
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
@@ -479,22 +520,6 @@
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Austria’s FMA fines crypto broker Bitpanda $81,000 in first published MiCA penalty",
-      "link": "https://www.theblock.co/news/regulation/2026-08-17-austria-mica-penalty-bitpanda-411960",
-      "desc": "Austria's FMA fined Bitpanda €70,000 in its first published MiCA penalty, citing white paper and marketing disclosure failures.",
-      "date": "2026-08-17T13:03:16.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "termBoost": 0
