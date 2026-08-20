@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-08-20T18:45:30.088Z",
+  "generatedAt": "2026-08-20T19:13:46.008Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 274,
+  "filteredOut": 275,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 3,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+      "link": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
+      "desc": "Commodity Futures Trading Commission Chairman Mike Selig told the inaugural gathering of the Innovation Advisory Committee that his agency won't sit idle.",
+      "date": "2026-08-20T18:54:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -114,22 +124,6 @@
       "desc": "Bitcoin punched above $72,000 Thursday, extending a two-day squeeze that's wiped out the most short positions on record and mounted the first real challenge to a bearish chart that's held since November.",
       "date": "2026-08-20T16:04:04.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "OCC Races the Clock to Finish GENIUS Act Stablecoin Rules",
-      "link": "https://www.pymnts.com/legal/2026/occ-races-the-clock-to-finish-genius-act-stablecoin-rules/",
-      "desc": "U.S. banking regulators are racing the clock to complete a new federal rulebook for payment stablecoins before the GENIUS Act takes effect in January. The Office of the Comptroller of the Currency (OCC) is now targeting November for its final regulations. Comptroller of the Currency Jonathan Gould told the Wyoming Blockchain Symposium that the OCC […] The post OCC Races the Clock to Finish GENIUS Act Stablecoin Rules appeared first on PYMNTS.com.",
-      "date": "2026-08-20T15:46:52.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -319,6 +313,16 @@
       "link": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
       "desc": "Conversations with X are ongoing, according to a person who also works with other social media platforms testing stablecoins to pay influencers.",
       "date": "2026-08-20T09:40:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
+      "link": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
+      "desc": "OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.",
+      "date": "2026-08-20T09:31:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -539,6 +543,27 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
+      "link": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The transaction connected the banks’ separate tokenized deposit systems through Swift’s ledger, marking a step toward interoperable, 24/7 cross-border payments.",
+      "date": "2026-08-19T16:30:12.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-and-standard-chartered-complete-first-live-transaction-on-swift-blockchain-ledger"
+        },
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48270/hsbc-and-standard-chartered-execute-first-live-transaction-on-swifts-blockchain-based-ledger?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Injective becomes SEC-registered transfer agent as it expands tokenization push",
@@ -656,32 +681,6 @@
       "desc": "In this week's Crypto Long & Short, Solstice Finance's David Plisek argues that most of the money lost in DeFi this spring wasn't taken by hackers but by yield strategies that quietly stopped working. Looking at April's $13 billion drawdown, he shows that a headline yield number reveals almost nothing about whether it will hold under stress, laying out four questions an allocator should ask before committing capital.",
       "date": "2026-08-19T14:57:35.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger",
-      "link": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger",
-      "desc": "The cross-border transaction is Swift’s first in a pilot project as it tests settlement in its push to remain relevant as stablecoins and tokenized deposits become widely used worldwide.",
-      "date": "2026-08-19T14:50:33.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-and-standard-chartered-complete-first-live-transaction-on-swift-blockchain-ledger"
-        },
-        {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/48270/hsbc-and-standard-chartered-execute-first-live-transaction-on-swifts-blockchain-based-ledger?utm_medium=rssfinextra&utm_source=finextrafeed"
-        }
-      ],
       "termBoost": 0
     },
     {
