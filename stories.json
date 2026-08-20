@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-08-20T05:11:03.464Z",
+  "generatedAt": "2026-08-20T05:42:03.607Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 266,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 12,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+      "link": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
+      "desc": "The Hyperliquid wallet known as pension-usdt.eth was forced out of a 50,000 ETH short as ether surged, with five liquidation orders helping push the price higher during the unwind.",
+      "date": "2026-08-20T05:40:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -131,6 +141,16 @@
       "link": "https://thedefiant.io/converge/podcast/how-maple-finance-became-the-2-crypto-lender-behind-tether-sid-powell-explains",
       "desc": "Sid Powell, CEO and co-founder of Maple Finance, joins Chris Storaker on the Converge Podcast",
       "date": "2026-08-19T19:25:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+      "link": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+      "desc": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
+      "date": "2026-08-19T18:20:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -318,6 +338,16 @@
           "url": "https://www.finextra.com/newsarticle/48270/hsbc-and-standard-chartered-execute-first-live-transaction-on-swifts-blockchain-based-ledger?utm_medium=rssfinextra&utm_source=finextrafeed"
         }
       ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Maya Protocol Exploit Drains $1.7 Million From Shared Liquidity",
+      "link": "https://thedefiant.io/news/hacks/maya-protocol-exploit-drains-1-7-million-from-shared-liquidity",
+      "desc": "Founder Aaluxx said he would ‘work to fix and recover in full,’ while routing service LeoDex reported that Maya had activated a global halt.",
+      "date": "2026-08-19T14:43:24.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -556,27 +586,6 @@
       "desc": "US spot Bitcoin ETFs took in $189 million on Tuesday, lifting August net inflows to $951 million, while Ether ETFs added $71.5 million.",
       "date": "2026-08-19T07:59:16.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops by $11 million",
-      "link": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
-      "desc": "A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.",
-      "date": "2026-08-19T06:36:11.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/hacks/maya-protocol-exploit-drains-1-7-million-from-shared-liquidity"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit"
-        }
-      ],
       "termBoost": 0
     },
     {
