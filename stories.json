@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T14:44:14.003Z",
+  "generatedAt": "2026-08-21T15:10:21.938Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 265,
+  "filteredOut": 264,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "bitcoinops",
@@ -13,6 +13,26 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/08/21/",
       "desc": "This week’s newsletter summarizes the disclosure of a fixed reorg vulnerability in LND’s channel closes and describes a draft BIP for the rawtr() output script descriptor. Also included are our regular sections describing recent changes to services and client software and notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-08-21T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Illuvium Team Cuts Wages To Extend Runway",
+      "link": "https://thedefiant.io/news/nfts-and-web3/illuvium-team-cuts-wages-to-extend-runway",
+      "desc": "Co-founder Kieran Warwick says the reduction puts the Ethereum game studio past 12 months of runway, with the remaining team working almost entirely on its Overworld MMO.",
+      "date": "2026-08-21T15:03:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Bitcoin and gold surge as Bessent’s bond market intervention weighs on dollar",
+      "link": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
+      "desc": "World’s biggest cryptocurrency on track for best week in more than three years",
+      "date": "2026-08-21T14:48:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -70,16 +90,6 @@
           "url": "https://www.finextra.com/newsarticle/48283/two-binance-employees-detained-in-uae---nyt?utm_medium=rssfinextra&utm_source=finextrafeed"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Bitcoin and gold surge as Bessent’s bond market intervention weighs on dollar",
-      "link": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
-      "desc": "World’s biggest cryptocurrency on track for best week in more than three years",
-      "date": "2026-08-21T12:42:56.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -243,7 +253,7 @@
       "sourceName": "WALL STREET JOURNAL",
       "title": "Stock Market Today: Bitcoin Jumps; S&P Heads for Weekly Loss",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026?mod=rss_markets_main",
-      "desc": "Bitcoin climbs as bond markets shrug off Treasury efforts to curb borrowing costs",
+      "desc": "Crypto climbs; bond markets shrug off Treasury efforts to curb borrowing costs",
       "date": "2026-08-21T08:31:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -567,7 +577,13 @@
       "link": "https://decrypt.co/376085/bitcoin-price-high-june-3-billion-shorts-liquidated",
       "desc": "Bitcoin punched above $72,000 Thursday, extending a two-day squeeze that's wiped out the most short positions on record and mounted the first real challenge to a bearish chart that's held since November.",
       "date": "2026-08-20T16:04:04.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -797,16 +813,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Spot bitcoin ETFs report $517 million in net inflows, largest in 3.5 months",
-      "link": "https://www.theblock.co/news/markets/2026-08-20-us-bitcoin-etf-517-million-inflows-412291",
-      "desc": "Analysts attributed the inflows to the surprise crypto market rally driven by US Treasury Department's buyback expansion announcement.",
-      "date": "2026-08-20T06:57:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
@@ -919,16 +925,6 @@
       "link": "https://bitcoinmagazine.com/news/bitcoin-blasts-past-68000",
       "desc": "Bitcoin Magazine Bitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks Bitcoin blew past $68,000 on Wednesday, jumping nearly 3% over a 24-hour period after news dropped that the U.S. Treasury planned to more than double the size of its government debt repurchases. The price of Bitcoin was recently at $68,473 at 10.30am in New York after briefly touching $68,982. The sharp jump came as yields […] This post Bitcoin Blasts Past $68,000 After US Treasury Doubles Debt Buybacks first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-08-19T15:53:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "HSBC and Standard Chartered Complete First Live Transaction on Swift Blockchain Ledger",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-and-standard-chartered-complete-first-live-transaction-on-swift-blockchain-ledger",
-      "desc": "Swift’s ledger matched and netted obligations recorded on the banks’ separate platforms, but final settlement still ran through existing systems.",
-      "date": "2026-08-19T14:45:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
