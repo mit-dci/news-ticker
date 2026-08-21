@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T17:08:51.037Z",
+  "generatedAt": "2026-08-21T17:41:03.541Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 266,
+  "filteredOut": 267,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "bitcoinops",
@@ -13,6 +13,26 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/08/21/",
       "desc": "This week’s newsletter summarizes the disclosure of a fixed reorg vulnerability in LND’s channel closes and describes a draft BIP for the rawtr() output script descriptor. Also included are our regular sections describing recent changes to services and client software and notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-08-21T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
+      "link": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
+      "desc": "The Bitcoin treasury giant is sitting on roughly $1.4 billion in unrealized gains after Bitcoin climbed above its average acquisition price.",
+      "date": "2026-08-21T17:28:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
+      "desc": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
+      "date": "2026-08-21T17:28:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -741,16 +761,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Evernorth eyes DeFi opportunities as XRP Ledger weighs native lending",
-      "link": "https://www.theblock.co/news/business/2026-08-20-evernorth-defi-xrp-ledger-native-lending-412315",
-      "desc": "The XRP-focused digital asset treasury firm plans to put its holdings to work as it also moves through the process of going public.",
-      "date": "2026-08-20T11:34:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Prosus invests $100m in Indian fintech Navi",
@@ -797,22 +807,22 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
+      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
+      "desc": "Six weeks of compression ended in the largest short liquidation since at least 2021, with $3 billion of bearish bets forced to buy back into thin supply.",
+      "date": "2026-08-20T10:46:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "EIB launches fintech fund in Poland",
       "link": "https://www.finextra.com/newsarticle/48274/eib-launches-fintech-fund-in-poland?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "The European Investment Fund (EIF) has teamed up with Polish national development bank, Bank Gospodarstwa Krajowego (BGK)to launch a €30m venture capital fintech fund.",
       "date": "2026-08-20T10:19:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "GSR’s Baehr says tokenized fixed income could play key role in institutional collateral",
-      "link": "https://www.theblock.co/news/business/2026-08-20-gsr-baehr-tokenized-institutional-collateral-412302",
-      "desc": "The idea of mass tokenization of equities is \"exciting,\" said Andy Baehr, managing director of asset management at GSR.",
-      "date": "2026-08-20T10:08:12.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -894,22 +904,6 @@
       "desc": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
       "date": "2026-08-19T18:20:35.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitcoin Tops $68,000 as Short Liquidations Hit $1.7 Billion",
-      "link": "https://thedefiant.io/news/markets/bitcoin-tops-68k-as-short-liquidations-hit-1-7-billion",
-      "desc": "Ether gained 9% and total crypto market value rose 5.1% after the U.S. Treasury said it would at least double the size of its long-dated bond buybacks. Short positions accounted for 91% of the day's liquidations.",
-      "date": "2026-08-19T17:16:33.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out"
-        }
-      ],
       "termBoost": 0
     }
   ]
