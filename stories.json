@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T18:44:57.495Z",
+  "generatedAt": "2026-08-21T19:11:20.980Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 267,
+  "filteredOut": 266,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "bitcoinops",
@@ -13,6 +13,16 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/08/21/",
       "desc": "This week’s newsletter summarizes the disclosure of a fixed reorg vulnerability in LND’s channel closes and describes a draft BIP for the rawtr() output script descriptor. Also included are our regular sections describing recent changes to services and client software and notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-08-21T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Solana Just Got Faster—Is It Bullish for SOL?",
+      "link": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
+      "desc": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
+      "date": "2026-08-21T18:45:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -585,7 +595,13 @@
       "link": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
       "desc": "The CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
       "date": "2026-08-20T18:44:08.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -843,16 +859,6 @@
       "link": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin approached $72,000 in a second day of upside as crypto short liquidations passed $3.1 billion.",
       "date": "2026-08-20T10:03:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
-      "link": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
-      "desc": "Conversations with X are ongoing, according to a person who also works with other social media platforms testing stablecoins to pay influencers.",
-      "date": "2026-08-20T09:40:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
