@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-08-21T19:39:48.338Z",
+  "generatedAt": "2026-08-21T20:05:47.331Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 259,
-  "errors": [
-    "THE BLOCK: THE BLOCK: HTTP 504"
-  ],
-  "dupsMerged": 5,
+  "successCount": 18,
+  "filteredOut": 267,
+  "errors": [],
+  "dupsMerged": 6,
   "items": [
     {
       "source": "bitcoinops",
@@ -15,6 +13,26 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/08/21/",
       "desc": "This week’s newsletter summarizes the disclosure of a fixed reorg vulnerability in LND’s channel closes and describes a draft BIP for the rawtr() output script descriptor. Also included are our regular sections describing recent changes to services and client software and notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-08-21T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "link": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.",
+      "date": "2026-08-21T19:19:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
+      "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs.",
+      "date": "2026-08-21T19:10:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -45,6 +63,16 @@
       "link": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
       "desc": "The Bitcoin treasury giant is sitting on roughly $1.4 billion in unrealized gains after Bitcoin climbed above its average acquisition price.",
       "date": "2026-08-21T17:28:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
+      "desc": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
+      "date": "2026-08-21T17:28:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -225,6 +253,16 @@
       "termBoost": 0
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Crypto is still in ‘winter’ price-wise but it’s an ‘institutional summer,’ STS Digital CEO says",
+      "link": "https://www.theblock.co/news/markets/2026-08-21-crypto-is-still-in-winter-price-wise-but-an-institutional-summer-sts-digital-ceo-says-412454",
+      "desc": "STS Digital CEO Maxime Seiler says token prices have lagged institutional adoption as bitcoin futures basis converges toward risk-free rates.",
+      "date": "2026-08-21T11:58:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
@@ -275,6 +313,16 @@
       "termBoost": 0
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein",
+      "link": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
+      "desc": "U.S. spot bitcoin ETF flows have also rebounded, while Strategy's bitcoin holdings are now back above their average purchase price.",
+      "date": "2026-08-21T10:57:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
@@ -311,6 +359,16 @@
       "termBoost": 0
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
+      "link": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
+      "desc": "One analyst said South Korean capital is slowly moving back to crypto, as investors are 'return-chasing' rather than 'asset-loyal.'",
+      "date": "2026-08-21T09:17:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
@@ -321,11 +379,21 @@
       "termBoost": 0
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Avalanche’s Nahas: Token prices are down, but ‘I’ve never seen more opportunities’ in crypto",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-21-avalanches-nahas-token-prices-are-down-but-ive-never-seen-more-opportunities-in-crypto-412431",
+      "desc": "Ava Labs CBO John Nahas says crypto prices are down, but real-world adoption is creating more opportunities across the sector.",
+      "date": "2026-08-21T09:00:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "wsj",
       "sourceName": "WALL STREET JOURNAL",
-      "title": "Stock Market Today: Bitcoin Jumps; S&P Heads for Weekly Loss",
+      "title": "Stock Market Today: Bitcoin Jumps; S&P Ends Friday With Weekly Loss",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026?mod=rss_markets_main",
-      "desc": "Crypto climbs; bond markets shrug off Treasury efforts to curb borrowing costs",
+      "desc": "Crypto climbs, bond markets shrug off Treasury efforts to curb borrowing costs",
       "date": "2026-08-21T08:31:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -337,6 +405,16 @@
       "link": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
       "desc": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
       "date": "2026-08-21T06:43:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
+      "link": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
+      "desc": "The agreement covers a proof-of-concept for the issuance and distribution of a Korean won-denominated tokenized fund.",
+      "date": "2026-08-21T06:32:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -381,6 +459,16 @@
       "termBoost": 0
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "MANTRA freezes all transactions and network following incident",
+      "link": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
+      "desc": "MANTRA Chain halted the network and all transactions after discovering an incident related to its Cosmos EVM module.",
+      "date": "2026-08-21T04:47:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
@@ -391,12 +479,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin pushes past $75,000 as rally continues.",
-      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
-      "desc": "\"Bears in pain, right now,\" wrote bitcoin analyst James Check.",
-      "date": "2026-08-21T01:55:50.000Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin breaks through $75,500 while analyst calls current rally ‘premature’",
+      "link": "https://www.theblock.co/news/markets/2026-08-20-bitcoin-breaks-through-75500-412404",
+      "desc": "Shawn Young, chief analyst at MEXC Research, said that the crypto market is giving Treasury's intervention 'more credit than it deserves.'",
+      "date": "2026-08-21T02:22:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -481,6 +569,16 @@
       "termBoost": 0
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Kraken parent Payward explores becoming a ‘full bank’ outside the US",
+      "link": "https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390",
+      "desc": "Payward is expanding across banking, lending and asset management, with mortgages a future possibility.",
+      "date": "2026-08-20T20:41:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
@@ -527,6 +625,16 @@
       "termBoost": 0
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Ondo executive says tokenization is following the same path as early ETFs",
+      "link": "https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346",
+      "desc": "The firm hopes that passage of the Clarity Act will help open the door for it to offer tokenized products in the U.S.",
+      "date": "2026-08-20T17:53:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "XRP Notches Best Week Since 2024 Election Pump on Bitcoin Short Squeeze",
@@ -564,6 +672,22 @@
       "desc": "Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and government agencies.",
       "date": "2026-08-20T17:12:43.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin’s rally pushes past $72,000 as analysts see demand beyond historic short squeeze",
+      "link": "https://www.theblock.co/news/markets/2026-08-20-bitcoins-rally-pushes-past-72000-analysts-see-demand-beyond-historic-short-squeeze-412337",
+      "desc": "Analysts say the move is supported by spot and ETF demand, though BTC will need to hold above $70k to show the rally can outlast the squeeze.",
+      "date": "2026-08-20T17:06:01.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -765,26 +889,6 @@
       "link": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
       "desc": "OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.",
       "date": "2026-08-20T09:31:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
-      "link": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle directly to Ethereum rather than continue with an independent validator set.",
-      "date": "2026-08-20T08:59:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BitGo Korea secures VASP registration for institutional crypto custody",
-      "link": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
-      "date": "2026-08-20T07:48:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
