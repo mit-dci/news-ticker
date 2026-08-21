@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-08-21T13:19:14.917Z",
+  "generatedAt": "2026-08-21T13:46:01.745Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 266,
+  "filteredOut": 264,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
+    {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #419",
+      "link": "https://bitcoinops.org/en/newsletters/2026/08/21/",
+      "desc": "This week’s newsletter summarizes the disclosure of a fixed reorg vulnerability in LND’s channel closes and describes a draft BIP for the rawtr() output script descriptor. Also included are our regular sections describing recent changes to services and client software and notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-08-21T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "wsj",
       "sourceName": "WALL STREET JOURNAL",
@@ -149,7 +159,13 @@
       "link": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
       "desc": "Laser Digital Japan will offer liquidity to domestic crypto providers, with institutional trading services planned to follow as the appetite for crypto in Japan grows.",
       "date": "2026-08-21T10:38:47.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
