@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T16:08:07.139Z",
+  "generatedAt": "2026-08-21T16:44:05.962Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 264,
+  "filteredOut": 266,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "bitcoinops",
@@ -13,6 +13,26 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/08/21/",
       "desc": "This week’s newsletter summarizes the disclosure of a fixed reorg vulnerability in LND’s channel closes and describes a draft BIP for the rawtr() output script descriptor. Also included are our regular sections describing recent changes to services and client software and notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-08-21T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
+      "link": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
+      "desc": "U.S. spot Bitcoin ETFs pulled in $606 million Thursday, the biggest haul since May. And altcoin funds finally showed up too.",
+      "date": "2026-08-21T16:29:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
+      "link": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The RISE program would use the Canton Network to combine and distribute state-administered benefits across three US states beginning in 2027.",
+      "date": "2026-08-21T16:25:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -79,7 +99,7 @@
     {
       "source": "ft",
       "sourceName": "FINANCIAL TIMES",
-      "title": "Bitcoin and gold surge as Bessent’s bond market intervention weighs on dollar",
+      "title": "Bitcoin and gold surge as Bessent’s intervention in bond market hits dollar",
       "link": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
       "desc": "World’s biggest cryptocurrency on track for best week in more than three years",
       "date": "2026-08-21T14:48:16.000Z",
@@ -409,22 +429,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "CFTC Readies Own Crypto Market Rules as Congress Stalls CLARITY Act",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/cftc-readies-own-crypto-market-rules-as-congress-stalls-clarity-act/",
-      "desc": "If Congress doesn’t pass the CLARITY Act, the Commodity Futures Trading Commission (CFTC) will use its existing authorities to begin establishing a crypto asset market regime, CFTC Chairman Michael S. Selig said Thursday (Aug. 20). In remarks delivered at the Innovation Advisory Committee Conference in Washington, D.C., Selig said: “We owe it to the American […] The post CFTC Readies Own Crypto Market Rules as Congress Stalls CLARITY Act appeared first on PYMNTS.com.",
-      "date": "2026-08-21T00:33:57.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Optimism Redirects $49.7 Million Airdrop Reserve After Late Deciding Vote",
@@ -531,6 +535,16 @@
       "link": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
       "desc": "Commodity Futures Trading Commission Chairman Mike Selig told the inaugural gathering of the Innovation Advisory Committee that his agency won't sit idle.",
       "date": "2026-08-20T18:54:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+      "link": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
+      "desc": "The CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
+      "date": "2026-08-20T18:44:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -823,16 +837,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
-      "link": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
-      "desc": "Backed by Hana Financial Group and SK Telecom, BitGo Korea built a locally registered entity from scratch to serve institutional and enterprise clients, rather than taking the acquisition route.",
-      "date": "2026-08-20T09:25:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
@@ -849,16 +853,6 @@
       "link": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
       "date": "2026-08-20T07:48:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
-      "link": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Senator Ruben Gallego said the White House has not provided point-by-point feedback on a bipartisan ethics proposal as a September vote approaches.",
-      "date": "2026-08-20T04:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -915,16 +909,6 @@
       "link": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
       "desc": "A Phase 3 win against the standard of care sent the biotech's shares up 131% and left short sellers down $4.8 billion.",
       "date": "2026-08-19T16:54:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
-      "link": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
-      "desc": "A White House sitdown with crypto's biggest names and softer Fed signals lit the fuse. But the charts show why the pain for bears might not be over yet.",
-      "date": "2026-08-19T16:10:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
