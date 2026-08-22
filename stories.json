@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-22T16:39:28.414Z",
+  "generatedAt": "2026-08-22T17:05:26.313Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 274,
+  "filteredOut": 273,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "coindesk",
@@ -349,7 +349,13 @@
       "link": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Solana reduced its slot time for the first time since genesis as it works toward a 200-millisecond target aimed at reducing network latency.",
       "date": "2026-08-21T13:45:13.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521"
+        }
+      ],
       "termBoost": 0
     },
     {
