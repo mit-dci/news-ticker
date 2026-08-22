@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-08-22T11:04:57.094Z",
+  "generatedAt": "2026-08-22T11:37:18.469Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 265,
-  "errors": [],
-  "dupsMerged": 7,
+  "successCount": 17,
+  "filteredOut": 258,
+  "errors": [
+    "PYMNTS: PYMNTS: HTTP 403"
+  ],
+  "dupsMerged": 6,
   "items": [
     {
       "source": "ft",
@@ -23,16 +25,6 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/08/21/",
       "desc": "This week’s newsletter summarizes the disclosure of a fixed reorg vulnerability in LND’s channel closes and describes a draft BIP for the rawtr() output script descriptor. Also included are our regular sections describing recent changes to services and client software and notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-08-21T00:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Standard Chartered and HSBC Complete First Interbank Transaction on Swift’s Blockchain-Based Ledger",
-      "link": "https://www.pymnts.com/blockchain/2026/standard-chartered-and-hsbc-complete-first-interbank-transaction-on-swifts-blockchain-based-ledger/",
-      "desc": "Standard Chartered and HSBC have completed the first interbank transaction executed on Swift’s blockchain-based ledger, Standard Chartered said in a Wednesday (Aug. 19) press release. This live cross-border transaction demonstrated interbank operability and helped advance industry progress on 24/7 cross-border payments, according to the release. By doing so, it marked a milestone in the use of tokenized deposits by regulated […] The post Standard Chartered and HSBC Complete First Interbank Transaction on Swift’s Blockchain-Based Ledger appeared first on PYMNTS.com.",
-      "date": "2026-08-21T23:42:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -495,6 +487,16 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin ETF inflows pushed August’s total to a 2026 high of $2.07 billion as Bitcoin traded above $75,000 and Ether climbed to $2,357.",
+      "date": "2026-08-21T07:50:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
@@ -890,32 +892,6 @@
       "desc": "Apex Fintech Solutions Inc. (“Apex”), the infrastructure powering modern investing, today announced a collaboration with Rippling, the modern intelligence system for running HR, IT, and Finance, to bring an integrated treasury product to Rippling's business customers.",
       "date": "2026-08-20T11:51:00.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Prosus invests $100m in Indian fintech Navi",
-      "link": "https://www.finextra.com/newsarticle/48275/prosus-invests-100m-in-indian-fintech-navi?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Indian digital financial services firm Navi is set to receive $100m funding boost from Dutch asset manager Prosus.",
-      "date": "2026-08-20T11:33:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.",
-      "date": "2026-08-20T11:16:41.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
       "termBoost": 0
     }
   ]
