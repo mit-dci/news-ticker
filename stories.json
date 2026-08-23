@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T13:41:40.806Z",
+  "generatedAt": "2026-08-23T14:06:13.133Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 319,
+  "filteredOut": 320,
   "errors": [],
-  "dupsMerged": 2,
+  "dupsMerged": 1,
   "items": [
     {
       "source": "block",
@@ -43,6 +43,16 @@
       "link": "https://thedefiant.io/news/hacks/the-sandbox-says-it-contained-bridge-exploit-that-minted-unbacked-sand-on-base-and-bsc",
       "desc": "Upbit and Bithumb froze SAND transfers under South Korea's user-protection law, with Upbit halting deposits and withdrawals on Ethereum — the chain the studio says was not affected.",
       "date": "2026-08-22T17:08:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
+      "desc": "The change should lead to faster transaction confirmations but is not designed to increase the overall throughput of the network.",
+      "date": "2026-08-22T15:54:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -380,22 +390,6 @@
       "desc": "Meanwhile crypto majors and alts continue to soar, with BTC nearing $80k and alts like Pump and ZEC putting up big candles.",
       "date": "2026-08-21T14:27:31.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Solana cuts blockchain slot time to 350 milliseconds",
-      "link": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Solana reduced its slot time for the first time since genesis as it works toward a 200-millisecond target aimed at reducing network latency.",
-      "date": "2026-08-21T13:45:13.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521"
-        }
-      ],
       "termBoost": 0
     }
   ]
