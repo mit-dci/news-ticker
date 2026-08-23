@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-08-23T14:38:42.046Z",
+  "generatedAt": "2026-08-23T15:05:34.426Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 322,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 303,
+  "errors": [
+    "TECHCRUNCH: fetch failed"
+  ],
   "dupsMerged": 1,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "desc": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
+      "date": "2026-08-23T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "block",
       "sourceName": "THE BLOCK",
@@ -349,26 +361,6 @@
       "link": "https://thedefiant.io/converge/blockchains/circle-targets-sept-16-for-arc-public-mainnet-launch",
       "desc": "Official materials name Circle and 11 founding validators, while an Arc documentation page describes approximately 20 validators at launch.",
       "date": "2026-08-21T15:13:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Illuvium Team Cuts Wages To Extend Runway",
-      "link": "https://thedefiant.io/news/nfts-and-web3/illuvium-team-cuts-wages-to-extend-runway",
-      "desc": "Co-founder Kieran Warwick says the reduction puts the Ethereum game studio past 12 months of runway, with the remaining team working almost entirely on its Overworld MMO.",
-      "date": "2026-08-21T15:03:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
-      "link": "https://decrypt.co/376183/bitcoin-price-higher-1-2-billion-shorts-liquidated",
-      "desc": "The largest cryptocurrency surged 7.9% in a day to around $77,000, triggering a short squeeze that wiped out roughly $1.21 billion in bearish bets amid a wave of favorable news from Washington.",
-      "date": "2026-08-21T14:57:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
