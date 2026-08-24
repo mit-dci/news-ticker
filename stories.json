@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-24T17:11:14.488Z",
+  "generatedAt": "2026-08-24T17:41:35.932Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 300,
+  "filteredOut": 301,
   "errors": [],
   "dupsMerged": 3,
   "items": [
@@ -27,6 +27,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto political group details list of U.S. congressional allies its backing this year",
+      "link": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
+      "desc": "Stand With Crypto, a member group that rates the crypto friendliness of politicians, is supporting 32 U.S. House incumbents, with more endorsements coming.",
+      "date": "2026-08-24T17:30:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -403,7 +413,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin moves closer to $80,000, but rally could need a breather",
+      "title": "Live updates: Bitcoin moves closer to $80,000, but rally could bring profit taking",
       "link": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
       "desc": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
       "date": "2026-08-24T08:05:57.000Z",
@@ -563,26 +573,6 @@
       "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
       "desc": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
       "date": "2026-08-23T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
-      "desc": "CoinGlass recorded nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest, indicating that derivatives made up much of the trading.",
-      "date": "2026-08-22T17:35:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "link": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-      "desc": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
-      "date": "2026-08-22T17:31:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
