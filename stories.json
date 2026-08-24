@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T19:13:12.028Z",
+  "generatedAt": "2026-08-24T19:40:29.908Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 297,
+  "filteredOut": 296,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 2,
   "items": [
     {
       "source": "finextra",
@@ -27,6 +27,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin nears $80,000, but analysts say the next pullback will be key",
+      "link": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
+      "desc": "Analysts say consolidation could strengthen bitcoin’s rally, while thin trading above $80,000 may set up sharper price moves.",
+      "date": "2026-08-24T19:36:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
+      "link": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "With just over two months until the US general election, Stand With Crypto announced its pick for politicians in its efforts to “elect the most pro-crypto Congress in history.”",
+      "date": "2026-08-24T19:18:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -421,13 +441,7 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly inflow since October 2025, as Bitcoin briefly climbed above $78,000 on Friday.",
       "date": "2026-08-24T08:56:52.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
