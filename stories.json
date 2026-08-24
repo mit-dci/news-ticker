@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-24T07:48:11.875Z",
+  "generatedAt": "2026-08-24T08:16:19.990Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 331,
+  "filteredOut": 330,
   "errors": [],
-  "dupsMerged": 2,
+  "dupsMerged": 1,
   "items": [
     {
       "source": "cointelegraph",
@@ -16,6 +16,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin holds $77,000 as XRP, Zcash pull back after a big weekly rally",
+      "link": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
+      "desc": "Bitcoin holds its gains near $77,000 after a 22% week, while last week's biggest altcoin winners steady, with focus turning to Fed Chair Warsh's Jackson Hole debut.",
+      "date": "2026-08-24T08:05:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Bitcoin is great (for systemic theft of aid money)",
+      "link": "https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb",
+      "desc": "Finally, a killer use case",
+      "date": "2026-08-24T08:04:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -128,22 +148,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "BitMart Rethinks Shutdown of Its Crypto Exchange",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/bitmart-rethinks-shutdown-of-its-crypto-exchange/",
-      "desc": "Last month, cryptocurrency exchange BitMart announced plans to wind down its operations. Now, the company says it is exploring a way to remain open, according to an announcement published on its website Friday (Aug. 21). “Following further discussions with members of the community, our stakeholders and professional advisers, BitMart is developing a potential restructuring plan […] The post BitMart Rethinks Shutdown of Its Crypto Exchange appeared first on PYMNTS.com.",
-      "date": "2026-08-23T22:54:53.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
@@ -246,6 +250,16 @@
       "link": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
       "desc": "The change should lead to faster transaction confirmations but is not designed to increase the overall throughput of the network.",
       "date": "2026-08-22T15:54:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+      "link": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+      "desc": "The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
+      "date": "2026-08-22T15:16:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
