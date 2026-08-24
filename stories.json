@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-08-24T17:41:35.932Z",
+  "generatedAt": "2026-08-24T18:10:26.332Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 301,
-  "errors": [],
-  "dupsMerged": 3,
+  "successCount": 17,
+  "filteredOut": 292,
+  "errors": [
+    "THE BLOCK: THE BLOCK: HTTP 504"
+  ],
+  "dupsMerged": 1,
   "items": [
     {
       "source": "finextra",
@@ -27,6 +29,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
+      "link": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
+      "desc": "ZEC broke above $880 while open interest in perpetual futures climbed to $1.8 billion.",
+      "date": "2026-08-24T17:50:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -59,16 +71,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts",
-      "link": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
-      "desc": "The push comes as Hyperliquid's multi-asset perpetuals gain scale and draw scrutiny from traditional exchanges.",
-      "date": "2026-08-24T16:18:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "pymnts",
       "sourceName": "PYMNTS",
       "title": "SEC Rulemaking Is Giving Corporate Finance a New Crypto Hurdle Rate",
@@ -89,32 +91,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Stand With Crypto ramps up midterm push with 32 House endorsements",
-      "link": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616",
-      "desc": "Stand With Crypto is backing more than 30 House candidates as it looks to flex its political influence once more in the upcoming elections.",
-      "date": "2026-08-24T15:57:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
       "link": "https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin",
       "desc": "Bitmine is about 187,000 Ethereum short of its 5% of supply target.",
       "date": "2026-08-24T15:43:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Strive acquires 1,110 bitcoin for $81.5 million as total holdings reach 21,356 BTC",
-      "link": "https://www.theblock.co/news/business/2026-08-24-strive-acquires-1110-bitcoin-for-81-5-million-as-total-holdings-reach-21356-btc-412604",
-      "desc": "Strive purchased 1,110 bitcoin for $81.5 million, raising its total holdings to 21,356 BTC as the seventh-largest public company holder.",
-      "date": "2026-08-24T15:39:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -145,16 +127,6 @@
       "link": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Przemysław Kral reportedly faces a fraud charge and is cooperating with Polish prosecutors as estimated customer losses reach $650 million.",
       "date": "2026-08-24T14:00:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether",
-      "link": "https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589",
-      "desc": "Bitmine's total crypto, cash, and other investments currently stand at $14.9 billion, and it owns over 4.8% of Ethereum's circulating supply.",
-      "date": "2026-08-24T13:36:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -305,16 +277,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Gemini to provide crypto prediction markets venue for Apex’s brokerage clients",
-      "link": "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
-      "desc": "Under the alliance, brokerages that offer crypto event contracts through Apex will use Gemini for execution and clearing, the firms said.",
-      "date": "2026-08-24T11:01:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Gemini strikes Apex deal to widen prediction markets reach",
@@ -355,16 +317,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bernstein says Circle’s growth cycle can continue without the Clarity Act, sees 59% upside",
-      "link": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
-      "desc": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
-      "date": "2026-08-24T10:08:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
@@ -381,13 +333,7 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly inflow since October 2025, as Bitcoin briefly climbed above $78,000 on Friday.",
       "date": "2026-08-24T08:56:52.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -413,7 +359,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin moves closer to $80,000, but rally could bring profit taking",
+      "title": "Live updates: Bitcoin retreats after nearing $80,000, with analysts eyeing breather after big run",
       "link": "https://www.coindesk.com/business/2026/08/24/live-updates-bitcoin-holds-usd77-000-as-xrp-zcash-pull-back-after-a-big-weekly-rally",
       "desc": "With bond yields still near multi-year highs, focus turns to Fed Chair Kevin Warsh's upcoming Jackson Hole address.",
       "date": "2026-08-24T08:05:57.000Z",
@@ -427,16 +373,6 @@
       "link": "https://www.ft.com/content/38d95298-8b9b-486a-96d3-0c6616972abb",
       "desc": "Finally, a killer use case",
       "date": "2026-08-24T08:04:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Fasset reaches unicorn status after $68 million raise led by SBI Group",
-      "link": "https://www.theblock.co/news/business/2026-08-24-fasset-68-million-raise-sbi-group-412563",
-      "desc": "Fasset raised $68 million in Series C funding at a $1 billion valuation, expanding its cross-border stablecoin infrastructure.",
-      "date": "2026-08-24T07:56:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -491,12 +427,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts ‘strongest’ cycle ever",
-      "link": "https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547",
-      "desc": "Strive CEO said the next bitcoin cycle will be the strongest ever, citing its strong performance against both the dollar and gold.",
-      "date": "2026-08-24T03:52:31.000Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Term Finance loses estimated $8.5M in vault governance exploit",
+      "link": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.",
+      "date": "2026-08-24T03:59:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -521,38 +457,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
-      "link": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
-      "desc": "Term vault proposals face a seven-day delay and can be vetoed by liquidity providers, yet those controls apparently did not stop the exploit.",
-      "date": "2026-08-23T20:50:45.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Regulation Crypto is here: State of Crypto",
       "link": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
       "desc": "The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.",
       "date": "2026-08-23T18:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
-      "link": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
-      "desc": "UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.",
-      "date": "2026-08-23T17:02:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
