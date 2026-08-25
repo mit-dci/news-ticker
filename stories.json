@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T12:09:34.302Z",
+  "generatedAt": "2026-08-25T12:46:13.911Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 277,
+  "filteredOut": 278,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 3,
   "items": [
     {
       "source": "coindesk",
@@ -38,6 +38,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "India plans first tokenized bonds using wholesale CBDC: Report",
+      "link": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "India plans to test tokenized corporate bonds in a September pilot, with state-controlled REC issuing the debt and select investors using wholesale CBDC payments.",
+      "date": "2026-08-25T12:09:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -146,16 +156,6 @@
       "link": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Galaxy Research’s latest tally shows that more than half of 221 Coldcard hack victim reports involved individual losses exceeding 1 Bitcoin.",
       "date": "2026-08-25T08:46:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026?mod=rss_markets_main",
-      "desc": "Cryptocurrency up over 20% over past week; oil retreats",
-      "date": "2026-08-25T08:19:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -683,13 +683,7 @@
       "link": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
       "desc": "PVARA said companies have until the deadline to submit their application for a no-objection certificate or otherwise cease operating.",
       "date": "2026-08-24T11:19:16.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
