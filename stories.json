@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T14:46:02.711Z",
+  "generatedAt": "2026-08-25T15:17:20.856Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 279,
+  "filteredOut": 277,
   "errors": [],
   "dupsMerged": 3,
   "items": [
@@ -29,12 +29,58 @@
       "termBoost": 3
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "34 malware families target 1,243 mobile banking and fintech apps across 90 countries globally",
+      "link": "https://www.finextra.com/pressarticle/110724/34-malware-families-target-1243-mobile-banking-and-fintech-apps-across-90-countries-globally?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Banking fraud now starts on the mobile device.",
+      "date": "2026-08-25T15:53:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Bitcoin Tops $81,000 — Is the Debasement Trade Back?",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-surges-is-debasement-trade-back",
+      "desc": "Bitcoin Magazine Bitcoin Tops $81,000 — Is the Debasement Trade Back? Bitcoin reached over $80,000 for the first time since January. This post Bitcoin Tops $81,000 — Is the Debasement Trade Back? first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-08-25T15:14:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
+      "link": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot",
+      "desc": "Japheth Dillman told investors that Block Bits Capital's \"Autotrader\" software was finished and running, and took nearly $1 million.",
+      "date": "2026-08-25T14:56:10.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
       "link": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
       "desc": "Forty are confirmed malicious, impersonating OKX, Rabby and TronLink to harvest recovery phrases from anyone who types one in.",
       "date": "2026-08-25T14:10:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s",
+      "link": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696",
+      "desc": "Each pToken represents a pro-rata ownership stake in an underlying Arcus perpetuals account at a fixed market and leverage level.",
+      "date": "2026-08-25T14:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -209,6 +255,16 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Standard Chartered becomes first bank distributor of HKD stablecoin",
+      "link": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The bank plans tokenized money market fund settlements in the fourth quarter as HKDAP expands its phased rollout into conventional banking.",
+      "date": "2026-08-25T09:52:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
@@ -346,16 +402,6 @@
       "link": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "BNB Chain activates the Pasteur hard fork on BSC, closing bridge and validator security gaps while targeting greater transaction capacity.",
       "date": "2026-08-25T03:56:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund",
-      "link": "https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662",
-      "desc": "Dillman faces a maximum penalty of 20 years and a $250,000 fine for each count of conviction, according to the DOJ.",
-      "date": "2026-08-25T02:08:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -680,22 +726,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
-      "link": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
-      "desc": "The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKDAP to eligible clients and partners.",
-      "date": "2026-08-24T11:36:55.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/standard-chartered-hkdap-stablecoin-distribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
@@ -792,16 +822,6 @@
       "link": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
       "desc": "Term vault proposals face a seven-day delay and can be vetoed by liquidity providers, yet those controls apparently did not stop the exploit.",
       "date": "2026-08-23T20:50:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Tether’s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
-      "link": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
-      "desc": "UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.",
-      "date": "2026-08-23T17:02:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
