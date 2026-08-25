@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-25T18:09:11.268Z",
+  "generatedAt": "2026-08-25T18:45:22.820Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 270,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "coindesk",
@@ -27,6 +27,52 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736",
+      "desc": "LayerZero has announced ATLAS, new exchange infrastructure built on its Zero blockchain for trading platforms and financial institutions.",
+      "date": "2026-08-25T18:41:50.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/blockchains/layerzero-unveils-atlas-exchange-engine"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-08-25T18:34:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
+      "link": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "CryptoQuant says Bitcoin’s 24% rally has flipped key market indicators bullish, though rising profit-taking could bring near-term turbulence.",
+      "date": "2026-08-25T18:13:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "OpenPayd and Circle Settle Cross-Border Fiat Payments Near-Instantly",
+      "link": "https://www.pymnts.com/news/cross-border-payments/2026/openpayd-and-circle-settle-cross-border-fiat-payments-near-instantly/",
+      "desc": "OpenPayd has integrated its universal financial infrastructure with Circle Payments Network (CPN), enabling businesses to make near-instant cross-border fiat payments, OpenPayd said in a Tuesday (Aug. 25) press release. OpenPayd’s universal financial infrastructure enables businesses to use a single integration to access domestic payment rails, international banking networks and stablecoin infrastructure, according to the release. […] The post OpenPayd and Circle Settle Cross-Border Fiat Payments Near-Instantly appeared first on PYMNTS.com.",
+      "date": "2026-08-25T18:11:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -75,16 +121,6 @@
       "link": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
       "desc": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would “cripple the industry” as regulators implement the GENIUS Act.",
       "date": "2026-08-25T16:28:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "LayerZero Unveils ATLAS Exchange Engine",
-      "link": "https://thedefiant.io/news/blockchains/layerzero-unveils-atlas-exchange-engine",
-      "desc": "The headless exchange routes 75% of post-venue trading fees into ZRO buybacks and burns, and pays trading venues rebates of up to 65%.",
-      "date": "2026-08-25T16:28:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -221,16 +257,6 @@
       "link": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
       "desc": "Once valued at $2.5 billion, Copper was being marketed by investment bank Cantor Fitzgerald at around $500 million in May this year.",
       "date": "2026-08-25T13:48:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-08-25T13:19:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -776,32 +802,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Zondacrypto boss seeks leniency for testimony on political ties: Report",
-      "link": "https://cointelegraph.com/news/zondacrypto-ceo-seeks-leniency-testimony-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Przemysław Kral reportedly faces a fraud charge and is cooperating with Polish prosecutors as estimated customer losses reach $650 million.",
-      "date": "2026-08-24T14:00:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "‘Upside move in ETH was overdue,’ Tom Lee says as Bitmine buys another 32,447 ether",
       "link": "https://www.theblock.co/news/business/2026-08-24-upside-move-eth-was-overdue-tom-lee-says-bitmine-buys-more-ether-412589",
       "desc": "Bitmine's total crypto, cash, and other investments currently stand at $14.9 billion, and it owns over 4.8% of Ethereum's circulating supply.",
       "date": "2026-08-24T13:36:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K",
-      "link": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitget CEO Gracy Chen doesn’t believe the current Bitcoin rally is sustainable, and she aims to buy more BTC around the $50K mark later in 2026 or early next year.",
-      "date": "2026-08-24T13:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -872,16 +878,6 @@
       "link": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
       "desc": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
       "date": "2026-08-24T10:08:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Fasset reaches unicorn status after $68 million raise led by SBI Group",
-      "link": "https://www.theblock.co/news/business/2026-08-24-fasset-68-million-raise-sbi-group-412563",
-      "desc": "Fasset raised $68 million in Series C funding at a $1 billion valuation, expanding its cross-border stablecoin infrastructure.",
-      "date": "2026-08-24T07:56:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
