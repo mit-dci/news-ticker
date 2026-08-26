@@ -1,21 +1,36 @@
 {
-  "generatedAt": "2026-08-26T08:45:42.307Z",
+  "generatedAt": "2026-08-26T09:16:01.870Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 257,
+  "filteredOut": 256,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 9,
   "items": [
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal",
+      "link": "https://www.theblock.co/news/business/2026-08-26-revolut-begins-phased-eurr-stablecoin-rollout-in-denmark-poland-and-portugal-412772",
+      "desc": "Revolut began rolling out EURR, its first euro-pegged stablecoin, to customers in Denmark, Poland, and Portugal.",
+      "date": "2026-08-26T09:12:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
-      "link": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
-      "desc": "The Ethereum-compatible blockchain wants users to be able to replace the keys controlling an account without changing its address, opening the door to passkeys, recovery tools and post-quantum security.",
-      "date": "2026-08-25T07:01:49.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
+      "title": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
+      "link": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
+      "desc": "Japan's regulators are racing to modernize national settlement systems to prevent institutional investors and foreign capital from fleeing to overseas markets.",
+      "date": "2026-08-26T09:06:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "finextra",
@@ -24,6 +39,22 @@
       "link": "https://www.finextra.com/newsarticle/48301/revolut-rolls-out-euro-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Revolut has begun a phased rollout of its first stablecoin, euro-backed EURR, to eligible customers in Denmark, Poland, and Portugal, with wider availability in other EEA markets expected later this year.",
       "date": "2026-08-26T08:58:00.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/revolut-eurr-euro-stablecoin-europe-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
+      "link": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
+      "desc": "The privacy coin's spot ETF began NYSE trading Tuesday, which was one of the catalysts behind its surge to an eight-year high. Now traders are selling the news, with leverage stacked into the move.",
+      "date": "2026-08-26T08:51:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -60,16 +91,6 @@
       "link": "https://cointelegraph.com/news/bitcoin-etf-august-inflows-surge-past-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The funds are $390 million short of October 2025’s inflow total after cutting their year-to-date net outflow deficit by more than half.",
       "date": "2026-08-26T07:30:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei",
-      "link": "https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755",
-      "desc": "If the plan is approved, the agencies could launch the system within a few years, and fully operational in the early 2030s.",
-      "date": "2026-08-26T06:40:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -759,16 +780,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
-      "link": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
-      "desc": "Robinhood Chain-based Cash Cat jumped more than 50% in a day, while several smaller animal-themed tokens have gained between 50% and 130% over the past week.",
-      "date": "2026-08-25T06:26:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
@@ -955,16 +966,6 @@
       "link": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
       "desc": "The push comes as Hyperliquid's multi-asset perpetuals gain scale and draw scrutiny from traditional exchanges.",
       "date": "2026-08-24T16:18:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Stand With Crypto ramps up midterm push with 32 House endorsements",
-      "link": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616",
-      "desc": "Stand With Crypto is backing more than 30 House candidates as it looks to flex its political influence once more in the upcoming elections.",
-      "date": "2026-08-24T15:57:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
