@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-26T19:33:56.661Z",
+  "generatedAt": "2026-08-26T20:48:25.256Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 249,
+  "filteredOut": 246,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "decrypt",
@@ -34,17 +34,69 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-08-26T19:33:55.000Z",
+      "date": "2026-08-26T20:48:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Vikar Technologies and Swivel team on account funding for FIs",
+      "link": "https://www.finextra.com/pressarticle/110737/vikar-technologies-and-swivel-team-on-account-funding-for-fis?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Vikar Technologies, a leading provider of digital account opening and lending solutions for financial institutions (FIs), announced a strategic partnership with SWIVEL, a subsidiary of SWBC and leading fintech innovator, to integrate SWIVEL’s real-time payment processing platform into Vikar’s account opening ecosystem.",
+      "date": "2026-08-26T20:46:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "39 State Bankers Groups Join Forces to Build Industry-Owned Blockchain Network",
+      "link": "https://www.pymnts.com/blockchain/2026/39-state-bankers-groups-join-forces-to-build-industry-owned-blockchain-network/",
+      "desc": "Thirty-nine state bankers associations have formed an organization dedicated to creating a blockchain network that will be owned, designed and governed by the industry. Dubbed the BankChain Alliance, the organization is in the process of selecting a technology partner and is targeting a 2027 launch, it said in a Tuesday (Aug. 25) press release. The […] The post 39 State Bankers Groups Join Forces to Build Industry-Owned Blockchain Network appeared first on PYMNTS.com.",
+      "date": "2026-08-26T20:43:40.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Nvidia tops earnings estimates, guides to $108 billion in revenue next quarter",
+      "link": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+      "desc": "The tech bellwether reported fiscal second-quarter results after the bell on Wednesday.",
+      "date": "2026-08-26T20:24:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
-      "title": "US Banks Join Forces to Build a Blockchain of Their Own",
-      "link": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
-      "desc": "The BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027.",
-      "date": "2026-08-26T19:21:25.000Z",
+      "title": "What Traders Are Watching for Bitcoin's Next Move",
+      "link": "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
+      "desc": "Bitcoin's monster rally just hit its first real test. Here's why each catalyst matters and how they could move the price from here.",
+      "date": "2026-08-26T20:22:17.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Core Lightning Tells Node Operators To Go Offline, With No Patch Published",
+      "link": "https://thedefiant.io/news/security/core-lightning-tells-node-operators-to-go-offline-with-no-patch-published",
+      "desc": "The CLN team said operators who don’t upgrade should run their nodes --offline, but the fixed binaries aren’t out yet and the details of what they fix are under a two-week embargo.",
+      "date": "2026-08-26T20:07:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -136,7 +188,13 @@
       "link": "https://bitcoinmagazine.com/news/coinbase-better-announce-bitcoin-mortgages",
       "desc": "Bitcoin Magazine Coinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages The announcement comes after Better and Coinbase debuted the first Bitcoin-backed loan in June. This post Coinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-08-26T17:24:53.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -376,16 +434,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The 3 catalysts that could define bitcoin's next move",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
-      "desc": "Your day-ahead look for Aug. 26, 2026",
-      "date": "2026-08-26T11:02:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Supply absorption ‘key question’ as Bitcoin fails to reclaim $80K: Analysis",
@@ -454,9 +502,9 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin adds to early losses, slipping to $78,000",
+      "title": "Live updates: Bitcoin trades in tight range above $78,000 as Nvidia tops estimates",
       "link": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
-      "desc": "Markets are also looking ahead to Fed Chair Kevin Warsh's keynote speech at the Jackson Hole conference on Friday.",
+      "desc": "Markets are now looking ahead to Fed Chair Kevin Warsh's keynote speech at the Jackson Hole conference on Friday.",
       "date": "2026-08-26T08:51:18.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -851,7 +899,13 @@
       "link": "https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718",
       "desc": "The crypto-backed portfolio line of credit lets eligible GalaxyOne clients borrow cash against BTC, ETH & SOL without selling their holdings.",
       "date": "2026-08-25T16:03:42.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -941,16 +995,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
-      "link": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
-      "desc": "'Operation Lighthouse' went after child sex abuse materials, working with law enforcement to round up more than 14,000 investigative leads.",
-      "date": "2026-08-25T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Chainalysis-led operation flags 7,700 accounts in child abuse probe",
@@ -1001,26 +1045,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
-      "link": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
-      "desc": "Digital assets are among five sectors in a campaign Treasury called an “Economic D-Day,” alongside technology, gold, aviation and shipping.",
-      "date": "2026-08-25T10:21:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
-      "link": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
-      "desc": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
-      "date": "2026-08-25T09:30:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Cypher Tank Returns to Lugano, Expanding Its Bet on Bitcoin Founders",
@@ -1037,16 +1061,6 @@
       "link": "https://thedefiant.io/news/markets/bitcoin-stalls-a-cent-below-usd80-000-as-altcoins-give-back-weekend-gains",
       "desc": "Bitcoin touched $79,999.99 on Coinbase before easing, its highest level since May, while 80 of the 123 largest non-stablecoin tokens fell on the day. Total crypto market value declined even as bitcoin rose.",
       "date": "2026-08-24T21:26:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament",
-      "link": "https://bitcoinmagazine.com/news/uk-banks-blocking-bitcoin",
-      "desc": "Bitcoin Magazine UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament Bitcoin Policy UK says that 40% of bank-to-exchange transfers are being blocked in Britain. This post UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-08-24T19:56:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
