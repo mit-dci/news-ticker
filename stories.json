@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-08-27T02:36:14.188Z",
+  "generatedAt": "2026-08-27T04:48:28.694Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 247,
+  "filteredOut": 246,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 14,
   "items": [
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "First quantum-resistant Bitcoin transaction successfully executed, StarkWare says",
-      "link": "https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863",
-      "desc": "Still, StarkWare says Bitcoin needs a protocol-level upgrade to make it fully safe from quantum computing threats.",
-      "date": "2026-08-27T02:24:36.000Z",
-      "alsoAt": [],
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "StarkWare tests quantum-resistant Bitcoin transaction on mainnet",
+      "link": "https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "StarkWare said the experimental transaction demonstrated quantum-resistant Bitcoin spending without a fork, but it cost up to $200 and required direct miner submission.",
+      "date": "2026-08-27T04:14:48.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863"
+        }
+      ],
       "priorityTerm": true,
       "termBoost": 3
     },
@@ -56,7 +62,27 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-08-27T02:36:13.000Z",
+      "date": "2026-08-27T04:48:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000",
+      "link": "https://www.coindesk.com/markets/2026/08/27/lesser-tracked-bitcoin-market-dynamic-lends-credibility-to-august-surge-to-usd80-000",
+      "desc": "An indicator fundamental to understanding whether capital consistently moved in size to push prices higher is flashing green.",
+      "date": "2026-08-27T04:02:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Bitcoin treasury companies shed $80bn in value as business model unwinds",
+      "link": "https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1",
+      "desc": "Crypto hoarders have been selling tokens and reverting to former activities",
+      "date": "2026-08-27T04:00:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1036,32 +1062,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
-      "link": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
-      "desc": "Once valued at $2.5 billion, Copper was being marketed by investment bank Cantor Fitzgerald at around $500 million in May this year.",
-      "date": "2026-08-25T13:48:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Chainalysis-led operation flags 7,700 accounts in child abuse probe",
       "link": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Operation Lighthouse generated 14,300 investigative leads across 11 crypto exchanges and payment services and flagged over 7,700 suspect accounts.",
       "date": "2026-08-25T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "India plans first tokenized bonds using wholesale CBDC: Report",
-      "link": "https://cointelegraph.com/news/india-tokenized-bonds-digital-rupee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "India plans to test tokenized corporate bonds in a September pilot, with state-controlled REC issuing the debt and select investors using wholesale CBDC payments.",
-      "date": "2026-08-25T12:09:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
