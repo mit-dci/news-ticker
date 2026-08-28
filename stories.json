@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-28T11:51:18.691Z",
+  "generatedAt": "2026-08-28T16:08:21.316Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 255,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "bitcoinmag",
@@ -24,6 +24,17 @@
       "termBoost": 3
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "StarkWare Says it Confirmed a Quantum Safe Bitcoin Transaction on Mainnet",
+      "link": "https://thedefiant.io/news/blockchains/starkware-says-is-confirmed-a-quantum-safe-bitcoin-transaction-on-mainnet",
+      "desc": "The onchain record confirms a 10,000-satoshi input and 5,179-satoshi fee; claims about quantum resistance come from StarkWare and the method’s author.",
+      "date": "2026-08-27T16:36:31.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
+    {
       "source": "bitcoinops",
       "sourceName": "BITCOIN OPTECH",
       "title": "Bitcoin Optech Newsletter #420",
@@ -34,40 +45,208 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "StarkWare tests quantum-resistant Bitcoin transaction on mainnet",
-      "link": "https://cointelegraph.com/news/starkware-quantum-resistant-bitcoin-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "StarkWare said the experimental transaction demonstrated quantum-resistant Bitcoin spending without a fork, but it cost up to $200 and required direct miner submission.",
-      "date": "2026-08-27T04:14:48.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/blockchains/starkware-says-is-confirmed-a-quantum-safe-bitcoin-transaction-on-mainnet"
-        }
-      ],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch",
-      "link": "https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A new Bitcoin Improvement Proposal for the SHRINCS signature scheme has just been published to upgrade Bitcoin to quantum secure. Here’s everything you need to know.",
-      "date": "2026-08-27T01:26:54.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-08-28T11:51:16.000Z",
+      "date": "2026-08-28T16:08:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SEC Crypto Custody Rewrite Enters White House Review",
+      "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
+      "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
+      "date": "2026-08-28T16:08:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Bitcoin Drops Before Shrugging Off Fed Chair’s Inflation Comments",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments",
+      "desc": "Bitcoin Magazine Bitcoin Drops Before Shrugging Off Fed Chair’s Inflation Comments Bitcoin dropped, then popped after Federal Reserve Chair Kevin Warsh gave his first major speech as head of the U.S. central bank and said he had “more work to do” to fight inflation. The leading cryptocurrency was recently trading for $79,474 after dropping as low as $78,630 before quickly rising again. Bitcoin has typically done […] This post Bitcoin Drops Before Shrugging Off Fed Chair’s Inflation Comments first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-08-28T15:49:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitwise Solana ETF Is First to Cross $1 Billion",
+      "link": "https://thedefiant.io/converge/markets/bitwise-solana-etf-is-first-to-cross-1-billion",
+      "desc": "Glassnode reported $138 million of Solana ETF inflows over 10 days, while BSOL captured nearly four-fifths of cumulative flows among six products tracked by Farside.",
+      "date": "2026-08-28T15:47:27.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/markets/2026-08-28-bitwise-fund-is-first-solana-etf-to-hit-1-billion-aum-413035"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Solana Validators Approve Doubling Disinflation in First Governance Vote, With Kraken Reversing Late",
+      "link": "https://thedefiant.io/news/blockchains/solana-validators-approve-doubling-disinflation-in-first-governance-vote-with-kraken-reversing",
+      "desc": "SGP-0002 passed with 176.29 million SOL in favor against 66.19 million opposed, hours after Kraken's largest validator switched roughly 8.1 million SOL from against to for.",
+      "date": "2026-08-28T15:32:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
+      "link": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin failed to make a decisive break above $80,000 as traders digested Fed Chair Kevin Warsh’s Jackson Hole keynote speech, which remained wary of US inflation trends.",
+      "date": "2026-08-28T15:31:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Traders Watch Fed Chair Warsh for Clues—And Get Nothing",
+      "link": "https://decrypt.co/376813/bitcoin-traders-watch-fed-chair-warsh-for-clues-and-get-nothing",
+      "desc": "Fed Chair Warsh's first Jackson Hole keynote doubled down on giving markets zero rate hints as inflation runs hot and Bitcoin traders wait on September's call.",
+      "date": "2026-08-28T15:14:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bybit launches 24/7 options on stock perpetuals, starting with SpaceX and Nvidia",
+      "link": "https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032",
+      "desc": "Beginning Sept. 17, Bybit users will be able to trade 24/7 options on SPCX and NVDA, with fractional lots and USDT settlement.",
+      "date": "2026-08-28T14:44:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
+      "link": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
+      "desc": "The deal to buy NYDIG IF Holdings comprises $7 million in cash and around $35.5 million in stock, as well as the $15 earnout.",
+      "date": "2026-08-28T14:37:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ethena Plans Equity-Perpetual Basis Trades for USDe Backing",
+      "link": "https://thedefiant.io/news/defi/ethena-plans-equity-perpetual-basis-trades-for-usde-backing",
+      "desc": "The announced rollout is still forthcoming, with the first partner exchange announcements and deployments expected in the coming weeks.",
+      "date": "2026-08-28T14:26:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
+      "link": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
+      "desc": "Nine straight sessions have brought in $1.4 billion, with Thursday marking the funds' strongest day in 10 months.",
+      "date": "2026-08-28T14:17:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
+      "link": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
+      "desc": "Warsh's highly anticipated remarks at the Kansas City Fed's annual symposium Friday morning leaned hawkish, prompting traders to quickly raise bets on a September rate hike.",
+      "date": "2026-08-28T14:05:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push",
+      "link": "https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023",
+      "desc": "Ajaib offers crypto and stablecoins alongside traditional investments, including OTC settlement services for institutional clients.",
+      "date": "2026-08-28T13:32:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
+      "link": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Polish Olympic Committee president Radosław Piesiewicz faces charges as prosecutors investigate his ties to collapsed cryptocurrency exchange Zondacrypto.",
+      "date": "2026-08-28T13:16:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The Clarity Act slipped to September. Banks are building anyway",
+      "link": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway",
+      "desc": "But every month without settled rules quietly rewards the walled garden, writes Matter Labs’ Vassilis Tziokas.",
+      "date": "2026-08-28T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-08-28T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
+      "link": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
+      "desc": "The issuer of the $4 billion USDe token said it expects real-world asset perpetuals to eclipse crypto derivatives in its backing within 12 to 24 months.",
+      "date": "2026-08-28T12:30:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+      "link": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
+      "desc": "The Japanese financial giant is acquiring a 20% stake in the Indonesian online brokerage to build a cross-border, blockchain-based settlement network.",
+      "date": "2026-08-28T12:18:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Morning Minute: Solana Jumps with Network Inflation Set to Drop",
+      "link": "https://decrypt.co/376800/morning-minute-solana-jumps-with-network-inflation-set-to-drop",
+      "desc": "Two majors proposals are set to pass, its leading DATs are back, and Schwab is offering SOL to its clients—quite the setup for Solana.",
+      "date": "2026-08-28T12:13:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "California Senate passes bill to ban memecoin issuance by public officials",
+      "link": "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The bill seeks to prohibit the listing of memecoins issued by federal public officials to California residents, citing conflicts of interest and “pay-to-play arrangements.”",
+      "date": "2026-08-28T12:09:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -200,9 +379,9 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Markets turn cautious before Warsh speech as bitcoin loses overnight gains",
+      "title": "Live updates: Bitcoin trading near $79,000 following Warsh's hawkish Jackson Hole remarks",
       "link": "https://www.coindesk.com/business/2026/08/28/live-updates-bitcoin-options-worth-usd6-4-billion-just-expired-as-prices-hover-near-usd80-000",
-      "desc": "Treasury yields rose across the U.S. and Europe as investors brace for a hawkish tone",
+      "desc": "\"We have work to do,\" on prices, said Warsh in his highly anticipated keynote address at the Kansas City Fed's annual symposium.",
       "date": "2026-08-28T09:09:07.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -234,16 +413,6 @@
       "link": "https://www.coindesk.com/tech/2026/08/28/solana-s-faster-supply-cuts-lead-vote-while-usd800-000-daily-burn-plan-trails",
       "desc": "All three proposals have cleared quorum, but a plan to slow new SOL creation is only narrowly passing while a separate vote to sharply increase token burns remains below the two-thirds support needed.",
       "date": "2026-08-28T06:22:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-08-28T05:50:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -582,6 +751,16 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
+      "title": "Coinbase and Better Take Bitcoin-Backed Mortgages Beyond the Waitlist",
+      "link": "https://thedefiant.io/converge/cefi/coinbase-and-better-take-bitcoin-backed-mortgages-beyond-the-waitlist",
+      "desc": "The product pairs a conventional home loan with a separate downpayment loan secured by pledged bitcoin and a second lien on the property.",
+      "date": "2026-08-27T14:53:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
       "title": "Schwab Crypto to Add SOL, AVAX and LINK to Bitcoin-and-Ether Lineup",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/schwab-crypto-to-add-sol-avax-and-link-to-bitcoin-and-ether-lineup",
       "desc": "The retail platform began rolling out in May, while a separate advisor-channel crypto service is targeted for mid-2027.",
@@ -596,26 +775,6 @@
       "link": "https://decrypt.co/376690/flock-ceo-asks-americans-to-compromise-on-privacy-as-camera-backlash-grows",
       "desc": "Garrett Langley says 99.9% of police are good actors, days after a report identified at least 69 officials accused of misusing plate readers.",
       "date": "2026-08-27T14:33:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Clearing firm RQD* raises $74 million as Wall Street prepares for tokenized markets",
-      "link": "https://www.coindesk.com/business/2026/08/27/clearing-firm-rqd-raises-usd74-million-as-wall-street-prepares-for-tokenized-markets",
-      "desc": "Bain Capital led the investment in the U.S. clearing and custody firm, which plans to expand its digital asset and tokenization infrastructure.",
-      "date": "2026-08-27T14:32:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto traders brace for Fed Chair Kevin Warsh’s Jackson Hole speech",
-      "link": "https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech",
-      "desc": "One analyst expects Warsh to take a tough line on inflation, but still sees the Fed holding off on rate hikes until at least after the November mid-term elections.",
-      "date": "2026-08-27T14:01:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -670,16 +829,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The Clarity Act will put Main Street banks at a disadvantage",
-      "link": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage",
-      "desc": "The Blockchain Association’s Summer Mersinger dismisses the harm to community banks in defending the stablecoin rewards language in the Clarity Act, says community banker Nate Franzén.",
-      "date": "2026-08-27T12:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar",
@@ -696,16 +845,6 @@
       "link": "https://www.theblock.co/news/markets/2026-08-27-blackrocks-mitchnick-says-bitcoins-risk-off-narrative-is-the-one-to-bet-on-long-term-as-rally-consolidates-near-80000-412897",
       "desc": "Renewed spot ETF inflows and bitcoin's declining correlation with equities are also constructive signs, according to analysts.",
       "date": "2026-08-27T12:00:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
-      "link": "https://www.coindesk.com/business/2026/08/27/mirae-asset-eyes-usd109-billion-crypto-empire-after-acquiring-digital-x",
-      "desc": "Park Hyeon-joo, Mirae Asset Financial Group’s founder, outlined his ambitious stablecoin, RWAs, and STOs plan for Digital X, formerly known as Korbit, in an event for his employees.",
-      "date": "2026-08-27T11:37:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -740,16 +879,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bithumb wins lawsuit over proceeds from 620,000 BTC fat-finger error: report",
-      "link": "https://www.theblock.co/news/regulation/2026-08-27-bithumb-wins-lawsuit-btc-412893",
-      "desc": "In February, the South Korean exchange accidentally credited 620,000 BTC (then worth around $43 billion) internally to hundreds of users.",
-      "date": "2026-08-27T09:37:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bithumb wins 2 suits over mistaken Bitcoin credits: Report",
@@ -760,32 +889,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Mirae Asset maps out $109 billion digital asset push with Digital X: report",
-      "link": "https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883",
-      "desc": "South Korea's Mirae Asset targets a $109 billion digital asset business around Digital X, aiming for profitability by 2027.",
-      "date": "2026-08-27T08:21:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Core Lightning confirms multiple vulnerabilities, prepares security update",
       "link": "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Core Lightning advised operators to use offline mode if they do not install the forthcoming update, keeping their nodes active but disconnected.",
       "date": "2026-08-27T08:05:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin faces key hurdle in $81,000-$86,000 range to reach January high, analyst says",
-      "link": "https://www.theblock.co/news/markets/2026-08-27-bitcoin-faces-key-hurdle-81000-86000-412876",
-      "desc": "Glassnode views $81,000–$86,000 as the wall, as that is where a large group of long-term holders sits near breakeven, among other factors.",
-      "date": "2026-08-27T08:01:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -816,16 +925,6 @@
       "link": "https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Dallas Fed economists said faster, programmable deposits could make bank funding less stable, potentially pushing lenders toward more expensive funding.",
       "date": "2026-08-27T06:39:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Bitcoin treasury companies shed $80bn in value as business model unwinds",
-      "link": "https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1",
-      "desc": "Crypto hoarders have been selling tokens and reverting to former activities",
-      "date": "2026-08-27T04:00:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -936,93 +1035,6 @@
       "link": "https://thedefiant.io/news/nfts-and-web3/unstoppable-skips-icann-round-refunds-web3-domains",
       "desc": "Founder Matthew Gould said the cost of taking web3 strings through ICANN was higher than what the company expected to recover in sales, six months after telling customers it would apply for all six of its original extensions.",
       "date": "2026-08-26T18:33:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'",
-      "link": "https://decrypt.co/376619/solana-treasury-sol-data-beyond-price",
-      "desc": "Nasdaq-listed SOL treasury company DeFi Development Corp launched a free network dashboard on Wednesday. Its pitch: judge Solana on more than just price.",
-      "date": "2026-08-26T17:52:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Chainalysis estimates $457B in taxable crypto activity, says CARF misses most",
-      "link": "https://cointelegraph.com/news/chainalysis-estimates-457b-in-potentially-taxable-crypto-activity-says-carf-misses-most-onchain-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The blockchain analytics firm said just 14% of the onchain activity it identified is covered by the OECD’s international crypto tax-reporting framework.",
-      "date": "2026-08-26T17:48:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Coinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages",
-      "link": "https://bitcoinmagazine.com/news/coinbase-better-announce-bitcoin-mortgages",
-      "desc": "Bitcoin Magazine Coinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages The announcement comes after Better and Coinbase debuted the first Bitcoin-backed loan in June. This post Coinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-08-26T17:24:53.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/cefi/coinbase-and-better-take-bitcoin-backed-mortgages-beyond-the-waitlist"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User",
-      "link": "https://decrypt.co/376631/the-government-doesnt-own-our-data-prosecuted-grapheneos-user",
-      "desc": "Samuel Tunick, facing five years over a wiped phone, said he was secretly placed on a watch list as a suspected terrorist.",
-      "date": "2026-08-26T17:24:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
-      "link": "https://decrypt.co/376617/crypto-ceo-extradition-20-million-scheme",
-      "desc": "Manpreet Kohli, accused of making $20 million from an alleged scheme to manipulate the Saitama token, is a step closer to facing trial in Boston.",
-      "date": "2026-08-26T17:15:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "SEC sends crypto custody rule overhaul to White House for review",
-      "link": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The securities regulator’s crypto custody overhaul could clarify how investment advisers and funds hold digital assets for clients as the proposal moves through review.",
-      "date": "2026-08-26T16:19:09.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
-      "link": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
-      "desc": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
-      "date": "2026-08-26T16:18:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
