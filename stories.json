@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-28T07:35:45.747Z",
+  "generatedAt": "2026-08-28T11:51:18.691Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 249,
+  "filteredOut": 255,
   "errors": [],
   "dupsMerged": 8,
   "items": [
@@ -13,20 +13,25 @@
       "link": "https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction",
       "desc": "Bitcoin Magazine No Fork Required: Bitcoin’s First Quantum-Safe Transaction Just Happened The first post-quantum Bitcoin transaction was broadcast this week. At Bitcoin Asia, the Sharknet Foundation explained how it was done. This post No Fork Required: Bitcoin’s First Quantum-Safe Transaction Just Happened first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-08-27T18:48:16.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware"
+        }
+      ],
       "priorityTerm": true,
       "termBoost": 3
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "StarkWare Says it Confirmed a Quantum Safe Bitcoin Transaction on Mainnet",
-      "link": "https://thedefiant.io/news/blockchains/starkware-says-is-confirmed-a-quantum-safe-bitcoin-transaction-on-mainnet",
-      "desc": "The onchain record confirms a 10,000-satoshi input and 5,179-satoshi fee; claims about quantum resistance come from StarkWare and the method’s author.",
-      "date": "2026-08-27T16:36:31.000Z",
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #420",
+      "link": "https://bitcoinops.org/en/newsletters/2026/08/28/",
+      "desc": "This week’s newsletter relays advance notice of a planned Core Lightning security release, summarizes a discussion about opt-in replay protection for potential future forks, notes that the Hardware Wallet Interface (HWI) project will enter maintenance mode, and describes a request for comments on using block-range filters. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-08-28T00:00:00.000Z",
       "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -37,14 +42,9 @@
       "date": "2026-08-27T04:14:48.000Z",
       "alsoAt": [
         {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/defi/2026-08-26-first-quantum-resistant-bitcoin-transaction-starkware-412863"
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/blockchains/starkware-says-is-confirmed-a-quantum-safe-bitcoin-transaction-on-mainnet"
         }
       ],
       "priorityTerm": true,
@@ -67,7 +67,153 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-08-28T07:35:43.000Z",
+      "date": "2026-08-28T11:51:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
+      "link": "https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The French Bitcoin treasury firm’s private placement drew support from Adam Back and TOBAM, with warrant exercises potentially unlocking another $158 million.",
+      "date": "2026-08-28T11:36:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "UK Police Seize $1.4M in Bitcoin Traced to Shuttered Darknet Markets",
+      "link": "https://decrypt.co/376797/uk-police-seize-1-4m-in-bitcoin-traced-to-shuttered-darknet-markets",
+      "desc": "The 20.21 BTC was linked to marketplaces running between 2016 and 2019, and the man who held it died before it was forfeited.",
+      "date": "2026-08-28T11:34:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO",
+      "link": "https://cointelegraph.com/markets/bitcoin-bear-market-over-as-price-metric-copies-2023-recovery-cryptoquant-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin profitability data produced a bear-market reversal signal that was also present at the start of 2023.",
+      "date": "2026-08-28T11:22:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Circle's USDC takes over Chelsea's jersey in Premier League first sponsorship deal",
+      "link": "https://www.coindesk.com/business/2026/08/28/circle-s-usdc-takes-over-chelsea-s-jersey-in-premier-league-first",
+      "desc": "Financials were not disclosed, though reports from earlier this year suggested Chelsea was targeting 65 million pounds a year ($88.3 million) for the sponsorship berth.",
+      "date": "2026-08-28T11:09:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "240 Crypto Millionaires Booked Over Half of Britain's Taxable Crypto Gains",
+      "link": "https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains",
+      "desc": "HMRC's first breakdown shows 17,600 people declared £1.38 billion, most of them under 55 and 87% of them men.",
+      "date": "2026-08-28T11:03:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC",
+      "link": "https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002",
+      "desc": "The shirt design prominently features USDC by Circle on Chelsea's men's, women's, and academy shirts beginning this season.",
+      "date": "2026-08-28T11:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin hits highest level in 3 months before pulling back as altcoins consolidate",
+      "link": "https://www.coindesk.com/markets/2026/08/28/bitcoin-hits-highest-level-in-3-months-before-pulling-back-as-altcoins-consolidate",
+      "desc": "BTC briefly touched $81,455 overnight, its highest since May 15 as Nasdaq futures slipped and gold extended gains heading into the weekend.",
+      "date": "2026-08-28T10:37:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
+      "link": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
+      "desc": "Following a deal with Shinhan Financial, the global payments giant is widening its footprint in Asia’s major crypto hub through South Korea's largest exchange.",
+      "date": "2026-08-28T10:21:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Latest annual UK tax data shows 240 people reported more than £1 million in crypto capital gains",
+      "link": "https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993",
+      "desc": "HMRC data shows 240 people reported more than £1 million ($1.36 million) each in crypto gains as UK tax scrutiny intensifies.",
+      "date": "2026-08-28T09:37:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Pakistan Built Its Crypto Regulatory Regime Using Just 8% of Its Budget, Minister Bilal Bin Saqib Reveals at Bitcoin Asia",
+      "link": "https://bitcoinmagazine.com/markets/pakistan-built-its-crypto-regulatory-regime-using-just-8-of-its-budget-minister-bilal-bin-saqib-reveals-at-bitcoin-asia",
+      "desc": "Bitcoin Magazine Pakistan Built Its Crypto Regulatory Regime Using Just 8% of Its Budget, Minister Bilal Bin Saqib Reveals at Bitcoin Asia Pakistan has launched its virtual asset regulatory regime in less than six months while using just 8% of the budget allocated to build it, according to Bilal Bin Saqib, the country’s Minister of State and Chairman of the Pakistan Virtual Assets Regulatory Authority (PVARA). Speaking at Bitcoin Asia in Hong Kong on August 28, Saqib […] This post Pakistan Built Its Crypto Regulatory Regime Using Just 8% of Its Budget, Minister Bilal Bin Saqib Reveals at Bitcoin Asia first appeared on Bitcoin Magazine and is written by Nik.",
+      "date": "2026-08-28T09:22:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BitGo buys NYDIG trading arm to deepen institutional crypto push",
+      "link": "https://cointelegraph.com/news/bitgo-nydig-trading-arm-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "BitGo completed its acquisition of NYDIG’s institutional trading business, adding about 30 employees and expanding its derivatives and financing capabilities.",
+      "date": "2026-08-28T09:21:44.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-08-27-bitgo-buys-nydig-institutional-trading-412975"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Kraken users briefly locked out after a flood of sanctioned crypto transactions",
+      "link": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions",
+      "desc": "The activity, appearing to spread sanctioned funds to trigger account restrictions, occurred between Aug. 17 and Aug. 24.",
+      "date": "2026-08-28T09:10:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Markets turn cautious before Warsh speech as bitcoin loses overnight gains",
+      "link": "https://www.coindesk.com/business/2026/08/28/live-updates-bitcoin-options-worth-usd6-4-billion-just-expired-as-prices-hover-near-usd80-000",
+      "desc": "Treasury yields rose across the U.S. and Europe as investors brace for a hawkish tone",
+      "date": "2026-08-28T09:09:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app",
+      "link": "https://cointelegraph.com/news/onekey-transaction-replacement-attack-old-version-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "OneKey said it reproduced an exploit against an older version of the Ledger app in its lab environment, which Ledger fixed in its Ethereum app 1.22.2, with no user funds lost.",
+      "date": "2026-08-28T08:21:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -142,33 +288,12 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
-      "link": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
-      "desc": "The proposal would let validator keys grow to 8,192 bytes and adds a switch that permanently retires today's BLS signatures.",
-      "date": "2026-08-26T15:04:58.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "XRP treasury firm Evernorth says SEC registration now effective, clearing way for Nasdaq listing",
       "link": "https://www.theblock.co/news/deals/2026-08-27-evernorth-xrp-sec-effective-412981",
       "desc": "The S-4 registration statement is for Evernorth's merger with SPAC firm Armada, through which it seeks a Nasdaq listing.",
       "date": "2026-08-28T02:30:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "BitGo buys NYDIG’s institutional trading business, expanding derivatives offering",
-      "link": "https://www.theblock.co/news/business/2026-08-27-bitgo-buys-nydig-institutional-trading-412975",
-      "desc": "With the transaction, around 30 NYDIG employees have joined BitGo, along with their institutional trading relationships.",
-      "date": "2026-08-28T01:11:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -209,16 +334,6 @@
       "link": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The transaction used the Marshall Islands-issued USDM1 bond as collateral and completed the full repo cycle on the Canton Network in under 10 minutes.",
       "date": "2026-08-27T20:39:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Bitcoin Climbs Past $80,000 as Wall Street Returns",
-      "link": "https://www.pymnts.com/blockchain/bitcoin/2026/bitcoin-climbs-past-80000-as-wall-street-returns/",
-      "desc": "Bitcoin climbed above $80,000 this week for the first time since May, with renewed demand from institutional investors and improving interest from retail investors, Bloomberg reported Thursday (Aug. 27). The report attributed Bitcoin’s recovery to a “brighter mood” in speculative markets, a retail appetite for risk that is also driving interest in artificial intelligence investments, and a […] The post Bitcoin Climbs Past $80,000 as Wall Street Returns appeared first on PYMNTS.com.",
-      "date": "2026-08-27T20:24:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -595,16 +710,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin experts prefer this defined-risk strategy for the next leg higher in prices",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/27/bitcoin-experts-prefer-this-defined-risk-strategy-for-the-next-leg-higher-in-prices",
-      "desc": "Your day-ahead look for Aug. 27, 2026",
-      "date": "2026-08-27T11:11:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bank of England Handed New Legal Duty to Foster Stablecoin Innovation",
@@ -615,52 +720,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin tests its largest supply wall at $80,000, near ETF holders’ average price",
-      "link": "https://www.coindesk.com/markets/2026/08/27/bitcoin-tests-its-largest-supply-wall-at-usd80-000-near-etf-holders-average-price",
-      "desc": "Bitcoin is testing its largest supply cluster alongside the key 50-week moving average.",
-      "date": "2026-08-27T10:54:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Unstoppable Domains drops $2 million plan to bring .crypto and .bitcoin to standard internet",
-      "link": "https://www.coindesk.com/web3/2026/08/27/unstoppable-domains-drops-usd2-million-plan-to-bring-crypto-and-bitcoin-to-standard-internet",
-      "desc": "The abandoned bids would have cost over $2 million in base fees alone, leading the firm to prioritize financial viability over broader internet adoption.",
-      "date": "2026-08-27T10:51:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin ETFs Draw $2.8B in Eight-Day Streak as BTC Tests $80K",
       "link": "https://decrypt.co/376683/bitcoin-etfs-draw-2-8b-in-eight-day-streak-as-btc-tests-80k",
       "desc": "August is heading for its strongest month of inflows since October 2025 if the pace holds, one analyst noted.",
       "date": "2026-08-27T10:39:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin steadies above $79,000 as ETF inflows hit longest streak since April",
-      "link": "https://www.coindesk.com/markets/2026/08/27/bitcoin-steadies-above-usd79-000-as-etf-inflows-hit-longest-streak-since-april",
-      "desc": "BTC held its ground Thursday as spot bitcoin ETFs logged an eighth straight day of net inflows, while altcoins drifted lower across the board.",
-      "date": "2026-08-27T10:31:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitfinex Securities raises $50 million in push to offer tokenized nickel trading",
-      "link": "https://www.coindesk.com/business/2026/08/27/bitfinex-securities-raises-usd50-million-in-push-to-offer-tokenized-nickel-trading",
-      "desc": "Bitfinex Securities is preparing to list a new security linked to a Luxembourg-based industrial metals platform built around a $1.6 billion stockpile of high-purity nickel wire.",
-      "date": "2026-08-27T10:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -691,26 +756,6 @@
       "link": "https://cointelegraph.com/news/bithumb-wins-suits-mistakenly-credited-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bithumb reportedly won first-instance rulings in two suits seeking proceeds from users who sold Bitcoin credited in its $40 billion error.",
       "date": "2026-08-27T09:26:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week",
-      "link": "https://www.coindesk.com/markets/2026/08/27/blackrock-s-mitchnick-says-macro-case-for-bitcoin-is-strengthening-after-record-trading-in-positive-week",
-      "desc": "BlackRock's head of digital assets shared his outlook for bitcoin after the company's spot BTC ETF, IBIT, hit record volume for a positive week.",
-      "date": "2026-08-27T09:19:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Britain plans new Bank of England objective for stablecoins",
-      "link": "https://www.coindesk.com/policy/2026/08/27/britain-plans-new-bank-of-england-objective-for-stablecoins",
-      "desc": "Financial stability would remain its primary duty, with annual reports to Parliament on the new objective being planned.",
-      "date": "2026-08-27T09:03:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -831,16 +876,6 @@
       "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-receive-billions-in-new-cash",
       "desc": "Bitcoin Magazine Billions Pour Into Bitcoin ETFs as Rally Rolls On The popular investment vehicles have continued to receive new cash the past couple of days after last week's huge run. Will it last? This post Billions Pour Into Bitcoin ETFs as Rally Rolls On first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-08-26T20:56:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Vikar Technologies and Swivel team on account funding for FIs",
-      "link": "https://www.finextra.com/pressarticle/110737/vikar-technologies-and-swivel-team-on-account-funding-for-fis?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Vikar Technologies, a leading provider of digital account opening and lending solutions for financial institutions (FIs), announced a strategic partnership with SWIVEL, a subsidiary of SWBC and leading fintech innovator, to integrate SWIVEL’s real-time payment processing platform into Vikar’s account opening ecosystem.",
-      "date": "2026-08-26T20:46:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -966,58 +1001,13 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
-      "link": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
-      "desc": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
-      "date": "2026-08-26T16:18:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "77% of Americans see crypto in retirement plans as risky: Survey",
-      "link": "https://cointelegraph.com/news/77-of-americans-see-crypto-in-retirement-plans-as-risky-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A new survey finds broad skepticism toward crypto in workplace retirement plans as US policymakers move to expand access to alternative assets.",
-      "date": "2026-08-26T16:10:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Hyperliquid Policy Center, TradeXYZ urge CFTC to create path for US oil perpetuals",
-      "link": "https://www.theblock.co/news/regulation/2026-08-26-hyperliquid-policy-center-tradexyz-urges-cftc-create-path-us-oil-perpetuals-412834",
-      "desc": "The CFTC should adopt a regulatory framework for energy perpetual contracts, the Hyperliquid Policy Center and TradeXYZ said in a letter.",
-      "date": "2026-08-26T16:06:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally",
-      "link": "https://decrypt.co/376601/xrp-price-leverage-unwind-tests-rally",
-      "desc": "XRP led losses among the 10 biggest cryptocurrencies today. The charts show the real test for its rally is only getting started.",
-      "date": "2026-08-26T15:29:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "SEC Sends Proposal to White House To Modernize Crypto Custody",
-      "link": "https://bitcoinmagazine.com/news/sec-sends-crypto-custody-proposal",
-      "desc": "Bitcoin Magazine SEC Sends Proposal to White House To Modernize Crypto Custody A vote on the Clarity Act has stalled but regulators are pushing ahead with policy regardless. This post SEC Sends Proposal to White House To Modernize Crypto Custody first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-08-26T15:29:13.000Z",
+      "title": "SEC sends crypto custody rule overhaul to White House for review",
+      "link": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The securities regulator’s crypto custody overhaul could clarify how investment advisers and funds hold digital assets for clients as the proposal moves through review.",
+      "date": "2026-08-26T16:19:09.000Z",
       "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
         {
           "source": "THE DEFIANT",
           "sourceId": "defiant",
@@ -1027,52 +1017,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Protocol upgrade decouples consensus from execution to solve scaling bottlenecks",
-      "link": "https://cointelegraph.com/ecosystem/protocol-upgrade-decouples-consensus-from-execution-to-solve-scaling-bottlenecks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "CTDG Dev Hub participant’s protocol upgrade decouples consensus from execution, allowing network nodes to reach agreement on blocks before transaction execution completes.",
-      "date": "2026-08-26T15:04:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "SEC’s proposed crypto rules probably won’t spark new ICO boom",
-      "link": "https://cointelegraph.com/magazine/the-sec-wants-to-bring-back-icos-theres-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The SEC’s ‘regulation crypto assets’ proposals could create early-round FOMO. But some tokens may still fall into the no-man’s land between security and non-security.",
-      "date": "2026-08-26T13:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Students want crypto classes but learn on social media: OKX survey",
-      "link": "https://cointelegraph.com/news/students-crypto-classes-learn-social-media-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A separate review found only about 28% of accredited US business schools offered blockchain courses, despite strong demand in the OKX poll.",
-      "date": "2026-08-26T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
-      "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
-      "link": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
-      "desc": "Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could.",
-      "date": "2026-08-26T12:51:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak",
-      "link": "https://cointelegraph.com/markets/bernstein-predicts-bitcoin-reclaim-125000-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bernstein expects Bitcoin to reclaim $125,000 by late 2026, before reaching $300,000 in 2029 under its base case, with a bull case of $500,000.",
-      "date": "2026-08-26T12:32:36.000Z",
+      "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
+      "link": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
+      "desc": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
+      "date": "2026-08-26T16:18:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
