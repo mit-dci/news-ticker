@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-29T18:35:29.305Z",
+  "generatedAt": "2026-08-29T19:06:52.694Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 283,
+  "filteredOut": 286,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "coindesk",
@@ -23,7 +23,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-08-29T18:35:27.000Z",
+      "date": "2026-08-29T19:06:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -33,7 +33,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-08-29T18:35:27.000Z",
+      "date": "2026-08-29T19:06:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -109,6 +109,17 @@
       "termBoost": 0
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Completes First Experimental Quantum-Safe Transaction, Starkware Says",
+      "link": "https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware",
+      "desc": "The transaction used Bitcoin’s existing rules to protect funds from a future quantum attack without requiring a network upgrade.",
+      "date": "2026-08-27T22:36:04.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Stablecoins not credible for payments at scale, BIS chief says",
@@ -117,23 +128,6 @@
       "date": "2026-08-29T08:01:04.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "No Fork Required: Bitcoin’s First Quantum-Safe Transaction Just Happened",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-quantum-resistant-transaction",
-      "desc": "Bitcoin Magazine No Fork Required: Bitcoin’s First Quantum-Safe Transaction Just Happened The first post-quantum Bitcoin transaction was broadcast this week. At Bitcoin Asia, the Sharknet Foundation explained how it was done. This post No Fork Required: Bitcoin’s First Quantum-Safe Transaction Just Happened first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-08-27T18:48:16.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware"
-        }
-      ],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "cointelegraph",
@@ -758,26 +752,6 @@
       "link": "https://bitcoinmagazine.com/news/bitcoin-rises-ahead-of-fed-meeting",
       "desc": "Bitcoin Magazine Bitcoin Again Flirts With $81,000 Ahead of Fed’s Jackson Hole Meeting Bitcoin's price is up ahead of Kevin Warsh’s first major speech as chairman of the Federal Reserve. This post Bitcoin Again Flirts With $81,000 Ahead of Fed’s Jackson Hole Meeting first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-08-27T19:38:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
-      "link": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The South Korean financial group plans to build a $109 billion digital asset business spanning crypto, stablecoins and tokenized assets, according to The Korea Times.",
-      "date": "2026-08-27T19:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows",
-      "link": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "ZEC has climbed roughly 19-fold in a year, yet Grayscale says its sub-1% share of Bitcoin’s market cap leaves room for further upside.",
-      "date": "2026-08-27T18:51:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
