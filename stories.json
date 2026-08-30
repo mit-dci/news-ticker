@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T22:08:00.921Z",
+  "generatedAt": "2026-08-30T22:33:30.799Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 340,
+  "filteredOut": 339,
   "errors": [],
-  "dupsMerged": 1,
+  "dupsMerged": 2,
   "items": [
     {
       "source": "defiant",
@@ -12,7 +12,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-08-30T22:08:00.000Z",
+      "date": "2026-08-30T22:33:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,8 +22,24 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-08-30T22:08:00.000Z",
+      "date": "2026-08-30T22:33:30.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+      "link": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
+      "desc": "The Austin and Kyoto hard forks, deployed quietly on the Bor and Heimdall clients before public disclosure, closed denial-of-service and consensus-hardening flaws that Polygon says were never exploited.",
+      "date": "2026-08-30T22:31:04.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -140,16 +156,6 @@
       "link": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
       "desc": "The affected tokens make up about 4% of FOGO's genesis supply and were worth about $3 million at the time of the incident.",
       "date": "2026-08-29T21:16:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Polygon discloses security flaws fixed in recent hard forks",
-      "link": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.",
-      "date": "2026-08-29T20:28:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
