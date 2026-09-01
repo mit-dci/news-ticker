@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T14:10:06.413Z",
+  "generatedAt": "2026-09-01T14:36:22.769Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 273,
+  "filteredOut": 271,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "defiant",
@@ -12,7 +12,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-01T14:10:05.000Z",
+      "date": "2026-09-01T14:36:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,17 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-01T14:10:05.000Z",
+      "date": "2026-09-01T14:36:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin and gold move in lockstep as debasement trade gains more steam",
+      "link": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137",
+      "desc": "Bitcoin's 90-day Pearson correlation coefficient with gold hits all-time high while the Fear and Greed Index sits at 68.",
+      "date": "2026-09-01T14:26:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -37,22 +47,22 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Fake Claude desktop app spreads crypto-stealing malware",
+      "link": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "RevStealer targets more than 50 crypto wallets alongside browser passwords, cookies, messaging data and selected documents.",
+      "date": "2026-09-01T14:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
       "link": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
       "desc": "The protocol aims to give fintechs and investors a faster way to recover losses from DeFi hacks, while letting XRP, bitcoin and XLM holders earn yield by backing that protection.",
       "date": "2026-09-01T13:56:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Fake Claude desktop app spreads crypto-stealing malware",
-      "link": "https://cointelegraph.com/news/fake-claude-desktop-app-spreads-crypto-stealing-malware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "RevStealer targets more than 50 crypto wallets alongside browser passwords, cookies, messaging data and selected documents.",
-      "date": "2026-09-01T13:56:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -199,7 +209,13 @@
       "link": "https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225",
       "desc": "Ethena Labs has launched the beta of Ethena Pay, a new self-custodial money app built on Avalanche, across 48 countries.",
       "date": "2026-09-01T12:00:02.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/defi/ethena-launches-pay-app-on-avalanche-with-tiered-rate-up-to-6"
+        }
+      ],
       "termBoost": 0
     },
     {
