@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-02T12:14:52.520Z",
+  "generatedAt": "2026-09-02T12:45:02.861Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 256,
+  "filteredOut": 257,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "coincenter",
@@ -22,7 +22,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-02T12:14:51.000Z",
+      "date": "2026-09-02T12:44:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,14 +32,14 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-02T12:14:51.000Z",
+      "date": "2026-09-02T12:44:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "XRP and bitcoin may be forming the 'Bart Simpson pattern' as prices pull back",
+      "title": "Bart Simpson pattern feared for bitcoin and XRP as prices pull back",
       "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
       "desc": "Analysts discuss the cartoon-themed price action as prices for major cryptocurrencies wilt.",
       "date": "2026-09-02T12:13:26.000Z",
@@ -73,7 +73,13 @@
       "link": "https://www.coindesk.com/business/2026/08/29/capital-b-aims-to-add-376-btc-to-bitcoin-treasury-following-usd8-8-million-adam-back-investment",
       "desc": "The Euronext Growth Paris-listed firm issued 13,181,030 shares with four warrants each at 58 euro cents per share, according to a filing on Wednesday.",
       "date": "2026-09-02T11:45:16.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-09-02-adam-back-invests-another-8-8-million-in-capital-b-as-bitcoin-treasury-firm-targets-3521-btc-413339"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -209,9 +215,9 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Global bond yields surge, pressuring debasement-trade assets further",
+      "title": "Live updates: Bitcoin trades near $77,000, as yields ease following soft ADP jobs report",
       "link": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
-      "desc": "Bitcoin slipped below $77,500 and every major is red on the day. The smaller crypto ETFs kept taking money while the bitcoin funds gave some back.",
+      "desc": "The ADP reported private-sector job growth of just 38,000, missing forecasts and marking the weakest level since January.",
       "date": "2026-09-02T08:31:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -300,22 +306,6 @@
       "desc": "The U.S. Securities and Exchange Commission issued an agenda for its 24-trading roundtable and proposed a new transfer-agent rule with blockchain implications.",
       "date": "2026-09-01T23:55:46.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
-      "link": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
-      "desc": "Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.",
-      "date": "2026-09-01T21:01:04.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -411,7 +401,13 @@
       "link": "https://thedefiant.io/news/blockchains/robinhood-chain-dex-volume-hits-usd1-49-billion-as-pons-takes-two-thirds-of-launchpad-fees",
       "desc": "The two-month-old Arbitrum network ranked second among all chains by decentralized exchange volume over 24 hours, ahead of Ethereum, BNB Chain and Base, with its memecoin launchpad earning almost three times what pump.fun did.",
       "date": "2026-09-01T17:09:58.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -843,16 +839,6 @@
       "link": "https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190",
       "desc": "The Nasdaq-listed company intends to use the proceeds to acquire more Solana and crypto-related investments.",
       "date": "2026-09-01T03:46:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Singapore commits S$220m to fintech innovation",
-      "link": "https://www.finextra.com/newsarticle/48327/singapore-commits-s220m-to-fintech-innovation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "The Monetary Authority of Singapore will pump S$220 million (US$173 million) over the next three years into the island's fintech ecosystem.",
-      "date": "2026-09-01T00:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
