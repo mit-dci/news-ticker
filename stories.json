@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-04T07:36:58.224Z",
+  "generatedAt": "2026-09-04T08:13:50.728Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 241,
-  "errors": [],
-  "dupsMerged": 8,
+  "successCount": 17,
+  "filteredOut": 224,
+  "errors": [
+    "BIS: BIS: HTTP 502"
+  ],
+  "dupsMerged": 7,
   "items": [
     {
       "source": "defiant",
@@ -12,7 +14,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-04T07:36:56.000Z",
+      "date": "2026-09-04T08:13:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +24,17 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-04T07:36:56.000Z",
+      "date": "2026-09-04T08:13:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin ETF inflows hit $731M, highest since January as BTC reclaims $80K",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-draw-731-million-highest-january-btc-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "US Bitcoin ETFs drew $730.9 million on Thursday as Bitcoin reclaimed $80,000, though CryptoQuant flagged weak fresh demand and a key $83,000 test.",
+      "date": "2026-09-04T07:37:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -157,16 +169,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Payment Networks Hold the Key to Stablecoin Scale",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/stablecoins-this-week-building-the-markets-visa-and-mastercard-layer/",
-      "desc": "The stablecoin market, in an evolution that belies its own prefix, is entering a period of flux. While the stablecoin market’s first phase rewarded issuance and liquidity, this week’s headlines suggest the bigger competition is moving somewhere else. Twenty-one major financial institutions are moving forward with plans for a jointly backed stablecoin venture. The Securities […] The post Payment Networks Hold the Key to Stablecoin Scale appeared first on PYMNTS.com.",
-      "date": "2026-09-03T21:37:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount",
@@ -240,16 +242,6 @@
       "link": "https://thedefiant.io/news/blockchains/robinhood-chain-gas-fees-jump-82-fold-in-11-days-to-top-every-other-chain",
       "desc": "Users paid $4.45 million to transact on the network on Sept. 2, more than Ethereum, Solana and Tron combined, after the base fee rose 23 times off its 0.02 gwei floor. Robinhood absorbs the cost inside its own wallet app until Sept. 29.",
       "date": "2026-09-03T21:00:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Banks Rewrite Their BaaS Strategies Around Deposits and Fees",
-      "link": "https://www.pymnts.com/news/banking/2026/banks-rewrite-their-baas-strategies-around-deposits-fees/",
-      "desc": "Embedded finance can bring banks deposits, fee income and assets generated through somebody else’s distribution. Earnings results showed banks don’t all want the same mix. Fifth Third is growing deposits and fees through Newline. FinTech partnerships generate nearly all The Bancorp’s deposits, although the bank moves some deposits to other institutions. First Internet Bank is […] The post Banks Rewrite Their BaaS Strategies Around Deposits and Fees appeared first on PYMNTS.com.",
-      "date": "2026-09-03T20:58:12.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -852,13 +844,7 @@
       "link": "https://decrypt.co/377215/right-trade-strategy-no-regrets-selling-bitcoin",
       "desc": "Phong Le said Strategy’s cost of capital—not Bitcoin’s price—drove its decision to sell nearly 7,000 BTC before resuming purchases above $80,000.",
       "date": "2026-09-02T19:15:06.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1070,16 +1056,6 @@
       "link": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Full Sail is shutting down after an attacker removed about $91,000 from three vaults during a security incident linked to oracle provider Switchboard.",
       "date": "2026-09-02T13:40:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
-      "link": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase “3x to 5x pretty quickly.”",
-      "date": "2026-09-02T13:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
