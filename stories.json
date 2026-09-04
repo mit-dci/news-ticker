@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-04T11:08:27.473Z",
+  "generatedAt": "2026-09-04T11:33:52.079Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 244,
+  "filteredOut": 240,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "defiant",
@@ -12,7 +12,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-04T11:08:26.000Z",
+      "date": "2026-09-04T11:33:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,8 +22,44 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-04T11:08:26.000Z",
+      "date": "2026-09-04T11:33:50.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
+      "desc": "Your day-ahead look for Sept. 4, 2026",
+      "date": "2026-09-04T11:29:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
+      "link": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
+      "desc": "In contrast, Jane Street and Charles Schwab raised concerns over rushed ETF launches and confidential filings limiting market scrutiny.",
+      "date": "2026-09-04T11:21:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Trezor says data breach affects another 67K US customers",
+      "link": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Trezor said an additional 67,000 US users were affected by its shipping provider’s data breach, opening the path to potential phishing attacks and social engineering scams.",
+      "date": "2026-09-04T11:19:19.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377389/67000-more-trezor-customers-exposed-as-data-breach-widens"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -173,7 +209,13 @@
       "link": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The IMF attributed Bitcoin added since June 2025 to private donations, addressing questions raised after El Salvador reported a $100 million acquisition.",
       "date": "2026-09-04T06:16:35.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1020,16 +1062,6 @@
       "link": "https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364",
       "desc": "World has open-sourced ProveKit, a zero-knowledge identity proving toolkit already used in World ID since April.",
       "date": "2026-09-02T16:00:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Arbitrum DAO reports $6.2 million in first-half income as Robinhood Chain adds new revenue stream",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345",
-      "desc": "Licensing fees accounted for 35% of the DAO's income in July, the first month Robinhood Chain was live on mainnet.",
-      "date": "2026-09-02T16:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
