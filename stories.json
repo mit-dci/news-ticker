@@ -1,13 +1,10 @@
 {
-  "generatedAt": "2026-09-04T22:33:28.584Z",
+  "generatedAt": "2026-09-04T23:07:51.809Z",
   "sourceCount": 18,
-  "successCount": 16,
-  "filteredOut": 220,
-  "errors": [
-    "COIN CENTER: fetch failed",
-    "FEDERAL RESERVE: fetch failed"
-  ],
-  "dupsMerged": 10,
+  "successCount": 18,
+  "filteredOut": 247,
+  "errors": [],
+  "dupsMerged": 9,
   "items": [
     {
       "source": "decrypt",
@@ -47,7 +44,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-04T22:33:26.000Z",
+      "date": "2026-09-04T23:07:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -57,7 +54,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-04T22:33:26.000Z",
+      "date": "2026-09-04T23:07:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -164,6 +161,22 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "FinCEN ties $13B in crypto scams to non-US operations",
+      "link": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The agency reported that “transnational criminal organizations” based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents.",
+      "date": "2026-09-04T19:22:26.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "pymnts",
       "sourceName": "PYMNTS",
       "title": "24/7 Money Means Treasury Needs to Figure Out Its Weekend Plans",
@@ -231,27 +244,6 @@
       "desc": "The privacy coin's squeeze rode a Fed-driven crypto rally that reversed hours later, when a stronger-than-expected jobs report sent Bitcoin back under $80,000.",
       "date": "2026-09-04T16:24:46.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "FinCEN Says Stopping Crypto Scams Means Catching How Customers Fund Them",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/fincen-says-stopping-crypto-scams-means-catching-how-customers-fund-them/",
-      "desc": "The most useful fraud signal in a cryptocurrency investment scam may not be the cryptocurrency transaction. It may be the customer’s balance sheet deteriorating in real time. That is among the key takeaways from a Financial Crimes Enforcement Network (FinCEN) analysis released Thursday (Sept. 3), which examined 33,904 Bank Secrecy Act reports filed between September […] The post FinCEN Says Stopping Crypto Scams Means Catching How Customers Fund Them appeared first on PYMNTS.com.",
-      "date": "2026-09-04T16:14:42.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -1055,16 +1047,6 @@
       "link": "https://www.finextra.com/newsarticle/48342/colombian-fintech-plenti-raises-3-million-in-tether-led-seed-round?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Plenti, a Colombian fintech focused on currency movement and investment services, today announced a $3 million seed funding round led by Tether, the issuer of the USDT stablecoin, with participation from Verda Ventures.",
       "date": "2026-09-03T09:20:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "techcrunch",
-      "sourceName": "TECHCRUNCH",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "desc": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "date": "2026-09-02T23:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
