@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T09:40:45.099Z",
+  "generatedAt": "2026-09-07T10:10:26.342Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 316,
+  "filteredOut": 312,
   "errors": [],
-  "dupsMerged": 2,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "defiant",
@@ -12,7 +12,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-07T09:40:43.000Z",
+      "date": "2026-09-07T10:10:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,27 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-07T09:40:43.000Z",
+      "date": "2026-09-07T10:10:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Philippines eyes payment operator registration freeze, tighter VASP checks",
+      "link": "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A central bank proposal would pause new payment operator registrations while requiring enhanced monitoring and transaction limits for arrangements involving virtual asset firms.",
+      "date": "2026-09-07T09:51:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin struggles at $83,000 sell wall as whales distribution flip into net selling",
+      "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-investors-turn-to-selling-as-usd83-000-resistance-holds",
+      "desc": "All wallet cohorts have shifted into net distribution for the first time since early June, but a potential golden cross offers bulls some hope.",
+      "date": "2026-09-07T09:48:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -37,13 +57,19 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Coldcard hacker moves $7.7 million in BTC, 45% of bitcoin stolen in third attack wave",
-      "link": "https://www.coindesk.com/business/2026/09/07/coldcard-hacker-moves-45-of-bitcoin-stolen-in-third-attack-wave",
-      "desc": "The attacker has now drained the 11 largest vaults tied to the third wave of Coldcard thefts, Galaxy Research said.",
-      "date": "2026-09-07T09:32:05.000Z",
-      "alsoAt": [],
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Coldcard third-wave attacker moves 45% of stolen Bitcoin",
+      "link": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Galaxy said 82% of Bitcoin stolen across all Coldcard attacks remains in the original addresses, with 18% moved in apparent laundering.",
+      "date": "2026-09-07T09:36:19.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/09/07/coldcard-hacker-moves-45-of-bitcoin-stolen-in-third-attack-wave"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -213,6 +239,11 @@
           "source": "COINTELEGRAPH",
           "sourceId": "cointelegraph",
           "url": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid"
         }
       ],
       "termBoost": 0
