@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-07T14:36:10.819Z",
+  "generatedAt": "2026-09-07T15:09:06.158Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 301,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "defiant",
@@ -12,7 +12,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-07T14:36:09.000Z",
+      "date": "2026-09-07T15:09:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-07T14:36:09.000Z",
+      "date": "2026-09-07T15:09:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,13 @@
       "link": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
       "desc": "The Frame Transactions feature was locked into the Hegotá upgrade last month, and Ethereum co-founder Vitalik Buterin says the work has moved quickly since.",
       "date": "2026-09-07T13:54:07.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -510,16 +516,6 @@
       "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
       "desc": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
       "date": "2026-09-05T16:43:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
-      "link": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
-      "desc": "The update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.",
-      "date": "2026-09-05T15:01:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
