@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-08T17:09:15.093Z",
+  "generatedAt": "2026-09-08T17:33:48.263Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 247,
+  "filteredOut": 246,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "defiant",
@@ -45,7 +45,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-08T17:09:14.000Z",
+      "date": "2026-09-08T17:33:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -55,7 +55,17 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-08T17:09:14.000Z",
+      "date": "2026-09-08T17:33:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
+      "link": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
+      "desc": "The rollback reversed legitimate activity alongside the attack, while $9.19 million remains unrecovered, according to Cronos.",
+      "date": "2026-09-08T17:10:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -142,16 +152,6 @@
       "link": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
       "desc": "Memos from the NYPD to Homeland Security warn the devices could be used for covert filming inside jails and police facilities.",
       "date": "2026-09-08T15:28:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
-      "link": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
-      "desc": "The multi-year deal makes OG.com the infrastructure and clearing engine behind Robinhood's fastest-growing business.",
-      "date": "2026-09-08T15:25:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -377,21 +377,32 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "UniCredit acquires stake in German fintech VC Trade",
-      "link": "https://www.finextra.com/newsarticle/48361/unicredit-acquires-stake-in-german-fintech-vc-trade?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "UniCredit has acquired a minority stake in VC Trade, a Frankfurt-based fintech company operating digital marketplaces and infrastructure for debt transactions.",
-      "date": "2026-09-08T12:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "wsj",
       "sourceName": "WALL STREET JOURNAL",
       "title": "Robinhood Strikes Deal With Crypto.com in Latest Prediction-Markets Push",
       "link": "https://www.wsj.com/finance/currencies/robinhood-strikes-deal-with-crypto-com-in-latest-prediction-markets-push-901a32aa?mod=rss_markets_main",
       "desc": "The brokerage will add yes-or-no contracts from Crypto.com’s prediction business, and take a stake in the digital-currency exchange.",
+      "date": "2026-09-08T12:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "UniCredit acquires stake in German fintech VC Trade",
+      "link": "https://www.finextra.com/newsarticle/48361/unicredit-acquires-stake-in-german-fintech-vc-trade?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "UniCredit has acquired a minority stake in VC Trade, a Frankfurt-based fintech company operating digital marketplaces and infrastructure for debt transactions.",
       "date": "2026-09-08T12:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -1005,22 +1016,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC",
-      "link": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The actors told Blockstream they would return most of the 4,000 BTC after the Elements vulnerability is patched across the network.",
-      "date": "2026-09-07T05:40:05.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Liquid Sidechain Paused After 3,998 BTC Leaves Federation Wallet",
@@ -1037,7 +1032,13 @@
       "link": "https://bitcoinmagazine.com/news/alleged-white-hat-hackers-withdraw-4000-bitcoin-from-blockstreams-liquid-network-federation-reserves",
       "desc": "Bitcoin Magazine Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves Liquid Network said purported white-hat hackers withdrew about 4,000 bitcoin from the federation wallet that backs L-BTC. Bridge nodes are disabled and the sidechain is paused. This post Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream’s Liquid Network Federation Reserves first appeared on Bitcoin Magazine and is written by Juan Galt.",
       "date": "2026-09-06T22:16:53.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid"
+        }
+      ],
       "termBoost": 0
     }
   ]
