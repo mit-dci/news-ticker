@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-09-09T16:12:29.144Z",
+  "generatedAt": "2026-09-09T16:37:28.534Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 216,
-  "errors": [
-    "FINEXTRA: FINEXTRA: HTTP 524"
-  ],
-  "dupsMerged": 7,
+  "successCount": 18,
+  "filteredOut": 236,
+  "errors": [],
+  "dupsMerged": 11,
   "items": [
     {
       "source": "coindesk",
@@ -42,12 +40,22 @@
       "termBoost": 3
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Splitit joins the Jack Henry Fintech Integration Network",
+      "link": "https://www.finextra.com/pressarticle/110856/splitit-joins-the-jack-henry-fintech-integration-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Splitit, the global leader in bank-linked installment payments, today announced its integration with Jack Henry's SilverLake core banking platform and Banno Digital Platform through the Jack Henry Fintech Integration Network (FIN).",
+      "date": "2026-09-09T16:38:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-09T16:10:15.000Z",
+      "date": "2026-09-09T16:37:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -57,7 +65,47 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-09T16:10:15.000Z",
+      "date": "2026-09-09T16:37:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Arbitrum Watchdog Seeks Permanent Bans For Three Grant Recipients",
+      "link": "https://thedefiant.io/news/defi/arbitrum-watchdog-seeks-permanent-bans-three-grant-recipients",
+      "desc": "The committee behind Arbitrum's grant-misuse bounty program wants Good Entry, Limitless and APX Finance barred from all future DAO programs. None has replied to the forum thread, and three Snapshot votes could open as early as Sept. 10.",
+      "date": "2026-09-09T16:25:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case",
+      "link": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046",
+      "desc": "The Hyperliquid Policy Center accused CME Group of stifling innovation and urged a court to dismiss the exchange’s lawsuit against the CFTC.",
+      "date": "2026-09-09T16:17:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
+      "link": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
+      "desc": "Mexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.",
+      "date": "2026-09-09T16:16:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+      "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
+      "desc": "Tenev told CNBC's \"Squawk Box\" on Wednesday that public companies shouldn't have veto power over third-party securities that reference their shares.",
+      "date": "2026-09-09T16:11:07.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -108,6 +156,11 @@
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011"
+        },
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/b9e0b9b5-3b6e-420e-83da-381b75534635?syn-25a6b1a6=1"
         }
       ],
       "termBoost": 0
@@ -119,6 +172,16 @@
       "link": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
       "desc": "LAPTOP hit a $190.81 peak within minutes of launching on Base, then shed roughly 99% as thin liquidity met a wave of selling.",
       "date": "2026-09-09T15:47:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "EDX Integrates Fireblocks Network Link for digital asset transfers",
+      "link": "https://www.finextra.com/pressarticle/110854/edx-integrates-fireblocks-network-link-for-digital-asset-transfers?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "EDX Markets, a leading digital asset technology firm that combines an institutional-only trading venue with a central clearinghouse, and Fireblocks, the enterprise platform securing more than $16 trillion in digital asset transactions, today announced that EDX has integrated with Fireblocks Network Link, enabling clients to move and manage assets more efficiently across EDX and the broader digital asset ecosystem.",
+      "date": "2026-09-09T15:18:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -369,6 +432,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "L&T Finance adopts Pine Labs Payments Protocol for agentic commerce",
+      "link": "https://www.finextra.com/pressarticle/110849/lt-finance-adopts-pine-labs-payments-protocol-for-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "L&T Finance Ltd. (LTF), one of the leading Non-Banking Financial Companies (NBFCs) in the country, announced a partnership with Pine Labs Ltd., a leading global payments technology company, to integrate Agentic Storefront into the L&T Finance PLANET App at the Global Fintech Fest 2026.",
+      "date": "2026-09-09T10:56:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
@@ -462,6 +535,11 @@
       "desc": "The proposed Builders Bank would offer federally supervised digital asset custody but would not accept deposits or issue loans.",
       "date": "2026-09-09T07:36:21.000Z",
       "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48370/block-files-to-set-up-national-trust-bank?utm_medium=rssfinextra&utm_source=finextrafeed"
+        },
         {
           "source": "DECRYPT",
           "sourceId": "decrypt",
@@ -697,7 +775,13 @@
       "link": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
       "desc": "The payment processor giant is pairing payment settlement data with blockchain lending tools to help fintechs and stablecoin-linked card programs access working capital.",
       "date": "2026-09-08T18:16:04.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48362/visa-makes-onchain-lending-move?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -791,16 +875,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
-      "link": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
-      "desc": "Kuchinad, the CEO of cryptocurrency custody firm Copper since 2024, has left the company, according to two people familiar with the matter.",
-      "date": "2026-09-08T15:23:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Morpho Expands Fixed-Rate Midnight Markets to Ethereum",
@@ -848,6 +922,22 @@
       "desc": "Robinhood began sending a selection of football event contracts to Crypto.com's CFTC-regulated exchange on Tuesday and will hold stakes in both Crypto.com and OG.com, the prediction-market venue being spun out of it at a $5 billion valuation.",
       "date": "2026-09-08T15:01:38.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Circle to buy Singapore-based cross-border payments platform Tazapay",
+      "link": "https://www.finextra.com/newsarticle/48363/circle-to-buy-singapore-based-cross-border-payments-platform-tazapay?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Stablecoin-issuer Circle has agreed to buy Tazapay, a Singapore-headquartered B2B cross-border payments infrastructure provider. Financial terms of the deal were not disclosed.",
+      "date": "2026-09-08T14:32:00.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -922,12 +1012,22 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Circle to acquire Tazapay to expand USDC cross-border payments",
-      "link": "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Tazapay processes $25 billion in annualized volume and offers payout rails across 100-plus markets, extending Circle’s USDC payments reach.",
-      "date": "2026-09-08T11:33:14.000Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "UniCredit acquires stake in German fintech VC Trade",
+      "link": "https://www.finextra.com/newsarticle/48361/unicredit-acquires-stake-in-german-fintech-vc-trade?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "UniCredit has acquired a minority stake in VC Trade, a Frankfurt-based fintech company operating digital marketplaces and infrastructure for debt transactions.",
+      "date": "2026-09-08T12:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "SIX and Twint join Swiss bank stablecoin project",
+      "link": "https://www.finextra.com/newsarticle/48360/six-and-twint-join-swiss-bank-stablecoin-project?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Swiss exchange SIX and mobile payment service Twint have joined a CHF stablecoin initiative promoted by six of the country's leading banks.",
+      "date": "2026-09-08T11:28:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1038,16 +1138,6 @@
       "link": "https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft",
       "desc": "A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami.",
       "date": "2026-09-07T17:41:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Orionx Halts Withdrawals and Winds Down After Alleged $7M Asset Transfers",
-      "link": "https://thedefiant.io/news/cefi/orionx-halts-withdrawals-and-winds-down-after-alleged-7m-asset-transfers",
-      "desc": "Chile’s financial regulator says it does not oversee the exchange’s closure or have the power to order customer repayments.",
-      "date": "2026-09-07T16:14:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
