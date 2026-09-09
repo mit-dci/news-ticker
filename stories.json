@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-09T17:07:50.485Z",
+  "generatedAt": "2026-09-09T17:33:48.029Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 232,
+  "filteredOut": 230,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "decrypt",
@@ -51,12 +51,32 @@
       "termBoost": 3
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "BVNK and Marqeta partner on stablecoin card infrastructure",
+      "link": "https://www.finextra.com/pressarticle/110857/bvnk-and-marqeta-partner-on-stablecoin-card-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "BVNK and Marqeta, Inc. (NASDAQ: MQ) today announced a partnership to deliver stablecoin-backed card capabilities to crypto-native and non-crypto companies.",
+      "date": "2026-09-09T18:24:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "PayPal helps developers build application-specific PYUSD-backed stablecoins",
+      "link": "https://www.finextra.com/newsarticle/48375/paypal-helps-developers-build-application-specific-pyusd-backed-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "PayPal is working with crypto specialists MoonPay and M0 on an infrastructure platform that lets developers create application-specific stablecoins backed by PYUSD.",
+      "date": "2026-09-09T18:07:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-09T17:07:46.000Z",
+      "date": "2026-09-09T17:33:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -66,7 +86,27 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-09T17:07:46.000Z",
+      "date": "2026-09-09T17:33:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "US Bank Intros Stablecoin and Touts Successful X-Border Transaction",
+      "link": "https://www.pymnts.com/news/banking/2026/us-bank-intros-stablecoin-and-touts-successful-x-border-transaction/",
+      "desc": "U.S. Bank has debuted its own stablecoin, the latest lender embracing the digital asset. The bank announced Wednesday (Sept. 9) that it had used the dollar-backed USBDC for a cross-border payment between U.S. Bank entities in North America and Europe. “As one of the first bank-issued stablecoins deployed on a public blockchain, USBDC promises the potential of leveraging a […] The post US Bank Intros Stablecoin and Touts Successful X-Border Transaction appeared first on PYMNTS.com.",
+      "date": "2026-09-09T17:22:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+      "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
+      "desc": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi—which ran $24 billion through a Telegram scam bazaar—called the freeze unfair.",
+      "date": "2026-09-09T17:16:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -871,6 +911,22 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Robinhood takes stakes in Crypto.com, OG.com in prediction markets deal",
+      "link": "https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Robinhood will route event contracts through OG.com’s CFTC-regulated infrastructure as it expands its prediction markets business.",
+      "date": "2026-09-08T17:03:47.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "DBS and Citi Complete Weekend Dollar Payment on Swift Ledger",
@@ -1037,27 +1093,6 @@
       "termBoost": 0
     },
     {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Robinhood Strikes Deal With Crypto.com in Latest Prediction-Markets Push",
-      "link": "https://www.wsj.com/finance/currencies/robinhood-strikes-deal-with-crypto-com-in-latest-prediction-markets-push-901a32aa?mod=rss_markets_main",
-      "desc": "The brokerage will add yes-or-no contracts from Crypto.com’s prediction business, and take a stake in the digital-currency exchange.",
-      "date": "2026-09-08T12:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/robinhood-takes-stakes-in-cryptocom-ogcom-in-prediction-markets-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "UniCredit acquires stake in German fintech VC Trade",
@@ -1164,16 +1199,6 @@
       "link": "https://decrypt.co/377597/middle-east-crypto-activity-350-billion",
       "desc": "The Iran conflict has increased demand for digital assets to preserve and transfer wealth, while Gulf crypto businesses have kept operating through disruption, the Bitcoin Policy Institute says.",
       "date": "2026-09-07T18:16:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
-      "link": "https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft",
-      "desc": "A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami.",
-      "date": "2026-09-07T17:41:55.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
