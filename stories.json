@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-09T15:36:56.902Z",
+  "generatedAt": "2026-09-09T16:12:29.144Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 237,
-  "errors": [],
-  "dupsMerged": 11,
+  "successCount": 17,
+  "filteredOut": 216,
+  "errors": [
+    "FINEXTRA: FINEXTRA: HTTP 524"
+  ],
+  "dupsMerged": 7,
   "items": [
     {
       "source": "coindesk",
@@ -45,7 +47,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-09T15:36:55.000Z",
+      "date": "2026-09-09T16:10:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -55,18 +57,53 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-09T15:36:55.000Z",
+      "date": "2026-09-09T16:10:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash",
+      "link": "https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034",
+      "desc": "Substack subscribers were reportedly able to claim 4,276 LAPTOP tokens each, with some quickly selling their allocations.",
+      "date": "2026-09-09T16:05:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
+      "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
+      "desc": "Chinese-language platform Xinbi is accused of operating on crypto transactions as it offered services to other criminal networks.",
+      "date": "2026-09-09T16:05:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Tether, Fasanara launch $400M private credit fund targeting $3B",
-      "link": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The evergreen fund will use USDT infrastructure to support asset-backed lending through fintech platforms in more than 60 countries.",
-      "date": "2026-09-09T15:21:44.000Z",
+      "title": "Trade groups seek to block Illinois crypto tax before January effective date",
+      "link": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Following on their earlier lawsuit, CCI and the Blockchain Association seek to block Illinois’ 0.2% crypto tax, arguing it is unconstitutional and would impose costly compliance burdens.",
+      "date": "2026-09-09T15:57:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
+      "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+      "desc": "The USDT issuer will help source lending opportunities and provide stablecoin payment infrastructure for Fasanara's private credit network.",
+      "date": "2026-09-09T15:51:25.000Z",
       "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
         {
           "source": "THE BLOCK",
           "sourceId": "block",
@@ -76,12 +113,12 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "EDX Integrates Fireblocks Network Link for digital asset transfers",
-      "link": "https://www.finextra.com/pressarticle/110854/edx-integrates-fireblocks-network-link-for-digital-asset-transfers?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "EDX Markets, a leading digital asset technology firm that combines an institutional-only trading venue with a central clearinghouse, and Fireblocks, the enterprise platform securing more than $16 trillion in digital asset transactions, today announced that EDX has integrated with Fireblocks Network Link, enabling clients to move and manage assets more efficiently across EDX and the broader digital asset ecosystem.",
-      "date": "2026-09-09T15:18:00.000Z",
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
+      "link": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
+      "desc": "LAPTOP hit a $190.81 peak within minutes of launching on Base, then shed roughly 99% as thin liquidity met a wave of selling.",
+      "date": "2026-09-09T15:47:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -332,16 +369,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "L&T Finance adopts Pine Labs Payments Protocol for agentic commerce",
-      "link": "https://www.finextra.com/pressarticle/110849/lt-finance-adopts-pine-labs-payments-protocol-for-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "L&T Finance Ltd. (LTF), one of the leading Non-Banking Financial Companies (NBFCs) in the country, announced a partnership with Pine Labs Ltd., a leading global payments technology company, to integrate Agentic Storefront into the L&T Finance PLANET App at the Global Fintech Fest 2026.",
-      "date": "2026-09-09T10:56:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin climbs as oil tops $100, equities drop after Iran strikes",
@@ -435,11 +462,6 @@
       "desc": "The proposed Builders Bank would offer federally supervised digital asset custody but would not accept deposits or issue loans.",
       "date": "2026-09-09T07:36:21.000Z",
       "alsoAt": [
-        {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/48370/block-files-to-set-up-national-trust-bank?utm_medium=rssfinextra&utm_source=finextrafeed"
-        },
         {
           "source": "DECRYPT",
           "sourceId": "decrypt",
@@ -675,13 +697,7 @@
       "link": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
       "desc": "The payment processor giant is pairing payment settlement data with blockchain lending tools to help fintechs and stablecoin-linked card programs access working capital.",
       "date": "2026-09-08T18:16:04.000Z",
-      "alsoAt": [
-        {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/48362/visa-makes-onchain-lending-move?utm_medium=rssfinextra&utm_source=finextrafeed"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -761,13 +777,7 @@
       "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-28-086-eth-as-treasury-nears-5-of-supply",
       "desc": "The company valued its 5.93 million ETH at about $14.79 billion, while aggregate reported holdings rose to $15.7 billion from $15.6 billion a week earlier.",
       "date": "2026-09-08T15:29:09.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -838,27 +848,6 @@
       "desc": "Robinhood began sending a selection of football event contracts to Crypto.com's CFTC-regulated exchange on Tuesday and will hold stakes in both Crypto.com and OG.com, the prediction-market venue being spun out of it at a $5 billion valuation.",
       "date": "2026-09-08T15:01:38.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Circle to buy Singapore-based cross-border payments platform Tazapay",
-      "link": "https://www.finextra.com/newsarticle/48363/circle-to-buy-singapore-based-cross-border-payments-platform-tazapay?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Stablecoin-issuer Circle has agreed to buy Tazapay, a Singapore-headquartered B2B cross-border payments infrastructure provider. Financial terms of the deal were not disclosed.",
-      "date": "2026-09-08T14:32:00.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million"
-        },
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -933,22 +922,12 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "UniCredit acquires stake in German fintech VC Trade",
-      "link": "https://www.finextra.com/newsarticle/48361/unicredit-acquires-stake-in-german-fintech-vc-trade?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "UniCredit has acquired a minority stake in VC Trade, a Frankfurt-based fintech company operating digital marketplaces and infrastructure for debt transactions.",
-      "date": "2026-09-08T12:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "SIX and Twint join Swiss bank stablecoin project",
-      "link": "https://www.finextra.com/newsarticle/48360/six-and-twint-join-swiss-bank-stablecoin-project?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Swiss exchange SIX and mobile payment service Twint have joined a CHF stablecoin initiative promoted by six of the country's leading banks.",
-      "date": "2026-09-08T11:28:00.000Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Circle to acquire Tazapay to expand USDC cross-border payments",
+      "link": "https://cointelegraph.com/news/circle-tazapay-usdc-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Tazapay processes $25 billion in annualized volume and offers payout rails across 100-plus markets, extending Circle’s USDC payments reach.",
+      "date": "2026-09-08T11:33:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -979,16 +958,6 @@
       "link": "https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe",
       "desc": "Two chief executives of the exchange have now vanished, four years apart, leaving 1.3 million clients locked out.",
       "date": "2026-09-08T09:54:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
-      "link": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Unrealized gains by whale speculators hit their highest levels on record last week, per data going back to 2016.",
-      "date": "2026-09-08T09:40:26.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1079,46 +1048,6 @@
       "link": "https://thedefiant.io/news/cefi/orionx-halts-withdrawals-and-winds-down-after-alleged-7m-asset-transfers",
       "desc": "Chile’s financial regulator says it does not oversee the exchange’s closure or have the power to order customer repayments.",
       "date": "2026-09-07T16:14:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Liquid Attacker Broadcasts Return Of 3,400 BTC, Keeps 598",
-      "link": "https://thedefiant.io/news/security/liquid-attacker-broadcasts-return-of-3400-btc-keeps-598",
-      "desc": "The transaction pays 3,400 BTC back to the Liquid federation wallet and 598.50 BTC to the attacker’s own address. It is unconfirmed and flagged replaceable, and neither side has published anything about the split.",
-      "date": "2026-09-07T16:06:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Arkham Links Wintermute to $2.4 Million PONS Position",
-      "link": "https://thedefiant.io/news/markets/arkham-links-wintermute-to-2-4-million-pons-position",
-      "desc": "Arkham said Wintermute appeared to be buying PONS gradually; its dashboard separately listed 3.43 million tokens worth $2.4 million.",
-      "date": "2026-09-07T15:49:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Router Protocol Plans Sept. 30 Shutdown and 303 Million ROUTE Burn",
-      "link": "https://thedefiant.io/news/defi/router-protocol-plans-sept-30-shutdown-and-303-million-route-burn",
-      "desc": "DefiLlama shows $9,879.92 locked and no bridge volume over 30 completed days; Router’s notice only instructs centralized-exchange holders to withdraw by venue deadlines.",
-      "date": "2026-09-07T15:48:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why",
-      "link": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
-      "desc": "LINK hit an eight-month high after Bottomline, a top-three SWIFT services provider moving $16 trillion a year, tapped Chainlink to connect 600-plus banks to blockchain settlement.",
-      "date": "2026-09-07T15:42:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
