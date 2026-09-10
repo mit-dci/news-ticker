@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T13:34:17.531Z",
+  "generatedAt": "2026-09-10T14:08:50.842Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 233,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "block",
@@ -78,7 +78,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-10T13:34:16.000Z",
+      "date": "2026-09-10T14:08:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -88,7 +88,37 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-10T13:34:16.000Z",
+      "date": "2026-09-10T14:08:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
+      "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
+      "desc": "The coalition warned that the current limit is too low, noting some existing European projects already exceed it.",
+      "date": "2026-09-10T13:56:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Citadel urges SEC to assert oversight of event contracts tied to public firms",
+      "link": "https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140",
+      "desc": "Citadel Securities urges SEC oversight of equity-linked event contracts, challenging CFTC self-certification.",
+      "date": "2026-09-10T13:43:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+      "link": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions.",
+      "date": "2026-09-10T13:35:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -463,7 +493,13 @@
       "link": "https://bitcoinmagazine.com/news/block-applies-for-banking-charter",
       "desc": "Bitcoin Magazine Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter Block wants the banking license so it can open Builders Bank, which would provide custody and related fiduciary services for bitcoin. This post Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-09-09T20:35:41.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -553,23 +589,7 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/block-seeks-occ-charter-for-uninsured-bitcoin-and-stablecoin-custody-bank",
       "desc": "Builders Bank would operate under direct federal supervision without taking deposits or making loans, but the application still requires OCC approval.",
       "date": "2026-09-09T16:58:22.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/48370/block-files-to-set-up-national-trust-bank?utm_medium=rssfinextra&utm_source=finextrafeed"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -835,6 +855,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Block files to set up national trust bank",
+      "link": "https://www.finextra.com/newsarticle/48370/block-files-to-set-up-national-trust-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Block is the latest fintech to apply to establish its own federally regulated bank offering crypto custody services.",
+      "date": "2026-09-09T13:10:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "BitMart misses roadmap deadline, appoints financial adviser",
@@ -951,16 +981,6 @@
       "link": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Exporters can now fund imports with overseas earnings without first selling their foreign currency at official rates, the Financial Times reported.",
       "date": "2026-09-09T07:36:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "First staked ETF tied to Tron hits the US markets on Wednesday",
-      "link": "https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935",
-      "desc": "The first staked ETF tied to Tron is set to hit the market Wednesday, giving investors a new way to gain exposure to TRX.",
-      "date": "2026-09-09T04:01:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1141,16 +1161,6 @@
       "link": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-takes-stakes-in-crypto-com-and-og-com-as-it-routes-football-contracts",
       "desc": "Robinhood began sending a selection of football event contracts to Crypto.com's CFTC-regulated exchange on Tuesday and will hold stakes in both Crypto.com and OG.com, the prediction-market venue being spun out of it at a $5 billion valuation.",
       "date": "2026-09-08T15:01:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Strategy's Return to Bitcoin Buying Lasted Exactly One Week",
-      "link": "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
-      "desc": "The Bitcoin treasury firm spent $176.3 million on its own preferred stock, and doubled the buyback program's authorization to $2 billion.",
-      "date": "2026-09-08T13:57:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
