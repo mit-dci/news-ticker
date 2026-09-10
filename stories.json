@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T14:08:50.842Z",
+  "generatedAt": "2026-09-10T14:36:24.956Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 233,
+  "filteredOut": 230,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "block",
@@ -62,15 +62,14 @@
       "termBoost": 3
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Algorand names former Chainlink executive William Herkelrath as CEO",
-      "link": "https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo",
-      "desc": "The former Chainlink and Curv executive will lead the blockchain organization’s push into institutional finance and quantum-resistant security.",
-      "date": "2026-09-09T13:00:00.000Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Wirex goes live on Tempo for enterprise stablecoin card programmes",
+      "link": "https://www.finextra.com/pressarticle/110877/wirex-goes-live-on-tempo-for-enterprise-stablecoin-card-programmes?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Wirex, the global stablecoin infrastructure provider and a principal member of Visa and Mastercard, has added Tempo to its platform.",
+      "date": "2026-09-10T15:22:00.000Z",
       "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -78,7 +77,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-10T14:08:48.000Z",
+      "date": "2026-09-10T14:36:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -88,8 +87,91 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-10T14:08:48.000Z",
+      "date": "2026-09-10T14:36:23.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "MoneyGram launches first stablecoin-backed Visa card in Colombia",
+      "link": "https://www.theblock.co/news/business/2026-09-10-moneygram-card-stablecoin-visa-colombia-414137",
+      "desc": "MoneyGram has launched its first stablecoin-backed Visa card, developed with Rain and initially available in Colombia.",
+      "date": "2026-09-10T14:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
+      "link": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
+      "desc": "The remittance giant is rolling out a Visa card that lets customers hold dollars and spend from a stablecoin-backed balance.",
+      "date": "2026-09-10T14:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "U.S. Bank Issues Its Own Stablecoin On Stellar",
+      "link": "https://thedefiant.io/converge/defi/us-bank-usbdc-stablecoin-stellar-cross-border-pilot",
+      "desc": "The bank said Wednesday it moved value between its North American and European entities with USBDC, a dollar-backed token it issued on Stellar. The pilot tested minting, redemption, freezing and clawback. XLM trades at $0.18, down 3.1% on the day.",
+      "date": "2026-09-10T14:14:04.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Tether And Fasanara Seed A $400 Million Private Credit Fund",
+      "link": "https://thedefiant.io/news/defi/tether-fasanara-400-million-private-credit-fund",
+      "desc": "The evergreen fund opens with $400 million from the two sponsors and targets up to $3 billion from outside institutions. Fasanara manages the investments while Tether originates USDT-linked deals and runs settlement. USDT supply stands at $183.4 billion.",
+      "date": "2026-09-10T14:11:50.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara"
+        },
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011"
+        },
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/b9e0b9b5-3b6e-420e-83da-381b75534635?syn-25a6b1a6=1"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Nasdaq Invests $100 Million in Kraken Parent Payward",
+      "link": "https://thedefiant.io/news/cefi/nasdaq-invests-100-million-in-kraken-parent-payward",
+      "desc": "Nasdaq Ventures agreed to put $100 million into Kraken's parent company, at a $21 billion valuation according to Bloomberg, and Payward will adopt Nasdaq's surveillance technology across its trading venues.",
+      "date": "2026-09-10T14:08:58.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -143,22 +225,22 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
+      "link": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
+      "desc": "So-called digital arrest scams use false claims of authority to pressure victims virtually into making rapid digital payments, including cryptocurrency transactions, writes Moody's Rich Graham.",
+      "date": "2026-09-10T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Solana sees record 263K tokens issued in a single day",
       "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.",
       "date": "2026-09-10T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership",
-      "link": "https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120",
-      "desc": "Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expanding their tokenized equity infrastructure partnership.",
-      "date": "2026-09-10T12:53:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -250,16 +332,6 @@
       "link": "https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104",
       "desc": "Coinbase CEO Brian Armstrong expects bitcoin to trend higher over the next two years, saying the current cycle may have bottomed.",
       "date": "2026-09-10T10:31:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Modern Treasury rolls out non-custodial stablecoin wallets",
-      "link": "https://www.finextra.com/pressarticle/110865/modern-treasury-rolls-out-non-custodial-stablecoin-wallets?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Modern Treasury today announced non-custodial Stablecoin Wallets, giving startups, platforms, and their end-users direct control over on-chain assets.",
-      "date": "2026-09-10T10:31:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -613,16 +685,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "US Bank tests proprietary stablecoin in cross-border Stellar transaction",
-      "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The pilot moved USBDC between the bank’s North American and European entities on the public Stellar blockchain.",
-      "date": "2026-09-09T16:37:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Arbitrum Watchdog Seeks Permanent Bans For Three Grant Recipients",
@@ -690,32 +752,6 @@
       "desc": "Following on their earlier lawsuit, CCI and the Blockchain Association seek to block Illinois’ 0.2% crypto tax, arguing it is unconstitutional and would impose costly compliance burdens.",
       "date": "2026-09-09T15:57:07.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Tether pushes into private credit with $400 million fund with Fasanara",
-      "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
-      "desc": "The USDT issuer will help source lending opportunities and provide stablecoin payment infrastructure for Fasanara's private credit network.",
-      "date": "2026-09-09T15:51:25.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011"
-        },
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/b9e0b9b5-3b6e-420e-83da-381b75534635?syn-25a6b1a6=1"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -875,16 +911,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
-      "link": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
-      "desc": "Privacy-preserving identity verification systems could allow individuals to prove only what a service needs to know while keeping the underlying information under their control, writes Coin Center’s Laz Pieper.",
-      "date": "2026-09-09T13:02:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Italy’s central bank orders sanctions screening for crypto transfers",
@@ -931,16 +957,6 @@
       "link": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Metaplanet’s executive stock pool continues to draw backlash over dilution concerns, as investors urged the company to freeze the exercise rights tied to 273 million shares.",
       "date": "2026-09-09T11:15:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "India seeks takedowns of 15 crypto platforms over AML compliance",
-      "link": "https://www.theblock.co/news/regulation/2026-09-09-india-seeks-takedowns-of-15-crypto-platforms-over-aml-compliance-413975",
-      "desc": "India's FIU issued non-compliance notices to 15 crypto platforms and sought takedowns of their apps and URLs.",
-      "date": "2026-09-09T11:12:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
