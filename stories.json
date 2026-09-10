@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T15:09:20.792Z",
+  "generatedAt": "2026-09-10T15:35:49.497Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 232,
+  "filteredOut": 235,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "block",
@@ -62,6 +62,36 @@
       "termBoost": 3
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+      "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
+      "date": "2026-09-10T15:35:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SEC Crypto Custody Rewrite Enters White House Review",
+      "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
+      "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
+      "date": "2026-09-10T15:35:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
+      "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
+      "desc": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
+      "date": "2026-09-10T15:33:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Wirex goes live on Tempo for enterprise stablecoin card programmes",
@@ -72,22 +102,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-10T15:09:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "SEC Crypto Custody Rewrite Enters White House Review",
-      "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-10T15:09:20.000Z",
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin Bancorp snaps up thousands of defunct Bitcoin Depot ATMs for $620,000",
+      "link": "https://www.coindesk.com/business/2026/09/10/a-quarter-of-bankrupt-bitcoin-depot-s-atms-snapped-up-for-less-than-usd1-million",
+      "desc": "Just over a quarter of Bitcoin Depot’s more than 9,200 kiosks have been sold for less than $1 million, court records show.",
+      "date": "2026-09-10T15:14:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -231,7 +251,13 @@
       "link": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions.",
       "date": "2026-09-10T13:35:23.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -881,16 +907,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "PayPal expands stablecoin rails with custom token issuance platform",
-      "link": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
-      "desc": "The PYUSDx stablecoin developer platform, backed by PayPal USD (PYUSD), is built with the help of M0 and MoonPay.",
-      "date": "2026-09-09T14:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
@@ -1117,46 +1133,6 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-and-citi-complete-weekend-dollar-payment-on-swift-ledger",
       "desc": "The Singapore-US transfer took minutes, but Swift says final settlement still occurs through existing banking systems.",
       "date": "2026-09-08T16:01:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "BitMine Adds 28,086 ETH as Treasury Nears 5% of Supply",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-28-086-eth-as-treasury-nears-5-of-supply",
-      "desc": "The company valued its 5.93 million ETH at about $14.79 billion, while aggregate reported holdings rose to $15.7 billion from $15.6 billion a week earlier.",
-      "date": "2026-09-08T15:29:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
-      "link": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
-      "desc": "Memos from the NYPD to Homeland Security warn the devices could be used for covert filming inside jails and police facilities.",
-      "date": "2026-09-08T15:28:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
-      "link": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
-      "desc": "The multi-year deal makes OG.com the infrastructure and clearing engine behind Robinhood's fastest-growing business.",
-      "date": "2026-09-08T15:25:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Morpho Expands Fixed-Rate Midnight Markets to Ethereum",
-      "link": "https://thedefiant.io/news/defi/morpho-expands-fixed-rate-midnight-markets-to-ethereum",
-      "desc": "USDC markets backed by WBTC and cbBTC are live, while roughly $5 billion held in Morpho Vaults remains unable to enter Midnight pending DAO action.",
-      "date": "2026-09-08T15:15:19.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
