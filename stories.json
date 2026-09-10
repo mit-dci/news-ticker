@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T16:35:23.392Z",
+  "generatedAt": "2026-09-10T17:08:20.370Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 235,
+  "filteredOut": 236,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "block",
@@ -51,23 +51,12 @@
       "termBoost": 3
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
-      "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
-      "desc": "The threat is not here yet, but fault-tolerant machines and crypto’s migration plans are starting to converge on the same 2029 window.",
-      "date": "2026-09-09T15:30:00.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-10T16:35:22.000Z",
+      "date": "2026-09-10T17:08:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -77,7 +66,43 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-10T16:35:22.000Z",
+      "date": "2026-09-10T17:08:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Nasdaq Invests $100M in Kraken Parent Company: Report",
+      "link": "https://bitcoinmagazine.com/news/nasdaq-invests-in-kraken",
+      "desc": "Bitcoin Magazine Nasdaq Invests $100M in Kraken Parent Company: Report The deal between Kraken and Nasdaq will help build infrastructure for tokenization, according to a Bloomberg report. This post Nasdaq Invests $100M in Kraken Parent Company: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-09-10T17:05:28.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Liquid Network resumes block production after $320M exploit",
+      "link": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Liquid restarted block production after deploying emergency software updates, though transactions and peg operations remain suspended as recovery efforts continue.",
+      "date": "2026-09-10T16:38:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -374,27 +399,6 @@
       "desc": "Long-term yields moved higher despite a $6 billion Treasury buyback, as debt concerns and rising oil prices continue to pressure global bond markets.",
       "date": "2026-09-10T11:47:41.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
-      "link": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.",
-      "date": "2026-09-10T11:41:00.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -1002,16 +1006,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
-      "link": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Metaplanet’s executive stock pool continues to draw backlash over dilution concerns, as investors urged the company to freeze the exercise rights tied to 273 million shares.",
-      "date": "2026-09-09T11:15:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
@@ -1058,16 +1052,6 @@
       "link": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
       "desc": "The hackers have returned 3,400 of the roughly 4,000 BTC drained from the sidechain, but about 600 BTC remains outstanding—and some doubt the actors' \"white hat\" claims.",
       "date": "2026-09-08T20:46:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "CoinCorner Launches Lloyd’s-Insured Multisig Bitcoin Vault with AnchorWatch",
-      "link": "https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault",
-      "desc": "Bitcoin Magazine CoinCorner Launches Lloyd’s-Insured Multisig Bitcoin Vault with AnchorWatch British bitcoin exchange CoinCorner is debuting a multisig custody service. This post CoinCorner Launches Lloyd’s-Insured Multisig Bitcoin Vault with AnchorWatch first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-09-08T20:16:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
