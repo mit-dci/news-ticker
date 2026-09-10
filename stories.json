@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-10T11:34:24.064Z",
+  "generatedAt": "2026-09-10T12:14:06.301Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 233,
+  "filteredOut": 232,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "decrypt",
@@ -51,6 +51,36 @@
       "termBoost": 3
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+      "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
+      "date": "2026-09-10T12:14:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SEC Crypto Custody Rewrite Enters White House Review",
+      "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
+      "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
+      "date": "2026-09-10T12:14:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ex-BoE deputy governor headlines trio of former central bankers joining Fnality",
+      "link": "https://cointelegraph.com/news/ex-boe-cunliffe-central-bankers-fnality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Jon Cunliffe, Jochen Metzger and Ron Berndsen join Fnality Europe’s supervisory board as the company works to expand beyond its sterling payment system.",
+      "date": "2026-09-10T12:02:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Swedish fintech Mynt acquires CostPocket",
@@ -61,33 +91,28 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
-      "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-10T11:34:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "SEC Crypto Custody Rewrite Enters White House Review",
-      "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
-      "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-10T11:34:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
-      "link": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
-      "desc": "The investment expands a strategic partnership to bring tokenized, voting-enabled equities to crypto exchange users.",
-      "date": "2026-09-10T11:21:21.000Z",
+      "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
+      "link": "https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge",
+      "desc": "Long-term yields moved higher despite a $6 billion Treasury buyback, as debt concerns and rising oil prices continue to pressure global bond markets.",
+      "date": "2026-09-10T11:47:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Nasdaq invests $100M in Kraken parent at $21B valuation: Report",
+      "link": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Nasdaq invested $100 million in Payward as part of its push toward tokenized stock products with round-the-clock trading.",
+      "date": "2026-09-10T11:39:43.000Z",
       "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation"
+        },
         {
           "source": "DECRYPT",
           "sourceId": "decrypt",
@@ -163,7 +188,13 @@
       "link": "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Nansen found a $117,800 unrealized loss in one wallet as the team announced liquidity incentives and Bubblemaps flagged fresh top holders.",
       "date": "2026-09-10T10:08:46.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -832,26 +863,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
-      "link": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
-      "desc": "The fifth-largest U.S. commercial bank said it is exploring USBDC stablecoin for treasury payments, liquidity management and collateral after completing a live transaction.",
-      "date": "2026-09-09T11:40:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Wall Street's newest crypto fund comes with a staking feature to boost returns",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/09/wall-street-s-newest-crypto-fund-comes-with-a-staking-feature-to-boost-returns",
-      "desc": "Your day-ahead look for Sept. 9, 2026",
-      "date": "2026-09-09T11:23:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
@@ -918,16 +929,6 @@
       "link": "https://cointelegraph.com/news/gemini-singapore-mpi-license-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Gemini’s local entity is authorized to provide digital payment token and cross-border money transfer services without standard transaction-volume limits.",
       "date": "2026-09-09T05:27:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Cybercrime ringleader Malone Lam pleads guilty in $245M crypto theft conspiracy",
-      "link": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US prosecutors said Lam organized an international network that targeted cryptocurrency holders through social engineering and home break-ins.",
-      "date": "2026-09-09T04:09:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
