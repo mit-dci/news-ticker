@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-11T03:38:32.801Z",
+  "generatedAt": "2026-09-11T04:11:46.050Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 242,
-  "errors": [],
-  "dupsMerged": 13,
+  "successCount": 17,
+  "filteredOut": 232,
+  "errors": [
+    "DECRYPT: fetch failed"
+  ],
+  "dupsMerged": 9,
   "items": [
     {
       "source": "block",
@@ -29,34 +31,12 @@
       "termBoost": 3
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
-      "link": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs",
-      "desc": "Buterin wants EIP-8288 in I-star, the upgrade after Hegota, and adopting it would make RISC-V Ethereum's canonical instruction set.",
-      "date": "2026-09-10T10:11:52.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
-      "link": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
-      "desc": "The company has built its first chips and begun testing prototypes as it seeks to manufacture quantum computers in larger quantities.",
-      "date": "2026-09-09T16:46:05.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-11T03:38:31.000Z",
+      "date": "2026-09-11T04:11:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -66,7 +46,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-11T03:38:31.000Z",
+      "date": "2026-09-11T04:11:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -76,7 +56,7 @@
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
       "desc": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
-      "date": "2026-09-11T03:38:31.000Z",
+      "date": "2026-09-11T04:11:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -177,13 +157,7 @@
       "link": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
       "desc": "Ahead of a pivotal initial vote next week, Senate Republicans released a revised version of landmark cryptocurrency legislation.",
       "date": "2026-09-10T19:42:06.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -193,26 +167,6 @@
       "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
       "desc": "The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.",
       "date": "2026-09-10T19:01:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
-      "link": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
-      "desc": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
-      "date": "2026-09-10T18:51:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
-      "link": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
-      "desc": "Bitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.",
-      "date": "2026-09-10T18:46:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -274,11 +228,6 @@
           "source": "COINDESK",
           "sourceId": "coindesk",
           "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation"
         }
       ],
       "termBoost": 0
@@ -340,16 +289,6 @@
       "link": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "European finance and tokenization groups say Brussels should remove limits on assets admitted to DLT infrastructure or set a 1.5 trillion euro baseline if a cap remains.",
       "date": "2026-09-10T15:49:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
-      "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
-      "desc": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
-      "date": "2026-09-10T15:33:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -498,16 +437,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
-      "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
-      "desc": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
-      "date": "2026-09-10T13:04:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
@@ -594,13 +523,7 @@
       "link": "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Nansen found a $117,800 unrealized loss in one wallet as the team announced liquidity incentives and Bubblemaps flagged fresh top holders.",
       "date": "2026-09-10T10:08:46.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -754,16 +677,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
-      "link": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
-      "desc": "The hardware wallet maker said a fake security alert claimed a hardware flaw could expose users’ recovery phrases.",
-      "date": "2026-09-09T23:02:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "US Treasury Secretary Scott Bessent ‘Strongly Urges’ Senate To Pass Clarity Act",
@@ -806,13 +719,7 @@
       "link": "https://bitcoinmagazine.com/news/block-applies-for-banking-charter",
       "desc": "Bitcoin Magazine Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter Block wants the banking license so it can open Builders Bank, which would provide custody and related fiduciary services for bitcoin. This post Jack Dorsey’s Block Becomes Latest Bitcoin-Focused Company To Apply for Banking Charter first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-09-09T20:35:41.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -822,16 +729,6 @@
       "link": "https://thedefiant.io/news/markets/report-links-2-08m-in-laptop-sales-to-wintermute-tagged-wallet",
       "desc": "Lookonchain traced a 2.5 million-token team allocation to the address; separately, one trader reported nearly empty launch pools and a 98% early drop.",
       "date": "2026-09-09T19:24:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-      "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
-      "desc": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
-      "date": "2026-09-09T18:56:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -862,16 +759,6 @@
       "link": "https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848",
       "desc": "Among tracked companies, only one bitcoin mining company has outperformed the cryptocurrency: Canaan (ticker CAN).",
       "date": "2026-09-09T17:36:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-      "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
-      "desc": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi—which ran $24 billion through a Telegram scam bazaar—called the freeze unfair.",
-      "date": "2026-09-09T17:16:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -926,16 +813,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
-      "link": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
-      "desc": "Mexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.",
-      "date": "2026-09-09T16:16:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Robinhood CEO Vlad Tenev fires back at AMC's Aron in escalating fight over stock tokens",
@@ -956,52 +833,12 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
-      "link": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
-      "desc": "LAPTOP hit a $190.81 peak within minutes of launching on Base, then shed roughly 99% as thin liquidity met a wave of selling.",
-      "date": "2026-09-09T15:47:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
-      "link": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
-      "desc": "Myriad's $120 side overtook $55 at the start of September, while Polymarket puts WTI reaching $100 this month at 59%.",
-      "date": "2026-09-09T15:15:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
-      "link": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
-      "desc": "Consensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.",
-      "date": "2026-09-09T15:07:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Consensys Software Inc. Splits In Two, Rebrands As MetaMask",
       "link": "https://thedefiant.io/news/defi/consensys-software-inc-splits-in-two-rebrands-as-metamask",
       "desc": "The company behind the MetaMask wallet will keep the wallet and rename itself MetaMask, with Joe Lubin as CEO. Linea, Besu and the institutional infrastructure business move into a newly formed company that carries the Consensys name. Completion is expected by the end of 2026.",
       "date": "2026-09-09T15:00:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-      "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
-      "desc": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
-      "date": "2026-09-09T14:37:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1022,26 +859,6 @@
       "link": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "From the whereabouts of the CryptoQueen to a mysterious death involving a DeFi builder paranoid about the “pedo elite,” here are 10 crypto mysteries that still have no good answer.",
       "date": "2026-09-09T13:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers",
-      "link": "https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
-      "desc": "The agency ranks cryptoassets third among nine economic crime priorities, and says it wants to generate its own targets.",
-      "date": "2026-09-09T11:43:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
-      "link": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
-      "desc": "Forensic accountants are tracing who paid for the mining hardware, and money laundering has not been ruled out.",
-      "date": "2026-09-09T09:28:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
