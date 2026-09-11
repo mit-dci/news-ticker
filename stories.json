@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-11T14:36:44.045Z",
+  "generatedAt": "2026-09-11T15:09:07.267Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 240,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "block",
@@ -29,6 +29,16 @@
       "termBoost": 3
     },
     {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #422",
+      "link": "https://bitcoinops.org/en/newsletters/2026/09/11/",
+      "desc": "This week’s newsletter describes a proposed protocol for probabilistic coinjoins disguised as covert bets and summarizes benchmarks of a silent payments indexing server against compact block filters for light clients. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-09-11T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
@@ -45,7 +55,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-11T14:36:43.000Z",
+      "date": "2026-09-11T15:09:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -55,7 +65,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-11T14:36:43.000Z",
+      "date": "2026-09-11T15:09:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -65,8 +75,39 @@
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
       "desc": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
-      "date": "2026-09-11T14:36:43.000Z",
+      "date": "2026-09-11T15:09:06.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Spark Opens Its USDT Savings Vault To OKX Users",
+      "link": "https://thedefiant.io/news/defi/spark-okx-usdt-savings-x-layer-integration",
+      "desc": "The exchange routes USDT deposits into a Spark vault on X Layer, OKX's own Layer 2 network, where the vault holds under $500 and Spark's risk reviewers noted the chain can be upgraded by its operator without delay.",
+      "date": "2026-09-11T14:50:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Blockstream Rejects Ransom Demand After Liquid Bitcoin Exploit",
+      "link": "https://thedefiant.io/news/security/blockstream-rejects-ransom-demand-after-liquid-bitcoin-exploit",
+      "desc": "Liquid said on Sept. 8 that 3,400 BTC had been returned and about 598.5 BTC remained outstanding; transactions later resumed with peg-outs disabled.",
+      "date": "2026-09-11T14:42:37.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -157,22 +198,6 @@
       "desc": "The Italian bank is reportedly seeking assistance in launching access to crypto trading, custody and tokenized investment products.",
       "date": "2026-09-11T11:35:27.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘Return the bitcoin’: Blockstream refuses ransom demand for remaining 600 BTC from Liquid exploit",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247",
-      "desc": "Liquid has resumed transactions following the exploit, though peg-outs remain disabled as recovery work continues.",
-      "date": "2026-09-11T11:21:17.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -1022,36 +1047,6 @@
       "link": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
       "desc": "Myriad's $120 side overtook $55 at the start of September, while Polymarket puts WTI reaching $100 this month at 59%.",
       "date": "2026-09-09T15:15:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
-      "link": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
-      "desc": "Consensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.",
-      "date": "2026-09-09T15:07:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Consensys Software Inc. Splits In Two, Rebrands As MetaMask",
-      "link": "https://thedefiant.io/news/defi/consensys-software-inc-splits-in-two-rebrands-as-metamask",
-      "desc": "The company behind the MetaMask wallet will keep the wallet and rename itself MetaMask, with Joe Lubin as CEO. Linea, Besu and the institutional infrastructure business move into a newly formed company that carries the Consensys name. Completion is expected by the end of 2026.",
-      "date": "2026-09-09T15:00:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-      "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
-      "desc": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
-      "date": "2026-09-09T14:37:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
