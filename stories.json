@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-12T12:38:38.155Z",
+  "generatedAt": "2026-09-12T13:07:43.653Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 255,
+  "filteredOut": 259,
   "errors": [],
   "dupsMerged": 12,
   "items": [
@@ -12,7 +12,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-12T12:38:37.000Z",
+      "date": "2026-09-12T13:07:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +22,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-12T12:38:37.000Z",
+      "date": "2026-09-12T13:07:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +32,7 @@
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
       "desc": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
-      "date": "2026-09-12T12:38:37.000Z",
+      "date": "2026-09-12T13:07:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -55,17 +55,6 @@
       "date": "2026-09-12T04:00:23.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
-      "desc": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.",
-      "date": "2026-09-10T13:00:00.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "bitcoinops",
@@ -750,7 +739,13 @@
       "link": "https://bitcoinmagazine.com/news/nasdaq-invests-in-kraken",
       "desc": "Bitcoin Magazine Nasdaq Invests $100M in Kraken Parent Company: Report The deal between Kraken and Nasdaq will help build infrastructure for tokenization, according to a Bloomberg report. This post Nasdaq Invests $100M in Kraken Parent Company: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-09-10T17:05:28.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/cefi/nasdaq-invests-100-million-in-kraken-parent-payward"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -894,22 +889,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Nasdaq Invests $100 Million in Kraken Parent Payward",
-      "link": "https://thedefiant.io/news/cefi/nasdaq-invests-100-million-in-kraken-parent-payward",
-      "desc": "Nasdaq Ventures agreed to put $100 million into Kraken's parent company, at a $21 billion valuation according to Bloomberg, and Payward will adopt Nasdaq's surveillance technology across its trading venues.",
-      "date": "2026-09-10T14:08:58.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Citadel urges SEC to assert oversight of event contracts tied to public firms",
@@ -933,26 +912,6 @@
           "url": "https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
-      "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
-      "desc": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
-      "date": "2026-09-10T13:04:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Solana sees record 263K tokens issued in a single day",
-      "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.",
-      "date": "2026-09-10T13:00:00.000Z",
-      "alsoAt": [],
       "termBoost": 0
     }
   ]
