@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-12T02:13:27.208Z",
+  "generatedAt": "2026-09-12T02:40:16.043Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 247,
-  "errors": [],
-  "dupsMerged": 14,
+  "successCount": 17,
+  "filteredOut": 233,
+  "errors": [
+    "DECRYPT: DECRYPT: HTTP 521"
+  ],
+  "dupsMerged": 10,
   "items": [
     {
       "source": "defiant",
@@ -12,7 +14,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-12T02:13:25.000Z",
+      "date": "2026-09-12T02:39:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -22,7 +24,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-12T02:13:25.000Z",
+      "date": "2026-09-12T02:39:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +34,7 @@
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
       "desc": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
-      "date": "2026-09-12T02:13:25.000Z",
+      "date": "2026-09-12T02:39:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,27 +66,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
       "desc": "In a post on Friday, Vlad Tenev said securities issuers should control shareholder rights, but not separate products that track their publicly traded shares.",
       "date": "2026-09-11T23:47:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
-      "link": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs",
-      "desc": "Buterin wants EIP-8288 in I-star, the upgrade after Hegota, and adopting it would make RISC-V Ethereum's canonical instruction set.",
-      "date": "2026-09-10T10:11:52.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
-      "link": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
-      "desc": "Greenberg Traurig said documents were posted to the dark web, while BakerHostetler recorded a near-doubling of law-firm incidents in 2025.",
-      "date": "2026-09-11T21:45:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -125,16 +106,6 @@
       "link": "https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin",
       "desc": "Bitcoin Magazine Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft White hat hackers targeted Blocksteam's Liquid sidechain, taking over 4,000 bitcoins. They want to keep some of the bitcoins as a reward. Blockstream isn't happy. This post Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-09-11T21:13:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
-      "link": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
-      "desc": "A rapidly changing interest rates market has changed the near-term outlook on the Bitcoin chart. Here’s why.",
-      "date": "2026-09-11T20:53:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -219,16 +190,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
-      "link": "https://decrypt.co/377973/bitwise-shuts-dogecoin-etf",
-      "desc": "BWOW will stop trading October 14, with cash payments to remaining shareholders expected October 22.",
-      "date": "2026-09-11T16:16:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
@@ -265,16 +226,6 @@
       "link": "https://www.theblock.co/news/business/2026-09-11-metaplanet-reverses-course-executive-options-41-cut-potential-shares-scraps-employee-warrant-plan-414265",
       "desc": "The changes come amid a bruising stretch for Metaplanet shares, as stock fell about 17% over two trading sessions this week.",
       "date": "2026-09-11T15:45:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-      "link": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
-      "desc": "Inflation held at 3.4% and core cooled annually, but a hot monthly core reading kept Fed hike odds near 62% while crypto markets rallied broadly.",
-      "date": "2026-09-11T15:32:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -341,11 +292,6 @@
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/news/ecosystems/2026-09-11-return-the-bitcoin-blockstream-refuses-ransom-demand-for-remaining-600-btc-from-liquid-exploit-414247"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377959/blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-theft"
         }
       ],
       "termBoost": 0
@@ -501,16 +447,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them",
-      "link": "https://decrypt.co/377939/albuquerque-bans-bitcoin-atms-giving-operators-45-days-to-remove-them",
-      "desc": "A councilor said 90% of crypto kiosk transactions in the city are tied to fraud, calling the machines a conduit for crime.",
-      "date": "2026-09-11T10:10:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Anthropic says Claude used for cyberattacks and surveillance",
@@ -542,11 +478,6 @@
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction"
         }
       ],
       "termBoost": 0
@@ -664,13 +595,7 @@
       "link": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
       "desc": "Ahead of a pivotal initial vote next week, Senate Republicans released a revised version of landmark cryptocurrency legislation.",
       "date": "2026-09-10T19:42:06.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -680,26 +605,6 @@
       "link": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
       "desc": "The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.",
       "date": "2026-09-10T19:01:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
-      "link": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
-      "desc": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
-      "date": "2026-09-10T18:51:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
-      "link": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
-      "desc": "Bitcoin couldn't escape today's inflation-driven selloff, but a bearish pattern on its chart is about to flip for the first time since November.",
-      "date": "2026-09-10T18:46:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -756,11 +661,6 @@
           "source": "COINTELEGRAPH",
           "sourceId": "cointelegraph",
           "url": "https://cointelegraph.com/news/nasdaq-invests-100m-kraken-parent-21b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/377864/nasdaq-invests-100m-in-kraken-parent-payward-at-21b-valuation"
         }
       ],
       "termBoost": 0
@@ -812,16 +712,6 @@
       "link": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "European finance and tokenization groups say Brussels should remove limits on assets admitted to DLT infrastructure or set a 1.5 trillion euro baseline if a cap remains.",
       "date": "2026-09-10T15:49:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
-      "link": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
-      "desc": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
-      "date": "2026-09-10T15:33:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -958,32 +848,12 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
-      "link": "https://decrypt.co/377875/bitcoin-at-400k-by-2030-still-reasonable-target-coinbase-ceo",
-      "desc": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
-      "date": "2026-09-10T13:04:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Solana sees record 263K tokens issued in a single day",
       "link": "https://cointelegraph.com/news/solana-record-263k-tokens-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Memecoin platform Pump.fun accounted for most of the new tokens among launchpads, as the Solana network notched a new all-time daily issuance high.",
       "date": "2026-09-10T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Morning Minute: Hunter Biden’s LAPTOP Crashes",
-      "link": "https://decrypt.co/377867/morning-minute-hunter-bidens-laptop-crashes",
-      "desc": "The meme coin plunged on its debut, as recent alt leaders and many onchain darlings slipped in a nasty day for crypto.",
-      "date": "2026-09-10T12:10:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1014,16 +884,6 @@
       "link": "https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095",
       "desc": "The LAPTOP project said it will add pool incentives and expects early prediction-market burns to cut supply.",
       "date": "2026-09-10T05:28:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Trezor says third-party security breach led to phishing emails from legitimate domain",
-      "link": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
-      "desc": "This follows last month's security breach at shipping provider ShipMonk, which exposed the personal information of Trezor customers.",
-      "date": "2026-09-10T02:26:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
