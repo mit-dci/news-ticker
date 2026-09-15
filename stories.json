@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-15T12:13:49.608Z",
+  "generatedAt": "2026-09-15T12:43:55.712Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 265,
-  "errors": [],
-  "dupsMerged": 5,
+  "successCount": 17,
+  "filteredOut": 244,
+  "errors": [
+    "BIS: BIS: HTTP 503"
+  ],
+  "dupsMerged": 6,
   "items": [
     {
       "source": "coincenter",
@@ -22,7 +24,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-15T12:13:48.000Z",
+      "date": "2026-09-15T12:43:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -32,7 +34,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-15T12:13:48.000Z",
+      "date": "2026-09-15T12:43:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -42,7 +44,17 @@
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
       "desc": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
-      "date": "2026-09-15T12:13:48.000Z",
+      "date": "2026-09-15T12:43:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Standard Chartered Sets $10 Arbitrum Target on Robinhood and Tokenization Growth",
+      "link": "https://thedefiant.io/news/markets/standard-chartered-sets-10-arbitrum-target-on-robinhood-and-tokenization-growth",
+      "desc": "Geoff Kendrick's note calls Arbitrum \"the blockchain for TradFi\" and puts the token at roughly 70 times its current price by the end of the decade. The forecast rests on the 10% cut Arbitrum takes from chains built on its stack — a line that Robinhood Chain created in July and that has fallen 93%",
+      "date": "2026-09-15T12:27:07.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -265,7 +277,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin slides to $77,000 as Senate votes on Clarity Act",
+      "title": "Live updates: Bitcoin slides to $77,000 ahead of Senate vote on Clarity Act",
       "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
       "desc": "Senators take a procedural vote on the crypto market structure bill later Tuesday. Bitcoin has given back 3% since touching $79,530 overnight, with XRP and zcash the only majors gaining ground.",
       "date": "2026-09-15T06:37:24.000Z",
@@ -279,7 +291,13 @@
       "link": "https://www.theblock.co/news/business/2026-09-15-coinex-shut-down-414788",
       "desc": "The exchange blamed a long market slump, shrinking volume and liquidity, and rising regulatory and compliance costs.",
       "date": "2026-09-15T06:22:17.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48405/crypto-exchange-coinex-winds-down?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -409,16 +427,6 @@
       "link": "https://cointelegraph.com/news/democrats-push-back-on-gops-final-clarity-offer-with-counterproposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Some Democrats remain dissatisfied with the bill’s crypto ethics provisions and will be sending a counterproposal just hours before a key procedural vote.",
       "date": "2026-09-15T00:46:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bis",
-      "sourceName": "BIS",
-      "title": "Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems",
-      "link": "https://www.bis.org/publications/working-paper-1377-hidden-complexity-measuring-stablecoin-crypto-and-decentralised-finance-ecosystems",
-      "desc": "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured by the scale, fragmentation and complexity of the ecosystem. Key metrics illustrate that the rapidly evolving DeFi ecosystem introduces unique challenges for economic and financial research in accurately capturing financial activity in DeFi.",
-      "date": "2026-09-15T00:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
