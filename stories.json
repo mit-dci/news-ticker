@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T10:37:01.428Z",
+  "generatedAt": "2026-09-17T11:08:50.545Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 235,
+  "filteredOut": 236,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "bitcoinmag",
@@ -33,7 +33,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-17T10:36:59.000Z",
+      "date": "2026-09-17T11:08:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -43,7 +43,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-17T10:36:59.000Z",
+      "date": "2026-09-17T11:08:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -53,8 +53,29 @@
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
       "desc": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
-      "date": "2026-09-17T10:36:59.000Z",
+      "date": "2026-09-17T11:08:49.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Revolut Hackers Issue $3 Million Ransom for Customer Data",
+      "link": "https://www.pymnts.com/cybersecurity/2026/revolut-hackers-issue-3-million-ransom-for-customer-data/",
+      "desc": "Hackers claiming to have breached British FinTech Revolut have now reportedly issued a ransom demand. The group, known as “iamnotavillain,” is threatening to sell confidential information about hundreds of customers unless the online bank pays a roughly $3 million ransom within 24 hours, the Financial Times reported Wednesday (Sept. 16). “Revolut has not received any […] The post Revolut Hackers Issue $3 Million Ransom for Customer Data appeared first on PYMNTS.com.",
+      "date": "2026-09-17T10:50:46.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data"
+        },
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/d1f2c9bd-26ce-4e87-9da4-fe0238bd531d?syn-25a6b1a6=1"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -204,7 +225,13 @@
       "link": "https://thedefiant.io/news/markets/bitcoin-round-trips-fed-rate-increase-zcash-sep-16-2026",
       "desc": "The Federal Open Market Committee voted 12-0 to lift its target range a quarter point to 3.75%-4%, and the median projection now puts the rate at 4.1% at the end of 2026 against 3.8% in June. Bitcoin spiked to $76,499.99 five minutes after the release and gave it back within half an hour. The S&P",
       "date": "2026-09-16T22:33:10.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -275,22 +302,6 @@
       "desc": "The FCA’s new guidance outlines which crypto activities may require authorization as firms prepare for the UK’s incoming digital asset regulatory regime.",
       "date": "2026-09-16T19:19:23.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
-      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
-      "desc": "The group gave Revolut 24 hours to pay and said it targeted customers with significant crypto holdings. Revolut said it has not not received any direct contact from the individuals.",
-      "date": "2026-09-16T19:07:34.000Z",
-      "alsoAt": [
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/d1f2c9bd-26ce-4e87-9da4-fe0238bd531d?syn-25a6b1a6=1"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -380,6 +391,16 @@
       "link": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
       "desc": "Michael Selig and Paul Atkins pledged to use their agencies’ existing powers to provide crypto regulatory certainty after the Senate failed to advance the bill.",
       "date": "2026-09-16T17:17:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Aave founder pitches ‘Uber path’ for DeFi after Clarity Act fails Senate vote",
+      "link": "https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278",
+      "desc": "Aave founder Stani Kulechov sees an 'Uber path' for DeFi if U.S. crypto legislation stalls, he told The Starting Block.",
+      "date": "2026-09-16T17:08:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -788,32 +809,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
-      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
-      "desc": "Weakening U.S. demand, a setback for the Clarity act and expectations of a fed rate hike weigh on bitcoin.",
-      "date": "2026-09-16T09:57:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
       "link": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin exchange demand on Coinbase declined after the US Senate voted against the CLARITY Act, while traders sent BTC to exchanges at an unrealized loss.",
       "date": "2026-09-16T09:55:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
-      "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
-      "desc": "U.S. prosecutors allege two engineers used confidential Robinhood token listing data to front-run announcements using Hyperliquid perpetual futures.",
-      "date": "2026-09-16T09:42:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -971,22 +972,6 @@
       "desc": "The DEX aggregator found 54.2% of the 84,163 hooks it analyzed were malicious. Uniswap's founder and Paradigm's Dan Robinson said the failure is in 0x's routing.",
       "date": "2026-09-15T18:56:26.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "US Senate fails to advance CLARITY Act",
-      "link": "https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The failed procedural vote leaves the CLARITY Act facing an uncertain future after months of negotiations over crypto oversight and ethics provisions.",
-      "date": "2026-09-15T18:46:51.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/defi/2026-09-16-aave-founder-pitches-uber-path-defi-clarity-act-fails-senate-vote-415278"
-        }
-      ],
       "termBoost": 0
     },
     {
