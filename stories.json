@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T20:10:33.727Z",
+  "generatedAt": "2026-09-24T20:37:40.755Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 246,
+  "filteredOut": 245,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "decrypt",
@@ -40,12 +40,52 @@
       "termBoost": 3
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Fed proposes reserve limits, capital standards for stablecoin issuers under GENIUS Act",
+      "link": "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336",
+      "desc": "The Federal Reserve proposed new measures for stablecoin issuers, including reserve-asset limits and standardized capital requirements.",
+      "date": "2026-09-24T20:19:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
+      "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
+      "desc": "The company has vehemently denied that it was shopping for buyers. Allman’s estate declined to comment.",
+      "date": "2026-09-24T20:13:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
       "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
       "desc": "The U.S derivatives regulator is grinding away at further guidance that welcomes tokenization and blockchain recordkeeping as regular industry elements.",
       "date": "2026-09-24T20:04:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
+      "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "DoubleZero launched a dedicated fiber market data feed for Hyperliquid, giving professional trading firms faster access to its full order book.",
+      "date": "2026-09-24T20:04:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The stock token debate, and the gap nobody can close alone",
+      "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
+      "desc": "The argument over Robinhood’s AMC token has been about which tokenization model is legitimate, and the SEC has drawn a line. The question to ask now is what has to be true for any of it to be a market, argues Bullish’s Tram Doman.",
+      "date": "2026-09-24T20:03:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -751,6 +791,16 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+      "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.",
+      "date": "2026-09-23T20:43:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Zcash Clears $1,600 After 21Shares Launches European ETP",
@@ -798,22 +848,6 @@
       "desc": "Sources told CoinDesk the all-stock deal is worth more than $60 million; the transaction remains subject to regulatory approval.",
       "date": "2026-09-23T19:06:18.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
-      "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
-      "desc": "The crypto community is seeking answers after 37-year-old growth executive Hsin-Ju Chuang was found dead in a remote California desert vehicle.",
-      "date": "2026-09-23T18:59:36.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -1023,32 +1057,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CFTC warns ‘mention market’ prediction contracts carry heightened manipulation risk",
-      "link": "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120",
-      "desc": "The CFTC is warning that bets on prediction markets based on whether someone will \"mention\" specific words carries manipulation risks.",
-      "date": "2026-09-22T21:42:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Bitcoin Cash Runs 27% on CME Futures Listing as Bitcoin Gives Up the Day",
       "link": "https://thedefiant.io/news/markets/bitcoin-cash-cme-futures-listing-sep-22-2026",
       "desc": "Bitcoin Cash gained 14% in the hour CME Group said it would list futures on the token and kept climbing through the afternoon, finishing the session up 27% on more than twice Monday's volume. Bitcoin SV rose 20% alongside it. Uniswap, named in the same release, spiked 11%, gave the whole move back",
       "date": "2026-09-22T20:42:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "a16z And DeFi Education Fund Ask SEC To Put DEXs Outside Exchange Registration",
-      "link": "https://thedefiant.io/news/regulation/a16z-defi-education-fund-sec-dex-exchange-registration-safe-harbor",
-      "desc": "The two groups submitted a joint proposal to Commissioner Hester Peirce for a safe harbor that would create a rebuttable presumption that decentralized exchange protocols and their front-ends are not exchanges under the Exchange Act. a16z filed a second letter the same day asking the SEC to build a",
-      "date": "2026-09-22T20:15:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
