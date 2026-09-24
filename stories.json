@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T13:09:03.126Z",
+  "generatedAt": "2026-09-24T13:38:14.059Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 250,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "decrypt",
@@ -87,7 +87,7 @@
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-24T13:09:02.000Z",
+      "date": "2026-09-24T13:38:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -97,7 +97,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-24T13:09:02.000Z",
+      "date": "2026-09-24T13:38:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -107,7 +107,17 @@
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
       "desc": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
-      "date": "2026-09-24T13:09:02.000Z",
+      "date": "2026-09-24T13:38:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-09-24T13:29:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -128,7 +138,13 @@
       "link": "https://decrypt.co/379179/solana-foundation-hires-binances-former-global-cmo-for-institutional-push",
       "desc": "Rachel Conlan arrives as chief strategy officer and Polygon Labs' Jamal Raees takes over payments, both recruited from elsewhere in crypto.",
       "date": "2026-09-24T13:03:03.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -389,16 +405,6 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-09-24T05:23:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -837,16 +843,6 @@
       "link": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open",
       "desc": "The exchange, co-founded by Arthur Hayes, stopped trading and deposits, but says users can still log in and withdraw funds as its wind-down continues.",
       "date": "2026-09-23T10:24:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
-      "link": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
-      "desc": "Onchain analysts PeckShield and EmberCN say the funds moved to a Wintermute wallet, but neither a sale nor the purpose of the transfer have been confirmed.",
-      "date": "2026-09-23T09:57:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
