@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T22:08:54.757Z",
+  "generatedAt": "2026-09-24T22:34:52.258Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 241,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "decrypt",
@@ -38,6 +38,42 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+      "desc": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
+      "date": "2026-09-24T22:28:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+      "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act.",
+      "date": "2026-09-24T22:10:09.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation",
+      "link": "https://bitcoinmagazine.com/news/new-york-sues-polymarket",
+      "desc": "Bitcoin Magazine New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation Attorney General Letitia James and Governor Kathy Hochul allege Polymarket operates without a license in a new complaint. This post New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-09-24T22:09:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -88,9 +124,9 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Bitget Disables Withdrawals For Every Asset After $165 Million Moves To One Address",
+      "title": "Bitget Suspends Withdrawals, Says $351.6 Million Affected In Hot Wallet Breach",
       "link": "https://thedefiant.io/news/cefi/bitget-disables-withdrawals-165-million-one-address-four-chains",
-      "desc": "Bitget's public API listed withdrawals as disabled on all 4,930 asset-network entries it returns. Deposits stayed enabled and spot trading stayed online.",
+      "desc": "The exchange said its cold wallets were unaffected and that the incident falls within a user protection fund holding more than $464 million.",
       "date": "2026-09-24T21:42:42.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -132,16 +168,6 @@
       "link": "https://bitcoinmagazine.com/news/hester-peirce-advocates-privacy-tech",
       "desc": "Bitcoin Magazine SEC Commissioner Hester ‘Crypto Mom’ Peirce Advocates Privacy-Preserving Tech The outgoing regulator took aim at how regulators collect crypto users’ data. This post SEC Commissioner Hester ‘Crypto Mom’ Peirce Advocates Privacy-Preserving Tech first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-09-24T20:58:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Fed proposes reserve limits, capital standards for stablecoin issuers under GENIUS Act",
-      "link": "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336",
-      "desc": "The Federal Reserve proposed new measures for stablecoin issuers, including reserve-asset limits and standardized capital requirements.",
-      "date": "2026-09-24T20:19:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -645,16 +671,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Brent Johnson: BTC the Best “Pure Play” Asset for Rising Global Liquidity",
-      "link": "https://bitcoinmagazine.com/videos/brent-johnson-btc-best-asset-for-rising-global-liquidity",
-      "desc": "Bitcoin Magazine Brent Johnson: BTC the Best “Pure Play” Asset for Rising Global Liquidity Is Bitcoin money or the ultimate liquidity play? Santiago Capital’s Brent Johnson shares why BTC, digital assets, and stablecoins are built to last. This post Brent Johnson: BTC the Best “Pure Play” Asset for Rising Global Liquidity first appeared on Bitcoin Magazine and is written by Patrick Green.",
-      "date": "2026-09-24T12:52:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
@@ -813,16 +829,6 @@
       "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The reported initiative could involve private-sector companies and several US agencies as Washington looks to expand the international use of dollar-backed stablecoins.",
       "date": "2026-09-24T04:44:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
-      "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
-      "desc": "A rebound in oil, the strongest U.S. business survey in five years and a poorly received five-year note sale pushed borrowing costs higher, with DOGE leading token losses.",
-      "date": "2026-09-24T04:13:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1013,16 +1019,6 @@
       "link": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv",
       "desc": "A CME futures listing and a fresh Grayscale ETF filing sent Bitcoin's two biggest forks soaring, even as the flagship coin cooled off its seven-month high.",
       "date": "2026-09-23T15:56:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
-      "date": "2026-09-23T14:28:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
