@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T11:08:53.263Z",
+  "generatedAt": "2026-09-24T11:36:10.397Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 253,
+  "filteredOut": 252,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "decrypt",
@@ -83,12 +83,22 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Kredete acquires Gravv to build stablecoin infrastructure",
+      "link": "https://www.finextra.com/pressarticle/111018/kredete-acquires-gravv-to-build-stablecoin-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Kredete, the financial technology platform serving emerging-market and diaspora communities, today announced its acquisition of Gravv, an agentic stablecoin infrastructure platform that connects banks, blockchain networks, and local payment rails for real-time global money movement.",
+      "date": "2026-09-24T12:12:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-24T11:08:53.000Z",
+      "date": "2026-09-24T11:36:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -98,7 +108,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-24T11:08:53.000Z",
+      "date": "2026-09-24T11:36:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -108,8 +118,54 @@
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
       "desc": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
-      "date": "2026-09-24T11:08:53.000Z",
+      "date": "2026-09-24T11:36:10.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+      "link": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
+      "desc": "The fraudster managed to scam about 100 people across the United States, convincing them of transferring funds to him, claiming their accounts had been hacked.",
+      "date": "2026-09-24T11:33:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Litecoin token has its moment as network activity booms",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
+      "desc": "Your day-ahead look for Sept. 24, 2026",
+      "date": "2026-09-24T11:26:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Era of pure crypto exchanges is ending, Bybit CEO says",
+      "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bybit’s global campaign positions it as a broader financial platform, though its stock, gold and forex derivatives were already available.",
+      "date": "2026-09-24T11:24:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin continues lower as bond yields take center stage",
+      "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
+      "desc": "U.S. bond yields are little changed early Thursday after yesterday's surge higher sent risk markets sharply lower.",
+      "date": "2026-09-24T11:20:12.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -616,16 +672,6 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
-      "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
-      "desc": "The 10-year U.S. Treasury yield has soared 18 basis points on Wednesday to its highest level since 2007.",
-      "date": "2026-09-23T11:29:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
       "title": "The S&P 500 has a 'breadth' problem. Crypto doesn’t.",
       "link": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
       "desc": "Your day-ahead look for Sept. 23, 2026",
@@ -760,52 +806,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
-      "link": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "SlowMist said malicious FomoPeek versions distributed through Apple’s App Store used iOS kernel exploits to escape the sandbox and access sensitive data from other apps.",
-      "date": "2026-09-23T05:22:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
-      "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
-      "desc": "Alpenglow would let exchanges, bridges and merchants treat payments as irreversible almost immediately.",
-      "date": "2026-09-23T05:16:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin's on a streak it hasn't hit since 2012",
-      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
-      "desc": "Bitcoin’s 10% September gain puts it on track for a rare three-month winning streak last seen in 2012.",
-      "date": "2026-09-23T05:12:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Canada’s big six banks explore tokenized deposit system to modernize payments",
       "link": "https://www.theblock.co/news/business/2026-09-23-canada-banks-tokenized-deposit-system-416129",
       "desc": "The banks said the first phase of the project involves moving tokenized deposits efficiently across financial institutions.",
       "date": "2026-09-23T04:57:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
-      "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
-      "desc": "Falling oil eased inflation worries through the Asian session, while a bill to make the government's bitcoin stockpile permanent moved further through Congress than any before it.",
-      "date": "2026-09-23T04:10:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
