@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-24T19:08:07.925Z",
+  "generatedAt": "2026-09-24T19:33:48.003Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 244,
+  "filteredOut": 243,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "decrypt",
@@ -40,23 +40,12 @@
       "termBoost": 3
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "The Quantum Issue: You Never Really Know The Future",
-      "link": "https://bitcoinmagazine.com/print/the-quantum-issue-you-never-really-know-the-future",
-      "desc": "Bitcoin Magazine The Quantum Issue: You Never Really Know The Future From The Quantum Issue: Shinobi considering why it might actually be possible a viable quantum computer is built in the near future. This post The Quantum Issue: You Never Really Know The Future first appeared on Bitcoin Magazine and is written by Shinobi.",
-      "date": "2026-09-23T17:10:13.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
       "desc": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
-      "date": "2026-09-24T19:08:07.000Z",
+      "date": "2026-09-24T19:33:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -66,7 +55,7 @@
       "title": "SEC Crypto Custody Rewrite Enters White House Review",
       "link": "https://thedefiant.io/converge/regulation/sec-crypto-custody-rewrite-enters-white-house-review",
       "desc": "The planned rule would cover advisers and investment companies and clarify digital-asset custody, following the withdrawal of a separate 2023 proposal.",
-      "date": "2026-09-24T19:08:07.000Z",
+      "date": "2026-09-24T19:33:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -76,7 +65,43 @@
       "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
       "link": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
       "desc": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
-      "date": "2026-09-24T19:08:07.000Z",
+      "date": "2026-09-24T19:33:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Saifedean Ammous: The Bond Crisis & Bitcoin’s Rise as a True Macro Asset",
+      "link": "https://bitcoinmagazine.com/videos/saifedean-ammous-the-bond-crisis-bitcoins-rise-as-a-true-macro-asset",
+      "desc": "Bitcoin Magazine Saifedean Ammous: The Bond Crisis & Bitcoin’s Rise as a True Macro Asset Falling volatility is Bitcoin's most bullish signal right now, according to Saifedean Ammous. This post Saifedean Ammous: The Bond Crisis & Bitcoin’s Rise as a True Macro Asset first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-09-24T19:21:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam",
+      "link": "https://bitcoinmagazine.com/news/man-gets-12-years-for-coinbase-scam",
+      "desc": "Bitcoin Magazine Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam Ronald Spektor, 23, who lived with his father, used social engineering to steal funds from Coinbase customers. This post Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-09-24T19:15:29.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "techcrunch",
+      "sourceName": "TECHCRUNCH",
+      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "desc": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "date": "2026-09-24T19:15:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -572,16 +597,6 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
-      "link": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
-      "desc": "The fraudster managed to scam about 100 people across the United States, convincing them of transferring funds to him, claiming their accounts had been hacked.",
-      "date": "2026-09-24T11:33:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
       "title": "Litecoin token has its moment as network activity booms",
       "link": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
       "desc": "Your day-ahead look for Sept. 24, 2026",
@@ -1031,16 +1046,6 @@
           "url": "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot",
-      "link": "https://decrypt.co/379021/former-polish-police-officer-charged-as-zondacrypto-probe-searches-fuel-depot",
-      "desc": "Investigators are combing the site where the exchange's founder was last seen in 2022, using experts and forensic equipment.",
-      "date": "2026-09-23T09:53:07.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
