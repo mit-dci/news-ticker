@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T16:11:02.638Z",
+  "generatedAt": "2026-09-25T16:38:59.381Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 227,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "bitcoinops",
@@ -44,6 +44,32 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+      "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+      "desc": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
+      "date": "2026-09-25T16:17:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Legacy Magic Eden Approvals Exploited as White Hats Rescue NFTs",
+      "link": "https://thedefiant.io/news/hacks/legacy-magic-eden-approvals-exploited-as-white-hats-rescue-nfts",
+      "desc": "Yuga Labs’ 0xQuit says 23,155 NFTs worth more than $5.7 million were secured. Holders still need to revoke the vulnerable contracts’ NFT and token approvals.",
+      "date": "2026-09-25T16:12:07.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -172,16 +198,6 @@
       "link": "https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins",
       "desc": "Covered issuers would generally have two business days to redeem tokens, while bank applications would follow the GENIUS Act's 120-day decision clock.",
       "date": "2026-09-25T14:20:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
-      "link": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
-      "desc": "Magic Eden legacy approvals exposed $5.7 million in NFTs to an exploit before whitehats rescued 23,155 tokens.",
-      "date": "2026-09-25T14:09:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -414,9 +430,9 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin reverses early gains; Saylor's Strategy moves toward daily dividends",
+      "title": "Live updates: Bitcoin moves to $84,000, oil slides on latest report of Middle East progress",
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-      "desc": "Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set to expire on Deribit on Friday.",
+      "desc": "Separate reports from Axios and CBS suggest some positive movement in U.S.-Iran negotiations.",
       "date": "2026-09-25T07:09:11.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -1189,32 +1205,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Zcash Clears $1,600 After 21Shares Launches European ETP",
-      "link": "https://thedefiant.io/news/markets/zcash-clears-1-600-after-21shares-launches-european-etp",
-      "desc": "The physically backed product trades in Paris and Amsterdam, while a 3:42 p.m. ET chain snapshot put shielded ZEC at 29% of supply.",
-      "date": "2026-09-23T19:55:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing",
       "link": "https://decrypt.co/379105/zcash-wall-street-europe-first-etp",
       "desc": "21Shares listed Europe's first Zcash exchange-traded product on Euronext Paris and Amsterdam this week as ZEC continues its banner year.",
       "date": "2026-09-23T19:36:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means",
-      "link": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means",
-      "desc": "Deribit's strike-by-strike data shows a book stacked with calls, and one price level drawing hedging pressure from both sides at once.",
-      "date": "2026-09-23T18:46:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
