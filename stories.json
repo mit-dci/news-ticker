@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T14:10:55.092Z",
+  "generatedAt": "2026-09-25T14:38:14.154Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 227,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "bitcoinops",
@@ -44,6 +44,46 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "US prosecutors seize Tether-linked payment firm's bank accounts - FT",
+      "link": "https://www.finextra.com/newsarticle/48478/us-prosecutors-seize-tether-linked-payment-firms-bank-accounts---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "US federal prosecutors have seized bank accounts belonging Capstone, a payments business working on behalf of stablecoin issuer Tether and its sister exchange Bitfinex, according to the Financial Times.",
+      "date": "2026-09-25T14:41:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tokenization is moving faster than Washington",
+      "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+      "desc": "Regulatory clarity is not simply a legal or political issue, argues former New York Governor Andrew Cuomo. It is an economic one.",
+      "date": "2026-09-25T14:37:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+      "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+      "desc": "While Tether's stated ceiling places its maximum exposure under $64 million, the incident underscores lingering counterparty risks in fiat gateway networks.",
+      "date": "2026-09-25T14:32:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Fed Proposes Capital Charges and Bank Approval Rules for Stablecoins",
+      "link": "https://thedefiant.io/converge/regulation/fed-proposes-capital-charges-and-bank-approval-rules-for-stablecoins",
+      "desc": "Covered issuers would generally have two business days to redeem tokens, while bank applications would follow the GENIUS Act's 120-day decision clock.",
+      "date": "2026-09-25T14:20:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -487,7 +527,7 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "Bitget confirms $351.6 million security breach affecting exchange hot wallets",
+      "title": "Bitget confirms $387.5 million security breach affecting exchange hot wallets",
       "link": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
       "desc": "Bitget said private keys were not compromised and that losses from the incident will be covered by its User Protection Fund.",
       "date": "2026-09-24T21:20:47.000Z",
@@ -571,13 +611,7 @@
       "link": "https://bitcoinmagazine.com/news/man-gets-12-years-for-coinbase-scam",
       "desc": "Bitcoin Magazine Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam Ronald Spektor, 23, who lived with his father, used social engineering to steal funds from Coinbase customers. This post Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-09-24T19:15:29.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -989,26 +1023,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
-      "link": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
-      "desc": "The $2 billion digital-asset investment firm rolls out an initiative to back, build and provide liquidity to projects bringing real-world yields into DeFi.",
-      "date": "2026-09-24T12:31:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Kredete acquires Gravv to build stablecoin infrastructure",
-      "link": "https://www.finextra.com/pressarticle/111018/kredete-acquires-gravv-to-build-stablecoin-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Kredete, the financial technology platform serving emerging-market and diaspora communities, today announced its acquisition of Gravv, an agentic stablecoin infrastructure platform that connects banks, blockchain networks, and local payment rails for real-time global money movement.",
-      "date": "2026-09-24T12:12:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
@@ -1207,16 +1221,6 @@
       "link": "https://www.theblock.co/news/markets/2026-09-23-bitcoin-breakout-etf-inflows-analysts-k33-nexo-resistance-416182",
       "desc": "K33, Nexo and 21shares weigh in on bitcoin's breakout as ETF inflows hit their highest since Nov. 2024. Key levels: $87K–88K resistance.",
       "date": "2026-09-23T16:52:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Six Canadian Banks Outline First Phase of Tokenized Deposit Project",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/six-canadian-banks-outline-first-phase-of-tokenized-deposit-project",
-      "desc": "The exploratory project would first move deposits among participating institutions, while a US counterpart names its operator and payment rails.",
-      "date": "2026-09-23T14:24:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
