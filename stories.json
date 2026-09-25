@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-25T21:08:35.349Z",
+  "generatedAt": "2026-09-25T21:35:28.308Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 226,
+  "filteredOut": 227,
   "errors": [],
   "dupsMerged": 13,
   "items": [
@@ -44,6 +44,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+      "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+      "desc": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
+      "date": "2026-09-25T21:25:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -1120,16 +1130,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
-      "link": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
-      "desc": "Jan-Oliver Sell, the CEO and founder of Qivalis, said the entire trade finance supply chain is moving into stablecoins.",
-      "date": "2026-09-24T14:41:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "IBM integrates digital asset platform with Swift shared ledger",
@@ -1233,16 +1233,6 @@
           "url": "https://www.theblock.co/news/regulation/2026-09-24-brooklyn-man-12-years-scheme-416231"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
-      "link": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
-      "desc": "Anthropic says Claude autonomously found a new CRISPR-like enzyme system. Even Dario Amodei admits nobody knows what it actually does.",
-      "date": "2026-09-23T22:56:03.000Z",
-      "alsoAt": [],
       "termBoost": 0
     }
   ]
