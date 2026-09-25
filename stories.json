@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T12:45:29.378Z",
+  "generatedAt": "2026-09-25T13:09:33.974Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 232,
+  "filteredOut": 230,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "cointelegraph",
@@ -33,6 +33,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
+      "link": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
+      "desc": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
+      "date": "2026-09-25T13:04:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
+      "link": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "CoinGlass will retain its brand and team, while its website, app, free tools, API and pricing will remain unchanged following the acquisition.",
+      "date": "2026-09-25T12:44:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -328,7 +348,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
       "desc": "Bitget CEO Gracy Chen announced the hack shortly after independent researchers flagged unusual wallet movements.",
       "date": "2026-09-24T21:59:32.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/14aed3cb-492e-45c1-b217-869790b6130d?syn-25a6b1a6=1"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1160,16 +1186,6 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/six-canadian-banks-outline-first-phase-of-tokenized-deposit-project",
       "desc": "The exploratory project would first move deposits among participating institutions, while a US counterpart names its operator and payment rails.",
       "date": "2026-09-23T14:24:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Crypto economy fell just 1.6% in 12 months despite $2.1 trillion market cap rout, Chainalysis says",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-23-crypto-economy-fell-just-1-6-in-12-months-despite-2-1-trillion-market-cap-rout-chainalysis-says-416150",
-      "desc": "Global crypto activity fell 1.6% to $9.4 trillion despite a massive $2.1 trillion market cap contraction, Chainalysis says.",
-      "date": "2026-09-23T13:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
