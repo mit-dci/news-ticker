@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T00:26:48.577Z",
+  "generatedAt": "2026-09-25T01:08:41.177Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 240,
+  "filteredOut": 238,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "decrypt",
@@ -38,6 +38,37 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Fed Proposes Stablecoin Reserve and Capital Rules Under GENIUS Act",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/fed-proposes-stablecoin-reserve-and-capital-rules-under-genius-act/",
+      "desc": "The Federal Reserve Board is requesting public comment on two proposals related to establishing a regulatory framework for the payment stablecoin issuers it supervises under the GENIUS Act, it said in a Thursday (Sept. 24) press release. The agency released two notices of proposed rulemaking and will accept comment on them for 60 days after […] The post Fed Proposes Stablecoin Reserve and Capital Rules Under GENIUS Act appeared first on PYMNTS.com.",
+      "date": "2026-09-25T01:03:04.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
+      "link": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitget CEO Gracy Chen said a preliminary investigation found IP addresses matching VPN choices associated with a DPRK hacking group.",
+      "date": "2026-09-25T00:32:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -77,22 +108,6 @@
       "desc": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
       "date": "2026-09-24T22:28:49.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
-      "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Fed’s proposal would set capital requirements, a two-day redemption window and new reserve disclosures as regulators implement the GENIUS Act.",
-      "date": "2026-09-24T22:10:09.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336"
-        }
-      ],
       "termBoost": 0
     },
     {
