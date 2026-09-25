@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:51:55.454Z",
+  "generatedAt": "2026-09-25T07:13:00.414Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 238,
@@ -29,17 +29,6 @@
       "termBoost": 3
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
-      "link": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
-      "desc": "The warning brings renewed urgency to the debate over how bitcoin should deal with legacy addresses whose public keys are already exposed onchain.",
-      "date": "2026-09-24T09:32:48.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
@@ -49,6 +38,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+      "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+      "desc": "Treasury yields eased from multi-decade highs and oil slipped on reports of a phased U.S.-Iran deal, with roughly $14 billion in bitcoin options set to expire on Deribit on Friday.",
+      "date": "2026-09-25T07:09:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -250,9 +249,9 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "More than $170 million in crypto moves from Bitget wallets to unidentified address",
+      "title": "Bitget confirms $351.6 million exchange wallet breach after attacker compromises backend system",
       "link": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
-      "desc": "The receiving address has made several swaps, but the reason for the Bitget wallet transfers remains unclear.",
+      "desc": "Bitget said private keys were not compromised and that losses from the incident will be covered by its User Protection Fund.",
       "date": "2026-09-24T21:20:47.000Z",
       "alsoAt": [],
       "termBoost": 0
