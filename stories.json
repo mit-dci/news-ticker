@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T20:08:56.895Z",
+  "generatedAt": "2026-09-25T20:36:34.584Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 227,
+  "filteredOut": 225,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "bitcoinops",
@@ -44,6 +44,62 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
+      "link": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+      "desc": "Promoting a network’s current uses generally would not create an expectation of profit, SEC staff said.",
+      "date": "2026-09-25T20:32:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+      "link": "https://cointelegraph.com/news/cftc-commissioner-leaving-blockchain-association-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Former CFTC Commissioner Summer Mersinger joined the Blockchain Association in 2025 after resigning during her second term at the federal commodities regulator.",
+      "date": "2026-09-25T20:26:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Duelbits Co-Founder Reports $7 Million Hack as Casino Stays Offline",
+      "link": "https://thedefiant.io/news/hacks/duelbits-co-founder-reports-7-million-hack-as-casino-stays-offline",
+      "desc": "The platform says customer balances are unchanged and withdrawals will resume when it reopens, while onchain records show funds consolidated into ETH.",
+      "date": "2026-09-25T20:26:09.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Circle CFO Jeremy Fox-Geen to Step Down by Year-End",
+      "link": "https://thedefiant.io/converge/people/circle-cfo-jeremy-fox-geen-to-step-down-by-year-end",
+      "desc": "Circle has begun a replacement search, while Fox-Geen’s exit agreement includes $1.05 million in conditional cash payments.",
+      "date": "2026-09-25T20:16:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SEC Staff Clarifies Token Buybacks and Liquid Staking in New FAQs",
+      "link": "https://thedefiant.io/news/regulation/sec-staff-clarifies-token-buybacks-and-liquid-staking-in-new-faqs",
+      "desc": "Qualifying staking receipts fall into non-security categories, while the FAQs reaffirm an earlier position on maintenance and development funding.",
+      "date": "2026-09-25T20:14:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -984,16 +1040,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
-      "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-      "desc": "Attackers drained Duelbits' hot wallets across four blockchains; about $6 million in stolen funds now sits in a single Ethereum address.",
-      "date": "2026-09-24T15:48:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "SEC’s Peirce Urges Zero-Knowledge Proofs to Reduce KYC Data Collection",
@@ -1040,16 +1086,6 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/ondo-launches-tokenized-portfolios-built-on-blackrock-strategies",
       "desc": "Three portfolio tokens are available on Ethereum and BNB Chain for eligible non-US investors. BlackRock supplies the models; Ondo manages the products.",
       "date": "2026-09-24T15:23:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Arbitrum Replaces Timeboost With Per-Transaction Priority Auctions",
-      "link": "https://thedefiant.io/news/blockchains/arbitrum-replaces-timeboost-with-per-transaction-priority-auctions",
-      "desc": "Priority fees and paid Fast Feed subscriptions allocate 97% of proceeds to the DAO treasury and 3% to the Arbitrum Developer Guild.",
-      "date": "2026-09-24T15:18:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1164,16 +1200,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
-      "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.",
-      "date": "2026-09-24T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "HIFI raises $37 million Series A to expand tokenized capital markets infrastructure",
@@ -1217,16 +1243,6 @@
           "url": "https://www.theblock.co/news/regulation/2026-09-24-brooklyn-man-12-years-scheme-416231"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Variational Sets Q4 VAR Launch With 32% Airdrop",
-      "link": "https://thedefiant.io/news/tokens/variational-sets-q4-var-launch-with-32-airdrop",
-      "desc": "Points distributions will continue at 150,000 a week until launch, while team and investor tokens face a 12-month lock.",
-      "date": "2026-09-24T02:44:47.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
