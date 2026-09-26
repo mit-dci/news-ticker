@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T17:34:29.827Z",
+  "generatedAt": "2026-09-26T18:10:44.134Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 246,
+  "filteredOut": 248,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "bitcoinops",
@@ -891,6 +891,16 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
+      "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
+      "link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
+      "desc": "The state wants to block Polymarket from operating without a gambling license and recover allegedly illegal gains.",
+      "date": "2026-09-24T22:41:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
       "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
       "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
       "desc": "The Fed proposed rules on putting last year's GENIUS Act into place with regulations, including those governing stablecoin yield programs.",
@@ -1038,32 +1048,6 @@
       "desc": "JPMorgan analysts said bitcoin's move above its estimated $85,000 production cost could ease miner selling if sustained.",
       "date": "2026-09-24T18:22:39.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "IBM Connects Digital Asset Haven to Swift Ledger in Beta",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ibm-connects-digital-asset-haven-to-swift-ledger-in-beta",
-      "desc": "Banks can instruct tokenized-deposit transactions using existing payment messages, while final settlement remains on established banking systems.",
-      "date": "2026-09-24T17:54:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-      "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-      "desc": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
-      "date": "2026-09-24T17:51:31.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation"
-        }
-      ],
       "termBoost": 0
     }
   ]
