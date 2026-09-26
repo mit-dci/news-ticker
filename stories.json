@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T16:10:10.411Z",
+  "generatedAt": "2026-09-26T16:37:09.263Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 240,
+  "filteredOut": 242,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "bitcoinops",
@@ -1037,6 +1037,22 @@
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
+      "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
+      "link": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
+      "desc": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
+      "date": "2026-09-24T17:51:31.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
       "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
       "link": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
       "desc": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect—as recent KYC leaks expose crypto holders to phishing and physical attacks.",
@@ -1092,32 +1108,6 @@
       "desc": "The initial proceeds were converted into about 683 ETH, with most then sent to three wallets. Payy has paused deposits, withdrawals and card payments.",
       "date": "2026-09-24T16:53:16.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "New York Sues Polymarket US Over Unlicensed Gambling",
-      "link": "https://thedefiant.io/news/regulation/new-york-sues-polymarket-us-unlicensed-gambling",
-      "desc": "Attorney General Letitia James asks a Manhattan court to shut the CFTC-designated exchange out of the state, award three times its gains, and impose $100,000 for each sports contract it offered.",
-      "date": "2026-09-24T16:19:07.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-09-24-new-york-block-polymarket-alleging-illegal-gambling-operation-416279"
-        },
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation"
-        }
-      ],
       "termBoost": 0
     }
   ]
