@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T04:39:53.018Z",
+  "generatedAt": "2026-09-27T05:09:28.438Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 272,
+  "filteredOut": 273,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "ft",
@@ -51,23 +51,6 @@
       "date": "2026-09-26T17:01:03.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-      "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details without changing Bitcoin consensus, but researchers have raised questions about anonymity and quantum resistance.",
-      "date": "2026-09-25T04:41:06.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers"
-        }
-      ],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "decrypt",
@@ -754,6 +737,16 @@
       "link": "https://www.ft.com/content/1477567d-64b0-431a-b707-e2a4f5a9f8dc?syn-25a6b1a6=1",
       "desc": "Prosecutors allege Capstone illegally moved hundreds of millions of dollars for the crypto companies at the direction of a Caribbean bank",
       "date": "2026-09-25T09:58:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+      "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
+      "desc": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
+      "date": "2026-09-25T09:50:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
