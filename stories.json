@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T08:39:39.236Z",
+  "generatedAt": "2026-09-27T09:09:42.146Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 274,
+  "filteredOut": 276,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "cointelegraph",
@@ -771,29 +771,13 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-      "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
-      "desc": "The cross-chain lending protocol accused LayerZero and its co-founder Brian Pellegrino of failing to disclose weaknesses in their protocol, which led to the $292 million hack.",
-      "date": "2026-09-25T08:58:03.000Z",
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit",
+      "link": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
+      "desc": "KelpDAO sued LayerZero and Bryan Pellegrino over the April 18 rsETH exploit, alleging the bridge setup was endorsed in writing.",
+      "date": "2026-09-25T09:13:08.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "KelpDAO sues LayerZero, CEO over $292M rsETH bridge exploit",
-      "link": "https://cointelegraph.com/news/kelpdao-layerzero-lawsuit-rseth-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "KelpDAO says LayerZero endorsed its bridge setup before the attack, while CEO Bryan Pellegrino has dismissed the lawsuit as meritless.",
-      "date": "2026-09-25T08:51:17.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361"
-        }
-      ],
       "termBoost": 0
     }
   ]
