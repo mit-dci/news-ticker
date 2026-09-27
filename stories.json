@@ -1,19 +1,56 @@
 {
-  "generatedAt": "2026-09-27T14:35:14.843Z",
+  "generatedAt": "2026-09-27T15:08:30.600Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 295,
+  "filteredOut": 297,
   "errors": [],
-  "dupsMerged": 2,
+  "dupsMerged": 3,
   "items": [
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
-      "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
-      "desc": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.",
-      "date": "2026-09-27T14:29:13.000Z",
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
+      "link": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
+      "desc": "Three developments this week—a cost breakthrough, a new privacy design, and a custody playbook—show a field moving from theory to logistics, even as \"Q-Day\" remains hypotheti",
+      "date": "2026-09-27T15:01:03.000Z",
       "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "THORChain Pushes Back on Bitget’s Demand to Block Hacker Addresses",
+      "link": "https://thedefiant.io/news/defi/thorchain-pushes-back-on-bitget-s-demand-to-block-hacker-addresses",
+      "desc": "An address flagged by Bitget completed an XRP-to-bitcoin swap after the request, while OKX’s Star Xu challenged THORChain’s comparison with Bitcoin.",
+      "date": "2026-09-27T14:45:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Buterin Maps Ethereum's Post-Hegota 'Cryptographic World Computer'",
+      "link": "https://thedefiant.io/news/blockchains/buterin-maps-ethereum-s-post-hegota-cryptographic-world-computer",
+      "desc": "Hegota's scheduled changes target censorship resistance and wallet flexibility; the broader vision relies on proof aggregation and open research.",
+      "date": "2026-09-27T14:44:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "‘It’s really not just a blockchain anymore’: Vitalik Buterin maps Ethereum’s path to 2030",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-27-its-really-not-just-a-blockchain-anymore-vitalik-buterin-maps-ethereums-path-to-2030-416953",
+      "desc": "Ethereum co-founder Vitalik Buterin said Ethereum is \"really not just a blockchain anymore\" and laid out how its design will change by 2030 in a post.",
+      "date": "2026-09-27T14:35:53.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -535,66 +572,6 @@
       "link": "https://bitcoinmagazine.com/news/is-us-defence-secretary-pete-hegseth-a-bitcoiner-this-is-what-his-accounts-say",
       "desc": "Bitcoin Magazine Is US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say U.S. Defence Secretary Pete Hegseth has millions of dollars in investments. But how much of it is in bitcoin? This post Is US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-09-25T15:35:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ethena Starts Equity-Basis Rollout for USDe With Binance",
-      "link": "https://thedefiant.io/news/defi/ethena-starts-equity-basis-rollout-for-usde-with-binance",
-      "desc": "The strategy pairs bStocks with short equity perpetuals, while eligible hedged accounts receive lower auto-deleveraging priority.",
-      "date": "2026-09-25T14:59:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aave Adds Coinbase Stock Tokens as Collateral on Base",
-      "link": "https://thedefiant.io/news/defi/aave-adds-coinbase-stock-tokens-as-collateral-on-base",
-      "desc": "Seven stock tokens back USDC loans in a dedicated V4 market with a 21 million USDC borrowing cap. Access is limited to eligible non-US investors.",
-      "date": "2026-09-25T14:44:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance-Owned CoinMarketCap Acquires CoinGlass",
-      "link": "https://thedefiant.io/news/infrastructure/binance-owned-coinmarketcap-acquires-coinglass",
-      "desc": "CoinGlass says it will keep operating independently, with its brand, website, app, API and pricing unchanged.",
-      "date": "2026-09-25T14:42:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-      "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-      "desc": "The stablecoin issuer blacklisted a wallet holding about $318,000 in USDT and USDC. Most of the stolen funds sit in ether, which can't be frozen.",
-      "date": "2026-09-25T14:41:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "US prosecutors seize Tether-linked payment firm's bank accounts - FT",
-      "link": "https://www.finextra.com/newsarticle/48478/us-prosecutors-seize-tether-linked-payment-firms-bank-accounts---ft?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "US federal prosecutors have seized bank accounts belonging Capstone, a payments business working on behalf of stablecoin issuer Tether and its sister exchange Bitfinex, according to the Financial Times.",
-      "date": "2026-09-25T14:41:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Tokenization is moving faster than Washington",
-      "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
-      "desc": "Regulatory clarity is not simply a legal or political issue, argues former New York Governor Andrew Cuomo. It is an economic one.",
-      "date": "2026-09-25T14:37:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
