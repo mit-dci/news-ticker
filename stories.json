@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T18:11:22.015Z",
+  "generatedAt": "2026-09-27T18:39:20.913Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 307,
+  "filteredOut": 309,
   "errors": [],
-  "dupsMerged": 2,
+  "dupsMerged": 1,
   "items": [
     {
       "source": "decrypt",
@@ -200,6 +200,16 @@
       "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
       "desc": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
       "date": "2026-09-26T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+      "desc": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
+      "date": "2026-09-26T12:56:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -451,32 +461,6 @@
       "desc": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
       "date": "2026-09-25T18:42:51.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
-      "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The crypto executive and Dystopia Labs founder previously held senior roles at Stellar and Solana before joining venture capital firm Hack VC.",
-      "date": "2026-09-25T18:33:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Bitget hit by $387.5 million hack",
-      "link": "https://www.finextra.com/newsarticle/48481/bitget-hit-by-3875-million-hack?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Bitget has halted customer withdrawals after hackers that the crypto exchange suspects are linked to North Korea stole more than $380 million.",
-      "date": "2026-09-25T18:32:00.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze"
-        }
-      ],
       "termBoost": 0
     }
   ]
