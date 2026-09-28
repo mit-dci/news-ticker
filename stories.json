@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T16:11:31.831Z",
+  "generatedAt": "2026-09-28T16:39:08.817Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 298,
+  "filteredOut": 291,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "decrypt",
@@ -16,6 +16,66 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "SEC Commissioner Hester Peirce reflects on her time at the agency, what she still wanted to get done: ‘There’s no good time to leave’",
+      "link": "https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075",
+      "desc": "After nearly a decade at the Securities and Exchange Commission, Hester Peirce is wrapping up her last week at the agency.",
+      "date": "2026-09-28T16:35:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Strategy and Strive Scoop Up More Than 2,700 Bitcoin in a Week",
+      "link": "https://bitcoinmagazine.com/news/strategy-strive-buy-more-bitcoin",
+      "desc": "Bitcoin Magazine Strategy and Strive Scoop Up More Than 2,700 Bitcoin in a Week The two top bitcoin treasuries last week spent a combined $232.5 million on BTC. This post Strategy and Strive Scoop Up More Than 2,700 Bitcoin in a Week first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-09-28T16:33:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Dune Flags Yield Shortfall at Tokenized Money Funds",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dune-flags-yield-shortfall-at-tokenized-money-funds",
+      "desc": "WisdomTree’s Treasury money fund trailed its T-bill benchmark by 15 basis points over a year. Issuer disclosures show how expenses and liquidity terms affect returns.",
+      "date": "2026-09-28T16:30:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-1dc29cae?mod=rss_markets_main",
+      "desc": "Find insight on Swiss banks, ethereum and more in the latest Market Talks covering Financial Services.",
+      "date": "2026-09-28T16:26:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+      "link": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+      "desc": "As restaking yields dried up and smart-contract risks mounted, Ethereum's top liquid restaking protocol walked away from its core business to build a crypto neobank instead.",
+      "date": "2026-09-28T16:24:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report",
+      "link": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
+      "desc": "Democrats on the Senate's Permanent Subcommittee on Intelligence published a report alleging that USDT had become a key tool for the Iranian government.",
+      "date": "2026-09-28T16:16:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -460,7 +520,13 @@
       "link": "https://thedefiant.io/news/blockchains/buterin-maps-ethereum-s-post-hegota-cryptographic-world-computer",
       "desc": "Hegota's scheduled changes target censorship resistance and wallet flexibility; the broader vision relies on proof aggregation and open research.",
       "date": "2026-09-27T14:44:40.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum"
+        }
+      ],
       "termBoost": 0
     },
     {
