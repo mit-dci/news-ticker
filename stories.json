@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T17:37:19.985Z",
+  "generatedAt": "2026-09-28T18:13:06.479Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 292,
+  "filteredOut": 285,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "decrypt",
@@ -16,6 +16,66 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Polygon Plans Two-Month Boost to 7.7% Gross POL Staking Rate",
+      "link": "https://thedefiant.io/news/blockchains/polygon-plans-two-month-boost-to-7-7-gross-pol-staking-rate",
+      "desc": "The fee-funded increase compares with a roughly 3% baseline and rewards stake held during the window, rather than when the fees accrued.",
+      "date": "2026-09-28T18:03:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Compound Foundation Denies V2 Reserve Misuse Allegation",
+      "link": "https://thedefiant.io/news/defi/compound-foundation-denies-v2-reserve-misuse-allegation",
+      "desc": "Records show 344,780 COMP increased the Foundation’s voting power before a $52 million V4 budget vote. The proposal had enough support to pass without those tokens.",
+      "date": "2026-09-28T18:00:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
+      "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
+      "desc": "The bank is bringing its roughly $100 billion Treasury fund to institutional crypto firms without creating a tokenized version of it.",
+      "date": "2026-09-28T18:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime",
+      "link": "https://www.wsj.com/finance/currencies/senate-investigation-finds-rampant-use-of-tethers-stablecoin-by-iranian-regime-ce652e22?mod=rss_markets_main",
+      "desc": "Wallets sanctioned over Iran ties overwhelmingly dealt in Tether’s USDT stablecoin, according to Senate Democrats.",
+      "date": "2026-09-28T18:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+      "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+      "desc": "Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers.",
+      "date": "2026-09-28T17:51:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Tether Says It Helped Freeze Nearly $550 Million in Iran-Linked USDT",
+      "link": "https://thedefiant.io/news/regulation/tether-says-it-helped-freeze-nearly-550-million-in-iran-linked-usdt",
+      "desc": "A Senate minority report released the same day found USDT dominated activity in 84% of 846 Iran- and proxy-linked wallets it studied.",
+      "date": "2026-09-28T17:46:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -234,16 +294,6 @@
       "termBoost": 0
     },
     {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime",
-      "link": "https://www.wsj.com/finance/currencies/senate-investigation-finds-rampant-use-of-tethers-stablecoin-by-iranian-regime-ce652e22?mod=rss_markets_main",
-      "desc": "Wallets sanctioned over Iran ties overwhelmingly dealt in Tether’s USDT stablecoin, according to Senate Democrats.",
-      "date": "2026-09-28T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Strategy Sets New BTC Holdings Record After $143M Bitcoin Purchase",
@@ -400,6 +450,22 @@
       "link": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
       "desc": "Franklin Templeton’s tokenized money market shares can be used as collateral for USDT or USDC trading credit lines on Bybit while earning yield on the underlying assets.",
       "date": "2026-09-28T11:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin pulls off worst levels as oil dips on Iran deal hopes",
+      "link": "https://www.coindesk.com/business/2026/09/28/live-updates-bitcoin-sinks-below-usd83-000-as-iran-talks-stall-and-oil-climbs",
+      "desc": "The U.S. 10-year Treasury yield is sharply higher again, rising to a new cycle high above 5.27%.",
+      "date": "2026-09-28T10:02:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
