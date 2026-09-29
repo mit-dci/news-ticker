@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-29T14:39:57.460Z",
+  "generatedAt": "2026-09-29T15:10:26.150Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 254,
+  "filteredOut": 256,
   "errors": [],
   "dupsMerged": 7,
   "items": [
@@ -13,6 +13,22 @@
       "link": "https://www.finextra.com/pressarticle/111068/oracle-integrates-with-swift-blockchain-ledger?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Oracle is integrating with Swift’s blockchain ledger to help financial institutions participate in payment flows orchestrated through it and help financial institutions use their own tokenized deposit infrastructures across institutions.",
       "date": "2026-09-29T15:24:00.000Z",
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/pressarticle/111073/chainlink-connects-to-swifts-blockchain-ledger?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin tests long-term holder supply cluster as leverage clears, analysts say",
+      "link": "https://www.theblock.co/news/markets/2026-09-29-bitcoin-tests-long-term-holder-supply-cluster-leverage-clears-analysts-say-417162",
+      "desc": "Bitcoin traded near $84,000 on Tuesday, near Glassnode's largest long-term holder cost-basis cluster price range.",
+      "date": "2026-09-29T15:09:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -133,16 +149,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "date": "2026-09-29T13:08:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Swedish fintech Froda expands to France",
-      "link": "https://www.finextra.com/pressarticle/111038/swedish-fintech-froda-expands-to-france?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Froda, the Swedish embedded financing platform serving Europe's smallest businesses, today announced its launch in France in partnership with Shine.",
-      "date": "2026-09-29T13:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -336,17 +342,6 @@
         }
       ],
       "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
-      "link": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
-      "desc": "Three developments this week—a cost breakthrough, a new privacy design, and a custody playbook—show a field moving from theory to logistics, even as \"Q-Day\" remains hypotheti",
-      "date": "2026-09-27T15:01:03.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "defiant",
@@ -613,6 +608,16 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/dune-flags-yield-shortfall-at-tokenized-money-funds",
       "desc": "WisdomTree’s Treasury money fund trailed its T-bill benchmark by 15 basis points over a year. Issuer disclosures show how expenses and liquidity terms affect returns.",
       "date": "2026-09-28T16:30:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+      "link": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+      "desc": "Hegota will be Ethereum's last 'normal' fork, he argues, with everything after built on recursive STARKs and formal verification.",
+      "date": "2026-09-28T16:29:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -960,32 +965,6 @@
       "desc": "The creators of 10 Pons V2 launches exempted a set of wallets from Pons' anti-sniping tax; those wallets went on to buy most of each token's supply, per onchain data.",
       "date": "2026-09-27T22:02:57.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "THORChain Pushes Back on Bitget’s Demand to Block Hacker Addresses",
-      "link": "https://thedefiant.io/news/defi/thorchain-pushes-back-on-bitget-s-demand-to-block-hacker-addresses",
-      "desc": "An address flagged by Bitget completed an XRP-to-bitcoin swap after the request, while OKX’s Star Xu challenged THORChain’s comparison with Bitcoin.",
-      "date": "2026-09-27T14:45:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Buterin Maps Ethereum's Post-Hegota 'Cryptographic World Computer'",
-      "link": "https://thedefiant.io/news/blockchains/buterin-maps-ethereum-s-post-hegota-cryptographic-world-computer",
-      "desc": "Hegota's scheduled changes target censorship resistance and wallet flexibility; the broader vision relies on proof aggregation and open research.",
-      "date": "2026-09-27T14:44:40.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum"
-        }
-      ],
       "termBoost": 0
     }
   ]
