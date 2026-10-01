@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-01T09:12:22.980Z",
+  "generatedAt": "2026-10-01T09:41:14.647Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 238,
+  "filteredOut": 237,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 5,
   "items": [
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
+      "link": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Chainalysis still faces an aiding-and-abetting claim over Celsius’ disputed $3.3 billion audit after a judge dismissed 15 other claims.",
+      "date": "2026-10-01T09:09:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -179,7 +189,13 @@
       "link": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
       "desc": "Lido estimates the exit, withdrawal and re-entry cycle could take up to about 45 days. Aave’s founder says its markets are operating normally.",
       "date": "2026-10-01T00:00:43.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1136,16 +1152,6 @@
       "link": "https://decrypt.co/379523/canadas-crypto-king-aiden-pleterski-to-represent-himself-at-fraud-trial",
       "desc": "The judge has told Pleterski he will raise objections on his behalf, to keep inadmissible evidence away from the jury.",
       "date": "2026-09-29T10:38:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
-      "link": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
-      "desc": "Coinbase Clearing will take USDC as collateral and settle around the clock, though margined products stay with partners.",
-      "date": "2026-09-29T09:38:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
