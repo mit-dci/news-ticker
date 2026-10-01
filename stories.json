@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T14:11:00.309Z",
+  "generatedAt": "2026-10-01T14:40:32.501Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 233,
+  "filteredOut": 231,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "bitcoinmag",
@@ -16,6 +16,36 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Binance Faces Scrutiny Over Continuing Operations in the EU",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/binance-faces-scrutiny-over-continuing-operations-in-the-eu/",
+      "desc": "European regulators are reportedly investigating Binance’s use of a legal exemption to keep doing business in the region. That’s according to a report Thursday (Oct. 1) by the Financial Times (FT), which says this exemption has allowed the world’s latest cryptocurrency exchange to remain in Europe despite being ordered to wind down its business after failing to obtain a […] The post Binance Faces Scrutiny Over Continuing Operations in the EU appeared first on PYMNTS.com.",
+      "date": "2026-10-01T14:22:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+      "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+      "desc": "The popular cross-chain trading system said it will reimburse losses after a bug affected deposits and withdrawals across several networks.",
+      "date": "2026-10-01T14:18:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "World Liberty Launches WLFI Staking, Plans $1.25M USD1 Pool",
+      "link": "https://thedefiant.io/news/defi/world-liberty-launches-wlfi-staking-plans-1-25m-usd1-pool",
+      "desc": "Holders must open a 180-day lock and cast governance votes to claim rewards, with no fixed payout rate.",
+      "date": "2026-10-01T14:16:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "finextra",
@@ -34,7 +64,13 @@
       "link": "https://thedefiant.io/news/hacks/near-intents-halts-services-reports-3-8-million-loss",
       "desc": "The protocol pledged full compensation and said deposits and withdrawals on 11 networks would face a longer suspension while infrastructure repairs continue.",
       "date": "2026-10-01T13:41:34.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1049,16 +1085,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
-      "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
-      "desc": "Asset management platform HANetf has listed ETCs in London, Frankfurt and Paris providing pound sterling and euro-hedged exposure to bitcoin.",
-      "date": "2026-09-30T08:25:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
@@ -1175,16 +1201,6 @@
       "link": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
       "desc": "Aztec Labs has relaunched zk.money, a self-custodial privacy wallet, on Aztec Network after discontinuing the original product in 2023.",
       "date": "2026-09-29T16:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin tests long-term holder supply cluster as leverage clears, analysts say",
-      "link": "https://www.theblock.co/news/markets/2026-09-29-bitcoin-tests-long-term-holder-supply-cluster-leverage-clears-analysts-say-417162",
-      "desc": "Bitcoin traded near $84,000 on Tuesday, near Glassnode's largest long-term holder cost-basis cluster price range.",
-      "date": "2026-09-29T15:09:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
