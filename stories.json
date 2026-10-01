@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T17:09:15.236Z",
+  "generatedAt": "2026-10-01T17:38:28.128Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 227,
+  "filteredOut": 228,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "bitcoinmag",
@@ -16,6 +16,42 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "OpenZeppelin and T-REX Network Introduce new Framework for Regulated Token Eligibility and Recovery",
+      "link": "https://thedefiant.io/converge/infrastructure/onchainid-v3-adds-modular-smart-accounts-for-regulated-tokens",
+      "desc": "The redesign requires new deployments rather than in-place upgrades of existing 2.x identities, according to the project's changelog.",
+      "date": "2026-10-01T17:26:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Illinois Agrees to 6-Month Pause On Crypto Tax",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/illinois-agrees-to-6-month-pause-on-crypto-tax/",
+      "desc": "Illinois has reportedly agreed to postpone implementing a new tax on crypto transactions. The tax, the first state levy of its kind in the country, imposes a 0.2% duty on crypto when it is exchanged, transferred or stored. But as CoinDesk reported Thursday (Oct. 1), the new tax may not go into effect on Jan. […] The post Illinois Agrees to 6-Month Pause On Crypto Tax appeared first on PYMNTS.com.",
+      "date": "2026-10-01T17:17:17.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+      "link": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+      "desc": "Bitcoin enters its historically strongest month after a record-pace September, but a Fed hike and 5.3% Treasury yields are testing the bulls.",
+      "date": "2026-10-01T17:11:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -134,16 +170,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
       "desc": "",
       "date": "2026-10-01T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Binance Faces Scrutiny Over Continuing Operations in the EU",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/binance-faces-scrutiny-over-continuing-operations-in-the-eu/",
-      "desc": "European regulators are reportedly investigating Binance’s use of a legal exemption to keep doing business in the region. That’s according to a report Thursday (Oct. 1) by the Financial Times (FT), which says this exemption has allowed the world’s latest cryptocurrency exchange to remain in Europe despite being ordered to wind down its business after failing to obtain a […] The post Binance Faces Scrutiny Over Continuing Operations in the EU appeared first on PYMNTS.com.",
-      "date": "2026-10-01T14:22:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -296,20 +322,10 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live Updates: Bitcoin holding near $84,000 ahead of Friday's U.S. jobs report",
+      "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
       "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
       "desc": "The euro is losing ground versus the greenback as spiking French bond yields revive memories of the European sovereign debt crisis.",
       "date": "2026-10-01T11:59:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
-      "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
-      "desc": "Both sides agreed the 0.2% tax should be put off until July 1, if the court approves the deal, which will let the state and industry focus on the legal dispute.",
-      "date": "2026-10-01T11:58:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1179,26 +1195,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Lighter Token Drops After Robinhood Perps Plan",
-      "link": "https://thedefiant.io/news/defi/lighter-token-drops-after-robinhood-perps-plan",
-      "desc": "Robinhood's in-app perpetual futures will be offered by its own futures commission merchant through Bitstamp. LIT is down 22% over seven days.",
-      "date": "2026-09-30T06:38:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Morgan Stanley Sets Up Lab to Test Stablecoins and DeFi",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-sets-up-lab-to-test-stablecoins-and-defi",
-      "desc": "The internal testing program uses the bank’s innovation-lab network, while E*Trade already offers eligible clients spot crypto trading through zerohash.",
-      "date": "2026-09-30T06:35:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
@@ -1225,16 +1221,6 @@
       "link": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
       "desc": "Linear Fox founder Nathan Fargo released a public jailbreak for the PS5, dubbed Relapse, while Sony argues in court that players don't own their digital games.",
       "date": "2026-09-29T19:31:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Crypto ETFs Surge as Bitcoin Funds Add $2.95 Billion in 30 Days",
-      "link": "https://decrypt.co/379575/crypto-etfs-surge-bitcoin-adds-nearly-3-billion",
-      "desc": "Bitcoin ETFs extended their inflow streak to eight straight days on Monday, bouncing back from the Clarity Act sell-off in a big way.",
-      "date": "2026-09-29T18:18:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
