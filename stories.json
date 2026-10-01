@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-10-01T06:56:02.608Z",
+  "generatedAt": "2026-10-01T07:22:22.185Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 238,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 5,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+      "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+      "desc": "An Ethereum security researcher estimates about 0.36 ETH in rewards was diverted, while precautionary exits cover validators holding roughly 523,000 ETH.",
+      "date": "2026-10-01T07:06:30.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
@@ -113,16 +129,6 @@
       "link": "https://bitcoinmagazine.com/videos/mark-moss-the-bitcoin-endgame-btc-to-1-million-by-2030",
       "desc": "Bitcoin Magazine Mark Moss: The Bitcoin Endgame – BTC to $1 Million by 2030 Mark Moss explains why Bitcoin keeps climbing post-Fed rate hike, benefiting from both currency debasement and a booming tech future. This post Mark Moss: The Bitcoin Endgame – BTC to $1 Million by 2030 first appeared on Bitcoin Magazine and is written by Patrick Green.",
       "date": "2026-10-01T00:45:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
-      "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "MetaMask said it is investigating the threat internally and said it has found no immediate threat to its wallets.",
-      "date": "2026-10-01T00:15:55.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1065,16 +1071,6 @@
       "title": "Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2",
       "link": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
       "desc": "Aztec Labs has relaunched zk.money, a self-custodial privacy wallet, on Aztec Network after discontinuing the original product in 2023.",
-      "date": "2026-09-29T16:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
-      "link": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
-      "desc": "The relaunched wallet hides payments made on the Aztec Network, while deposits from Ethereum remain visible.",
       "date": "2026-09-29T16:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
