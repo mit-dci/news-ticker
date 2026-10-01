@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-01T12:16:27.442Z",
+  "generatedAt": "2026-10-01T12:49:48.853Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 236,
+  "filteredOut": 234,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 7,
   "items": [
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
+      "link": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+      "desc": "Plus, a major MetaMask security event has crypto natives on edge as details trickle out.",
+      "date": "2026-10-01T12:29:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
+      "link": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+      "desc": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.",
+      "date": "2026-10-01T12:23:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -868,7 +888,13 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-streak-9-day-ether-zcash-flip-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Ether ETFs shed $3 million Tuesday after seven days of inflows, following an $8 million outflow from Zcash funds at the start of the week.",
       "date": "2026-09-30T10:12:28.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -918,16 +944,6 @@
       "link": "https://www.finextra.com/pressarticle/111085/brazils-csd-br-to-use-the-xrp-ledger-for-recording-and-auditing-financial-assets-and-securities?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "CSD BR, a financial market infrastructure authorized to operate as a registrar, central securities depository and settlement system, today announced the first phase of a strategic partnership with Ripple, the leading provider of blockchain solutions across traditional and digital finance.",
       "date": "2026-09-30T10:03:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Kora debuts One Rail to support Pan-African stablecoin transactions",
-      "link": "https://www.finextra.com/pressarticle/111083/kora-debuts-one-rail-to-support-pan-african-stablecoin-transactions?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Pan-African payment infrastructure provider Kora has announced the launch of One Rail, a significant expansion of its payments infrastructure designed to support stablecoins.",
-      "date": "2026-09-30T09:56:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
