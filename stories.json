@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-01T11:38:03.989Z",
+  "generatedAt": "2026-10-01T12:16:27.442Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 236,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 6,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
+      "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
+      "desc": "Both sides agreed the 0.2% tax should be put off until July 1, if the court approves the deal, which will let the state and industry focus on the legal dispute.",
+      "date": "2026-10-01T11:58:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -842,7 +852,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
       "desc": "Crypto prices rose early Wednesday after better-than-forecast inflation data, but gave up those gains as interest rates continued to surge.",
       "date": "2026-09-30T10:18:34.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -952,16 +968,6 @@
       "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
       "desc": "Asset management platform HANetf has listed ETCs in London, Frankfurt and Paris providing pound sterling and euro-hedged exposure to bitcoin.",
       "date": "2026-09-30T08:25:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin bulls have one price level to defend",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
-      "desc": "Here's the level analysts are watching and what a break below it could mean for the bulls.",
-      "date": "2026-09-30T07:04:41.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1152,16 +1158,6 @@
       "link": "https://decrypt.co/379541/bitcoin-hovers-at-84k-as-treasury-yields-hold-near-multi-year-highs",
       "desc": "Analysts point to crude prices capping non-yielding assets, while spot ETFs have taken money in for eight sessions running.",
       "date": "2026-09-29T14:07:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
-      "link": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
-      "desc": "Plus, crypto majors rebound as oil and yields fall and Saylor’s Strategy returns to buying Bitcoin.",
-      "date": "2026-09-29T12:05:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
