@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T01:35:58.110Z",
+  "generatedAt": "2026-10-01T02:24:08.830Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 237,
+  "filteredOut": 239,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "cointelegraph",
@@ -183,16 +183,6 @@
       "link": "https://thedefiant.io/news/defi/uniswap-labs-plans-ousd-rewards-hook-for-liquidity-providers",
       "desc": "OUSD is already available across Uniswap's protocol, apps and API, while the planned rewards mechanism awaits its full design.",
       "date": "2026-09-30T19:53:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Payment Giants Launch Open USD Stablecoin to Kill Conversion Fees",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/payment-giants-launch-open-usd-stablecoin-to-kill-conversion-fees/",
-      "desc": "The Open USD (OUSD) stablecoin is live, OUSD creator Open Standard said in a Wednesday (Sept. 30) blog post. Businesses can get started with OUSD through four integration paths, including Stripe, Coinbase, Mastercardand Visa, according to the post. “Each integration path offers APIs and tools that enable businesses and developers to build with OUSD across […] The post Payment Giants Launch Open USD Stablecoin to Kill Conversion Fees appeared first on PYMNTS.com.",
-      "date": "2026-09-30T19:50:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1140,19 +1130,13 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
-      "link": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
-      "desc": "This completes Coinbase's derivatives infrastructure, allowing it to list, broker, and clear fully collateralized products in-house.",
-      "date": "2026-09-29T02:02:36.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval"
-        }
-      ],
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
+      "link": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
+      "desc": "Coinbase Clearing will take USDC as collateral and settle around the clock, though margined products stay with partners.",
+      "date": "2026-09-29T09:38:57.000Z",
+      "alsoAt": [],
       "termBoost": 0
     }
   ]
