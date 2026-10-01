@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-01T11:09:03.498Z",
+  "generatedAt": "2026-10-01T11:38:03.989Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 237,
+  "filteredOut": 236,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 5,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
+      "desc": "Your day-ahead look for Oct. 1, 2026",
+      "date": "2026-10-01T11:30:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
@@ -247,7 +257,7 @@
       "sourceName": "THE DEFIANT",
       "title": "MetaMask Staking Exits Lido Validators After Infrastructure Compromise",
       "link": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
-      "desc": "Lido estimates the exit, withdrawal and re-entry cycle could take up to about 45 days. Aave’s founder says its markets are operating normally.",
+      "desc": "MetaMask says its investigation has found no indication that wallets or customer funds were affected. Lido estimates the exit, withdrawal and re-entry cycle could take up to about 45 days.",
       "date": "2026-10-01T00:00:43.000Z",
       "alsoAt": [
         {
@@ -496,7 +506,13 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/lloyds-and-visa-settle-750-000-in-usdc-in-cross-border-pilot",
       "desc": "The seven-day test sent funds from Jersey to the US in under an hour, including over the weekend, with Lloyds using Canton and Visa a separate blockchain.",
       "date": "2026-09-30T17:54:48.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -976,16 +992,6 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-sets-up-lab-to-test-stablecoins-and-defi",
       "desc": "The internal testing program uses the bank’s innovation-lab network, while E*Trade already offers eligible clients spot crypto trading through zerohash.",
       "date": "2026-09-30T06:35:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
-      "link": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
-      "desc": "The regulated operator is mirroring ownership of selected investment funds on XRPL while keeping its existing database as the official record.",
-      "date": "2026-09-30T05:22:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
