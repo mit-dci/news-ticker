@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T15:10:22.788Z",
+  "generatedAt": "2026-10-01T15:39:11.674Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 231,
+  "filteredOut": 232,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "bitcoinmag",
@@ -16,6 +16,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
+      "link": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
+      "desc": "Armada Acquisition Corp. II shareholders approved the Evernorth merger. The XRP treasury company expects to hold ~473M XRP.",
+      "date": "2026-10-01T15:17:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -180,6 +190,16 @@
       "link": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
       "desc": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.",
       "date": "2026-10-01T12:23:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live Updates: Bitcoin holding near $84,000 ahead of Friday's U.S. jobs report",
+      "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
+      "desc": "The euro is losing ground versus the greenback as spiking French bond yields revive memories of the European sovereign debt crisis.",
+      "date": "2026-10-01T11:59:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -933,16 +953,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "HSBC prepares for the launch of HK$-backed stablecoin, RedCoin",
-      "link": "https://www.finextra.com/newsarticle/48504/hsbc-prepares-for-the-launch-of-hk-backed-stablecoin-redcoin?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "HSBC's forthcoming stablecoin launch in Hong Kong will bear the brand RedCoin.",
-      "date": "2026-09-30T11:05:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
@@ -1009,13 +1019,7 @@
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
       "desc": "Crypto prices rose early Wednesday after better-than-forecast inflation data, but gave up those gains as interest rates continued to surge.",
       "date": "2026-09-30T10:18:34.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1191,16 +1195,6 @@
       "link": "https://decrypt.co/379549/red-september-curse-over-bitcoin-best-returns-record",
       "desc": "Bitcoin is up 7.33% in September, edging past 2024 as the best September on record, with one day left before the monthly candle closes.",
       "date": "2026-09-29T16:50:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2",
-      "link": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
-      "desc": "Aztec Labs has relaunched zk.money, a self-custodial privacy wallet, on Aztec Network after discontinuing the original product in 2023.",
-      "date": "2026-09-29T16:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
