@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T12:15:25.201Z",
+  "generatedAt": "2026-10-02T12:48:52.733Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 227,
+  "filteredOut": 225,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "bitcoinmag",
@@ -16,6 +16,66 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #425",
+      "link": "https://bitcoinops.org/en/newsletters/2026/10/02/",
+      "desc": "This week’s newsletter summarizes the responsible disclosure of two denial-of-service vulnerabilities affecting older versions of Eclair and describes a proposal for synchronizing wallet labels between devices through an untrusted store. Also included are our regular sections summarizing proposals and discussion about changing Bitcoin’s consensus rules, announcing new releases and release candidates, and describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-10-02T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
+      "link": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
+      "desc": "Bitcoin held earlier gains following the report, up more than 2% over the past 24 hours and just below $87,000.",
+      "date": "2026-10-02T12:31:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "BitGo CEO says Clarity’s failure left capital markets exposed to risk potentially worse than Lehman",
+      "link": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
+      "desc": "BitGo CEO Mike Belshe warned that Clarity's failure left systemic risks arising from one firm holding exchange, brokerage, and custody functions.",
+      "date": "2026-10-02T12:28:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+      "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
+      "date": "2026-10-02T12:25:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran",
+      "link": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1",
+      "desc": "Payments group that moved almost $7bn through global banks is designated a transnational criminal organisation",
+      "date": "2026-10-02T12:19:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Morning Minute: NEAR Intents Hacked for $3.8M - Was It A Bullish Hack?",
+      "link": "https://decrypt.co/379929/morning-minute-near-intents-hacked-for-3-8m-was-it-a-bullish-hack",
+      "desc": "Hacks are never good, but a rapid response, user compensation and 1-hour bug fixing seems to top the spectrum of team reactions.",
+      "date": "2026-10-02T12:19:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -34,6 +94,16 @@
       "link": "https://decrypt.co/379921/us-designates-russias-a7-network-as-transnational-criminal-organization",
       "desc": "Treasury's proposed rule aims to cut A7's front companies off from U.S. finance—including crypto, where its ruble token moved $179 billion.",
       "date": "2026-10-02T11:28:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin trading near $87,000 after big miss on U.S. jobs",
+      "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
+      "desc": "U.S. stock index futures were also gaining as oil fell more than 3% and yields continued to ease from recent highs.",
+      "date": "2026-10-02T11:22:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -130,7 +200,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
+      "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
       "link": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
       "desc": "A Tether-backed project, Utexo, plans to support private USDT transfers, direct swaps between BTC and USDT and loans backed by BTC, while keeping most transaction data off Bitcoin’s public ledger.",
       "date": "2026-10-02T08:28:19.000Z",
@@ -169,11 +239,6 @@
           "source": "COINDESK",
           "sourceId": "coindesk",
           "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024"
-        },
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report"
         }
       ],
       "termBoost": 0
@@ -331,16 +396,6 @@
       "link": "https://bitcoinmagazine.com/videos/nico-lechuga-bitcoin-will-revolutionize-the-4t-private-equity-industry",
       "desc": "Bitcoin Magazine Nico Lechuga: Bitcoin Will Revolutionize the $4T Private Equity Industry Traditional PE flips companies on tight deadlines. Ego Death Capital's Nico Lechuga explains how permanent capital and Bitcoin treasuries give founders a better choice. This post Nico Lechuga: Bitcoin Will Revolutionize the $4T Private Equity Industry first appeared on Bitcoin Magazine and is written by Patrick Green.",
       "date": "2026-10-01T21:24:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran",
-      "link": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1",
-      "desc": "Payments group that moved almost $7bn through global banks designated a transnational criminal organisation",
-      "date": "2026-10-01T21:20:36.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -823,16 +878,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
-      "link": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Chainalysis still faces an aiding-and-abetting claim over Celsius’ disputed $3.3 billion audit after a judge dismissed 15 other claims.",
-      "date": "2026-10-01T09:09:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
@@ -1211,26 +1256,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
       "desc": "The five-month application window precedes the new regulatory framework’s planned introduction in October 2027, after years of legislative development.",
       "date": "2026-09-30T14:04:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Hyperliquid Co-founder Jeff Yan says 24-hour clock is not onchain finance’s true differentiator",
-      "link": "https://www.theblock.co/news/defi/2026-09-30-hyperliquid-co-founder-jeff-yan-24-hour-clock-not-onchain-finances-true-differentiator-417286",
-      "desc": "Hyperliquid (HYPE) Co-founder Jeff Yan said at Korea Blockchain Week that around-the-clock trading is not what sets onchain venues apart from traditional exchanges. Speaking in a fireside chat at Korea Blockchain Week 2026, Yan pointed out that crypto never needed conventional market hours because the asset class is inherently international, and that traditional exchanges have […]",
-      "date": "2026-09-30T13:33:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-      "link": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
-      "desc": "Petrobras is testing the blockchain in two research projects aimed at preventing emissions benefits from being counted twice and tracing fuel data across production and use.",
-      "date": "2026-09-30T13:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
