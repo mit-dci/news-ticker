@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T16:40:20.872Z",
+  "generatedAt": "2026-10-02T17:09:00.118Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 228,
+  "filteredOut": 227,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "bitcoinops",
@@ -13,6 +13,46 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/10/02/",
       "desc": "This week’s newsletter summarizes the responsible disclosure of two denial-of-service vulnerabilities affecting older versions of Eclair and describes a proposal for synchronizing wallet labels between devices through an untrusted store. Also included are our regular sections summarizing proposals and discussion about changing Bitcoin’s consensus rules, announcing new releases and release candidates, and describing notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-10-02T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
+      "link": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583",
+      "desc": "Ethereum L2 Blast is winding down after costs outpaced revenue. Users have until Oct. 26 to withdraw via the app.",
+      "date": "2026-10-02T16:54:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?",
+      "link": "https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next",
+      "desc": "A jobs report miss just erased the odds of an October rate hike, and BTC is now knocking on the door of its yearly ceiling.",
+      "date": "2026-10-02T16:45:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ripple and CSD BR Partner to Mirror Brazil's BTG Fund Records on XRP Ledger",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-and-csd-br-partner-to-mirror-btg-fund-records-on-xrp-ledger",
+      "desc": "The companies describe a live-transaction phase, with CSD BR retaining the official records for registration, deposit and settlement.",
+      "date": "2026-10-02T16:42:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Centrifuge Confirms Three Tokenized Funds Are Live on Arc",
+      "link": "https://thedefiant.io/news/defi/centrifuge-confirms-three-tokenized-funds-are-live-on-arc",
+      "desc": "JAAA, JTRSY and HYB span US Treasuries and credit, with direct fund access limited to non-US professional investors.",
+      "date": "2026-10-02T16:41:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -513,16 +553,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Fiserv Digital Asset Platform Goes Live With Bank of North Dakota Stablecoin",
-      "link": "https://www.pymnts.com/blockchain/2026/fiserv-digital-asset-platform-goes-live-with-bank-of-north-dakota-stablecoin/",
-      "desc": "Fiserv’s digital asset platform is now live with financial institution clients, the global provider of payments and financial services said in a Thursday (Oct. 1) press release. The platform’s first live use case Bank of North Dakota’s Roughrider Coin, a dollar-backed stablecoin designed to enable more efficient money movement across North Dakota’s interbank network, according […] The post Fiserv Digital Asset Platform Goes Live With Bank of North Dakota Stablecoin appeared first on PYMNTS.com.",
-      "date": "2026-10-02T01:03:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Monarch acquires HMBradley",
@@ -927,7 +957,13 @@
       "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
       "desc": "Both sides agreed the 0.2% tax should be put off until July 1, if the court approves the deal, which will let the state and industry focus on the legal dispute.",
       "date": "2026-10-01T11:58:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/regulation/illinois-agrees-to-six-month-crypto-tax-delay-subject-to-court-approval"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1157,26 +1193,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Daines Unveils Crypto Tax Bill Pairing Payment Relief With Wash-Sale Rules",
-      "link": "https://thedefiant.io/news/regulation/daines-unveils-crypto-tax-bill-pairing-payment-relief-with-wash-sale-rules",
-      "desc": "The ADAPT Act would exempt qualifying stablecoin purchases and crypto-paid transaction costs of $10 or less from gain-or-loss recognition, while restricting loss harvesting.",
-      "date": "2026-09-30T19:29:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "UK FCA Opens Crypto Authorization Window Ahead of 2027 Regime",
-      "link": "https://thedefiant.io/news/regulation/uk-fca-opens-crypto-authorization-window-ahead-of-2027-regime",
-      "desc": "Existing firms that apply by Feb. 28, 2027 can keep taking new business if their applications are still pending when the regime starts on Oct. 25.",
-      "date": "2026-09-30T19:27:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Base launches Cobalt upgrade with conditional transactions and new B20 asset functions",
@@ -1203,16 +1219,6 @@
       "link": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
       "desc": "DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with DOGE used for gas fees.",
       "date": "2026-09-30T18:23:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "White House weighs new CFTC event contract rules in growing prediction market power struggle",
-      "link": "https://www.theblock.co/news/regulation/2026-09-30-white-house-weighs-new-cftc-event-contract-rules-in-growing-prediction-market-power-struggle-417345",
-      "desc": "The White House is weighing two proposed rules from the CFTC tied to prediction markets as the agency seeks to assert its jurisdiction.",
-      "date": "2026-09-30T17:54:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
