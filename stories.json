@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T07:42:59.478Z",
+  "generatedAt": "2026-10-02T08:13:18.619Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 226,
+  "filteredOut": 228,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "bitcoinmag",
@@ -16,6 +16,22 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
+      "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
+      "desc": "Bitcoin is up roughly 3% in October as traders await September’s jobs data, while rising bond yields, a stronger dollar weigh on broader markets.",
+      "date": "2026-10-02T08:11:54.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -236,16 +252,6 @@
       "link": "https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows",
       "desc": "Bitcoin Magazine Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows Sazmining, a Bitcoin Mining as a Service company founded in 2020 and led by CEO and Co-Founder Kent Halliburton, today launched the Wild Sats Club, a loyalty program with four tiers that lowers the management fee customers pay as their petahash under management grows. The program is open to existing and new customers starting today. This post Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows first appeared on Bitcoin Magazine and is written by Bitcoin Magazine.",
       "date": "2026-10-01T21:05:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Banks’ Blockchain Bet Comes Down to Moving the Money",
-      "link": "https://www.pymnts.com/blockchain/2026/banks-blockchain-bet-comes-down-to-moving-the-money/",
-      "desc": "Wall Street’s embrace of digital assets has reached the point where saying a bank is “doing blockchain” reveals almost nothing about what it can actually do on-chain. One bank may be experimenting with tokenized securities inside an innovation lab. Another may let corporate customers move tokenized commercial-bank deposits around the clock, while a third may […] The post Banks’ Blockchain Bet Comes Down to Moving the Money appeared first on PYMNTS.com.",
-      "date": "2026-10-01T21:02:55.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -552,16 +558,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "StraitsX to bring first SGD-denominated stablecoin to Monad",
-      "link": "https://www.finextra.com/pressarticle/111097/straitsx-to-bring-first-sgd-denominated-stablecoin-to-monad?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "StraitsX today announced plans to bring XSGD and XUSD to the Monad network in early 2027. XSGD is planned to become the first SGD-denominated stablecoin natively issued on Monad, expanding the currencies available to developers, businesses and institutions across the network.",
-      "date": "2026-10-01T13:23:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
@@ -608,16 +604,6 @@
       "link": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
       "desc": "Meanwhile, U.S. spot Ethereum ETFs saw $59.6 million in net outflows on Wednesday, led by $26.6 million exiting Fidelity's FETH fund.",
       "date": "2026-10-01T12:17:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
-      "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
-      "desc": "The euro is losing ground versus the greenback as spiking French bond yields revive memories of the European sovereign debt crisis.",
-      "date": "2026-10-01T11:59:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1232,16 +1218,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
       "desc": "Independent directors cite management’s financial risk and restructuring role, but leave questions about Gerovich’s exercised shares and MMXX Ventures unanswered.",
       "date": "2026-09-30T10:28:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
-      "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
-      "desc": "Crypto prices rose early Wednesday after better-than-forecast inflation data, but gave up those gains as interest rates continued to surge.",
-      "date": "2026-09-30T10:18:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
