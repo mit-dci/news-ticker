@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T17:09:00.118Z",
+  "generatedAt": "2026-10-02T17:37:37.041Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 227,
+  "filteredOut": 228,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "bitcoinops",
@@ -13,6 +13,26 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/10/02/",
       "desc": "This week’s newsletter summarizes the responsible disclosure of two denial-of-service vulnerabilities affecting older versions of Eclair and describes a proposal for synchronizing wallet labels between devices through an untrusted store. Also included are our regular sections summarizing proposals and discussion about changing Bitcoin’s consensus rules, announcing new releases and release candidates, and describing notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-10-02T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+      "link": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+      "desc": "The potential agreement could span digital assets, custody, trading, payments and other financial-market infrastructure.",
+      "date": "2026-10-02T17:34:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "IMF Approves $138 Million for El Salvador After Bitcoin Waiver",
+      "link": "https://thedefiant.io/news/regulation/imf-approves-138-million-for-el-salvador-after-bitcoin-waiver",
+      "desc": "The fund still expects no further Bitcoin accumulation beyond documented donations and wants the state’s remaining Chivo exposure fully unwound.",
+      "date": "2026-10-02T17:17:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -801,7 +821,13 @@
       "link": "https://thedefiant.io/news/defi/drift-opens-dfx-claims-with-recovery-pool-covering-about-1-of-losses",
       "desc": "Redeeming burns the tokens and ends their claim on future deposits. Holders can instead wait for revenue-funded recovery or sell their DFX.",
       "date": "2026-10-01T16:14:14.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1173,16 +1199,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Uniswap Labs Plans OUSD Rewards Hook for Liquidity Providers",
-      "link": "https://thedefiant.io/news/defi/uniswap-labs-plans-ousd-rewards-hook-for-liquidity-providers",
-      "desc": "OUSD is already available across Uniswap's protocol, apps and API, while the planned rewards mechanism awaits its full design.",
-      "date": "2026-09-30T19:53:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
@@ -1209,36 +1225,6 @@
       "link": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
       "desc": "The two proposals would define event contracts as \"swaps\" while excluding \"casino-style gambling products\"—a bid to cement the agency's exclusive jurisdiction as states sue prediction-market operators over gambling claims.",
       "date": "2026-09-30T18:39:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "DogeOS launches testnet to bring EVM smart contracts to Dogecoin",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-30-dogeos-launches-public-testnet-dogecoin-zk-rollup-evm-417307",
-      "desc": "DogeOS launched a public testnet for its zero-knowledge rollup bringing EVM smart contracts to Dogecoin, with DOGE used for gas fees.",
-      "date": "2026-09-30T18:23:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-      "link": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-      "desc": "Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?",
-      "date": "2026-09-30T17:27:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
-      "desc": "In the first half of this year, the sector poured millions into lobbying, with most of it tied to pushing the U.S. market structure bill to a goal it never reached.",
-      "date": "2026-09-30T17:16:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
