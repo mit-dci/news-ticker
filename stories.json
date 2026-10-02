@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T18:13:25.299Z",
+  "generatedAt": "2026-10-02T18:42:09.633Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 227,
+  "filteredOut": 228,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "bitcoinops",
@@ -14,6 +14,22 @@
       "desc": "This week’s newsletter summarizes the responsible disclosure of two denial-of-service vulnerabilities affecting older versions of Eclair and describes a proposal for synchronizing wallet labels between devices through an untrusted store. Also included are our regular sections summarizing proposals and discussion about changing Bitcoin’s consensus rules, announcing new releases and release candidates, and describing notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-10-02T00:00:00.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
+      "link": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Once among Ethereum’s largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown.",
+      "date": "2026-10-02T18:24:05.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -53,16 +69,6 @@
       "link": "https://thedefiant.io/news/regulation/imf-approves-138-million-for-el-salvador-after-bitcoin-waiver",
       "desc": "The fund still expects no further Bitcoin accumulation beyond documented donations and wants the state’s remaining Chivo exposure fully unwound.",
       "date": "2026-10-02T17:17:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
-      "link": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583",
-      "desc": "Ethereum L2 Blast is winding down after costs outpaced revenue. Users have until Oct. 26 to withdraw via the app.",
-      "date": "2026-10-02T16:54:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -927,16 +933,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitget’s $388M hack pushes Q3 crypto security losses past $1B",
-      "link": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto security losses reached $1.26 billion in Q3 across 247 incidents, with September alone accounting for roughly $769 million.",
-      "date": "2026-10-01T13:35:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
@@ -1225,16 +1221,6 @@
       "link": "https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308",
       "desc": "Base has launched Cobalt, adding conditional transactions and new functions for assets issued under its B20 standard.",
       "date": "2026-09-30T19:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-      "link": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
-      "desc": "The two proposals would define event contracts as \"swaps\" while excluding \"casino-style gambling products\"—a bid to cement the agency's exclusive jurisdiction as states sue prediction-market operators over gambling claims.",
-      "date": "2026-09-30T18:39:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
