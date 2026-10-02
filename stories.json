@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-02T21:37:18.641Z",
+  "generatedAt": "2026-10-02T22:09:13.493Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 232,
+  "filteredOut": 235,
   "errors": [],
   "dupsMerged": 10,
   "items": [
@@ -17,13 +17,39 @@
       "termBoost": 0
     },
     {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project",
+      "link": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
+      "desc": "Bitcoin Magazine IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a $139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. This post IMF Praises El Salvador — But Still Tries To Scale Back Its Bitcoin Project first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-02T22:01:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Arbitrum Pauses New Stylus Activations in Emergency Security Action",
+      "link": "https://thedefiant.io/news/security/arbitrum-pauses-new-stylus-activations-in-emergency-security-action",
+      "desc": "Active contracts can still run and renew, while a new BoLD guard could delay unconfirmed withdrawals if contradictory proofs are accepted.",
+      "date": "2026-10-02T21:46:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bank group sues U.S. regulator over granting crypto trust charters",
       "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
       "desc": "The Independent Community Bankers of America sued the Office of the Comptroller of the Currency, accusing the regulator of overstepping its legal authority.",
       "date": "2026-10-02T21:23:20.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/icba-sues-occ-over-crypto-trust-charters"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -209,16 +235,6 @@
       "link": "https://thedefiant.io/news/hacks/near-intents-gm-says-3-8-million-in-hack-funds-returned-in-full",
       "desc": "The published Bitcoin recovery wallet received about 34.59 BTC. The protocol had already pledged to compensate the lost funds in full.",
       "date": "2026-10-02T16:07:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "California Bars Public Officials From Issuing Meme Coins",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/california-bars-public-officials-from-issuing-meme-coins/",
-      "desc": "California has barred public officials and government employees from issuing meme coins and prohibited digital asset platforms from listing certain tokens associated with public officials. The new measures extend the state’s broad effort to regulate cryptocurrency while Congress continues to debate a federal framework. Gov. Gavin Newsom signed Assembly Bill 2409, authored by Assemblymember Avelino […] The post California Bars Public Officials From Issuing Meme Coins appeared first on PYMNTS.com.",
-      "date": "2026-10-02T15:46:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -745,16 +761,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
-      "desc": "Bitcoin Magazine Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin Block has launched a campaign to get people on a Bitcoin standard. This post Jack Dorsey’s Block Launches Campaign To Get People Spending Bitcoin first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-01T20:15:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "New York and Wyoming regulators ink virtual currency MoU",
@@ -1071,6 +1077,16 @@
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
+      "title": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
+      "link": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
+      "desc": "The wallet says it has found no immediate threat to user wallets, but the ETH it is pulling out of Lido could take 45 days to return.",
+      "date": "2026-10-01T09:38:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
       "title": "EU Presses Binance Over ‘Reverse Solicitation’ Exemption for Users: Report",
       "link": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
       "desc": "Regulators are probing how the exchange keeps serving EU customers from Abu Dhabi, months after it lost its MiCA registrations.",
@@ -1135,52 +1151,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
       "desc": "A cooler-than-expected PCE report sent bitcoin briefly above $85,000 on Wednesday. Treasury yields held near their highest since 2002 and the gains drained away.",
       "date": "2026-10-01T04:15:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Sentora’s Morpho Vaults See Sharp Outflows Amid MetaMask Staking Incident",
-      "link": "https://thedefiant.io/news/defi/sentora-s-morpho-vaults-see-sharp-outflows-amid-metamask-staking-incident",
-      "desc": "The RLUSD and PYUSD vaults had about $8.46 million and $2.38 million of available liquidity, respectively, in Morpho’s latest snapshots.",
-      "date": "2026-10-01T03:19:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "MetaMask Staking Exits Lido Validators After Infrastructure Compromise",
-      "link": "https://thedefiant.io/news/security/metamask-staking-exits-lido-validators-after-infrastructure-compromise",
-      "desc": "MetaMask says its investigation has found no indication that wallets or customer funds were affected. Lido estimates the exit, withdrawal and re-entry cycle could take up to about 45 days.",
-      "date": "2026-10-01T00:00:43.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Clarity Act’s failure gave crypto ‘faster’ regulatory wins, Bitwise CIO says",
-      "link": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
-      "desc": "Bitwise’s Matt Hougan says Clarity’s defeat left crypto with fewer restrictions and faster SEC action.",
-      "date": "2026-09-30T21:53:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
-      "link": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
-      "desc": "The team behind the MyDoge wallet opened a public test of DogeOS, a layer that lets developers build lending platforms and games on top of the meme coin network.",
-      "date": "2026-09-30T21:46:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
