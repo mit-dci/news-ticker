@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T11:38:38.096Z",
+  "generatedAt": "2026-10-06T12:14:40.253Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 243,
+  "filteredOut": 241,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "coincenter",
@@ -17,13 +17,29 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Personio acquires spend management platform Circula",
+      "link": "https://www.finextra.com/newsarticle/48539/personio-acquires-spend-management-platform-circula?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "German unicorn Personio has purchased fellow German fintech Circula, one of Europe's largest spend management platforms.",
+      "date": "2026-10-06T12:01:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections",
       "link": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
       "desc": "Don Davis introduced legislation barring federal candidates and their families from trading prediction contracts tied to their own elections.",
       "date": "2026-10-06T11:36:15.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/380147/don-davis-bill-would-fine-candidates-10k-for-trading-on-their-own-elections"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -69,7 +85,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: A drop below $84,000 could put $80,000 in play for bitcoin",
+      "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
       "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
       "desc": "FxPro says a slide below $84,000 would hand control to sellers and put $80,000 in play. Minutes from the Fed's last meeting come out Wednesday.",
       "date": "2026-10-06T10:35:49.000Z",
