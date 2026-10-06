@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-10-06T19:07:24.835Z",
+  "generatedAt": "2026-10-06T19:36:57.433Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 226,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Conduit Sues Tether Over $2.76 Million in Frozen USDT",
+      "link": "https://thedefiant.io/news/regulation/conduit-sues-tether-over-2-76-million-in-frozen-usdt",
+      "desc": "The payments firm seeks a court order restoring access to its treasury wallet, saying the loss of working capital has slowed client settlements.",
+      "date": "2026-10-06T19:19:43.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "UK names 6 banks to lead first digitally native government bond",
+      "link": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The DIGIT pilot will test distributed ledger technology and onchain settlement for UK sovereign debt, with issuance expected by the first quarter of 2027.",
+      "date": "2026-10-06T19:19:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better",
+      "link": "https://decrypt.co/380211/bryan-johnson-best-anti-aging-filters",
+      "desc": "The face of the \"Don't Die\" movement now says retouching beats therapy for looking young. His transformation over the summer may explain why.",
+      "date": "2026-10-06T19:15:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
@@ -78,16 +114,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Conduit sues Tether over $2.76 million freeze, says it has ‘no legal entitlement’ to funds",
-      "link": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831",
-      "desc": "Conduit is suing Tether in NY federal court, alleging the USDT issuer froze $2.76 million of its funds for over a year without explanation.",
-      "date": "2026-10-06T17:54:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Firelight Begins Writing DeFi Cover Backed By Staked XRP",
@@ -150,7 +176,13 @@
       "link": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
       "desc": "Winklevoss Asset Services filed for a spot Zcash ETF under ticker WINK, with Gemini as custodian and a 0.25% fee, rivaling Grayscale's ZCSH.",
       "date": "2026-10-06T16:43:41.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/winklevoss-files-for-zcash-etf-with-0-25-fee"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -174,16 +206,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "CFTC Moves to Build Federal Rulebook for Crypto Exchanges After Clarity Act Fails",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/cftc-build-federal-rulebook-crypto-exchanges-after-clarity-act-fails/",
-      "desc": "The Commodity Futures Trading Commission is moving to establish a federal regulatory framework for cryptocurrency exchanges after Congress failed to enact legislation that would have set market structure rules for much of the digital asset industry. The CFTC published Monday (Oct. 5) an advance notice of proposed rulemaking outlining two interconnected regulatory frameworks that could […] The post CFTC Moves to Build Federal Rulebook for Crypto Exchanges After Clarity Act Fails appeared first on PYMNTS.com.",
-      "date": "2026-10-06T15:57:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Treasury Drops Crypto Surveillance Proposals",
@@ -195,11 +217,6 @@
           "source": "COIN CENTER",
           "sourceId": "coincenter",
           "url": "https://coincenter.org/treasury-just-withdrew-crypto-surveillance-rule-proposals-long-opposed-by-coin-center/"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/regulation/treasury-drops-crypto-wallet-surveillance-rules"
         },
         {
           "source": "DECRYPT",
@@ -976,16 +993,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
-      "link": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "CFTC Chair Michael Selig claimed that the agency was using its “existing statutory authorities“ to address crypto regulation after Congress failed to advance a market structure bill.",
-      "date": "2026-10-05T17:40:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "CFTC Seeks Comment on Crypto Rulebook That Leaves Spot Exchanges to the States",
@@ -1102,16 +1109,6 @@
       "link": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
       "desc": "DFDV says preliminary Q3 estimates show NAV per share more than doubled as its Solana treasury grew to 2.56 million SOL.",
       "date": "2026-10-05T14:33:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tim Draper's Firm Leads Strategic Round In Bitcoin Wallet Xverse",
-      "link": "https://thedefiant.io/news/defi/xverse-draper-associates-strategic-round-bitcoin-neobank",
-      "desc": "Trust Machines and Draper Dragon joined the round. Terms were not disclosed, and Xverse has not said what it raised or at what valuation.",
-      "date": "2026-10-05T14:25:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
