@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T20:38:37.045Z",
+  "generatedAt": "2026-10-07T21:08:54.945Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 215,
+  "filteredOut": 214,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "bitcoinmag",
@@ -49,6 +49,36 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Ripple, Crypto’s Payments Giant, Breaks Into Wall Street",
+      "link": "https://www.wsj.com/finance/investing/ripple-cryptos-payments-giant-breaks-into-wall-street-7b506aa5?mod=rss_markets_main",
+      "desc": "The crypto firm is emerging as a serious player in financing leveraged ETFs, a lucrative business long dominated by big banks.",
+      "date": "2026-10-07T20:52:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+      "link": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The partnership with SAP-backed Tereina will let businesses send and receive Circle’s stablecoins from within the financial software they already use.",
+      "date": "2026-10-07T20:48:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+      "link": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
+      "desc": "Claude Haiku 5.5 costs about 75% less to run than its predecessor and targets high-volume jobs like summaries and live customer support. It arrives 15 days after Opus 5.5.",
+      "date": "2026-10-07T20:46:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -327,7 +357,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
       "link": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient",
+      "desc": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient.",
       "date": "2026-10-07T16:06:03.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -1122,22 +1152,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
-      "link": "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ripple Prime will provide prime brokerage, clearing and financing services to funds managed by the $35 billion alternative investment manager.",
-      "date": "2026-10-06T15:24:51.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-10-06-ripple-prime-brevan-howard-prime-brokerage-clearing-financing-417801"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
@@ -1154,6 +1168,16 @@
       "link": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
       "desc": "Solana treasury firm DeFi Development approved an open-ended program to repurchase CHAD preferred stock if it trades below its $10 par value.",
       "date": "2026-10-06T15:09:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Brevan Howard to use Ripple Prime for multi-asset brokerage, clearing and financing",
+      "link": "https://www.theblock.co/news/business/2026-10-06-ripple-prime-brevan-howard-prime-brokerage-clearing-financing-417801",
+      "desc": "Ripple Prime will provide prime brokerage, clearing and financing to Brevan Howard, deepening a tie that began with its Ripple investment.",
+      "date": "2026-10-06T14:36:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1341,16 +1365,6 @@
       "link": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
       "desc": "Nasdaq-listed DeFi Development Corp's latest SEC filing shows its Solana stash grew 1%, to about 2.56 million SOL and SOL equivalents—roughly half the prior week's gain and well below mid-September's pace.",
       "date": "2026-10-05T21:48:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
-      "link": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
-      "desc": "Investigators say a Bonita Springs woman's Claude \"diary\" tripped Anthropic's safety filters. A human review team sent it to police, and Anthropic's own terms allow exactly that.",
-      "date": "2026-10-05T21:16:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
