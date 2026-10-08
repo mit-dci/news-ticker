@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T08:47:54.735Z",
+  "generatedAt": "2026-10-08T09:13:36.316Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 220,
+  "filteredOut": 218,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "bitcoinmag",
@@ -91,7 +91,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "Greece plans 10% capital gains tax on cryptocurrencies",
       "link": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Greece is preparing draft legislation to impose a 10% capital gains tax on cryptocurrencies, as it moves towards the country’s first digital asset taxation framework.",
+      "desc": "Greece’s draft bill proposes a 10% tax on crypto capital gains, with exemptions for annual gains of up to 500 euros and crypto-to-crypto swaps.",
       "date": "2026-10-08T08:03:47.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -185,6 +185,11 @@
       "date": "2026-10-08T02:50:01.000Z",
       "alsoAt": [
         {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices"
+        },
+        {
           "source": "COINTELEGRAPH",
           "sourceId": "cointelegraph",
           "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
@@ -199,7 +204,13 @@
       "link": "https://thedefiant.io/news/tradfi-and-fintech/samsung-wallet-to-add-usdc-on-sui-in-late-october",
       "desc": "Bastion and Coinbase will custody the balances, while transfers to bank accounts in more than 60 countries will carry separate fees.",
       "date": "2026-10-08T02:30:16.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/pressarticle/111189/coinbase-and-samsung-wallet-partner-for-usdc?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
