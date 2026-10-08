@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T09:42:45.508Z",
+  "generatedAt": "2026-10-08T10:11:10.263Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 219,
+  "filteredOut": 220,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "bitcoinmag",
@@ -49,6 +49,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+      "link": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "ESMA urged EU crypto firms to halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures.",
+      "date": "2026-10-08T09:42:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -743,7 +753,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
+      "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder says",
       "link": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
       "desc": "Banks need their own permissioned ledger, wallet tools and smart-contract capabilities before they can use Swift’s tokenized-deposit network, Taurus’s Lamine Brahimi said.",
       "date": "2026-10-07T11:59:24.000Z",
@@ -997,32 +1007,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
-      "link": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Igloo CEO Luca Netz said the company funded Abstract for 18 months but still failed to find product-market fit despite attracting major brands and a community of millions.",
-      "date": "2026-10-07T00:01:40.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/blockchains/abstract-to-shut-down-ethereum-layer-2-on-dec-15"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
@@ -1083,13 +1067,24 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
-      "link": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Brazilian authorities in 2024.",
-      "date": "2026-10-06T21:00:44.000Z",
-      "alsoAt": [],
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+      "link": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
+      "desc": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.",
+      "date": "2026-10-06T20:28:53.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/blockchains/abstract-to-shut-down-ethereum-layer-2-on-dec-15"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1288,9 +1283,9 @@
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
-      "title": "Tokenization and Digital Assets: What is the Real End Goal?",
-      "link": "https://www.finextra.com/videoarticle/3605/tokenization-and-digital-assets-what-is-the-real-end-goal?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "At Sibos 2026, Swift’s Jack Pouderoyen reveals how a new blockchain ledger solves tokenization fragmentation for 24/7 global settlements.",
+      "title": "Tokenisation and Digital Assets: What is the Real End Goal?",
+      "link": "https://www.finextra.com/videoarticle/3605/tokenisation-and-digital-assets-what-is-the-real-end-goal?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "At Sibos 2026, Swift’s Jack Pouderoyen reveals how a new blockchain ledger solves tokenisation fragmentation for 24/7 global settlements.",
       "date": "2026-10-06T11:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
