@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T16:42:33.785Z",
+  "generatedAt": "2026-10-08T17:09:05.781Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 233,
+  "filteredOut": 235,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "decrypt",
@@ -16,6 +16,32 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets",
+      "link": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
+      "desc": "Bitcoin Magazine EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets Partnership will bring vBTC to EDX Markets for institutional spot trading, while EDX joins the VerifiedX network as a validator, expanding institutional access to tokenized, programmable Bitcoin infrastructure. This post EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets first appeared on Bitcoin Magazine and is written by Juan Galt.",
+      "date": "2026-10-08T16:53:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
+      "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+      "desc": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.",
+      "date": "2026-10-08T16:44:20.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -81,16 +107,6 @@
           "url": "https://www.finextra.com/newsarticle/48555/standard-chartered-extends-digital-asset-custody-to-singapore?utm_medium=rssfinextra&utm_source=finextrafeed"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
-      "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-      "desc": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
-      "date": "2026-10-08T15:43:04.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -343,7 +359,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin breaks lower from recent trading range, sliding below $82,000",
+      "title": "Live updates: Bitcoin breaks lower from recent trading range, sliding back to $81,000",
       "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
       "desc": "Rising Treasury yields, surging energy prices and a stronger dollar weigh on bitcoin and tech, while silver falls below $59 an ounce.",
       "date": "2026-10-08T10:44:47.000Z",
@@ -611,16 +627,6 @@
       "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
       "desc": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
       "date": "2026-10-07T19:46:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "US Investors Want to up Their Crypto Holdings: Charles Schwab",
-      "link": "https://bitcoinmagazine.com/news/charles-schwab-says-investors-want-crypto",
-      "desc": "Bitcoin Magazine US Investors Want to up Their Crypto Holdings: Charles Schwab American investors who hold crypto want to keep adding over the next year, new research shows. This post US Investors Want to up Their Crypto Holdings: Charles Schwab first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-07T19:38:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1117,18 +1123,13 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
-      "link": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
-      "desc": "The payments firm alleges Tether froze its treasury wallet on its own initiative over a Brazilian investigation it has no connection to—and has profited from the reserves while refusing to release the funds for more than a year.",
-      "date": "2026-10-06T19:46:04.000Z",
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Conduit Sues Tether Over $2.76 Million in Frozen USDT",
+      "link": "https://thedefiant.io/news/regulation/conduit-sues-tether-over-2-76-million-in-frozen-usdt",
+      "desc": "The payments firm seeks a court order restoring access to its treasury wallet, saying the loss of working capital has slowed client settlements.",
+      "date": "2026-10-06T19:19:43.000Z",
       "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/regulation/conduit-sues-tether-over-2-76-million-in-frozen-usdt"
-        },
         {
           "source": "THE BLOCK",
           "sourceId": "block",
@@ -1138,29 +1139,13 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better",
-      "link": "https://decrypt.co/380211/bryan-johnson-best-anti-aging-filters",
-      "desc": "The face of the \"Don't Die\" movement now says retouching beats therapy for looking young. His transformation over the summer may explain why.",
-      "date": "2026-10-06T19:15:04.000Z",
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Winklevoss Files for Zcash ETF With 0.25% Fee",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/winklevoss-files-for-zcash-etf-with-0-25-fee",
+      "desc": "Winklevoss Capital Fund has indicated interest in buying up to $100 million of shares, but the potential purchase is nonbinding.",
+      "date": "2026-10-06T19:17:19.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker",
-      "link": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
-      "desc": "Winklevoss Asset Services filed for a spot Zcash ETF under ticker WINK, with Gemini as custodian and a 0.25% fee, rivaling Grayscale's ZCSH.",
-      "date": "2026-10-06T16:43:41.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/winklevoss-files-for-zcash-etf-with-0-25-fee"
-        }
-      ],
       "termBoost": 0
     }
   ]
