@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T15:40:37.178Z",
+  "generatedAt": "2026-10-08T16:12:17.895Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 237,
+  "filteredOut": 234,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "decrypt",
@@ -16,6 +16,52 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
+      "link": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
+      "date": "2026-10-08T15:55:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Standard Chartered to Offer Digital Asset Custody in Singapore",
+      "link": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
+      "desc": "Bitcoin Magazine Standard Chartered to Offer Digital Asset Custody in Singapore The bank already offers bitcoin custody in other countries. This post Standard Chartered to Offer Digital Asset Custody in Singapore first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-08T15:46:05.000Z",
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48555/standard-chartered-extends-digital-asset-custody-to-singapore?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+      "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+      "desc": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
+      "date": "2026-10-08T15:43:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
+      "link": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
+      "desc": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
+      "date": "2026-10-08T15:42:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -235,16 +281,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Standard Chartered extends digital asset custody to Singapore",
-      "link": "https://www.finextra.com/newsarticle/48555/standard-chartered-extends-digital-asset-custody-to-singapore?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Global custodian Standard Chartered has announced an expansion of its digital assets custody service",
-      "date": "2026-10-08T10:50:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "pymnts",
       "sourceName": "PYMNTS",
       "title": "Coinbase Looks to Cash in as Banks Embrace Crypto",
@@ -267,7 +303,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin breaks lower from recent trading range, sliding back to $82,000",
+      "title": "Live updates: Bitcoin breaks lower from recent trading range, sliding below $82,000",
       "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
       "desc": "Rising Treasury yields, surging energy prices and a stronger dollar weigh on bitcoin and tech, while silver falls below $59 an ounce.",
       "date": "2026-10-08T10:44:47.000Z",
@@ -279,7 +315,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
       "link": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "ESMA urged EU crypto firms to halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures.",
+      "desc": "ESMA said EU crypto firms should halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures.",
       "date": "2026-10-08T09:42:04.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -646,16 +682,6 @@
       "link": "https://thedefiant.io/news/blockchains/injective-s-meridian-upgrade-expands-controls-for-tokenized-assets",
       "desc": "The mainnet release begins private trading tests, while the broader CypherOS privacy platform is planned for a later chain upgrade.",
       "date": "2026-10-07T16:54:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Jack Dorsey’s Block Gifts One Bitcoin to Lucky ComplexCon Attendee",
-      "link": "https://bitcoinmagazine.com/news/block-gifts-bitcoin-at-complexcon",
-      "desc": "Bitcoin Magazine Jack Dorsey’s Block Gifts One Bitcoin to Lucky ComplexCon Attendee Jack Dorsey’s Block is pushing so hard for bitcoin adoption, it gifted 1 BTC to a lucky conference attendee at this year’s ComplexCon in Los Angeles. The fintech giant attended the Complex Networks yearly event at the weekend in a bid to introduce newbies to the leading cryptocurrency through — in its words — “culture, […] This post Jack Dorsey’s Block Gifts One Bitcoin to Lucky ComplexCon Attendee first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-07T16:52:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
