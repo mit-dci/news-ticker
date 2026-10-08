@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-08T13:41:27.899Z",
+  "generatedAt": "2026-10-08T14:11:02.985Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 229,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 213,
+  "errors": [
+    "TECHCRUNCH: fetch failed"
+  ],
   "dupsMerged": 14,
   "items": [
     {
@@ -49,6 +51,36 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Why Bitcoin’s Liquidity Advantage Matters as Institutions Move In",
+      "link": "https://bitcoinmagazine.com/markets/why-bitcoins-liquidity-advantage-matters-as-institutions-move-in",
+      "desc": "Bitcoin Magazine Why Bitcoin’s Liquidity Advantage Matters as Institutions Move In SALT Lending CEO Shawn Owen explains why Bitcoin’s portability gives it an advantage over traditional assets and why institutional adoption may only be getting started. This post Why Bitcoin’s Liquidity Advantage Matters as Institutions Move In first appeared on Bitcoin Magazine and is written by Josh Plischke.",
+      "date": "2026-10-08T13:49:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Shawn Owen: Bitcoin’s First Institutional Cycle Has Arrived",
+      "link": "https://bitcoinmagazine.com/videos/shawn-owen-bitcoins-first-institutional-cycle-has-arrived",
+      "desc": "Bitcoin Magazine Shawn Owen: Bitcoin’s First Institutional Cycle Has Arrived Banks are racing to adopt Bitcoin, and SALT Lending CEO Shawn Owen says FOMO is real. He joins Grace and Sean to break down BTC lending and institutional shift. This post Shawn Owen: Bitcoin’s First Institutional Cycle Has Arrived first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-10-08T13:46:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
+      "link": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity’s head of digital asset strategists.",
+      "date": "2026-10-08T13:42:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -173,7 +205,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Risk assets under pressure as bond selloff and oil rally intensify",
+      "title": "Live updates: Bitcoin breaks lower from recent trading range, sliding back to $82,000",
       "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
       "desc": "Rising Treasury yields, surging energy prices and a stronger dollar weigh on bitcoin and tech, while silver falls below $59 an ounce.",
       "date": "2026-10-08T10:44:47.000Z",
@@ -657,26 +689,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Russia’s Sberbank Given Green Light to Custody Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/russia-sberbank-can-now-custody-bitcoin",
-      "desc": "Bitcoin Magazine Russia’s Sberbank Given Green Light to Custody Bitcoin Russia’s largest bank has announced it is the first in the country to have been approved to custody bitcoin. Sberbank said in an announcement Wednesday that the Bank of Russia gave the company the green light for “digital currency record-keeping” and to facilitate the transfer of such assets. It said that bitcoin and other, smaller […] This post Russia’s Sberbank Given Green Light to Custody Bitcoin first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-07T16:14:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-83000",
-      "desc": "Bitcoin Magazine Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs The price of bitcoin is down nearly 4% as most assets experience a selloff. This post Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-07T16:08:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
@@ -693,16 +705,6 @@
       "link": "https://thedefiant.io/news/markets/coplan-stops-short-of-mentioning-a-polymarket-token-at-token2049",
       "desc": "Traders read a Sunday post as a tease of POLY. Coplan described an onchain asset tied to the company's economics, named no structure and set no date",
       "date": "2026-10-07T16:00:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Australian court ruling on climate impact of coal mining a ‘blow’, says industry",
-      "link": "https://www.ft.com/content/870ed142-0418-4685-9347-d8c0caacdc58?syn-25a6b1a6=1",
-      "desc": "Verdict is latest in a series of legal cases to examine the relationship between fossil fuel producers and global warming",
-      "date": "2026-10-07T15:59:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -857,16 +859,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder says",
-      "link": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
-      "desc": "Banks need their own permissioned ledger, wallet tools and smart-contract capabilities before they can use Swift’s tokenized-deposit network, Taurus’s Lamine Brahimi said.",
-      "date": "2026-10-07T11:59:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Crypto card access doesn’t match global demand, Tangem says",
@@ -893,16 +885,6 @@
       "link": "https://cointelegraph.com/news/wall-street-wealth-creation-unsustainable-hyperliquid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Early Wall Street wealth-creation opportunities remain inaccessible to retail participants, but Hyperliquid’s perpetual contracts aim to democratize access, according to its CEO.",
       "date": "2026-10-07T10:19:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Capitolis raises $220m for eSecLending acquisition",
-      "link": "https://www.finextra.com/newsarticle/48546/capitolis-raises-220m-for-eseclending-acquisition?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Capitolis, a US-based fintech in the portfolio optimisation market, has pulled in $220, following a series E equity financing round.",
-      "date": "2026-10-07T10:18:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -953,16 +935,6 @@
       "link": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
       "desc": "Unveiled at TOKEN2049 Singapore, the Morpho-powered Crypto Loan feature lets users borrow stablecoins against wrapped Bitcoin while keeping private keys and final approval on their hardware device.",
       "date": "2026-10-07T09:01:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitmine sets 5% Ether supply ‘hard cap’ as accumulation target nears",
-      "link": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Tom Lee said Bitmine will not accumulate Ether past 5% of the supply, turning the company’s target into a ceiling.",
-      "date": "2026-10-07T08:50:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1181,16 +1153,6 @@
       "link": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
       "desc": "Solana treasury firm DeFi Development approved an open-ended program to repurchase CHAD preferred stock if it trades below its $10 par value.",
       "date": "2026-10-06T15:09:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Brevan Howard to use Ripple Prime for multi-asset brokerage, clearing and financing",
-      "link": "https://www.theblock.co/news/business/2026-10-06-ripple-prime-brevan-howard-prime-brokerage-clearing-financing-417801",
-      "desc": "Ripple Prime will provide prime brokerage, clearing and financing to Brevan Howard, deepening a tie that began with its Ripple investment.",
-      "date": "2026-10-06T14:36:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
