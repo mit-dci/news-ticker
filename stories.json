@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-08T09:13:36.316Z",
+  "generatedAt": "2026-10-08T09:42:45.508Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 218,
+  "filteredOut": 219,
   "errors": [],
   "dupsMerged": 15,
   "items": [
@@ -79,6 +79,11 @@
       "date": "2026-10-08T08:08:03.000Z",
       "alsoAt": [
         {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody"
+        },
+        {
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017"
@@ -93,7 +98,13 @@
       "link": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Greece’s draft bill proposes a 10% tax on crypto capital gains, with exemptions for annual gains of up to 500 euros and crypto-to-crypto swaps.",
       "date": "2026-10-08T08:03:47.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -386,13 +397,7 @@
       "link": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
       "desc": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed, but the stash behind it is the largest any government holds in Arkham's ranking.",
       "date": "2026-10-07T16:56:56.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -952,16 +957,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
-      "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
-      "desc": "The consumer-focused blockchain will close Dec. 15 after Igloo spent tens of millions supporting it, days after Blast said its own network was no longer worth operating.",
-      "date": "2026-10-07T04:31:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
@@ -1267,13 +1262,7 @@
       "link": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
       "desc": "A London quantitative hedge fund joins the round too, seven months after the NYSE's owner bought in at exactly the same price.",
       "date": "2026-10-06T12:53:04.000Z",
-      "alsoAt": [
-        {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/48543/circle-ripple-and-standard-chartered-invest-in-okx?utm_medium=rssfinextra&utm_source=finextrafeed"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
