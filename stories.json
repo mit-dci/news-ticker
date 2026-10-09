@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T16:40:07.316Z",
+  "generatedAt": "2026-10-09T17:08:16.548Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 248,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "coindesk",
@@ -35,6 +35,16 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/10/09/",
       "desc": "This week’s newsletter links to a draft BIP for letting peers choose their own one-byte message type IDs over the version 2 P2P transport, summarizes a discussion about whether BIPs should include their number in tagged hash tags, and describes a proposed metaprotocol for private onchain transfers that requires no consensus changes. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-10-09T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
+      "link": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
+      "desc": "Bitcoin Magazine Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses Hardware wallet manufacturer Ledger is investigating after users reported having wallets drained. This post Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-09T16:43:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -590,6 +600,22 @@
       "termBoost": 0
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Standard Chartered Plans Digital Asset Custody in Singapore",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-plans-digital-asset-custody-in-singapore",
+      "desc": "The proposed service would extend a custody network spanning the UAE, Luxembourg and Hong Kong. The bank has not announced a launch date.",
+      "date": "2026-10-08T21:01:23.000Z",
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48555/standard-chartered-extends-digital-asset-custody-to-singapore?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
@@ -779,27 +805,6 @@
       "desc": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
       "date": "2026-10-08T15:55:55.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Standard Chartered to Offer Digital Asset Custody in Singapore",
-      "link": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
-      "desc": "Bitcoin Magazine Standard Chartered to Offer Digital Asset Custody in Singapore The bank already offers bitcoin custody in other countries. This post Standard Chartered to Offer Digital Asset Custody in Singapore first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-08T15:46:05.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-plans-digital-asset-custody-in-singapore"
-        },
-        {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/48555/standard-chartered-extends-digital-asset-custody-to-singapore?utm_medium=rssfinextra&utm_source=finextrafeed"
-        }
-      ],
       "termBoost": 0
     },
     {
