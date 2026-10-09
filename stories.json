@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T19:37:44.150Z",
+  "generatedAt": "2026-10-09T20:09:53.681Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 244,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "coindesk",
@@ -16,6 +16,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coincenter",
+      "sourceName": "COIN CENTER",
+      "title": "A tax case every self-custody holder should monitor",
+      "link": "https://coincenter.org/a-tax-case-every-self-custody-holder-should-monitor/",
+      "desc": "In a case that has received little attention to-date, the IRS alleges that a bitcoin user who self-custodied his coins owes income taxes on assets created by Bitcoin forks that he never accessed or was even aware of before an IRS audit. The case presents the U.S. Tax Court with a question that matters well […] The post A tax case every self-custody holder should monitor appeared first on Coin Center.",
+      "date": "2026-10-09T19:55:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -35,6 +45,26 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/10/09/",
       "desc": "This week’s newsletter links to a draft BIP for letting peers choose their own one-byte message type IDs over the version 2 P2P transport, summarizes a discussion about whether BIPs should include their number in tagged hash tags, and describes a proposed metaprotocol for private onchain transfers that requires no consensus changes. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-10-09T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Here’s How Not To Screw up Your Bitcoin Privacy",
+      "link": "https://bitcoinmagazine.com/news/seth-for-privacy-bitcoin-tips",
+      "desc": "Bitcoin Magazine Here’s How Not To Screw up Your Bitcoin Privacy Speaking on the Bitcoin Rails podcast, Cake Wallet’s Seth for Privacy said people need to take more precautions to protect their identities when using the biggest cryptocurrency. This post Here’s How Not To Screw up Your Bitcoin Privacy first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-09T20:02:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "CFTC Excludes Casino-Style Wagers From Swap Definition",
+      "link": "https://thedefiant.io/converge/regulation/cftc-excludes-casino-style-wagers-from-swap-definition",
+      "desc": "The agency bypassed a proposal, citing threats to prediction markets, but says the measure changes no existing compliance obligations.",
+      "date": "2026-10-09T19:58:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -783,16 +813,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "SoFi Tech, Orbi and Mastercard team on crypto-linked card programme in Mexico",
-      "link": "https://www.finextra.com/pressarticle/111201/sofi-tech-orbi-and-mastercard-team-on-crypto-linked-card-programme-in-mexico?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "SoFi Tech Solutions, formerly Galileo, today announced a partnership with Mexican fintech Orbi and Mastercard to launch a crypto-linked card program in Mexico.",
-      "date": "2026-10-08T18:11:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
@@ -1041,22 +1061,6 @@
       "link": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
       "desc": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app.",
       "date": "2026-10-08T02:50:01.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Samsung Wallet to Add USDC on Sui in Late October",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/samsung-wallet-to-add-usdc-on-sui-in-late-october",
-      "desc": "Bastion and Coinbase will custody the balances, while transfers to bank accounts in more than 60 countries will carry separate fees.",
-      "date": "2026-10-08T02:30:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
