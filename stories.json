@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:42:50.663Z",
+  "generatedAt": "2026-10-09T15:09:18.317Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 247,
@@ -35,6 +35,42 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/10/09/",
       "desc": "This week’s newsletter links to a draft BIP for letting peers choose their own one-byte message type IDs over the version 2 P2P transport, summarizes a discussion about whether BIPs should include their number in tagged hash tags, and describes a proposed metaprotocol for private onchain transfers that requires no consensus changes. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-10-09T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius’ Alex Mashinsky",
+      "link": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+      "desc": "Alex Mashinsky, already serving 12 years for fraud, settled New York’s civil case over claims he misled Celsius customers about the failed crypto lender’s safety.",
+      "date": "2026-10-09T14:55:23.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
+      "link": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
+      "desc": "Ledger said it is investigating reports of fund losses from users in Southeast Asia who bought its products from reseller CryptoBilis.",
+      "date": "2026-10-09T14:52:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
+      "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+      "desc": "The hardware wallet maker said it is investigating devices sold by a Southeast Asian reseller as social posts swirl about crypto assets drained from Bitcoin, Ethereum and Tron addresses.",
+      "date": "2026-10-09T14:47:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -75,16 +111,6 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-and-animoca-plan-broader-asset-lineup-for-nuva",
       "desc": "NUVA launched on Ethereum in May with vaults tied to YLDS and home-equity credit. The partners also plan to explore tokenized cultural assets.",
       "date": "2026-10-09T14:23:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
-      "link": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
-      "desc": "NY AG Letitia James secured up to $35M from ex-Celsius CEO Alex Mashinsky and a permanent ban from the securities and crypto industries.",
-      "date": "2026-10-09T14:16:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -746,6 +772,16 @@
       "termBoost": 0
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Cardano Foundation Spins Out Veridian With Tokenized Equity",
+      "link": "https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity",
+      "desc": "The digital identity company plans to seek strategic partners and investors in 2027, while Foundation executives retain board roles.",
+      "date": "2026-10-08T15:10:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
@@ -753,22 +789,6 @@
       "desc": "Bitcoin traded near $82,000 on Thursday, with analysts at QCP expecting a fourth-quarter range of $80,000 to $90,000.",
       "date": "2026-10-08T14:52:27.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
-      "link": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
-      "desc": "Veridian became the first company to use Cardano’s new programmable-token standard for its equity, though the tokenized shares are not being offered to the public.",
-      "date": "2026-10-08T14:24:24.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -1011,26 +1031,6 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/zksync-opens-prividium-core-code-under-apache-2-0",
       "desc": "The Sept. 8 release keeps enterprise tools commercial. Matter Labs says the Bundesbank is testing a self-hosted deployment.",
       "date": "2026-10-07T16:56:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Hunter Biden says LAPTOP market maker should ‘buy it all back and burn it’",
-      "link": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
-      "desc": "A commissioned report details thin liquidity and market-maker-linked gains during LAPTOP’s launch.",
-      "date": "2026-10-07T16:40:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "The State of Fintech: The Top Insights into European Payments Evolution",
-      "link": "https://www.finextra.com/videoarticle/3597/the-state-of-fintech-the-top-insights-into-european-payments-evolution?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "In this interview, we break down the results from a recent State of Fintech report, providing a concise overview of the top insights. Recording with FinextraTV from the Visa Direct offices, Olga Ovchinnikova, VP, Head of Visa Direct Europe covers: - How complexity within cross-border is becoming a barrier to growth - What the report teaches about the role of partners and how to avoid overdependence - The rise of Neobanks and how their success is expanding beyond just Europe - How demographic shifts are redefining definitions of 'wealth' and what these means for fintech offerings",
-      "date": "2026-10-07T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
