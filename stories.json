@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-10T16:39:15.107Z",
+  "generatedAt": "2026-10-10T17:07:55.539Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 252,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 222,
+  "errors": [
+    "WALL STREET JOURNAL: fetch failed"
+  ],
   "dupsMerged": 11,
   "items": [
     {
@@ -35,6 +37,26 @@
       "link": "https://coincenter.org/a-tax-case-every-self-custody-holder-should-monitor/",
       "desc": "In a case that has received little attention to-date, the IRS alleges that a bitcoin user who self-custodied his coins owes income taxes on assets created by Bitcoin forks that he never accessed or was even aware of before an IRS audit. The case presents the U.S. Tax Court with a question that matters well […] The post A tax case every self-custody holder should monitor appeared first on Coin Center.",
       "date": "2026-10-09T19:55:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "desc": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the “swap” definition, while an interim rule excludes casino-style gambling—sharpening the agency’s claim to exclusive jurisdiction.",
+      "date": "2026-10-10T17:01:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Papertrade Shows $10.3 Million in Staker Rewards Hours After Launch",
+      "link": "https://thedefiant.io/news/defi/papertrade-shows-10-3-million-in-staker-rewards-hours-after-launch",
+      "desc": "The 1000x-leverage venue’s dashboard showed roughly $5 million in its house pool and no queued payout debt as trading losses funded PAPER rewards.",
+      "date": "2026-10-10T16:43:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -912,16 +934,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Abstract's ETH Withdrawals Depend on Operators Ahead of Dec. 15 Shutdown",
-      "link": "https://thedefiant.io/news/blockchains/abstract-s-eth-withdrawals-depend-on-operators-ahead-of-dec-15-shutdown",
-      "desc": "L2BEAT data showed about $17.1 million in canonically bridged ETH; the wind-down plan sets out no independent exit after Dec. 15.",
-      "date": "2026-10-08T21:02:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
@@ -978,16 +990,6 @@
       "link": "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
       "desc": "Section 1: The Block’s Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side factors rather than the environment in which crypto companies and capital can operate. A country can have large trading volume while having a restrictive domestic […]",
       "date": "2026-10-08T17:16:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
-      "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
-      "desc": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.",
-      "date": "2026-10-08T16:44:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
