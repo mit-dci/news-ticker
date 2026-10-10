@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T04:12:23.634Z",
+  "generatedAt": "2026-10-10T04:42:11.157Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 245,
@@ -37,6 +37,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "desc": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
+      "date": "2026-10-10T04:20:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -941,9 +951,9 @@
       "date": "2026-10-08T16:44:20.000Z",
       "alsoAt": [
         {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated"
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "termBoost": 0
@@ -985,16 +995,6 @@
       "link": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
       "desc": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
       "date": "2026-10-08T15:42:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "US government moves $1B in seized Bitcoin after $770M transfers",
-      "link": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Blockchain analysts identified the US government wallet tied to the recovery of funds from the Bitfinex hack.",
-      "date": "2026-10-08T15:24:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
