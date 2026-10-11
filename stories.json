@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-11T17:36:59.517Z",
+  "generatedAt": "2026-10-11T18:12:02.923Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 302,
+  "filteredOut": 303,
   "errors": [],
   "dupsMerged": 3,
   "items": [
@@ -16,6 +16,32 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+      "desc": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
+      "date": "2026-10-11T18:07:41.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/security/xrp-ledger-discloses-decade-old-bug-that-could-mint-trillions"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Coinbase Completes Deribit Integration for Institutional Traders",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-completes-deribit-integration-for-institutional-traders",
+      "desc": "Former International Exchange clients gain Deribit's options suite and margin system, while US Prime options trading follows a separate rollout.",
+      "date": "2026-10-11T17:48:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -74,16 +100,6 @@
       "link": "https://thedefiant.io/news/hacks/peckshield-traces-3-89-million-in-ledger-theft-funds-to-binance-deposits",
       "desc": "The reported Tron deposits offer investigators an exchange-account lead, but intermediary wallets handling other clients’ money complicate attribution.",
       "date": "2026-10-11T15:04:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "XRP Ledger Discloses Decade-Old Bug That Could Mint Trillions",
-      "link": "https://thedefiant.io/news/security/xrp-ledger-discloses-decade-old-bug-that-could-mint-trillions",
-      "desc": "The flaw was fixed in xrpld 3.4.1 on Sept. 25. Developers found no evidence it was exploited on a public network.",
-      "date": "2026-10-11T14:08:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -496,32 +512,6 @@
       "desc": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal.",
       "date": "2026-10-09T18:46:03.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Robinhood Chain considers technology that gives paying traders priority",
-      "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-      "desc": "Arbitrum recently replaced its Timeboost transaction-ordering system with a new model called Priority Gas Auctions.",
-      "date": "2026-10-09T18:11:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Blockchain.com Seeks US Approval for Event Contracts and Derivatives",
-      "link": "https://www.pymnts.com/legal/2026/blockchain-com-seeks-us-approval-for-event-contracts-and-derivatives/",
-      "desc": "Digital asset platform Blockchain.com applied for licenses to offer event contracts and cryptocurrency derivatives in the United States, CNBC reported Friday (Oct. 9). Blockchain.com told CNBC it filed applications with the Commodity Futures Trading Commission (CFTC) seeking a designated contract market (DCM) license and registration as a futures commission merchant (FCM), according to the report. “Users should be able to […] The post Blockchain.com Seeks US Approval for Event Contracts and Derivatives appeared first on PYMNTS.com.",
-      "date": "2026-10-09T18:07:56.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives"
-        }
-      ],
       "termBoost": 0
     }
   ]
