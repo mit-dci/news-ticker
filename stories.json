@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T17:09:12.505Z",
+  "generatedAt": "2026-10-13T17:39:19.578Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 237,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "defiant",
@@ -16,6 +16,22 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "UK Court Rules Chinese Law Governs Victims’ Claims to 61,000 Bitcoin",
+      "link": "https://thedefiant.io/news/regulation/uk-court-rules-chinese-law-governs-victims-claims-to-61-000-bitcoin",
+      "desc": "The roughly $5.1 billion holding remains contested after victims lost their bid to rely on English law to establish ownership.",
+      "date": "2026-10-13T17:31:48.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -322,16 +338,6 @@
       "link": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
       "desc": "Crypto majors are red, alts are down bad and onchain is facing capitulation. This was not the ‘Uptober’ that was promised…",
       "date": "2026-10-13T11:40:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-      "link": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
-      "desc": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided.",
-      "date": "2026-10-13T11:38:19.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -966,16 +972,6 @@
       "link": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.",
       "date": "2026-10-12T14:07:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "OneKey Cuts Off CryptoBilis, Offers Free Wallet Replacements",
-      "link": "https://thedefiant.io/news/security/onekey-cuts-off-cryptobilis-offers-free-wallet-replacements",
-      "desc": "All OneKey models bought from the reseller between March 1 and Oct. 12 qualify, including used devices. Buyers must apply by Dec. 31.",
-      "date": "2026-10-12T13:45:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
