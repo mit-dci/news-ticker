@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T16:11:31.715Z",
+  "generatedAt": "2026-10-13T16:41:58.293Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 238,
+  "filteredOut": 237,
   "errors": [],
   "dupsMerged": 9,
   "items": [
@@ -16,6 +16,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+      "link": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
+      "desc": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.",
+      "date": "2026-10-13T16:14:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "pymnts",
@@ -436,7 +446,7 @@
       "sourceName": "COINDESK",
       "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
       "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
-      "desc": "Ledger announces MediaMarket Saturn also stopped selling devices after a customer found a corrupted signer in Germany. It also it is investigating who tampered with the devices.",
+      "desc": "Ledger announced MediaMarket Saturn stopped selling devices after a customer found a corrupted signer in Germany.",
       "date": "2026-10-13T09:27:47.000Z",
       "alsoAt": [],
       "termBoost": 0
