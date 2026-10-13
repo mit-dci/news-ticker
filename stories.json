@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T23:07:37.705Z",
+  "generatedAt": "2026-10-13T23:34:06.408Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 239,
+  "filteredOut": 238,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "bitcoinmag",
@@ -35,13 +35,29 @@
       "termBoost": 3
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "desc": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
+      "date": "2026-10-13T23:23:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Ledger Asks Resellers to Halt Sales in Seven Asian Markets",
       "link": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
       "desc": "The hardware-wallet maker says confirmed incidents remain confined to Southeast Asia, with no indication its systems or direct sales channel were compromised.",
       "date": "2026-10-13T22:12:02.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1022,16 +1038,6 @@
       "link": "https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225",
       "desc": "Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies.",
       "date": "2026-10-12T12:01:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Australia proposes leverage caps for crypto-settled derivatives",
-      "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "ASIC’s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets.",
-      "date": "2026-10-12T11:41:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
