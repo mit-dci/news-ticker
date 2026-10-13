@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T19:07:44.681Z",
+  "generatedAt": "2026-10-13T19:36:20.028Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 235,
+  "filteredOut": 237,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "defiant",
@@ -16,6 +16,52 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "DOJ Announces Two Arrests in North Korean ‘Laptop Farm’ Crackdown",
+      "link": "https://thedefiant.io/news/security/doj-announces-two-arrests-in-north-korean-laptop-farm-crackdown",
+      "desc": "Prosecutors allege a scheme affecting more than 70 US employers generated about $3 million. The Ohio indictment describes cryptocurrency transfers.",
+      "date": "2026-10-13T19:31:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Robinhood Opens Social Trading Feed to Eligible US Customers",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-opens-social-trading-feed-to-eligible-us-customers",
+      "desc": "Users can share charts and portfolio allocations, while a rollout on the Legend desktop platform is planned in the coming weeks.",
+      "date": "2026-10-13T19:10:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "MediaMarktSaturn Pulls Ledger Products Amid Tampering Reports",
+      "link": "https://thedefiant.io/news/security/mediamarktsaturn-pulls-ledger-products-amid-tampering-reports",
+      "desc": "The retailer says the withdrawal covers all its countries. Ledger says no fund losses were reported in the German case and directs existing buyers to support.",
+      "date": "2026-10-13T19:09:53.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "link": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor’s list of authorized entities starting Jan. 1.",
+      "date": "2026-10-13T19:07:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -130,16 +176,6 @@
       "link": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
       "desc": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.",
       "date": "2026-10-13T16:14:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Bakkt Picks Thredd to Launch Stablecoin Card Program",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/bakkt-picks-thredd-launch-stablecoin-card-program/",
-      "desc": "FinTech Bakkt turned to Thredd to launch a card-as-a-service program in the United States designed to settle in stablecoins, according to a Tuesday (Oct. 13) press release. The partnership will see Thredd’s card processing and credit infrastructure extend Bakkt’s settlement rails into consumer credit products issued by partner banks through its planned credit card-as-a-service program, […] The post Bakkt Picks Thredd to Launch Stablecoin Card Program appeared first on PYMNTS.com.",
-      "date": "2026-10-13T16:04:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -487,16 +523,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
-      "link": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "European retailer MediaMarkt pulled Ledger products as the wallet maker probes tampering reports beyond CryptoBilis in Southeast Asia.",
-      "date": "2026-10-13T10:09:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Metaplanet Plans ¥52 Billion Bond Sale to Refinance Bitcoin Loans",
@@ -815,16 +841,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Citi Details Stablecoin Checkout With Coinbase and Fiat Payouts",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/citi-details-stablecoin-checkout-with-coinbase-and-fiat-payouts",
-      "desc": "The US-first expansion would let institutional merchants receive fiat without holding digital assets. General availability and supported tokens remain unspecified.",
-      "date": "2026-10-12T20:35:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s?",
@@ -875,16 +891,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ontology Restarts Mainnet After Nearly 43-Hour Security Halt",
-      "link": "https://thedefiant.io/news/blockchains/ontology-restarts-mainnet-after-nearly-43-hour-security-halt",
-      "desc": "Ontology says no funds were lost from the network itself, but its restart statement leaves losses at the unnamed ecosystem project unresolved.",
-      "date": "2026-10-12T16:50:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
@@ -905,16 +911,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Derive Proposes Treasury Funding for US-Regulated Derivatives Push",
-      "link": "https://thedefiant.io/news/defi/derive-proposes-treasury-funding-for-us-regulated-derivatives-push",
-      "desc": "The Foundation would gain authority to pursue approvals and establish or acquire entities, but the proposal sets no spending amount or launch date.",
-      "date": "2026-10-12T16:20:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market",
@@ -931,26 +927,6 @@
       "link": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
       "desc": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token’s total supply.",
       "date": "2026-10-12T15:56:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Sui Backs DATA With $30 Million as Network Plans to Retire Its Chain",
-      "link": "https://thedefiant.io/news/blockchains/sui-backs-data-with-30-million-as-network-plans-to-retire-its-chain",
-      "desc": "DATA balances are slated to carry over one-for-one onto Sui, but support for validator staking and smart contracts on the chain formerly known as Story will wind down.",
-      "date": "2026-10-12T15:48:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "THORChain Fees Rebound but Remain 84% Below September Surge",
-      "link": "https://thedefiant.io/news/defi/thorchain-fees-rebound-but-remain-84-below-september-surge",
-      "desc": "The latest seven-day total is back above the pre-surge week, after fees plunged 91% in Oct. 2–8.",
-      "date": "2026-10-12T15:40:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
