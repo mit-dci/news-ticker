@@ -1,25 +1,21 @@
 {
-  "generatedAt": "2026-10-13T01:34:07.623Z",
+  "generatedAt": "2026-10-13T02:26:17.638Z",
   "sourceCount": 18,
-  "successCount": 5,
-  "filteredOut": 59,
-  "errors": [
-    "COINDESK: fetch failed",
-    "BITCOIN MAGAZINE: fetch failed",
-    "BTC CORE ANN: fetch failed",
-    "BITCOIN CORE: fetch failed",
-    "COIN CENTER: fetch failed",
-    "FEDERAL RESERVE: fetch failed",
-    "TECHCRUNCH: fetch failed",
-    "BIS: fetch failed",
-    "PYMNTS: fetch failed",
-    "FINEXTRA: fetch failed",
-    "FINANCIAL TIMES: fetch failed",
-    "THE ECONOMIST: fetch failed",
-    "WALL STREET JOURNAL: fetch failed"
-  ],
-  "dupsMerged": 3,
+  "successCount": 18,
+  "filteredOut": 263,
+  "errors": [],
+  "dupsMerged": 5,
   "items": [
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
+      "link": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
+      "desc": "Crypto liquidations amounted to $771 million over the past 24 hours, including $685.6 million in long positions.",
+      "date": "2026-10-13T01:57:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
@@ -31,12 +27,53 @@
       "termBoost": 0
     },
     {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
+      "link": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
+      "desc": "Bitcoin Magazine Moscow Exchange to Launch Bitcoin Trading, Testing Underway Russia in recent months has paved the way to allow its citizens to trade bitcoin. This post Moscow Exchange to Launch Bitcoin Trading, Testing Underway first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-12T22:10:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
+      "link": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
+      "desc": "Bitcoin Magazine South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans The South Korean bank has become the first in the country to offer the bitcoin-related service. This post South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-12T22:06:36.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
       "link": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
       "desc": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%.",
       "date": "2026-10-12T21:49:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Stablecoins Have a $10 Million Problem: All That Money Is Going Back to the Bank",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/stablecoins-have-10-million-dollar-problem-going-back-bank/",
+      "desc": "A business receives $10 million in stablecoins on Monday, and by Friday, much of it could be back in a bank account. The payment worked. The problem, however, is what needed to happen next. Stablecoin payments may have eliminated hours of settlement friction, but they haven’t eliminated the financial infrastructure waiting on the other side. […] The post Stablecoins Have a $10 Million Problem: All That Money Is Going Back to the Bank appeared first on PYMNTS.com.",
+      "date": "2026-10-12T21:19:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -91,6 +128,26 @@
       "termBoost": 0
     },
     {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "PayJoy Acquires Mexico’s Finia to Gain Deeper Credit Insights",
+      "link": "https://www.pymnts.com/financial-inclusion-3/2026/payjoy-acquires-mexicos-finia-to-gain-deeper-credit-insights/",
+      "desc": "PayJoy, a financial service provider for underserved consumers in emerging markets, has acquired Mexican FinTech Finia. The deal is designed to let PayJoy apply Finia’s technology and expertise to its platform, enhancing its underwriting capabilities and expanding its services for customers with limited access to formal credit, the company announced in a news release Monday (Oct. 12). “Finia […] The post PayJoy Acquires Mexico’s Finia to Gain Deeper Credit Insights appeared first on PYMNTS.com.",
+      "date": "2026-10-12T19:54:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s?",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-slides-how-will-uptober-2026-fare",
+      "desc": "Bitcoin Magazine Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s? Bitcoin is off to a rough start so far this month. But things could still turn around. This post Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s? first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-12T19:43:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Here’s what happened in crypto today",
@@ -127,6 +184,16 @@
       "link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
       "desc": "Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing.",
       "date": "2026-10-12T18:09:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
+      "link": "https://bitcoinmagazine.com/news/ledger-investigates-fund-losses",
+      "desc": "Bitcoin Magazine Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device Ledger has reassured users after people who bought signing devices from a Malaysia-based reseller reported losing funds. This post Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-12T17:19:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -217,6 +284,26 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+      "desc": "The Bitmine chairman said he expects younger investors to drive demand for digital assets as his ether treasury company inches closer to owning 5% of the total supply.",
+      "date": "2026-10-12T15:27:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Congressman Warren Davidson: The Future of Money Will Decide Western Civilization",
+      "link": "https://bitcoinmagazine.com/videos/congressman-warren-davidson-the-future-of-money-will-decide-western-civilization",
+      "desc": "Bitcoin Magazine Congressman Warren Davidson: The Future of Money Will Decide Western Civilization Rising debt and inflation erode buying power. Rep. Warren Davidson explains why sound money and real assets are vital to securing America's economic future. This post Congressman Warren Davidson: The Future of Money Will Decide Western Civilization first appeared on Bitcoin Magazine and is written by Mark Mason.",
+      "date": "2026-10-12T15:25:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Pando Sets Oct. 13 Hong Kong Listing for Spot Solana ETF",
@@ -233,6 +320,36 @@
       "link": "https://thedefiant.io/news/security/buyer-reports-second-tampered-ledger-from-mediamarkt-calls-for-recall",
       "desc": "Ledger Support still says confirmed cases involve CryptoBilis. The buyer named distributor Aqipa and said the second device is being sent to Ledger for analysis.",
       "date": "2026-10-12T15:21:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts",
+      "link": "https://bitcoinmagazine.com/videos/ark-invests-lorenzo-valente-bitcoins-5-year-forecast-stablecoin-gold-impacts",
+      "desc": "Bitcoin Magazine Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts ARK Invest holds its 5-year Bitcoin thesis despite a flat year. Lorenzo Valente breaks down its Big Ideas report, digital gold, and institutional adoption. This post Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-10-12T15:11:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Willem Middelkoop: Bitcoin is the Fastest Horse – Why the Debasement Trade Takes it to $1M",
+      "link": "https://bitcoinmagazine.com/videos/willem-middelkoop-bitcoin-is-the-fastest-horse-why-the-debasement-trade-takes-it-to-1m",
+      "desc": "Bitcoin Magazine Willem Middelkoop: Bitcoin is the Fastest Horse – Why the Debasement Trade Takes it to $1M Central banks buy record gold, so why not Bitcoin? Willem Middelkoop explains why authority favors controllable assets while institutions turn to ETFs. This post Willem Middelkoop: Bitcoin is the Fastest Horse – Why the Debasement Trade Takes it to $1M first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-10-12T15:00:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+      "desc": "A planned Bermuda issuance would put legal ownership onchain and seek capital for disaster risks that remain costly to insure.",
+      "date": "2026-10-12T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -339,12 +456,32 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
+      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+      "desc": "Ledger said every confirmed case involves devices sold by the Southeast Asian reseller, but critics say the hardware-wallet maker must answer for an authorized sales channel.",
+      "date": "2026-10-12T12:01:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut",
       "link": "https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225",
       "desc": "Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies.",
       "date": "2026-10-12T12:01:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Digital assets firm 3iQ secures in-principal approval in Abu Dhabi",
+      "link": "https://www.finextra.com/pressarticle/111223/digital-assets-firm-3iq-secures-in-principal-approval-in-abu-dhabi?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "3iQ Corp. (“3iQ”), a global pioneer in digital asset investment solutions, is pleased to announce that its United Arab Emirates (UAE) based sister company 3iQ Middle East Ltd has secured In-Principal Approval (IPA) for a Category 4 license from the Financial Services Authority (FSRA) of ADGM, the international financial centre of Abu Dhabi, the capital of UAE.",
+      "date": "2026-10-12T11:46:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -369,6 +506,36 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "NZ fintech Qippay secures NZ$25m funding boost",
+      "link": "https://www.finextra.com/pressarticle/111221/nz-fintech-qippay-secures-nz25m-funding-boost?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Auckland-based fintech Qippay has secured a NZ$5 million investment commitment from Australian-based All Roads Wholesale Fund, which will take a 25% stake in parent company Qippay Group.",
+      "date": "2026-10-12T11:27:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Bank NXT and Network International extend payments partnership",
+      "link": "https://www.finextra.com/pressarticle/111220/bank-nxt-and-network-international-extend-payments-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Bank NXT, a leading provider of integrated retail and corporate banking solutions in Egypt, announced the extension of its collaboration with Network International (Network), a leading fintech company in the Middle East and Africa, to accelerate the digitalization of its payment services and further modernize its payments infrastructure.",
+      "date": "2026-10-12T11:22:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
+      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
+      "desc": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment, while IREN secures a multiyear cloud services deal with Anthropic.",
+      "date": "2026-10-12T11:21:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Papertrade Trader Losses Reach $32.4 Million Two Days After Launch",
@@ -385,6 +552,26 @@
       "link": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin traders braced for inflation-based volatility after BTC price action preserved key weekly support around $82,500.",
       "date": "2026-10-12T11:14:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
+      "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+      "desc": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisis response.",
+      "date": "2026-10-12T11:02:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
+      "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
+      "desc": "The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week.",
+      "date": "2026-10-12T10:20:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -409,6 +596,26 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Pepkor's $1.3bn fintech deal comes under shareholder scrutiny",
+      "link": "https://www.finextra.com/newsarticle/48569/pepkors-13bn-fintech-deal-comes-under-shareholder-scrutiny?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "South African retailer Pepkor is facing complaints from directors and investors over a deal to merge its fintech arm with a rival company.",
+      "date": "2026-10-12T10:09:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Aurionpro Solutions names CEO",
+      "link": "https://www.finextra.com/pressarticle/111216/aurionpro-solutions-names-ceo?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Aurionpro Solutions Limited, a global technology solutions provider across banking, fintech, payments, smart mobility, and data center services, announced the appointment of Krishnaraja Tantri as Chief Executive Officer of Aurionpro Payments Solutions Pvt. Ltd., the Company’s payments business.",
+      "date": "2026-10-12T09:36:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Standard Chartered launches custody for Ripple’s RLUSD on XRP Ledger",
@@ -429,12 +636,32 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-      "link": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.",
-      "date": "2026-10-12T08:45:58.000Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Kudo launches instant crypto withdrawals",
+      "link": "https://www.finextra.com/pressarticle/111214/kudo-launches-instant-crypto-withdrawals?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Kudo.com, the global multi-asset trading broker, announced the launch of instant crypto withdrawals, a significant advancement in its ongoing commitment to enhancing customer experience and platform capabilities.",
+      "date": "2026-10-12T09:27:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+      "desc": "Your look at what's coming in the week starting Oct. 12.",
+      "date": "2026-10-12T08:58:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+      "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+      "desc": "The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for years.",
+      "date": "2026-10-12T08:32:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -445,6 +672,16 @@
       "link": "https://thedefiant.io/converge/regulation/esma-calls-for-noncompliant-stablecoin-wind-down-by-jan-8",
       "desc": "The regulator’s opinion includes custody and transfers, moving beyond earlier guidance that allowed those services to continue.",
       "date": "2026-10-12T08:22:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+      "desc": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says confirmed cases are limited and its internal systems remain unaffected.",
+      "date": "2026-10-12T07:49:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -465,6 +702,16 @@
       "link": "https://thedefiant.io/news/nfts-and-web3/ensv2-activation-proposal-would-halt-new-ensv1-registrations",
       "desc": "Existing .eth holders would have no migration deadline, while ENS Labs would hand its remaining ENSv2 admin roles to the DAO.",
       "date": "2026-10-12T07:14:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million",
+      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+      "desc": "Bitcoin reversed early gains as oil bounced back to over $92. Analysts express concerns over large outflows from spot ETFs last week.",
+      "date": "2026-10-12T04:49:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -499,6 +746,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "SBI Group and Mesh prep digital asset JV",
+      "link": "https://www.finextra.com/newsarticle/48567/sbi-group-and-mesh-prep-digital-asset-jv?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Japan's SBI Group is teaming up with crypto infrastructure provider Mesh Connect and Money Forward on a digital asset joint venture.",
+      "date": "2026-10-12T00:01:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid’s ETH prices",
@@ -509,12 +766,32 @@
       "termBoost": 0
     },
     {
+      "source": "techcrunch",
+      "sourceName": "TECHCRUNCH",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "desc": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "date": "2026-10-11T19:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Ledger User Reports Hardware Implant in Wallet Bought in Europe",
       "link": "https://thedefiant.io/news/security/ledger-user-reports-hardware-implant-in-wallet-bought-in-europe",
       "desc": "Ledger says all confirmed cases tied to its October 9 fund-draining investigation involve Southeast Asian reseller CryptoBilis, which has halted hardware-wallet sales.",
       "date": "2026-10-11T18:38:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "desc": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal.",
+      "date": "2026-10-11T18:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -555,6 +832,16 @@
       "link": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
       "desc": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
       "date": "2026-10-11T16:01:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "desc": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved.",
+      "date": "2026-10-11T16:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
