@@ -1,15 +1,10 @@
 {
-  "generatedAt": "2026-10-13T13:18:18.042Z",
+  "generatedAt": "2026-10-13T13:46:40.689Z",
   "sourceCount": 18,
-  "successCount": 14,
-  "filteredOut": 189,
-  "errors": [
-    "COINDESK: fetch failed",
-    "BITCOIN MAGAZINE: fetch failed",
-    "COIN CENTER: fetch failed",
-    "WALL STREET JOURNAL: fetch failed"
-  ],
-  "dupsMerged": 5,
+  "successCount": 18,
+  "filteredOut": 236,
+  "errors": [],
+  "dupsMerged": 8,
   "items": [
     {
       "source": "defiant",
@@ -23,12 +18,62 @@
       "termBoost": 3
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
+      "link": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
+      "desc": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA.",
+      "date": "2026-10-13T13:42:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "UK fintech Capsafa launches financial life organiser",
       "link": "https://www.finextra.com/pressarticle/111229/uk-fintech-capsafa-launches-financial-life-organiser?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "UK fintech startup Capsafa has launched a free financial life organiser to help households keep track of their accounts, documents and renewal dates.",
       "date": "2026-10-13T13:31:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Is Bitcoin kidding itself about the Lightning Network?",
+      "link": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.",
+      "date": "2026-10-13T13:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-10-13T13:26:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
+      "link": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "BIS said that digital cash can achieve “cash-like privacy,” however, the technology isn’t yet production-ready due to risks such as bank data breaches.",
+      "date": "2026-10-13T13:17:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Matt Dines: Why a Rising Dollar is Bullish for Bitcoin",
+      "link": "https://bitcoinmagazine.com/videos/matt-dines-why-a-rising-dollar-is-bullish-for-bitcoin",
+      "desc": "Bitcoin Magazine Matt Dines: Why a Rising Dollar is Bullish for Bitcoin The dollar and Bitcoin are both rising—a bullish sign, says Build Asset Management's Matt Dines. He breaks down the shift to a new US-led monetary order. This post Matt Dines: Why a Rising Dollar is Bullish for Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-10-13T13:17:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -49,6 +94,32 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/drw-and-marex-execute-bond-index-swap-on-canton",
       "desc": "The Derivnex trade links a shared contract record to licensed S&P benchmark data, with cash and collateral integration planned next.",
       "date": "2026-10-13T12:20:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+      "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+      "desc": "The country’s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses.",
+      "date": "2026-10-13T11:58:04.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+      "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+      "desc": "The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to bring blockchain-based share classes of its funds to traditional brokerage accounts.",
+      "date": "2026-10-13T11:56:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -83,6 +154,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+      "desc": "Your day-ahead look for Oct. 13, 2026",
+      "date": "2026-10-13T11:26:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
@@ -93,19 +174,43 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
+      "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+      "desc": "Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in its app.",
+      "date": "2026-10-13T11:02:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants",
+      "link": "https://bitcoinmagazine.com/culture/moonflower-colorado-bitcoin-merchants",
+      "desc": "Bitcoin Magazine Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants Delicious Bitcoin Latte at Moonflower, Steak and Eggs at Butcher Block Cafe, and Navigating 300+ Colorado Bitcoin Merchants. This post Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants first appeared on Bitcoin Magazine and is written by Vagabond.",
+      "date": "2026-10-13T11:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
       "link": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
       "desc": "A judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants.",
       "date": "2026-10-13T10:51:33.000Z",
-      "alsoAt": [
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1"
-        }
-      ],
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin continues in tight range near $83,000, recovering from overnight slide",
+      "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+      "desc": "The third-quarter U.S. earnings season is kicking off today, with results from Goldman Sachs, JPMorgan, and UnitedHealthcare, among others. The key September CPI report comes tomorrow.",
+      "date": "2026-10-13T10:46:57.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -189,6 +294,32 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+      "desc": "Ledger announces MediaMarket Saturn also stopped selling devices after a customer found a corrupted signer in Germany. It also it is investigating who tampered with the devices.",
+      "date": "2026-10-13T09:27:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
+      "link": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+      "desc": "The decision concerns 61,000 BTC seized by the Metropolitan Police in its investigation into Zhimin Qian, who pleaded guilty to defrauding thousands of people in China.",
+      "date": "2026-10-13T09:25:03.000Z",
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Karpelès Says Airport-Bought Ledger Flex Contained Spy Implant",
@@ -259,12 +390,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-10-13T05:51:31.000Z",
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+      "desc": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.",
+      "date": "2026-10-13T05:45:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -289,6 +420,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+      "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+      "desc": "About $800 million in leveraged positions were wiped out over 24 hours, 86% of them bullish. Chip-stock contracts on crypto exchanges took a chunk of the damage.",
+      "date": "2026-10-13T05:27:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Binance to shut down crypto mining pool services in November",
@@ -302,6 +443,16 @@
           "url": "https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410"
         }
       ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+      "link": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+      "desc": "Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.",
+      "date": "2026-10-13T04:43:18.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -321,16 +472,6 @@
       "link": "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383",
       "desc": "The wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million.",
       "date": "2026-10-13T04:18:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
-      "link": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets.",
-      "date": "2026-10-13T02:41:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -362,6 +503,37 @@
       "desc": "We test whether stablecoins and bank deposits act as substitutes by estimating the semi-elasticity of stablecoin market capitalization with respect to deposit rate changes. Using local projections fit to weekly U.S. data from January 2019 to June 2025, we find that deposit rate increases predict slower stablecoin growth. To address endogeneity, we exploit a nonlinearity in deposit rate pass-through. Whereas other money market rates track the federal funds rate roughly linearly, banksreprice deposits more aggressively once it exceeds approximately 3%.",
       "date": "2026-10-13T00:00:00.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
+      "link": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
+      "desc": "Bitcoin Magazine Moscow Exchange to Launch Bitcoin Trading, Testing Underway Russia in recent months has paved the way to allow its citizens to trade bitcoin. This post Moscow Exchange to Launch Bitcoin Trading, Testing Underway first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-12T22:10:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
+      "link": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
+      "desc": "Bitcoin Magazine South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans The South Korean bank has become the first in the country to offer the bitcoin-related service. This post South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-12T22:06:36.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -425,6 +597,16 @@
       "termBoost": 0
     },
     {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s?",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-slides-how-will-uptober-2026-fare",
+      "desc": "Bitcoin Magazine Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s? Bitcoin is off to a rough start so far this month. But things could still turn around. This post Bitcoin Extends Slide — Can ‘Uptober’ 2026 Beat Last Year’s? first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-12T19:43:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
@@ -451,6 +633,16 @@
       "link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
       "desc": "Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing.",
       "date": "2026-10-12T18:09:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
+      "link": "https://bitcoinmagazine.com/news/ledger-investigates-fund-losses",
+      "desc": "Bitcoin Magazine Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device Ledger has reassured users after people who bought signing devices from a Malaysia-based reseller reported losing funds. This post Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-12T17:19:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -541,6 +733,26 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+      "desc": "The Bitmine chairman said he expects younger investors to drive demand for digital assets as his ether treasury company inches closer to owning 5% of the total supply.",
+      "date": "2026-10-12T15:27:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Congressman Warren Davidson: The Future of Money Will Decide Western Civilization",
+      "link": "https://bitcoinmagazine.com/videos/congressman-warren-davidson-the-future-of-money-will-decide-western-civilization",
+      "desc": "Bitcoin Magazine Congressman Warren Davidson: The Future of Money Will Decide Western Civilization Rising debt and inflation erode buying power. Rep. Warren Davidson explains why sound money and real assets are vital to securing America's economic future. This post Congressman Warren Davidson: The Future of Money Will Decide Western Civilization first appeared on Bitcoin Magazine and is written by Mark Mason.",
+      "date": "2026-10-12T15:25:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Pando Sets Oct. 13 Hong Kong Listing for Spot Solana ETF",
@@ -557,6 +769,26 @@
       "link": "https://thedefiant.io/news/security/buyer-reports-second-tampered-ledger-from-mediamarkt-calls-for-recall",
       "desc": "Ledger Support still says confirmed cases involve CryptoBilis. The buyer named distributor Aqipa and said the second device is being sent to Ledger for analysis.",
       "date": "2026-10-12T15:21:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts",
+      "link": "https://bitcoinmagazine.com/videos/ark-invests-lorenzo-valente-bitcoins-5-year-forecast-stablecoin-gold-impacts",
+      "desc": "Bitcoin Magazine Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts ARK Invest holds its 5-year Bitcoin thesis despite a flat year. Lorenzo Valente breaks down its Big Ideas report, digital gold, and institutional adoption. This post Ark Invest’s Lorenzo Valente: Bitcoin’s 5-Year Forecast – Stablecoin & Gold Impacts first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-10-12T15:11:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+      "desc": "A planned Bermuda issuance would put legal ownership onchain and seek capital for disaster risks that remain costly to insure.",
+      "date": "2026-10-12T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -663,6 +895,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
+      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+      "desc": "Ledger said every confirmed case involves devices sold by the Southeast Asian reseller, but critics say the hardware-wallet maker must answer for an authorized sales channel.",
+      "date": "2026-10-12T12:01:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut",
@@ -723,6 +965,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
+      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
+      "desc": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment, while IREN secures a multiyear cloud services deal with Anthropic.",
+      "date": "2026-10-12T11:21:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Papertrade Trader Losses Reach $32.4 Million Two Days After Launch",
@@ -739,6 +991,26 @@
       "link": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin traders braced for inflation-based volatility after BTC price action preserved key weekly support around $82,500.",
       "date": "2026-10-12T11:14:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
+      "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+      "desc": "Coins jointly issued by multiple companies can trap reserves in one jurisdiction while redemption demands hit another, complicating cross-border crisis response.",
+      "date": "2026-10-12T11:02:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
+      "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
+      "desc": "The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week.",
+      "date": "2026-10-12T10:20:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -793,12 +1065,22 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "South Korean bank launches Bitcoin-backed business loans: Report",
-      "link": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.",
-      "date": "2026-10-12T08:45:58.000Z",
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+      "desc": "Your look at what's coming in the week starting Oct. 12.",
+      "date": "2026-10-12T08:58:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+      "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+      "desc": "The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for years.",
+      "date": "2026-10-12T08:32:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -823,32 +1105,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "French lawmakers back reporting rule for crypto wallets over $112K",
-      "link": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.",
-      "date": "2026-10-12T04:45:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except ‘onions and box office receipts’",
       "link": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
       "desc": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States.",
       "date": "2026-10-12T04:33:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
-      "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
-      "date": "2026-10-12T01:21:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
