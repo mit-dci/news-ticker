@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T20:09:30.532Z",
+  "generatedAt": "2026-10-14T20:37:21.877Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 239,
@@ -55,6 +55,16 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+      "link": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+      "desc": "Leadership at the White House is shifting once again, as Patrick Witt’s tenure as the administration’s top crypto adviser comes to an end.",
+      "date": "2026-10-14T20:30:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -215,7 +225,13 @@
       "link": "https://bitcoinmagazine.com/news/kraken-parent-company-to-buy-saldo-bank",
       "desc": "Bitcoin Magazine Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push Top crypto exchange Kraken is pushing to offer other services other than digital assets. This post Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-10-14T16:30:01.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/kraken-parent-payward-agrees-to-buy-lithuania-s-saldo-bank"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -876,16 +892,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "MediaMarktSaturn Pulls Ledger Products Amid Tampering Reports",
-      "link": "https://thedefiant.io/news/security/mediamarktsaturn-pulls-ledger-products-amid-tampering-reports",
-      "desc": "The retailer says the withdrawal covers all its countries. Ledger says no fund losses were reported in the German case and directs existing buyers to support.",
-      "date": "2026-10-13T19:09:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
@@ -902,13 +908,7 @@
       "link": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
       "desc": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC.",
       "date": "2026-10-13T18:15:05.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
