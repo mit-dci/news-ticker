@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T13:08:31.462Z",
+  "generatedAt": "2026-10-14T13:38:06.404Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 232,
+  "filteredOut": 231,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "coindesk",
@@ -44,6 +44,46 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "FCA grants Pliant EMI authorisation",
+      "link": "https://www.finextra.com/pressarticle/111253/fca-grants-pliant-emi-authorisation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Pliant, a global fintech specialising in modular B2B payment solutions, today announced that its UK subsidiary, Pliant Payments Limited, has received full authorisation from the Financial Conduct Authority (FCA) as an Electronic Money Institution (EMI).",
+      "date": "2026-10-14T13:39:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "OCC Finds Debanking Policies at Nine Major US Banks",
+      "link": "https://thedefiant.io/converge/regulation/occ-finds-debanking-policies-at-nine-major-us-banks",
+      "desc": "Digital-asset issuers and exchanges faced restrictions, while the regulator is considering further rules without announcing bank-specific penalties.",
+      "date": "2026-10-14T13:28:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Strategy’s preferred stock financing may cost it bitcoin, K33 argues",
+      "link": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
+      "desc": "K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares.",
+      "date": "2026-10-14T13:20:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "EQX Plans 11 Tokenized Stock and ETF Markets on Hyperliquid",
+      "link": "https://thedefiant.io/news/defi/eqx-plans-11-tokenized-stock-and-etf-markets-on-hyperliquid",
+      "desc": "The share-backed tokens would trade on HyperCore against USDC, with US persons excluded under EQX’s eligibility rules.",
+      "date": "2026-10-14T13:19:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -294,16 +334,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Sumsub Selects IPinfo to Bring Evidence-Backed IP Intelligence to Fraud Prevention",
-      "link": "https://www.finextra.com/pressarticle/111244/sumsub-selects-ipinfo-to-bring-evidence-backed-ip-intelligence-to-fraud-prevention?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Sumsub, a trust infrastructure platform serving over 4,000 clients across financial services, crypto, trading, and iGaming, has selected IPinfo as its primary source of IP geolocation and VPN detection.",
-      "date": "2026-10-14T09:40:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "ft",
       "sourceName": "FINANCIAL TIMES",
       "title": "Crypto exchange Kraken owner to buy European bank",
@@ -482,7 +512,13 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
       "desc": "A two-year note settled within minutes on BNY’s private digital ledger before Citadel Securities used it to raise cash.",
       "date": "2026-10-13T20:47:14.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -775,16 +811,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Trezor Shrinks Reseller Network After Hardware Wallet Supply-Chain Incidents",
-      "link": "https://thedefiant.io/news/security/trezor-shrinks-reseller-network-after-hardware-wallet-supply-chain-incidents",
-      "desc": "CryptoBilis is already off Trezor’s seller list. The company says the wider reduction is preventive and that it has no evidence its devices were compromised.",
-      "date": "2026-10-13T13:51:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
@@ -811,16 +837,6 @@
       "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Russia’s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.",
       "date": "2026-10-13T12:22:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "DRW and Marex Execute Bond-Index Swap on Canton",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/drw-and-marex-execute-bond-index-swap-on-canton",
-      "desc": "The Derivnex trade links a shared contract record to licensed S&P benchmark data, with cash and collateral integration planned next.",
-      "date": "2026-10-13T12:20:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1157,16 +1173,6 @@
       "link": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
       "desc": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token’s total supply.",
       "date": "2026-10-12T15:56:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
-      "link": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
-      "desc": "The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.",
-      "date": "2026-10-12T13:33:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
