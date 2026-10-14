@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-14T12:14:28.341Z",
+  "generatedAt": "2026-10-14T12:45:38.712Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 233,
+  "filteredOut": 232,
   "errors": [],
   "dupsMerged": 15,
   "items": [
@@ -55,6 +55,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+      "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+      "desc": "The news could put multiple rate hikes by the Federal Reserve back into play.",
+      "date": "2026-10-14T12:33:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
+      "link": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Payward expects to close the acquisition in 2027, enabling it to expand its traditional banking services into four EU operating markets already served by Saldo Bank.",
+      "date": "2026-10-14T12:26:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "finextra",
@@ -847,7 +867,13 @@
       "link": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
       "desc": "A judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants.",
       "date": "2026-10-13T10:51:33.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -918,22 +944,6 @@
       "desc": "Ledger announced MediaMarket Saturn stopped selling devices after a customer found a corrupted signer in Germany.",
       "date": "2026-10-13T09:27:47.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
-      "link": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
-      "desc": "The decision concerns 61,000 BTC seized by the Metropolitan Police in its investigation into Zhimin Qian, who pleaded guilty to defrauding thousands of people in China.",
-      "date": "2026-10-13T09:25:03.000Z",
-      "alsoAt": [
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1"
-        }
-      ],
       "termBoost": 0
     },
     {
