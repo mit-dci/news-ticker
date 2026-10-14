@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T10:09:29.687Z",
+  "generatedAt": "2026-10-14T10:38:06.398Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 237,
+  "filteredOut": 235,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "coindesk",
@@ -57,6 +57,37 @@
       "termBoost": 3
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
+      "link": "https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Saifedean Ammous argues that Bitcoin already functions as money when held as a store of value; expects it will become larger and less volatile than gold as it matures.",
+      "date": "2026-10-14T10:25:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+      "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Standard Chartered expanded its spot crypto trading services to professional investors in the UAE region, with plans to offer access to more market participants.",
+      "date": "2026-10-14T10:07:03.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives",
@@ -77,6 +108,16 @@
       "termBoost": 0
     },
     {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Crypto exchange Kraken owner to buy European bank",
+      "link": "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1",
+      "desc": "Payward is purchasing Lithuania’s Saldo Bank as it seeks to become broader financial services company",
+      "date": "2026-10-14T09:30:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
@@ -84,22 +125,6 @@
       "desc": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
       "date": "2026-10-14T08:48:11.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-      "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-      "desc": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.",
-      "date": "2026-10-14T08:10:07.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -1110,16 +1135,6 @@
       "link": "https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data",
       "desc": "October rate-hike odds have slumped, but analysts say Treasury yields at two-decade highs are still keeping a lid on risk appetite.",
       "date": "2026-10-12T11:41:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
-      "link": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
-      "desc": "Thet Li is accused of running the finances of a scam empire tied to $14 billion in Bitcoin the U.S. has moved to seize.",
-      "date": "2026-10-12T10:12:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
