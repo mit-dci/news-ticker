@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T17:38:18.892Z",
+  "generatedAt": "2026-10-14T18:11:52.510Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 239,
+  "filteredOut": 242,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "decrypt",
@@ -55,6 +55,16 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "US authorities dismantle crypto scam network that stole tens of millions",
+      "link": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites linked to investment scams that targeted Russian-speaking Americans.",
+      "date": "2026-10-14T17:56:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -179,16 +189,6 @@
       "link": "https://thedefiant.io/converge/regulation/eba-names-usdc-the-eu-s-first-significant-e-money-token",
       "desc": "Financial supervision shifts to the EBA on Nov. 12, while France’s ACPR keeps responsibility for governance and other corporate matters.",
       "date": "2026-10-14T15:12:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Ledger Suspends Southeast Asian Resellers During $90 Million Crypto Wallet Hack Investigation",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/ledger-suspends-southeast-asian-resellers-during-90-million-crypto-wallet-hack-investigation/",
-      "desc": "Ledger is asking resellers and distributors in Southeast Asia and Hong Kong to suspend sales of its cryptocurrency hardware wallets while it investigates an incident in which someone in the distribution chain tampered with the devices and later drained crypto from them, the company said in a Tuesday (Oct. 13) post on X. Ledger’s request […] The post Ledger Suspends Southeast Asian Resellers During $90 Million Crypto Wallet Hack Investigation appeared first on PYMNTS.com.",
-      "date": "2026-10-14T15:09:59.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -810,13 +810,7 @@
       "link": "https://thedefiant.io/news/security/mediamarktsaturn-pulls-ledger-products-amid-tampering-reports",
       "desc": "The retailer says the withdrawal covers all its countries. Ledger says no fund losses were reported in the German case and directs existing buyers to support.",
       "date": "2026-10-13T19:09:53.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1006,16 +1000,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
-      "link": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
-      "desc": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided.",
-      "date": "2026-10-13T11:38:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
@@ -1088,16 +1072,6 @@
       "link": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
       "desc": "The Nasdaq-listed company now holds about 2.59 million SOL, but its weekly purchases keep shrinking.",
       "date": "2026-10-12T19:07:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
-      "link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
-      "desc": "Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing.",
-      "date": "2026-10-12T18:09:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
