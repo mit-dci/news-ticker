@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T19:36:30.002Z",
+  "generatedAt": "2026-10-14T20:09:30.532Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 240,
+  "filteredOut": 239,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "decrypt",
@@ -57,6 +57,16 @@
       "termBoost": 3
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+      "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+      "desc": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
+      "date": "2026-10-14T19:46:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "pymnts",
       "sourceName": "PYMNTS",
       "title": "Stablecoin Firm Qivalis Moves Closer to Issuing Electronic Money Tokens",
@@ -103,7 +113,13 @@
       "link": "https://www.pymnts.com/digital-payments/2026/nuvei-secures-south-african-license-to-expand-global-payments-platform/",
       "desc": "Nuvei has secured a license to offer local merchant payments services in South Africa, the global FinTech company said in a Wednesday (Oct. 14) press release. The authorization came from the Payments Association of South Africa, according to the release. With this authorization, Nuvei can extend its local acquiring and payment acceptance infrastructure, transaction data […] The post Nuvei Secures South African License to Expand Global Payments Platform appeared first on PYMNTS.com.",
       "date": "2026-10-14T18:33:08.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/pressarticle/111264/nuvei-receives-south-african-authorisation?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -876,16 +892,6 @@
       "link": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor’s list of authorized entities starting Jan. 1.",
       "date": "2026-10-13T19:07:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Blockchain.com Seeks CFTC Licenses for US Derivatives and Prediction Markets",
-      "link": "https://thedefiant.io/converge/regulation/blockchain-com-seeks-cftc-licenses-for-us-derivatives-and-prediction-markets",
-      "desc": "The company is seeking both exchange and futures-broker registrations to serve retail and institutional customers. The proposed US offering still requires approval.",
-      "date": "2026-10-13T19:03:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
