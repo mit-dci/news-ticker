@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-10-14T16:10:38.829Z",
+  "generatedAt": "2026-10-14T16:39:50.024Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 237,
+  "filteredOut": 238,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 14,
   "items": [
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now",
+      "link": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
+      "desc": "In a detailed technical post, the exchange argued Bitcoin’s multi-year migration to quantum-resistant cryptography must begin before any “Q-Day,” laying out requirements spanning block space, custody and dormant coins.",
+      "date": "2026-10-14T16:15:19.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -44,6 +55,62 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "UNCX Vesting Pool Exploited for About $86,000, Blockaid Says",
+      "link": "https://thedefiant.io/news/hacks/uncx-vesting-pool-exploited-for-about-86-000-blockaid-says",
+      "desc": "The identified transaction took five different tokens, while the affected Ethereum contract still held about $3.25 million in assets.",
+      "date": "2026-10-14T16:34:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Uniswap Launches ETH/USDC Pool With Separate Buy and Sell Fees",
+      "link": "https://thedefiant.io/news/defi/uniswap-launches-eth-usdc-pool-with-separate-buy-and-sell-fees",
+      "desc": "The VolatilePair Hook adds temporary charges on trades reversing large price moves, aiming to retain more arbitrage value for liquidity providers.",
+      "date": "2026-10-14T16:31:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push",
+      "link": "https://bitcoinmagazine.com/news/kraken-parent-company-to-buy-saldo-bank",
+      "desc": "Bitcoin Magazine Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push Top crypto exchange Kraken is pushing to offer other services other than digital assets. This post Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-14T16:30:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients",
+      "link": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2",
+      "desc": "Bitcoin Magazine Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients The service allows affluent clients to buy bitcoin via their bank accounts. This post Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-14T16:22:15.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -129,6 +196,16 @@
           "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending"
         }
       ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
+      "link": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
+      "desc": "Strive acquired 2,822 bitcoin for $235 million following $369.2 million in gross proceeds from traditional warrant exercises.",
+      "date": "2026-10-14T14:32:39.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -455,27 +532,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-      "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Standard Chartered expanded its spot crypto trading services to professional investors in the UAE region, with plans to offer access to more market participants.",
-      "date": "2026-10-14T10:07:03.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives",
@@ -512,16 +568,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
       "desc": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
       "date": "2026-10-14T08:48:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "SoFi Tech Solutions Says FinTech’s Next Edge Is Showing Up at the Right Moment",
-      "link": "https://www.pymnts.com/innovation/2026/sofi-fintech-next-edge-showing-up-at-the-right-moment/",
-      "desc": "Watch more: Need to Know | Sofi Tech Solutions | Prashant Shah Speed and simplicity helped FinTechs establish themselves as alternatives to traditional financial institutions. Those qualities carry less weight as competitive advantages when customers can find fast payments, digital account opening and polished mobile experiences across much of financial services. Prashant Shah, vice president […] The post SoFi Tech Solutions Says FinTech’s Next Edge Is Showing Up at the Right Moment appeared first on PYMNTS.com.",
-      "date": "2026-10-14T08:01:59.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -800,22 +846,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "UK Court Rules Chinese Law Governs Victims’ Claims to 61,000 Bitcoin",
-      "link": "https://thedefiant.io/news/regulation/uk-court-rules-chinese-law-governs-victims-claims-to-61-000-bitcoin",
-      "desc": "The roughly $5.1 billion holding remains contested after victims lost their bid to rely on English law to establish ownership.",
-      "date": "2026-10-13T17:31:48.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
@@ -863,22 +893,6 @@
       "desc": "Bitcoin Magazine Trezor Reduces Number of Resellers Following Ledger Drainage Incident Hardware manufacturer Trezor has said it is checking which vendors it works with following reports of lost funds from Ledger models. This post Trezor Reduces Number of Resellers Following Ledger Drainage Incident first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-10-13T16:01:03.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Strive Buys More Bitcoin, Crosses 30,000 BTC Mark",
-      "link": "https://bitcoinmagazine.com/news/strive-buys-more-bitcoin-to-hit-30000-btc",
-      "desc": "Bitcoin Magazine Strive Buys More Bitcoin, Crosses 30,000 BTC Mark The bitcoin treasury company is still the fifth biggest in the space. This post Strive Buys More Bitcoin, Crosses 30,000 BTC Mark first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-13T15:48:14.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -942,16 +956,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-      "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
-      "desc": "The country’s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses.",
-      "date": "2026-10-13T11:58:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
@@ -978,6 +982,16 @@
       "link": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
       "desc": "Crypto majors are red, alts are down bad and onchain is facing capitulation. This was not the ‘Uptober’ that was promised…",
       "date": "2026-10-13T11:40:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+      "link": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
+      "desc": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided.",
+      "date": "2026-10-13T11:38:19.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1048,16 +1062,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
-      "link": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Chinese fraud victims seeking to recover 61,000 seized Bitcoin face a legal setback after a UK court ruled that Chinese law governs their claims.",
-      "date": "2026-10-13T09:03:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
@@ -1104,16 +1108,6 @@
       "link": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
       "desc": "The Crypto Fear and Greed Index has dropped to 56 from an August peak of 82, as oil, bond yields, and ETF outflows hit Bitcoin in October.",
       "date": "2026-10-12T16:41:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
-      "link": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
-      "desc": "The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets.",
-      "date": "2026-10-12T16:32:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
