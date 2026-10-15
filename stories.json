@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T09:10:39.790Z",
+  "generatedAt": "2026-10-15T09:39:10.574Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 241,
+  "filteredOut": 242,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "decrypt",
@@ -58,6 +58,22 @@
       "desc": "Movantis, the unified financial infrastructure platform leader in cross-border value movement across Latin America, has selected Integral's technology to strengthen its offering through third parties in the liquidity sector for institutional clients, including banks, payment networks, and digital asset operators.",
       "date": "2026-10-15T09:49:00.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
+      "link": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Babylon’s proposal to bring native Bitcoin collateral to Aave V4 has entered a new governance stage, but further votes and security reviews remain before launch.",
+      "date": "2026-10-15T09:14:28.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/defi/babylon-advances-native-bitcoin-collateral-plan-for-aave-v4"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -445,16 +461,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Babylon Advances Native Bitcoin Collateral Plan for Aave V4",
-      "link": "https://thedefiant.io/news/defi/babylon-advances-native-bitcoin-collateral-plan-for-aave-v4",
-      "desc": "The proposal would keep collateral on Bitcoin but use WBTC to settle permissionless liquidations. Risk settings and further governance votes are still pending.",
-      "date": "2026-10-14T14:39:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Kraken parent to buy European bank Saldo",
@@ -527,7 +533,13 @@
       "link": "https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report",
       "desc": "Interpol’s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart’s separate SEC case was dismissed in 2025.",
       "date": "2026-10-14T14:05:53.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -874,16 +886,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
-      "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-      "desc": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
-      "date": "2026-10-14T01:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Ledger Asks Resellers to Halt Sales in Seven Asian Markets",
@@ -986,16 +988,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "How the SEC’s lack of leadership could facilitate crypto rulemaking",
-      "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A recent change in the SEC’s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.",
-      "date": "2026-10-13T16:51:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
@@ -1072,16 +1064,6 @@
       "link": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
       "desc": "The proposal would require crypto owners to report holdings over €100,000, sparking concerns following a wave of \"wrench attacks\" in France.",
       "date": "2026-10-13T10:30:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
-      "link": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
-      "desc": "The shutdown comes as NFT trading volumes have collapsed from their 2021-2022 peak, with market revenue projected at $318 million this year.",
-      "date": "2026-10-13T09:12:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
