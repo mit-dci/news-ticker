@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-10-15T14:10:01.429Z",
+  "generatedAt": "2026-10-15T14:38:46.908Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 242,
+  "filteredOut": 239,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 10,
   "items": [
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Aztec Targets Full Post-Quantum Migration by End of 2030",
+      "link": "https://thedefiant.io/news/blockchains/aztec-targets-full-post-quantum-migration-by-end-of-2030",
+      "desc": "The privacy Layer 2 plans hardened developer libraries in early 2027, while its full migration also depends on changes to Ethereum.",
+      "date": "2026-10-15T14:37:31.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
@@ -24,7 +35,13 @@
       "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.",
       "date": "2026-10-15T10:22:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673"
+        }
+      ],
       "priorityTerm": true,
       "termBoost": 3
     },
@@ -40,23 +57,92 @@
       "termBoost": 3
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Coinbase lays out flexible designs as key priority for Bitcoin’s post-quantum migration",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
-      "desc": "Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration.",
-      "date": "2026-10-14T02:49:34.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Ripple adds support for institutions to access RWA perpetual swaps",
       "link": "https://www.finextra.com/pressarticle/111292/ripple-adds-support-for-institutions-to-access-rwa-perpetual-swaps?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Ripple, a leading provider of blockchain solutions across traditional and digital finance, today announced that Ripple Prime has launched support for real-world asset (RWA) perpetual swaps. Institutional clients including Virtu are now trading RWA swaps with respect to more than 100 reference markets spanning equities, equity indices, ETFs, metals, energy, and FX, all traded and settled 24/7.",
       "date": "2026-10-15T14:36:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "OKX Opens Onchain Spot and Perps Beta With Simulated TradFi Trading",
+      "link": "https://thedefiant.io/converge/cefi/okx-opens-onchain-spot-and-perps-beta-with-simulated-tradfi-trading",
+      "desc": "The points competition shares a 250,000 USDT reward pool with Outcomes. Funded trading is scheduled to follow after the contest ends.",
+      "date": "2026-10-15T14:34:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Tether Routed Payments to Hines's Firm During White House Tenure, WSJ Reports",
+      "link": "https://thedefiant.io/converge/regulation/tether-routed-payments-to-hines-s-firm-during-white-house-tenure-wsj-reports",
+      "desc": "The Journal says Nxum earned $6.3 million from the arrangement; a firm representative said Hines received no Tether-derived funds while in government.",
+      "date": "2026-10-15T14:31:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+      "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+      "desc": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
+      "date": "2026-10-15T14:27:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Tokenization Is About Much More Than Bringing Assets Onchain",
+      "link": "https://thedefiant.io/news/research-and-opinion/tokenization-is-about-much-more-than-bringing-assets-onchain",
+      "desc": "Instant settlement, automated coupon payments and collateral that can be re-pledged in DeFi are what separate a tokenized asset from its offchain version.",
+      "date": "2026-10-15T14:25:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+      "link": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.",
+      "date": "2026-10-15T14:22:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Firelight Adds $30.5 Million of Cover to Kraken USDC Vault",
+      "link": "https://thedefiant.io/news/defi/firelight-adds-30-5-million-of-cover-to-kraken-usdc-vault",
+      "desc": "Depositors face a $100,000 cap per address per coverage period, with payouts handled by Sentora rather than guaranteed by Kraken.",
+      "date": "2026-10-15T14:21:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Anglo American chief says tech giants show ‘deep interest’ in mining stakes",
+      "link": "https://www.ft.com/content/15d18ed4-543d-4004-ae38-f429a118daab?syn-25a6b1a6=1",
+      "desc": "Duncan Wanblad says scarcity concerns are prompting companies to seek ways to secure long-term supplies of metals",
+      "date": "2026-10-15T14:19:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
+      "link": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.",
+      "date": "2026-10-15T14:16:55.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -263,7 +349,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin falls below $80,000 for first time in a month",
+      "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
       "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
       "desc": "Jitters across equity markets are sending money into fixed income, with Western bond markets rallying strongly on Thursday.",
       "date": "2026-10-15T10:16:15.000Z",
@@ -343,6 +429,16 @@
       "link": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Thailand’s new Bitcoin and Ether ETF rules take effect Friday, but CoinShares expects modest initial inflows as existing investment options compete for demand.",
       "date": "2026-10-15T09:36:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+      "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+      "desc": "Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence.",
+      "date": "2026-10-15T09:20:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -773,22 +869,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Richard Heart Detained in Istanbul on Interpol Notice, Turkish Media Report",
-      "link": "https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report",
-      "desc": "Interpol’s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart’s separate SEC case was dismissed in 2025.",
-      "date": "2026-10-14T14:05:53.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
@@ -835,16 +915,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "OCC Finds Debanking Policies at Nine Major US Banks",
-      "link": "https://thedefiant.io/converge/regulation/occ-finds-debanking-policies-at-nine-major-us-banks",
-      "desc": "Digital-asset issuers and exchanges faced restrictions, while the regulator is considering further rules without announcing bank-specific penalties.",
-      "date": "2026-10-14T13:28:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
@@ -862,32 +932,6 @@
       "desc": "K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares.",
       "date": "2026-10-14T13:20:46.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "EQX Plans 11 Tokenized Stock and ETF Markets on Hyperliquid",
-      "link": "https://thedefiant.io/news/defi/eqx-plans-11-tokenized-stock-and-etf-markets-on-hyperliquid",
-      "desc": "The share-backed tokens would trade on HyperCore against USDC, with US persons excluded under EQX’s eligibility rules.",
-      "date": "2026-10-14T13:19:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Evernorth Taps Ripple, Kraken, Coinbase and BitGo for XRP Yield Push",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-taps-ripple-kraken-coinbase-and-bitgo-for-xrp-yield-push",
-      "desc": "The Nasdaq-listed treasury company plans to start institutional strategies in Q4, with direct XRP Ledger credit-market investments to follow as the infrastructure matures.",
-      "date": "2026-10-14T13:07:23.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -943,6 +987,16 @@
       "link": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Payward expects to close the acquisition in 2027, enabling it to expand its traditional banking services into four EU operating markets already served by Saldo Bank.",
       "date": "2026-10-14T12:26:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
+      "link": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
+      "desc": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.",
+      "date": "2026-10-14T12:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1003,26 +1057,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
       "desc": "Hypercall, an exchange built on Hyperliquid, says most of its $640 million in volume since June has come from the index.",
       "date": "2026-10-14T10:38:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid",
-      "link": "https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin onchain analysis eyed a “potential bottom” for BTC price action in early October as demand weathered external headwinds.",
-      "date": "2026-10-14T10:38:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case",
-      "link": "https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Should US high court justices grant review of the case, they could release a decision as early as June 2027.",
-      "date": "2026-10-14T10:29:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
