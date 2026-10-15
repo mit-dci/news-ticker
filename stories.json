@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T11:08:20.696Z",
+  "generatedAt": "2026-10-15T11:37:28.662Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 239,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "cointelegraph",
@@ -38,6 +38,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-69712cda?mod=rss_markets_main",
+      "desc": "Find insight on Antofagasta, Aneka Tambang, Evolution Mining and more in the latest Market Talks covering Basic Materials.",
+      "date": "2026-10-15T11:20:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "finextra",
@@ -517,23 +527,7 @@
       "link": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2",
       "desc": "Bitcoin Magazine Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients The service allows affluent clients to buy bitcoin via their bank accounts. This post Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-10-14T16:22:15.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -563,7 +557,13 @@
       "link": "https://thedefiant.io/converge/regulation/eba-names-usdc-the-eu-s-first-significant-e-money-token",
       "desc": "Financial supervision shifts to the EBA on Nov. 12, while France’s ACPR keeps responsibility for governance and other corporate matters.",
       "date": "2026-10-14T15:12:07.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -922,6 +922,22 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+      "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Standard Chartered expanded its spot crypto trading services to professional investors in the UAE region, with plans to offer access to more market participants.",
+      "date": "2026-10-14T10:07:03.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives",
@@ -1064,16 +1080,6 @@
       "link": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
       "desc": "Interactive Brokers now lets eligible clients stake ETH through its Client Portal, with zerohash providing the service.",
       "date": "2026-10-13T15:24:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index",
-      "link": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
-      "desc": "DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data.",
-      "date": "2026-10-13T15:00:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
