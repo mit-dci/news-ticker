@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T16:10:02.345Z",
+  "generatedAt": "2026-10-15T16:39:51.578Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 235,
+  "filteredOut": 238,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "defiant",
@@ -55,6 +55,37 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Schwab Completes Retail Bitcoin and Ether Rollout, Begins Crypto Transfers",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/schwab-completes-retail-bitcoin-and-ether-rollout-begins-crypto-transfers",
+      "desc": "Solana, Avalanche and Chainlink are planned by year-end as CEO Rick Wurster points to crypto as a source of transaction-based revenue.",
+      "date": "2026-10-15T16:30:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
+      "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
+      "desc": "The first major integration since Mastercard’s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single API, with agentic commerce support planned.",
+      "date": "2026-10-15T16:28:50.000Z",
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48590/mastercard-and-bvnk-bring-fiat-and-stablecoin-payments-together-in-global-money-platform?utm_medium=rssfinextra&utm_source=finextrafeed"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "pymnts",
@@ -173,16 +204,6 @@
       "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
       "desc": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.",
       "date": "2026-10-15T15:20:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Mastercard and BVNK bring fiat and stablecoin payments together in global money platform",
-      "link": "https://www.finextra.com/newsarticle/48590/mastercard-and-bvnk-bring-fiat-and-stablecoin-payments-together-in-global-money-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Mastercard has launched a platform that brings together its global payments capabilities with the stablecoin infrastructure of its recently acquired BVNK unit through a single API.",
-      "date": "2026-10-15T15:17:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -487,16 +508,6 @@
       "termBoost": 0
     },
     {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Basic Materials Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-69712cda?mod=rss_markets_main",
-      "desc": "Find insight on Antofagasta, Aneka Tambang, Evolution Mining and more in the latest Market Talks covering Basic Materials.",
-      "date": "2026-10-15T11:20:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "EBA designates Circle’s USDC as the EU’s first ‘significant’ e-money token",
@@ -554,22 +565,6 @@
       "desc": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.",
       "date": "2026-10-15T10:00:56.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Mastercard and BVNK Unite Fiat and Stablecoins in Global Money Platform",
-      "link": "https://www.pymnts.com/partnerships/2026/mastercard-and-bvnk-unite-fiat-and-stablecoins-in-global-money-platform/",
-      "desc": "Mastercard and stablecoin-powered financial stack BVNK have launched a platform that brings together fiat and stablecoin capabilities to make it easier to move and manage any form of money, Mastercard said in a Thursday (Oct. 15) press release emailed to PYMNTS. The new Mastercard Global Money Platform brings together Mastercard’s global payments capabilities and BVNK’s […] The post Mastercard and BVNK Unite Fiat and Stablecoins in Global Money Platform appeared first on PYMNTS.com.",
-      "date": "2026-10-15T10:00:39.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -879,16 +874,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Uniswap Launches ETH/USDC Pool With Separate Buy and Sell Fees",
-      "link": "https://thedefiant.io/news/defi/uniswap-launches-eth-usdc-pool-with-separate-buy-and-sell-fees",
-      "desc": "The VolatilePair Hook adds temporary charges on trades reversing large price moves, aiming to retain more arbitrage value for liquidity providers.",
-      "date": "2026-10-14T16:31:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push",
@@ -1123,16 +1108,6 @@
       "termBoost": 0
     },
     {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Crypto exchange Kraken owner to buy European bank",
-      "link": "https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1",
-      "desc": "Payward is purchasing Lithuania’s Saldo Bank as it seeks to become broader financial services company",
-      "date": "2026-10-14T09:30:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
@@ -1169,16 +1144,6 @@
       "link": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
       "desc": "Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet.",
       "date": "2026-10-13T16:46:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
-      "link": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
-      "desc": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.",
-      "date": "2026-10-13T16:14:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
