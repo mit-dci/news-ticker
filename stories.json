@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-10-15T10:09:09.388Z",
+  "generatedAt": "2026-10-15T10:39:08.980Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 240,
   "errors": [],
   "dupsMerged": 15,
   "items": [
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
+      "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.",
+      "date": "2026-10-15T10:20:44.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -38,6 +49,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "UK fintech Relace raises $1.6m",
+      "link": "https://www.finextra.com/pressarticle/111271/uk-fintech-relace-raises-16m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Trading has a system. Payments have a system. Onboarding, credit, fraud, reporting: all systems. Regulatory management has a folder. It runs on PDFs, inherited spreadsheets, email threads and advice that is expensive, incomplete, siloed and out of date by the time it arrives.",
+      "date": "2026-10-15T11:08:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -77,7 +98,13 @@
       "link": "https://www.pymnts.com/partnerships/2026/mastercard-and-bvnk-unite-fiat-and-stablecoins-in-global-money-platform/",
       "desc": "Mastercard and stablecoin-powered financial stack BVNK have launched a platform that brings together fiat and stablecoin capabilities to make it easier to move and manage any form of money, Mastercard said in a Thursday (Oct. 15) press release emailed to PYMNTS. The new Mastercard Global Money Platform brings together Mastercard’s global payments capabilities and BVNK’s […] The post Mastercard and BVNK Unite Fiat and Stablecoins in Global Money Platform appeared first on PYMNTS.com.",
       "date": "2026-10-15T10:00:39.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -661,6 +688,16 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
+      "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
+      "link": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
+      "desc": "BNY and Citadel Securities completed the first tokenized U.S. Treasury repo workflow on a major triparty platform.",
+      "date": "2026-10-14T13:21:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
       "title": "Strategy’s preferred stock financing may cost it bitcoin, K33 argues",
       "link": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
       "desc": "K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares.",
@@ -916,16 +953,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
-      "link": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitwise’s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.",
-      "date": "2026-10-14T02:19:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Ledger Asks Resellers to Halt Sales in Seven Asian Markets",
@@ -949,22 +976,6 @@
       "desc": "Solana pack buyers doubled in the third quarter, but 548 wallets accounted for 83% of spending, according to Pine Analytics.",
       "date": "2026-10-13T21:25:41.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "BNY and Citadel Securities Use Tokenized Treasury in Overnight Repo",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
-      "desc": "A two-year note settled within minutes on BNY’s private digital ledger before Citadel Securities used it to raise cash.",
-      "date": "2026-10-13T20:47:14.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -1074,16 +1085,6 @@
       "link": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
       "desc": "A judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants.",
       "date": "2026-10-13T10:51:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "‘Leave’: Crypto Backlash Over French Proposal to Report Wallets Over $112K",
-      "link": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
-      "desc": "The proposal would require crypto owners to report holdings over €100,000, sparking concerns following a wave of \"wrench attacks\" in France.",
-      "date": "2026-10-13T10:30:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
