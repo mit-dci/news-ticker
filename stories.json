@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T09:10:19.428Z",
+  "generatedAt": "2026-10-16T09:38:44.847Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 242,
+  "filteredOut": 241,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "defiant",
@@ -51,6 +51,16 @@
       "termBoost": 3
     },
     {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #427",
+      "link": "https://bitcoinops.org/en/newsletters/2026/10/16/",
+      "desc": "This week’s newsletter summarizes the disclosure of two denial-of-service vulnerabilities in older versions of Eclair and describes a proposed scheme for running complex multi-round contracts inside Lightning channels. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-10-16T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
@@ -80,6 +90,42 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
+      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
+      "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+      "desc": "The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case should have never been presented.",
+      "date": "2026-10-16T09:36:21.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+      "link": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin’s market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new highs.",
+      "date": "2026-10-16T09:22:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
+      "link": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
+      "desc": "Hardware wallets keep your crypto keys offline. Learn how devices from Ledger, Trezor and others protect your Bitcoin and Ethereum.",
+      "date": "2026-10-16T09:10:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
       "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
       "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
       "desc": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
@@ -94,7 +140,13 @@
       "link": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Europe’s second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $75 million Bitcoin impairment loss.",
       "date": "2026-10-16T07:59:46.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -178,16 +230,6 @@
           "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions",
-      "link": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
-      "desc": "Gemini has already paid the $5 million penalty. A permanent injunction and restrictions on publicly denying the case's findings remain in place.",
-      "date": "2026-10-16T00:39:04.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -443,16 +485,6 @@
       "link": "https://www.finextra.com/pressarticle/111299/cross-river-embeds-ripple-stablecoin-into-operating-system?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Cross River Bank (“Cross River”), a leading technology infrastructure platform powering embedded financial solutions serving as the trust anchor for global banking and money movement, today announced it is partnering with Ripple, the leading provider of blockchain solutions across traditional and digital finance, to integrate RLUSD, its U.S. dollar-backed stablecoin, into Cross River’s proprietary Core Operating System (COS), with support for transactions on the XRP Ledger (XRPL), a public blockchain.",
       "date": "2026-10-15T15:57:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Vast Bank forms payment partnership with Cliq",
-      "link": "https://www.finextra.com/pressarticle/111298/vast-bank-forms-payment-partnership-with-cliq?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Cliq, an innovator in financial technologies that provides merchant services, ACH and alternative payment processing, crypto and stablecoin solutions, and debit and prepaid card solutions for businesses, today announced a multi-year agreement to become a third-party payment processor (TPPP) for Vast Bank, a federally regulated nationally chartered bank.",
-      "date": "2026-10-15T15:55:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -977,16 +1009,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Polygon gains US payments licenses after closing Coinme deal",
-      "link": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The deal gives Polygon access to 37 money transmitter licenses and 11 state exemptions.",
-      "date": "2026-10-15T00:55:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Russia’s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
@@ -1047,16 +1069,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "StarkWare launches OffMarket to let Polymarket users trade more privately",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
-      "desc": "StarkWare has opened OffMarket to the public, allowing Polymarket users to trade without publicly linking positions to their accounts.",
-      "date": "2026-10-14T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
@@ -1080,16 +1092,6 @@
           "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-      "link": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
-      "desc": "Congress must decide how the U.S. can build the infrastructure its booming digital economy requires while protecting the communities that host it.",
-      "date": "2026-10-14T13:51:12.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
