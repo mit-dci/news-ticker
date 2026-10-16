@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-16T22:35:46.069Z",
+  "generatedAt": "2026-10-16T23:08:08.967Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 244,
-  "errors": [],
-  "dupsMerged": 9,
+  "successCount": 14,
+  "filteredOut": 192,
+  "errors": [
+    "COINDESK: fetch failed",
+    "BITCOIN MAGAZINE: fetch failed",
+    "COIN CENTER: fetch failed",
+    "WALL STREET JOURNAL: fetch failed"
+  ],
+  "dupsMerged": 8,
   "items": [
     {
       "source": "defiant",
@@ -24,17 +29,6 @@
       "link": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
       "desc": "Plus, crypto majors rebound despite hot PPI and Saylor’s Strategy is at risk of removal from a major index.",
       "date": "2026-10-16T11:46:54.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-      "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-      "desc": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
-      "date": "2026-10-16T10:52:26.000Z",
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
@@ -80,6 +74,22 @@
       "desc": "This week’s newsletter summarizes the disclosure of two denial-of-service vulnerabilities in older versions of Eclair and describes a proposed scheme for running complex multi-round contracts inside Lightning channels. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-10-16T00:00:00.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Marqeta and Coinbase Take Stablecoin Spending Mainstream",
+      "link": "https://www.pymnts.com/blockchain/2026/marqeta-and-coinbase-take-stablecoin-spending-mainstream/",
+      "desc": "Marqeta’s enterprise customers can now offer stablecoin-backed cards powered by Coinbase, the companies said in a Friday (Oct. 16) press release. This offering is enabled by a new collaboration that integrates Marqeta’s card issuing platform with Coinbase’s infrastructure, according to the release. Together, they will provide a payment card solution that enables users to use their stablecoin […] The post Marqeta and Coinbase Take Stablecoin Spending Mainstream appeared first on PYMNTS.com.",
+      "date": "2026-10-16T22:35:50.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -130,32 +140,12 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
-      "link": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
-      "desc": "Bitcoin Magazine BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons CPAs, wealth advisors, and lenders gather in Denver for BFFS26, featuring Patrick Lowry on public-company Bitcoin treasury reserves and Wyoming Deputy Secretary of State Colin Crossman on regulatory outlook. This post BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons first appeared on Bitcoin Magazine and is written by Juan Galt.",
-      "date": "2026-10-16T19:44:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
       "link": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
       "desc": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
       "date": "2026-10-16T19:36:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Sazmining Now Sells Jack Dorsey’s Proto Immersion Hashboards",
-      "link": "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
-      "desc": "Bitcoin Magazine Sazmining Now Sells Jack Dorsey’s Proto Immersion Hashboards Block’s Proto mining hashboards are now available on Sazmining’s mining-as-a-service platform. This post Sazmining Now Sells Jack Dorsey’s Proto Immersion Hashboards first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-16T19:19:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -186,16 +176,6 @@
       "link": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
       "desc": "The dollar-settled contracts have no expiry, a 100-SEI minimum order and funding calculated every eight hours.",
       "date": "2026-10-16T18:32:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but ‘Difficult’ Isn’t ‘Bearish’: CoinShares",
-      "link": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
-      "desc": "Bitcoin Magazine Hot Inflation Data Puts Bitcoin Under Pressure, but ‘Difficult’ Isn’t ‘Bearish’: CoinShares Bitcoin is still reacting to weekly data but long-term investors shouldn’t be worried, according to the European asset manager. This post Hot Inflation Data Puts Bitcoin Under Pressure, but ‘Difficult’ Isn’t ‘Bearish’: CoinShares first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-16T18:30:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -240,26 +220,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
-      "link": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
-      "desc": "The expanded partnership builds on Marqeta’s work powering Coinbase’s U.S. debit card offering in 2020.",
-      "date": "2026-10-16T17:21:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coincenter",
-      "sourceName": "COIN CENTER",
-      "title": "Peter Van Valkenburgh’s speech at the 2026 Coin Center Annual Dinner",
-      "link": "https://coincenter.org/peter-van-valkenburghs-speech-at-the-coin-center-annual-dinner-2026/",
-      "desc": "Last year I stood before you and asked, without a touch of irony, “Are you sick of winning yet?” ARE YOU? Well, GOOD NEWS! I’m happy to report that the winning has slowed dramatically. But I do actually have some good news to share: my wife and I welcomed our third child, Nettie Mae Van […] The post Peter Van Valkenburgh’s speech at the 2026 Coin Center Annual Dinner appeared first on Coin Center.",
-      "date": "2026-10-15T17:14:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
@@ -281,26 +241,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report",
-      "link": "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody",
-      "desc": "Bitcoin Magazine Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report The German lender is moving fast with its crypto custody service. This post Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-16T16:35:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "MSCI To Move Forward With Proposal That Could Exclude Strategy From Index",
-      "link": "https://bitcoinmagazine.com/news/msci-could-exclude-strategy-from-index",
-      "desc": "Bitcoin Magazine MSCI To Move Forward With Proposal That Could Exclude Strategy From Index MSCI has adopted new rules that could push Bitcoin treasury Strategy out of its global equity benchmarks. This post MSCI To Move Forward With Proposal That Could Exclude Strategy From Index first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-16T16:32:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "NEAR Intents Postmortem Links $3.8 Million Exploit to Deposit Bug",
@@ -308,22 +248,6 @@
       "desc": "The protocol removed deposit notifications after another critical bug report and says all affected users were made whole.",
       "date": "2026-10-16T16:28:04.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Circle Targets 40 New Markets to Capture Surging Stablecoin Demand",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/circle-targets-40-new-markets-capture-surging-stablecoin-demand/",
-      "desc": "Stablecoin issuer Circle plans to enter 40 new markets around the world, Circle CEO and Chairman Jeremy Allaire told Reuters in a report posted Friday (Oct. 16). Circle has seen growing demand for stablecoins from individuals and businesses in Southeast Asia, Latin America and the Middle East, Allaire said in the report. “We’re kind of […] The post Circle Targets 40 New Markets to Capture Surging Stablecoin Demand appeared first on PYMNTS.com.",
-      "date": "2026-10-16T16:24:48.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -427,16 +351,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun",
-      "link": "https://bitcoinmagazine.com/videos/crypto-analyst-lark-davis-the-bitcoin-bull-run-has-begun",
-      "desc": "Bitcoin Magazine Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun Bitcoin trades sideways in $80Ks, but Lark Davis sees a major cycle ahead. He explains on-chain signals, whale accumulation, and a $57K market bottom. This post Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun first appeared on Bitcoin Magazine and is written by Patrick Green.",
-      "date": "2026-10-16T13:48:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
@@ -463,16 +377,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Morgan Stanley’s Amy Oldenburg: The Digital Gold Investment Case for Bitcoin",
-      "link": "https://bitcoinmagazine.com/videos/morgan-stanleys-amy-oldenburg-the-digital-gold-investment-case-for-bitcoin",
-      "desc": "Bitcoin Magazine Morgan Stanley’s Amy Oldenburg: The Digital Gold Investment Case for Bitcoin Bitcoin's digital gold case is strong, says Morgan Stanley’s Amy Oldenburg, but she wants less tech risk correlation and more gold-like trade behavior. This post Morgan Stanley’s Amy Oldenburg: The Digital Gold Investment Case for Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green.",
-      "date": "2026-10-16T13:20:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Research reveals gaps in SME's stablecoin adoption",
@@ -489,16 +393,6 @@
       "link": "https://www.finextra.com/pressarticle/111311/japanese-banks-complete-stablecoin-poc?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Sumitomo Mitsui Banking Corporation (SMBC), Mizuho Bank, Ltd., MUFG Bank, Ltd., Mitsubishi UFJ Trust and Banking Corporation, and TISI Inc. announced that they conducted a proof-of-concept from July 17 to July 23, 2026, in regard to joint stablecoin (SC) issuance and advanced cross-border payments (hereinafter, the “PoC”).",
       "date": "2026-10-16T12:51:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Sazmining Brings Proto’s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down",
-      "link": "https://bitcoinmagazine.com/press-releases/sazmining-brings-protos-immersion-hashboards-to-individual-owners-with-0-financing-from-1397-down",
-      "desc": "Bitcoin Magazine Sazmining Brings Proto’s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down Proto immersion hashboards, built for efficiency and long service life, are now available for outright purchase through Sazmining’s mining-as-a-service platform, with mining rewards paid directly to the owner’s wallet. This post Sazmining Brings Proto’s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down first appeared on Bitcoin Magazine and is written by Bitcoin Magazine.",
-      "date": "2026-10-16T12:42:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -523,16 +417,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-      "desc": "Your day-ahead look for Oct. 16, 2026",
-      "date": "2026-10-16T11:15:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Jupiter Says YOLO Hit $1 Billion in Volume in Under 24 Hours",
@@ -550,22 +434,6 @@
       "desc": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
       "date": "2026-10-16T10:27:18.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-      "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-      "desc": "The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case should have never been presented.",
-      "date": "2026-10-16T09:36:21.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -589,16 +457,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
-      "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-      "desc": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
-      "date": "2026-10-16T08:34:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
@@ -612,16 +470,6 @@
           "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
-      "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-      "desc": "XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders.",
-      "date": "2026-10-16T05:53:58.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -658,6 +506,16 @@
           "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729"
         }
       ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions",
+      "link": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
+      "desc": "Gemini has already paid the $5 million penalty. A permanent injunction and restrictions on publicly denying the case's findings remain in place.",
+      "date": "2026-10-16T00:39:04.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -877,16 +735,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
-      "desc": "",
-      "date": "2026-10-15T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
@@ -967,32 +815,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-      "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
-      "desc": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery offers.",
-      "date": "2026-10-15T12:35:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Morning Minute: Solana Is About To Get Faster",
       "link": "https://decrypt.co/381018/morning-minute-solana-is-about-to-get-faster",
       "desc": "Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a target of about 150 milliseconds—some 85 times faster.",
       "date": "2026-10-15T12:07:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
-      "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
-      "desc": "Ledger’s Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital assets.",
-      "date": "2026-10-15T12:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1033,56 +861,6 @@
       "link": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Witt’s departure leaves a leadership gap at the White House Crypto Council and marks the fourth high-profile exit from the advisory group.",
       "date": "2026-10-15T10:41:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
-      "link": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
-      "desc": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.",
-      "date": "2026-10-15T10:00:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-      "link": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
-      "desc": "The country’s regulator, ASIC, has proposed tougher rules to protect users’ digital assets, crypto trading and to safeguard the country’s financial stability.",
-      "date": "2026-10-15T09:53:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
-      "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
-      "desc": "Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence.",
-      "date": "2026-10-15T09:20:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
-      "link": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
-      "desc": "BlackRock's CEO says \"a moratorium of some sort\" on data center buildouts would put the U.S. in a recession.",
-      "date": "2026-10-15T06:17:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-      "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-      "desc": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
-      "date": "2026-10-15T04:25:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
