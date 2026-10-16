@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T11:09:13.980Z",
+  "generatedAt": "2026-10-16T11:37:08.558Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 241,
+  "filteredOut": 240,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "coindesk",
@@ -116,6 +116,16 @@
       "link": "https://www.finextra.com/newsarticle/48595/ebaday-2027-fintech-zone-applications-now-open?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Are you an early-stage fintech ready to put your innovation in front of Europe's leading banking and payments executives?",
       "date": "2026-10-16T12:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
+      "desc": "Your day-ahead look for Oct. 16, 2026",
+      "date": "2026-10-16T11:15:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -597,7 +607,13 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/visa-direct-moves-usdc-prefunding-into-production-with-inyo-global",
       "desc": "Eligible payment providers can fund cross-border payouts around the clock through the same Inyo APIs they already use.",
       "date": "2026-10-15T15:36:52.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -971,16 +987,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
-      "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
-      "desc": "Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence.",
-      "date": "2026-10-15T09:20:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
@@ -1099,9 +1105,9 @@
       "date": "2026-10-14T14:03:20.000Z",
       "alsoAt": [
         {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574"
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report"
         }
       ],
       "termBoost": 0
