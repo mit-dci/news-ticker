@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T07:08:24.444Z",
+  "generatedAt": "2026-10-17T07:36:46.100Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 247,
@@ -97,12 +97,39 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
+      "title": "DTCC Outlines 25-Security Tokenization Rollout on Canton and Besu",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-outlines-25-security-tokenization-rollout-on-canton-and-besu",
+      "desc": "Tokens will be backed 1:1 by securities held at DTC, with Stellar and Circle’s Arc anticipated in 2027.",
+      "date": "2026-10-17T07:32:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
       "title": "Bitget to End Services for Some Users, With Account-Specific Deadlines",
       "link": "https://thedefiant.io/news/cefi/bitget-to-end-services-for-some-users-with-account-specific-deadlines",
       "desc": "The exchange's terms list Russia, Belarus and Kazakhstan as prohibited jurisdictions, while an affected user reports an Oct. 21 deadline.",
       "date": "2026-10-17T05:26:37.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
+      "desc": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
+      "date": "2026-10-15T14:26:53.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
     },
     {
       "source": "bitcoinops",
@@ -129,23 +156,6 @@
         }
       ],
       "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
-      "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.",
-      "date": "2026-10-15T10:22:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673"
-        }
-      ],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "pymnts",
@@ -749,16 +759,6 @@
       "link": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
       "desc": "Balaji Srinivasan's Network School acquired Farcaster from Neynar. Users must sign a \"social smart contract\" or drop to read-only access.",
       "date": "2026-10-15T21:41:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aave V4’s Arc Markets Connect Dollar-Euro Loans to Shared Liquidity",
-      "link": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
-      "desc": "The deployment launched Sept. 16 with four reserve assets. Its Forex market lets borrowers pledge EURC, which is not eligible collateral in Arc’s Main market.",
-      "date": "2026-10-15T21:18:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
