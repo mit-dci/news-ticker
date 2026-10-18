@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T14:34:33.969Z",
+  "generatedAt": "2026-10-18T15:07:43.353Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 295,
+  "filteredOut": 302,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 3,
   "items": [
     {
       "source": "decrypt",
@@ -27,6 +27,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+      "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+      "desc": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
+      "date": "2026-10-18T15:01:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -475,13 +485,7 @@
       "link": "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody",
       "desc": "Bitcoin Magazine Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report The German lender is moving fast with its crypto custody service. This post Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-10-16T16:35:55.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-plans-crypto-custody-launch-within-weeks"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -521,76 +525,6 @@
       "link": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
       "desc": "Police seized guns, silencers and more than 2,000 rounds of ammunition, nearly all of it allegedly stolen from the Canadian military.",
       "date": "2026-10-16T15:43:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Mizuho, MUFG and SMBC Complete Joint Yen Stablecoin Pilot",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/mizuho-mufg-and-smbc-complete-joint-yen-stablecoin-pilot",
-      "desc": "The July trial covered issuance, transfer and redemption for Mitsubishi Corporation, while the banks have targeted commercial transactions in fiscal 2026.",
-      "date": "2026-10-16T15:04:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "AMC CEO Says Company Won’t Consent to Robinhood Stock Tokens in US",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/amc-ceo-says-company-won-t-consent-to-robinhood-stock-tokens-in-us",
-      "desc": "Robinhood’s offshore tokens do not convey shareholder rights, while the SEC’s new US trading framework gives issuers a limited right to object.",
-      "date": "2026-10-16T15:01:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Unagi Puts Persona and Ultimate Champions Up for Sale in Liquidation",
-      "link": "https://thedefiant.io/news/nfts-and-web3/unagi-puts-persona-and-ultimate-champions-up-for-sale-in-liquidation",
-      "desc": "The sale includes Persona’s intellectual property, a treasury of 957 NFTs and the UNA token contracts, with offers due November 2.",
-      "date": "2026-10-16T15:00:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
-      "link": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
-      "desc": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested.",
-      "date": "2026-10-16T14:58:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Coinbase and Marqeta Expand Partnership for Enterprise Stablecoin Cards",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-marqeta-expand-partnership-for-enterprise-stablecoin-cards",
-      "desc": "The planned offering would let businesses fund card programs around the clock, with Coinbase holding balances and Base providing onchain settlement infrastructure.",
-      "date": "2026-10-16T14:57:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Stripe and Plasma team on multi-currency stablecoin cards",
-      "link": "https://www.finextra.com/pressarticle/111319/stripe-and-plasma-team-on-multi-currency-stablecoin-cards?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Stripe and Plasma today announced a collaboration to launch multi-currency stablecoin cards, making it easier for people and businesses to spend across currencies and markets.",
-      "date": "2026-10-16T14:53:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tokenized Equities Reached $3.8 Billion This Year, DWF Labs Says",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-equities-reached-3-8-billion-this-year-dwf-labs-says",
-      "desc": "The report puts weekly spot trading on decentralized exchanges at $2.54 billion, 55 times the January level, with Ondo's issuer share down to 26% from 56%.",
-      "date": "2026-10-16T14:40:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
