@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T00:27:06.812Z",
+  "generatedAt": "2026-10-18T01:10:17.104Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 276,
+  "filteredOut": 277,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "decrypt",
@@ -49,6 +49,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "desc": "Coinbase, Circle’s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
+      "date": "2026-10-18T01:06:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -679,13 +689,7 @@
       "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
       "desc": "The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case should have never been presented.",
       "date": "2026-10-16T09:36:21.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -761,16 +765,6 @@
       "link": "https://www.ft.com/content/4dfcf1ba-0b8e-4198-b0a4-e975ebde9066",
       "desc": "What good is $1tn of investment if financial literacy levels are falling?",
       "date": "2026-10-16T04:00:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "MSCI adopts index exclusion rules that could oust Strategy",
-      "link": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Strategy, Metaplanet and Upexi were previously identified for deletion under the methodology, with MSCI set to announce its final list on Nov. 11.",
-      "date": "2026-10-16T00:48:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
