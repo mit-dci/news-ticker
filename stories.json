@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-10-18T11:06:54.045Z",
+  "generatedAt": "2026-10-18T11:34:05.089Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 289,
-  "errors": [],
-  "dupsMerged": 3,
+  "successCount": 17,
+  "filteredOut": 270,
+  "errors": [
+    "BIS: fetch failed"
+  ],
+  "dupsMerged": 4,
   "items": [
     {
       "source": "decrypt",
@@ -40,13 +42,19 @@
       "termBoost": 3
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-      "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
-      "date": "2026-10-18T10:43:12.000Z",
-      "alsoAt": [],
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Cysic Halts Bridge After Unauthorized Mint of 10 Million CYS",
+      "link": "https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys",
+      "desc": "About 2.8 million CYS remain frozen at the recipient address, while onchain records show some tokens were sold before the blacklist took effect.",
+      "date": "2026-10-18T11:10:38.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -214,7 +222,7 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "title": "Lagarde says euro-area economy is resilient, digital euro under development",
       "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "“The digital euro will further stimulate innovation and competition in retail payments,” according to the ECB president.",
       "date": "2026-10-17T08:45:00.000Z",
@@ -636,26 +644,6 @@
       "link": "https://www.finextra.com/newsarticle/48595/ebaday-2027-fintech-zone-applications-now-open?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Are you an early-stage fintech ready to put your innovation in front of Europe's leading banking and payments executives?",
       "date": "2026-10-16T12:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
-      "link": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
-      "desc": "Visa Direct has brought USDC prefunding into commercial production with Inyo Global as its first commercial enabler.",
-      "date": "2026-10-16T11:25:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-      "desc": "Your day-ahead look for Oct. 16, 2026",
-      "date": "2026-10-16T11:15:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
