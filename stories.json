@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T07:36:51.128Z",
+  "generatedAt": "2026-10-18T08:10:58.907Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 279,
+  "filteredOut": 281,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "decrypt",
@@ -427,11 +427,6 @@
           "source": "COINDESK",
           "sourceId": "coindesk",
           "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing"
-        },
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "termBoost": 0
@@ -703,6 +698,16 @@
       "termBoost": 0
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
+      "link": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
+      "desc": "The company attributed roughly €67.5 million ($75.9 million) of the loss to an additional bitcoin impairment charge.",
+      "date": "2026-10-16T09:30:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
@@ -730,22 +735,6 @@
       "desc": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
       "date": "2026-10-16T08:34:48.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
-      "link": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Europe’s second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $75 million Bitcoin impairment loss.",
-      "date": "2026-10-16T07:59:46.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781"
-        }
-      ],
       "termBoost": 0
     }
   ]
