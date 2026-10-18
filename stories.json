@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T09:08:55.994Z",
+  "generatedAt": "2026-10-18T09:36:33.032Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 282,
+  "filteredOut": 285,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 3,
   "items": [
     {
       "source": "decrypt",
@@ -38,6 +38,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
+      "date": "2026-10-18T09:14:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -189,7 +199,7 @@
       "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
       "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.",
-      "date": "2026-10-17T12:58:03.000Z",
+      "date": "2026-10-17T13:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -422,13 +432,7 @@
       "link": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
       "desc": "The judge ruled that a shift in the CFTC’s enforcement priorities and misconduct allegations against its enforcement division weren’t enough to reopen a deal Gemini signed weeks before trial.",
       "date": "2026-10-16T16:36:04.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -694,36 +698,6 @@
       "link": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
       "date": "2026-10-16T10:27:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
-      "link": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
-      "desc": "The company attributed roughly €67.5 million ($75.9 million) of the loss to an additional bitcoin impairment charge.",
-      "date": "2026-10-16T09:30:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
-      "link": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin’s market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new highs.",
-      "date": "2026-10-16T09:22:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
-      "link": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
-      "desc": "Hardware wallets keep your crypto keys offline. Learn how devices from Ledger, Trezor and others protect your Bitcoin and Ethereum.",
-      "date": "2026-10-16T09:10:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
