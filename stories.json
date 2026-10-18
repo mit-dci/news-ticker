@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T05:36:37.029Z",
+  "generatedAt": "2026-10-18T06:14:19.094Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 279,
+  "filteredOut": 281,
   "errors": [],
   "dupsMerged": 6,
   "items": [
@@ -404,14 +404,14 @@
       "date": "2026-10-16T16:36:04.000Z",
       "alsoAt": [
         {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing"
+        },
+        {
           "source": "COINTELEGRAPH",
           "sourceId": "cointelegraph",
           "url": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775"
         }
       ],
       "termBoost": 0
@@ -683,16 +683,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-      "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-      "desc": "The crypto exchange already paid up, but a court order and restrictions from its 2025 settlement will not be lifted even though the CFTC said the case should have never been presented.",
-      "date": "2026-10-16T09:36:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
@@ -736,16 +726,6 @@
           "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
-      "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-      "desc": "XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders.",
-      "date": "2026-10-16T05:53:58.000Z",
-      "alsoAt": [],
       "termBoost": 0
     }
   ]
