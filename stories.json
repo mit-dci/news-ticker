@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T23:08:11.317Z",
+  "generatedAt": "2026-10-19T23:36:18.810Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 253,
+  "filteredOut": 251,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "decrypt",
@@ -27,6 +27,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Stifel invests in Meow; preps white label treasury platform",
+      "link": "https://www.finextra.com/newsarticle/48609/stifel-invests-in-meow-preps-white-label-treasury-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Stifel Financial has led a $31.6 million Series B finding round for business banking fintech Meow Technologies. The investment is part of a wider deal that will also see Stifel Bank offer a white-label version of Meow’s treasury management platform to its commercial banking clients.",
+      "date": "2026-10-20T00:01:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "pymnts",
@@ -187,7 +197,13 @@
       "link": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
       "desc": "Bitcoin Magazine Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’ Japanese bitcoin giant Metaplanet is acquiring around 96% of Nasdaq-listed Super League. This post Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’ first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-10-19T19:32:17.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment"
+        }
+      ],
       "termBoost": 0
     },
     {
