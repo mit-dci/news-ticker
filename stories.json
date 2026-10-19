@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T17:07:43.692Z",
+  "generatedAt": "2026-10-19T17:36:55.646Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 270,
+  "filteredOut": 268,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "decrypt",
@@ -27,6 +27,42 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+      "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
+      "desc": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.",
+      "date": "2026-10-19T17:31:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Revolut secures Gibraltar crypto license to support global expansion",
+      "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
+      "date": "2026-10-19T17:24:49.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Lighter Launches BTC and ETH Binary Options on Core",
+      "link": "https://thedefiant.io/news/defi/lighter-launches-btc-and-eth-binary-options-on-core",
+      "desc": "The Up/Down contracts pay winning shares 1 USDC and require full funding, with no leverage or liquidations.",
+      "date": "2026-10-19T17:23:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "finextra",
@@ -459,16 +495,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
-      "link": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889",
-      "desc": "Revolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy.",
-      "date": "2026-10-19T10:42:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
@@ -828,16 +854,6 @@
       "link": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
       "desc": "Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses.",
       "date": "2026-10-17T18:14:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Injective Activates Fixed Gas Costs for Exchange Transactions",
-      "link": "https://thedefiant.io/news/blockchains/injective-activates-fixed-gas-costs-for-exchange-transactions",
-      "desc": "Traders and app developers can use published gas budgets for orders, cancellations, deposits and withdrawals instead of simulating each transaction.",
-      "date": "2026-10-17T17:12:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
