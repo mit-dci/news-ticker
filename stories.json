@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T15:37:24.537Z",
+  "generatedAt": "2026-10-19T16:10:47.585Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 287,
+  "filteredOut": 284,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "decrypt",
@@ -27,6 +27,56 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Mesh taps Visa to let users spend crypto without a separate card",
+      "link": "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
+      "desc": "Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first.",
+      "date": "2026-10-19T16:10:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Mastercard Extends Risk Capabilities to Stablecoin Payments",
+      "link": "https://www.pymnts.com/blockchain/2026/mastercard-extends-risk-capabilities-stablecoin-payments/",
+      "desc": "Mastercard introduced a risk intelligence solution designed to enable more secure stablecoin payments, the company said in a Monday (Oct. 19) press release emailed to PYMNTS. The new Stablecoin Security solution combines payment and blockchain intelligence to help financial institutions assess risk from payment initiation through on-chain movement. It helps these institutions identify fraud, scams, […] The post Mastercard Extends Risk Capabilities to Stablecoin Payments appeared first on PYMNTS.com.",
+      "date": "2026-10-19T16:00:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
+      "link": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
+      "desc": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
+      "date": "2026-10-19T16:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Stablecoins Move From Making Payments to Making Loans",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/stablecoins-move-from-making-payments-loans/",
+      "desc": "More digital assets are moving into lending strategies, turning stablecoin and cryptocurrency holdings into credit exposure for investors seeking yield. The growth shows how the uses for digital assets are expanding. Stablecoins and other tokens sit in wallets, move through payments or are deployed as capital. Vaults are drawing more of that capital into lending […] The post Stablecoins Move From Making Payments to Making Loans appeared first on PYMNTS.com.",
+      "date": "2026-10-19T15:49:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Visa and Mesh Plan Crypto Spending From Wallet Balances",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/visa-and-mesh-plan-crypto-spending-from-wallet-balances",
+      "desc": "Merchants would receive fiat through Visa payments, while Mesh handles conversion. Initial availability and participating platforms have yet to be announced.",
+      "date": "2026-10-19T15:40:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "finextra",
@@ -156,32 +206,6 @@
       "desc": "The upgrade targets block 28,366,100 around Oct. 23, while Rujira plans to request a conditional 24-hour liquidation grace period for borrowers.",
       "date": "2026-10-19T13:10:58.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "JPMorgan Brings Its Deposit Token to the Ethereum Blockchain",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/jpmorgan-brings-its-deposit-token-to-the-ethereum-blockchain/",
-      "desc": "JPMorganChase is reportedly expanding its blockchain payments footprint by bringing its deposit token to Ethereum. JPM Coin will now be available to the bank’s institutional clients on the Ethereum network, JPMorgan representatives told Bloomberg News Monday (Oct. 19). Emma Landriault, global head of Kinexys Labs at JPMorgan’s blockchain unit Kinexys, said in an interview with Bloomberg that the bank […] The post JPMorgan Brings Its Deposit Token to the Ethereum Blockchain appeared first on PYMNTS.com.",
-      "date": "2026-10-19T12:46:57.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -363,6 +387,27 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
+      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+      "link": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.",
+      "date": "2026-10-19T08:58:45.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
       "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.",
@@ -399,17 +444,6 @@
       "date": "2026-10-19T04:54:31.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-      "link": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
-      "desc": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
-      "date": "2026-10-17T16:01:03.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "ft",
