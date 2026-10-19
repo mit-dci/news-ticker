@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T12:15:18.439Z",
+  "generatedAt": "2026-10-19T12:49:01.941Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 302,
+  "filteredOut": 298,
   "errors": [],
-  "dupsMerged": 3,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "decrypt",
@@ -27,6 +27,72 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "JPMorgan Brings Its Deposit Token to the Ethereum Blockchain",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/jpmorgan-brings-its-deposit-token-to-the-ethereum-blockchain/",
+      "desc": "JPMorganChase is reportedly expanding its blockchain payments footprint by bringing its deposit token to Ethereum. JPM Coin will now be available to the bank’s institutional clients on the Ethereum network, JPMorgan representatives told Bloomberg News Monday (Oct. 19). Emma Landriault, global head of Kinexys Labs at JPMorgan’s blockchain unit Kinexys, said in an interview with Bloomberg that the bank […] The post JPMorgan Brings Its Deposit Token to the Ethereum Blockchain appeared first on PYMNTS.com.",
+      "date": "2026-10-19T12:46:57.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Richard Byworth: Bitcoin’s Next Run “Just a Mater of Time” thanks to Seller Exhaustion",
+      "link": "https://bitcoinmagazine.com/videos/richard-byworth-bitcoins-next-run-just-a-mater-of-time-thanks-to-seller-exhaustion",
+      "desc": "Bitcoin Magazine Richard Byworth: Bitcoin’s Next Run “Just a Mater of Time” thanks to Seller Exhaustion Can you earn yield on Bitcoin safely? Richard Byworth warns against covered calls in rallies, making the case for basis trades for market-neutral yield. This post Richard Byworth: Bitcoin’s Next Run “Just a Mater of Time” thanks to Seller Exhaustion first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-10-19T12:41:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "$20B AUM Siebert Analyst: Bitcoin to $175K in 2027",
+      "link": "https://bitcoinmagazine.com/videos/20b-aum-siebert-analyst-bitcoin-to-175k-in-2027",
+      "desc": "Bitcoin Magazine $20B AUM Siebert Analyst: Bitcoin to $175K in 2027 Siebert Financial targets $175K Bitcoin and $350 Strategy. Brian Vieten details the path from the $58K low, ETF demand, and Strategy's digital credit engine. This post $20B AUM Siebert Analyst: Bitcoin to $175K in 2027 first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-10-19T12:35:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
+      "link": "https://decrypt.co/381297/morning-minute-crypto-rebounds-as-black-monday-looms",
+      "desc": "The original “Black Monday” occurred 39 years ago today. Is history about to repeat itself?",
+      "date": "2026-10-19T12:19:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+      "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
+      "desc": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn’t shared a name, specs or a release date.",
+      "date": "2026-10-19T12:16:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -146,27 +212,6 @@
       "desc": "Your look at what's coming in the week starting Oct. 19.",
       "date": "2026-10-19T09:12:39.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
-      "link": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.",
-      "date": "2026-10-19T08:58:45.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -503,16 +548,6 @@
       "link": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
       "desc": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue.",
       "date": "2026-10-17T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-      "link": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-      "desc": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries.",
-      "date": "2026-10-17T14:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
