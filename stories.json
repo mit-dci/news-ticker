@@ -1,11 +1,32 @@
 {
-  "generatedAt": "2026-10-19T05:09:48.015Z",
+  "generatedAt": "2026-10-19T05:39:44.917Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 314,
+  "filteredOut": 312,
   "errors": [],
-  "dupsMerged": 2,
+  "dupsMerged": 1,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+      "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+      "desc": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history.",
+      "date": "2026-10-19T05:23:02.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+      "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s start date back two years.",
+      "date": "2026-10-19T05:14:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -26,6 +47,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Rise of crypto vaults channels billions of dollars into risky lending",
+      "link": "https://www.ft.com/content/997a975e-dd70-4935-b2b8-2ba5bafa62d5?syn-25a6b1a6=1",
+      "desc": "New vehicle in which ‘curators’ act like fund managers has attracted the attention of regulators",
+      "date": "2026-10-19T04:00:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -395,19 +426,13 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitget to End Services for Some Users, With Account-Specific Deadlines",
-      "link": "https://thedefiant.io/news/cefi/bitget-to-end-services-for-some-users-with-account-specific-deadlines",
-      "desc": "The exchange's terms list Russia, Belarus and Kazakhstan as prohibited jurisdictions, while an affected user reports an Oct. 21 deadline.",
-      "date": "2026-10-17T05:26:37.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitget to discontinue services for some users in one-off exercise",
+      "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitget says user funds are safe and exchange will continue to operate during the change.",
+      "date": "2026-10-17T07:28:00.000Z",
+      "alsoAt": [],
       "termBoost": 0
     }
   ]
