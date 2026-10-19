@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T20:39:01.872Z",
+  "generatedAt": "2026-10-19T21:08:32.462Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 260,
+  "filteredOut": 259,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 7,
   "items": [
     {
       "source": "decrypt",
@@ -27,6 +27,22 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+      "link": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
+      "desc": "XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval.",
+      "date": "2026-10-19T20:46:05.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -714,16 +730,6 @@
       "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s start date back two years.",
       "date": "2026-10-19T05:14:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP Ledger is set to fix its lending code before anyone can use it",
-      "link": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
-      "desc": "Validators have a bug-fix patch on course to go live Friday. The lending system it partly repairs is still 10 votes short of approval.",
-      "date": "2026-10-19T04:54:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
