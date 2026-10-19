@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T08:48:43.461Z",
+  "generatedAt": "2026-10-19T09:15:41.791Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 314,
+  "filteredOut": 312,
   "errors": [],
-  "dupsMerged": 2,
+  "dupsMerged": 3,
   "items": [
     {
       "source": "coindesk",
@@ -16,6 +16,37 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
+      "desc": "Your look at what's coming in the week starting Oct. 19.",
+      "date": "2026-10-19T09:12:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+      "link": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.",
+      "date": "2026-10-19T08:58:45.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "pymnts",
@@ -35,22 +66,6 @@
       "desc": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.",
       "date": "2026-10-19T07:54:13.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "JPMorgan Extends JPM Coin to Ethereum for Institutional Clients",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients",
-      "desc": "The bank-issued dollar token remains restricted to approved counterparties, bringing permissioned bank money onto another public blockchain.",
-      "date": "2026-10-19T07:53:33.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874"
-        }
-      ],
       "termBoost": 0
     },
     {
