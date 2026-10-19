@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T14:39:00.527Z",
+  "generatedAt": "2026-10-19T15:09:31.164Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 291,
+  "filteredOut": 287,
   "errors": [],
-  "dupsMerged": 4,
+  "dupsMerged": 5,
   "items": [
     {
       "source": "decrypt",
@@ -27,6 +27,36 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Archax adopts Chainlink",
+      "link": "https://www.finextra.com/pressarticle/111339/archax-adopts-chainlink?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Archax, the UK/EU/US regulated digital asset platform, has adopted Chainlink, the industry-standard oracle platform, to unlock further utility for $GOVY, its 24/7, auto-rolling U.S. tokenised Treasury product designed to align with high-quality liquid assets (HQLA L1) principles.",
+      "date": "2026-10-19T15:20:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "AnchorWatch Trust Company launches bitcoin custody service with up to $370 million in insurance per client",
+      "link": "https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-421011",
+      "desc": "AnchorWatch launched Nevada-chartered bitcoin custody with a $10,000 monthly fee cap and optional insurance of up to $370 million per client.",
+      "date": "2026-10-19T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+      "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
+      "desc": "The launch comes as Zerohash bids for a federal trust charter.",
+      "date": "2026-10-19T14:58:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -235,6 +265,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
+      "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
+      "desc": "Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount.",
+      "date": "2026-10-19T11:05:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
@@ -281,7 +321,13 @@
       "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
       "desc": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
       "date": "2026-10-19T10:03:47.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48607/jp-morgan-brings-jpm-coin-to-ethereum?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -618,16 +664,6 @@
       "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
       "desc": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street.",
       "date": "2026-10-17T17:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Citrini sees a tokenization boom. The harder question is who profits",
-      "link": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
-      "desc": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue.",
-      "date": "2026-10-17T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
