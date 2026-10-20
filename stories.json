@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T14:09:22.613Z",
+  "generatedAt": "2026-10-20T14:39:02.703Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 240,
+  "filteredOut": 239,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "coincenter",
@@ -37,6 +37,42 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Ramp applies for national bank trust charter",
+      "link": "https://www.finextra.com/newsarticle/48619/ramp-applies-for-national-bank-trust-charter?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Ramp has become the latest fintech to apply for a US national bank charter, enabling the expense management platform to offer fiduciary investment management and custody of digital assets.",
+      "date": "2026-10-20T15:20:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
+      "link": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
+      "desc": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
+      "date": "2026-10-20T14:31:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Sberbank Gains Russian Crypto Exchange Authorization Ahead of Planned December Launch",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
+      "desc": "The bank plans to offer Bitcoin, Ether and USDT through its existing apps, while Russian rules impose testing and purchase limits on non-qualified investors.",
+      "date": "2026-10-20T14:19:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -422,16 +458,6 @@
       "link": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
       "desc": "Bitcoin Magazine Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants Setting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see how Arizona Bitcoin spending really works. This post Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants first appeared on Bitcoin Magazine and is written by Vagabond.",
       "date": "2026-10-20T03:54:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
-      "desc": "The proposed bank would not take deposits or make commercial loans; Ramp says it would build products alongside its banking partners.",
-      "date": "2026-10-20T02:39:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -876,16 +902,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Echo Protocol Winds Down, Halting New Deposits and Borrowing",
-      "link": "https://thedefiant.io/news/defi/echo-protocol-winds-down-halting-new-deposits-and-borrowing",
-      "desc": "Withdrawals and repayments remain open, but the shutdown notice gives conflicting November deadlines before collateral liquidation.",
-      "date": "2026-10-19T14:13:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC",
@@ -1088,16 +1104,6 @@
       "link": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
       "desc": "MapQuest’s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.",
       "date": "2026-10-18T16:31:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
-      "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
-      "desc": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers.",
-      "date": "2026-10-18T16:07:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
