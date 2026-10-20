@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-20T04:10:25.856Z",
+  "generatedAt": "2026-10-20T04:40:06.554Z",
   "sourceCount": 18,
-  "successCount": 9,
-  "filteredOut": 94,
-  "errors": [
-    "COINDESK: fetch failed",
-    "BITCOIN MAGAZINE: fetch failed",
-    "COIN CENTER: fetch failed",
-    "BIS: fetch failed",
-    "PYMNTS: fetch failed",
-    "FINEXTRA: fetch failed",
-    "FINANCIAL TIMES: fetch failed",
-    "THE ECONOMIST: fetch failed",
-    "WALL STREET JOURNAL: fetch failed"
-  ],
-  "dupsMerged": 4,
+  "successCount": 18,
+  "filteredOut": 244,
+  "errors": [],
+  "dupsMerged": 11,
   "items": [
+    {
+      "source": "coincenter",
+      "sourceName": "COIN CENTER",
+      "title": "Comment of Coin Center to the Department of the Treasury on GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
+      "link": "https://coincenter.org/comment-of-coin-center-to-the-department-of-the-treasury-on-genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale/",
+      "desc": "A PDF version of this filing is available here. TREAS-DO-2026-0496 To whom it may concern: Coin Center is an independent nonprofit research and advocacy center focused on the public policy issues facing cryptocurrency technologies such as Bitcoin and Ethereum. Our mission is to build a better understanding of these technologies and to promote a regulatory […] The post Comment of Coin Center to the Department of the Treasury on GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale appeared first on Coin Center.",
+      "date": "2026-10-20T00:36:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -23,6 +23,17 @@
       "link": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
       "desc": "Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received.",
       "date": "2026-10-19T10:11:21.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+      "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+      "desc": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history.",
+      "date": "2026-10-19T05:23:02.000Z",
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
@@ -38,12 +49,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
-      "desc": "The proposed bank would not take deposits or make commercial loans; Ramp says it would build products alongside its banking partners.",
-      "date": "2026-10-20T02:39:23.000Z",
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
+      "link": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
+      "desc": "Bitcoin Magazine Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants Setting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see how Arizona Bitcoin spending really works. This post Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants first appeared on Bitcoin Magazine and is written by Vagabond.",
+      "date": "2026-10-20T03:54:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -68,13 +79,29 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Super League Shareholders Back Metaplanet’s 2,100 BTC Investment",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment",
-      "desc": "The gaming-media company plans to become Superplanet, a Nasdaq-listed US Bitcoin treasury platform, with closing expected in Q4 2026.",
-      "date": "2026-10-19T23:18:24.000Z",
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Stifel invests in Meow; preps white label treasury platform",
+      "link": "https://www.finextra.com/newsarticle/48609/stifel-invests-in-meow-preps-white-label-treasury-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Stifel Financial has led a $31.6 million Series B finding round for business banking fintech Meow Technologies. The investment is part of a wider deal that will also see Stifel Bank offer a white-label version of Meow’s treasury management platform to its commercial banking clients.",
+      "date": "2026-10-20T00:01:00.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Ramp Seeks National Trust Bank Charter for Digital Asset Custody",
+      "link": "https://www.pymnts.com/legal/bank-regulation/2026/ramp-seeks-national-trust-bank-charter-for-digital-asset-custody/",
+      "desc": "Finance platform Ramp aims to form a national trust bank that would offer fiduciary investment management and custody of digital assets, the company said in a Monday (Oct. 19) post on X. Ramp submitted an application to establish the proposed Ramp National Trust Bank to the Office of the Comptroller of the Currency (OCC) on Friday (Oct. 16), according to the post. “The […] The post Ramp Seeks National Trust Bank Charter for Digital Asset Custody appeared first on PYMNTS.com.",
+      "date": "2026-10-19T23:07:25.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -85,6 +112,22 @@
       "desc": "Holders who earned PAPER through trading losses can stake it for USDC distributions, but still have no date when they can transfer or sell their tokens.",
       "date": "2026-10-19T22:43:41.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
+      "link": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
+      "desc": "Bitcoin Magazine AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month AnchorWatch’s AnchorWatch Trust Company has now opened its custody service. This post AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-19T22:28:17.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-421011"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -134,6 +177,22 @@
       "link": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
       "desc": "XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval.",
       "date": "2026-10-19T20:46:05.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+      "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+      "desc": "The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran.",
+      "date": "2026-10-19T20:21:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -178,6 +237,32 @@
       "termBoost": 0
     },
     {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "The Architecture of Money: Mapping Financial Power in the Age of Bitcoin",
+      "link": "https://bitcoinmagazine.com/culture/the-architecture-of-money-mapping-financial-power-in-the-age-of-bitcoin",
+      "desc": "Bitcoin Magazine The Architecture of Money: Mapping Financial Power in the Age of Bitcoin Carlijn Kingma, Thomas Bollen, and Martijn Jeroen van der Linden on The Waterworks of Money, the hidden structures of finance, and bitcoin's place in Europe's monetary future. This post The Architecture of Money: Mapping Financial Power in the Age of Bitcoin first appeared on Bitcoin Magazine and is written by Dennis Koch.",
+      "date": "2026-10-19T19:44:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’",
+      "link": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
+      "desc": "Bitcoin Magazine Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’ Japanese bitcoin giant Metaplanet is acquiring around 96% of Nasdaq-listed Super League. This post Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’ first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-19T19:32:17.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
@@ -218,6 +303,22 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Mastercard launches Stablecoin Security",
+      "link": "https://www.finextra.com/pressarticle/111350/mastercard-launches-stablecoin-security?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Today at Money20/20 USA, Mastercard announced Stablecoin Security, a new risk intelligence solution, with Borderless.xyz and Keyrails as initial partners.",
+      "date": "2026-10-19T18:47:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
@@ -234,7 +335,13 @@
       "link": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
       "desc": "The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing.",
       "date": "2026-10-19T18:16:04.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -280,6 +387,26 @@
       "link": "https://thedefiant.io/news/defi/lighter-launches-btc-and-eth-binary-options-on-core",
       "desc": "The Up/Down contracts pay winning shares 1 USDC and require full funding, with no leverage or liquidations.",
       "date": "2026-10-19T17:23:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Mesh makes stablecoin and crypto balances spendable across Visa network",
+      "link": "https://www.finextra.com/pressarticle/111346/mesh-makes-stablecoin-and-crypto-balances-spendable-across-visa-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Mesh, the leading crypto payments network, today announced a strategic partnership with Visa to make crypto and stablecoin balances spendable across Visa's global acceptance network.",
+      "date": "2026-10-19T16:52:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+      "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+      "desc": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp.",
+      "date": "2026-10-19T16:47:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -334,12 +461,42 @@
       "termBoost": 0
     },
     {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Strategy Keeps Buying: Third Purchase This Month Brings October Spending to $73 Million",
+      "link": "https://bitcoinmagazine.com/news/strategy-third-october-bitcoin-buy",
+      "desc": "Bitcoin Magazine Strategy Keeps Buying: Third Purchase This Month Brings October Spending to $73 Million The bitcoin treasury company notched its third buy of October last week. This post Strategy Keeps Buying: Third Purchase This Month Brings October Spending to $73 Million first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-19T16:14:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "El Salvador’s National Bitcoin Office Hosts Five November Events Led by Herbert and Keiser",
+      "link": "https://bitcoinmagazine.com/news/el-salvadors-national-bitcoin-office-hosts-five-november-events-led-by-herbert-and-keiser",
+      "desc": "Bitcoin Magazine El Salvador’s National Bitcoin Office Hosts Five November Events Led by Herbert and Keiser El Salvador’s National Bitcoin Office, led by Stacey Herbert and Max Keiser, has scheduled five Bitcoin-focused events from November 10–20, including Bitcoin Histórico at the National Palace and a new Renaissance Rodeo. This post El Salvador’s National Bitcoin Office Hosts Five November Events Led by Herbert and Keiser first appeared on Bitcoin Magazine and is written by Juan Galt.",
+      "date": "2026-10-19T16:12:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "SharpLink Says It Deployed $400 Million Across Ether.fi and Lido",
       "link": "https://thedefiant.io/news/defi/sharplink-says-it-deployed-400-million-across-ether-fi-and-lido",
       "desc": "The company describes both allocations as deployed, following its August plan to stake $200 million through Lido and hold wstETH with Anchorage.",
       "date": "2026-10-19T16:12:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Euronet and Fireblocks team on stablecoin-funded card issuing",
+      "link": "https://www.finextra.com/pressarticle/111344/euronet-and-fireblocks-team-on-stablecoin-funded-card-issuing?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Euronet (NASDAQ: EEFT), a global payments infrastructure company and leader in payments processing and cross-border transactions, and Fireblocks, the digital asset infrastructure company, today announced an extension of their partnership to bring stablecoins into card issuing.",
+      "date": "2026-10-19T16:12:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -354,22 +511,22 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "MoneyGram revamps app",
+      "link": "https://www.finextra.com/pressarticle/111342/moneygram-revamps-app?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "MoneyGram today launched a new global consumer experience that brings together digital money movement, cash access and stablecoin-powered capabilities in one connected experience.",
+      "date": "2026-10-19T16:08:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
       "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
       "date": "2026-10-19T16:05:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
-      "link": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
-      "desc": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
-      "date": "2026-10-19T16:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -384,6 +541,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Archax adopts Chainlink",
+      "link": "https://www.finextra.com/pressarticle/111339/archax-adopts-chainlink?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Archax, the UK/EU/US regulated digital asset platform, has adopted Chainlink, the industry-standard oracle platform, to unlock further utility for $GOVY, its 24/7, auto-rolling U.S. tokenised Treasury product designed to align with high-quality liquid assets (HQLA L1) principles.",
+      "date": "2026-10-19T15:20:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
@@ -394,12 +561,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "AnchorWatch Trust Company launches bitcoin custody service with up to $370 million in insurance per client",
-      "link": "https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-421011",
-      "desc": "AnchorWatch launched Nevada-chartered bitcoin custody with a $10,000 monthly fee cap and optional insurance of up to $370 million per client.",
-      "date": "2026-10-19T15:00:00.000Z",
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+      "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
+      "desc": "The launch comes as Zerohash bids for a federal trust charter.",
+      "date": "2026-10-19T14:58:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -484,12 +651,42 @@
       "termBoost": 0
     },
     {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Richard Byworth: Bitcoin’s Next Run “Just a Mater of Time” thanks to Seller Exhaustion",
+      "link": "https://bitcoinmagazine.com/videos/richard-byworth-bitcoins-next-run-just-a-mater-of-time-thanks-to-seller-exhaustion",
+      "desc": "Bitcoin Magazine Richard Byworth: Bitcoin’s Next Run “Just a Mater of Time” thanks to Seller Exhaustion Can you earn yield on Bitcoin safely? Richard Byworth warns against covered calls in rallies, making the case for basis trades for market-neutral yield. This post Richard Byworth: Bitcoin’s Next Run “Just a Mater of Time” thanks to Seller Exhaustion first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-10-19T12:41:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "$20B AUM Siebert Analyst: Bitcoin to $175K in 2027",
+      "link": "https://bitcoinmagazine.com/videos/20b-aum-siebert-analyst-bitcoin-to-175k-in-2027",
+      "desc": "Bitcoin Magazine $20B AUM Siebert Analyst: Bitcoin to $175K in 2027 Siebert Financial targets $175K Bitcoin and $350 Strategy. Brian Vieten details the path from the $58K low, ETF demand, and Strategy's digital credit engine. This post $20B AUM Siebert Analyst: Bitcoin to $175K in 2027 first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-10-19T12:35:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
       "link": "https://decrypt.co/381297/morning-minute-crypto-rebounds-as-black-monday-looms",
       "desc": "The original “Black Monday” occurred 39 years ago today. Is history about to repeat itself?",
       "date": "2026-10-19T12:19:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+      "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
+      "desc": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn’t shared a name, specs or a release date.",
+      "date": "2026-10-19T12:16:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -534,6 +731,26 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
+      "desc": "Your day-ahead look for Oct. 19, 2026",
+      "date": "2026-10-19T11:15:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
+      "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
+      "desc": "Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount.",
+      "date": "2026-10-19T11:05:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
@@ -550,6 +767,52 @@
       "link": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "France’s National Assembly adopted a crypto tax amendment targeting certain stablecoin swaps, while separate proposals on exit taxes and self-custodial wallet reporting remain under consideration.",
       "date": "2026-10-19T10:22:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Zilch to move to new London HQ",
+      "link": "https://www.finextra.com/newsarticle/48603/zilch-to-move-to-new-london-hq?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "UK payments fintech unicorn Zilch has announced details of its new base in London which will more than double the capacity of current HQ as the company looks to expand in Europe.",
+      "date": "2026-10-19T10:04:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
+      "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+      "desc": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
+      "date": "2026-10-19T10:03:47.000Z",
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48607/jp-morgan-brings-jpm-coin-to-ethereum?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+      "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
+      "desc": "Curator-managed lending strategies are attracting institutional capital, while exposing depositors to collateral, liquidity and smart-contract risks.",
+      "date": "2026-10-19T09:32:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
+      "desc": "Your look at what's coming in the week starting Oct. 19.",
+      "date": "2026-10-19T09:12:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -585,12 +848,42 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+      "desc": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently.",
+      "date": "2026-10-19T06:23:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "South Korea to meet crypto exchanges amid calls for tax delay",
       "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax’s start date back two years.",
       "date": "2026-10-19T05:14:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Rise of crypto vaults channels billions of dollars into risky lending",
+      "link": "https://www.ft.com/content/997a975e-dd70-4935-b2b8-2ba5bafa62d5?syn-25a6b1a6=1",
+      "desc": "New vehicle in which ‘curators’ act like fund managers has attracted the attention of regulators",
+      "date": "2026-10-19T04:00:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+      "desc": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys.",
+      "date": "2026-10-19T02:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -615,6 +908,26 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+      "desc": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
+      "date": "2026-10-18T23:28:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "desc": "Patrick Witt announced his departure from the White House last week.",
+      "date": "2026-10-18T18:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
@@ -631,6 +944,16 @@
       "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
       "desc": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers.",
       "date": "2026-10-18T16:07:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+      "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+      "desc": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism.",
+      "date": "2026-10-18T16:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -675,6 +998,36 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "desc": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
+      "date": "2026-10-18T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "desc": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
+      "date": "2026-10-18T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+      "desc": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
+      "date": "2026-10-18T12:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Cysic Halts Bridge After Unauthorized Mint of 10 Million CYS",
@@ -697,6 +1050,16 @@
       "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
       "date": "2026-10-18T09:14:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+      "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+      "desc": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
+      "date": "2026-10-18T07:13:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
