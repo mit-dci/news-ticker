@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T21:08:45.919Z",
+  "generatedAt": "2026-10-20T21:36:40.744Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 236,
+  "filteredOut": 238,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "coincenter",
@@ -29,13 +29,22 @@
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
-      "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
-      "link": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
-      "desc": "Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received.",
-      "date": "2026-10-19T10:11:21.000Z",
+      "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+      "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+      "desc": "J.P. Morgan Asset Management’s 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn’t adding it to its main portfolio models.",
+      "date": "2026-10-20T21:16:04.000Z",
       "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Liquid Network Announces Final Stages of Recovery Following Massive Hack",
+      "link": "https://bitcoinmagazine.com/news/liquid-network-announces-recovery",
+      "desc": "Bitcoin Magazine Liquid Network Announces Final Stages of Recovery Following Massive Hack One month after hackers pinched 4,000 bitcoins, the Liquid Network is up and running again. This post Liquid Network Announces Final Stages of Recovery Following Massive Hack first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-20T21:10:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -168,17 +177,6 @@
       "date": "2026-10-20T17:45:04.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-      "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
-      "desc": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR’s public chain can’t expose a user’s wider payment history.",
-      "date": "2026-10-19T05:23:02.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "block",
@@ -759,6 +757,16 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
+      "title": "Super League Shareholders Back Metaplanet’s 2,100 BTC Investment",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment",
+      "desc": "The gaming-media company plans to become Superplanet, a Nasdaq-listed US Bitcoin treasury platform, with closing expected in Q4 2026.",
+      "date": "2026-10-19T23:18:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
       "title": "Papertrade Keeps PAPER Non-Transferable, Citing Perp Attack Risks",
       "link": "https://thedefiant.io/news/tokens/papertrade-keeps-paper-non-transferable-citing-perp-attack-risks",
       "desc": "Holders who earned PAPER through trading losses can stake it for USDC distributions, but still have no date when they can transfer or sell their tokens.",
@@ -867,22 +875,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’",
-      "link": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
-      "desc": "Bitcoin Magazine Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’ Japanese bitcoin giant Metaplanet is acquiring around 96% of Nasdaq-listed Super League. This post Super League Stockholders Approve Metaplanet’s 2,100 BTC Investment, Paving Way for ‘Superplanet’ first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-19T19:32:17.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
@@ -955,16 +947,6 @@
       "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
       "desc": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.",
       "date": "2026-10-19T17:31:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Revolut secures Gibraltar crypto license to support global expansion",
-      "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
-      "date": "2026-10-19T17:24:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
