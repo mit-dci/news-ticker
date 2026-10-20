@@ -1,21 +1,13 @@
 {
-  "generatedAt": "2026-10-20T18:12:03.790Z",
+  "generatedAt": "2026-10-20T18:41:12.105Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 240,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 230,
+  "errors": [
+    "COIN CENTER: fetch failed"
+  ],
   "dupsMerged": 11,
   "items": [
-    {
-      "source": "coincenter",
-      "sourceName": "COIN CENTER",
-      "title": "Comment of Coin Center to the Department of the Treasury on GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
-      "link": "https://coincenter.org/comment-of-coin-center-to-the-department-of-the-treasury-on-genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale/",
-      "desc": "A PDF version of this filing is available here. TREAS-DO-2026-0496 To whom it may concern: Coin Center is an independent nonprofit research and advocacy center focused on the public policy issues facing cryptocurrency technologies such as Bitcoin and Ethereum. Our mission is to build a better understanding of these technologies and to promote a regulatory […] The post Comment of Coin Center to the Department of the Treasury on GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale appeared first on Coin Center.",
-      "date": "2026-10-20T00:36:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -26,6 +18,42 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+      "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
+      "desc": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled.",
+      "date": "2026-10-20T18:31:04.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "OKX-ICE’s Andrew Cuomo calls issuer objections a ‘natural response’ to tokenized stock plans",
+      "link": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+      "desc": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.",
+      "date": "2026-10-20T18:26:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+      "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+      "desc": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption.",
+      "date": "2026-10-20T18:14:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -560,16 +588,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
-      "link": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
-      "desc": "Fidelity's FBTC and Grayscale's GBTC saw outflows of $83.6 million and $54.9 million, respectively.",
-      "date": "2026-10-20T08:24:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
@@ -722,13 +740,7 @@
       "link": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
       "desc": "XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval.",
       "date": "2026-10-19T20:46:05.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -980,16 +992,6 @@
       "link": "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020",
       "desc": "Strive paid approximately $81,734 on average per bitcoin, adding to the 2,822 BTC it had acquired earlier last week.",
       "date": "2026-10-19T13:45:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
-      "link": "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018",
-      "desc": "Bitmine bought 12,535 ETH last week, lifting its treasury to 6.04 million tokens and total investment holdings to $15.1 billion.",
-      "date": "2026-10-19T13:36:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
