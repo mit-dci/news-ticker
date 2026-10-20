@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T14:39:02.703Z",
+  "generatedAt": "2026-10-20T15:09:12.970Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 239,
+  "filteredOut": 240,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "coincenter",
@@ -55,12 +55,32 @@
       "termBoost": 0
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "1inch Winds Down Card, Urges Balance Withdrawals by Dec. 18",
+      "link": "https://thedefiant.io/converge/cefi/1inch-winds-down-card-urges-balance-withdrawals-by-dec-18",
+      "desc": "Existing cards and accounts remain accessible for now, but the issuer and provider—not 1inch—control when card functionality ends.",
+      "date": "2026-10-20T14:47:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
       "link": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
       "desc": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
       "date": "2026-10-20T14:31:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+      "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
+      "desc": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
+      "date": "2026-10-20T14:28:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -342,23 +362,19 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "XS.com appoints director for LatAm marketing",
-      "link": "https://www.finextra.com/pressarticle/111357/xscom-appoints-director-for-latam-marketing?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "XS.com, the award-winning global FinTech and financial services provider, appoints Mariana Higa as LATAM Regional Marketing Director.",
-      "date": "2026-10-20T10:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "pymnts",
       "sourceName": "PYMNTS",
       "title": "Cross River Plans to Buy Accrue to Merge Payments With Loyalty",
       "link": "https://www.pymnts.com/news/acquiring/2026/cross-river-plans-to-buy-accrue-to-merge-payments-with-loyalty/",
       "desc": "Cross River Bank plans to add branded wallet, stored value and loyalty rewards technology to its regulated financial infrastructure by acquiring FinTech company Accrue, Cross River said in a Tuesday (Oct. 20) press release emailed to PYMNTS. Cross River’s parent company, CRB Group, has entered into an agreement to acquire Accrue. The transaction is subject to customary […] The post Cross River Plans to Buy Accrue to Merge Payments With Loyalty appeared first on PYMNTS.com.",
       "date": "2026-10-20T10:00:41.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/pressarticle/111370/cross-river-to-buy-loyalty-platform-accrue?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -892,16 +908,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Sparkassen Begin Bitcoin Trading Through DekaBank in Banking App",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/sparkassen-begin-bitcoin-trading-through-dekabank-in-banking-app",
-      "desc": "Deka lists five participating savings banks, with more than 230 expressing interest. Trades cost €0.99 plus a spread, and withdrawals are limited to approved custodians.",
-      "date": "2026-10-19T14:21:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC",
@@ -1078,16 +1084,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-      "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
-      "desc": "The service will initially support bitcoin, ether and the stablecoins USDC, EURC and EURAU, with the bank managing clients’ wallets and private keys.",
-      "date": "2026-10-19T02:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
@@ -1104,16 +1100,6 @@
       "link": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
       "desc": "MapQuest’s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.",
       "date": "2026-10-18T16:31:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
-      "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
-      "desc": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
-      "date": "2026-10-18T15:01:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
