@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T13:10:20.487Z",
+  "generatedAt": "2026-10-20T13:39:08.751Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 239,
+  "filteredOut": 242,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "coincenter",
@@ -39,12 +39,42 @@
       "termBoost": 3
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+      "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
+      "desc": "The court injunctions apply strictly to users within the AIFC and do not extend across the rest of Kazakhstan.",
+      "date": "2026-10-20T13:35:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "MEXC to End Services for Users in Russia and Belarus",
+      "link": "https://thedefiant.io/news/cefi/mexc-to-end-services-for-users-in-russia-and-belarus",
+      "desc": "Affected customers will receive individual deadlines for closing positions and withdrawing assets. Users without a notice can continue subject to the exchange’s terms.",
+      "date": "2026-10-20T13:32:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Bitget to buy licensed exchange to expand in Thailand",
       "link": "https://www.finextra.com/pressarticle/111365/bitget-to-buy-licensed-exchange-to-expand-in-thailand?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Bitget, the world's largest Universal Exchange (UEX), has announced the planned acquisition of GMO-Z.com Cryptonomics (Thailand) Co., Ltd., a Bangkok-based digital asset exchange and brokerage, through its interest in BTGT Management (Thailand) Ltd.",
       "date": "2026-10-20T13:31:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Issuer Blacklists Recovered Nothing in 60 Crypto Exploits, Blockaid Finds",
+      "link": "https://thedefiant.io/news/security/issuer-blacklists-recovered-nothing-in-60-crypto-exploits-blockaid-finds",
+      "desc": "Victims got back $9.8 million of the $1.18 billion traced between January and August, and every dollar frozen or returned came through governance or validator action",
+      "date": "2026-10-20T13:22:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -872,26 +902,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "THORChain Keeps ZEC Swaps Halted After Bug Triggers Vault Slash",
-      "link": "https://thedefiant.io/news/security/thorchain-keeps-zec-swaps-halted-after-bug-triggers-vault-slash",
-      "desc": "Onchain records show about 140 RUNE deducted from 18 node accounts. The fix is scheduled for the v3.21 upgrade around Oct. 23.",
-      "date": "2026-10-19T13:11:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "THORChain Targets Rujira Restart With v3.21 Exploit Fix",
-      "link": "https://thedefiant.io/news/security/thorchain-targets-rujira-restart-with-v3-21-exploit-fix",
-      "desc": "The upgrade targets block 28,366,100 around Oct. 23, while Rujira plans to request a conditional 24-hour liquidation grace period for borrowers.",
-      "date": "2026-10-19T13:10:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
@@ -938,16 +948,6 @@
       "link": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.",
       "date": "2026-10-19T11:57:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
-      "link": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "ESMA’s latest MiCA register update includes BingX, YouHodler and Banco Santander’s Openbank, bringing the total to 375 unique CASPs.",
-      "date": "2026-10-19T11:32:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1018,19 +1018,13 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "JPMorgan Extends JPM Coin to Ethereum for Institutional Clients",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients",
-      "desc": "The bank-issued dollar token remains restricted to approved counterparties, bringing permissioned bank money onto another public blockchain.",
-      "date": "2026-10-19T07:53:33.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874"
-        }
-      ],
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "JPMorgan expands ‘JPM Coin’ deposit token to Ethereum for institutional clients",
+      "link": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
+      "desc": "The USD-denominated deposit token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base.",
+      "date": "2026-10-19T08:31:31.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1064,16 +1058,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-      "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-      "desc": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC’s framework.",
-      "date": "2026-10-18T23:28:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
@@ -1090,16 +1074,6 @@
       "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
       "desc": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers.",
       "date": "2026-10-18T16:07:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Qubic Halts Network After $1.3 Million Wallet Drain",
-      "link": "https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain",
-      "desc": "Qubic says 87.1% of the drained QU remains immobilized on its network, while MEXC froze the account receiving the rest.",
-      "date": "2026-10-18T15:09:55.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
