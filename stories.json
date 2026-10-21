@@ -1,38 +1,32 @@
 {
-  "generatedAt": "2026-10-21T05:09:14.405Z",
+  "generatedAt": "2026-10-21T05:39:25.192Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 236,
-  "errors": [],
-  "dupsMerged": 10,
+  "successCount": 5,
+  "filteredOut": 34,
+  "errors": [
+    "COINDESK: fetch failed",
+    "BITCOIN MAGAZINE: fetch failed",
+    "BTC CORE ANN: fetch failed",
+    "BITCOIN CORE: fetch failed",
+    "COIN CENTER: fetch failed",
+    "FEDERAL RESERVE: fetch failed",
+    "TECHCRUNCH: fetch failed",
+    "BIS: fetch failed",
+    "PYMNTS: fetch failed",
+    "FINEXTRA: fetch failed",
+    "FINANCIAL TIMES: fetch failed",
+    "THE ECONOMIST: fetch failed",
+    "WALL STREET JOURNAL: fetch failed"
+  ],
+  "dupsMerged": 6,
   "items": [
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-      "desc": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.",
-      "date": "2026-10-21T04:35:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-      "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
-      "desc": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. Browsers and software makers are rushing out fixes.",
-      "date": "2026-10-21T04:11:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Crypto exchanges race to offer prediction markets to US customers",
-      "link": "https://www.ft.com/content/a7e3153d-ac45-4756-9961-75b892f337da?syn-25a6b1a6=1",
-      "desc": "Digital asset groups seek new ways of making money in face of prolonged downturn in token prices",
-      "date": "2026-10-21T04:00:04.000Z",
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
+      "link": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A private key generation flaw allowed anyone to guess them and forge HTTPS certificates for any website.",
+      "date": "2026-10-21T05:15:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -47,32 +41,12 @@
       "termBoost": 0
     },
     {
-      "source": "coincenter",
-      "sourceName": "COIN CENTER",
-      "title": "Comment of Coin Center to the Department of the Treasury on GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
-      "link": "https://coincenter.org/comment-of-coin-center-to-the-department-of-the-treasury-on-genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale/",
-      "desc": "A PDF version of this filing is available here. TREAS-DO-2026-0496 To whom it may concern: Coin Center is an independent nonprofit research and advocacy center focused on the public policy issues facing cryptocurrency technologies such as Bitcoin and Ethereum. Our mission is to build a better understanding of these technologies and to promote a regulatory […] The post Comment of Coin Center to the Department of the Treasury on GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale appeared first on Coin Center.",
-      "date": "2026-10-20T00:36:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Pendle Daily Volume Hits $159 Million, Led by Ethereum",
       "link": "https://thedefiant.io/news/defi/pendle-daily-volume-hits-159-million-led-by-ethereum",
       "desc": "Ethereum accounted for $121.5 million of trading, while the protocol's locked value rose only modestly during the day.",
       "date": "2026-10-21T00:16:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Programmable banking platform Hyperlayer raises £19.5m",
-      "link": "https://www.finextra.com/newsarticle/48620/programmable-banking-platform-hyperlayer--raises-195m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Hyperlayer, the London-based fintech founded by former Morgan Stanley executives to help banks modernise without replacing their core systems, has raised £19.5 million at a £195 million valuation.",
-      "date": "2026-10-21T00:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -127,26 +101,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Liquid Network Announces Final Stages of Recovery Following Massive Hack",
-      "link": "https://bitcoinmagazine.com/news/liquid-network-announces-recovery",
-      "desc": "Bitcoin Magazine Liquid Network Announces Final Stages of Recovery Following Massive Hack One month after hackers pinched 4,000 bitcoins, the Liquid Network is up and running again. This post Liquid Network Announces Final Stages of Recovery Following Massive Hack first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-20T21:10:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Swiss Financial Regulator Gives Green Light to Country’s First Bitcoin ETF",
-      "link": "https://bitcoinmagazine.com/news/swiss-regulator-green-lights-bitcoin-etf",
-      "desc": "Bitcoin Magazine Swiss Financial Regulator Gives Green Light to Country’s First Bitcoin ETF Bitcoin exchange-traded funds were only available to institutional investors — until now. This post Swiss Financial Regulator Gives Green Light to Country’s First Bitcoin ETF first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-20T20:53:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
@@ -173,16 +127,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend",
-      "link": "https://bitcoinmagazine.com/news/strive-debuts-new-preferred-stock",
-      "desc": "Bitcoin Magazine Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend Strive’s second preferred stock offering, SATS, debuted Tuesday on the Nasdaq. This post Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-20T20:13:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
@@ -203,16 +147,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-10-20T19:17:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Extended Plans Oct. 22 Settlement Move From Starknet to Arc",
@@ -229,22 +163,6 @@
       "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
       "desc": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled.",
       "date": "2026-10-20T18:31:04.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a ‘natural response’ to tokenized stock plans",
-      "link": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
-      "desc": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.",
-      "date": "2026-10-20T18:26:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -285,16 +203,6 @@
       "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
       "desc": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
       "date": "2026-10-20T17:03:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-      "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
-      "desc": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.",
-      "date": "2026-10-20T17:02:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -345,28 +253,22 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside",
-      "link": "https://bitcoinmagazine.com/news/blackrock-files-for-new-bitcoin-etf",
-      "desc": "Bitcoin Magazine BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside A new filing with the SEC shows BlackRock wants to release an exchange-traded fund that offers downside protection but also caps gains. This post BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-20T16:26:29.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Optimum Says Block Propagation Layer Is Live on Ethereum Mainnet",
       "link": "https://thedefiant.io/news/infrastructure/optimum-says-block-propagation-layer-is-live-on-ethereum-mainnet",
       "desc": "The MIT-incubated network says 16 node operators and about 1.4 million ETH in stake are running mump2p, with ether.fi making it standard across its validator set",
       "date": "2026-10-20T16:24:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
+      "link": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.",
+      "date": "2026-10-20T16:23:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -391,22 +293,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Ramp applies for national bank trust charter",
-      "link": "https://www.finextra.com/newsarticle/48619/ramp-applies-for-national-bank-trust-charter?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Ramp has become the latest fintech to apply for a US national bank charter, enabling the expense management platform to offer fiduciary investment management and custody of digital assets.",
-      "date": "2026-10-20T15:20:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Lulo Says Boost Deposits Face 6.4% Drawdown From Neutrl Exposure",
@@ -427,16 +313,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Cross River to buy loyalty platform Accrue",
-      "link": "https://www.finextra.com/pressarticle/111370/cross-river-to-buy-loyalty-platform-accrue?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Cross River Bank (“Cross River”), a leading technology infrastructure platform powering embedded financial solutions serving as the trust anchor for global banking and money movement, today announced that its parent company (CRB Group, Inc.) has entered into an agreement to acquire Accrue, a fintech company powering modern customer loyalty at the payment layer.",
-      "date": "2026-10-20T15:08:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "1inch Winds Down Card, Urges Balance Withdrawals by Dec. 18",
@@ -453,16 +329,6 @@
       "link": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
       "desc": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
       "date": "2026-10-20T14:31:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-      "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
-      "desc": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
-      "date": "2026-10-20T14:28:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -507,32 +373,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-      "link": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
-      "desc": "The court injunctions apply strictly to users within the AIFC and do not extend across the rest of Kazakhstan.",
-      "date": "2026-10-20T13:35:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "MEXC to End Services for Users in Russia and Belarus",
       "link": "https://thedefiant.io/news/cefi/mexc-to-end-services-for-users-in-russia-and-belarus",
       "desc": "Affected customers will receive individual deadlines for closing positions and withdrawing assets. Users without a notice can continue subject to the exchange’s terms.",
       "date": "2026-10-20T13:32:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Bitget to buy licensed exchange to expand in Thailand",
-      "link": "https://www.finextra.com/pressarticle/111365/bitget-to-buy-licensed-exchange-to-expand-in-thailand?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Bitget, the world's largest Universal Exchange (UEX), has announced the planned acquisition of GMO-Z.com Cryptonomics (Thailand) Co., Ltd., a Bangkok-based digital asset exchange and brokerage, through its interest in BTGT Management (Thailand) Ltd.",
-      "date": "2026-10-20T13:31:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -593,48 +439,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
-      "link": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
-      "desc": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16.",
-      "date": "2026-10-20T12:40:17.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Sam Callahan: Bitcoin Doesn’t Need Rate Cuts to Succeed",
-      "link": "https://bitcoinmagazine.com/videos/sam-callahan-bitcoin-doesnt-need-rate-cuts-to-succeed",
-      "desc": "📺 Watch VideoBitcoin Magazine Sam Callahan: Bitcoin Doesn’t Need Rate Cuts to Succeed The USD lost 20% purchasing power in 5 years. Sam Callahan breaks down financial repression, core PCE spikes, and the U.S. bond market's historic drawdown. This post Sam Callahan: Bitcoin Doesn’t Need Rate Cuts to Succeed first appeared on Bitcoin Magazine and is written by Patrick Green.",
-      "date": "2026-10-20T12:40:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
       "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation.",
       "date": "2026-10-20T12:38:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Michael Howell: Bitcoin as the Apex Liquidity Asset",
-      "link": "https://bitcoinmagazine.com/videos/michael-howell-bitcoin-as-the-apex-liquidity-asset",
-      "desc": "📺 Watch VideoBitcoin Magazine Michael Howell: Bitcoin as the Apex Liquidity Asset CrossBorder Capital's Michael Howell explains why global liquidity drives markets and why Bitcoin is emerging as the apex asset in a debasement world. This post Michael Howell: Bitcoin as the Apex Liquidity Asset first appeared on Bitcoin Magazine and is written by Patrick Green.",
-      "date": "2026-10-20T12:33:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -659,32 +469,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-      "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
-      "desc": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027.",
-      "date": "2026-10-20T11:25:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Netflix FTX trailer was ‘enough to upset me’ in first 30 seconds: former FTX COO",
       "link": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Constance Wang criticized the streamer’s portrayal of her former FTX colleagues as not matching her own experience with Sam Bankman-Fried and Caroline Ellison.",
       "date": "2026-10-20T11:23:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
-      "desc": "Your day-ahead look for Oct. 20, 2026",
-      "date": "2026-10-20T11:14:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -809,12 +599,12 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
-      "link": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
-      "desc": "Bitcoin Magazine Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants Setting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see how Arizona Bitcoin spending really works. This post Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants first appeared on Bitcoin Magazine and is written by Vagabond.",
-      "date": "2026-10-20T03:54:15.000Z",
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
+      "desc": "The proposed bank would not take deposits or make commercial loans; Ramp says it would build products alongside its banking partners.",
+      "date": "2026-10-20T02:39:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -859,22 +649,22 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
-      "link": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
-      "desc": "Bitcoin Magazine AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month AnchorWatch’s AnchorWatch Trust Company has now opened its custody service. This post AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-19T22:28:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Arcus Adds Stock Tokens and WETH as Perpetual Collateral",
       "link": "https://thedefiant.io/news/defi/arcus-adds-stock-tokens-and-weth-as-perpetual-collateral",
       "desc": "The early-access feature uses automatic USDG loans at 50% initial loan-to-value, with non-USDG deposits capped at $20,000 per account.",
       "date": "2026-10-19T22:20:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+      "link": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
+      "desc": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset.",
+      "date": "2026-10-19T22:00:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -909,16 +699,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-      "link": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
-      "desc": "The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran.",
-      "date": "2026-10-19T20:21:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Sentora’s OUSD Lending Vault Holds $42.5 Million on Tempo",
@@ -945,16 +725,6 @@
       "link": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
       "desc": "Hobbyists are booting iOS 16 on Xiaomi and Nothing phones and posting the proof. It barely works, but it suggests Apple's software is no longer welded to Apple's hardware.",
       "date": "2026-10-19T19:46:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "The Architecture of Money: Mapping Financial Power in the Age of Bitcoin",
-      "link": "https://bitcoinmagazine.com/culture/the-architecture-of-money-mapping-financial-power-in-the-age-of-bitcoin",
-      "desc": "Bitcoin Magazine The Architecture of Money: Mapping Financial Power in the Age of Bitcoin Carlijn Kingma, Thomas Bollen, and Martijn Jeroen van der Linden on The Waterworks of Money, the hidden structures of finance, and bitcoin's place in Europe's monetary future. This post The Architecture of Money: Mapping Financial Power in the Age of Bitcoin first appeared on Bitcoin Magazine and is written by Dennis Koch.",
-      "date": "2026-10-19T19:44:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1005,16 +775,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
-      "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
-      "desc": "The future of perps in the U.S. may be at stake as the CFTC argues that CME hasn't shown the new policy is hurting it after the agency OK'd its first bitcoin perp.",
-      "date": "2026-10-19T16:47:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
@@ -1055,16 +815,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
-      "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
-      "desc": "The launch comes as Zerohash bids for a federal trust charter.",
-      "date": "2026-10-19T14:58:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
@@ -1075,62 +825,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-      "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
-      "desc": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn’t shared a name, specs or a release date.",
-      "date": "2026-10-19T12:16:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "‘Terrifying Precedent’: Dutch Hand US Data From Seized Anti-Fascist Server",
       "link": "https://decrypt.co/381296/terrifying-precedent-dutch-hand-us-data-from-seized-anti-fascist-server",
       "desc": "Police seized the Autistici/Inventati server under a 1981 treaty after the U.S. designated the Italian activist group “global terrorists.”",
       "date": "2026-10-19T12:07:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
-      "desc": "Your day-ahead look for Oct. 19, 2026",
-      "date": "2026-10-19T11:15:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin holds near $82,000 as Nasdaq rebounds more than 1%",
-      "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-      "desc": "Bitcoin treasury company Strive continued to add large numbers of BTC to its balance sheet, while far larger peer Strategy acquired only a small amount.",
-      "date": "2026-10-19T11:05:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "JPMorgan brings JPM Coin, representing dollar deposits, to Ethereum",
-      "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-      "desc": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
-      "date": "2026-10-19T10:03:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
-      "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
-      "desc": "Curator-managed lending strategies are attracting institutional capital, while exposing depositors to collateral, liquidity and smart-contract risks.",
-      "date": "2026-10-19T09:32:38.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
