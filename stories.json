@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-10-21T10:08:47.231Z",
+  "generatedAt": "2026-10-21T10:39:09.442Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 235,
+  "filteredOut": 237,
   "errors": [],
   "dupsMerged": 9,
   "items": [
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
+      "link": "https://decrypt.co/381475/uk-banks-hit-with-10000-complaints-over-blocked-crypto-transfers-in-90-days-report",
+      "desc": "Lloyds drew the most complaints despite having no published policy restricting crypto transfers, according to a Stand With Crypto report.",
+      "date": "2026-10-21T10:29:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
+      "link": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The companies will assess safeguards for travelers and whether stablecoins can speed up trade settlement between South Korea and Japan.",
+      "date": "2026-10-21T10:22:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SpaceX Share Unlock Looms Over Aave Collateral Proposal",
+      "link": "https://thedefiant.io/news/defi/spacex-share-unlock-looms-over-aave-collateral-proposal",
+      "desc": "LlamaRisk recommends a 55% collateral factor and a 37,000-token cap, with larger liquidations dependent on redemptions or derivatives hedges.",
+      "date": "2026-10-21T10:12:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
@@ -739,7 +769,13 @@
       "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation.",
       "date": "2026-10-20T12:38:28.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -883,16 +919,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam",
-      "link": "https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam",
-      "desc": "The related consensus-specs issue was closed as ‘not planned’; its author points to pre-deposit checks as a defense.",
-      "date": "2026-10-20T07:49:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
@@ -929,16 +955,6 @@
       "link": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
       "desc": "Bitcoin Magazine Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants Setting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see how Arizona Bitcoin spending really works. This post Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants first appeared on Bitcoin Magazine and is written by Vagabond.",
       "date": "2026-10-20T03:54:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
-      "link": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "“A return to last year’s indiscriminate capital raising looks unlikely,” said Bitfinex head of derivatives Jag Kooner.",
-      "date": "2026-10-20T01:35:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1039,13 +1055,7 @@
       "link": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
       "desc": "The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing.",
       "date": "2026-10-19T18:16:04.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1109,42 +1119,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
-      "link": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
-      "desc": "The launch comes as Zerohash bids for a federal trust charter.",
-      "date": "2026-10-19T14:58:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
       "link": "https://decrypt.co/381297/morning-minute-crypto-rebounds-as-black-monday-looms",
       "desc": "The original “Black Monday” occurred 39 years ago today. Is history about to repeat itself?",
       "date": "2026-10-19T12:19:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-      "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
-      "desc": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn’t shared a name, specs or a release date.",
-      "date": "2026-10-19T12:16:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "‘Terrifying Precedent’: Dutch Hand US Data From Seized Anti-Fascist Server",
-      "link": "https://decrypt.co/381296/terrifying-precedent-dutch-hand-us-data-from-seized-anti-fascist-server",
-      "desc": "Police seized the Autistici/Inventati server under a 1981 treaty after the U.S. designated the Italian activist group “global terrorists.”",
-      "date": "2026-10-19T12:07:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
