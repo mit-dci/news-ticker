@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-22T01:03:32.729Z",
+  "generatedAt": "2026-10-22T01:45:52.569Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 242,
   "errors": [],
-  "dupsMerged": 6,
+  "dupsMerged": 7,
   "items": [
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Collector Crypt Reports Record $24.3 Million Day",
+      "link": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-reports-record-24-3-million-day",
+      "desc": "Users opened 123,425 packs, while the reported gross receipts equaled roughly 13% of DefiLlama's trailing 30-day pack-sales total.",
+      "date": "2026-10-22T01:44:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
@@ -33,7 +43,13 @@
       "link": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
       "desc": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.",
       "date": "2026-10-22T00:00:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/defi/aero-launches-aerodrome-velodrome-merge-seven-chains"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -596,26 +612,6 @@
       "link": "https://thedefiant.io/news/defi/lido-lend-exit-plan-would-tap-borrower-collateral-for-withdrawals",
       "desc": "Positions nearest liquidation would be tapped first and their debt reduced. Eligibility for healthy loans and the lender’s route to ETH remain unspecified.",
       "date": "2026-10-21T12:08:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Securitize Will Mint Stablecoins Directly With Anchorage Digital Bank",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/securitize-will-mint-stablecoins-directly-with-anchorage-digital-bank",
-      "desc": "The tokenization platform behind funds from BlackRock, Apollo and KKR said it will source the dollars that settle those trades from a federally chartered bank instead of intermediaries.",
-      "date": "2026-10-21T12:06:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "OpenSea Opens Mobile App to All Users, Pays Referrers 25% of Fees",
-      "link": "https://thedefiant.io/news/defi/opensea-opens-mobile-app-to-all-users-pays-referrers-25-of-fees",
-      "desc": "The marketplace said its social feed pulls trades from across crypto apps rather than its own users, and that 76% of the 56,000-plus beta signups were active.",
-      "date": "2026-10-21T12:03:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
