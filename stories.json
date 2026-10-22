@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T19:35:49.818Z",
+  "generatedAt": "2026-10-22T20:09:26.149Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 230,
+  "filteredOut": 232,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "cointelegraph",
@@ -35,22 +35,38 @@
       "termBoost": 3
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Aztec Announces V6 Approval While Governance Dashboard Still Shows Voting Open",
+      "link": "https://thedefiant.io/news/blockchains/aztec-announces-v6-approval-while-governance-dashboard-still-shows-voting-open",
+      "desc": "The proposed upgrade speeds Ethereum-to-Aztec messaging and funds 30 days of V5 operation during migration; the dashboard lists October 26 for execution.",
+      "date": "2026-10-22T19:52:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls",
+      "link": "https://bitcoinmagazine.com/news/blockchain-association-presses-congress",
+      "desc": "Bitcoin Magazine Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls The Blockchain Association asked congressional leaders Thursday to pass bipartisan crypto tax legislation, but with the Clarity Act near dead, the House bill stripped of mining and staking relief, and Congress out until after the midterms, the ask lands with little room to move. This post Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-10-22T19:51:11.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
       "link": "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473",
       "desc": "JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed.",
       "date": "2026-10-22T19:14:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
-      "link": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475",
-      "desc": "As progress stalls on a crypto bill, the Blockchain Association is urging Congress to pass legislation to resolve uncertainty around taxes.",
-      "date": "2026-10-22T18:59:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -369,6 +385,22 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
+      "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
+      "link": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
+      "desc": "Coinbase Ireland fined $3.6 million for safeguarding breaches that left customer funds underfunded and mixed with group accounts.",
+      "date": "2026-10-22T14:03:40.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/regulation/coinbase-ireland-fined-3-25-million-over-customer-fund-failures"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
       "title": "Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
       "link": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
       "desc": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
@@ -464,27 +496,6 @@
       "desc": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.",
       "date": "2026-10-22T13:13:45.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Central Bank of Ireland Fines Coinbase Unit €3.25 Million Over Customer Fund Safeguarding Failures",
-      "link": "https://bitcoinmagazine.com/news/central-bank-of-ireland-fines-coinbase",
-      "desc": "Bitcoin Magazine Central Bank of Ireland Fines Coinbase Unit €3.25 Million Over Customer Fund Safeguarding Failures Ireland’s central bank has fined Coinbase Ireland €3.25 million for allowing customer funds to mix with other Coinbase entities’ money and for relying on its US parent to run safeguarding controls. This post Central Bank of Ireland Fines Coinbase Unit €3.25 Million Over Customer Fund Safeguarding Failures first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-10-22T13:12:02.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/regulation/coinbase-ireland-fined-3-25-million-over-customer-fund-failures"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -796,16 +807,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Mastercard Crypto Credential, KYC, Travel Rule and Screening Compared",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-crypto-credential-kyc-travel-rule-and-screening-compared",
-      "desc": "Identity checks, transfer-party information and blockchain risk alerts serve different purposes. Providers remain responsible for deciding whether a payment can proceed.",
-      "date": "2026-10-22T03:24:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
@@ -1072,22 +1073,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-      "link": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The Office of the Comptroller of the Currency’s final rule covers payment stablecoin issuance and some custody activities, with the GENIUS Act framework taking effect in mid-January.",
-      "date": "2026-10-21T12:26:58.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
@@ -1124,6 +1109,16 @@
       "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
       "desc": "Dogecoin Labs will combine MyDoge, DogeOS and merchant payment tools as developers try to turn coin holders into customers for applications and businesses.",
       "date": "2026-10-21T12:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
+      "link": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+      "desc": "The rule sets reserve, redemption and risk standards for issuers, but the OCC has yet to say when it will begin accepting applications.",
+      "date": "2026-10-21T11:52:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1184,16 +1179,6 @@
       "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
       "desc": "J.P. Morgan Asset Management’s 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn’t adding it to its main portfolio models.",
       "date": "2026-10-20T21:16:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-      "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-      "desc": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
-      "date": "2026-10-20T20:46:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
