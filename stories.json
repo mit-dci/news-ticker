@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T15:38:57.114Z",
+  "generatedAt": "2026-10-22T16:10:42.778Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 229,
@@ -35,6 +35,16 @@
       "termBoost": 3
     },
     {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-slides-towards-81000",
+      "desc": "Bitcoin Magazine Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets Bitcoin is currently in so-called Uptober, a month when the asset is supposed to rally. But it’s being held back — at least for now. This post Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+      "date": "2026-10-22T16:04:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Fireblocks pours cold water on reports of $2.5bn acquisition talks with Visa",
@@ -42,6 +52,22 @@
       "desc": "Digital asset and stablecoin infrastructure provider Fireblocks says that reports that it is in talks to be acquired by Visa for $2.5 billion are \"news to us\".",
       "date": "2026-10-22T15:46:00.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+      "link": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+      "desc": "When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank.",
+      "date": "2026-10-22T15:40:25.000Z",
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48633/coinbase-fined-325m-by-irish-central-bank?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -368,16 +394,6 @@
       "link": "https://thedefiant.io/news/security/what-is-a-crypto-wrench-attack",
       "desc": "The name comes from an XKCD comic about a $5 wrench. Hardware wallets isolate keys, while multisig divides signing authority—but neither automatically prevents coerced transfers.",
       "date": "2026-10-22T12:44:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Coinbase fined €3.25m by Irish central bank",
-      "link": "https://www.finextra.com/newsarticle/48633/coinbase-fined-325m-by-irish-central-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Crypto exchange Coinbase Ireland has been penalised by the Central Bank of Ireland (CBI) for a series of operational and governance failings over a five-year period.",
-      "date": "2026-10-22T12:24:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -796,27 +812,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody",
-      "link": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
-      "desc": "Bitcoin Magazine Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody British bank Standard Chartered will integrate Zodia Custody’s bitcoin and crypto services into its own. This post Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-      "date": "2026-10-21T17:28:34.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
@@ -1019,6 +1014,22 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Standard Chartered signs definitive deal to acquire Zodia Custody",
+      "link": "https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The signing follows shareholders’ acceptance of Standard Chartered’s non-binding offer in May, with regulatory approvals still pending.",
+      "date": "2026-10-21T12:06:23.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand",
@@ -1185,16 +1196,6 @@
       "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
       "desc": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
       "date": "2026-10-20T17:03:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
-      "link": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
-      "desc": "Former NBC News political director Chuck Todd is hosting NEXTPredict two weeks before the vote, and has yet to pick a side.",
-      "date": "2026-10-20T16:26:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
