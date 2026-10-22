@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T05:09:45.759Z",
+  "generatedAt": "2026-10-22T05:39:43.439Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 243,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "coindesk",
@@ -833,7 +833,13 @@
       "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
       "desc": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.",
       "date": "2026-10-21T04:35:52.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1003,16 +1009,6 @@
       "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
       "desc": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
       "date": "2026-10-20T17:03:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-      "link": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
-      "desc": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.",
-      "date": "2026-10-20T17:02:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
