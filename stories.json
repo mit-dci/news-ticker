@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T11:38:33.495Z",
+  "generatedAt": "2026-10-22T12:14:56.508Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 243,
+  "filteredOut": 241,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "cointelegraph",
@@ -27,6 +27,82 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Coinbase fined €3.25m by Irish central bank",
+      "link": "https://www.finextra.com/newsarticle/48633/coinbase-fined-325m-by-irish-central-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Crypto exchange Coinbase Ireland has been penalised by the Central Bank of Ireland (CBI) for a series of operational and governance failings over a five-year period.",
+      "date": "2026-10-22T12:24:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+      "desc": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers’ payments clear.",
+      "date": "2026-10-22T12:14:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SoFi Launches SOFIE Tokenized Deposit With 4.4% APY",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-launches-sofie-tokenized-deposit-with-4-4-apy",
+      "desc": "Members can convert the deposit into SoFiUSD at a 1:1 rate, but deposit interest and FDIC coverage do not follow the money into the stablecoin.",
+      "date": "2026-10-22T12:13:53.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Coinbase Ireland Fined €3.25 Million Over Customer-Fund Failures",
+      "link": "https://thedefiant.io/converge/regulation/coinbase-ireland-fined-3-25-million-over-customer-fund-failures",
+      "desc": "The safeguarding shortfall reached €5.2 million in 2024. The sanctions require High Court confirmation before taking effect.",
+      "date": "2026-10-22T12:06:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+      "link": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+      "desc": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance—a yield-and-protection combination ordinary stablecoins lack.",
+      "date": "2026-10-22T12:01:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Dune launches onchain trading data feeds as tokenized markets expand",
+      "link": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+      "desc": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
+      "date": "2026-10-22T12:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "The UK needs a workable route to regulated DeFi access",
+      "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The UK’s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase’s European policy head Katie Harries.",
+      "date": "2026-10-22T12:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -544,26 +620,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "NSA Urges PHP Users to Patch or Take Systems Offline",
-      "link": "https://thedefiant.io/news/security/nsa-urges-php-users-to-patch-or-take-systems-offline",
-      "desc": "PHP has released fixes for two flaws rated 9.2 that can let unauthenticated attackers run code on web servers.",
-      "date": "2026-10-21T16:51:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Eclair Patches Lightning Bugs That Could Let Peers Steal Funds",
-      "link": "https://thedefiant.io/news/security/eclair-patches-lightning-bugs-that-could-let-peers-steal-funds",
-      "desc": "The second security release in five days lets node operators upgrade without closing channels, though Eclair must be stopped and restarted.",
-      "date": "2026-10-21T16:50:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
@@ -926,32 +982,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Zcash developers confirm November date for upgrade that triples payment speed",
-      "link": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
-      "desc": "The NU7 upgrade will cut the time between Zcash blocks to 25 seconds from 75 seconds. The chosen block height still has to be merged into the spec and shipped in node software.",
-      "date": "2026-10-21T08:10:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Malaysia central bank launches DLT platform for tokenized bonds",
       "link": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The platform tracks tokenized securities ownership and transfers, linking to Malaysia’s RENTAS+ system to settle corresponding payments in central bank money.",
       "date": "2026-10-21T05:56:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
-      "link": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A private key generation flaw allowed anyone to guess them and forge HTTPS certificates for any website.",
-      "date": "2026-10-21T05:15:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1036,16 +1072,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
-      "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
-      "desc": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption.",
-      "date": "2026-10-20T18:14:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin's Next Move: Here's What to Watch",
@@ -1072,16 +1098,6 @@
       "link": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
       "desc": "Former NBC News political director Chuck Todd is hosting NEXTPredict two weeks before the vote, and has yet to pick a side.",
       "date": "2026-10-20T16:26:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
-      "link": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
-      "desc": "The amendment would make swapping crypto into euro or dollar stablecoins taxable in France from 2027, with gains measured coin by coin.",
-      "date": "2026-10-20T14:04:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
