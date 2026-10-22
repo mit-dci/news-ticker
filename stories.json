@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T22:08:34.188Z",
+  "generatedAt": "2026-10-22T22:35:33.590Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 234,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "cointelegraph",
@@ -33,6 +33,26 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+      "link": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
+      "desc": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
+      "date": "2026-10-22T22:21:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Circle Opens USDC Auctions That Pay Minters a Rebate",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/circle-opens-usdc-auctions-that-pay-minters-a-rebate",
+      "desc": "Hourly Match auctions pass the redemption clearing fee to minters, with charges capped at Circle’s Express rate.",
+      "date": "2026-10-22T22:08:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -703,13 +723,7 @@
       "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Cloudflare’s Matthew Prince said the network saw thousands of exploit attempts even before the PHP vulnerability was publicly disclosed.",
       "date": "2026-10-22T09:06:02.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/security/cloudflare-ceo-reports-millions-of-php2shell-exploit-attempts"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1145,16 +1159,6 @@
       "link": "https://decrypt.co/381475/uk-banks-hit-with-10000-complaints-over-blocked-crypto-transfers-in-90-days-report",
       "desc": "Lloyds drew the most complaints despite having no published policy restricting crypto transfers, according to a Stand With Crypto report.",
       "date": "2026-10-21T10:29:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
-      "link": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
-      "desc": "A viral Claude Code prompt lets Android TV owners switch off sponsored rows and tracking software and build their own home screens, with no root access and every change reversible.",
-      "date": "2026-10-20T22:16:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
