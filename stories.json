@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-10-22T23:08:11.337Z",
+  "generatedAt": "2026-10-22T23:35:27.388Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 234,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 10,
   "items": [
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets",
+      "link": "https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets",
+      "desc": "Ethereum contracts can verify alternative signatures today, but protecting existing accounts requires more than adding a new signer. Bitcoin’s P2MR proposal does not itself add post-quantum signatures.",
+      "date": "2026-10-22T23:18:52.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
@@ -33,6 +44,26 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Uniswap Swap Costs: What Reduces Your Output and What Is Paid Separately",
+      "link": "https://thedefiant.io/news/defi/uniswap-swap-costs-what-reduces-your-output-and-what-is-paid-separately",
+      "desc": "A historical ETH-to-USDC receipt shows how deductions reconcile. UniswapX handles network costs differently from a classic pool swap.",
+      "date": "2026-10-22T23:18:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Robinhood vs. Securitize: Stock Token Access Compared",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-vs-securitize-stock-token-access-compared",
+      "desc": "Robinhood’s wallet product advertises 24/7 trading; Securitize advertises 24/5, while its NYSE and OKXICE connections remain planned.",
+      "date": "2026-10-22T23:14:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -707,13 +738,7 @@
       "link": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
       "desc": "A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
       "date": "2026-10-22T10:09:42.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -763,16 +788,6 @@
       "link": "https://thedefiant.io/news/hacks/coindcx-co-founder-denies-new-hack-after-16-million-wallet-alert",
       "desc": "Sumit Gupta says the flagged addresses were compromised in July 2025 and that no funds from CoinDCX’s current wallets were affected.",
       "date": "2026-10-22T08:18:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Alpha Modus Reports $250 Million-Plus Bitcoin Holding From Share Swap",
-      "link": "https://thedefiant.io/converge/cefi/alpha-modus-reports-250-million-plus-bitcoin-holding-from-share-swap",
-      "desc": "The Nasdaq-listed company exchanged 51.6 million shares and matching warrants for 3,170 BTC, expanding its asset base while diluting existing shareholders.",
-      "date": "2026-10-22T08:02:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -833,16 +848,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
       "desc": "The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It’s now back at 31.",
       "date": "2026-10-22T04:36:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Matter Labs Introduces Prividium Commander for Existing Blockchains",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/matter-labs-introduces-prividium-commander-for-existing-blockchains",
-      "desc": "Institutions can add application permissions without moving to Prividium Ledger, while retaining their existing custody and signing providers.",
-      "date": "2026-10-22T03:52:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
