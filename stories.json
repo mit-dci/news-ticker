@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-22T13:40:01.364Z",
+  "generatedAt": "2026-10-22T14:10:04.463Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 239,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 226,
+  "errors": [
+    "PYMNTS: PYMNTS: HTTP 403"
+  ],
   "dupsMerged": 11,
   "items": [
     {
@@ -27,6 +29,46 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
+      "link": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
+      "desc": "Decrypt is building a destination where readers can discover, understand and trade the news, directly where they consume information.",
+      "date": "2026-10-22T14:04:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+      "link": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+      "desc": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
+      "date": "2026-10-22T13:55:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Government-Linked $1 Billion Bitcoin Transfer Led to Coinbase Prime Addresses",
+      "link": "https://thedefiant.io/news/markets/government-linked-1-billion-bitcoin-transfer-led-to-coinbase-prime-addresses",
+      "desc": "The October 8 transaction passed through unlabeled addresses before reaching Arkham-labeled Coinbase deposits. That establishes an exchange-linked destination, not a sale.",
+      "date": "2026-10-22T13:51:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+      "link": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju.",
+      "date": "2026-10-22T13:42:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -61,9 +103,9 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "Visa in talks to acquire crypto custody firm Fireblocks for around $2.5 billion: Axios",
+      "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
       "link": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
-      "desc": "Visa is in late-stage talks to buy Fireblocks for around $2.5 billion, according to Axios, citing multiple sources.",
+      "desc": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
       "date": "2026-10-22T13:27:54.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -117,9 +159,9 @@
       "date": "2026-10-22T13:12:02.000Z",
       "alsoAt": [
         {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/48633/coinbase-fined-325m-by-irish-central-bank?utm_medium=rssfinextra&utm_source=finextrafeed"
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943"
         },
         {
           "source": "THE DEFIANT",
@@ -156,6 +198,16 @@
       "link": "https://thedefiant.io/news/security/what-is-a-crypto-wrench-attack",
       "desc": "The name comes from an XKCD comic about a $5 wrench. Hardware wallets isolate keys, while multisig divides signing authority—but neither automatically prevents coerced transfers.",
       "date": "2026-10-22T12:44:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Coinbase fined €3.25m by Irish central bank",
+      "link": "https://www.finextra.com/newsarticle/48633/coinbase-fined-325m-by-irish-central-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Crypto exchange Coinbase Ireland has been penalised by the Central Bank of Ireland (CBI) for a series of operational and governance failings over a five-year period.",
+      "date": "2026-10-22T12:24:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -610,16 +662,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Krak vs. PayPal vs. Cash App: Fees, Reach and Bank Withdrawals",
-      "link": "https://thedefiant.io/news/cefi/krak-vs-paypal-vs-cash-app-fees-reach-and-bank-withdrawals",
-      "desc": "Cash App requires US residency, while Krak and PayPal support US-to-UK personal payments. Conversion and bank withdrawal terms determine the cost beyond the in-app transfer.",
-      "date": "2026-10-21T19:47:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Robinhood single-stock perps could be a ‘strong positive’ for HOOD shares, Mizuho says",
@@ -1009,16 +1051,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks",
       "desc": "Open interest has topped $300 million and price is back above $600. A similar setup was seen before January's crash.",
       "date": "2026-10-21T08:57:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
-      "link": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
-      "desc": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
-      "date": "2026-10-21T02:30:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
