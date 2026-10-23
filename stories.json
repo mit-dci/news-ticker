@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T17:07:24.182Z",
+  "generatedAt": "2026-10-23T17:37:10.578Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 241,
+  "filteredOut": 242,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "defiant",
@@ -34,15 +34,39 @@
       "link": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
       "desc": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
       "date": "2026-10-22T09:32:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/blockchains/starknet-poll-backs-post-quantum-layer-1-research-with-93-52-support"
-        }
-      ],
+      "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Agora Says Initia Exploit Hit Third-Party Product Using AUSD",
+      "link": "https://thedefiant.io/news/hacks/agora-says-initia-exploit-hit-third-party-product-using-ausd",
+      "desc": "Ethereum records show 1.4 million AUSD left a bridge adapter, while Agora says it has no smart contracts deployed on Initia.",
+      "date": "2026-10-23T17:27:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Lighter Adds weETH as Perpetual Futures Collateral",
+      "link": "https://thedefiant.io/news/defi/lighter-adds-weeth-as-perpetual-futures-collateral",
+      "desc": "Lighter counts 70% of weETH’s index value toward trading margin and caps platform-wide collateral supply at 1,000 weETH.",
+      "date": "2026-10-23T17:15:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Agora Freezes AUSD Account Linked to Initia Exploit",
+      "link": "https://thedefiant.io/news/hacks/agora-freezes-ausd-account-linked-to-initia-exploit",
+      "desc": "Agora says it has no contracts on Initia; the targeted Ethereum account had already swapped 1.4 million AUSD for ETH.",
+      "date": "2026-10-23T17:08:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -889,26 +913,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Arbitrum Active Addresses Hit 30-Day High, Then Retreat",
-      "link": "https://thedefiant.io/news/blockchains/arbitrum-active-addresses-hit-30-day-high-then-retreat",
-      "desc": "Hourly activity cooled into Oct. 22 after daily active addresses reached 571,767; transaction counts rose much less sharply.",
-      "date": "2026-10-22T14:19:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Researchers Flag Swell Rate Manipulation After Railway Key-Drain Warning",
-      "link": "https://thedefiant.io/news/hacks/researchers-flag-swell-rate-manipulation-after-railway-key-drain-warning",
-      "desc": "Researchers flagged inflated swETH and rswETH rates after the cloud-platform disclosure; the reported 2,513 ETH held by Swell is not a confirmed loss.",
-      "date": "2026-10-22T14:18:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
@@ -1075,16 +1079,6 @@
       "link": "https://www.finextra.com/newsarticle/48630/fintechs-top-banks-and-stablecoins-for-cheap-cross-border-payment---bis-research?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Cross-border payments remain slow and expensive but fintech outfits such as Wise and Remitly have substantially cut costs relative to traditional retail bank wires while stabelcoins still suffer from issues with friction, according to BIS research.",
       "date": "2026-10-22T00:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
-      "link": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
-      "desc": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
-      "date": "2026-10-21T17:31:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
