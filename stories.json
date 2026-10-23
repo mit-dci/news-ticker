@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23T17:37:10.578Z",
+  "generatedAt": "2026-10-23T18:11:06.384Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 242,
+  "filteredOut": 244,
   "errors": [],
   "dupsMerged": 11,
   "items": [
@@ -37,6 +37,32 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows",
+      "link": "https://thedefiant.io/news/hacks/tether-blacklists-usdt-wallets-linked-to-coindcx-outflows",
+      "desc": "AMLBot puts the frozen sum at about $2.2 million, after CoinDCX acknowledged losses from a failed process for securing deposits to retired addresses.",
+      "date": "2026-10-23T18:08:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+      "link": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+      "desc": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser.",
+      "date": "2026-10-23T17:46:09.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/regulation/blumenthal-seeks-records-on-tether-payments-to-bo-hines-s-firm"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -604,16 +630,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Blumenthal Seeks Records on Tether Payments to Bo Hines's Firm",
-      "link": "https://thedefiant.io/converge/regulation/blumenthal-seeks-records-on-tether-payments-to-bo-hines-s-firm",
-      "desc": "The senator asked Tether and Nxum to provide payment records, crypto wallet addresses and lobbying communications by Nov. 3.",
-      "date": "2026-10-22T22:58:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
@@ -880,11 +896,6 @@
       "date": "2026-10-22T14:41:00.000Z",
       "alsoAt": [
         {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/infrastructure/visa-in-talks-to-buy-fireblocks-for-about-2-5-billion-axios"
-        },
-        {
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926"
@@ -899,16 +910,6 @@
       "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
       "desc": "The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported.",
       "date": "2026-10-22T14:37:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "A16z Crypto Plans ‘Frontier’ Rebrand and Broader Strategy: Report",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/a16z-crypto-plans-frontier-rebrand-and-broader-strategy-report",
-      "desc": "General partner Ali Yahya is also reportedly leaving to build a startup, months after the team announced a $2.2 billion fifth fund.",
-      "date": "2026-10-22T14:20:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1013,16 +1014,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "The UK needs a workable route to regulated DeFi access",
-      "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The UK’s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase’s European policy head Katie Harries.",
-      "date": "2026-10-22T12:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
@@ -1059,16 +1050,6 @@
       "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
       "desc": "Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.",
       "date": "2026-10-22T09:56:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Layer 2 Scaling Solutions",
-      "link": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
-      "desc": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain. Ethereum’s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can get priced out. Layer 2s address this by moving transaction activity to scaling systems that sit around Ethereum while still using it for settlement, security, data posting, or verification. The most important Layer 2 designs today are rollups. Rollups process transactions off-chain, bundle them together, and post data or proofs back to Ethereum. This makes transactions cheaper and faster while keeping a connection to Ethereum’s trust foundation.",
-      "date": "2026-10-22T09:15:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
