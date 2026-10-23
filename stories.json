@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T14:40:40.911Z",
+  "generatedAt": "2026-10-23T15:08:19.237Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 236,
+  "filteredOut": 235,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "defiant",
@@ -43,6 +43,22 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "China Sets 2030 Target for National Blockchain Network",
+      "link": "https://thedefiant.io/news/regulation/china-sets-2030-target-for-national-blockchain-network",
+      "desc": "The plan prioritizes trade and finance in the Yangtze River Delta and industrial applications in Chengdu-Chongqing, alongside continuing restrictions on crypto business.",
+      "date": "2026-10-23T15:02:50.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -135,16 +151,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "China targets 2030 for its national blockchain network buildout",
-      "link": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "China’s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards.",
-      "date": "2026-10-23T13:21:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines",
@@ -197,6 +203,16 @@
       "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
       "desc": "BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals.",
       "date": "2026-10-23T11:39:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
+      "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+      "desc": "Brent crude oil surged above $116 per barrel for the first time since late April.",
+      "date": "2026-10-23T11:13:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -899,16 +915,6 @@
       "link": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
       "desc": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
       "date": "2026-10-22T13:55:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Government-Linked $1 Billion Bitcoin Transfer Led to Coinbase Prime Addresses",
-      "link": "https://thedefiant.io/news/markets/government-linked-1-billion-bitcoin-transfer-led-to-coinbase-prime-addresses",
-      "desc": "The October 8 transaction passed through unlabeled addresses before reaching Arkham-labeled Coinbase deposits. That establishes an exchange-linked destination, not a sale.",
-      "date": "2026-10-22T13:51:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
