@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T12:13:08.296Z",
+  "generatedAt": "2026-10-23T12:45:47.873Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 233,
+  "filteredOut": 235,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "defiant",
@@ -54,6 +54,22 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
+      "link": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The request follows an August 2025 default judgment, with the AG also announcing nearly $6 million in settlements with four promoters.",
+      "date": "2026-10-23T12:33:37.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "finextra",
@@ -143,16 +159,6 @@
       "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain.",
       "date": "2026-10-23T10:13:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
-      "link": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453",
-      "desc": "New York wants $1.3 billion from NovaTech's founders, whose platform took in $1.16 billion and traded a fraction of it.",
-      "date": "2026-10-23T10:12:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -737,16 +743,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Bloomberg enables scalable crypto asset exposure classification under Base framework",
-      "link": "https://www.finextra.com/pressarticle/111416/bloomberg-enables-scalable-crypto-asset-exposure-classification-under-base-framework?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Bloomberg today announced that its Crypto Exposure Analytics now supports customers in assessing their compliance with the Basel Committee on Banking Supervision’s (BCBS) prudential standards for banks’ exposure to crypto assets and tokenized real-world assets.",
-      "date": "2026-10-22T14:21:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "A16z Crypto Plans ‘Frontier’ Rebrand and Broader Strategy: Report",
@@ -1023,26 +1019,6 @@
       "link": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
       "desc": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.",
       "date": "2026-10-22T09:11:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
-      "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Cloudflare’s Matthew Prince said the network saw thousands of exploit attempts even before the PHP vulnerability was publicly disclosed.",
-      "date": "2026-10-22T09:06:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.",
-      "date": "2026-10-22T07:37:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
