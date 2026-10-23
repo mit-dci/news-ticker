@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T11:38:41.584Z",
+  "generatedAt": "2026-10-23T12:13:08.296Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 234,
+  "filteredOut": 233,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "defiant",
@@ -62,6 +62,26 @@
       "link": "https://www.finextra.com/newsarticle/48639/us-fintech-coast-secures-35m-for-physical-economy-payments-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "New York-based startup Coast has raised $35m for the launch of a payment platform designed to support companies working in the physical economy.",
       "date": "2026-10-23T12:13:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Was crypto self-custody ever designed for beginners?",
+      "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Recent hardware wallet security incidents have renewed debate over whether self-custody is suitable for beginners, as multisig and seedless designs carry their own risks.",
+      "date": "2026-10-23T11:47:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
+      "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+      "desc": "BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals.",
+      "date": "2026-10-23T11:39:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -243,7 +263,13 @@
       "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects.",
       "date": "2026-10-23T05:09:41.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1031,16 +1057,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
-      "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "“Plenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,” says Illuvium co-founder Kieran Warwick.",
-      "date": "2026-10-22T05:35:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
@@ -1163,16 +1179,6 @@
       "link": "https://decrypt.co/381511/gta-6-trailer-features-dacity-meme-coin-heres-what-traders-think-itll-do",
       "desc": "Grand Theft Auto 6 is rumoured to feature a meme coin, and crypto traders are speculating on how prominently Rockstar will integrate it.",
       "date": "2026-10-21T13:16:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
-      "link": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
-      "desc": "The rule sets reserve, redemption and risk standards for issuers, but the OCC has yet to say when it will begin accepting applications.",
-      "date": "2026-10-21T11:52:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
