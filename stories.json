@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-23T15:40:07.835Z",
+  "generatedAt": "2026-10-23T16:10:39.897Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 237,
+  "filteredOut": 238,
   "errors": [],
   "dupsMerged": 13,
   "items": [
@@ -43,6 +43,16 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+      "link": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+      "desc": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
+      "date": "2026-10-23T15:50:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -668,7 +678,13 @@
       "link": "https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin",
       "desc": "Professional operators can now test the RGB-based token on Bitcoin Signet. Its backing will sit in USDT0 locked on Arbitrum.",
       "date": "2026-10-22T18:07:42.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1019,16 +1035,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-      "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3.",
-      "date": "2026-10-22T10:38:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
@@ -1106,22 +1112,6 @@
       "desc": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla’s 11,509 BTC and SpaceX’s 18,712 BTC—roughly $2.5 billion worth—onto a single balance sheet.",
       "date": "2026-10-21T16:16:05.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-      "link": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
-      "desc": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.",
-      "date": "2026-10-21T15:43:32.000Z",
-      "alsoAt": [
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1"
-        }
-      ],
       "termBoost": 0
     }
   ]
