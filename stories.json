@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T14:09:55.825Z",
+  "generatedAt": "2026-10-23T14:40:40.911Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 236,
@@ -43,6 +43,26 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SEC Adds Tokenization to 2027 Examination Priorities",
+      "link": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities",
+      "desc": "Clearing agencies and entities covered by Regulation SCI face explicit tokenization scrutiny, while transfer-agent technology reviews continue from 2026.",
+      "date": "2026-10-23T14:27:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Succinct Patches SP1 Bug That Could Let Invalid Proofs Pass",
+      "link": "https://thedefiant.io/news/security/succinct-patches-sp1-bug-that-could-let-invalid-proofs-pass",
+      "desc": "The flaw affected native Rust verification in versions 6.0.0–6.8.0. Onchain Groth16 and Plonk verification through Solidity verifiers was unaffected.",
+      "date": "2026-10-23T14:15:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -933,16 +953,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Stock Tokens Compared: Ownership and Exit at Robinhood, OKXICE and DTCC",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/stock-tokens-compared-ownership-and-exit-at-robinhood-okxice-and-dtcc",
-      "desc": "Robinhood’s offshore tokens reinvest dividends through a multiplier and redeem for cash. OKXICE’s proposed entitlements and DTCC’s institutional conversions follow different ownership and exit rules.",
-      "date": "2026-10-22T12:48:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
@@ -1135,16 +1145,6 @@
       "link": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
       "desc": "Two critical bugs in PHP, the language running most of the web, let strangers take over servers without a password. The patch is out, attacks started early, and governments pulled the plug.",
       "date": "2026-10-21T15:35:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-      "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-      "desc": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
-      "date": "2026-10-21T14:24:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
