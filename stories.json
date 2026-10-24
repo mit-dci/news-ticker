@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-24T13:07:49.862Z",
+  "generatedAt": "2026-10-24T13:34:53.819Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 249,
+  "filteredOut": 250,
   "errors": [],
   "dupsMerged": 9,
   "items": [
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "API Key Rotation: What Revocation and Redeployment Actually Change",
+      "link": "https://thedefiant.io/news/security/api-key-rotation-what-revocation-and-redeployment-actually-change",
+      "desc": "Scheduled replacement can let two keys overlap. Suspected exposure makes that overlap a security decision, not just a way to avoid downtime.",
+      "date": "2026-10-24T13:16:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -834,16 +844,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aztec Announces V6 Approval While Governance Dashboard Still Shows Voting Open",
-      "link": "https://thedefiant.io/news/blockchains/aztec-announces-v6-approval-while-governance-dashboard-still-shows-voting-open",
-      "desc": "The proposed upgrade speeds Ethereum-to-Aztec messaging and funds 30 days of V5 operation during migration; the dashboard lists October 26 for execution.",
-      "date": "2026-10-22T19:52:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
@@ -914,16 +914,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Fireblocks pours cold water on reports of $2.5bn acquisition talks with Visa",
-      "link": "https://www.finextra.com/newsarticle/48636/fireblocks-pours-cold-water-on-reports-of-25bn-acquisition-talks-with-visa?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Digital asset and stablecoin infrastructure provider Fireblocks says that reports that it is in talks to be acquired by Visa for $2.5 billion are \"news to us\".",
-      "date": "2026-10-22T15:46:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
@@ -962,9 +952,9 @@
       "date": "2026-10-22T14:41:00.000Z",
       "alsoAt": [
         {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926"
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48636/fireblocks-pours-cold-water-on-reports-of-25bn-acquisition-talks-with-visa?utm_medium=rssfinextra&utm_source=finextrafeed"
         }
       ],
       "termBoost": 0
