@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T05:08:38.585Z",
+  "generatedAt": "2026-10-25T05:38:07.361Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 273,
+  "filteredOut": 274,
   "errors": [],
-  "dupsMerged": 7,
+  "dupsMerged": 6,
   "items": [
     {
       "source": "defiant",
@@ -601,6 +601,16 @@
       "termBoost": 0
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+      "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+      "desc": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
+      "date": "2026-10-23T11:49:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Was crypto self-custody ever designed for beginners?",
@@ -770,22 +780,6 @@
       "desc": "The exchange says affected deposits were credited, but has not disclosed the size of its losses.",
       "date": "2026-10-23T06:50:59.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-      "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam’s gas changes and is coordinating responsible disclosure with affected projects.",
-      "date": "2026-10-23T05:09:41.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws"
-        }
-      ],
       "termBoost": 0
     }
   ]
