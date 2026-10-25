@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T10:08:06.663Z",
+  "generatedAt": "2026-10-25T10:36:23.885Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 282,
+  "filteredOut": 285,
   "errors": [],
-  "dupsMerged": 5,
+  "dupsMerged": 4,
   "items": [
     {
       "source": "defiant",
@@ -269,7 +269,13 @@
       "link": "https://bitcoinmagazine.com/news/ny-seeks-1-37-b-judgement-novatech",
       "desc": "Bitcoin Magazine NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme Two successive crypto frauds took investors for more than $1.1 billion. Now New York's attorney general is asking a court to make the operators pay it back—with interest. This post NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
       "date": "2026-10-23T21:21:46.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -585,22 +591,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "New York AG seeks $1.37B from NovaTech founders over Ponzi scheme",
-      "link": "https://cointelegraph.com/news/new-york-ag-novatech-founders-companies-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The request follows an August 2025 default judgment, with the AG also announcing nearly $6 million in settlements with four promoters.",
-      "date": "2026-10-23T12:33:37.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "US fintech Coast secures $35m for physical economy payments platform",
@@ -651,6 +641,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "HSBC launches first stablecoin",
+      "link": "https://www.finextra.com/newsarticle/48638/hsbc-launches-first-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Global bank HSBC has launched RedCoin, its first stablecoin, for public use.",
+      "date": "2026-10-23T11:09:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
@@ -677,32 +677,6 @@
       "link": "https://thedefiant.io/news/security/socket-finds-16-fake-rabby-and-okx-wallet-extensions-on-firefox",
       "desc": "Mozilla had unpublished the add-ons by Oct. 5, the security firm says. Removing them does not secure wallets whose recovery phrases were exposed.",
       "date": "2026-10-23T10:52:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "link": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-      "desc": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong’s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August.",
-      "date": "2026-10-23T10:22:56.000Z",
-      "alsoAt": [
-        {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/48638/hsbc-launches-first-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-      "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic’s bridge to mint 10 million tokens on BNB Smart Chain.",
-      "date": "2026-10-23T10:13:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
