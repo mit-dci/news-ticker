@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T02:17:52.898Z",
+  "generatedAt": "2026-10-26T02:49:05.456Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 318,
   "errors": [],
-  "dupsMerged": 0,
+  "dupsMerged": 1,
   "items": [
     {
       "source": "cointelegraph",
@@ -63,7 +63,13 @@
       "link": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
       "desc": "Keystone has said it deletes customer information 180 days after their orders in most cases, though X users have cast doubt on that claim.",
       "date": "2026-10-25T15:56:30.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -353,16 +359,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
       "desc": "Two subscriptions on Thursday nearly quadrupled the fund’s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
       "date": "2026-10-24T04:45:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Kraken Scraps Monero Withdrawal Questionnaires, Keeps XMR Listed",
-      "link": "https://thedefiant.io/news/cefi/kraken-scraps-monero-withdrawal-questionnaires-keeps-xmr-listed",
-      "desc": "Source-of-funds checks remain, but co-CEO Arjun Sethi says asking what clients will do with withdrawn coins is unacceptable.",
-      "date": "2026-10-24T02:22:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
