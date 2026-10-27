@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-27T11:39:31.597Z",
+  "generatedAt": "2026-10-27T12:14:35.876Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 263,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 14,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+      "desc": "Your day-ahead look for Oct. 27, 2026",
+      "date": "2026-10-27T12:00:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
+      "link": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
+      "desc": "NIP Group says Bitcoin mining has “earned its place” as the esports giant swaps 247 million shares for more machines.",
+      "date": "2026-10-27T11:46:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -133,7 +153,13 @@
       "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
       "desc": "Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received.",
       "date": "2026-10-27T06:14:41.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -763,26 +789,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-      "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-      "desc": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.",
-      "date": "2026-10-26T05:15:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys",
-      "link": "https://thedefiant.io/news/security/foundation-links-passport-phishing-emails-to-compromised-cloudflare-api-keys",
-      "desc": "Recipients reported personal and purchase details in the messages; the company said Passport hardware and funds were safe.",
-      "date": "2026-10-26T04:06:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
@@ -855,16 +861,6 @@
       "link": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
       "desc": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red.",
       "date": "2026-10-25T14:01:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
-      "link": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country’s central banker.",
-      "date": "2026-10-25T11:42:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
