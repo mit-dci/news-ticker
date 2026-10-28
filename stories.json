@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-10-28T15:06:35.362Z",
+  "generatedAt": "2026-10-28T15:34:05.221Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 246,
+  "filteredOut": 244,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 10,
   "items": [
+    {
+      "source": "bcannounce",
+      "sourceName": "BTC CORE ANN",
+      "title": "Bitcoin Core 32.1 released",
+      "link": "https://bitcoincore.org/en/2026/10/27/release-32.1/",
+      "desc": "Bitcoin Core version 32.1 is now available for download. See the release notes for more information about the bug fixes in this release. If you have any questions, please stop by the #bitcoin IRC chatroom (IRC, web) and we’ll do our best to help you.",
+      "date": "2026-10-27T04:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "BITCOIN CORE",
+          "sourceId": "bitcoincore",
+          "url": "https://bitcoincore.org/en/2026/10/27/release-32.1/"
+        }
+      ],
+      "termBoost": 0
+    },
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
@@ -29,12 +45,32 @@
       "termBoost": 3
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+      "link": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
+      "desc": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
+      "date": "2026-10-28T15:15:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
       "link": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
       "desc": "Avail launched ShieldTX, a Hyperliquid privacy tool that creates a separate wallet for each perpetual futures position.",
       "date": "2026-10-28T15:00:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Firms object to share being part of OKX-ICE tokenised stock trading venture",
+      "link": "https://www.finextra.com/newsarticle/48663/firms-object-to-share-being-part-of-okx-ice-tokenised-stock-trading-venture?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "A host of companies, including JPMorgan Chase, Goldman Sachs and Microsoft, have registered their objection to their shares trading on a planned tokenised platform developed by Nyse parent Intercontinental Exchange and crypto exchange OKX.",
+      "date": "2026-10-28T14:51:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -643,16 +679,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot",
-      "link": "https://bitcoinmagazine.com/news/man-admits-role-in-failed-bitcoin-plot",
-      "desc": "Bitcoin Magazine 27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot A St. Louis man pleaded guilty in Hartford to conspiracy to commit Hobbs Act robbery over a failed August 2024 plot to steal bitcoin from a Connecticut family. This post 27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-10-27T18:53:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
@@ -1047,16 +1073,6 @@
       "link": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
       "desc": "The agreement, which follows similar deals with MLB and NHL, establishes information-sharing to guard against insider trading as sports betting migrates to CFTC-regulated venues.",
       "date": "2026-10-26T20:36:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
-      "link": "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
-      "desc": "Experts say Brazil's prediction market ban left the odds in the hands of traders with little knowledge about the election.",
-      "date": "2026-10-26T18:46:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
