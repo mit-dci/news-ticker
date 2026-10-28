@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T09:08:08.088Z",
+  "generatedAt": "2026-10-28T09:33:06.665Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 253,
@@ -27,6 +27,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin has soared 50% on average after midterms. The S&P 500 has gained 15%.",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
+      "desc": "Both bitcoin and the S&P 500 have historically produced positive returns in a year after midterms. BTC's pattern, however, could also be explained by the four-year halving cycles.",
+      "date": "2026-10-28T09:15:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -91,7 +101,13 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/moody-s-assigns-ripple-s-rlusd-a2-and-p-1-deposit-ratings",
       "desc": "The ratings cover native RLUSD on XRP Ledger and Ethereum, with reserve safeguards weighed against holders’ exposure to an issuer bankruptcy.",
       "date": "2026-10-28T05:14:25.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -703,6 +719,16 @@
       "termBoost": 0
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847",
+      "desc": "Zcash co-founder Sean Bowe proposed ending automatic grants funding, citing a treasury valuation of more than $125 million.",
+      "date": "2026-10-27T12:05:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
@@ -816,22 +842,6 @@
       "desc": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.",
       "date": "2026-10-27T07:09:56.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-      "link": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
-      "desc": "Sean Bowe’s proposal would send the committee’s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received.",
-      "date": "2026-10-27T06:14:41.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -958,16 +968,6 @@
       "link": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
       "desc": "A confirmed exploit let rogue servers replace Electrum’s pending transactions, tricking users into redirecting Bitcoin to attacker addresses.",
       "date": "2026-10-26T17:41:21.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
-      "link": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
-      "desc": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook.",
-      "date": "2026-10-26T16:36:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
