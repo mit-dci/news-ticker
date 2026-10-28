@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T10:07:06.165Z",
+  "generatedAt": "2026-10-28T10:33:16.892Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 254,
+  "filteredOut": 252,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "finextra",
@@ -27,6 +27,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+      "link": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+      "desc": "Itaú Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.",
+      "date": "2026-10-28T10:07:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -66,6 +76,11 @@
       "desc": "Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, but it found no evidence of unauthorized access to its own systems.",
       "date": "2026-10-28T07:42:55.000Z",
       "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted"
+        },
         {
           "source": "THE DEFIANT",
           "sourceId": "defiant",
