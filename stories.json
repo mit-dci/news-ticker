@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:34:05.221Z",
+  "generatedAt": "2026-10-28T16:08:00.442Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 244,
@@ -43,6 +43,36 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Adyen Adds 1,100 Tech and Sales Hires to Capture Growth Opportunities",
+      "link": "https://www.pymnts.com/earnings/2026/adyen-adds-1100-tech-and-sales-hires-to-capture-growth-opportunities/",
+      "desc": "FinTech platform Adyen expects to add as many as 1,100 specialized engineering and go-to-market roles this year to meet the needs of its existing commercial momentum and to capture growth opportunities, Interim Chief Financial Officer Hwa Tsao said Wednesday (Oct. 28) in prepared remarks for the company’s third quarter earnings call. Tsao said this while […] The post Adyen Adds 1,100 Tech and Sales Hires to Capture Growth Opportunities appeared first on PYMNTS.com.",
+      "date": "2026-10-28T15:58:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
+      "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
+      "desc": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
+      "date": "2026-10-28T15:56:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "US Sanctions Crypto Facilitators Linked to North Korean IT Worker Schemes",
+      "link": "https://thedefiant.io/news/regulation/us-sanctions-crypto-facilitators-linked-to-north-korean-it-worker-schemes",
+      "desc": "The new SDN entries identify eight distinct Ethereum and Tron addresses, including one listed under both Russian intermediaries.",
+      "date": "2026-10-28T15:53:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -287,7 +317,13 @@
       "link": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
       "desc": "The ratings agency cited RLUSD's Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now.",
       "date": "2026-10-28T12:16:30.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -809,16 +845,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Myriad Voids 10 Prediction Markets After Admin-Wallet Compromise",
-      "link": "https://thedefiant.io/news/hacks/myriad-voids-10-prediction-markets-after-admin-wallet-compromise",
-      "desc": "Holders on both sides are promised automatic refunds at pre-attack prices, less any winnings already claimed.",
-      "date": "2026-10-27T16:41:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
@@ -1021,38 +1047,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
-      "link": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
-      "desc": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
-      "date": "2026-10-27T02:28:18.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
       "link": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks.",
       "date": "2026-10-27T01:55:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
-      "link": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
-      "desc": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
-      "date": "2026-10-27T01:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
