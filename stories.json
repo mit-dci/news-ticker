@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T16:08:00.442Z",
+  "generatedAt": "2026-10-28T16:34:03.721Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 244,
+  "filteredOut": 240,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "bcannounce",
@@ -18,6 +18,16 @@
           "source": "BITCOIN CORE",
           "sourceId": "bitcoincore",
           "url": "https://bitcoincore.org/en/2026/10/27/release-32.1/"
+        },
+        {
+          "source": "BTC CORE ANN",
+          "sourceId": "bcannounce",
+          "url": "https://bitcoincore.org/en/2026/10/28/release-31.2/"
+        },
+        {
+          "source": "BITCOIN CORE",
+          "sourceId": "bitcoincore",
+          "url": "https://bitcoincore.org/en/2026/10/28/release-31.2/"
         }
       ],
       "termBoost": 0
@@ -43,6 +53,36 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
+      "link": "https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock",
+      "desc": "Former Aptos advisor \"Buzz” has left the crypto project and is turning his attention to Facebook's parent company Meta—here's why.",
+      "date": "2026-10-28T16:22:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Pump.fun Sets Nov. 9 Start for Elysium Trading in Its App",
+      "link": "https://thedefiant.io/news/defi/pump-fun-sets-nov-9-start-for-elysium-trading-in-its-app",
+      "desc": "The planned addition follows the app's live Hyperliquid perps rollout; Elysium is a separate rollup that settles to HyperEVM.",
+      "date": "2026-10-28T16:16:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+      "link": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
+      "desc": "Galaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added.",
+      "date": "2026-10-28T16:15:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "pymnts",
@@ -831,16 +871,6 @@
       "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
       "desc": "USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binance’s USDT/BRL market tripled while the global BTC/USDT pair fell.",
       "date": "2026-10-27T16:59:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Predict.fun Pledges Full Refunds for Roughly 400,000 USDT Theft",
-      "link": "https://thedefiant.io/news/hacks/predict-fun-pledges-full-refunds-for-roughly-400-000-usdt-theft",
-      "desc": "The platform says a preliminary investigation points to a possible compromise of its third-party API documentation site, which it has taken offline.",
-      "date": "2026-10-27T16:50:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
