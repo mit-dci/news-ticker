@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T08:36:00.239Z",
+  "generatedAt": "2026-10-28T09:08:08.088Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 253,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "finextra",
@@ -27,6 +27,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+      "link": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
+      "desc": "The firms announced the agreement at Meridian 2026, the Stellar Development Foundation’s annual conference in Portugal.",
+      "date": "2026-10-28T09:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -832,11 +842,6 @@
       "desc": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
       "date": "2026-10-27T02:28:18.000Z",
       "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank"
-        },
         {
           "source": "DECRYPT",
           "sourceId": "decrypt",
