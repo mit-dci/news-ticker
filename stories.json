@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T17:06:39.640Z",
+  "generatedAt": "2026-10-28T17:34:19.247Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 238,
+  "filteredOut": 239,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "bcannounce",
@@ -65,6 +65,36 @@
       "termBoost": 3
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Osmosis Restores AllBTC Backing With Seized Tokens and Community Funds",
+      "link": "https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds",
+      "desc": "Community funds absorbed a 17.19 BTC-equivalent shortfall, while app deposits and withdrawals were still awaiting reopening.",
+      "date": "2026-10-28T17:29:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report",
+      "link": "https://bitcoinmagazine.com/news/google-debuting-a-bank-grade-crypto-tool",
+      "desc": "Bitcoin Magazine Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report Google is previewing a crypto custody system that splits private keys across separate environments, with several banks testing it ahead of a planned early 2027 launch. This post Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-10-28T17:26:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Why a Liquidity Pool Can Earn Fees and Still Trail Holding",
+      "link": "https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding",
+      "desc": "A hypothetical $200 position grows to $400 before fees, but unchanged holdings reach $500 at the same final prices.",
+      "date": "2026-10-28T17:11:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
@@ -88,7 +118,7 @@
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-      "link": "https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
       "date": "2026-10-28T16:53:26.000Z",
       "alsoAt": [],
@@ -355,32 +385,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Coinbase Customer Data Exposed in Vendor’s Breach",
-      "link": "https://www.pymnts.com/cybersecurity/2026/coinbase-customer-data-exposed-in-vendors-breach/",
-      "desc": "Coinbase says customer contact data was impacted in a breach at one of its vendors. The cryptocurrency exchange acknowledged the incident late Tuesday (Oct. 27) while denying reports that it had suffered a breach on its end. “Amplitude, an analytics vendor, experienced a security incident which impacted a small subset of Coinbase customer contact data, among other […] The post Coinbase Customer Data Exposed in Vendor’s Breach appeared first on PYMNTS.com.",
-      "date": "2026-10-28T12:48:13.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Coinbase Lists Ripple’s RLUSD With Transfers on Three Networks",
@@ -583,6 +587,27 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Coinbase denies systems breach, says vendor exposed customer data",
+      "link": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Coinbase said that an incident at analytics vendor Amplitude exposed some customers’ contact data, but it found no evidence of unauthorized access to its own systems.",
+      "date": "2026-10-28T07:42:55.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Zilliqa CEO Steps Down as Board Takes Oversight Amid Security Probe",
@@ -695,6 +720,16 @@
       "termBoost": 0
     },
     {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #428 Recap Podcast",
+      "link": "https://bitcoinops.org/en/podcast/2026/10/27/",
+      "desc": "Gustavo Flores Echaiz and Brandon Black are joined by Adam Gibson, Vincenzo Palazzo, and João Dias to discuss Newsletter #428.",
+      "date": "2026-10-27T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Liquid Reserve Gap Narrows to 600 BTC After Test Transfer",
@@ -775,16 +810,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-rests-near-80500-midterms",
-      "desc": "Bitcoin Magazine Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom Bitcoin price recovered from an early-morning low near $79,400 to trade around $80,500 on Tuesday, holding above $80,000 ahead of this week’s Fed decision and the November midterms. This post Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-10-27T19:48:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
@@ -861,26 +886,6 @@
       "link": "https://thedefiant.io/news/defi/uniswap-fee-switch-deployment-status-tokenjars-and-uni-burns",
       "desc": "A version-and-chain reference separates governance approval, activated fee settings, collected assets and completed UNI burns.",
       "date": "2026-10-27T17:28:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "US Charges Six in Alleged Madagascar NFT Wallet-Draining Scheme",
-      "link": "https://thedefiant.io/news/security/us-charges-six-in-alleged-madagascar-nft-wallet-draining-scheme",
-      "desc": "An FBI affidavit estimates at least $516,695 in losses across 74 victim-linked wallets and describes unlimited USDT spending approvals.",
-      "date": "2026-10-27T17:26:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aave vs. Bitso USDC Prime: What Lenders Hold and What Limits Exits",
-      "link": "https://thedefiant.io/news/defi/aave-vs-bitso-usdc-prime-what-lenders-hold-and-what-limits-exits",
-      "desc": "A direct Aave deposit earns through one reserve; Bitso’s Morpho vault delegates allocations to a curator. Neither balance guarantees immediate USDC withdrawals.",
-      "date": "2026-10-27T17:14:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1094,16 +1099,6 @@
           "url": "https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin ETFs claw back $110M after $774M exit",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday’s rebound.",
-      "date": "2026-10-27T07:35:37.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
