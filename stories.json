@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T17:34:19.247Z",
+  "generatedAt": "2026-10-28T18:08:47.211Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 239,
+  "filteredOut": 236,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "bcannounce",
@@ -22,12 +22,22 @@
         {
           "source": "BTC CORE ANN",
           "sourceId": "bcannounce",
+          "url": "https://bitcoincore.org/en/2026/10/28/release-29.5/"
+        },
+        {
+          "source": "BTC CORE ANN",
+          "sourceId": "bcannounce",
           "url": "https://bitcoincore.org/en/2026/10/28/release-30.4/"
         },
         {
           "source": "BTC CORE ANN",
           "sourceId": "bcannounce",
           "url": "https://bitcoincore.org/en/2026/10/28/release-31.2/"
+        },
+        {
+          "source": "BITCOIN CORE",
+          "sourceId": "bitcoincore",
+          "url": "https://bitcoincore.org/en/2026/10/28/release-29.5/"
         },
         {
           "source": "BITCOIN CORE",
@@ -63,6 +73,42 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Fed leaves interest rates unchanged, as expected",
+      "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
+      "desc": "A rate hike in December remains likely as the U.S. central bank continues to focus on inflation, which remains well above its 2% target.",
+      "date": "2026-10-28T18:00:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Ripple Brings Its Stablecoin to Coinbase’s Trading Platforms",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/ripple-brings-its-stablecoin-to-coinbases-trading-platforms/",
+      "desc": "Ripple has begun listing its RLUSD stablecoin on Coinbase’s institutional and retail platforms. Clients can now trade and manage RLUSD through Coinbase Prime, Coinbase Exchange, and the Coinbase Retail application, Ripple announced Wednesday (Oct. 28), with availability on Coinbase Global Exchange, including the use of RLUSD as trading collateral, set to follow. “Institutional appetite for compliant, high-quality stablecoins is clear,” Jack […] The post Ripple Brings Its Stablecoin to Coinbase’s Trading Platforms appeared first on PYMNTS.com.",
+      "date": "2026-10-28T17:47:26.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures",
+      "link": "https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures",
+      "desc": "Bitcoin Magazine Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures Lightning.news data shared with Bitcoin Magazine puts net 2026 crypto hack losses at roughly $2.35 billion after freezes and returns. September alone accounted for about $768 million, led by Bitget’s September 24 hot-and-warm wallet drain and Liquid Network’s Elements bug. This post Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures first appeared on Bitcoin Magazine and is written by Juan Galt.",
+      "date": "2026-10-28T17:43:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -165,16 +211,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
-      "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
-      "desc": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
-      "date": "2026-10-28T15:56:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "US Sanctions Crypto Facilitators Linked to North Korean IT Worker Schemes",
@@ -207,8 +243,8 @@
     {
       "source": "finextra",
       "sourceName": "FINEXTRA",
-      "title": "Firms object to share being part of OKX-ICE tokenised stock trading venture",
-      "link": "https://www.finextra.com/newsarticle/48663/firms-object-to-share-being-part-of-okx-ice-tokenised-stock-trading-venture?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "title": "Firms object to shares being part of OKX-ICE tokenised stock trading venture",
+      "link": "https://www.finextra.com/newsarticle/48663/firms-object-to-shares-being-part-of-okx-ice-tokenised-stock-trading-venture?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "A host of companies, including JPMorgan Chase, Goldman Sachs and Microsoft, have registered their objection to their shares trading on a planned tokenised platform developed by Nyse parent Intercontinental Exchange and crypto exchange OKX.",
       "date": "2026-10-28T14:51:00.000Z",
       "alsoAt": [],
@@ -291,16 +327,6 @@
       "link": "https://bitcoinmagazine.com/videos/samara-asset-group-ceo-bitcoin-treasury-companies-a-disservice-to-shareholders",
       "desc": "▶Bitcoin Magazine Samara Asset Group CEO: Bitcoin Treasury Companies a “Disservice to Shareholders” Patrick Lowry argues 'digital gold' was flawed marketing, explaining why the market rejects pure treasury plays and how Samara deploys BTC as working capital. This post Samara Asset Group CEO: Bitcoin Treasury Companies a “Disservice to Shareholders” first appeared on Bitcoin Magazine and is written by Patrick Green.",
       "date": "2026-10-28T13:30:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In",
-      "link": "https://bitcoinmagazine.com/videos/btc-hash-ribbon-signal-flipped-bitcoin-miners-show-the-bottom-might-be-in",
-      "desc": "▶Bitcoin Magazine BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In Sean Hagan breaks down the hash ribbon recovery, historical 72% edge, and miner stress easing, while questioning if voluntary miner exits distort the signal. This post BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In first appeared on Bitcoin Magazine and is written by Patrick Green.",
-      "date": "2026-10-28T13:20:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -926,13 +952,7 @@
       "link": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.",
       "date": "2026-10-27T16:37:15.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
