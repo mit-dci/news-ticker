@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T18:08:47.211Z",
+  "generatedAt": "2026-10-28T18:35:50.762Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 236,
@@ -9,19 +9,14 @@
     {
       "source": "bcannounce",
       "sourceName": "BTC CORE ANN",
-      "title": "Bitcoin Core 32.1 released",
-      "link": "https://bitcoincore.org/en/2026/10/27/release-32.1/",
-      "desc": "Bitcoin Core version 32.1 is now available for download. See the release notes for more information about the bug fixes in this release. If you have any questions, please stop by the #bitcoin IRC chatroom (IRC, web) and we’ll do our best to help you.",
-      "date": "2026-10-27T04:00:00.000Z",
+      "title": "Bitcoin Core 29.5 released",
+      "link": "https://bitcoincore.org/en/2026/10/28/release-29.5/",
+      "desc": "Bitcoin Core version 29.5 is now available for download. See the release notes for more information about the bug fixes in this release. If you have any questions, please stop by the #bitcoin IRC chatroom (IRC, web) and we’ll do our best to help you.",
+      "date": "2026-10-28T04:00:00.000Z",
       "alsoAt": [
         {
           "source": "BITCOIN CORE",
           "sourceId": "bitcoincore",
-          "url": "https://bitcoincore.org/en/2026/10/27/release-32.1/"
-        },
-        {
-          "source": "BTC CORE ANN",
-          "sourceId": "bcannounce",
           "url": "https://bitcoincore.org/en/2026/10/28/release-29.5/"
         },
         {
@@ -37,17 +32,44 @@
         {
           "source": "BITCOIN CORE",
           "sourceId": "bitcoincore",
-          "url": "https://bitcoincore.org/en/2026/10/28/release-29.5/"
-        },
-        {
-          "source": "BITCOIN CORE",
-          "sourceId": "bitcoincore",
           "url": "https://bitcoincore.org/en/2026/10/28/release-30.4/"
         },
         {
           "source": "BITCOIN CORE",
           "sourceId": "bitcoincore",
           "url": "https://bitcoincore.org/en/2026/10/28/release-31.2/"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bcannounce",
+      "sourceName": "BTC CORE ANN",
+      "title": "Slow unbounded memory growth on paused pre-BIP31 peers",
+      "link": "https://bitcoincore.org/en/2026/10/28/disclose-fpausesend-oom/",
+      "desc": "Bitcoin Core queues announcements for all peers, including paused ones. Pre-BIP31 peers could stay paused forever and let the queue grow unboundedly. A fix for this issue was released in Bitcoin Core versions 29.5, 30.4, 31.2 and 32.1. This issue is considered Medium severity and easily discoverable. Details Bitcoin Core implements backpressure for slow to read peers. Once the queue of messages to send a peer grows past a certain limit, it will mark that peer as paused for send purposes. However, it will still add some announcements to the queue, in particular the frequent transaction INVs. This is normally not an issue, as peers which don’t respond to a (nonced) ping message within 20 minutes get disconnected. However, this disconnection is not enabled for peers that don’t support BIP 31 nonced ping messages. Therefore, a malicious peer could pretend to not support those and strategically delay reading messages to cause the queue to slowly grow without limit. Memory usage could grow at a rate of up to 2MB per hour per inbound peer, and 5MB per hour per outbound peer. Nodes running with -blocksonly are much less affected, as transaction announcements make up the bulk of the queued messages. Attribution This issue was discovered through an automated LLM scan, as part of Elias Rohrer’s Project Loupe at Spiral. The Loupe finding was validated and surfaced to the Bitcoin Core team by Gregory Sanders. This issue was independently re-discovered by L0rinc. Timeline 2026-09-15 Project Loupe identifies the issue and notifies Greg Sanders, who validates the report and notifies the Bitcoin Core security team on the same day. 2026-09-21 L0rinc privately notifies Gregory Sanders, who replies that issue was already reported. 2026-10-26 Antoine Poinsot opens PR #36667 to mitigate the vulnerability. 2026-10-26 PR #36667 is merged and backported to versions 29, 30, 31, and 32. 2026-10-27 Bitcoin Core 31.2 and 32.1 are released with a fix 2026-10-28 Bitcoin Core 29.5, 30.4 are released with a fix 2026-10-28 Public disclosure.",
+      "date": "2026-10-28T04:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "BITCOIN CORE",
+          "sourceId": "bitcoincore",
+          "url": "https://bitcoincore.org/en/2026/10/28/disclose-fpausesend-oom/"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bcannounce",
+      "sourceName": "BTC CORE ANN",
+      "title": "Unbounded memory growth through TCP urgent data on non-Linux systems",
+      "link": "https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/",
+      "desc": "On platforms other than Linux, a malicious peer could cause a node to run out of memory by sending TCP urgent (out-of-band) data. A fix for this issue was released in Bitcoin Core versions 29.5, 30.4, 31.2 and 32.1. This issue is considered Medium severity and easily discoverable. Details Bitcoin Core uses a different backend (based on select()) to monitor socket events on platforms other than Linux (where it uses poll()). This issue only affects the select() code path. Bitcoin Core users on Linux are therefore not affected by this issue. Bitcoin Core limits the amount of data it will queue for processing per peer, by temporarily pausing reads when the queue exceeds a certain size. The select() socket monitoring backend watched sockets for exceptional conditions regardless of whether reads were paused. In handling that event, a read on the socket would be triggered, which could queue up more data for processing for that peer, without limit. That event can be triggered by sending TCP urgent data. This allows a paused peer to bypass the backpressure mechanism and queue an unbounded amount of data for processing. In practice, this means a malicious peer can trivially crash any Windows, macOS or BSD node it is connected to. Attribution This issue was discovered through an automated LLM scan, as part of Elias Rohrer’s Project Loupe at Spiral. The Loupe finding was validated and surfaced to the Bitcoin Core team by Gregory Sanders. Timeline 2026-10-23 Project Loupe identifies the issue and notifies Greg Sanders, who validates the report and notifies the Bitcoin Core security team on the same day. 2026-10-26 Antoine Poinsot opens PR #36665 to fix this issue. 2026-10-26 PR #36665 is merged and backported to versions 29, 30, 31, and 32. 2026-10-27 Bitcoin Core 31.2 and 32.1 are released with a fix 2026-10-28 Bitcoin Core 29.5, 30.4 are released with a fix 2026-10-28 Public disclosure.",
+      "date": "2026-10-28T04:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "BITCOIN CORE",
+          "sourceId": "bitcoincore",
+          "url": "https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/"
         }
       ],
       "termBoost": 0
@@ -73,6 +95,36 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
+      "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+      "desc": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
+      "date": "2026-10-28T18:25:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Fed Holds Rates at 3.75%-4% as Bitcoin Gives Back Brief Gain",
+      "link": "https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain",
+      "desc": "Lisa Cook and Beth Hammack dissented in favor of a quarter-point increase, following September's unanimous rate hike.",
+      "date": "2026-10-28T18:12:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto isn’t a partisan fight, proven by data",
+      "link": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
+      "desc": "Treating crypto as a political battleground only makes it harder to build the secure, transparent, American-made financial system that most Americans say they want, argues DeFi Education Fund’s Jennifer Rosenthal.",
+      "date": "2026-10-28T18:11:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -331,16 +383,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Archax brings perpetual tokenised government bill product to Eurozone",
-      "link": "https://www.finextra.com/pressarticle/111481/archax-brings-perpetual-tokenised-government-bill-product-to-eurozone?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Archax, the UK/EU/US regulated digital asset platform, today announced €GOVY, a euro-denominated version of its perpetual tokenised government bill product, on the Stellar network. The €GOVY launch was revealed at Meridian, the Stellar Development Foundation’s annual conference, in Lisbon.",
-      "date": "2026-10-28T13:20:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Tokenized Stock and ETF Roster: Ondo, DTCC and OKXICE",
@@ -403,7 +445,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
       "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
       "desc": "Nearly half the companies on the venture’s original roster have now objected to their shares trading on the planned blockchain-based venue.",
       "date": "2026-10-28T12:59:36.000Z",
@@ -434,16 +476,6 @@
           "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Digital asset self-custodial platform Bron joins Hashgraph Association",
-      "link": "https://www.finextra.com/pressarticle/111479/digital-asset-self-custodial-platform-bron-joins-hashgraph-association?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Bron, a next-gen self-custodial platform for securely owning digital assets, has joined The Hashgraph Association’s Global Membership Program, growing its presence and support within the Hedera ecosystem.",
-      "date": "2026-10-28T12:14:00.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -762,7 +794,13 @@
       "link": "https://thedefiant.io/news/security/liquid-reserve-gap-narrows-to-600-btc-after-test-transfer",
       "desc": "Samson Mow says the remaining funds will arrive in coming days; the federation's recovery plan requires full backing before direct peg-outs resume.",
       "date": "2026-10-27T20:45:58.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -826,6 +864,16 @@
       "termBoost": 0
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ripio Seeks Brazil Crypto Broker License Ahead of Filing Deadline",
+      "link": "https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline",
+      "desc": "The company also requested foreign-exchange authorization, while its existing Ripio Trade platform is scheduled to close on Nov. 30.",
+      "date": "2026-10-27T20:13:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
@@ -866,16 +914,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Circle’s Arc Tops $1 Billion in USDC",
-      "link": "https://thedefiant.io/news/blockchains/circle-s-arc-tops-1-billion-in-usdc",
-      "desc": "Stablecoin market cap rose 32% in a week in DefiLlama’s daily data, while four addresses hold about 73% of the network’s USDC.",
-      "date": "2026-10-27T18:16:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
@@ -902,16 +940,6 @@
       "link": "https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
       "desc": "A collaboration with payments-tech firm ACI Worldwide will pilot folding USDC settlement into Colombia’s instant-payments network.",
       "date": "2026-10-27T17:45:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Uniswap Fee Switch: Deployment Status, TokenJars and UNI Burns",
-      "link": "https://thedefiant.io/news/defi/uniswap-fee-switch-deployment-status-tokenjars-and-uni-burns",
-      "desc": "A version-and-chain reference separates governance approval, activated fee settings, collected assets and completed UNI burns.",
-      "date": "2026-10-27T17:28:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -952,16 +980,6 @@
       "link": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.",
       "date": "2026-10-27T16:37:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-      "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
-      "desc": "Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year.",
-      "date": "2026-10-27T16:35:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1103,22 +1121,6 @@
       "desc": "Bloom pledged to reimburse nine traders after $953,000 was drained from 48 wallets, saying no private keys were accessed or compromised.",
       "date": "2026-10-27T09:07:37.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Binance files for Brazil crypto license ahead of Friday deadline",
-      "link": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services.",
-      "date": "2026-10-27T08:04:21.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline"
-        }
-      ],
       "termBoost": 0
     },
     {
