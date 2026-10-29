@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:07:07.124Z",
+  "generatedAt": "2026-10-29T05:33:49.074Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 243,
@@ -100,6 +100,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ethereum clients patch flaw that could let attackers redirect ETH rewards",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+      "desc": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed.",
+      "date": "2026-10-29T05:30:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -806,6 +816,11 @@
       "date": "2026-10-28T07:42:55.000Z",
       "alsoAt": [
         {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48662/coinbase-says-customer-contact-data-exposed-in-third-party-breach?utm_medium=rssfinextra&utm_source=finextrafeed"
+        },
+        {
           "source": "DECRYPT",
           "sourceId": "decrypt",
           "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted"
@@ -831,22 +846,6 @@
       "desc": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US.",
       "date": "2026-10-28T03:55:57.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
-      "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
-      "desc": "The crypto exchange says an incident at analytics firm Amplitude exposed some customer contact information, but insists its own systems were not breached.",
-      "date": "2026-10-28T03:11:14.000Z",
-      "alsoAt": [
-        {
-          "source": "FINEXTRA",
-          "sourceId": "finextra",
-          "url": "https://www.finextra.com/newsarticle/48662/coinbase-says-customer-contact-data-exposed-in-third-party-breach?utm_medium=rssfinextra&utm_source=finextrafeed"
-        }
-      ],
       "termBoost": 0
     },
     {
