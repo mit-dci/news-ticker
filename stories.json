@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-29T15:07:01.874Z",
+  "generatedAt": "2026-10-29T15:33:17.219Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 230,
+  "filteredOut": 229,
   "errors": [],
   "dupsMerged": 13,
   "items": [
@@ -50,7 +50,7 @@
     {
       "source": "bcannounce",
       "sourceName": "BTC CORE ANN",
-      "title": "Slow unbounded memory growth on paused pre-BIP31 peers",
+      "title": "CVE-2026-117349 - Slow unbounded memory growth on paused pre-BIP31 peers",
       "link": "https://bitcoincore.org/en/2026/10/28/disclose-fpausesend-oom/",
       "desc": "Bitcoin Core queues announcements for all peers, including paused ones. Pre-BIP31 peers could stay paused forever and let the queue grow unboundedly. A fix for this issue was released in Bitcoin Core versions 29.5, 30.4, 31.2 and 32.1. This issue is considered Medium severity and easily discoverable. Details Bitcoin Core implements backpressure for slow to read peers. Once the queue of messages to send a peer grows past a certain limit, it will mark that peer as paused for send purposes. However, it will still add some announcements to the queue, in particular the frequent transaction INVs. This is normally not an issue, as peers which don’t respond to a (nonced) ping message within 20 minutes get disconnected. However, this disconnection is not enabled for peers that don’t support BIP 31 nonced ping messages. Therefore, a malicious peer could pretend to not support those and strategically delay reading messages to cause the queue to slowly grow without limit. Memory usage could grow at a rate of up to 2MB per hour per inbound peer, and 5MB per hour per outbound peer. Nodes running with -blocksonly are much less affected, as transaction announcements make up the bulk of the queued messages. Attribution This issue was discovered through an automated LLM scan, as part of Elias Rohrer’s Project Loupe at Spiral. The Loupe finding was validated and surfaced to the Bitcoin Core team by Gregory Sanders. This issue was independently re-discovered by L0rinc. Timeline 2026-09-15 Project Loupe identifies the issue and notifies Greg Sanders, who validates the report and notifies the Bitcoin Core security team on the same day. 2026-09-21 L0rinc privately notifies Gregory Sanders, who replies that issue was already reported. 2026-10-26 Antoine Poinsot opens PR #36667 to mitigate the vulnerability. 2026-10-26 PR #36667 is merged and backported to versions 29, 30, 31, and 32. 2026-10-27 Bitcoin Core 31.2 and 32.1 are released with a fix 2026-10-28 Bitcoin Core 29.5, 30.4 are released with a fix 2026-10-28 Public disclosure.",
       "date": "2026-10-28T04:00:00.000Z",
@@ -66,7 +66,7 @@
     {
       "source": "bcannounce",
       "sourceName": "BTC CORE ANN",
-      "title": "Unbounded memory growth through TCP urgent data on non-Linux systems",
+      "title": "CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems",
       "link": "https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/",
       "desc": "On platforms other than Linux, a malicious peer could cause a node to run out of memory by sending TCP urgent (out-of-band) data. A fix for this issue was released in Bitcoin Core versions 29.5, 30.4, 31.2 and 32.1. This issue is considered Medium severity and easily discoverable. Details Bitcoin Core uses a different backend (based on select()) to monitor socket events on platforms other than Linux (where it uses poll()). This issue only affects the select() code path. Bitcoin Core users on Linux are therefore not affected by this issue. Bitcoin Core limits the amount of data it will queue for processing per peer, by temporarily pausing reads when the queue exceeds a certain size. The select() socket monitoring backend watched sockets for exceptional conditions regardless of whether reads were paused. In handling that event, a read on the socket would be triggered, which could queue up more data for processing for that peer, without limit. That event can be triggered by sending TCP urgent data. This allows a paused peer to bypass the backpressure mechanism and queue an unbounded amount of data for processing. In practice, this means a malicious peer can trivially crash any Windows, macOS or BSD node it is connected to. Attribution This issue was discovered through an automated LLM scan, as part of Elias Rohrer’s Project Loupe at Spiral. The Loupe finding was validated and surfaced to the Bitcoin Core team by Gregory Sanders. Timeline 2026-10-23 Project Loupe identifies the issue and notifies Greg Sanders, who validates the report and notifies the Bitcoin Core security team on the same day. 2026-10-26 Antoine Poinsot opens PR #36665 to fix this issue. 2026-10-26 PR #36665 is merged and backported to versions 29, 30, 31, and 32. 2026-10-27 Bitcoin Core 31.2 and 32.1 are released with a fix 2026-10-28 Bitcoin Core 29.5, 30.4 are released with a fix 2026-10-28 Public disclosure.",
       "date": "2026-10-28T04:00:00.000Z",
@@ -104,6 +104,42 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
+      "title": "Polymarket Probes Suspicious Israeli Election Trades",
+      "link": "https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades",
+      "desc": "Some accounts collectively cashed out more than $100,000, Bloomberg reported. Polymarket’s rules allow wallet bans, legal action and law-enforcement referrals.",
+      "date": "2026-10-29T15:14:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Uphold Launches RLUSD Earn With Up to 7% Variable APY",
+      "link": "https://thedefiant.io/news/defi/uphold-launches-rlusd-earn-with-up-to-7-variable-apy",
+      "desc": "The Sentora-curated product routes deposits into DeFi lending, with assets moving off Uphold and withdrawals dependent on market liquidity.",
+      "date": "2026-10-29T15:10:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
+      "link": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
+      "desc": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 38.",
+      "date": "2026-10-29T15:07:15.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/walmart-blocks-third-party-stock-tokens-on-planned-okxice-venue"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
       "title": "ICE Plans US-Regulated Hyperliquid Perps With TradeXYZ",
       "link": "https://thedefiant.io/news/defi/ice-plans-us-regulated-hyperliquid-perps-with-tradexyz",
       "desc": "ICE is taking a minority stake in TradeXYZ, with retail access planned through regulated futures brokers including its OKX joint venture.",
@@ -118,6 +154,26 @@
       "link": "https://bitcoinmagazine.com/news/russia-approves-securities-oversee-crypto",
       "desc": "Bitcoin Magazine Russia Approves Securities Group to Oversee Crypto Exchanges The Bank of Russia approved NAUFOR as the country’s first self-regulatory organization for crypto exchanges and digital depositories. This post Russia Approves Securities Group to Oversee Crypto Exchanges first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-10-29T15:03:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "French Senate adopts bill for automatic sharing of crypto tax data",
+      "link": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The French Senate adopted a bill authorizing the automatic exchange of crypto-asset tax information between international tax authorities, pending completion of the legislative process.",
+      "date": "2026-10-29T15:00:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+      "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
+      "desc": "Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.",
+      "date": "2026-10-29T14:55:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -489,16 +545,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Hong Kong-based TCMS teams up with Tribe Payments as its Apac acquirer processing partner",
-      "link": "https://www.finextra.com/pressarticle/111499/hong-kong-based-tcms-teams-up-with-tribe-payments-as-its-apac-acquirer-processing-partner?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "TCM Solutions Limited (TCMS), a Hong Kong-based merchant acquirer, has partnered with Tribe Payments, a global payments fintech specialising in issuer and acquirer processing, to power its acquirer processing as it expands its business across Asia-Pacific.",
-      "date": "2026-10-29T11:24:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Curve Finance launches on Stellar in first native deployment outside EVM ecosystem",
@@ -755,16 +801,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "SME lender Lovey secures £250m senior secured credit facility",
-      "link": "https://www.finextra.com/pressarticle/111497/sme-lender-lovey-secures-250m-senior-secured-credit-facility?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Lovey, the UK's fastest-growing fintech and financial services provider, specialising in SME lending and brokerage, has today announced a senior secured credit facility of up to £250 million with Pollen Street Capital (\"Pollen Street\"), an alternative asset manager.",
-      "date": "2026-10-28T19:56:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
@@ -985,16 +1021,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Kraken to Cancel Orders on 176 Pairs in Synthetic Trading Shift",
-      "link": "https://thedefiant.io/news/cefi/kraken-to-cancel-orders-on-176-pairs-in-synthetic-trading-shift",
-      "desc": "Replacement markets will charge taker fees even on limit orders, and customers must submit fresh orders after the migration.",
-      "date": "2026-10-28T14:01:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
@@ -1061,13 +1087,7 @@
       "link": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "A Euronext spokesperson told Cointelegraph the suspension was due to “operational settlement requirements” and remains in effect until settlement operations are supported by the CSD.",
       "date": "2026-10-28T11:24:07.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/euronext-restarts-coinshares-zcash-etp-after-debut-day-halt"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1157,16 +1177,6 @@
       "link": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26",
       "desc": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26.",
       "date": "2026-10-27T18:46:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
-      "link": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
-      "desc": "Attackers obtained the factory key that proves Keystone's hardware wallets are genuine, and 25,964 buyer records were affected. The company says recovery phrases and private keys were not involved.",
-      "date": "2026-10-27T18:16:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
