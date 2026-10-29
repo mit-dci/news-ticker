@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T23:06:12.024Z",
+  "generatedAt": "2026-10-29T23:33:41.410Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 222,
+  "filteredOut": 225,
   "errors": [],
-  "dupsMerged": 18,
+  "dupsMerged": 17,
   "items": [
     {
       "source": "bcannounce",
@@ -97,6 +97,16 @@
       "termBoost": 3
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Security Incident: Withdrawal Status, Timeline and FAQs",
+      "link": "https://thedefiant.io/news/hacks/binance-security-incident-withdrawal-status-timeline-and-faqs",
+      "desc": "Binance says customer funds are safe. Issuer freezes restrict token movements but do not establish how much has been recovered or ultimately lost.",
+      "date": "2026-10-29T23:32:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
@@ -157,6 +167,16 @@
       "termBoost": 0
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+      "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+      "desc": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
+      "date": "2026-10-29T21:36:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Polymarket Adds 15-Minute Gold and Silver Bets With Chainlink",
@@ -169,17 +189,11 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Binance hit by $5.8B hack as Tether and Circle freeze billions",
+      "title": "Live Updates: Binance hit by largest crypto hack in history",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Binance is investigating a multibillion-dollar security breach involving its Ethereum wallets, with Tether and Circle freezing more than $2.36 billion in stablecoins.",
+      "desc": "Follow live updates as Binance investigates a multibillion-dollar hack and Tether and Circle freeze more than $2.36 billion in stablecoins.",
       "date": "2026-10-29T21:24:36.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -205,7 +219,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Binance loses $5.7 billion in largest crypto hack to date",
+      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
       "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
       "desc": "Crypto prices are sliding on the news, with bitcoin falling back to $79,000.",
       "date": "2026-10-29T21:12:45.000Z",
@@ -613,16 +627,6 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/walmart-joins-okxice-objectors-as-issuer-total-reaches-38",
       "desc": "Disclosed objections now cover 34 of the venue’s 63 originally proposed stock symbols, leaving 29 without one.",
       "date": "2026-10-29T15:34:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Polymarket Probes Suspicious Israeli Election Trades",
-      "link": "https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades",
-      "desc": "Some accounts collectively cashed out more than $100,000, Bloomberg reported. Polymarket’s rules allow wallet bans, legal action and law-enforcement referrals.",
-      "date": "2026-10-29T15:14:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1092,16 +1096,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed",
-      "desc": "Bitcoin Magazine Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote Bitcoin price held near $81,000 after the Federal Reserve kept rates at 3.75% to 4% in a 10-2 vote. This post Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-10-28T20:03:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
@@ -1112,32 +1106,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
-      "link": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relationship with Caroline Ellison.",
-      "date": "2026-10-28T19:10:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
       "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
       "desc": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
       "date": "2026-10-28T18:25:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures",
-      "link": "https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures",
-      "desc": "Bitcoin Magazine Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures Lightning.news data shared with Bitcoin Magazine puts net 2026 crypto hack losses at roughly $2.35 billion after freezes and returns. September alone accounted for about $768 million, led by Bitget’s September 24 hot-and-warm wallet drain and Liquid Network’s Elements bug. This post Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures first appeared on Bitcoin Magazine and is written by Juan Galt.",
-      "date": "2026-10-28T17:43:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
