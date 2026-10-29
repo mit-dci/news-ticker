@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T01:07:29.927Z",
+  "generatedAt": "2026-10-29T01:35:29.178Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 242,
+  "filteredOut": 241,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "bcannounce",
@@ -100,6 +100,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Alipay Denies Supporting Crypto Trading After Peer's Beta Launch",
+      "link": "https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch",
+      "desc": "Peer's website still displays Alipay as a payment method, while its buyer guide says the companies have no official partnership.",
+      "date": "2026-10-29T01:16:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin faces fresh pressure after Fed’s hawkish rate hold: Analysts",
+      "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.",
+      "date": "2026-10-29T01:12:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -759,11 +779,6 @@
           "source": "DECRYPT",
           "sourceId": "decrypt",
           "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident"
         }
       ],
       "termBoost": 0
