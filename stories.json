@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T22:33:38.465Z",
+  "generatedAt": "2026-10-29T23:06:12.024Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 223,
+  "filteredOut": 222,
   "errors": [],
-  "dupsMerged": 17,
+  "dupsMerged": 18,
   "items": [
     {
       "source": "bcannounce",
@@ -97,6 +97,26 @@
       "termBoost": 3
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+      "link": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+      "desc": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
+      "date": "2026-10-29T22:57:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+      "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.",
+      "date": "2026-10-29T22:31:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "techcrunch",
       "sourceName": "TECHCRUNCH",
       "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
@@ -119,9 +139,9 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Binance Wallet Outflows Widen to Three Accounts in Suspected Hack",
+      "title": "Binance Pauses Withdrawals Amid Suspected Hack, Says User Funds Are Safe",
       "link": "https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack",
-      "desc": "Records show 823 million USDC left Hot Wallet 34, while Binance 14 was swept again 40 minutes after its initial outflow.",
+      "desc": "Tether says it froze more than 1.567 billion USDT as Binance investigates large wallet outflows and conducts security checks.",
       "date": "2026-10-29T22:10:31.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -133,16 +153,6 @@
       "link": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
       "desc": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
       "date": "2026-10-29T21:49:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-      "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
-      "desc": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
-      "date": "2026-10-29T21:36:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -159,19 +169,25 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Binance hacked for over $5.8B in massive crypto exploit",
+      "title": "Binance hit by $5.8B hack as Tether and Circle freeze billions",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Binance is investigating a multibillion-dollar security breach involving its Ethereum wallets, with Tether and Circle freezing more than $2.36 billion in stablecoins.",
       "date": "2026-10-29T21:24:36.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto"
+        }
+      ],
       "termBoost": 0
     },
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Tether Freezes 971 Million USDT in Wallet Linked to Suspected Binance Drain",
+      "title": "Tether Says It Froze Over 1.567B USDT Linked to Suspected Binance Hack",
       "link": "https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain",
-      "desc": "Binance says it is investigating a potential security issue but has not confirmed any impact to user funds.",
+      "desc": "The later issuer total is broader than the roughly 971 million USDT recorded in one wallet at its initial freeze; frozen funds are not automatically recovered.",
       "date": "2026-10-29T21:22:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -199,9 +215,9 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Binance-Labeled Wallet Swept Minutes After EIP-7702 Delegation",
+      "title": "How Wallet Permissions Linked Two Accounts in the Suspected Binance Hack",
       "link": "https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation",
-      "desc": "The delegated account later triggered a separate 780 million USDC transfer from a smart wallet it owns. Whether the movements were authorized remains unconfirmed.",
+      "desc": "Delegated code on Binance 14 could move its own assets and exercise ownership of another wallet. The records do not establish how that permission was obtained.",
       "date": "2026-10-29T21:04:09.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -1232,16 +1248,6 @@
       "link": "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920",
       "desc": "Ripple expects a $900M annualized product revenue run rate by end of 2026, as RLUSD reaches $2.5B and payments near $150B in lifetime volume.",
       "date": "2026-10-28T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
-      "link": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
-      "desc": "The ratings agency cited RLUSD's Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now.",
-      "date": "2026-10-28T12:16:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
