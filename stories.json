@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T00:52:14.412Z",
+  "generatedAt": "2026-10-29T01:07:29.927Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 242,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "bcannounce",
@@ -28,6 +28,11 @@
           "source": "BTC CORE ANN",
           "sourceId": "bcannounce",
           "url": "https://bitcoincore.org/en/2026/10/28/release-31.2/"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash"
         },
         {
           "source": "BITCOIN CORE",
@@ -832,16 +837,6 @@
       "link": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The breach impacted its in-house mobile system, used by employees for work and information sharing.",
       "date": "2026-10-28T02:18:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tranche Vault on Avalanche Drained of 1.01 Million USDC",
-      "link": "https://thedefiant.io/news/hacks/tranche-vault-on-avalanche-drained-of-1-01-million-usdc",
-      "desc": "Blockaid says a flash loan let the attacker mint inflated tranche shares and redeem the vault's USDC. A balance check showed none left in the identified contract.",
-      "date": "2026-10-28T01:11:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
