@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T16:08:15.444Z",
+  "generatedAt": "2026-10-29T16:34:07.415Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 232,
+  "filteredOut": 229,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "bcannounce",
@@ -100,6 +100,86 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+      "link": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
+      "desc": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
+      "date": "2026-10-29T16:32:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "India's ED Announces Searches in $524 Million Crypto Transfer Probe",
+      "link": "https://thedefiant.io/news/regulation/india-s-ed-announces-searches-in-524-million-crypto-transfer-probe",
+      "desc": "The agency named Binance and Bybit as platforms used for alleged foreign payouts, without announcing charges against either exchange.",
+      "date": "2026-10-29T16:30:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
+      "desc": "Bitcoin Magazine Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin Franklin Templeton’s two Bitcoin DRIP ETFs, FBEQ and FIBT, started trading today on the Nasdaq. This post Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-10-29T16:26:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "HTX Exits UK Following FCA Settlement",
+      "link": "https://thedefiant.io/news/regulation/htx-exits-uk-following-fca-settlement",
+      "desc": "Existing customers cannot trade and must request approval for a one-time 48-hour withdrawal window, subject to sanctions controls.",
+      "date": "2026-10-29T16:11:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Fluid Opens DEX v2 Beta With Custom Collateral and Debt Ranges",
+      "link": "https://thedefiant.io/news/defi/fluid-opens-dex-v2-beta-with-custom-collateral-and-debt-ranges",
+      "desc": "Governance set $50,000 borrowing ceilings per asset for the new Ethereum contracts, while pool creation remains restricted.",
+      "date": "2026-10-29T16:11:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto exchange HTX exits the UK after settling with the FCA",
+      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
+      "desc": "The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.",
+      "date": "2026-10-29T16:11:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "IPX Announces Integration with Bridge, a Stripe Company, to Power Fiat On- and Off-Ramps on Its Tokenized IP Platform",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/ipx-integrates-bridge-fiat-on-off-ramps-tokenized-ip-platform",
+      "desc": "Bridge virtual accounts on IPX will let creators and projects receive real-world revenue in USDC, enabling movement between bank accounts and smart contracts.",
+      "date": "2026-10-29T16:10:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Canton Strategic Targets Monday Tokenized-Stock Debut on TSV",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/canton-strategic-targets-monday-tokenized-stock-debut-on-tsv",
+      "desc": "Fairmint will issue the shares and keep their official onchain ownership records as rival OKXICE faces 38 disclosed issuer objections.",
+      "date": "2026-10-29T16:09:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -401,7 +481,13 @@
       "link": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
       "desc": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
       "date": "2026-10-29T13:00:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/polygon-extends-bank-to-stablecoin-payment-stack-to-solana"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -811,26 +897,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
-      "desc": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.",
-      "date": "2026-10-28T21:13:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Privacy Pools v2 Brings Shielded Payments and Yield to BNB Chain",
-      "link": "https://thedefiant.io/news/defi/privacy-pools-v2-brings-shielded-payments-and-yield-to-bnb-chain",
-      "desc": "The deployment supports BNB and stablecoins including USDT, FDUSD and U, while private spending still requires 0xbow's deposit-screening approval.",
-      "date": "2026-10-28T20:09:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote",
@@ -861,16 +927,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Yield Basis Discloses Fee-Bypass Route, Proposes WETH Fix",
-      "link": "https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix",
-      "desc": "The proposed policy adds a debt-ratio check for deposits alongside Pyth-linked swap fees. Yield Basis voting is scheduled to end Oct. 29.",
-      "date": "2026-10-28T18:38:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
@@ -881,42 +937,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Liquid Reserve Gap Falls to 550 BTC After 50 BTC Transfer",
-      "link": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer",
-      "desc": "L-BTC reserve coverage reaches about 87.07%, while user swaps remain available and normal federation peg-outs remain restricted.",
-      "date": "2026-10-28T18:13:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Fed Holds Rates at 3.75%-4% as Bitcoin Gives Back Brief Gain",
-      "link": "https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain",
-      "desc": "Lisa Cook and Beth Hammack dissented in favor of a quarter-point increase, following September's unanimous rate hike.",
-      "date": "2026-10-28T18:12:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures",
       "link": "https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures",
       "desc": "Bitcoin Magazine Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures Lightning.news data shared with Bitcoin Magazine puts net 2026 crypto hack losses at roughly $2.35 billion after freezes and returns. September alone accounted for about $768 million, led by Bitget’s September 24 hot-and-warm wallet drain and Liquid Network’s Elements bug. This post Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures first appeared on Bitcoin Magazine and is written by Juan Galt.",
       "date": "2026-10-28T17:43:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Osmosis Restores AllBTC Backing With Seized Tokens and Community Funds",
-      "link": "https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds",
-      "desc": "Community funds absorbed a 17.19 BTC-equivalent shortfall, while app deposits and withdrawals were still awaiting reopening.",
-      "date": "2026-10-28T17:29:16.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
