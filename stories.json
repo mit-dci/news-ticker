@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T14:33:31.933Z",
+  "generatedAt": "2026-10-29T15:07:01.874Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 230,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "bcannounce",
@@ -102,15 +102,64 @@
       "termBoost": 3
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Zumo and Quantum Chain partner up to fight quantum threats",
-      "link": "https://www.finextra.com/newsarticle/48656/zumo-and-quantum-chain-partner-up-to-fight-quantum-threats?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Cryptocurrency firm Zumo has joined forces with quantum blockchain platform Quantum Chain in efforts to combat the growing threat of quantum attacks.",
-      "date": "2026-10-28T08:00:00.000Z",
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "ICE Plans US-Regulated Hyperliquid Perps With TradeXYZ",
+      "link": "https://thedefiant.io/news/defi/ice-plans-us-regulated-hyperliquid-perps-with-tradexyz",
+      "desc": "ICE is taking a minority stake in TradeXYZ, with retail access planned through regulated futures brokers including its OKX joint venture.",
+      "date": "2026-10-29T15:06:58.000Z",
       "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Russia Approves Securities Group to Oversee Crypto Exchanges",
+      "link": "https://bitcoinmagazine.com/news/russia-approves-securities-oversee-crypto",
+      "desc": "Bitcoin Magazine Russia Approves Securities Group to Oversee Crypto Exchanges The Bank of Russia approved NAUFOR as the country’s first self-regulatory organization for crypto exchanges and digital depositories. This post Russia Approves Securities Group to Oversee Crypto Exchanges first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-10-29T15:03:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
+      "desc": "",
+      "date": "2026-10-29T14:39:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "U.S. Treasury Sanctions Crypto Launderers Behind North Korea’s Fake Workers",
+      "link": "https://bitcoinmagazine.com/news/sanctions-crypto-behind-north-korea-worker",
+      "desc": "Bitcoin Magazine U.S. Treasury Sanctions Crypto Launderers Behind North Korea’s Fake Workers The U.S. Treasury sanctioned ten people and one entity, including two Russian crypto middlemen, for laundering money from North Korean fake IT worker schemes that fund its weapons programs. This post U.S. Treasury Sanctions Crypto Launderers Behind North Korea’s Fake Workers first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-10-29T14:37:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Uniswap Labs opens fee conversion tool TJAR to apps, starting with Robinhood",
+      "link": "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131",
+      "desc": "Uniswap Labs has opened up its Token Jar fee conversion system to other apps through a new tool called TJAR.",
+      "date": "2026-10-29T14:34:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bank of England opens consultation on tokenized collateral for clearing",
+      "link": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance.",
+      "date": "2026-10-29T14:27:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -506,7 +555,13 @@
       "link": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
       "desc": "Lazaro Campos takes the board role as the London-based company reports $300 million in assets locked and more than $1 billion in annual transaction volume.",
       "date": "2026-10-29T09:00:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48669/former-swift-ceo-lzaro-campos-joins-stablecoin-firm-opentrade-as-chair?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -770,16 +825,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto isn’t a partisan fight, proven by data",
-      "link": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
-      "desc": "Treating crypto as a political battleground only makes it harder to build the secure, transparent, American-made financial system that most Americans say they want, argues DeFi Education Fund’s Jennifer Rosenthal.",
-      "date": "2026-10-28T18:11:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures",
@@ -940,16 +985,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "U.S. Treasury Says U.S. ‘Will Win in the Digital Asset Stack’ as Clarity Act Stalls",
-      "link": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
-      "desc": "Bitcoin Magazine U.S. Treasury Says U.S. ‘Will Win in the Digital Asset Stack’ as Clarity Act Stalls Treasury Secretary Scott Bessent said that U.S. leadership in digital assets could reinforce the dollar’s global reach even as the stalled CLARITY Act leaves regulators to fill the gap. This post U.S. Treasury Says U.S. ‘Will Win in the Digital Asset Stack’ as Clarity Act Stalls first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-10-28T14:14:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Kraken to Cancel Orders on 176 Pairs in Synthetic Trading Shift",
@@ -966,16 +1001,6 @@
       "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
       "date": "2026-10-28T13:47:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tokenized Stock and ETF Roster: Ondo, DTCC and OKXICE",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-stock-and-etf-roster-ondo-dtcc-and-okxice",
-      "desc": "Ondo reports 15 tokens live on Robinhood Chain. This dated reference separates that roster from DTCC’s institutional tokenization scope and OKXICE’s proposed listings and disclosed objections.",
-      "date": "2026-10-28T13:19:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1096,16 +1121,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October’s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.",
-      "date": "2026-10-28T07:57:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow",
@@ -1182,26 +1197,6 @@
       "link": "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
       "desc": "SoFi broke out crypto products for the first time. Gross crypto revenue rose 20%, while total net revenue hit a record $1.39 billion.",
       "date": "2026-10-27T15:35:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
-      "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
-      "desc": "BNY adds XRP and RLUSD to its custody platform, as Ripple and C2FO test settling invoice payments on the XRP Ledger.",
-      "date": "2026-10-27T15:01:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback",
-      "link": "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860",
-      "desc": "Galaxy returned to profitability in the third quarter as trading volumes and lending increased, with a new $200 million buyback authorized.",
-      "date": "2026-10-27T14:39:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
