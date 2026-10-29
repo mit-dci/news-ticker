@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T18:35:51.254Z",
+  "generatedAt": "2026-10-29T19:05:59.869Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 227,
+  "filteredOut": 225,
   "errors": [],
-  "dupsMerged": 17,
+  "dupsMerged": 16,
   "items": [
     {
       "source": "bcannounce",
@@ -28,11 +28,6 @@
           "source": "BTC CORE ANN",
           "sourceId": "bcannounce",
           "url": "https://bitcoincore.org/en/2026/10/28/release-31.2/"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash"
         },
         {
           "source": "BITCOIN CORE",
@@ -100,6 +95,76 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised",
+      "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
+      "desc": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode.",
+      "date": "2026-10-29T19:00:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "link": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+      "desc": "Polymarket said one of its third-party providers was breached after users reported seeing their accounts drained.",
+      "date": "2026-10-29T18:55:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
+      "link": "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident",
+      "desc": "Polymarket restricted trading and paused relayer actions as users report funds leaving their accounts. A suspected attacker wallet holds about $2.65 million in POL, per Arkham data.",
+      "date": "2026-10-29T18:53:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+      "link": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
+      "desc": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.",
+      "date": "2026-10-29T18:46:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SEC Charges BG Wealth and DSJ Exchange in Alleged $130 Million Crypto Fraud",
+      "link": "https://thedefiant.io/news/regulation/sec-charges-bg-wealth-and-dsj-exchange-in-alleged-130-million-crypto-fraud",
+      "desc": "The agency says investors lost more than $100 million after the firms promised risk-free trading returns and used false filings to claim SEC approval.",
+      "date": "2026-10-29T18:43:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Polymarket Says Issue Fixed, Pledges to Make Affected Users Whole",
+      "link": "https://thedefiant.io/news/security/polymarket-says-issue-fixed-pledges-to-make-affected-users-whole",
+      "desc": "The platform blamed a compromised third-party provider but kept trading halted while it worked to restore service.",
+      "date": "2026-10-29T18:41:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Grayscale's HYPG Offers Nasdaq-Listed HYPE Exposure and Staking",
+      "link": "https://thedefiant.io/converge/markets/grayscale-s-hypg-offers-nasdaq-listed-hype-exposure-and-staking",
+      "desc": "The fund began trading June 3, charges a 0.29% annual sponsor fee and held $186.9 million in assets as of Oct. 28.",
+      "date": "2026-10-29T18:36:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -874,16 +939,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
-      "desc": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren’t exposed.",
-      "date": "2026-10-29T05:30:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Singapore Police Report $2.7 Million in Tampered Ledger Wallet Losses",
@@ -940,26 +995,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.",
       "date": "2026-10-29T01:12:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Diva Cancels Mainnet Launch, Tells Early Stakers to Withdraw",
-      "link": "https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw",
-      "desc": "The two pre-launch vaults show roughly 654.5 ETH in assets, while the shutdown statement offers no replacement DIVA distribution.",
-      "date": "2026-10-29T00:37:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Peer Adds Alipay-Funded USDC Trading on Base in Beta",
-      "link": "https://thedefiant.io/news/defi/peer-adds-alipay-funded-usdc-trading-on-base-in-beta",
-      "desc": "Buyers pay individual sellers in yuan, while Peer says it has no official partnership with Alipay.",
-      "date": "2026-10-28T23:38:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1200,16 +1235,6 @@
       "link": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
       "desc": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets.",
       "date": "2026-10-28T09:15:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow",
-      "link": "https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets",
-      "desc": "Robinhood posted record revenue of $1.42 billion but earned $0.51 per share, short of the $0.55 expected, as bets on sports and elections grew to $173 million and crypto edged up.",
-      "date": "2026-10-27T20:42:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
