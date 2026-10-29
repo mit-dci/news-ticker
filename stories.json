@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T20:07:10.318Z",
+  "generatedAt": "2026-10-29T20:33:13.759Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 228,
   "errors": [],
-  "dupsMerged": 16,
+  "dupsMerged": 17,
   "items": [
     {
       "source": "bcannounce",
@@ -97,6 +97,16 @@
       "termBoost": 3
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Coinbase CEO Armstrong Adopts Plan to Sell Up to $1.31 Billion in Shares",
+      "link": "https://thedefiant.io/news/cefi/coinbase-ceo-armstrong-adopts-plan-to-sell-up-to-1-31-billion-in-shares",
+      "desc": "Fred Ehrsam and Emilie Choi also adopted share-sale plans, with different trading windows extending into 2027.",
+      "date": "2026-10-29T20:24:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Here’s what happened in crypto today",
@@ -139,7 +149,7 @@
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised",
+      "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
       "link": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
       "desc": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode.",
       "date": "2026-10-29T19:00:06.000Z",
@@ -253,6 +263,22 @@
           "source": "FINEXTRA",
           "sourceId": "finextra",
           "url": "https://www.finextra.com/newsarticle/48669/former-swift-ceo-lzaro-campos-joins-stablecoin-firm-opentrade-as-chair?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Canton Foundation backs RedStone to build pricing standard",
+      "link": "https://www.finextra.com/pressarticle/111515/canton-foundation-backs-redstone-to-build-pricing-standard?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "RedStone, the data layer for institutional DeFi, today announced that the Canton Foundation has unanimously approved funding through the Canton Development Fund to develop the Canton Access and Privacy Standard (CAPS), an open-source framework for institutional market-data infrastructure on Canton. CAPS is designed to let institutions price transactions on Canton without revealing their underlying positions or agreed settlement values to data providers.",
+      "date": "2026-10-29T17:17:00.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "termBoost": 0
@@ -562,16 +588,6 @@
       "link": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
       "desc": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.",
       "date": "2026-10-29T14:15:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard",
-      "link": "https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "RedStone’s planned pricing tool will let institutions on Canton use shared market prices without exposing deal terms to data providers.",
-      "date": "2026-10-29T14:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -965,26 +981,6 @@
       "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.",
       "date": "2026-10-29T03:16:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",
-      "link": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
-      "desc": "The main Ethereum escrow still showed an unpaused status after Blockaid warned that a forged batch root had enabled unauthorized withdrawals.",
-      "date": "2026-10-29T02:33:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Allium Discloses Security Breach, Revokes API Keys",
-      "link": "https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys",
-      "desc": "Core services are back online, but uploaded-data access remains disabled and gaps in some data feeds are still being filled.",
-      "date": "2026-10-29T01:52:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
