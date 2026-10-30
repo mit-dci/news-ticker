@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T03:08:36.996Z",
+  "generatedAt": "2026-10-30T03:35:01.300Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 219,
   "errors": [],
-  "dupsMerged": 18,
+  "dupsMerged": 19,
   "items": [
     {
       "source": "bcannounce",
@@ -101,7 +101,7 @@
       "sourceName": "WALL STREET JOURNAL",
       "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
       "link": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main",
-      "desc": "Changpeng Zhao said Binance users’ funds were safe. But hackers appeared to have made off with at least $6.3 billion—and possibly more, analysts said.",
+      "desc": "The crypto exchange says users will be made whole. But hackers made off with an estimated $6.3 billion.",
       "date": "2026-10-30T03:02:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -245,11 +245,17 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Live updates: Binance estimates $6.3B of crypto stolen in major hack",
+      "title": "Live updates: Binance says $6.3B hack involved compromised engineer’s laptop",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Follow live updates as Binance says $6.3 billion in assets has been stolen in a major hack, with further freezes possible as investigators trace funds.",
+      "desc": "Follow live updates as Binance says $6.3 billion in assets has been stolen in a major hack. Around $3 billion in stolen funds have been frozen.",
       "date": "2026-10-29T21:24:36.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1072,16 +1078,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
       "desc": "About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn’t named the firm that held its keys.",
       "date": "2026-10-29T10:44:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Binance says exploit is likely due to 'compromised DevOps engineer’s laptop'",
-      "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-      "desc": "North of $5 billion appears to have been stolen from the world's biggest crypto exchange, Binance, of which some $2.5 billion has been frozen.",
-      "date": "2026-10-29T10:41:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
