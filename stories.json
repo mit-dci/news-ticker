@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T21:05:40.899Z",
+  "generatedAt": "2026-10-30T21:32:57.751Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 214,
+  "filteredOut": 212,
   "errors": [],
-  "dupsMerged": 26,
+  "dupsMerged": 28,
   "items": [
     {
       "source": "cointelegraph",
@@ -96,6 +96,16 @@
       "termBoost": 0
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
+      "link": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+      "desc": "Michael Selig said the record $6.4 billion theft shows why offshore exchanges should register with the CFTC and adopt U.S.-grade cybersecurity standards.",
+      "date": "2026-10-30T21:16:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "pymnts",
       "sourceName": "PYMNTS",
       "title": "Binance Hack Tests Its Pledge to Cover Customer Losses",
@@ -122,16 +132,6 @@
           "source": "THE DEFIANT",
           "sourceId": "defiant",
           "url": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses"
-        },
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
-        },
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1"
         }
       ],
       "termBoost": 0
@@ -223,7 +223,13 @@
       "link": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
       "desc": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as investigators trace the stolen funds.",
       "date": "2026-10-30T17:50:26.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -259,11 +265,37 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Recap: How Binance’s record $6.3B hack unfolded",
-      "link": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge.",
-      "date": "2026-10-30T16:53:46.000Z",
-      "alsoAt": [],
+      "title": "As it happened: Binance’s record $6.3B crypto hack",
+      "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "How Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation.",
+      "date": "2026-10-30T16:49:50.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
+        },
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
+        },
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -559,16 +591,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Binance working with FBI to recover assets following $6.3B hack",
-      "link": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Binance is working with law enforcement to recover $3 billion that is frozen, after setting aside more than $6.3 billion from the company’s funds to cover the shortfall.",
-      "date": "2026-10-30T13:11:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
@@ -859,13 +881,7 @@
       "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
       "desc": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
       "date": "2026-10-30T05:43:07.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -886,11 +902,6 @@
       "desc": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.",
       "date": "2026-10-30T04:00:43.000Z",
       "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
         {
           "source": "COINDESK",
           "sourceId": "coindesk",
