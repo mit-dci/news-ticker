@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T11:05:54.466Z",
+  "generatedAt": "2026-10-30T11:34:04.715Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 213,
   "errors": [],
-  "dupsMerged": 19,
+  "dupsMerged": 21,
   "items": [
     {
       "source": "bcannounce",
@@ -109,10 +109,40 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Binance Says It Has Reserved Over $6.34 Billion to Cover Hack Losses",
-      "link": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses",
-      "desc": "The exchange says $5 billion is already held in the affected tokens, while withdrawals remain paused during a security overhaul.",
-      "date": "2026-10-30T11:02:14.000Z",
+      "title": "Jupiter Lend Says Liquidity Crunch Is Delaying Withdrawals",
+      "link": "https://thedefiant.io/news/defi/jupiter-lend-says-liquidity-crunch-is-delaying-withdrawals",
+      "desc": "Jupiter's API showed just 3.35 USDC immediately withdrawable against 418.5 million USDC in Earn deposit claims.",
+      "date": "2026-10-30T11:22:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin Trades Below $80,000 as Long Liquidations Hit $1.34 Billion",
+      "link": "https://thedefiant.io/news/markets/bitcoin-trades-below-80-000-as-long-liquidations-hit-1-34-billion",
+      "desc": "Ether funding turned negative on OKX, while bitcoin funding remained positive as leveraged bullish positions were unwound.",
+      "date": "2026-10-30T11:20:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "ACI Worldwide and Circle collaborate on LatAm payments",
+      "link": "https://www.finextra.com/pressarticle/111519/aci-worldwide-and-circle-collaborate-on-latam-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "ACI Worldwide (NASDAQ: ACIW), an original innovator in global payments technology, and Circle Internet Group (NYSE: CRCL), one of the world's leading internet financial platform companies and the issuer of USDC1 through its regulated entities, today announced a collaboration to show how stablecoin settlement can be integrated into existing banking and payment infrastructure.",
+      "date": "2026-10-30T11:14:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
+      "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Security experts say attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.",
+      "date": "2026-10-30T11:00:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -169,7 +199,13 @@
       "link": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main",
       "desc": "The crypto exchange says users will be made whole. But hackers made off with an estimated $6.3 billion.",
       "date": "2026-10-30T10:10:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/95d38ca9-9a70-4982-a797-cdad2afa3acf?syn-25a6b1a6=1"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -239,6 +275,16 @@
       "termBoost": 0
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
+      "link": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
+      "desc": "CEO Richard Teng said the attack was \"not a single 'one-click' action,\" as Binance confirmed about $3 billion has been frozen.",
+      "date": "2026-10-30T09:31:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Unit Delays All Deposits and Withdrawals After Binance Breach",
@@ -283,15 +329,15 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Live updates: Binance uncovers more breach points in $6.3B hack",
+      "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
       "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen.",
       "date": "2026-10-30T09:08:25.000Z",
       "alsoAt": [
         {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack"
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses"
         }
       ],
       "termBoost": 0
@@ -505,7 +551,13 @@
       "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
       "desc": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.",
       "date": "2026-10-30T04:00:43.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -669,32 +721,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "ETH Trades at 20% Premium on Uniswap Versus Binance",
-      "link": "https://thedefiant.io/news/markets/eth-trades-at-20-premium-on-uniswap-versus-binance",
-      "desc": "Hundreds of ETH changed hands at elevated stablecoin prices, while Chainlink’s ETH/USD reference feed showed about $2,250.",
-      "date": "2026-10-29T21:16:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
       "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
       "desc": "Crypto prices are sliding on the news, with bitcoin falling back to $77,000, though Binance's co-CEO said it would cover all losses.",
       "date": "2026-10-29T21:12:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "How Wallet Permissions Linked Two Accounts in the Suspected Binance Hack",
-      "link": "https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation",
-      "desc": "Delegated code on Binance 14 could move its own assets and exercise ownership of another wallet. The records do not establish how that permission was obtained.",
-      "date": "2026-10-29T21:04:09.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1076,7 +1108,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
       "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?",
+      "desc": "USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Utexo’s bridged version of USD₮ compete with stablecoins on ETH and TRON?",
       "date": "2026-10-29T13:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -1138,16 +1170,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
-      "link": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework",
-      "desc": "The venue, called TSV LLC, plans to start trading shares Canton Strategic Holdings shares as early as Monday, using issuer-sponsored tokenization that avoids the 30-day company objection window.",
-      "date": "2026-10-29T12:51:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
@@ -1178,16 +1200,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Airtm and BVNK team on direct wallet payments in emerging markets",
-      "link": "https://www.finextra.com/pressarticle/111505/airtm-and-bvnk-team-on-direct-wallet-payments-in-emerging-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Airtm, the trusted last-mile financial network for the Global South, and stablecoin infrastructure provider BVNK, a Mastercard company, today announced a partnership that brings wallet-native payments to emerging markets.",
-      "date": "2026-10-29T12:22:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "HTX agrees to halt unlawful UK crypto promotions after FCA case",
@@ -1203,16 +1215,6 @@
       "title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey",
       "link": "https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "European investors ranked crypto above retirement plans for lasting wealth creation, while prior surveys show US investors are skeptical on crypto’s role in retirement accounts.",
-      "date": "2026-10-29T12:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Coinbase seeks Brazil crypto license, expects no service disruption",
-      "link": "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Coinbase has applied for authorization ahead of Brazil’s Oct. 30 deadline and says it expects to maintain existing services while regulators review its application.",
       "date": "2026-10-29T12:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -1314,16 +1316,6 @@
       "link": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
       "desc": "Avail launched ShieldTX, a Hyperliquid privacy tool that creates a separate wallet for each perpetual futures position.",
       "date": "2026-10-28T15:00:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Firms object to shares being part of OKX-ICE tokenised stock trading venture",
-      "link": "https://www.finextra.com/newsarticle/48663/firms-object-to-shares-being-part-of-okx-ice-tokenised-stock-trading-venture?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "A host of companies, including JPMorgan Chase, Goldman Sachs and Microsoft, have registered their objection to their shares trading on a planned tokenised platform developed by Nyse parent Intercontinental Exchange and crypto exchange OKX.",
-      "date": "2026-10-28T14:51:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
