@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T05:33:34.175Z",
+  "generatedAt": "2026-10-30T06:12:08.174Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 220,
+  "filteredOut": 219,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "bcannounce",
@@ -95,6 +95,62 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-10-30T06:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
+      "link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.",
+      "date": "2026-10-30T05:51:41.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
+      "desc": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected.",
+      "date": "2026-10-30T05:45:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Hyperliquid Fees Hit 30-Day High as Perpetuals Volume Doubles",
+      "link": "https://thedefiant.io/news/defi/hyperliquid-fees-hit-30-day-high-as-perpetuals-volume-doubles",
+      "desc": "Perpetuals turnover reached $17.44 billion on Oct. 29, while liquidations climbed to about $252 million and outstanding positions declined.",
+      "date": "2026-10-30T05:44:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+      "desc": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
+      "date": "2026-10-30T05:43:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -233,16 +289,6 @@
       "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Standard Chartered’s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.",
       "date": "2026-10-30T03:47:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
-      "link": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
-      "desc": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exchange.",
-      "date": "2026-10-30T03:36:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -501,16 +547,6 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-10-29T19:58:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
       "title": "Public companies double share of blockchain revenue since 2022: Report",
       "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications.",
@@ -605,16 +641,6 @@
       "link": "https://thedefiant.io/converge/markets/grayscale-s-hypg-offers-nasdaq-listed-hype-exposure-and-staking",
       "desc": "The fund began trading June 3, charges a 0.29% annual sponsor fee and held $186.9 million in assets as of Oct. 28.",
       "date": "2026-10-29T18:36:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Polymarket Halts Trading and Pauses Relayer Amid Incident",
-      "link": "https://thedefiant.io/news/security/polymarket-halts-trading-and-pauses-relayer-amid-incident",
-      "desc": "Existing orders can still be canceled, but new buy and sell orders are blocked. A trader reported an $800,000 account drain.",
-      "date": "2026-10-29T18:27:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1118,16 +1144,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
-      "link": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
-      "desc": "About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn’t named the firm that held its keys.",
-      "date": "2026-10-29T10:44:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "ECB President Christine Lagarde to step down in February 2027",
@@ -1144,16 +1160,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.",
       "date": "2026-10-29T07:32:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
-      "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.",
-      "date": "2026-10-29T03:16:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
