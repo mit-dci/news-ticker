@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T10:33:46.310Z",
+  "generatedAt": "2026-10-30T11:05:54.466Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 216,
+  "filteredOut": 213,
   "errors": [],
-  "dupsMerged": 18,
+  "dupsMerged": 19,
   "items": [
     {
       "source": "bcannounce",
@@ -86,6 +86,16 @@
       "termBoost": 3
     },
     {
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #429",
+      "link": "https://bitcoinops.org/en/newsletters/2026/10/30/",
+      "desc": "This week’s newsletter describes a protocol for creating silent payment transactions from multiparty wallets, summarizes the responsible disclosure of a denial-of-service vulnerability that affected older versions of Core Lightning, and explains Bitcoin Core’s updated security policy for easily discoverable vulnerabilities. Also included are our regular sections with selected questions and answers from the Bitcoin Stack Exchange, announcements of new releases and release candidates, and descriptions of notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-10-30T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Idemia prepares payment cards for quantum threats with EMVCo certification",
@@ -95,6 +105,52 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Says It Has Reserved Over $6.34 Billion to Cover Hack Losses",
+      "link": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses",
+      "desc": "The exchange says $5 billion is already held in the affected tokens, while withdrawals remain paused during a security overhaul.",
+      "date": "2026-10-30T11:02:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
+      "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH.",
+      "date": "2026-10-30T10:54:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Synthetix Recovers 8.4 Million SNX Stolen in Binance Hack",
+      "link": "https://thedefiant.io/news/hacks/synthetix-recovers-8-4-million-snx-stolen-in-binance-hack",
+      "desc": "The protocolDAO says the tokens are secured in its Safe and will be returned when Binance requests them.",
+      "date": "2026-10-30T10:53:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Hackers Steal $6.3 Billion From Binance in Record Crypto Heist",
+      "link": "https://www.pymnts.com/cybersecurity/2026/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+      "desc": "Hackers have stolen $6.3 billion from Binance, the world’s largest cryptocurrency exchange, in the biggest crypto theft ever. The attack breaks the previous record by a wide margin. It also comes at a hard time for digital assets, which were already under pressure from higher U.S. interest rates and weaker demand from exchange-traded fund buyers. […] The post Hackers Steal $6.3 Billion From Binance in Record Crypto Heist appeared first on PYMNTS.com.",
+      "date": "2026-10-30T10:46:11.000Z",
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -254,16 +310,6 @@
           "url": "https://thedefiant.io/news/hacks/teng-says-binance-breach-was-not-a-one-click-attack"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Binance halts withdrawals after record $6.3bn heist",
-      "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
-      "desc": "World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach",
-      "date": "2026-10-30T08:14:36.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -659,16 +705,6 @@
       "link": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
       "desc": "Strategy reported $19.53B in Q3 net income on a $20.91B bitcoin gain, holds 848,517 BTC, and moves preferreds to daily dividends.",
       "date": "2026-10-29T20:58:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance Takeover Claim Recycles CZ's 2022 FTX Announcement",
-      "link": "https://thedefiant.io/news/cefi/binance-takeover-claim-recycles-cz-s-2022-ftx-announcement",
-      "desc": "The post names no corporate buyer or deal document, while BNB was down 9.03% over 24 hours.",
-      "date": "2026-10-29T20:54:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1177,16 +1213,6 @@
       "title": "Coinbase seeks Brazil crypto license, expects no service disruption",
       "link": "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Coinbase has applied for authorization ahead of Brazil’s Oct. 30 deadline and says it expects to maintain existing services while regulators review its application.",
-      "date": "2026-10-29T12:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
-      "link": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role.",
       "date": "2026-10-29T12:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
