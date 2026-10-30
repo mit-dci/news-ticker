@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T09:33:40.125Z",
+  "generatedAt": "2026-10-30T10:06:56.096Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 218,
+  "filteredOut": 216,
   "errors": [],
   "dupsMerged": 17,
   "items": [
@@ -95,6 +95,56 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "The Fast-Cash Advances Draining America’s Small Businesses",
+      "link": "https://www.wsj.com/business/the-fast-cash-advances-draining-americas-small-businesses-ff7124e2?mod=rss_markets_main",
+      "desc": "Ukraine has ended a pause on Russian refinery attacks and Binance probes what may be the biggest-ever crypto heist.",
+      "date": "2026-10-30T10:01:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Chainalysis Says Binance Hacker Swapped $325 Million to Evade Freezes",
+      "link": "https://thedefiant.io/news/hacks/chainalysis-says-binance-hacker-swapped-325-million-to-evade-freezes",
+      "desc": "The firm's findings report puts frozen assets at about $2.8 billion and describes transaction patterns suggesting automated laundering.",
+      "date": "2026-10-30T09:51:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "CZ Says Binance Hack Leaves $2 Billion Gap, Points to SpaceX Shares",
+      "link": "https://thedefiant.io/news/hacks/cz-says-binance-hack-leaves-2-billion-gap-points-to-spacex-shares",
+      "desc": "Binance has pledged to cover all losses from SAFU and company funds; Zhao did not spell out how the shares would finance reimbursements.",
+      "date": "2026-10-30T09:44:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "USDT0 Freezes 6.19 Million Tokens Linked to Binance Exploit",
+      "link": "https://thedefiant.io/news/hacks/usdt0-freezes-6-19-million-tokens-linked-to-binance-exploit",
+      "desc": "The network also restored USDT transfers between Tron and Ethereum after a precautionary pause.",
+      "date": "2026-10-30T09:43:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+      "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
+      "desc": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
+      "date": "2026-10-30T09:41:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -363,7 +413,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+      "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
       "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
       "desc": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.",
       "date": "2026-10-30T04:00:43.000Z",
@@ -614,26 +664,6 @@
           "url": "https://thedefiant.io/news/cefi/coinbase-beats-q3-transaction-revenue-estimates-as-crypto-gains-lift-profit"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Base Sets November 5 for Denim's 200ms Mainnet Blocks",
-      "link": "https://thedefiant.io/news/blockchains/base-sets-november-5-for-denim-s-200ms-mainnet-blocks",
-      "desc": "Flashblocks subscriptions and pending-state access will disappear, requiring developers and indexers to change their integrations.",
-      "date": "2026-10-29T20:33:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Coinbase CEO Armstrong Adopts Plan to Sell Up to $1.31 Billion in Shares",
-      "link": "https://thedefiant.io/news/cefi/coinbase-ceo-armstrong-adopts-plan-to-sell-up-to-1-31-billion-in-shares",
-      "desc": "Fred Ehrsam and Emilie Choi also adopted share-sale plans, with different trading windows extending into 2027.",
-      "date": "2026-10-29T20:24:39.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1112,16 +1142,6 @@
       "link": "https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "HTX has pledged to stop crypto marketing in the UK until October 2031, with deposits and new account registrations already blocked there.",
       "date": "2026-10-29T12:20:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
-      "link": "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud",
-      "desc": "Russian nationals Ilya Boykov and Vitold Obertas allegedly converted about $3.5 million and nearly $2 million in crypto, respectively, for North Korea.",
-      "date": "2026-10-29T12:18:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
