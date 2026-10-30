@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T08:35:26.306Z",
+  "generatedAt": "2026-10-30T09:08:04.085Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 218,
+  "filteredOut": 217,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "bcannounce",
@@ -97,13 +97,29 @@
       "termBoost": 3
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
+      "desc": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
+      "date": "2026-10-30T08:55:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Teng Says Binance Breach Was Not a ‘One-Click’ Attack",
-      "link": "https://thedefiant.io/news/hacks/teng-says-binance-breach-was-not-a-one-click-attack",
-      "desc": "Withdrawals remain paused while deposits operate normally; Binance says about $3 billion in affected assets has been frozen onchain.",
-      "date": "2026-10-30T08:26:05.000Z",
-      "alsoAt": [],
+      "title": "Binance Reports More Breach Points in $6.3 Billion Attack",
+      "link": "https://thedefiant.io/news/hacks/binance-reports-more-breach-points-in-6-3-billion-attack",
+      "desc": "Withdrawals remain paused with a 45-hour restart estimate, while Binance pledges to cover all losses from its SAFU reserve and company funds.",
+      "date": "2026-10-30T08:54:07.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/hacks/teng-says-binance-breach-was-not-a-one-click-attack"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -1104,16 +1120,6 @@
       "link": "https://www.finextra.com/pressarticle/111503/icon-solutions-appoints-raquel-guillot-as-southern-europe-sales-director?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Icon Solutions – the UK fintech enabling banks globally to design and implement state-of-the-art payment systems – has appointed Raquel Guillot as Southern Europe Sales Director, to drive adoption of the Icon Payments Framework (IPF) across the region.",
       "date": "2026-10-29T12:16:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
-      "desc": "Your day-ahead look for Oct. 29, 2026",
-      "date": "2026-10-29T12:04:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
