@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T14:33:33.461Z",
+  "generatedAt": "2026-10-30T15:06:31.648Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 211,
+  "filteredOut": 213,
   "errors": [],
   "dupsMerged": 26,
   "items": [
@@ -81,6 +81,56 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/10/30/",
       "desc": "This week’s newsletter describes a protocol for creating silent payment transactions from multiparty wallets, summarizes the responsible disclosure of a denial-of-service vulnerability that affected older versions of Core Lightning, and explains Bitcoin Core’s updated security policy for easily discoverable vulnerabilities. Also included are our regular sections with selected questions and answers from the Bitcoin Stack Exchange, announcements of new releases and release candidates, and descriptions of notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-10-30T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance’s Teng Sets Monday Reserve Report Deadline as Withdrawals Stay Paused",
+      "link": "https://thedefiant.io/news/hacks/binance-s-teng-sets-monday-reserve-report-deadline-as-withdrawals-stay-paused",
+      "desc": "Teng said the Sunday withdrawal restart target remained on track within 40 hours, but reopening depends on the rebuilt service passing testing.",
+      "date": "2026-10-30T14:54:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ripio CEO Acknowledges Error After wARS Conversion Complaints",
+      "link": "https://thedefiant.io/news/defi/ripio-ceo-acknowledges-error-after-wars-conversion-complaints",
+      "desc": "Users reported in-app conversions at 0.95 Argentine pesos per token; one later said parity had returned.",
+      "date": "2026-10-30T14:50:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "SEC Charges Two Companies in $130 Million Crypto Trading Scheme",
+      "link": "https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto",
+      "desc": "Bitcoin Magazine SEC Charges Two Companies in $130 Million Crypto Trading Scheme The SEC has charged two companies with defrauding investors of over $130 million through a crypto Ponzi-like scheme. This post SEC Charges Two Companies in $130 Million Crypto Trading Scheme first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-10-30T14:38:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance’s Teng Targets Sunday Withdrawal Restart After Hack",
+      "link": "https://thedefiant.io/news/hacks/binance-s-teng-targets-sunday-withdrawal-restart-after-hack",
+      "desc": "The co-CEO says Binance has reserved over $6.34 billion in company funds and plans to publish a full Proof of Reserves report by Monday.",
+      "date": "2026-10-30T14:38:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Tydro Restores New Borrowing but Keeps Lower USDC Cap",
+      "link": "https://thedefiant.io/news/defi/tydro-restores-new-borrowing-but-keeps-lower-usdc-cap",
+      "desc": "The USDC borrow limit fell 31.2% to 51.6 million tokens, leaving about $1.1 million of headroom at the time of reporting.",
+      "date": "2026-10-30T14:36:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -421,7 +471,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
       "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Security experts say attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.",
+      "desc": "Security experts said attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.",
       "date": "2026-10-30T11:00:10.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -699,52 +749,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance Hack’s Bitcoin Sits Unspent Across 19 Addresses",
-      "link": "https://thedefiant.io/news/hacks/binance-hack-s-bitcoin-sits-unspent-across-19-addresses",
-      "desc": "Another 233.46 million XRP remains in one account, leaving investigators a visible trail but no issuer-controlled freeze option for either asset.",
-      "date": "2026-10-30T05:00:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Chainalysis Links $6.4 Billion Binance Hack to North Korea",
-      "link": "https://thedefiant.io/news/hacks/chainalysis-links-6-4-billion-binance-hack-to-north-korea",
-      "desc": "Binance estimates the impact at $6.3 billion and says about $3 billion has been frozen onchain, with withdrawals still suspended.",
-      "date": "2026-10-30T04:51:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
       "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
       "desc": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
       "date": "2026-10-30T04:50:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "CoinDCX Halts New Futures Positions, Citing Liquidity Provider",
-      "link": "https://thedefiant.io/news/cefi/coindcx-halts-new-futures-positions-citing-liquidity-provider",
-      "desc": "The exchange says deposits and withdrawals remain available, while traders can still manage margin and close existing futures positions.",
-      "date": "2026-10-30T04:44:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance Exploiter Swaps $911 Million Into ETH and TRX, Arkham Says",
-      "link": "https://thedefiant.io/news/hacks/binance-exploiter-swaps-911-million-into-eth-and-trx-arkham-says",
-      "desc": "The conversions moved USDT beyond Tether’s token-freezing mechanism, while Arkham reported $2.8 billion of the stolen assets already frozen.",
-      "date": "2026-10-30T04:33:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -779,7 +789,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
       "link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Standard Chartered’s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.",
+      "desc": "Standard Chartered’s Geoffrey Kendrick said the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap’s UNI token reaching $100 by 2030.",
       "date": "2026-10-30T03:47:01.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -819,7 +829,7 @@
       "sourceName": "COINTELEGRAPH",
       "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
       "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Binance says attackers may have used a compromised DevOps laptop to access internal infrastructure.",
+      "desc": "Binance said attackers may have used a compromised DevOps laptop to access internal infrastructure.",
       "date": "2026-10-30T00:11:26.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -1067,16 +1077,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
-      "desc": "Bitcoin Magazine Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin Franklin Templeton’s two Bitcoin DRIP ETFs, FBEQ and FIBT, started trading today on the Nasdaq. This post Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-10-29T16:26:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Crypto exchange HTX exits the UK after settling with the FCA",
@@ -1309,26 +1309,6 @@
       "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
       "desc": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
       "date": "2026-10-28T15:56:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
-      "link": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
-      "desc": "Avail launched ShieldTX, a Hyperliquid privacy tool that creates a separate wallet for each perpetual futures position.",
-      "date": "2026-10-28T15:00:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Crypto braces for potential shift in congressional oversight after midterms",
-      "link": "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949",
-      "desc": "Post-Clarity Act, the crypto sector could find itself navigating a very different political landscape under a new Congress.",
-      "date": "2026-10-28T14:43:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
