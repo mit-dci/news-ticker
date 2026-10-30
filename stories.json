@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T04:33:56.720Z",
+  "generatedAt": "2026-10-30T05:07:07.434Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 219,
   "errors": [],
-  "dupsMerged": 16,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "bcannounce",
@@ -95,6 +95,56 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Exploit-Linked Wallet Moves 14,040 ETH to Another Holding Address",
+      "link": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
+      "desc": "Two of the largest tracked wallets still hold about 197,460 ETH and 137,602 ETH, while the transfer recipient holds roughly 19,740 ETH.",
+      "date": "2026-10-30T05:01:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Hack’s Bitcoin Sits Unspent Across 19 Addresses",
+      "link": "https://thedefiant.io/news/hacks/binance-hack-s-bitcoin-sits-unspent-across-19-addresses",
+      "desc": "Another 233.46 million XRP remains in one account, leaving investigators a visible trail but no issuer-controlled freeze option for either asset.",
+      "date": "2026-10-30T05:00:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Chainalysis Links $6.4 Billion Binance Hack to North Korea",
+      "link": "https://thedefiant.io/news/hacks/chainalysis-links-6-4-billion-binance-hack-to-north-korea",
+      "desc": "Binance estimates the impact at $6.3 billion and says about $3 billion has been frozen onchain, with withdrawals still suspended.",
+      "date": "2026-10-30T04:51:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+      "desc": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
+      "date": "2026-10-30T04:50:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "CoinDCX Halts New Futures Positions, Citing Liquidity Provider",
+      "link": "https://thedefiant.io/news/cefi/coindcx-halts-new-futures-positions-citing-liquidity-provider",
+      "desc": "The exchange says deposits and withdrawals remain available, while traders can still manage margin and close existing futures positions.",
+      "date": "2026-10-30T04:44:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -325,17 +375,11 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Live updates: Binance says $6.3B hack involved compromised engineer’s laptop",
+      "title": "Live updates: Binance eyes withdrawal restart within 48 hours after $6.3B hack",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Follow live updates as Binance says $6.3 billion in assets has been stolen in a major hack. Around $3 billion in stolen funds have been frozen.",
       "date": "2026-10-29T21:24:36.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -687,52 +731,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Fluid Opens DEX v2 Beta With Custom Collateral and Debt Ranges",
-      "link": "https://thedefiant.io/news/defi/fluid-opens-dex-v2-beta-with-custom-collateral-and-debt-ranges",
-      "desc": "Governance set $50,000 borrowing ceilings per asset for the new Ethereum contracts, while pool creation remains restricted.",
-      "date": "2026-10-29T16:11:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Crypto exchange HTX exits the UK after settling with the FCA",
       "link": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
       "desc": "The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.",
       "date": "2026-10-29T16:11:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "IPX Announces Integration with Bridge, a Stripe Company, to Power Fiat On- and Off-Ramps on Its Tokenized IP Platform",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/ipx-integrates-bridge-fiat-on-off-ramps-tokenized-ip-platform",
-      "desc": "Bridge virtual accounts on IPX will let creators and projects receive real-world revenue in USDC, enabling movement between bank accounts and smart contracts.",
-      "date": "2026-10-29T16:10:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Canton Strategic Targets Monday Tokenized-Stock Debut on TSV",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/canton-strategic-targets-monday-tokenized-stock-debut-on-tsv",
-      "desc": "Fairmint will issue the shares and keep their official onchain ownership records as rival OKXICE faces 38 disclosed issuer objections.",
-      "date": "2026-10-29T16:09:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "MetaMask Makes Stellar a Default Network on Mobile and Extension",
-      "link": "https://thedefiant.io/news/defi/metamask-makes-stellar-a-default-network-on-mobile-and-extension",
-      "desc": "Existing multichain accounts gain recovery-phrase-derived Stellar addresses, with support for XLM, USDC and Soroban tokens.",
-      "date": "2026-10-29T15:53:19.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
