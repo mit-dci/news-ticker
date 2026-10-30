@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T02:35:55.188Z",
+  "generatedAt": "2026-10-30T03:08:36.996Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 219,
   "errors": [],
-  "dupsMerged": 17,
+  "dupsMerged": 18,
   "items": [
     {
       "source": "bcannounce",
@@ -99,10 +99,10 @@
     {
       "source": "wsj",
       "sourceName": "WALL STREET JOURNAL",
-      "title": "Binance Suspends Transactions as It Probes What May Be Biggest-Ever Cyber Heist",
+      "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
       "link": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main",
-      "desc": "Changpeng Zhao said Binance users’ funds were safe. But hackers appeared to have made off with at least $3 billion—and possibly more, analysts said.",
-      "date": "2026-10-30T02:27:00.000Z",
+      "desc": "Changpeng Zhao said Binance users’ funds were safe. But hackers appeared to have made off with at least $6.3 billion—and possibly more, analysts said.",
+      "date": "2026-10-30T03:02:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -113,16 +113,6 @@
       "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
       "desc": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
       "date": "2026-10-30T02:22:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Binance temporarily suspends withdrawals after apparent hack",
-      "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
-      "desc": "Tether and Circle freeze billions of dollars’ worth of their coins as world’s largest crypto exchange investigates security issue",
-      "date": "2026-10-30T01:02:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -149,9 +139,9 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Binance hack drained billions through private key ‘misuse’: Blockaid CEO",
+      "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
       "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Blockaid’s Ido Ben-Natan suspects attackers manipulated Binance’s transaction-signing infrastructure, drawing parallels with the Bybit hack.",
+      "desc": "Binance says attackers may have used a compromised DevOps laptop to access internal infrastructure.",
       "date": "2026-10-30T00:11:26.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -213,7 +203,13 @@
       "link": "https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack",
       "desc": "Tether says it froze more than 1.567 billion USDT as Binance investigates large wallet outflows and conducts security checks.",
       "date": "2026-10-29T22:10:31.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -249,9 +245,9 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
+      "title": "Live updates: Binance estimates $6.3B of crypto stolen in major hack",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Follow live updates as Binance says $3 billion in assets has been frozen after a multibillion-dollar hack, with further freezes possible as investigators trace funds.",
+      "desc": "Follow live updates as Binance says $6.3 billion in assets has been stolen in a major hack, with further freezes possible as investigators trace funds.",
       "date": "2026-10-29T21:24:36.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -279,7 +275,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
+      "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
       "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
       "desc": "Crypto prices are sliding on the news, with bitcoin falling back to $77,000, though Binance's co-CEO said it would cover all losses.",
       "date": "2026-10-29T21:12:45.000Z",
@@ -1082,7 +1078,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Binance confirms security breach, says 'will cover all hacking losses'",
+      "title": "Live updates: Binance says exploit is likely due to 'compromised DevOps engineer’s laptop'",
       "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
       "desc": "North of $5 billion appears to have been stolen from the world's biggest crypto exchange, Binance, of which some $2.5 billion has been frozen.",
       "date": "2026-10-29T10:41:39.000Z",
