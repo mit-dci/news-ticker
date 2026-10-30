@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T12:10:53.757Z",
+  "generatedAt": "2026-10-30T12:39:09.971Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 212,
   "errors": [],
-  "dupsMerged": 21,
+  "dupsMerged": 23,
   "items": [
     {
       "source": "bcannounce",
@@ -75,17 +75,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
-      "link": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
-      "desc": "Alice & Bob's new model reduces the hardware required for a potential attack, bringing it closer to reality and increasing pressure to adopt quantum-resistant security sooner.",
-      "date": "2026-10-29T13:55:42.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "bitcoinops",
       "sourceName": "BITCOIN OPTECH",
       "title": "Bitcoin Optech Newsletter #429",
@@ -105,6 +94,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
+      "link": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
+      "desc": "Just as Hyperliquid opened the door to a fully regulated perps offering inside the U.S., Binance suffered the biggest hack in crypto history.",
+      "date": "2026-10-30T12:31:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "wsj",
@@ -133,13 +132,7 @@
       "link": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen.",
       "date": "2026-10-30T11:44:20.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -200,6 +193,22 @@
       "desc": "ACI Worldwide (NASDAQ: ACIW), an original innovator in global payments technology, and Circle Internet Group (NYSE: CRCL), one of the world's leading internet financial platform companies and the issuer of USDC1 through its regulated entities, today announced a collaboration to show how stablecoin settlement can be integrated into existing banking and payment infrastructure.",
       "date": "2026-10-30T11:14:00.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Says It Has Reserved Over $6.34 Billion to Cover Hack Losses",
+      "link": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses",
+      "desc": "The exchange says $5 billion is already held in the affected tokens, while withdrawals remain paused during a security overhaul.",
+      "date": "2026-10-30T11:02:14.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -450,6 +459,11 @@
           "source": "COINDESK",
           "sourceId": "coindesk",
           "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor"
         }
       ],
       "termBoost": 0
@@ -481,7 +495,13 @@
       "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
       "desc": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
       "date": "2026-10-30T05:43:07.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -747,26 +767,6 @@
       "link": "https://thedefiant.io/news/defi/polymarket-adds-15-minute-gold-and-silver-bets-with-chainlink",
       "desc": "The contracts use start-and-end spot prices, while US takers pay about $1.74 per 100 contracts traded at 50 cents, before rebates.",
       "date": "2026-10-29T21:25:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Binance investigates multibillion-dollar security breach",
-      "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Binance is investigating a potential multibillion-dollar security breach that is estimated to have impacted $6.3 billion in funds.",
-      "date": "2026-10-29T21:24:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tether Says It Froze Over 1.567B USDT Linked to Suspected Binance Hack",
-      "link": "https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain",
-      "desc": "The later issuer total is broader than the roughly 971 million USDT recorded in one wallet at its initial freeze; frozen funds are not automatically recovered.",
-      "date": "2026-10-29T21:22:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1306,16 +1306,6 @@
       "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
       "desc": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
       "date": "2026-10-28T15:56:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
-      "link": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
-      "desc": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
-      "date": "2026-10-28T15:15:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
