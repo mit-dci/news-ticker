@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T06:41:06.633Z",
+  "generatedAt": "2026-10-30T07:07:36.609Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 218,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "bcannounce",
@@ -95,6 +95,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Binance halts withdrawals after record $6.3bn heist",
+      "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+      "desc": "World’s largest crypto exchange says an engineer’s laptop was compromised in one of sector’s biggest security breaches",
+      "date": "2026-10-30T06:54:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -409,13 +419,7 @@
       "link": "https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack",
       "desc": "Tether says it froze more than 1.567 billion USDT as Binance investigates large wallet outflows and conducts security checks.",
       "date": "2026-10-29T22:10:31.000Z",
-      "alsoAt": [
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
