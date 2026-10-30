@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T20:05:58.493Z",
+  "generatedAt": "2026-10-30T20:33:09.164Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 214,
+  "filteredOut": 212,
   "errors": [],
-  "dupsMerged": 25,
+  "dupsMerged": 26,
   "items": [
     {
       "source": "cointelegraph",
@@ -92,6 +92,57 @@
       "link": "https://bitcoinops.org/en/newsletters/2026/10/30/",
       "desc": "This week’s newsletter describes a protocol for creating silent payment transactions from multiparty wallets, summarizes the responsible disclosure of a denial-of-service vulnerability that affected older versions of Core Lightning, and explains Bitcoin Core’s updated security policy for easily discoverable vulnerabilities. Also included are our regular sections with selected questions and answers from the Bitcoin Stack Exchange, announcements of new releases and release candidates, and descriptions of notable changes to popular Bitcoin infrastructure software.",
       "date": "2026-10-30T00:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Binance Hack Tests Its Pledge to Cover Customer Losses",
+      "link": "https://www.pymnts.com/cybersecurity/2026/binance-hack-tests-pledge-cover-customer-losses/",
+      "desc": "Binance’s pledge to absorb an estimated $6.3 billion theft leaves the exchange responsible for replacing customers’ assets while investigators pursue a recovery whose timing and outcome remain uncertain. Following the hack, Binance said its emergency reserve, known as the Secure Asset Fund for Users (SAFU), and corporate funds would cover all losses, CoinDesk reported Friday […] The post Binance Hack Tests Its Pledge to Cover Customer Losses appeared first on PYMNTS.com.",
+      "date": "2026-10-30T20:19:31.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe"
+        },
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
+        },
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+      "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+      "desc": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
+      "date": "2026-10-30T20:06:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -213,42 +264,6 @@
       "desc": "A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge.",
       "date": "2026-10-30T16:53:46.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-      "link": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
-      "desc": "Richard Teng said the attacker used a self-destruct mechanism and an EIP-7702 delegation that bypassed Binance's normal approval controls.",
-      "date": "2026-10-30T16:34:21.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses"
-        },
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
-        },
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1"
-        }
-      ],
       "termBoost": 0
     },
     {
