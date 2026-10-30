@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T10:06:56.096Z",
+  "generatedAt": "2026-10-30T10:33:46.310Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 216,
   "errors": [],
-  "dupsMerged": 17,
+  "dupsMerged": 18,
   "items": [
     {
       "source": "bcannounce",
@@ -97,6 +97,42 @@
       "termBoost": 3
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "LlamaRisk Proposes Aave Cap Cuts Before Markets Reopen",
+      "link": "https://thedefiant.io/news/defi/llamarisk-proposes-aave-cap-cuts-before-markets-reopen",
+      "desc": "The plan would remove about $3.7 billion of unused borrowing capacity on V3 and $130 million on V4, while the existing freeze still blocks new loans.",
+      "date": "2026-10-30T10:21:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
+      "link": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main",
+      "desc": "The crypto exchange says users will be made whole. But hackers made off with an estimated $6.3 billion.",
+      "date": "2026-10-30T10:10:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+      "link": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
+      "desc": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.",
+      "date": "2026-10-30T10:07:29.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "wsj",
       "sourceName": "WALL STREET JOURNAL",
       "title": "The Fast-Cash Advances Draining America’s Small Businesses",
@@ -173,6 +209,22 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Hackers steal $6.3bn in crypto assets from Binance",
+      "link": "https://www.finextra.com/newsarticle/48674/hackers-steal-63bn-in-crypto-assets-from-binance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "The world's largest crypto exchange has fallen victim to the world's largest crypto heist after North Korean hackers stole $6.3bn from Binance, an audacious attack that could undermine confidence in the digital assets market.",
+      "date": "2026-10-30T09:11:00.000Z",
+      "alsoAt": [
+        {
+          "source": "TECHCRUNCH",
+          "sourceId": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Live updates: Binance uncovers more breach points in $6.3B hack",
@@ -186,16 +238,6 @@
           "url": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
-      "desc": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
-      "date": "2026-10-30T08:55:39.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -219,7 +261,7 @@
       "sourceName": "FINANCIAL TIMES",
       "title": "Binance halts withdrawals after record $6.3bn heist",
       "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
-      "desc": "World’s largest crypto exchange said an engineer’s laptop was compromised in major security breach",
+      "desc": "World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach",
       "date": "2026-10-30T08:14:36.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -441,16 +483,6 @@
       "termBoost": 0
     },
     {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
-      "link": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main",
-      "desc": "The crypto exchange says users will be made whole. But hackers made off with an estimated $6.3 billion.",
-      "date": "2026-10-30T03:02:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
@@ -527,16 +559,6 @@
       "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.",
       "date": "2026-10-29T22:31:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "techcrunch",
-      "sourceName": "TECHCRUNCH",
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-      "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-      "desc": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-      "date": "2026-10-29T22:27:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -657,13 +679,7 @@
       "link": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
       "desc": "Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.",
       "date": "2026-10-29T20:46:43.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/cefi/coinbase-beats-q3-transaction-revenue-estimates-as-crypto-gains-lift-profit"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1146,16 +1162,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Icon Solutions appoints Raquel Guillot as Southern Europe sales director",
-      "link": "https://www.finextra.com/pressarticle/111503/icon-solutions-appoints-raquel-guillot-as-southern-europe-sales-director?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Icon Solutions – the UK fintech enabling banks globally to design and implement state-of-the-art payment systems – has appointed Raquel Guillot as Southern Europe Sales Director, to drive adoption of the Icon Payments Framework (IPF) across the region.",
-      "date": "2026-10-29T12:16:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey",
@@ -1302,16 +1308,6 @@
       "link": "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949",
       "desc": "Post-Clarity Act, the crypto sector could find itself navigating a very different political landscape under a new Congress.",
       "date": "2026-10-28T14:43:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Coinbase says customer contact data exposed in third-party breach",
-      "link": "https://www.finextra.com/newsarticle/48662/coinbase-says-customer-contact-data-exposed-in-third-party-breach?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Crypto exchange Coinbase says a security incident at a third-party vendor exposed some customer contact data but that its own systems were not breached.",
-      "date": "2026-10-28T14:18:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
