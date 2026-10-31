@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T16:05:35.740Z",
+  "generatedAt": "2026-10-31T16:33:09.156Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 218,
+  "filteredOut": 219,
   "errors": [],
-  "dupsMerged": 26,
+  "dupsMerged": 24,
   "items": [
     {
       "source": "coindesk",
@@ -27,6 +27,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Confirms 7,499 BTC SAFU Transfer After Hack",
+      "link": "https://thedefiant.io/news/hacks/binance-confirms-7-499-btc-safu-transfer-after-hack",
+      "desc": "The exchange says it has replenished 90% of the amount lost and pledges to rebuild its emergency fund to about $1 billion.",
+      "date": "2026-10-31T16:22:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "link": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+      "desc": "Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves had emptied his crypto wallets, accessed his bank accounts and disabled his laptop.",
+      "date": "2026-10-31T16:09:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -471,11 +491,6 @@
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses"
         }
       ],
       "termBoost": 0
@@ -954,6 +969,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+      "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+      "desc": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
+      "date": "2026-10-30T11:09:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
@@ -1073,22 +1098,6 @@
       "desc": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
       "date": "2026-10-30T04:50:42.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
-      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-      "desc": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.",
-      "date": "2026-10-30T04:00:43.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -1248,16 +1257,6 @@
       "link": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
       "desc": "A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why that matters for Bitcoin's price.",
       "date": "2026-10-29T17:15:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-      "link": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
-      "desc": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
-      "date": "2026-10-29T16:32:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
