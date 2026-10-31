@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-10-31T12:33:00.555Z",
+  "generatedAt": "2026-10-31T13:04:53.297Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 212,
+  "filteredOut": 215,
   "errors": [],
-  "dupsMerged": 26,
+  "dupsMerged": 25,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+      "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+      "desc": "Next Technology Holding cited exchange security and quantum computing risks in authorizing sales or loans against its 5,833 BTC. It says none of the coins are held at Binance.",
+      "date": "2026-10-31T12:49:47.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
@@ -16,6 +27,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "18 years in, what has Bitcoin truly done?",
+      "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
+      "desc": "The Bitcoin white paper achieved a lot of what Satoshi Nakamoto set out to accomplish, but the cultural impact it had may outweigh Bitcoin itself, writes CoinDesk's Nikhilesh De.",
+      "date": "2026-10-31T13:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Lido Revenue Jumps to $605,000 on Execution-Reward Windfall",
+      "link": "https://thedefiant.io/news/defi/lido-revenue-jumps-to-605-000-on-execution-reward-windfall",
+      "desc": "The DAO received 269.69 stETH in staking fees, but its next daily reward report delivered a much smaller treasury payment.",
+      "date": "2026-10-31T12:59:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -882,16 +913,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "USDT0 Freezes 6.19 Million Tokens Linked to Binance Exploit",
-      "link": "https://thedefiant.io/news/hacks/usdt0-freezes-6-19-million-tokens-linked-to-binance-exploit",
-      "desc": "The network also restored USDT transfers between Tron and Ethereum after a precautionary pause.",
-      "date": "2026-10-30T09:43:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
@@ -1230,22 +1251,6 @@
       "link": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The exchange cited legal and regulatory compliance in its reason for cutting off services to users based in the two countries, currently the targets of international sanctions.",
       "date": "2026-10-29T17:08:41.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
-      "link": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
-      "desc": "The billionaire investor disclosed an investment in Trade[XYZ] as the platform teams up with the NYSE's parent company. His family office previously reported owning shares in a HYPE-focused treasury company.",
-      "date": "2026-10-29T17:04:19.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1286,36 +1291,6 @@
       "link": "https://www.finextra.com/newsarticle/48669/former-swift-ceo-lzaro-campos-joins-stablecoin-firm-opentrade-as-chair?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Stablecoin yield infrastructure platform OpenTrade has appointed former Swift CEO Lázaro Campos as chair of its board of directors.",
       "date": "2026-10-29T14:31:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
-      "link": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
-      "desc": "The expansion gives Solana businesses one integration to connect bank funding, embedded wallets, cross-chain transfers and global payouts, with cross-border firm Kira among the first adopters.",
-      "date": "2026-10-29T13:01:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
-      "link": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
-      "desc": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
-      "date": "2026-10-29T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
-      "link": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
-      "desc": "The FCA says the Justin Sun-linked exchange will no longer target UK consumers, ending its first case against a crypto firm over marketing.",
-      "date": "2026-10-29T12:58:28.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
