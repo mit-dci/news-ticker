@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T15:33:07.486Z",
+  "generatedAt": "2026-10-31T16:05:35.740Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 217,
+  "filteredOut": 218,
   "errors": [],
-  "dupsMerged": 25,
+  "dupsMerged": 26,
   "items": [
     {
       "source": "coindesk",
@@ -27,6 +27,32 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Origami Says DNS Is Restored but Vaults Remain Paused",
+      "link": "https://thedefiant.io/news/security/origami-says-dns-is-restored-but-vaults-remain-paused",
+      "desc": "The protocol says vault funds were unaffected; a contract readout shows deposits and withdrawals paused for its hOHM vault.",
+      "date": "2026-10-31T15:37:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+      "link": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.",
+      "date": "2026-10-31T15:36:01.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/hacks/binance-says-90-of-stolen-assets-replenished-targets-nov-1-restart"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -91,16 +117,6 @@
       "link": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
       "desc": "Easier access and growing familiarity are encouraging investors to stake their tokens, while falling rewards and withdrawal delays test the economics.",
       "date": "2026-10-31T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance Says 90% of Stolen Assets Replenished, Targets Nov. 1 Restart",
-      "link": "https://thedefiant.io/news/hacks/binance-says-90-of-stolen-assets-replenished-targets-nov-1-restart",
-      "desc": "Its new reserves page reports full backing for major tokens, while the complete cryptographic proof is expected by Nov. 3.",
-      "date": "2026-10-31T14:40:51.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -958,16 +974,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Synthetix Recovers 8.4 Million SNX Stolen in Binance Hack",
-      "link": "https://thedefiant.io/news/hacks/synthetix-recovers-8-4-million-snx-stolen-in-binance-hack",
-      "desc": "The protocolDAO says the tokens are secured in its Safe and will be returned when Binance requests them.",
-      "date": "2026-10-30T10:53:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
@@ -1086,16 +1092,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
-      "link": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
-      "desc": "The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance.",
-      "date": "2026-10-30T03:56:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
@@ -1192,16 +1188,6 @@
       "link": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
       "desc": "Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.",
       "date": "2026-10-29T20:46:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Public companies double share of blockchain revenue since 2022: Report",
-      "link": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications.",
-      "date": "2026-10-29T19:53:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
