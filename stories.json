@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T21:32:47.140Z",
+  "generatedAt": "2026-10-31T22:05:14.623Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 227,
+  "filteredOut": 228,
   "errors": [],
-  "dupsMerged": 23,
+  "dupsMerged": 24,
   "items": [
     {
       "source": "coindesk",
@@ -809,6 +809,11 @@
           "source": "DECRYPT",
           "sourceId": "decrypt",
           "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea"
         }
       ],
       "termBoost": 0
@@ -1162,26 +1167,6 @@
       "link": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Singapore police say tampered Ledgers started showing up there on September 10. South Korean lawmakers look set to delay the crypto tax law for a fourth time.",
       "date": "2026-10-29T22:31:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-      "link": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
-      "desc": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
-      "date": "2026-10-29T21:49:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-      "link": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
-      "desc": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
-      "date": "2026-10-29T21:36:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
