@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T09:32:57.334Z",
+  "generatedAt": "2026-11-01T10:05:17.276Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 243,
+  "filteredOut": 242,
   "errors": [],
-  "dupsMerged": 22,
+  "dupsMerged": 23,
   "items": [
     {
       "source": "coindesk",
@@ -16,6 +16,36 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "How Staking Rewards Change Token Holdings and Supply Share",
+      "link": "https://thedefiant.io/news/defi/how-staking-rewards-change-token-holdings-and-supply-share",
+      "desc": "In a hypothetical year, a 9% net token reward produces a 3.81% gain in supply share when total supply grows 5%. Dollar returns depend on price.",
+      "date": "2026-11-01T09:58:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "What Happens When a Uniswap v3 Position Goes Out of Range?",
+      "link": "https://thedefiant.io/news/defi/what-happens-when-a-uniswap-v3-position-goes-out-of-range",
+      "desc": "An ETH/USDC worked example tracks token balances, fees and the holding benchmark—and shows why opening a new range does not reset cumulative returns.",
+      "date": "2026-11-01T09:56:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "What Are Perpetual Funding Rates? A Worked SEI Example",
+      "link": "https://thedefiant.io/news/markets/what-are-perpetual-funding-rates-a-worked-sei-example",
+      "desc": "In a hypothetical SEI ledger, a $30 funding transfer equals 0.75% of one trader’s starting collateral and 0.375% of the other’s.",
+      "date": "2026-11-01T09:51:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -74,7 +104,13 @@
       "link": "https://thedefiant.io/news/hacks/binance-begins-reopening-withdrawals-with-bitcoin-after-6-3-billion-hack",
       "desc": "The exchange says it has replenished about 95% of the impacted amount, with less-liquid tokens accounting for the remaining 5%.",
       "date": "2026-11-01T06:25:43.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -701,26 +737,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tether Reports $1.5 Billion Q3 Operating Profit, $7.95 Billion Reserve Buffer",
-      "link": "https://thedefiant.io/converge/cefi/tether-reports-1-5-billion-q3-operating-profit-7-95-billion-reserve-buffer",
-      "desc": "Treasury bills and reverse repos drove earnings, while BDO's attestation covered the September-end report rather than activity throughout the quarter.",
-      "date": "2026-10-30T17:11:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ethereum Draft Would Let Wallets Permanently Disable EIP-7702 Delegation",
-      "link": "https://thedefiant.io/news/infrastructure/ethereum-draft-would-let-wallets-permanently-disable-eip-7702-delegation",
-      "desc": "Accounts would keep their addresses and ordinary transaction capabilities, but the opt-out would not protect funds from a stolen private key.",
-      "date": "2026-10-30T16:54:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
@@ -1013,16 +1029,6 @@
       "link": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
       "desc": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.",
       "date": "2026-10-30T10:07:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-      "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-      "desc": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
-      "date": "2026-10-30T09:41:07.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
