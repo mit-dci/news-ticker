@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T09:06:11.004Z",
+  "generatedAt": "2026-11-01T09:32:57.334Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 240,
+  "filteredOut": 243,
   "errors": [],
-  "dupsMerged": 23,
+  "dupsMerged": 22,
   "items": [
     {
       "source": "coindesk",
@@ -16,6 +16,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "How to Read Kraken’s Proof of Reserves—and Its Limits",
+      "link": "https://thedefiant.io/news/cefi/how-to-read-kraken-s-proof-of-reserves-and-its-limits",
+      "desc": "Kraken’s June 2026 snapshot separates customer-balance inclusion from wallet control. Neither alone guarantees solvency or withdrawal access.",
+      "date": "2026-11-01T09:20:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "How Circle Makes Money From USDC—and Why Reserve Income Is Not Profit",
+      "link": "https://thedefiant.io/news/cefi/how-circle-makes-money-from-usdc-and-why-reserve-income-is-not-profit",
+      "desc": "Circle’s second-quarter accounts trace $701.315 million in revenue and reserve income to $48.214 million in net income, after distribution costs, operating expenses and taxes.",
+      "date": "2026-11-01T09:08:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -741,26 +761,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "IPX Unveils KPI-Gated Escrow for On-Chain Crowdfunding & Sponsorship Campaigns",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/ipx-kpi-gated-escrow-onchain-crowdfunding-sponsorship",
-      "desc": "IPX detailed its patent-pending KPI-Gated Escrow, a system that ties crowdfunding dollars for video games, video production and sponsorship payments to agreed platform milestones. The technology is planned for use with the platform’s November 15, 2026 launch.",
-      "date": "2026-10-30T15:51:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance Attacker Used EIP-7702 to Bypass Wallet Controls, Teng Says",
-      "link": "https://thedefiant.io/news/hacks/binance-attacker-used-eip-7702-to-bypass-wallet-controls-teng-says",
-      "desc": "Binance is rebuilding its withdrawal service after a breach it estimates at $6.3 billion. Teng also said attackers destroyed tools and traces during the intrusion.",
-      "date": "2026-10-30T15:30:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "SEC Charges Two Companies in $130 Million Crypto Trading Scheme",
@@ -1013,13 +1013,7 @@
       "link": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
       "desc": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.",
       "date": "2026-10-30T10:07:29.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1029,26 +1023,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
       "desc": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
       "date": "2026-10-30T09:41:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
-      "link": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
-      "desc": "CEO Richard Teng said the attack was \"not a single 'one-click' action,\" as Binance confirmed about $3 billion has been frozen.",
-      "date": "2026-10-30T09:31:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Hackers steal $6.3bn in crypto assets from Binance",
-      "link": "https://www.finextra.com/newsarticle/48674/hackers-steal-63bn-in-crypto-assets-from-binance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "The world's largest crypto exchange has fallen victim to the world's largest crypto heist after North Korean hackers stole $6.3bn from Binance, an audacious attack that could undermine confidence in the digital assets market.",
-      "date": "2026-10-30T09:11:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
