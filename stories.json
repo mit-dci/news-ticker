@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-01T06:09:56.642Z",
+  "generatedAt": "2026-11-01T06:35:28.505Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 238,
+  "filteredOut": 239,
   "errors": [],
   "dupsMerged": 24,
   "items": [
@@ -16,6 +16,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Begins Reopening Withdrawals With Bitcoin After $6.3 Billion Hack",
+      "link": "https://thedefiant.io/news/hacks/binance-begins-reopening-withdrawals-with-bitcoin-after-6-3-billion-hack",
+      "desc": "The exchange says it has replenished about 95% of the impacted amount, with less-liquid tokens accounting for the remaining 5%.",
+      "date": "2026-11-01T06:25:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -763,16 +773,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tydro Restores New Borrowing but Keeps Lower USDC Cap",
-      "link": "https://thedefiant.io/news/defi/tydro-restores-new-borrowing-but-keeps-lower-usdc-cap",
-      "desc": "The USDC borrow limit fell 31.2% to 51.6 million tokens, leaving about $1.1 million of headroom at the time of reporting.",
-      "date": "2026-10-30T14:36:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
@@ -1056,16 +1056,6 @@
       "link": "https://www.finextra.com/newsarticle/48674/hackers-steal-63bn-in-crypto-assets-from-binance?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "The world's largest crypto exchange has fallen victim to the world's largest crypto heist after North Korean hackers stole $6.3bn from Binance, an audacious attack that could undermine confidence in the digital assets market.",
       "date": "2026-10-30T09:11:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-      "desc": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers.",
-      "date": "2026-10-30T06:22:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
