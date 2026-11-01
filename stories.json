@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-01T17:04:49.142Z",
+  "generatedAt": "2026-11-01T17:33:06.695Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 268,
+  "filteredOut": 269,
   "errors": [],
   "dupsMerged": 16,
   "items": [
@@ -16,6 +16,32 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Binance restarts customer withdrawals after $6.3bn heist",
+      "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
+      "desc": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
+      "date": "2026-11-01T17:17:28.000Z",
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance-Hack Launderers Reach Solana After Draining $500 Million on Tron, Chainalysis Says",
+      "link": "https://thedefiant.io/news/hacks/binance-hack-launderers-reach-solana-after-draining-500-million-on-tron-chainalysis-says",
+      "desc": "The firm says the Tron operation spanned more than 1,000 addresses and over 3,000 deposits before funds dispersed across chains.",
+      "date": "2026-11-01T17:08:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -75,22 +101,6 @@
       "desc": "Disclosed objections cover 44 of the venue’s original 63 proposed stock symbols, leaving 19 without a disclosed opt-out.",
       "date": "2026-11-01T13:18:37.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Binance restarts customer withdrawals after $6.3bn heist",
-      "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
-      "desc": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
-      "date": "2026-11-01T12:16:57.000Z",
-      "alsoAt": [
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -222,17 +232,6 @@
       "date": "2026-11-01T08:52:06.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.",
-      "date": "2026-10-30T17:09:31.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "defiant",
@@ -523,16 +522,6 @@
       "link": "https://www.coindesk.com/business/2026/10/31/the-usd6-3-billion-binance-hack-paradox-centralization-made-the-hack-possible-but-also-saved-usd3-billion",
       "desc": "The Binance hack has revived debates about whether decentralization is the digital asset industry’s greatest security advantage or its biggest point of weakness.",
       "date": "2026-10-31T12:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Chainalysis Flags DeFi Receipt-Token Route in Binance Hack",
-      "link": "https://thedefiant.io/news/hacks/chainalysis-flags-defi-receipt-token-route-in-binance-hack",
-      "desc": "A separate onchain example shows USDT deposited into JustLend, transferred as jUSDT and redeemed by another wallet.",
-      "date": "2026-10-31T11:47:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
