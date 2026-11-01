@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T12:07:54.612Z",
+  "generatedAt": "2026-11-01T12:32:48.247Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 247,
+  "filteredOut": 250,
   "errors": [],
-  "dupsMerged": 25,
+  "dupsMerged": 23,
   "items": [
     {
       "source": "coindesk",
@@ -16,6 +16,22 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Binance restarts customer withdrawals after $6.3bn heist",
+      "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
+      "desc": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
+      "date": "2026-11-01T12:16:57.000Z",
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "wsj",
@@ -85,22 +101,6 @@
       "desc": "In a hypothetical SEI ledger, a $30 funding transfer equals 0.75% of one trader’s starting collateral and 0.375% of the other’s.",
       "date": "2026-11-01T09:51:11.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Binance restarts customer withdrawals after $6.3bn heist",
-      "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
-      "desc": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
-      "date": "2026-11-01T09:38:52.000Z",
-      "alsoAt": [
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -603,11 +603,6 @@
           "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
         },
         {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
-        },
-        {
           "source": "FINANCIAL TIMES",
           "sourceId": "ft",
           "url": "https://www.ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1"
@@ -841,11 +836,6 @@
           "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
         },
         {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor"
-        },
-        {
           "source": "THE DEFIANT",
           "sourceId": "defiant",
           "url": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea"
@@ -960,16 +950,6 @@
       "link": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
       "desc": "Israel's Supreme Court ruled that exploiting a coding flaw can count as computer intrusion, even when the software allowed the transaction.",
       "date": "2026-10-30T13:00:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
-      "link": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
-      "desc": "Just as Hyperliquid opened the door to a fully regulated perps offering inside the U.S., Binance suffered the biggest hack in crypto history.",
-      "date": "2026-10-30T12:31:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
