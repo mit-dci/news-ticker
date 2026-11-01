@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T01:05:51.251Z",
+  "generatedAt": "2026-11-01T01:35:38.326Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 234,
   "errors": [],
-  "dupsMerged": 23,
+  "dupsMerged": 25,
   "items": [
     {
       "source": "coindesk",
@@ -115,16 +115,6 @@
       "link": "https://thedefiant.io/news/hacks/b14g-says-97-million-core-drained-pauses-contracts",
       "desc": "The Bitcoin staking protocol says exchanges froze about 9 million CORE and that staked BTC was unaffected.",
       "date": "2026-10-31T16:46:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance Confirms 7,499 BTC SAFU Transfer After Hack",
-      "link": "https://thedefiant.io/news/hacks/binance-confirms-7-499-btc-safu-transfer-after-hack",
-      "desc": "The exchange says it has replenished 90% of the amount lost and pledges to rebuild its emergency fund to about $1 billion.",
-      "date": "2026-10-31T16:22:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -791,6 +781,11 @@
       "date": "2026-10-30T14:13:15.000Z",
       "alsoAt": [
         {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
+        },
+        {
           "source": "COINTELEGRAPH",
           "sourceId": "cointelegraph",
           "url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
@@ -804,6 +799,11 @@
           "source": "THE DEFIANT",
           "sourceId": "defiant",
           "url": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/hacks/binance-confirms-7-499-btc-safu-transfer-after-hack"
         }
       ],
       "termBoost": 0
@@ -1081,16 +1081,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
       "desc": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected.",
       "date": "2026-10-30T05:45:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-      "link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
-      "desc": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
-      "date": "2026-10-30T05:43:07.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
