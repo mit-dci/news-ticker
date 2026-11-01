@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T08:33:06.540Z",
+  "generatedAt": "2026-11-01T09:06:11.004Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 239,
+  "filteredOut": 240,
   "errors": [],
-  "dupsMerged": 24,
+  "dupsMerged": 23,
   "items": [
     {
       "source": "coindesk",
@@ -16,6 +16,36 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "What Zero LTV Means for an Existing Aave Loan",
+      "link": "https://thedefiant.io/news/defi/what-zero-ltv-means-for-an-existing-aave-loan",
+      "desc": "A hypothetical $10,000 collateral position loses $1,500 of borrowing headroom without changing its 1.33 health factor.",
+      "date": "2026-11-01T09:02:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Uphold RLUSD Earn vs. Ethena Pay Earn+: Lending and Leverage Compared",
+      "link": "https://thedefiant.io/news/defi/uphold-rlusd-earn-vs-ethena-pay-earn-lending-and-leverage-compared",
+      "desc": "An equal-$10,000 illustration shows how rising borrowing costs can turn a leveraged stablecoin strategy negative without a depeg.",
+      "date": "2026-11-01T08:56:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "USDT vs. USDC: What Backs Them and How Dollar Redemptions Work",
+      "link": "https://thedefiant.io/news/tokens/usdt-vs-usdc-what-backs-them-and-how-dollar-redemptions-work",
+      "desc": "Tether publishes a $100,000 minimum for direct redemption. Circle Mint serves institutions, while a separate European policy provides a retail route subject to checks.",
+      "date": "2026-11-01T08:52:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -671,6 +701,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "link": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+      "desc": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
+      "date": "2026-10-30T16:31:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
@@ -721,26 +761,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance’s Teng Sets Monday Reserve Report Deadline as Withdrawals Stay Paused",
-      "link": "https://thedefiant.io/news/hacks/binance-s-teng-sets-monday-reserve-report-deadline-as-withdrawals-stay-paused",
-      "desc": "Teng said the Sunday withdrawal restart target remained on track within 40 hours, but reopening depends on the rebuilt service passing testing.",
-      "date": "2026-10-30T14:54:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ripio to Compensate 1,000 Users After $6,000 wARS Pricing Error",
-      "link": "https://thedefiant.io/news/defi/ripio-ceo-acknowledges-error-after-wars-conversion-complaints",
-      "desc": "Ripio said the shortfall totaled no more than about $6,000; non-dollar stablecoins hold 0.6% of the $302 billion stablecoin market",
-      "date": "2026-10-30T14:50:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "SEC Charges Two Companies in $130 Million Crypto Trading Scheme",
@@ -748,22 +768,6 @@
       "desc": "Bitcoin Magazine SEC Charges Two Companies in $130 Million Crypto Trading Scheme The SEC has charged two companies with defrauding investors of over $130 million through a crypto Ponzi-like scheme. This post SEC Charges Two Companies in $130 Million Crypto Trading Scheme first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-10-30T14:38:43.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance’s Teng Targets Sunday Withdrawal Restart After Hack",
-      "link": "https://thedefiant.io/news/hacks/binance-s-teng-targets-sunday-withdrawal-restart-after-hack",
-      "desc": "The co-CEO says Binance has reserved over $6.34 billion in company funds and plans to publish a full Proof of Reserves report by Monday.",
-      "date": "2026-10-30T14:38:19.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -1011,9 +1015,9 @@
       "date": "2026-10-30T10:07:29.000Z",
       "alsoAt": [
         {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196"
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
       "termBoost": 0
@@ -1035,16 +1039,6 @@
       "link": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
       "desc": "CEO Richard Teng said the attack was \"not a single 'one-click' action,\" as Binance confirmed about $3 billion has been frozen.",
       "date": "2026-10-30T09:31:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Trezor warns CryptoBilis buyers to move funds over suspected implant",
-      "link": "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant.",
-      "date": "2026-10-30T09:26:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
