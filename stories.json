@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T10:32:46.612Z",
+  "generatedAt": "2026-11-01T11:04:49.510Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 243,
   "errors": [],
-  "dupsMerged": 23,
+  "dupsMerged": 25,
   "items": [
     {
       "source": "coindesk",
@@ -65,6 +65,22 @@
       "desc": "In a hypothetical SEI ledger, a $30 funding transfer equals 0.75% of one trader’s starting collateral and 0.375% of the other’s.",
       "date": "2026-11-01T09:51:11.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Binance restarts customer withdrawals after $6.3bn heist",
+      "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
+      "desc": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
+      "date": "2026-11-01T09:38:52.000Z",
+      "alsoAt": [
+        {
+          "source": "FINANCIAL TIMES",
+          "sourceId": "ft",
+          "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -129,6 +145,11 @@
           "source": "COINTELEGRAPH",
           "sourceId": "cointelegraph",
           "url": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack"
         }
       ],
       "termBoost": 0
@@ -595,16 +616,6 @@
       "termBoost": 0
     },
     {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Binance rushes to recover customer money after $6.3bn heist",
-      "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
-      "desc": "World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach",
-      "date": "2026-10-30T22:12:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Binance hackers raced to move billions before it could be frozen",
@@ -999,26 +1010,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
       "desc": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
       "date": "2026-10-30T11:09:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "EIP-7702 didn’t cause Binance hack, but may have amplified losses",
-      "link": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Security experts said attackers could have drained Binance’s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.",
-      "date": "2026-10-30T11:00:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-      "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The attackers held 18,270 BTC early Friday, topping Coinbase’s reported corporate holdings, and an Ether stash exceeding 500,000 ETH.",
-      "date": "2026-10-30T10:54:30.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
