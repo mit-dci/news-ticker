@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T18:06:47.044Z",
+  "generatedAt": "2026-11-01T18:33:19.083Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 270,
   "errors": [],
-  "dupsMerged": 16,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "coindesk",
@@ -18,19 +18,33 @@
       "termBoost": 3
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+      "link": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+      "desc": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million.",
+      "date": "2026-11-01T18:25:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "ft",
       "sourceName": "FINANCIAL TIMES",
-      "title": "Binance restarts customer withdrawals after $6.3bn heist",
+      "title": "Binance users pull $3.6bn as crypto exchange restarts services after heist",
       "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
-      "desc": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
-      "date": "2026-11-01T17:17:28.000Z",
-      "alsoAt": [
-        {
-          "source": "FINANCIAL TIMES",
-          "sourceId": "ft",
-          "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
-        }
-      ],
+      "desc": "Group pledges to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
+      "date": "2026-11-01T18:15:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Election Market Odds vs. Polls: What a 70% Chance Means",
+      "link": "https://thedefiant.io/news/cefi/election-market-odds-vs-polls-what-a-70-chance-means",
+      "desc": "The last trade can differ from the price available now, while a favorite losing is only one observation—not a verdict on a forecast’s reliability.",
+      "date": "2026-11-01T18:12:49.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -506,16 +520,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Lido Revenue Jumps to $605,000 on Execution-Reward Windfall",
-      "link": "https://thedefiant.io/news/defi/lido-revenue-jumps-to-605-000-on-execution-reward-windfall",
-      "desc": "The DAO received 269.69 stETH in staking fees, but its next daily reward report delivered a much smaller treasury payment.",
-      "date": "2026-10-31T12:59:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion",
@@ -675,6 +679,16 @@
       "termBoost": 0
     },
     {
+      "source": "ft",
+      "sourceName": "FINANCIAL TIMES",
+      "title": "Binance rushes to recover customer money after $6.3bn heist",
+      "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+      "desc": "World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach",
+      "date": "2026-10-30T22:12:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Binance hackers raced to move billions before it could be frozen",
@@ -771,16 +785,6 @@
       "link": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
       "desc": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
       "date": "2026-10-30T18:45:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
-      "link": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
-      "desc": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in one of the clearest “wrench attack” prosecutions yet.",
-      "date": "2026-10-30T18:16:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     }
