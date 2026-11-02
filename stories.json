@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T23:33:02.457Z",
+  "generatedAt": "2026-11-02T00:17:20.295Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 280,
+  "filteredOut": 278,
   "errors": [],
-  "dupsMerged": 13,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "coindesk",
@@ -18,9 +18,25 @@
       "termBoost": 3
     },
     {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Binance Says It Replaced 95% of Stolen Crypto for Users",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/binance-says-it-replaced-95-percent-of-stolen-crypto-for-users/",
+      "desc": "Binance began restoring withdrawals in phases Sunday (Nov. 1) at 06:00 UTC (1 a.m. EST), and by about 6½ hours later resumed withdrawals for the 15 networks and assets in the first phase, the company said in a post on X. Binance had paused withdrawals after hackers stole $6.3 billion from its cryptocurrency exchange late […] The post Binance Says It Replaced 95% of Stolen Crypto for Users appeared first on PYMNTS.com.",
+      "date": "2026-11-01T23:46:03.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "$3.6B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
+      "title": "$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Binance has reopened withdrawals following the world’s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands.",
       "date": "2026-11-01T23:09:13.000Z",
@@ -489,16 +505,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-      "link": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
-      "desc": "Binance is absorbing all losses through corporate funds, futures reserves, and SAFU, keeping user balances intact.",
-      "date": "2026-10-31T15:24:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
@@ -674,6 +680,11 @@
       "desc": "▶Bitcoin Magazine What to Know About the $6.3 Billion Binance Hack Binance suffers a record $6.3B hack with $3.3B unrecovered. BMTV breaks down what happened, Binance's response, and why every day is now zero day for crypto. This post What to Know About the $6.3 Billion Binance Hack first appeared on Bitcoin Magazine and is written by Patrick Green.",
       "date": "2026-10-31T00:57:26.000Z",
       "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
         {
           "source": "THE BLOCK",
           "sourceId": "block",
