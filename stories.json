@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-02T17:05:33.376Z",
+  "generatedAt": "2026-11-02T17:33:57.244Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 250,
   "errors": [],
-  "dupsMerged": 16,
+  "dupsMerged": 17,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+      "link": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
+      "desc": "The unidentified attacker moved funds through ether, instant exchanges and Monero, but the victim and affected exchanges remain unknown.",
+      "date": "2026-11-02T17:21:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "block",
       "sourceName": "THE BLOCK",
@@ -90,7 +100,13 @@
       "link": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
       "desc": "Bitcoin Magazine Brazil’s Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million Brazil’s largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it will reopen. This post Brazil’s Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-11-02T16:09:05.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/hacks/researcher-puts-mercado-bitcoin-freezes-near-7-million"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -738,16 +754,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance Attacker Splits $292 Million in XRP Across Six Wallets",
-      "link": "https://thedefiant.io/news/hacks/binance-attacker-splits-292-million-in-xrp-across-six-wallets",
-      "desc": "The six recipients showed no outgoing payments, but native XRP cannot be frozen by Ripple, leaving exchanges as a potential interception point.",
-      "date": "2026-11-02T07:42:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
@@ -894,16 +900,6 @@
       "title": "The key races to watch for the 2026 election",
       "link": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
       "desc": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is tracking.",
-      "date": "2026-11-01T15:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-      "link": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
-      "desc": "Providers are betting trading, lending and staking revenue can cover rewards and turn card users into profitable customers.",
       "date": "2026-11-01T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
