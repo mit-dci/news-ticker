@@ -1,7 +1,7 @@
 name: Update feeds
 
 on:
-  # Every 30 minutes. GitHub cron is best-effort; expect some skew.
+  # Every 2 hours. GitHub cron is best-effort; expect some skew.
   # Scheduled runs pause on inactive repos (~60 days) — commit
   # anything to keep them alive.
   schedule:
