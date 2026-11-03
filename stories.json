@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T12:34:10.779Z",
+  "generatedAt": "2026-11-03T13:05:58.094Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 232,
   "errors": [],
-  "dupsMerged": 20,
+  "dupsMerged": 21,
   "items": [
     {
       "source": "coindesk",
@@ -952,16 +952,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
-      "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
-      "desc": "The fix is on track for Wednesday after validator support briefly dipped and restarted the two-week activation clock. XRP itself is unaffected.",
-      "date": "2026-11-02T12:37:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
@@ -1065,6 +1055,11 @@
       "desc": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike.",
       "date": "2026-11-01T16:32:31.000Z",
       "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery"
+        },
         {
           "source": "TECHCRUNCH",
           "sourceId": "techcrunch",
