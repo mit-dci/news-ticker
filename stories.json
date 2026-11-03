@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T00:44:14.722Z",
+  "generatedAt": "2026-11-03T01:06:17.762Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 233,
   "errors": [],
-  "dupsMerged": 18,
+  "dupsMerged": 19,
   "items": [
     {
       "source": "defiant",
@@ -443,7 +443,13 @@
       "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
       "desc": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack.",
       "date": "2026-11-02T15:53:29.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -825,16 +831,6 @@
       "link": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
       "desc": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said.",
       "date": "2026-11-02T10:36:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Visa Stablecoin Payments Explained: Settlement, Spending and Payouts",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/visa-stablecoin-payments-explained-settlement-spending-and-payouts",
-      "desc": "A shopper can spend a stablecoin balance while the merchant receives ordinary money. That is different from using stablecoins to settle between institutions or fund payouts.",
-      "date": "2026-11-02T10:26:38.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
