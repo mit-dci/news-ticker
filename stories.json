@@ -1,11 +1,61 @@
 {
-  "generatedAt": "2026-11-03T11:32:57.619Z",
+  "generatedAt": "2026-11-03T12:08:32.606Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 235,
+  "filteredOut": 231,
   "errors": [],
-  "dupsMerged": 18,
+  "dupsMerged": 19,
   "items": [
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+      "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
+      "desc": "But there’s a catch: validators that fail to deliver on their commitments currently face no financial compensation requirement under the service.",
+      "date": "2026-11-03T12:01:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Lacks Cyber Insurance for $6.3 Billion Hack, Bloomberg Law Reports",
+      "link": "https://thedefiant.io/news/hacks/binance-lacks-cyber-insurance-for-6-3-billion-hack-bloomberg-law-reports",
+      "desc": "The exchange says it reserved more than $6.34 billion in company funds and is drawing on emergency and futures reserves to replace stolen assets.",
+      "date": "2026-11-03T11:59:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "RTGS.global adds AMINA Bank to its cross-border payment network",
+      "link": "https://www.finextra.com/pressarticle/111543/rtgsglobal-adds-amina-bank-to-its-cross-border-payment-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "RTGS.global and AMINA Bank AG (AMINA) have today announced a partnership that adds regulated digital asset banking capabilities to RTGS.global’s cross-border payment network. The partnership gives eligible RTGS.global clients access to AMINA’s FINMA-regulated banking services, making it easier for businesses and financial institutions operating across traditional and digital assets to access banking services and move money across borders. To start, services spanning fiat accounts in CHF and EUR with local payment rails alongside digital wallets are available through a single platform. USD and GBP fiat accounts will be added in due course.",
+      "date": "2026-11-03T11:52:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Binance’s net inflows turn positive at $2.3B as withdrawals expand",
+      "link": "https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Binance led exchanges in 24-hour net inflows, reversing Monday’s heavy outflows as it restored access to funds after its $6.3 billion hack.",
+      "date": "2026-11-03T11:32:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Komainu completes two-way digital asset transfers for First Abu Dhabi Bank",
+      "link": "https://www.finextra.com/pressarticle/111542/komainu-completes-two-way-digital-asset-transfers-for-first-abu-dhabi-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Komainu, a regulated digital asset services provider and custodian backed by Laser Digital and Blockstream, has completed the two-way transfer of a portfolio of digital assets with First Abu Dhabi Bank (FAB) through the institutional digital asset custody framework the two firms have established. The transfers settled instantly.",
+      "date": "2026-11-03T11:32:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -155,9 +205,9 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Suspected EU crypto theft estimate rises to $133M: ZachXBT",
+      "title": "Kraken restricts accounts amid suspected $133M EU crypto theft",
       "link": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "ZachXBT identified another $27 million in exchange withdrawals, some of which occurred after he first flagged the suspected crypto theft.",
+      "desc": "Crypto.com also took steps to block funds tied to the suspected theft, while Kraken said its systems and customer accounts were not compromised.",
       "date": "2026-11-03T08:18:22.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -239,7 +289,13 @@
       "link": "https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit",
       "desc": "Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls.",
       "date": "2026-11-03T00:12:59.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -880,16 +936,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "ZachXBT Flags Suspected $106 Million-Plus Theft From EU Entity",
-      "link": "https://thedefiant.io/news/hacks/zachxbt-flags-suspected-106-million-plus-theft-from-eu-entity",
-      "desc": "The investigator says funds withdrawn from multiple exchange accounts were being swapped into ETH and routed through instant exchanges, Monero and cross-chain bridges.",
-      "date": "2026-11-02T12:38:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
@@ -986,16 +1032,6 @@
       "link": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows.",
       "date": "2026-11-02T08:56:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.",
-      "date": "2026-11-02T07:50:36.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
