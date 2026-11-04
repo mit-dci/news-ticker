@@ -1,11 +1,93 @@
 {
-  "generatedAt": "2026-11-04T18:13:33.600Z",
+  "generatedAt": "2026-11-04T20:11:35.592Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 238,
+  "filteredOut": 241,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 15,
   "items": [
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+      "link": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+      "desc": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
+      "date": "2026-11-04T20:09:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "What the 2026 Midterms Mean for Crypto, Banks and Stablecoin Regulation",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/what-the-2026-midterms-mean-for-crypto-banks-and-stablecoin-regulation/",
+      "desc": "The cryptocurrency industry spent heavily to shape the next Congress. Now it may have to spend the next two years defending the regulatory ground it already won. Democrats captured control of both chambers in Tuesday’s (Nov. 3) midterm elections, reversing the Republican majorities that helped deliver landmark stablecoin legislation with the GENIUS Act and advance […] The post What the 2026 Midterms Mean for Crypto, Banks and Stablecoin Regulation appeared first on PYMNTS.com.",
+      "date": "2026-11-04T19:55:58.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "French Hill’s race still too close to call as House flips, changing the direction of crypto legislation",
+      "link": "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572",
+      "desc": "As of Wednesday afternoon, House Financial Services Committee Chair French Hill's race for reelection is too close to call.",
+      "date": "2026-11-04T19:02:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Yellow Card Expands Stablecoin Payments to Brazil With GoMoney Acquisition",
+      "link": "https://www.pymnts.com/news/acquiring/2026/yellow-card-expands-stablecoin-payments-to-brazil-with-gomoney-acquisition/",
+      "desc": "Global stablecoin payments infrastructure provider Yellow Card has established direct operations in Brazil by completing its acquisition of GoMoney, a virtual asset provider in Brazil, the company said in a Wednesday (Nov. 4) press release. Yellow Card completed the acquisition in October, according to the release. GoMoney has filed an application with the Banco Central […] The post Yellow Card Expands Stablecoin Payments to Brazil With GoMoney Acquisition appeared first on PYMNTS.com.",
+      "date": "2026-11-04T18:37:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation",
+      "link": "https://bitcoinmagazine.com/news/matt-corallo-flags-critical-linux-kernel-flaw-lightning-labs-ships-lnd-mitigation",
+      "desc": "Bitcoin Magazine Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation Bitcoin Core and Lightning developer Matt Corallo highlighted CVE-2026-98432 on October 30, a use-after-free in the Linux kernel IPv4 TCP handshake code scored CVSS 9.8. Anthropic’s Frontier Red Team demonstrated a remote root exploit against systems with a Multipath TCP listener. This post Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation first appeared on Bitcoin Magazine and is written by Juan Galt.",
+      "date": "2026-11-04T18:31:56.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/security/lightning-labs-releases-lnd-mitigation-for-critical-linux-flaw"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+      "link": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+      "desc": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.",
+      "date": "2026-11-04T18:16:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "What Are Privacy Coins? Bitcoin, Monero and Zcash Compared",
+      "link": "https://thedefiant.io/news/tokens/what-are-privacy-coins-bitcoin-monero-and-zcash-compared",
+      "desc": "Monero requires privacy mechanisms for ordinary transfers, while Zcash supports transparent and shielded modes. Neither erases an exchange’s identity records.",
+      "date": "2026-11-04T18:15:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
@@ -137,16 +219,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Circle’s $13.9 Trillion Stablecoin Paradox: More Payments, Less Profit Per Dollar",
-      "link": "https://www.pymnts.com/earnings/2026/circles-13-9-trillion-stablecoin-paradox-more-payments-less-profit-per-dollar/",
-      "desc": "Circle’s stablecoin business has a problem most payments companies would envy. Its money is moving faster than its earnings can keep up. Per the company’s third quarter 2026 results, announced Wednesday (Nov. 4), Circle’s USDC stablecoin processed $13.9 trillion in on-chain transactions during the third quarter, up 49% year over year, giving Circle 79% of […] The post Circle’s $13.9 Trillion Stablecoin Paradox: More Payments, Less Profit Per Dollar appeared first on PYMNTS.com.",
-      "date": "2026-11-04T16:25:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Coinbase Brings Deribit Options and Perpetuals to US Prime Clients",
@@ -203,16 +275,6 @@
       "link": "https://thedefiant.io/news/markets/bitcoin-reclaims-79-000-after-5-rebound-from-election-night-low",
       "desc": "Ether and Solana joined the recovery, while S&P 500 and gold futures gained about 3% over a matched overnight window.",
       "date": "2026-11-04T14:57:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Starling CEO Departing After 2 Years With Digital Bank",
-      "link": "https://www.pymnts.com/personnel/2026/starling-ceo-departing-after-2-years-with-digital-bank/",
-      "desc": "The chief executive of England’s Starling Bank is reportedly departing after just two years. That’s according to a report Wednesday (Nov. 4) from the Financial Times (FT), which notes that Raman Bhatia’s exit comes as the FinTech is dealing with flagging growth. Bhatia has privately told the company’s board that he no longer wants to run Starling, three sources familiar with […] The post Starling CEO Departing After 2 Years With Digital Bank appeared first on PYMNTS.com.",
-      "date": "2026-11-04T14:54:17.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -499,16 +561,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Embat Turns to J.P. Morgan for Better Bank-Treasury Connectivity",
-      "link": "https://www.pymnts.com/partnerships/2026/embat-turns-to-j-p-morgan-for-better-bank-treasury-connectivity/",
-      "desc": "Treasury/cash management FinTech Embat has launched a new partnership with J.P. Morgan Payments. Embat announced Wednesday (Nov. 4) that it has integrated J.P. Morgan’s new banking authorization service (BAS) API for treasury services and payments, letting joint clients connect their J.P. Morgan bank accounts to Embat’s treasury management platform. “Traditionally, connecting a treasury platform to […] The post Embat Turns to J.P. Morgan for Better Bank-Treasury Connectivity appeared first on PYMNTS.com.",
-      "date": "2026-11-04T10:00:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
@@ -631,6 +683,22 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "South Korea's ruling party wants to delay its crypto tax again",
+      "link": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
+      "desc": "South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law.",
+      "date": "2026-11-04T05:09:40.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Democrats Win Senate Control as CLARITY Act Remains Stalled",
@@ -688,37 +756,6 @@
       "desc": "SOL has lost about 24% in four weeks, more than double bitcoin's decline over the same window.",
       "date": "2026-11-04T03:20:50.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade",
-      "link": "https://thedefiant.io/news/defi/thorchain-restarts-most-swaps-with-14-nodes-yet-to-upgrade",
-      "desc": "Cosmos Hub, BNB Smart Chain and Solana still have trading and outbound-signing restrictions.",
-      "date": "2026-11-04T02:18:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "South Korea’s Ruling Party Formally Seeks Crypto Tax Delay",
-      "link": "https://thedefiant.io/news/regulation/south-korea-s-ruling-party-formally-seeks-crypto-tax-delay",
-      "desc": "Kim Min-seok wants a digital-asset framework enacted before taxation. A two-year postponement is under discussion, but the legal start date remains Jan. 1, 2027.",
-      "date": "2026-11-04T01:53:19.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -898,16 +935,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Binance Says $6.34 Billion Hack Began With Fake Job Interview",
-      "link": "https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job",
-      "desc": "Bitcoin Magazine Binance Says $6.34 Billion Hack Began With Fake Job Interview Binance’s incident report says the $6.34 billion Oct. 29 theft was a five-month campaign that began with a fake job interview and a poisoned developer tool. This post Binance Says $6.34 Billion Hack Began With Fake Job Interview first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-03T16:44:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "techcrunch",
       "sourceName": "TECHCRUNCH",
       "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
@@ -924,16 +951,6 @@
       "link": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
       "desc": "Aztec Foundation has rolled out Tierra V6, saying it fixes earlier security issues and doubles the speed of private transaction proof generation.",
       "date": "2026-11-03T14:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "What’s at stake for crypto as the US votes in the 2026 midterms?",
-      "link": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Crypto groups spent about $176 million ahead of the US midterms, with control of Congress and the future of crypto legislation at stake.",
-      "date": "2026-11-03T13:53:07.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -994,56 +1011,6 @@
       "link": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
       "desc": "Kim Yo Jong suggested the U.S. itself could be behind the theft, as Binance said hourly deposits had begun to exceed withdrawals.",
       "date": "2026-11-03T10:18:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.",
-      "date": "2026-11-03T10:04:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "NEAR governance approves proposal to cut token issuance ceiling to 1.6%",
-      "link": "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378",
-      "desc": "NEAR's House of Stake passed HSP-029, which lowers the network's maximum annual issuance rate from 2.5% to 1.6% over 24 months.",
-      "date": "2026-11-03T09:19:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Consensys launches cross-ledger settlement and routing stack for institutional networks",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375",
-      "desc": "Consensys launched a technology stack enabling banks to route and settle transactions across independent ledgers without moving assets.",
-      "date": "2026-11-03T08:56:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
-      "link": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
-      "desc": "Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies.",
-      "date": "2026-11-02T22:16:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
-      "link": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
-      "desc": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.",
-      "date": "2026-11-02T21:16:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
