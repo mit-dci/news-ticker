@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T14:12:29.729Z",
+  "generatedAt": "2026-11-06T16:12:46.026Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 245,
+  "filteredOut": 244,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 16,
   "items": [
     {
       "source": "coincenter",
@@ -38,12 +38,144 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
-      "link": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
-      "desc": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
-      "date": "2026-11-06T14:04:18.000Z",
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Coinbase Opens USDC Borrowing Against PAX Gold",
+      "link": "https://thedefiant.io/news/defi/coinbase-opens-usdc-borrowing-against-pax-gold",
+      "desc": "The gold-backed token joins Coinbase’s collateral options, while its loan-health pricing updates only during gold-market hours.",
+      "date": "2026-11-06T15:39:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "desc": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
+      "date": "2026-11-06T15:26:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review",
+      "link": "https://bitcoinmagazine.com/news/dol-rule-crypto-401k-white-house-review",
+      "desc": "Bitcoin Magazine Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review A final Labor Department rule that would create a fiduciary safe harbor for private equity, real estate and crypto in 401(k) menus arrived at OIRA on Thursday, putting public release within reach. This post Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-06T15:09:02.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/regulation/crypto-401-k-rule-enters-final-white-house-review"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/regulation/sec-crypto-broker-rule-enters-white-house-review"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Gnosis Pay Confirms Breach of Consumer-Card System",
+      "link": "https://thedefiant.io/news/security/gnosis-pay-confirms-breach-of-consumer-card-system",
+      "desc": "The company says funds and its enterprise platform were unaffected, but has not disclosed how many customers were hit.",
+      "date": "2026-11-06T15:01:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Aave Labs buys Avon team in fixed-rate lending push",
+      "link": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
+      "desc": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol.",
+      "date": "2026-11-06T15:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
+      "link": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+      "desc": "Bitcoin Magazine Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says About 42 million stolen XRP, worth roughly $50 million, has been swapped mostly into bitcoin via THORChain, Elliptic said, lifting converted bitcoin from the Binance theft to about 1,650 BTC. This post Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-06T14:50:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "B2B payments firm Pliant raises $80",
+      "link": "https://www.finextra.com/pressarticle/111604/b2b-payments-firm-pliant-raises-80?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Pliant, a global fintech specializing in highly modular B2B payment solutions, today announced an $80 million Series C funding round led by Seaya Nova and Speedinvest, with participation from Illuminate Financial, Motive Partners and Molten Ventures.",
+      "date": "2026-11-06T14:44:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Rotki Founder Says Gnosis Pay Exposed His Address, Card and Wallet Details",
+      "link": "https://thedefiant.io/news/security/rotki-founder-says-gnosis-pay-exposed-his-address-card-and-wallet-details",
+      "desc": "A notification screenshot he shared describes unauthorized access to the consumer-card system on Nov. 3 and says enterprise programs were unaffected.",
+      "date": "2026-11-06T14:34:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Bitcoin Price Holds Near $75,000 After Hot October Jobs Report",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-75800-jobs",
+      "desc": "Bitcoin Magazine Bitcoin Price Holds Near $75,000 After Hot October Jobs Report Bitcoin price held near $75,800 Friday after U.S. employers added 165,000 jobs in October, far above the 59,000 forecast, as December Fed hike odds climbed toward 80%. This post Bitcoin Price Holds Near $75,000 After Hot October Jobs Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-06T14:30:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
+      "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.",
+      "date": "2026-11-06T14:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat",
+      "link": "https://bitcoinmagazine.com/news/gopax-suspends-withdrawals-hacking-threat",
+      "desc": "Bitcoin Magazine South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat South Korea's Gopax halted standard withdrawals at 2:55 p.m. and trading at 3:53 p.m. Friday after a hacking-threat email, and is transferring all held assets to cold wallets with no loss reported so far. This post South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-06T14:22:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "What Are Crypto Derivatives? Futures, Perpetuals and Options Explained",
+      "link": "https://thedefiant.io/news/markets/what-are-crypto-derivatives-futures-perpetuals-and-options-explained",
+      "desc": "Futures bind both sides to settlement obligations. Options give buyers a right in exchange for a premium, while sellers take the corresponding obligation.",
+      "date": "2026-11-06T14:16:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -64,7 +196,13 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/bitcoin-gains-drive-strive-s-474-8-million-q3-profit",
       "desc": "SATA and SATS imply about $287.4 million in annual dividends at November rates and Oct. 30 share counts, a cost excluded from its Bitcoin Yield metric.",
       "date": "2026-11-06T14:03:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -174,32 +312,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
-      "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-      "desc": "Nasdaq 100 futures were higher by 1.5% following Thursday's 5.5% rout. Japan's Nikkei and Korea's Kospi each slumped 6% overnight.",
-      "date": "2026-11-06T11:58:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
       "link": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.",
       "date": "2026-11-06T11:26:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance Hackers Swap $50 Million in XRP, Mostly Into Bitcoin, Elliptic Says",
-      "link": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
-      "desc": "Bitcoin obtained from other stolen assets nearly doubled in a day to 1,650 BTC, while the main ETH and bitcoin holdings remain untouched.",
-      "date": "2026-11-06T11:06:26.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -525,16 +643,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "SEC Crypto Broker Rule Enters White House Review",
-      "link": "https://thedefiant.io/converge/regulation/sec-crypto-broker-rule-enters-white-house-review",
-      "desc": "The planned amendments cover capital requirements, customer-asset safeguards and recordkeeping for broker-dealers handling crypto assets.",
-      "date": "2026-11-05T18:55:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
@@ -651,36 +759,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Floki Takes Trading Bot Offline Amid Exploit Investigation",
-      "link": "https://thedefiant.io/news/security/floki-takes-trading-bot-offline-amid-exploit-investigation",
-      "desc": "The team plans to move affected users to new wallets and warns against further deposits into bot wallets.",
-      "date": "2026-11-05T17:17:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aave Schedules Vote on Babylon Native Bitcoin Collateral for V4",
-      "link": "https://thedefiant.io/news/defi/aave-schedules-vote-on-babylon-native-bitcoin-collateral-for-v4",
-      "desc": "LlamaRisk has proposed a 300 BTC collateral cap, but activating the market would still require a separate onchain governance vote.",
-      "date": "2026-11-05T17:05:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "SoFi Says Crypto Vendor Issue Is Delaying Deposits and Withdrawals",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-says-crypto-vendor-issue-is-delaying-deposits-and-withdrawals",
-      "desc": "The bank says incoming transfers are awaiting review and outgoing transfers will be processed after review, while assuring customers their funds are secure.",
-      "date": "2026-11-05T16:58:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
@@ -711,32 +789,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Groma Launches Real Estate Issuance and Redemption on Uniswap",
-      "link": "https://thedefiant.io/news/defi/groma-launches-real-estate-issuance-and-redemption-on-uniswap",
-      "desc": "The GRO/USDC pool on Base uses net asset value pricing, with wallet eligibility enforced by Uniswap v4’s Permissioned Pools Hook.",
-      "date": "2026-11-05T16:46:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
       "link": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
       "desc": "Analysts said that the Clarity Act's path has become tougher, while advocacy group Stand With Crypto has endorsed 27 winning candidates so far.",
       "date": "2026-11-05T16:37:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Zcash Nears NU7 Upgrade and Sprout Spending Cutoff",
-      "link": "https://thedefiant.io/news/blockchains/zcash-nears-nu7-upgrade-and-sprout-spending-cutoff",
-      "desc": "About 12,224 ZEC remained in the legacy shielded pool ahead of the cutoff. NU7 will also reduce target block spacing from 75 seconds to 25 seconds.",
-      "date": "2026-11-05T16:26:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -757,26 +815,6 @@
       "link": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
       "desc": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved.",
       "date": "2026-11-05T16:00:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "U.S.-Sanctioned Moscow Exchange Will List Bitcoin on Dec. 1 as Russia Pulls Crypto Trading Home",
-      "link": "https://bitcoinmagazine.com/news/moscow-exchange-bitcoin-trading-dec-1",
-      "desc": "Bitcoin Magazine U.S.-Sanctioned Moscow Exchange Will List Bitcoin on Dec. 1 as Russia Pulls Crypto Trading Home Russia's largest exchange, Moscow Exchange,. will open bitcoin trading on Dec. 1 under the country's new crypto law, with retail buyers tested and capped at 300,000 rubles a year. This post U.S.-Sanctioned Moscow Exchange Will List Bitcoin on Dec. 1 as Russia Pulls Crypto Trading Home first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-05T16:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading",
-      "link": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
-      "desc": "Bitcoin Magazine Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading Ukraine's National Bank says draft law 10225-d on virtual assets lacks safeguards on foreign tokens and platform licensing. This post Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-05T15:45:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -827,16 +865,6 @@
       "link": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
       "desc": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.",
       "date": "2026-11-05T14:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "French bank Crédit Mutuel Arkéa seeks to recover funds after €100mn hack",
-      "link": "https://www.ft.com/content/3f6ef089-f478-4d00-a080-21a88ffd721b?syn-25a6b1a6=1",
-      "desc": "Attack on institution’s own account used techniques that echo the hit on crypto exchange Binance last week",
-      "date": "2026-11-05T13:28:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -921,26 +949,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
-      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
-      "desc": "Bitcoin slipped 0.2% to around $80,250 since midnight UTC, holding above $80,000 after Wednesday’s jump, as spot ETFs ended a three-day outflow streak.",
-      "date": "2026-11-05T11:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
-      "link": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.",
-      "date": "2026-11-05T09:04:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto",
@@ -951,32 +959,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Crédit Mutuel Arkéa confirms cyberattack after ZachXBT flags $133M in suspected losses",
-      "link": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
-      "desc": "Crédit Mutuel Arkéa did not confirm the exact amount of losses but validated the order of magnitude of the $133 million figure.",
-      "date": "2026-11-05T04:01:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
       "link": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
       "desc": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it’s about Bitcoin maintenance.",
       "date": "2026-11-04T22:46:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
-      "link": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362",
-      "desc": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt.",
-      "date": "2026-11-04T21:54:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
