@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T22:10:30.393Z",
+  "generatedAt": "2026-11-07T00:27:34.668Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 232,
+  "filteredOut": 233,
   "errors": [],
-  "dupsMerged": 21,
+  "dupsMerged": 20,
   "items": [
     {
       "source": "coincenter",
@@ -26,6 +26,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff",
+      "link": "https://thedefiant.io/news/cefi/mexc-says-withdrawals-continue-as-fincen-orders-us-financial-cutoff",
+      "desc": "The exchange says it has begun an independent review of its AML and sanctions controls. The US transfer ban takes effect 30 days after Federal Register publication.",
+      "date": "2026-11-07T00:00:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinops",
@@ -174,6 +184,16 @@
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
+      "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+      "link": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+      "desc": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval.",
+      "date": "2026-11-06T19:46:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
       "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
       "link": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
       "desc": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Peña.",
@@ -273,22 +293,6 @@
           "source": "DECRYPT",
           "sourceId": "decrypt",
           "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Hyperliquid Wants to Become Futures Commission Merchant in US",
-      "link": "https://www.pymnts.com/blockchain/2026/hyperliquid-wants-become-futures-commission-merchant-united-states/",
-      "desc": "Digital asset treasury company Hyperliquid Strategies wants to become a futures commission merchant (FCM) regulated in the United States, according to a Thursday (Nov. 5) press release. Hyperliquid Strategies CEO David Schamis announced the company’s plans when reporting quarterly earnings. “Hyperliquid is winning the parts of on-chain finance that generate real fees, and nearly all […] The post Hyperliquid Wants to Become Futures Commission Merchant in US appeared first on PYMNTS.com.",
-      "date": "2026-11-06T17:49:33.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker"
         }
       ],
       "termBoost": 0
@@ -867,16 +871,6 @@
       "link": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
       "desc": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed.",
       "date": "2026-11-05T19:46:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Anza Urges Solana Validators to Upgrade Agave Before Epoch 1079",
-      "link": "https://thedefiant.io/news/blockchains/anza-urges-solana-validators-to-upgrade-agave-before-epoch-1079",
-      "desc": "Agave 4.4.1 changes how loader-v3 program data counts toward transaction limits, ahead of a planned Nov. 6 cutoff for unpatched nodes.",
-      "date": "2026-11-05T19:26:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
