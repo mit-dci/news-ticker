@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T16:10:31.537Z",
+  "generatedAt": "2026-11-08T18:12:12.767Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 280,
+  "filteredOut": 286,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "decrypt",
@@ -16,6 +16,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "How to Read Token Allowances in Revoke.cash and Etherscan",
+      "link": "https://thedefiant.io/news/security/how-to-read-token-allowances-in-revoke-cash-and-etherscan",
+      "desc": "Viewing a wallet address requires no signature. Revoking an allowance changes a specific token-spending permission—not every permission attached to the account.",
+      "date": "2026-11-08T18:11:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank",
+      "link": "https://thedefiant.io/converge/regulation/bridge-s-occ-approval-opens-path-to-federal-stablecoin-trust-bank",
+      "desc": "The order requires $45 million in minimum capital and preopening checks. A bank charter does not replace GENIUS Act issuer approval.",
+      "date": "2026-11-08T16:33:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -154,6 +174,16 @@
       "link": "https://thedefiant.io/news/cefi/binance-names-justin-yek-cfo-as-kaiser-ng-prepares-to-leave",
       "desc": "Co-CEO Yi He says a transition plan has been underway for six months, placing the handover's planning before the exchange's $6.34 billion theft.",
       "date": "2026-11-07T21:22:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "link": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+      "desc": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
+      "date": "2026-11-07T20:59:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -552,88 +582,6 @@
       "link": "https://thedefiant.io/news/tokens/what-is-stablecoin-market-cap-supply-share-and-dominance-explained",
       "desc": "Issuance and redemptions change circulating supply. Transfers do not, and a price move can change market cap without any tokens being issued or redeemed.",
       "date": "2026-11-06T18:12:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Algorand Foundation Shuts Forum and Advisory Council",
-      "link": "https://thedefiant.io/news/blockchains/algorand-foundation-shuts-forum-and-advisory-council",
-      "desc": "The Foundation will pause xGov grants on Dec. 6 and shelve Project King Safety, while maintaining bonus staking support through January 2028.",
-      "date": "2026-11-06T18:07:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
-      "link": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
-      "desc": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
-      "date": "2026-11-06T18:06:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Veranta Adds 1,000x BTC and ETH Leverage on Base",
-      "link": "https://thedefiant.io/news/defi/veranta-adds-1-000x-btc-and-eth-leverage-on-base",
-      "desc": "The venue says traders can redeem profits immediately, with payouts drawn from a protocol buffer before liquidity-provider capital.",
-      "date": "2026-11-06T18:03:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "US Sanctions 45 More Targets Linked to Prince Group",
-      "link": "https://thedefiant.io/news/regulation/us-sanctions-45-more-targets-linked-to-prince-group",
-      "desc": "The SDN update lists no crypto addresses for the newly designated parties, but US firms must still block covered assets and avoid unauthorized dealings with them.",
-      "date": "2026-11-06T17:50:26.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Threshold Sets tBTC Reconnection Target as Week-Long Pause Continues",
-      "link": "https://thedefiant.io/news/security/threshold-sets-tbtc-reconnection-target-as-week-long-pause-continues",
-      "desc": "Bitcoin redemptions will resume once enough operators return, while Aave’s $123.2 million Ethereum Core tBTC reserve remains frozen.",
-      "date": "2026-11-06T17:14:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations",
-      "link": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft",
-      "desc": "Bitcoin Magazine Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations Patrick Steven Yaroch, 37, of Ashburn, Virginia, pleaded guilty Thursday to wire fraud and money laundering after using wallet credentials from 35 FBI investigations to take about $2.47 million in cryptocurrency. This post Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-06T17:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
-      "link": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
-      "desc": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.",
-      "date": "2026-11-06T16:41:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
