@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T20:10:17.479Z",
+  "generatedAt": "2026-11-08T22:09:59.746Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 293,
+  "filteredOut": 302,
   "errors": [],
-  "dupsMerged": 10,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "decrypt",
@@ -16,6 +16,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin Trades Below Strategy’s $75,451 Average Purchase Price",
+      "link": "https://thedefiant.io/news/markets/bitcoin-trades-below-strategy-s-75-451-average-purchase-price",
+      "desc": "The company’s disclosed 849,327 BTC were worth about $63.58 billion at the Sunday quote, below their $64.08 billion acquisition cost.",
+      "date": "2026-11-08T22:00:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -258,6 +268,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "desc": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
+      "date": "2026-11-07T17:36:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "techcrunch",
       "sourceName": "TECHCRUNCH",
       "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
@@ -410,108 +430,6 @@
       "link": "https://thedefiant.io/news/cefi/mexc-says-withdrawals-continue-as-fincen-orders-us-financial-cutoff",
       "desc": "The exchange says it has begun an independent review of its AML and sanctions controls. The US transfer ban takes effect 30 days after Federal Register publication.",
       "date": "2026-11-07T00:00:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aave Labs Acquires Avon Team to Develop Fixed-Rate Lending",
-      "link": "https://thedefiant.io/news/defi/aave-labs-acquires-avon-team-to-develop-fixed-rate-lending",
-      "desc": "The deal includes Avon's lending protocols and onchain order book, but Aave Labs has not named a first market or launch date.",
-      "date": "2026-11-06T22:09:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Samsung’s 82-Million-Device Bet Shows Stablecoin Wars Moving Beyond Crypto",
-      "link": "https://www.pymnts.com/blockchain/2026/samsungs-82-million-device-bet-shows-stablecoin-wars-moving-beyond-crypto/",
-      "desc": "Stablecoins are becoming a distribution business before they have conclusively become a profitable payments business. And if stablecoins are a distribution business, then a new player might be trying to corner the market. Samsung last month gave stablecoins something the cryptocurrency industry has spent years trying to build: a direct route to over 80 million […] The post Samsung’s 82-Million-Device Bet Shows Stablecoin Wars Moving Beyond Crypto appeared first on PYMNTS.com.",
-      "date": "2026-11-06T21:38:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
-      "link": "https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system",
-      "desc": "Bitcoin Magazine U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows FinCEN issued a final order under section 9714(a) that will bar U.S. financial institutions from sending or receiving funds with MEXC Global 30 days after Federal Register publication, citing at least $16 billion in alleged illicit activity. This post U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-06T21:28:56.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Nubank and Mercado Pago Pause Crypto Operations Following Provider Issues",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/nubank-mercado-pago-pause-crypto-operations-following-provider-issues/",
-      "desc": "Nubank and Mercado Pago paused some cryptocurrency operations due to issues with third-party providers, Bloomberg reported Friday (Nov. 6). The suspensions by the financial services firms came a week after hackers stole a record $6.3 billion from Binance Oct. 30. “All assets and information remain protected,” Nubank said Friday as it announced it had suspended […] The post Nubank and Mercado Pago Pause Crypto Operations Following Provider Issues appeared first on PYMNTS.com.",
-      "date": "2026-11-06T21:13:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "link": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
-      "desc": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia.",
-      "date": "2026-11-06T21:06:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
-      "link": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
-      "desc": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran.",
-      "date": "2026-11-06T21:02:30.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
-      "date": "2026-11-06T20:51:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
-      "link": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
-      "desc": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions.",
-      "date": "2026-11-06T20:37:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Binance hack is ‘cyber war,’ TRM Labs executive says",
-      "link": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
-      "date": "2026-11-06T20:36:25.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
