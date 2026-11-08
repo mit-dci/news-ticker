@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T14:09:41.480Z",
+  "generatedAt": "2026-11-08T16:10:31.537Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 268,
+  "filteredOut": 280,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "decrypt",
@@ -16,6 +16,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+      "desc": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback.",
+      "date": "2026-11-08T15:52:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "What Is a DeFi App? From Wallet Connection to Lending Deposit",
+      "link": "https://thedefiant.io/news/defi/what-is-a-defi-app-from-wallet-connection-to-lending-deposit",
+      "desc": "Connecting a wallet does not authorize a deposit. A lending position is recorded onchain, separately from the website displaying it—and withdrawals still depend on protocol rules and available assets.",
+      "date": "2026-11-08T14:11:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -330,13 +350,7 @@
       "link": "https://thedefiant.io/news/defi/aave-labs-acquires-avon-team-to-develop-fixed-rate-lending",
       "desc": "The deal includes Avon's lending protocols and onchain order book, but Aave Labs has not named a first market or launch date.",
       "date": "2026-11-06T22:09:37.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -552,6 +566,16 @@
       "termBoost": 0
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+      "link": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+      "desc": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
+      "date": "2026-11-06T18:06:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Veranta Adds 1,000x BTC and ETH Leverage on Base",
@@ -610,138 +634,6 @@
       "link": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
       "desc": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.",
       "date": "2026-11-06T16:41:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-      "link": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
-      "desc": "Strive’s bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter.",
-      "date": "2026-11-06T16:07:24.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Coinbase Opens USDC Borrowing Against PAX Gold",
-      "link": "https://thedefiant.io/news/defi/coinbase-opens-usdc-borrowing-against-pax-gold",
-      "desc": "The gold-backed token joins Coinbase’s collateral options, while its loan-health pricing updates only during gold-market hours.",
-      "date": "2026-11-06T15:39:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "link": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
-      "desc": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
-      "date": "2026-11-06T15:26:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review",
-      "link": "https://bitcoinmagazine.com/news/dol-rule-crypto-401k-white-house-review",
-      "desc": "Bitcoin Magazine Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review A final Labor Department rule that would create a fiduciary safe harbor for private equity, real estate and crypto in 401(k) menus arrived at OIRA on Thursday, putting public release within reach. This post Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-06T15:09:02.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/regulation/crypto-401-k-rule-enters-final-white-house-review"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Gnosis Pay Confirms Breach of Consumer-Card System",
-      "link": "https://thedefiant.io/news/security/gnosis-pay-confirms-breach-of-consumer-card-system",
-      "desc": "The company says funds and its enterprise platform were unaffected, but has not disclosed how many customers were hit.",
-      "date": "2026-11-06T15:01:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
-      "link": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
-      "desc": "Bitcoin Magazine Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says About 42 million stolen XRP, worth roughly $50 million, has been swapped mostly into bitcoin via THORChain, Elliptic said, lifting converted bitcoin from the Binance theft to about 1,650 BTC. This post Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-06T14:50:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "B2B payments firm Pliant raises $80",
-      "link": "https://www.finextra.com/pressarticle/111604/b2b-payments-firm-pliant-raises-80?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Pliant, a global fintech specializing in highly modular B2B payment solutions, today announced an $80 million Series C funding round led by Seaya Nova and Speedinvest, with participation from Illuminate Financial, Motive Partners and Molten Ventures.",
-      "date": "2026-11-06T14:44:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Rotki Founder Says Gnosis Pay Exposed His Address, Card and Wallet Details",
-      "link": "https://thedefiant.io/news/security/rotki-founder-says-gnosis-pay-exposed-his-address-card-and-wallet-details",
-      "desc": "A notification screenshot he shared describes unauthorized access to the consumer-card system on Nov. 3 and says enterprise programs were unaffected.",
-      "date": "2026-11-06T14:34:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bitcoin Price Holds Near $75,000 After Hot October Jobs Report",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-75800-jobs",
-      "desc": "Bitcoin Magazine Bitcoin Price Holds Near $75,000 After Hot October Jobs Report Bitcoin price held near $75,800 Friday after U.S. employers added 165,000 jobs in October, far above the 59,000 forecast, as December Fed hike odds climbed toward 80%. This post Bitcoin Price Holds Near $75,000 After Hot October Jobs Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-06T14:30:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
-      "link": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.",
-      "date": "2026-11-06T14:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat",
-      "link": "https://bitcoinmagazine.com/news/gopax-suspends-withdrawals-hacking-threat",
-      "desc": "Bitcoin Magazine South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat South Korea's Gopax halted standard withdrawals at 2:55 p.m. and trading at 3:53 p.m. Friday after a hacking-threat email, and is transferring all held assets to cold wallets with no loss reported so far. This post South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-06T14:22:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "What Are Crypto Derivatives? Futures, Perpetuals and Options Explained",
-      "link": "https://thedefiant.io/news/markets/what-are-crypto-derivatives-futures-perpetuals-and-options-explained",
-      "desc": "Futures bind both sides to settlement obligations. Options give buyers a right in exchange for a premium, while sellers take the corresponding obligation.",
-      "date": "2026-11-06T14:16:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
