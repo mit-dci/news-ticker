@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T08:17:27.089Z",
+  "generatedAt": "2026-11-09T10:12:11.731Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 285,
+  "filteredOut": 282,
   "errors": [],
-  "dupsMerged": 9,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "decrypt",
@@ -16,6 +16,66 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
+      "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+      "desc": "The Office of the Comptroller of the Currency elevated the biggest U.S. exchange's trust status from conditional to a full-fledged charter, the company said.",
+      "date": "2026-11-09T10:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
+      "link": "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort",
+      "desc": "Huang told staff he had been \"unfaithful\" to his wife, as Nvidia shares fell nearly 5% in premarket trading on Monday.",
+      "date": "2026-11-09T09:50:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
+      "desc": "Your look at what’s coming in the week starting Nov. 9.",
+      "date": "2026-11-09T09:33:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
+      "link": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
+      "desc": "Raycash has launched its app on Ethereum, enabling private stablecoin payments and Morpho yield on idle balances.",
+      "date": "2026-11-09T09:05:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ankr Ethereum Bridge Loses More Than $303,000 in Five-Transaction Exploit",
+      "link": "https://thedefiant.io/news/hacks/ankr-ethereum-bridge-loses-more-than-303-000-in-five-transaction-exploit",
+      "desc": "The contract remained unpaused after withdrawals referencing a small Optimism deposit that had already been redeemed.",
+      "date": "2026-11-09T08:53:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Says 335.9 Million-Record Breach Claim Is Likely a Scam",
+      "link": "https://thedefiant.io/news/hacks/binance-says-335-9-million-record-breach-claim-is-likely-a-scam",
+      "desc": "The exchange cites inconsistencies in a listing seeking $900,000 for purported identity documents, credentials and private keys.",
+      "date": "2026-11-09T08:47:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -168,38 +228,12 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Gnosis Pay Breach Reveals Crypto Customer Home Addresses",
-      "link": "https://www.pymnts.com/cybersecurity/2026/gnosis-pay-breach-reveals-crypto-customer-home-addresses/",
-      "desc": "Gnosis Pay has disclosed a data breach that revealed customer information, the latest in a series of security incidents at digital asset companies. The company, which lets users spend stablecoins with Visa debit cards tied to their crypto wallets, announced Friday (Nov. 6) it had uncovered the breach earlier in the week. “On 3 November […] The post Gnosis Pay Breach Reveals Crypto Customer Home Addresses appeared first on PYMNTS.com.",
-      "date": "2026-11-08T23:44:40.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Threshold Says tBTC Bridge Has Resumed Onchain, but App Remains Paused",
       "link": "https://thedefiant.io/news/security/threshold-says-tbtc-bridge-has-resumed-onchain-but-app-remains-paused",
       "desc": "Aave’s $119.9 million Ethereum Core tBTC reserve remains frozen while Threshold waits for more operators to reconnect.",
       "date": "2026-11-08T23:17:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Binance CFO Departs Following Historic $6 Billion Heist",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/binance-cfo-departs-following-historic-6-billion-heist/",
-      "desc": "Binance’s chief financial officer is stepping down following a record heist at the world’s biggest cryptocurrency exchange. “Kaiser Ng has decided to pursue a new venture after more than five years at Binance, with a transition plan implemented over the last six months,” Binance co-CEO Yi He said in a statement, per a Saturday (Nov. […] The post Binance CFO Departs Following Historic $6 Billion Heist appeared first on PYMNTS.com.",
-      "date": "2026-11-08T23:08:44.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -504,6 +538,16 @@
       "termBoost": 0
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "desc": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
+      "date": "2026-11-07T16:51:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
@@ -587,16 +631,6 @@
           "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Suspicious prediction market activity seen before election poll release: NYT",
-      "link": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.",
-      "date": "2026-11-07T09:10:35.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
