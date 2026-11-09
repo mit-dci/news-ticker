@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T22:09:59.746Z",
+  "generatedAt": "2026-11-09T00:32:20.320Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 302,
+  "filteredOut": 298,
   "errors": [],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
     {
       "source": "decrypt",
@@ -16,6 +16,62 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Gnosis Pay Breach Reveals Crypto Customer Home Addresses",
+      "link": "https://www.pymnts.com/cybersecurity/2026/gnosis-pay-breach-reveals-crypto-customer-home-addresses/",
+      "desc": "Gnosis Pay has disclosed a data breach that revealed customer information, the latest in a series of security incidents at digital asset companies. The company, which lets users spend stablecoins with Visa debit cards tied to their crypto wallets, announced Friday (Nov. 6) it had uncovered the breach earlier in the week. “On 3 November […] The post Gnosis Pay Breach Reveals Crypto Customer Home Addresses appeared first on PYMNTS.com.",
+      "date": "2026-11-08T23:44:40.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Threshold Says tBTC Bridge Has Resumed Onchain, but App Remains Paused",
+      "link": "https://thedefiant.io/news/security/threshold-says-tbtc-bridge-has-resumed-onchain-but-app-remains-paused",
+      "desc": "Aave’s $119.9 million Ethereum Core tBTC reserve remains frozen while Threshold waits for more operators to reconnect.",
+      "date": "2026-11-08T23:17:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Binance CFO Departs Following Historic $6 Billion Heist",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/binance-cfo-departs-following-historic-6-billion-heist/",
+      "desc": "Binance’s chief financial officer is stepping down following a record heist at the world’s biggest cryptocurrency exchange. “Kaiser Ng has decided to pursue a new venture after more than five years at Binance, with a transition plan implemented over the last six months,” Binance co-CEO Yi He said in a statement, per a Saturday (Nov. […] The post Binance CFO Departs Following Historic $6 Billion Heist appeared first on PYMNTS.com.",
+      "date": "2026-11-08T23:08:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
+      "link": "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
+      "desc": "The New York Times reported on 'suspicious' bets, but two experts who reviewed The Block's findings said the evidence doesn't strongly suggest foul play.",
+      "date": "2026-11-08T23:07:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections.",
+      "date": "2026-11-08T22:59:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -308,16 +364,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-      "desc": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
-      "date": "2026-11-07T16:51:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
@@ -420,16 +466,6 @@
       "link": "https://thedefiant.io/news/security/keplr-pauses-google-and-apple-login-after-unauthorized-transaction-reports",
       "desc": "The wallet says recovery-phrase and hardware-wallet accounts are unaffected in its initial assessment, while social-login users should stop sending funds to their accounts.",
       "date": "2026-11-07T06:12:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff",
-      "link": "https://thedefiant.io/news/cefi/mexc-says-withdrawals-continue-as-fincen-orders-us-financial-cutoff",
-      "desc": "The exchange says it has begun an independent review of its AML and sanctions controls. The US transfer ban takes effect 30 days after Federal Register publication.",
-      "date": "2026-11-07T00:00:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
