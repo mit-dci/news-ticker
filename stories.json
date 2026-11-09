@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T16:13:18.755Z",
+  "generatedAt": "2026-11-09T20:11:13.077Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 261,
+  "filteredOut": 250,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "decrypt",
@@ -18,22 +18,271 @@
       "termBoost": 3
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
-      "link": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
-      "desc": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase.",
-      "date": "2026-11-09T16:01:28.000Z",
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "How Better Payment Details Help Banks Screen Crypto Exposure",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/how-better-payment-details-help-banks-screen-crypto-exposure/",
+      "desc": "Authorities in the United States are targeting the firms that move money for sanctioned cryptocurrency exchanges. After sanctioning Iranian exchanges in June and August, the Treasury Department on Friday (Nov. 6) sanctioned eight Canadian currency dealers, many of which had transacted with those exchanges, according to a press release. In a separate action Friday, the […] The post How Better Payment Details Help Banks Screen Crypto Exposure appeared first on PYMNTS.com.",
+      "date": "2026-11-09T20:09:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Attackers Exploit Alpine SSH Password-Bypass Flaw",
+      "link": "https://thedefiant.io/news/security/attackers-exploit-alpine-ssh-password-bypass-flaw",
+      "desc": "GreyNoise reports successful exploitation, while Previdian logged 20 attempts. Alpine operators need to patch and restart SSH, or disable password authentication.",
+      "date": "2026-11-09T19:52:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+      "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.",
+      "date": "2026-11-09T19:52:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+      "link": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+      "desc": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
+      "date": "2026-11-09T19:36:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+      "link": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+      "desc": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail.",
+      "date": "2026-11-09T19:36:02.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "World Liberty Says WLFI Buybacks Have Begun on Aster",
+      "link": "https://thedefiant.io/news/defi/world-liberty-says-wlfi-buybacks-have-begun-on-aster",
+      "desc": "The disclosed wallet deposited 10 million USD1 into Aster, while the company left the buyback budget and purchase schedule discretionary.",
+      "date": "2026-11-09T19:28:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
+      "link": "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves",
+      "desc": "Nvidia shares slid as much as 8% amid spy allegations. The stock was already weakening, and investors now face a bigger question: Who replaces Jensen Huang if he suddenly leaves?",
+      "date": "2026-11-09T18:31:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "block",
       "sourceName": "THE BLOCK",
-      "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
-      "desc": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain.",
-      "date": "2026-11-09T15:54:16.000Z",
+      "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
+      "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
+      "desc": "Fulton’s complaint cites a recorded Buterin conversation and alleges discrimination and retaliation.",
+      "date": "2026-11-09T18:30:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+      "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.",
+      "date": "2026-11-09T18:25:29.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-begins-view-only-reopening-after-hack"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Chainalysis Reopens Compliance Tools With Mandatory Credential Resets",
+      "link": "https://thedefiant.io/news/security/chainalysis-reopens-compliance-tools-with-mandatory-credential-resets",
+      "desc": "Reactor is also back online, while some investigation and account-management services remain unavailable.",
+      "date": "2026-11-09T18:21:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Hard Fork vs. Soft Fork: How Blockchain Upgrades Work",
+      "link": "https://thedefiant.io/news/blockchains/hard-fork-vs-soft-fork-how-blockchain-upgrades-work",
+      "desc": "Older nodes can accept soft-fork blocks without understanding every new rule. A hard fork requires upgraded software to follow the changed network, but does not automatically create another coin.",
+      "date": "2026-11-09T18:12:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Clarity Act Faces Rewrite but Retains Bipartisan Opening",
+      "link": "https://www.pymnts.com/cryptocurrency/2026/clarity-act-faces-rewrite-but-retains-bipartisan-opening/",
+      "desc": "The Clarity Act may be dead in its current form after Democrats swept the midterm elections, but the drive to establish federal crypto market structure rules could continue in the next Congress. The emerging debate concerns who would supervise digital asset markets and how much protection a revised framework would give investors. House Democrats reportedly […] The post Clarity Act Faces Rewrite but Retains Bipartisan Opening appeared first on PYMNTS.com.",
+      "date": "2026-11-09T18:07:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "PNC Bank tests turning USDC payments into dollar deposits",
+      "link": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
+      "date": "2026-11-09T17:48:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
+      "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+      "desc": "Operating under the SEC’s “Innovation Exemption,” the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock.",
+      "date": "2026-11-09T17:46:02.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/regulation/formation-notifies-sec-of-plan-for-solana-tokenized-stock-venue"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+      "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
+      "date": "2026-11-09T17:41:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "PNC Opens USDC Stablecoin Payments to Corporate Clients",
+      "link": "https://www.pymnts.com/news/banking/2026/pnc-opens-usdc-stablecoin-payments-to-corporate-clients/",
+      "desc": "PNC Bank is making incoming USDC stablecoin payments available to its corporate and institutional clients. These clients can now receive payments in the dollar-backed USDC on the Ethereum blockchain, powered by Coinbase’s payments products, PNC announced Monday (Nov. 9). “Our clients are continually looking at new ways to interact and transact with customers, suppliers and […] The post PNC Opens USDC Stablecoin Payments to Corporate Clients appeared first on PYMNTS.com.",
+      "date": "2026-11-09T17:39:08.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot",
+      "link": "https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack",
+      "desc": "Bitcoin Magazine North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot Elliptic says North Korean launderers created six throwaway meme tokens on NEAR between Nov. 5 and 7, moving about $430,000 of stolen Binance funds through homemade liquidity pools. This post North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-09T17:26:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Basic Materials Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-85312ac7?mod=rss_markets_main",
+      "desc": "Find insight on Barrick Mining, BHP and more in the latest Market Talks covering Basic Materials.",
+      "date": "2026-11-09T17:23:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
+      "link": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
+      "desc": "The Ethereum co-founder says ETH's value comes from stability, not fee burns, citing its decentralization, censorship resistance and security.",
+      "date": "2026-11-09T17:14:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Luke Dashjr Publishes Nine Coldcard RNG Concerns",
+      "link": "https://thedefiant.io/news/security/luke-dashjr-publishes-nine-coldcard-rng-concerns",
+      "desc": "His thread cites a July code revision; later firmware adds seed-error checks and a startup test for the hardware random-number generator.",
+      "date": "2026-11-09T17:12:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
+      "link": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money",
+      "desc": "The firm’s stash reached 6.07 million ETH—4.97% of supply and 99% of the way to its “Alchemy of 5%” goal—as chairman Tom Lee called Vitalik Buterin’s “ETH is money” comments a “seismic shift.”",
+      "date": "2026-11-09T17:08:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress",
+      "link": "https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds",
+      "desc": "Bitcoin Magazine TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress TD Cowen's Jaret Seiberg puts only a 10% chance on a congressional ban on platform stablecoin yield over the next two years, even as banks renew their push after Democratic midterm wins. This post TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-09T17:06:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT",
+      "link": "https://bitcoinmagazine.com/news/blackrock-bitcoin-whales-self-custody-ibit",
+      "desc": "Bitcoin Magazine BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT BlackRock's Robbie Mitchnick told Barron's demand to swap directly held bitcoin for IBIT shares is at its highest yet, with \"security and peace of mind\" the top reason as kidnappings and hacks rise. This post BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-09T16:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+      "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+      "desc": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.",
+      "date": "2026-11-09T16:19:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -225,16 +474,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Mercado Bitcoin Begins View-Only Reopening After Hack",
-      "link": "https://thedefiant.io/news/hacks/mercado-bitcoin-begins-view-only-reopening-after-hack",
-      "desc": "The exchange says it is replacing stolen assets with company funds, while payments and trading will return in later phases.",
-      "date": "2026-11-09T13:34:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
@@ -295,22 +534,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Formation notifies SEC to operate first tokenized securities venue on Solana",
-      "link": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060",
-      "desc": "Launch is expected in early 2027, with tokenized shares of Exodus Movement, Forward Industries, and Galaxy Digital among initial offerings.",
-      "date": "2026-11-09T12:30:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/regulation/formation-notifies-sec-of-plan-for-solana-tokenized-stock-venue"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin bulls can't rely on ETF flows",
@@ -337,16 +560,6 @@
       "link": "https://thedefiant.io/news/regulation/poland-s-lower-house-backs-crypto-freezes-under-broader-sanctions-bill",
       "desc": "Listed customers could lose access to exchange-held assets before a court reviews their designation, and an appeal would not automatically lift the restrictions.",
       "date": "2026-11-09T12:01:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Coinbase Gets OCC’s Blessing to Launch Trust Bank",
-      "link": "https://www.pymnts.com/news/banking/2026/coinbase-gets-occs-blessing-to-launch-trust-bank/",
-      "desc": "Coinbase has reportedly gotten regulatory approval to establish a nationally-chartered trust bank. The approval by the U.S. Office of the Comptroller of the Currency (OCC) marks the latest example of digital asset companies moving into the traditional finance space, Bloomberg News reported Monday (Nov. 9). “Our approval shows that crypto is here to stay and […] The post Coinbase Gets OCC’s Blessing to Launch Trust Bank appeared first on PYMNTS.com.",
-      "date": "2026-11-09T11:51:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -631,16 +844,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "LNbits Urges All Server Operators to Shut Down After Attacks",
-      "link": "https://thedefiant.io/news/security/lnbits-urges-all-server-operators-to-shut-down-after-attacks",
-      "desc": "The project also disabled its hosted instances, while contributor Ben Arc said patches should be available within 24 to 48 hours.",
-      "date": "2026-11-08T19:47:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "What the election results mean for crypto: State of Crypto",
@@ -671,52 +874,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "How to Read Token Allowances in Revoke.cash and Etherscan",
-      "link": "https://thedefiant.io/news/security/how-to-read-token-allowances-in-revoke-cash-and-etherscan",
-      "desc": "Viewing a wallet address requires no signature. Revoking an allowance changes a specific token-spending permission—not every permission attached to the account.",
-      "date": "2026-11-08T18:11:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bridge’s OCC Approval Opens Path to Federal Stablecoin Trust Bank",
-      "link": "https://thedefiant.io/converge/regulation/bridge-s-occ-approval-opens-path-to-federal-stablecoin-trust-bank",
-      "desc": "The order requires $45 million in minimum capital and preopening checks. A bank charter does not replace GENIUS Act issuer approval.",
-      "date": "2026-11-08T16:33:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
       "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
       "desc": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback.",
       "date": "2026-11-08T15:52:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "What Is a DeFi App? From Wallet Connection to Lending Deposit",
-      "link": "https://thedefiant.io/news/defi/what-is-a-defi-app-from-wallet-connection-to-lending-deposit",
-      "desc": "Connecting a wallet does not authorize a deposit. A lending position is recorded onchain, separately from the website displaying it—and withdrawals still depend on protocol rules and available assets.",
-      "date": "2026-11-08T14:11:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Keplr Confirms Web3Auth Recovery Addresses After Wallet Breach",
-      "link": "https://thedefiant.io/news/security/keplr-confirms-web3auth-recovery-addresses-after-wallet-breach",
-      "desc": "The list includes the destination of a six-account Cosmos Hub batch that tokenized 2,265.59 staked ATOM.",
-      "date": "2026-11-08T13:07:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -757,76 +920,6 @@
       "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
       "date": "2026-11-08T08:12:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
-      "link": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
-      "desc": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
-      "date": "2026-11-07T21:57:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
-      "link": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
-      "desc": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
-      "date": "2026-11-07T20:59:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-      "desc": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
-      "date": "2026-11-07T19:13:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-      "desc": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
-      "date": "2026-11-07T17:36:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "techcrunch",
-      "sourceName": "TECHCRUNCH",
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-      "desc": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-      "date": "2026-11-07T17:24:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
-      "link": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
-      "desc": "Apple and Meta’s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue.",
-      "date": "2026-11-07T17:01:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-      "desc": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams.",
-      "date": "2026-11-07T16:51:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
