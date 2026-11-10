@@ -1,11 +1,59 @@
 {
-  "generatedAt": "2026-11-10T18:12:30.290Z",
+  "generatedAt": "2026-11-10T20:11:10.935Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 247,
+  "filteredOut": 241,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 16,
   "items": [
+    {
+      "source": "bcannounce",
+      "sourceName": "BTC CORE ANN",
+      "title": "CVE-2025-62859 - Block processing stall via witness malleation",
+      "link": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62859/",
+      "desc": "Block processing in Bitcoin Core before versions 29.2 and 30.0 may be stalled by a malicious peer exploiting witness malleation in compact blocks, under some conditions. This issue is considered Medium severity. Details Affected Bitcoin Core versions would clear download state for a compact block following reconstruction, but prior to checking for witness malleation. If that check failed, the node would fallback to requesting the block to the same peer via GETDATA, with a 10 minutes timeout. A malicious peer, when it announces a compact block to a victim first, could leverage this defect to stall the victim’s block processing. If the attacker controlled the victim’s 3 high-bandwidth peers, or if the victim was running with -blocksonly, this could be repeated indefinitely. Attribution Eugene Siegel discovered this issue and responsibly disclosed it. Timeline 2025-04-28 Eugene reports this issue to the Bitcoin Core security list 2025-05-30 Gregory Sanders open PR #32646 to fix this issue 2025-06-30 PR #32646 is merged 2025-09-12 PR #32646 is backported to version 29 2025-10-10 Bitcoin Core 30.0 is released with a fix 2025-10-14 Bitcoin Core 29.2 is released with a fix 2026-10-27 The last vulnerable Bitcoin Core version (29.x) goes end of life 2026-11-10 Public disclosure.",
+      "date": "2026-11-10T05:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "BITCOIN CORE",
+          "sourceId": "bitcoincore",
+          "url": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62859/"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bcannounce",
+      "sourceName": "BTC CORE ANN",
+      "title": "CVE-2025-62860 - Inbound Tor connections wrongly receive -whitelist permissions",
+      "link": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62860/",
+      "desc": "Bitcoin Core before versions 28.3, 29.2 and 30.0 will also include Tor inbound peers in a whitelist configured over an IP range. This issue is considered Medium severity. Details In Bitcoin Core, the IP address of inbound Tor peers is that of the Tor daemon, which usually runs on the same machine or local network. The -whitelist configuration lifts various DoS limits and privacy leak mitigations for trusted peers. Bitcoin Core would whitelist inbound Tor connections if the address of the Tor proxy would match the IP range configured via the -whitelist option. Inbound Tor connections received on an onion bind are never whitelisted in Bitcoin Core 30.0 and all later versions, as well as 28.3 and later minor versions and 29.2 and later minor versions. Nodes that did not set the non-default -whitelist option were never affected. Popular vendors bundled Bitcoin Core with a Tor daemon, and set the -whitelist option to an IP range matching that of the Tor daemon. The -whitelist option was also an operational requirement for client software of Bitcoin Core, which was commonly run alongside a Tor daemon. This led to thousands of reachable mainnet nodes whitelisting all incoming Tor connections. Attribution Martin Zumsande and Antoine Poinsot discovered the issue and responsibly disclosed it. Timeline 2025-09-12 Martin and Antoine report this issue to the Bitcoin Core security team 2025-09-15 Martin opens PR #33395 to stop considering Tor inbound peers when applying whitelist permissions 2025-09-17 Antoine reports this issue to Bitcoin Knots maintainer Luke Dashjr, who acknowledges it on the same day 2025-09-17 PR #33395 is merged and backported to previous releases 2025-09-19 Antoine reports this issue to several software providers affected 2025-10-10 Bitcoin Core 30.0 is released with a fix 2025-10-14 Bitcoin Core 29.2 is released with a fix 2025-10-20 Bitcoin Core 28.3 is released with a fix 2026-10-27 The last vulnerable Bitcoin Core version (29.x) goes end of life 2026-11-10 Public disclosure.",
+      "date": "2026-11-10T05:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "BITCOIN CORE",
+          "sourceId": "bitcoincore",
+          "url": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62860/"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bcannounce",
+      "sourceName": "BTC CORE ANN",
+      "title": "CVE-2025-62861 - Block template creation halted by TRUC sibling eviction during reorg",
+      "link": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/",
+      "desc": "Disclosure of the details of a mempool inconsistency due to TRUC “sibling eviction” rules firing on reorg. A fix was released on October 10th 2025 in Bitcoin Core v30.0. Affected versions are 28.0 to 28.2 and 29.0 to 29.1. This issue is considered High severity. Details Transaction relay policy applies extra topology restrictions to version 3 (“TRUC”) transactions (see BIP 431): a TRUC transaction may have at most one unconfirmed ancestor and at most one unconfirmed descendant. These are mempool policy rules, not consensus rules, so a valid block may contain any topology, including a TRUC parent with several children. When a transaction submitted to the mempool would give a TRUC parent a second unconfirmed child, Bitcoin Core’s “sibling eviction” logic (introduced in v28.0) treats the existing child as a replacement candidate and, if the new transaction pays enough, evicts it under replace-by-fee rules. During a chain reorganization, the transactions from the disconnected blocks are re-added to the mempool with bypass_limits=true. This is meant to restore previously-confirmed transactions faithfully, without applying mempool anti-DoS or topology policy. The bug was that the sibling-eviction branch was not gated on bypass_limits, so TRUC enforcement still ran while transactions were being re-added. A reorg can restore a transaction topology that violates TRUC’s descendant limit: valid in a block but impossible to form in the mempool. Re-adding such transactions with sibling eviction still active could evict a restored transaction while leaving its in-mempool descendants behind, so the mempool held transactions spending outputs that no longer existed. The main effect of this inconsistent state is that a miner’s block template creation can no longer succeed: the assembled template fails its validity check, so a node that performed such a reorg cannot produce blocks until it is restarted, which reloads the mempool in a consistent state. This was fixed in PR #33504 by gating the TRUC checks on bypass_limits, so that sibling eviction no longer runs during reorg re-addition. Attribution Credit goes to Niklas Goegge for discovering and responsibly disclosing this issue. Timeline 2025-09-26 - Niklas Goegge reports this issue to the Bitcoin Core security mailing list 2025-09-29 - Greg Sanders opens PR #33504 with the fix 2025-10-02 - PR #33504 is merged into master 2025-10-03 - The fix is backported to the 29.x branch in PR #33474 2025-10-06 - The fix is backported to the 30.x branch in PR #33473 2025-10-07 - The fix is backported to the 28.x branch in PR #33535 2025-10-10 - Bitcoin Core 30.0 is released with a fix 2025-10-14 - Bitcoin Core 29.2 is released with a fix 2025-10-17 - Bitcoin Core 28.3 is released with a fix 2026-10-27 - The last vulnerable Bitcoin Core version (29.x) goes end of life 2026-11-10 - Public Disclosure",
+      "date": "2026-11-10T05:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "BITCOIN CORE",
+          "sourceId": "bitcoincore",
+          "url": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/"
+        }
+      ],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -16,6 +64,139 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/texas-bill-invest-10-million-bitcoin",
+      "desc": "Bitcoin Magazine Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin Rep. Ron Reynolds filed House Bill 815 on Monday, allowing each Texas city or county to put up to $10 million of public money into bitcoin starting Sept. 1, 2027. This post Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-10T20:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "LlamaRisk Proposes $1.33B Collateral Exit From Aave Core",
+      "link": "https://thedefiant.io/news/defi/llamarisk-proposes-1-33b-collateral-exit-from-aave-core",
+      "desc": "Affected reserves would be frozen first, leaving existing loans open while borrowers switch collateral or migrate to V4.",
+      "date": "2026-11-10T19:49:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
+      "link": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
+      "desc": "Elon Musk says the incoming Grok 4.8 will trail Anthropic’s Claude Opus 5.5, praising his rival’s model while predicting Grok 5 could surpass it in two or three months.",
+      "date": "2026-11-10T19:46:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+      "link": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
+      "desc": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000.",
+      "date": "2026-11-10T19:38:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Across Urges Users to Avoid App Over Domain Issue",
+      "link": "https://thedefiant.io/news/security/across-urges-users-to-avoid-app-over-domain-issue",
+      "desc": "The bridge's alert does not establish whether its smart contracts or bridging operations are affected.",
+      "date": "2026-11-10T19:27:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Poland’s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review",
+      "link": "https://bitcoinmagazine.com/news/poland-votes-240-202-freeze-crypto",
+      "desc": "Bitcoin Magazine Poland’s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review Poland's Sejm passed a sanctions bill Friday that lets the interior minister freeze bitcoin and bank funds of people on a national list, and a court appeal would not pause the freeze. This post Poland’s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-10T19:20:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+      "link": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+      "desc": "Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonprofits and launched a national ad campaign, as ZEC fell more than 11%.",
+      "date": "2026-11-10T19:16:02.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/grayscale-pledges-1-million-in-zcash-etf-campaign"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
+      "link": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have committed around $270 million to a new stablecoin venture called Project Faro, according to Bloomberg.",
+      "date": "2026-11-10T18:46:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Uphold Marks Crypto Withdrawal Disruption Resolved",
+      "link": "https://thedefiant.io/news/cefi/uphold-marks-crypto-withdrawal-disruption-resolved",
+      "desc": "Fiat deposits, withdrawals and trading continued normally while the platform worked around an outage at its transaction-monitoring provider.",
+      "date": "2026-11-10T18:38:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants",
+      "link": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
+      "desc": "The funding, backing a U.S.-incorporated issuer codenamed “Project Faro,” covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle.",
+      "date": "2026-11-10T18:33:37.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/banks-commit-270-million-to-stablecoin-venture-report"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Starting next week, customers can deposit and withdraw money through Brazil’s instant payment system. Crypto transfers remain suspended.",
+      "date": "2026-11-10T18:12:07.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -55,22 +236,6 @@
       "desc": "Coinbase spot markets recorded SOL below $82 and XRP below $1.05, while bitcoin extended its decline beneath $73,000.",
       "date": "2026-11-10T17:33:29.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Banks Commit $270 Million to Stablecoin Venture: Report",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/banks-commit-270-million-to-stablecoin-venture-report",
-      "desc": "The reported funding would cover five years of operations for the issuer, whose consortium has targeted a first-half 2027 dollar stablecoin launch.",
-      "date": "2026-11-10T17:33:04.000Z",
-      "alsoAt": [
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -142,16 +307,6 @@
           "url": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Digital Asset Weekly: Stablecoins Use Partnerships to Access Corporate Cash",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/digital-asset-weekly-stablecoins-use-partnerships-access-corporate-cash/",
-      "desc": "Stablecoins are coming for corporate banking. However, headlines this week showed that the cryptocurrency companies behind them are finding that the fastest way in may be through traditional banks themselves. Rather than persuading companies to replace conventional banking relationships, stablecoin providers are embedding themselves inside those relationships. PNC Bank’s expanded partnership with Coinbase, announced Monday […] The post Digital Asset Weekly: Stablecoins Use Partnerships to Access Corporate Cash appeared first on PYMNTS.com.",
-      "date": "2026-11-10T16:31:19.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -341,32 +496,12 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Bottomline Marks First Cross-Border Stablecoin Transactions",
-      "link": "https://www.pymnts.com/news/cross-border-payments/2026/bottomline-marks-first-cross-border-stablecoin-transactions/",
-      "desc": "Business payments company Bottomline completed cross-border stablecoin payments through its payments and cash management platform, according to a Tuesday (Nov. 10) press release. The transactions, using Circle’s USDC stablecoin, marked Bottomline’s first live stablecoin transactions through its Global Payments Hub and Cash Management platform, completed as an intra-company transfer, per the release. “Completing our first […] The post Bottomline Marks First Cross-Border Stablecoin Transactions appeared first on PYMNTS.com.",
-      "date": "2026-11-10T15:39:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Private banking fintech Light Frame raises $5.1m",
       "link": "https://www.finextra.com/newsarticle/48737/private-banking-fintech-light-frame-raises-51m?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Light Frame, a Swiss startup providing core banking and portfolio management software for the wealth industry, has closed an oversubscribed $5.1 million seed financing round.",
       "date": "2026-11-10T15:39:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Grayscale Pledges $1 Million in Zcash ETF Campaign",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/grayscale-pledges-1-million-in-zcash-etf-campaign",
-      "desc": "ZCSH trades on NYSE Arca and held $675.7 million in assets as of Nov. 9. Its prospectus sets a 2.5% annual sponsor fee.",
-      "date": "2026-11-10T15:17:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -443,16 +578,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Sage Launches Small Business Partnerships With Mastercard and Adyen",
-      "link": "https://www.pymnts.com/partnerships/2026/sage-launches-smb-partnerships-with-mastercard-adyen/",
-      "desc": "Business management software company Sage launched new partnerships with Mastercard and FinTech platform Adyen, according to a Tuesday (Nov. 10) press release. The collaborations are designed to help Sage as it develops financial services for small businesses in Europe, per the release. Mastercard will act as Sage’s card network partner to support debit card capabilities, […] The post Sage Launches Small Business Partnerships With Mastercard and Adyen appeared first on PYMNTS.com.",
-      "date": "2026-11-10T14:25:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Pendle Lists Four Fixed-Term USDe Markets on Ethereum",
@@ -479,26 +604,6 @@
       "link": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
       "desc": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group.",
       "date": "2026-11-10T14:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Fomo Adds Solana Token Trading Route to X Cashtags",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/fomo-adds-solana-token-trading-route-to-x-cashtags",
-      "desc": "X's existing 'Trade' workflow sends users to participating partners. Fomo says its crypto wallets are non-custodial.",
-      "date": "2026-11-10T13:41:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "US CPI Tops Forecasts in October as Bitcoin, Ether Fall",
-      "link": "https://thedefiant.io/news/markets/us-cpi-tops-forecasts-in-october-as-bitcoin-ether-fall",
-      "desc": "A gap in October 2025 data left headline and core CPI without annual readings; ether slipped 1.9% around the release.",
-      "date": "2026-11-10T13:41:26.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -559,16 +664,6 @@
       "link": "https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value",
       "desc": "It’s a big shift for Ethereum from the “ultrasound money” days. But can ETH compete as a store-of-value play?",
       "date": "2026-11-10T13:24:51.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Telegram Adds In-Message Widgets With TON Payments",
-      "link": "https://thedefiant.io/news/infrastructure/telegram-adds-in-message-widgets-with-ton-payments",
-      "desc": "Production access is limited to private bot chats, while group use and forwarding remain on Telegram's test server.",
-      "date": "2026-11-10T13:20:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -785,16 +880,6 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-      "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.",
-      "date": "2026-11-09T18:25:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
       "title": "PNC Bank tests turning USDC payments into dollar deposits",
       "link": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
@@ -977,51 +1062,9 @@
           "url": "https://bitcoincore.org/en/2026/10/28/release-30.4/"
         },
         {
-          "source": "BTC CORE ANN",
-          "sourceId": "bcannounce",
-          "url": "https://bitcoincore.org/en/2026/10/28/release-31.2/"
-        },
-        {
           "source": "BITCOIN CORE",
           "sourceId": "bitcoincore",
           "url": "https://bitcoincore.org/en/2026/10/28/release-30.4/"
-        },
-        {
-          "source": "BITCOIN CORE",
-          "sourceId": "bitcoincore",
-          "url": "https://bitcoincore.org/en/2026/10/28/release-31.2/"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "bcannounce",
-      "sourceName": "BTC CORE ANN",
-      "title": "CVE-2026-117349 - Slow unbounded memory growth on paused pre-BIP31 peers",
-      "link": "https://bitcoincore.org/en/2026/10/28/disclose-fpausesend-oom/",
-      "desc": "Bitcoin Core queues announcements for all peers, including paused ones. Pre-BIP31 peers could stay paused forever and let the queue grow unboundedly. A fix for this issue was released in Bitcoin Core versions 29.5, 30.4, 31.2 and 32.1. This issue is considered Medium severity and easily discoverable. Details Bitcoin Core implements backpressure for slow to read peers. Once the queue of messages to send a peer grows past a certain limit, it will mark that peer as paused for send purposes. However, it will still add some announcements to the queue, in particular the frequent transaction INVs. This is normally not an issue, as peers which don’t respond to a (nonced) ping message within 20 minutes get disconnected. However, this disconnection is not enabled for peers that don’t support BIP 31 nonced ping messages. Therefore, a malicious peer could pretend to not support those and strategically delay reading messages to cause the queue to slowly grow without limit. Memory usage could grow at a rate of up to 2MB per hour per inbound peer, and 5MB per hour per outbound peer. Nodes running with -blocksonly are much less affected, as transaction announcements make up the bulk of the queued messages. Attribution This issue was discovered through an automated LLM scan, as part of Elias Rohrer’s Project Loupe at Spiral. The Loupe finding was validated and surfaced to the Bitcoin Core team by Gregory Sanders. This issue was independently re-discovered by L0rinc. Timeline 2026-09-15 Project Loupe identifies the issue and notifies Greg Sanders, who validates the report and notifies the Bitcoin Core security team on the same day. 2026-09-21 L0rinc privately notifies Gregory Sanders, who replies that issue was already reported. 2026-10-26 Antoine Poinsot opens PR #36667 to mitigate the vulnerability. 2026-10-26 PR #36667 is merged and backported to versions 29, 30, 31, and 32. 2026-10-27 Bitcoin Core 31.2 and 32.1 are released with a fix 2026-10-28 Bitcoin Core 29.5, 30.4 are released with a fix 2026-10-28 Public disclosure.",
-      "date": "2026-10-28T04:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "BITCOIN CORE",
-          "sourceId": "bitcoincore",
-          "url": "https://bitcoincore.org/en/2026/10/28/disclose-fpausesend-oom/"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "bcannounce",
-      "sourceName": "BTC CORE ANN",
-      "title": "CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems",
-      "link": "https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/",
-      "desc": "On platforms other than Linux, a malicious peer could cause a node to run out of memory by sending TCP urgent (out-of-band) data. A fix for this issue was released in Bitcoin Core versions 29.5, 30.4, 31.2 and 32.1. This issue is considered Medium severity and easily discoverable. Details Bitcoin Core uses a different backend (based on select()) to monitor socket events on platforms other than Linux (where it uses poll()). This issue only affects the select() code path. Bitcoin Core users on Linux are therefore not affected by this issue. Bitcoin Core limits the amount of data it will queue for processing per peer, by temporarily pausing reads when the queue exceeds a certain size. The select() socket monitoring backend watched sockets for exceptional conditions regardless of whether reads were paused. In handling that event, a read on the socket would be triggered, which could queue up more data for processing for that peer, without limit. That event can be triggered by sending TCP urgent data. This allows a paused peer to bypass the backpressure mechanism and queue an unbounded amount of data for processing. In practice, this means a malicious peer can trivially crash any Windows, macOS or BSD node it is connected to. Attribution This issue was discovered through an automated LLM scan, as part of Elias Rohrer’s Project Loupe at Spiral. The Loupe finding was validated and surfaced to the Bitcoin Core team by Gregory Sanders. Timeline 2026-10-23 Project Loupe identifies the issue and notifies Greg Sanders, who validates the report and notifies the Bitcoin Core security team on the same day. 2026-10-26 Antoine Poinsot opens PR #36665 to fix this issue. 2026-10-26 PR #36665 is merged and backported to versions 29, 30, 31, and 32. 2026-10-27 Bitcoin Core 31.2 and 32.1 are released with a fix 2026-10-28 Bitcoin Core 29.5, 30.4 are released with a fix 2026-10-28 Public disclosure.",
-      "date": "2026-10-28T04:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "BITCOIN CORE",
-          "sourceId": "bitcoincore",
-          "url": "https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/"
         }
       ],
       "termBoost": 0
