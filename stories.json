@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T00:28:07.570Z",
+  "generatedAt": "2026-11-10T02:15:04.652Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 247,
+  "filteredOut": 251,
   "errors": [],
-  "dupsMerged": 17,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "decrypt",
@@ -64,6 +64,16 @@
       "termBoost": 0
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Anthropic Says Claude Beat Best Listed Solutions on 72 MIPLIB Problems",
+      "link": "https://thedefiant.io/frontier/ai/anthropic-says-claude-beat-best-listed-solutions-on-72-miplib-problems",
+      "desc": "The company also reported 45 optimality proofs and says it has submitted its solutions to MIPLIB, whose public records have not yet confirmed the tally.",
+      "date": "2026-11-09T21:20:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "pymnts",
       "sourceName": "PYMNTS",
       "title": "Binance Heist Crew Employs Meme Coins to Launder Funds",
@@ -100,6 +110,16 @@
       "link": "https://thedefiant.io/news/people/former-ethereum-foundation-employee-sues-over-mandate-linked-firing",
       "desc": "Kayleen Fulton alleges disability discrimination and retaliation. Vitalik Buterin and Bastian Aue are also named as defendants.",
       "date": "2026-11-09T20:39:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Fireworks Says Breach Exposed Billing Data, Datasets and Incomplete Model Weights",
+      "link": "https://thedefiant.io/frontier/security/fireworks-says-breach-exposed-billing-data-datasets-and-incomplete-model-weights",
+      "desc": "The company disabled self-service dataset transfers for batch inference and dataset-based training, while reporting no detected impact to its Inference service or Training SDK.",
+      "date": "2026-11-09T20:36:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -170,6 +190,36 @@
       "termBoost": 0
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Anthropic Launches Fable 5.2 and Mythos 5.2 at Lower Token Prices",
+      "link": "https://thedefiant.io/frontier/ai/anthropic-launches-fable-5-2-and-mythos-5-2-at-lower-token-prices",
+      "desc": "The models share an underlying system but use different safeguards, with Mythos access restricted to verified organizations.",
+      "date": "2026-11-09T19:05:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Nvidia Trades 26% Below Record Close Amid Huang Review",
+      "link": "https://thedefiant.io/frontier/markets/nvidia-trades-26-below-record-close-amid-huang-review",
+      "desc": "Shares had already lost 22% by Friday, while a semiconductor ETF fell 30.5% over the same month-long window.",
+      "date": "2026-11-09T18:51:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "NHTSA Probes Waymo’s School-Bus Fix After Reports of Continued Violations",
+      "link": "https://thedefiant.io/frontier/technology/nhtsa-probes-waymo-s-school-bus-fix-after-reports-of-continued-violations",
+      "desc": "The probe covers 2,895 vehicles, and regulators say most incidents identified in an earlier investigation occurred after the November 2025 software update.",
+      "date": "2026-11-09T18:36:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
@@ -196,13 +246,7 @@
       "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.",
       "date": "2026-11-09T18:25:29.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-begins-view-only-reopening-after-hack"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -222,6 +266,16 @@
       "link": "https://thedefiant.io/news/blockchains/hard-fork-vs-soft-fork-how-blockchain-upgrades-work",
       "desc": "Older nodes can accept soft-fork blocks without understanding every new rule. A hard fork requires upgraded software to follow the changed network, but does not automatically create another coin.",
       "date": "2026-11-09T18:12:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Meta Launches Muse Ember With Pricing From $0.10 Per Million Input Tokens",
+      "link": "https://thedefiant.io/frontier/ai/meta-launches-muse-ember-with-pricing-from-0-10-per-million-input-tokens",
+      "desc": "Available through Meta Model API and Muse Code, the lightweight multimodal model handles repeated agent tasks while larger Muse models plan the work.",
+      "date": "2026-11-09T18:09:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -247,11 +301,6 @@
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/regulation/formation-notifies-sec-of-plan-for-solana-tokenized-stock-venue"
         }
       ],
       "termBoost": 0
@@ -263,6 +312,16 @@
       "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
       "date": "2026-11-09T17:41:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Claude Code Approval Files Expose 1,379 Secrets on GitHub",
+      "link": "https://thedefiant.io/frontier/ai/claude-code-approval-files-expose-1-379-secrets-on-github",
+      "desc": "Saved command approvals can retain passwords and tokens. Anthropic’s Claude Code team is exploring safeguards, including built-in secret scanning.",
+      "date": "2026-11-09T17:40:10.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -289,6 +348,16 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
+      "title": "Google Adds Confidential and Long-Context Systems to TPU Lineup",
+      "link": "https://thedefiant.io/frontier/ai/google-adds-confidential-and-long-context-systems-to-tpu-lineup",
+      "desc": "TPU 8i Max combines two 8i chips in one package, while Google's product page lists all four eighth-generation systems as 'coming soon.'",
+      "date": "2026-11-09T17:13:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
       "title": "Luke Dashjr Publishes Nine Coldcard RNG Concerns",
       "link": "https://thedefiant.io/news/security/luke-dashjr-publishes-nine-coldcard-rng-concerns",
       "desc": "His thread cites a July code revision; later firmware adds seed-error checks and a startup test for the hardware random-number generator.",
@@ -303,6 +372,16 @@
       "link": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money",
       "desc": "The firm’s stash reached 6.07 million ETH—4.97% of supply and 99% of the way to its “Alchemy of 5%” goal—as chairman Tom Lee called Vitalik Buterin’s “ETH is money” comments a “seismic shift.”",
       "date": "2026-11-09T17:08:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Nvidia Board Opens Huang Investigation as CEO Admits Infidelity",
+      "link": "https://thedefiant.io/frontier/ai/nvidia-board-opens-huang-investigation-as-ceo-admits-infidelity",
+      "desc": "Independent directors will oversee the review with outside counsel's help. The board backed Huang and said it had no reason to believe national security or company secrets were compromised.",
+      "date": "2026-11-09T17:07:19.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -516,16 +595,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bullish Names Former NYSE President Stacey Cunningham as President",
-      "link": "https://thedefiant.io/converge/people/bullish-names-former-nyse-president-stacey-cunningham-as-president",
-      "desc": "The company’s planned $4.2 billion Equiniti acquisition would combine shareholder registries with its tokenized-securities trading business.",
-      "date": "2026-11-09T13:59:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
@@ -552,16 +621,6 @@
       "link": "https://www.finextra.com/pressarticle/111615/wirex-and-aurora-target-fragmentation-in-stablecoin-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Aurora Intents, the cross-chain execution solution built by Aurora Labs, has partnered with Wirex, the global stablecoin infrastructure platform, to let partners’ users top up their accounts from almost any blockchain using one permanent deposit address.",
       "date": "2026-11-09T13:25:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "IRIS Sets Nov. 10 Launch for Fixed-Rate Borrowing on SparkLend",
-      "link": "https://thedefiant.io/news/defi/iris-sets-nov-10-launch-for-fixed-rate-borrowing-on-sparklend",
-      "desc": "Borrowers can request custom loan durations, with solvers posting capital to absorb differences between fixed quotes and floating funding costs.",
-      "date": "2026-11-09T13:24:38.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -616,16 +675,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Poland’s Lower House Backs Crypto Freezes Under Broader Sanctions Bill",
-      "link": "https://thedefiant.io/news/regulation/poland-s-lower-house-backs-crypto-freezes-under-broader-sanctions-bill",
-      "desc": "Listed customers could lose access to exchange-held assets before a court reviews their designation, and an appeal would not automatically lift the restrictions.",
-      "date": "2026-11-09T12:01:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
@@ -662,16 +711,6 @@
       "link": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
       "desc": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction.",
       "date": "2026-11-09T10:52:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "PeckShield Flags $45.3 Million ETH Long With Possible UXLink Exploit Link",
-      "link": "https://thedefiant.io/news/markets/peckshield-flags-45-3-million-eth-long-with-possible-uxlink-exploit-link",
-      "desc": "A later dashboard snapshot showed about $44 million in ETH exposure and an unrealized loss of roughly $652,000.",
-      "date": "2026-11-09T10:39:12.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -716,62 +755,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ankr Ethereum Bridge Loses More Than $303,000 in Five-Transaction Exploit",
-      "link": "https://thedefiant.io/news/hacks/ankr-ethereum-bridge-loses-more-than-303-000-in-five-transaction-exploit",
-      "desc": "The contract remained unpaused after withdrawals referencing a small Optimism deposit that had already been redeemed.",
-      "date": "2026-11-09T08:53:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance Says 335.9 Million-Record Breach Claim Is Likely a Scam",
-      "link": "https://thedefiant.io/news/hacks/binance-says-335-9-million-record-breach-claim-is-likely-a-scam",
-      "desc": "The exchange cites inconsistencies in a listing seeking $900,000 for purported identity documents, credentials and private keys.",
-      "date": "2026-11-09T08:47:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitcoin Trades Near $73,900 After Four-Week Low",
-      "link": "https://thedefiant.io/news/markets/bitcoin-trades-near-73-900-after-four-week-low",
-      "desc": "Ether has lost 18.8% over roughly 28 days, compared with bitcoin's 12.2%, as major tokens decline.",
-      "date": "2026-11-09T07:36:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Solana Draft Would Retire Durable Nonces No Earlier Than May 2027",
-      "link": "https://thedefiant.io/news/blockchains/solana-draft-would-retire-durable-nonces-no-earlier-than-may-2027",
-      "desc": "Custodians would need new offline-signing flows, with replacement programs introducing different rules for failed transactions.",
-      "date": "2026-11-09T07:09:40.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
       "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
       "desc": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins.",
       "date": "2026-11-09T06:36:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "OP Mainnet Active Addresses Jump Nearly 20-Fold to a 30-Day High",
-      "link": "https://thedefiant.io/news/blockchains/op-mainnet-active-addresses-jump-nearly-20-fold-to-a-30-day-high",
-      "desc": "Transactions rose far less than addresses, while user-paid fees stayed close to their preceding seven-day median.",
-      "date": "2026-11-09T05:56:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -802,16 +791,6 @@
       "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
       "desc": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
       "date": "2026-11-09T04:54:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "SlowMist Flags 'Cracked TradingView Premium' as Wallet-Data Malware",
-      "link": "https://thedefiant.io/news/security/slowmist-flags-cracked-tradingview-premium-as-wallet-data-malware",
-      "desc": "The Windows sample uses Telegram and Steam to rotate command servers. SlowMist's alert gives no confirmed thefts or victim count.",
-      "date": "2026-11-09T04:13:40.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -892,16 +871,6 @@
       "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
       "desc": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.",
       "date": "2026-11-08T19:16:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
-      "link": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
-      "desc": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate.",
-      "date": "2026-11-08T18:32:11.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
