@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T22:09:45.641Z",
+  "generatedAt": "2026-11-10T00:28:07.570Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 249,
+  "filteredOut": 247,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 17,
   "items": [
     {
       "source": "decrypt",
@@ -18,22 +18,38 @@
       "termBoost": 3
     },
     {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+      "desc": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+      "date": "2026-11-09T22:56:27.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-11-09T22:06:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "wsj",
       "sourceName": "WALL STREET JOURNAL",
       "title": "Basic Materials Roundup: Market Talk",
       "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-85312ac7?mod=rss_markets_main",
       "desc": "Find insight on Nutrien, Barrick Mining, BHP and more in the latest Market Talks covering Basic Materials.",
       "date": "2026-11-09T22:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Securitize Agrees to Buy River One to Add Asset-Backed Lending",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending",
-      "desc": "The acquisition, its first since going public, is expected to close in the fourth quarter of 2026.",
-      "date": "2026-11-09T21:30:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -327,7 +343,13 @@
       "link": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
       "desc": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase.",
       "date": "2026-11-09T16:01:28.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48728/pnc-launches-stablecoin-payments-for-corporate-clients?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -510,16 +532,6 @@
       "link": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said.",
       "date": "2026-11-09T13:52:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-11-09T13:36:56.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
