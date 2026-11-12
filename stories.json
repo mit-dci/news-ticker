@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T18:13:39.352Z",
+  "generatedAt": "2026-11-12T20:11:29.547Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 232,
+  "filteredOut": 231,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "coindesk",
@@ -86,6 +86,57 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds",
+      "link": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
+      "desc": "Bitcoin Magazine Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds The exchange says users are whole after the Oct. 29 theft, paid for from SAFU, its futures insurance fund and treasury, and has published a 198-token proof-of-reserves snapshot that users cannot yet independently verify. This post Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-12T19:12:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
+      "link": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+      "desc": "Nvidia’s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credibility to a company facing a very public leadership test.",
+      "date": "2026-11-12T18:55:03.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/frontier/ai/jensen-huang-resigns-nvidia-names-kress-interim-ceo"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Says Hack Assets Covered, Reserve Proof Pending",
+      "link": "https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending",
+      "desc": "The exchange says it has closed the remaining gap in customer backing, but users must wait for the new snapshot's cryptographic proof to verify it.",
+      "date": "2026-11-12T18:41:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Sky Advisor Proposes Halting New Core Vault Borrowing",
+      "link": "https://thedefiant.io/news/defi/sky-advisor-proposes-halting-new-core-vault-borrowing",
+      "desc": "BA Labs reports 771 open vaults and 376.33 million USDS in debt. Borrowers could still repay and manage collateral, but not mint more.",
+      "date": "2026-11-12T18:30:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -357,22 +408,6 @@
       "desc": "Where transactions run is only part of the difference. Ethereum, OP Mainnet, Linea and Polygon PoS show how checks, settlement and withdrawal waits diverge.",
       "date": "2026-11-12T14:16:32.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Jensen Huang Resigns; Nvidia Names Kress Interim CEO",
-      "link": "https://thedefiant.io/frontier/ai/jensen-huang-resigns-nvidia-names-kress-interim-ceo",
-      "desc": "CFO Colette Kress will hold both roles during a successor search. The filing does not address the board investigation announced Nov. 8.",
-      "date": "2026-11-12T14:09:47.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -854,16 +889,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry",
-      "link": "https://bitcoinmagazine.com/videos/how-sam-altman-backed-meanwhile-is-disrupting-the-20t-life-insurance-industry",
-      "desc": "▶Bitcoin Magazine How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry Danny Baer, Head of Revenue & Investments at Meanwhile, explains how his Bermuda-based company built the world's first fully licensed life insurance carrier that runs entirely on Bitcoin, holding its regulatory capital in Bitcoin and paying out policies in Bitcoin. This post How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry first appeared on Bitcoin Magazine and is written by Patrick Green.",
-      "date": "2026-11-11T21:30:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
@@ -1010,16 +1035,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Runway Releases Praxis-1 Robot Model With Open Weights",
-      "link": "https://thedefiant.io/frontier/ai/runway-releases-praxis-1-robot-model-with-open-weights",
-      "desc": "Apache 2.0 weights and code move the robot controller beyond partner testing, but new hardware still requires substantial adaptation.",
-      "date": "2026-11-11T15:13:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "finextra",
       "sourceName": "FINEXTRA",
       "title": "Alta raises $47.5m to build blockchain infrastructure for financial institutions",
@@ -1136,16 +1151,6 @@
       "link": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
       "desc": "Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison.",
       "date": "2026-11-11T10:20:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
-      "link": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have committed around $270 million to a new stablecoin venture called Project Faro, according to Bloomberg.",
-      "date": "2026-11-10T18:46:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
