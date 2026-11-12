@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-12T12:17:17.015Z",
+  "generatedAt": "2026-11-12T14:12:28.921Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 233,
-  "errors": [],
-  "dupsMerged": 14,
+  "successCount": 17,
+  "filteredOut": 226,
+  "errors": [
+    "THE BLOCK: THE BLOCK: HTTP 502"
+  ],
+  "dupsMerged": 12,
   "items": [
     {
       "source": "coindesk",
@@ -88,15 +90,120 @@
       "termBoost": 3
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
+      "link": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+      "desc": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana.",
+      "date": "2026-11-12T14:01:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Jensen Huang resigns as NVIDIA CEO and board member",
+      "link": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.",
+      "date": "2026-11-12T13:59:02.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/frontier/ai/jensen-huang-resigns-nvidia-names-kress-interim-ceo"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "IBM Targets 520 Qubits With Next Nighthawk Processor",
-      "link": "https://thedefiant.io/frontier/technology/ibm-targets-520-qubits-with-next-nighthawk-processor",
-      "desc": "IBM plans to link two r3 chips in 2027. Developers can use new managed quantum-classical workflows now, but the processor remains a design target.",
-      "date": "2026-11-11T12:11:37.000Z",
+      "title": "Ether Nears $2,000 as Weekly Loss Outpaces Bitcoin's",
+      "link": "https://thedefiant.io/news/markets/ether-nears-2-000-as-weekly-loss-outpaces-bitcoin-s",
+      "desc": "Ether's roughly four-week loss reached 14.7%, versus bitcoin's 9.9%, while US ether ETFs recorded a fifth consecutive session of net withdrawals.",
+      "date": "2026-11-12T13:53:42.000Z",
       "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "link": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own.",
+      "date": "2026-11-12T13:44:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "DTCC Plans Solana Support for Tokenized Assets in 2027",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-plans-solana-support-for-tokenized-assets-in-2027",
+      "desc": "The second-half integration would add another network to a service already live on Canton and DTCC's private Besu blockchain.",
+      "date": "2026-11-12T13:38:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
+      "link": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director.",
+      "date": "2026-11-12T13:31:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+      "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist.",
+      "date": "2026-11-12T13:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
+      "link": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments.",
+      "date": "2026-11-12T13:21:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Sparkasse Bank Malta launches digital asset trading services",
+      "link": "https://www.finextra.com/pressarticle/111653/sparkasse-bank-malta-launches-digital-asset-trading-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Sparkasse Bank Malta has launched a new digital asset offering for institutional and corporate clients, providing secure and regulated access to selected digital asset markets.",
+      "date": "2026-11-12T13:18:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "DCS DeCard partners Visa on stablecoin-lined cards",
+      "link": "https://www.finextra.com/pressarticle/111651/dcs-decard-partners-visa-on-stablecoin-lined-cards?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "DCS DeCard, a card and payments infrastructure platform powered by DCS Group, today announced an expanded collaboration with Visa, a global leader in digital payments, to accelerate the international rollout of its consumer and commercial stablecoin-linked cards, enabling more businesses to integrate stablecoins into everyday spending and corporate expenditure.",
+      "date": "2026-11-12T13:14:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+      "link": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Coinbase’s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity.",
+      "date": "2026-11-12T12:21:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -185,16 +292,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
-      "link": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
-      "desc": "Sygnum's market-neutral fund pairs staking with options, arbitrage and carry strategies, targeting 8%–10% annual returns paid in ETH.",
-      "date": "2026-11-12T10:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "India's ED Searches CoinDCX, Delta in Forex-Law Probe",
@@ -231,6 +328,16 @@
       "link": "https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4?mod=rss_markets_main",
       "desc": "Strategy stock dropped premarket after MSCI ruled the company ineligible for its global indexes.",
       "date": "2026-11-12T09:44:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang resigns",
+      "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+      "desc": "Nasdaq 100 futures are down more than 1%, with Nvidia falling 10% on the news.",
+      "date": "2026-11-12T09:15:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -313,16 +420,6 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-      "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-      "desc": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.",
-      "date": "2026-11-12T05:22:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
       "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
       "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
       "desc": "Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.",
@@ -337,16 +434,6 @@
       "link": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange’s record-breaking hack.",
       "date": "2026-11-12T05:07:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
-      "link": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
-      "desc": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year.",
-      "date": "2026-11-12T02:25:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -377,16 +464,6 @@
       "link": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The self-custodial wallet will keep its API services running through Nov. 14. Sui’s DeFi total value locked has fallen more than 22% over the past month.",
       "date": "2026-11-11T23:18:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
-      "link": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
-      "desc": "Strategy had opposed MSCI’s rules, arguing exclusion would harm its reputation as a neutral provider.",
-      "date": "2026-11-11T23:09:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -457,22 +534,6 @@
       "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
       "desc": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
       "date": "2026-11-11T21:16:03.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO",
-      "link": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
-      "desc": "DogeOS aims to give DOGE holders more ways to use the token through games, apps and financial services.",
-      "date": "2026-11-11T20:32:19.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -563,16 +624,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
-      "desc": "USDT and USDC supply fell nearly $11 billion over the past month, while gold-backed tokens held steady.",
-      "date": "2026-11-11T17:23:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
@@ -593,12 +644,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Apex Group joins Hedera Council to explore tokenization and settlement",
-      "link": "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
-      "desc": "Apex Group, overseeing $3.5 trillion in assets, joins the Hedera Council and will explore Hedera for tokenization, compliance and settlement.",
-      "date": "2026-11-11T17:07:22.000Z",
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
+      "link": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+      "desc": "Three bugs—spanning denial-of-service and privacy issues rather than coin theft—have all been patched, with the most serious capable of halting a miner’s ability to build new blocks.",
+      "date": "2026-11-11T16:58:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -609,16 +660,6 @@
       "link": "https://thedefiant.io/news/tokens/extended-opens-xten-checker-with-dec-31-signing-deadline",
       "desc": "Unaccepted allocations will move to the Ecosystem Fund. Starknet accounts must nominate a self-custodial EVM wallet, while the token launch date remains unannounced.",
       "date": "2026-11-11T16:58:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds",
-      "link": "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910",
-      "desc": "StoneX maintained its Buy rating on Securitize, citing tokenized equities, fund demand, and structured credit as growth drivers.",
-      "date": "2026-11-11T16:22:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -705,13 +746,7 @@
       "link": "https://thedefiant.io/news/infrastructure/pyth-adds-real-time-nyse-data-to-its-data-marketplace",
       "desc": "The Level 1 feed covers five NYSE Group exchanges. Clients must license the data directly with NYSE before receiving it through Pyth.",
       "date": "2026-11-11T15:09:59.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -745,16 +780,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin ‘ripe for a squeeze’ as options traders raise odds of sub-$70,000 Christmas",
-      "link": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
-      "desc": "Bitcoin trades below $74,000 on Wednesday after five weekly losses, with Derive pricing 31% odds of a sub-$70,000 Christmas.",
-      "date": "2026-11-11T14:44:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Keplr User Reports 1,200 ATOM Move Amid Recovery Effort",
@@ -775,16 +800,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Nomura’s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
-      "link": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
-      "desc": "Nomura's Laser Digital is advising ZIG Finance on a tokenized Saudi SME private credit vault targeting a $100 million raise on BNB Chain.",
-      "date": "2026-11-11T13:35:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
@@ -801,26 +816,6 @@
       "link": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs.",
       "date": "2026-11-11T13:26:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "OKXICE Sets Nov. 23 Stock-Token Launch After Objections",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-sets-nov-23-stock-token-launch-after-objections",
-      "desc": "The venture expects more than 70 assets, including 59 Direxion ETFs, but issuer objections still constrain shares tokenized by unaffiliated third parties.",
-      "date": "2026-11-11T13:11:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
-      "link": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
-      "desc": "OKXICC, plans to launch its tokenized securities venue at the end of the month, the joint venture announced on Wednesday.",
-      "date": "2026-11-11T13:01:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -905,16 +900,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "iOS 27.2.1 Leaves Sandbox Flaw Open, Researcher Says",
-      "link": "https://thedefiant.io/news/security/ios-27-2-1-leaves-sandbox-flaw-open-researcher-says",
-      "desc": "The worse_query escape could expose wallet data stored in plaintext, SlowMist warned. Trust Wallet and Zerion said their iOS users are not affected.",
-      "date": "2026-11-11T11:27:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
@@ -945,66 +930,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
-      "link": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The wallet flagged about 37,000 signing requests a week for phishing in Q3 and said better monitoring likely contributed to the increase.",
-      "date": "2026-11-11T10:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "WasabiCard launches local issuing across more than 100 markets",
-      "link": "https://www.finextra.com/pressarticle/111629/wasabicard-launches-local-issuing-across-more-than-100-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "WasabiCard, a provider of stablecoin-powered payments infrastructure, today announced the launch of its Local Issuing Solution.",
-      "date": "2026-11-11T10:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
-      "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply.",
-      "date": "2026-11-11T09:58:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "ECB warns legislative delays could postpone digital euro launch",
-      "link": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "ECB Executive Board member Piero Cipollone warned EU lawmakers that delays in finalizing digital euro legislation could push back its potential 2029 rollout.",
-      "date": "2026-11-11T09:03:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "US spot Bitcoin ETFs have lost $1.6 billion in November, while stock funds attracted billions of dollars from investors buying the dip.",
-      "date": "2026-11-11T08:55:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
-      "link": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on its halted network.",
-      "date": "2026-11-11T05:52:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
@@ -1021,16 +946,6 @@
       "link": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
       "desc": "The chipmaker has erased its 2026 gains as a suspected Chinese espionage case brings fresh scrutiny of CEO Jensen Huang.",
       "date": "2026-11-10T20:45:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
-      "link": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
-      "desc": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions.",
-      "date": "2026-11-10T20:15:08.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1105,26 +1020,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
-      "link": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
-      "desc": "The trading platform, which says it has routed more than $1.3 trillion in trades, is launching four products ahead of Solana Breakpoint.",
-      "date": "2026-11-10T15:01:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
-      "link": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
-      "desc": "Helius' Solana Privacy Rings will let Decrypt users send funds without broadcasting amounts, as it grows out The Information Exchange.",
-      "date": "2026-11-10T14:32:48.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bcannounce",
       "sourceName": "BTC CORE ANN",
       "title": "Bitcoin Core 29.5 released",
@@ -1143,14 +1038,9 @@
           "url": "https://bitcoincore.org/en/2026/10/28/release-30.4/"
         },
         {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862"
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor"
         },
         {
           "source": "BITCOIN CORE",
