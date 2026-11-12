@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T06:19:32.370Z",
+  "generatedAt": "2026-11-12T08:15:20.140Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 233,
   "errors": [],
-  "dupsMerged": 16,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "bcannounce",
@@ -75,6 +75,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Strategy, the World’s Biggest Corporate Bitcoin Holder, to Be Dropped From MSCI Indexes",
+      "link": "https://www.wsj.com/finance/investing/strategy-the-worlds-biggest-corporate-bitcoin-holder-to-be-dropped-from-msci-indexes-96572af4?mod=rss_markets_main",
+      "desc": "The index provider ruled firms without substantial operating assets now count as nonoperating, making them ineligible for its global indexes.",
+      "date": "2026-11-12T07:19:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+      "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
+      "desc": "MSCI’s decision to exclude Strategy from its equity indices could hamper the company’s ability to buy more bitcoin, according to some analysts.",
+      "date": "2026-11-12T07:00:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -859,13 +879,7 @@
       "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.",
       "date": "2026-11-11T04:42:30.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1101,16 +1115,6 @@
       "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
       "desc": "Asch is stepping down as head of the institutional prime brokerage.",
       "date": "2026-11-10T12:38:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
-      "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
-      "desc": "A rate hike in December appears totally assured now, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate.",
-      "date": "2026-11-10T10:41:45.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
