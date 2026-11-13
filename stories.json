@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T18:12:13.647Z",
+  "generatedAt": "2026-11-13T20:11:01.111Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 234,
+  "filteredOut": 237,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "decrypt",
@@ -37,6 +37,72 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Maple CEO Defends Institutional Push Amid Departures",
+      "link": "https://thedefiant.io/news/defi/maple-ceo-defends-institutional-push-amid-departures",
+      "desc": "Sidney Powell said the leadership departures concern Maple’s direction, not its loan book, and outlined plans to expand institutional credit and fintech distribution.",
+      "date": "2026-11-13T19:45:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+      "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+      "desc": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
+      "date": "2026-11-13T19:36:03.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "House Oversight Chair calls for possible ban on government officials’ prediction market bets over insider trading concerns",
+      "link": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
+      "desc": "The House Oversight Committee is calling for new limits on government officials’ use of prediction markets, including a potential ban.",
+      "date": "2026-11-13T19:09:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
+      "link": "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
+      "desc": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn’t put executives at risk of jail.",
+      "date": "2026-11-13T18:51:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+      "link": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit.",
+      "date": "2026-11-13T18:28:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "How to Read US Spot Bitcoin ETF Flows—and Their Limits",
+      "link": "https://thedefiant.io/news/markets/how-to-read-us-spot-bitcoin-etf-flows-and-their-limits",
+      "desc": "Net flows measure additions to funds minus withdrawals—not all share trading or changes in asset value. They cannot, by themselves, explain bitcoin’s price.",
+      "date": "2026-11-13T18:15:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -199,16 +265,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
-      "link": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
-      "desc": "Two Bitcoin whale addresses moved 100 BTC worth $6.89 million after more than 16 years of dormancy on Friday.",
-      "date": "2026-11-13T13:34:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Nakamoto Options Loss Turns Q3 Operating Revenue Negative",
@@ -367,7 +423,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
+      "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
       "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
       "desc": "Equity markets are falling as well, with interest rates and the dollar surging amid an increasingly hawkish Federal Reserve.",
       "date": "2026-11-13T09:16:58.000Z",
@@ -669,16 +725,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "DOJ’s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
-      "link": "https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million",
-      "desc": "Bitcoin Magazine DOJ’s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto The Justice Department said the sweep that ran from May 2025 to October 2026 was the sixth and most extensive JCODE action since 2018, seizing 5.7 metric tons of drugs and 209 firearms, without saying how much of the money was cryptocurrency. This post DOJ’s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-12T22:35:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
@@ -780,42 +826,12 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "NYDFS sets fresh advertising standards for crypto firms",
-      "link": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
-      "desc": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing.",
-      "date": "2026-11-12T18:03:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
       "link": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
       "desc": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the state’s 0.2% levy on digital asset transactions.",
       "date": "2026-11-12T17:46:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
-      "link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
-      "desc": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated.",
-      "date": "2026-11-12T17:40:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says",
-      "link": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
-      "desc": "Payments generated $10.9 million in Q3, while Exodus cut staff and restarted U.S. payment card issuance.",
-      "date": "2026-11-12T16:55:52.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1054,18 +1070,8 @@
       "sourceName": "DECRYPT",
       "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
       "link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
-      "desc": "U.S. spot Bitcoin exchange-traded funds have recorded five consecutive days of net outflows, as investors retreat from risk assets after a turbulent week for markets. The funds lost some $1.44 billion between November 5 and November 11, including $299.9 million on Wednesday, according to SoSoValue data. That brings net outflows for November so far to [&hellip;]",
+      "desc": "Spot Bitcoin ETFs have lost almost half their peak assets, but analysts say the outflows don't yet show a collapse in demand.",
       "date": "2026-11-12T11:24:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
-      "link": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster.",
-      "date": "2026-11-12T11:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1086,16 +1092,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "CFTC Approves tZERO Exchange Ahead of $350M SPAC Deal",
-      "link": "https://thedefiant.io/converge/regulation/cftc-approves-tzero-exchange-ahead-of-350m-spac-deal",
-      "desc": "The November 10 designation follows October clearinghouse registration and satisfies an earn-out target, but merger closing conditions remain.",
-      "date": "2026-11-12T10:00:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
@@ -1106,42 +1102,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Chainstack Urges Credential Rotation After Data Breach",
-      "link": "https://thedefiant.io/news/security/chainstack-urges-credential-rotation-after-data-breach",
-      "desc": "The blockchain infrastructure provider says services stayed online, but customers must replace node credentials and update their applications.",
-      "date": "2026-11-12T08:50:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Zcash Plan Would Pull 50,000 ZEC From Grants Treasury",
-      "link": "https://thedefiant.io/news/blockchains/zcash-plan-would-pull-50-000-zec-from-grants-treasury",
-      "desc": "Polling starts Nov. 16 on a draft that would end ZCG's 8% funding stream and build a locked development and legal-defense reserve.",
-      "date": "2026-11-12T06:03:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
       "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
       "desc": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
       "date": "2026-11-11T21:46:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-      "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
-      "desc": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
-      "date": "2026-11-11T21:16:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
