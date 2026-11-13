@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T06:18:40.649Z",
+  "generatedAt": "2026-11-13T08:14:43.760Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 230,
+  "filteredOut": 228,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "decrypt",
@@ -38,6 +38,46 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+      "desc": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700.",
+      "date": "2026-11-13T07:05:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
+      "link": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
+      "desc": "A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions.",
+      "date": "2026-11-13T06:23:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Nakamoto Delays Kraken Debt as Bitcoin Collateral Falls",
+      "link": "https://thedefiant.io/news/markets/nakamoto-delays-kraken-debt-as-bitcoin-collateral-falls",
+      "desc": "The company pushed a 60 million USDT payment into 2027 and gained credit for protective derivatives, but collateral requirements still allow earlier liquidation.",
+      "date": "2026-11-13T06:20:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Osmosis Restarts After Halt; Upbit Pauses Transfers",
+      "link": "https://thedefiant.io/news/infrastructure/osmosis-restarts-after-halt-upbit-pauses-transfers",
+      "desc": "Onchain records show block production resumed after a roughly four-hour interruption. Upbit kept OSMO trading open but suspended deposits and withdrawals.",
+      "date": "2026-11-13T06:19:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -953,6 +993,16 @@
       "termBoost": 0
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Zcash Plan Would Pull 50,000 ZEC From Grants Treasury",
+      "link": "https://thedefiant.io/news/blockchains/zcash-plan-would-pull-50-000-zec-from-grants-treasury",
+      "desc": "Polling starts Nov. 16 on a draft that would end ZCG's 8% funding stream and build a locked development and legal-defense reserve.",
+      "date": "2026-11-12T06:03:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
@@ -960,22 +1010,6 @@
       "desc": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.",
       "date": "2026-11-12T05:54:48.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-      "link": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-      "desc": "The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund.",
-      "date": "2026-11-12T05:49:44.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/blockchains/zcash-plan-would-pull-50-000-zec-from-grants-treasury"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -1069,6 +1103,16 @@
       "termBoost": 0
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+      "link": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomura’s European operations.",
+      "date": "2026-11-11T21:36:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
@@ -1106,22 +1150,6 @@
       "desc": "Deutsche Bank’s custody service now holds Bitcoin, Ethereum and three stablecoins for institutional and corporate clients in Europe.",
       "date": "2026-11-11T19:06:02.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Nomura Explores Laser Digital Sale, Bloomberg Reports",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/nomura-explores-laser-digital-sale-bloomberg-reports",
-      "desc": "Marex is among the potential buyers, according to Bloomberg. The talks concern a business spanning crypto trading, asset management and onchain credit partnerships.",
-      "date": "2026-11-11T18:50:48.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
       "termBoost": 0
     },
     {
