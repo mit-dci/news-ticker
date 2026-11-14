@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T02:14:58.449Z",
+  "generatedAt": "2026-11-14T04:12:34.665Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 238,
+  "filteredOut": 239,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "decrypt",
@@ -16,6 +16,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ether Falls Below $1,900 as Losses Outpace Bitcoin",
+      "link": "https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin",
+      "desc": "US spot ether ETFs recorded a sixth session of net withdrawals, while the next day's flow tally remained incomplete.",
+      "date": "2026-11-14T03:44:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin Drops Below $67,000 as Crypto Selloff Deepens",
+      "link": "https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens",
+      "desc": "Ether's four-week loss reached 21.4%, while 42 of 44 tokens in a curated crypto watchlist were lower over 24 hours.",
+      "date": "2026-11-14T02:51:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -883,11 +903,6 @@
       "date": "2026-11-12T18:55:03.000Z",
       "alsoAt": [
         {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/frontier/ai/jensen-huang-resigns-nvidia-names-kress-interim-ceo"
-        },
-        {
           "source": "DECRYPT",
           "sourceId": "decrypt",
           "url": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief"
@@ -1002,26 +1017,6 @@
       "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
       "desc": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand.",
       "date": "2026-11-12T14:45:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Securitize, Ethena Open BUIDL Facility With $100M Capacity",
-      "link": "https://thedefiant.io/converge/defi/securitize-ethena-open-buidl-facility-with-100m-capacity",
-      "desc": "The facility starts with $25 million each in USDC and BUIDL. Additional funding is conditional, rather than a continuously available $100 million cash pool.",
-      "date": "2026-11-12T14:39:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Layer 1, Rollups and Sidechains: The Key Differences",
-      "link": "https://thedefiant.io/news/blockchains/layer-1-rollups-and-sidechains-the-key-differences",
-      "desc": "Where transactions run is only part of the difference. Ethereum, OP Mainnet, Linea and Polygon PoS show how checks, settlement and withdrawal waits diverge.",
-      "date": "2026-11-12T14:16:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
