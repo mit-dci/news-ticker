@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-14T18:12:05.086Z",
+  "generatedAt": "2026-11-14T20:10:13.088Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 247,
-  "errors": [],
-  "dupsMerged": 10,
+  "successCount": 17,
+  "filteredOut": 220,
+  "errors": [
+    "FINEXTRA: FINEXTRA: HTTP 403"
+  ],
+  "dupsMerged": 9,
   "items": [
     {
       "source": "defiant",
@@ -16,6 +18,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Who Sells Shares When a Stock Leaves a Market Index?",
+      "link": "https://thedefiant.io/news/markets/who-sells-shares-when-a-stock-leaves-a-market-index",
+      "desc": "An index change can prompt tracking funds to sell shares. That is different from exchange delisting—or a bitcoin-holding company selling its coins.",
+      "date": "2026-11-14T18:14:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -357,16 +369,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
       "desc": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
       "date": "2026-11-14T04:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitcoin Drops Below $67,000 as Crypto Selloff Deepens",
-      "link": "https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens",
-      "desc": "Ether's four-week loss reached 21.4%, while 42 of 44 tokens in a curated crypto watchlist were lower over 24 hours.",
-      "date": "2026-11-14T02:51:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -733,13 +735,7 @@
       "link": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months.",
       "date": "2026-11-13T09:27:14.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -941,16 +937,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Visa and Anchorage Digital bring Western Union stablecoin to settlement network",
-      "link": "https://www.finextra.com/newsarticle/48752/visa-and-anchorage-digital-bring-western-union-stablecoin-to-settlement-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Visa is working with Anchorage Digital to support select stablecoins as native settlement assets on the payment giant's network, starting with Western Union's USDPT.",
-      "date": "2026-11-13T00:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
@@ -1007,16 +993,6 @@
       "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.",
       "date": "2026-11-12T20:58:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-      "link": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
-      "desc": "Nvidia’s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credibility to a company facing a very public leadership test.",
-      "date": "2026-11-12T18:55:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
