@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-14T22:09:38.527Z",
+  "generatedAt": "2026-11-15T00:31:45.576Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 253,
-  "errors": [],
-  "dupsMerged": 9,
+  "successCount": 17,
+  "filteredOut": 229,
+  "errors": [
+    "FINEXTRA: FINEXTRA: HTTP 403"
+  ],
+  "dupsMerged": 8,
   "items": [
     {
       "source": "defiant",
@@ -16,6 +18,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SpaceX Catches Starship Returning From Orbit for First Time",
+      "link": "https://thedefiant.io/frontier/technology/spacex-catches-starship-returning-from-orbit-for-first-time",
+      "desc": "The upper-stage recovery brings SpaceX closer to reusing both parts of its launch system. Super Heavy, however, diverted to an offshore splashdown.",
+      "date": "2026-11-15T00:17:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+      "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+      "desc": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+      "date": "2026-11-14T23:07:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -40,7 +62,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
       "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "desc": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
       "date": "2026-11-14T16:33:29.000Z",
@@ -230,13 +252,7 @@
       "link": "https://thedefiant.io/news/markets/bitcoin-falls-below-69-000-as-ether-slides-under-2-000",
       "desc": "Matched Coinbase closes show ether lost 20.3% over four weeks, compared with bitcoin's 16.3%, as both extended their declines.",
       "date": "2026-11-14T07:22:11.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -320,16 +336,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Apache Patches Critical Bug Found by Anthropic Scanner",
-      "link": "https://thedefiant.io/frontier/technology/apache-patches-critical-bug-found-by-anthropic-scanner",
-      "desc": "The flaw can let unauthenticated attackers run code on HTTP/2-enabled servers. Apache credits Anthropic's OSS Scanner and two Google Cloud researchers.",
-      "date": "2026-11-14T06:47:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
@@ -356,16 +362,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
       "desc": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
       "date": "2026-11-14T04:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinops",
-      "sourceName": "BITCOIN OPTECH",
-      "title": "Bitcoin Optech Newsletter #431",
-      "link": "https://bitcoinops.org/en/newsletters/2026/11/13/",
-      "desc": "This week’s newsletter links to draft BIPs for exfiltration-resistant signing, summarizes the disclosure of three vulnerabilities affecting older versions of Bitcoin Core, announces a plan for mining the testnet5 genesis block, and describes an investigation into degraded compact block reconstruction. Also included are our regular sections announcing new releases and release candidates and describing notable changes to popular Bitcoin infrastructure software.",
-      "date": "2026-11-13T00:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -884,16 +880,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
-      "desc": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.",
-      "date": "2026-11-13T04:20:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
@@ -920,46 +906,6 @@
       "link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Gemini’s third-quarter trading rebound masked a deepening retail slump.",
       "date": "2026-11-13T00:52:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Visa and Anchorage Digital bring Western Union stablecoin to settlement network",
-      "link": "https://www.finextra.com/newsarticle/48752/visa-and-anchorage-digital-bring-western-union-stablecoin-to-settlement-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Visa is working with Anchorage Digital to support select stablecoins as native settlement assets on the payment giant's network, starting with Western Union's USDPT.",
-      "date": "2026-11-13T00:01:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
-      "link": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth.",
-      "date": "2026-11-12T23:12:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-      "link": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-      "desc": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
-      "date": "2026-11-12T22:55:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
-      "link": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.",
-      "date": "2026-11-12T22:29:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
