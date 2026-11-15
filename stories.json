@@ -1,23 +1,108 @@
 {
-  "generatedAt": "2026-11-15T14:09:48.346Z",
+  "generatedAt": "2026-11-15T16:10:42.691Z",
   "sourceCount": 18,
   "successCount": 17,
-  "filteredOut": 254,
+  "filteredOut": 255,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
-  "dupsMerged": 7,
+  "dupsMerged": 8,
   "items": [
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Ethereum Weighs Hegotá Reset for Post-Quantum Security",
-      "link": "https://thedefiant.io/news/blockchains/ethereum-weighs-hegot-reset-for-post-quantum-security",
-      "desc": "Developers dropped quick slots but left FOCIL and a new consensus direction unresolved. Christine D. Kim described development as 'on pause.'",
-      "date": "2026-11-14T07:57:57.000Z",
+      "title": "CFTC Sues Louisiana Over Prediction-Market Shutdown",
+      "link": "https://thedefiant.io/news/regulation/cftc-sues-louisiana-over-prediction-market-shutdown",
+      "desc": "The federal complaint seeks to block state investigations and enforcement against regulated markets, their affiliates and partners—not just the platforms named in Louisiana’s case.",
+      "date": "2026-11-15T16:04:22.000Z",
       "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+      "link": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+      "desc": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
+      "date": "2026-11-15T16:01:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Coinone Warns of Identity Theft After Support Breach",
+      "link": "https://thedefiant.io/news/hacks/coinone-warns-of-identity-theft-after-support-breach",
+      "desc": "Passwords, bank details and national ID numbers shared with support may be exposed. Coinone says it has found no evidence of direct intrusion into its account, trading or wallet systems.",
+      "date": "2026-11-15T15:52:35.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "WSJ Details China’s Offshore Access to Nvidia Chips",
+      "link": "https://thedefiant.io/frontier/ai/wsj-details-china-s-offshore-access-to-nvidia-chips",
+      "desc": "Data centers in Malaysia serve Chinese tech giants, the report says, while authorities investigate whether hardware was diverted elsewhere.",
+      "date": "2026-11-15T15:47:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Targets Full Withdrawal Reopening Next Week",
+      "link": "https://thedefiant.io/news/hacks/binance-targets-full-withdrawal-reopening-next-week",
+      "desc": "The exchange says 87 networks reopened this week, extending a staged recovery that began with selected assets across 15 network groups.",
+      "date": "2026-11-15T15:45:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SOL Hits Lowest Since June Ahead of London Breakpoint",
+      "link": "https://thedefiant.io/news/markets/sol-hits-lowest-since-june-ahead-of-london-breakpoint",
+      "desc": "SOL touched $67.37 on Coinbase and underperformed bitcoin and ether over seven and 28 days. Solana Compass showed 67.3% of total supply staked.",
+      "date": "2026-11-15T15:43:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "CoreX Reports Bitcoin Mining Power Hijacked to OCEAN",
+      "link": "https://thedefiant.io/news/hacks/corex-reports-bitcoin-mining-power-hijacked-to-ocean",
+      "desc": "The flagged address showed no payouts, but submitted mining work could still earn rewards. The attack’s entry point remains unconfirmed.",
+      "date": "2026-11-15T15:18:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Enterprise blockchain is going to come back from the dead",
+      "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+      "date": "2026-11-15T14:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ethereum Gas Fees: From Wallet Estimate to Final Cost",
+      "link": "https://thedefiant.io/news/blockchains/ethereum-gas-fees-from-wallet-estimate-to-final-cost",
+      "desc": "Gas measures computational work. A real Ethereum transaction shows why a spending ceiling can exceed the fee finally charged.",
+      "date": "2026-11-15T14:12:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -82,16 +167,6 @@
       "link": "https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest",
       "desc": "A proposed emergency pause would also stop lender exits and liquidations. A separate governance mechanism could remove its automatic expiry.",
       "date": "2026-11-15T08:19:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Coinone warns of phishing, identity theft after customer data breach",
-      "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
-      "date": "2026-11-15T08:07:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -336,66 +411,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "1inch Warns Delegators to Claim Rewards by Nov. 27",
-      "link": "https://thedefiant.io/news/defi/1inch-warns-delegators-to-claim-rewards-by-nov-27",
-      "desc": "New resolver delegations are closed. Existing delegators should claim rewards and undelegate before the deadline; plain 1INCH staking is unaffected.",
-      "date": "2026-11-14T08:23:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Musk Backs Petition to Bring Jensen Huang Back to Nvidia",
-      "link": "https://thedefiant.io/frontier/ai/musk-backs-petition-to-bring-jensen-huang-back-to-nvidia",
-      "desc": "An independent open letter seeks Huang's reinstatement, but its signature tally is not identity-verified and the board has announced no reversal.",
-      "date": "2026-11-14T08:20:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Rubio Recast CIA Report in Huang Memo, Post Reports",
-      "link": "https://thedefiant.io/frontier/ai/rubio-recast-cia-report-in-huang-memo-post-reports",
-      "desc": "The report identifies Rubio's role in the warning that preceded Jensen Huang's exit, but does not resolve the espionage allegation or establish that he invented it.",
-      "date": "2026-11-14T08:18:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ondo Backs Spout Plan for No-Interest Stock-Token Loans",
-      "link": "https://thedefiant.io/news/defi/ondo-backs-spout-plan-for-no-interest-stock-token-loans",
-      "desc": "The planned Solana integration would fund lender returns with covered calls, leaving borrowers exposed to forgone gains and liquidation.",
-      "date": "2026-11-14T08:15:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Cosmos Hub Votes on Fix for Broken Governance Queries",
-      "link": "https://thedefiant.io/news/blockchains/cosmos-hub-votes-on-fix-for-broken-governance-queries",
-      "desc": "Proposal 1061 is above quorum with near-unanimous support. Validators would need Gaia v29.1.0 at block 33,935,300 if it passes.",
-      "date": "2026-11-14T08:07:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Deutsche Bank Crypto Custody Goes Live for Paying Clients",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-crypto-custody-goes-live-for-paying-clients",
-      "desc": "The European service supports bitcoin, ether and three stablecoins. Stablecoin conversion and tokenized financial instruments remain later steps.",
-      "date": "2026-11-14T07:52:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
@@ -582,36 +597,6 @@
       "link": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
       "desc": "Hyperliquid’s share of open interest reached 11.7% across the platform and eight major centralized rivals.",
       "date": "2026-11-13T16:37:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Over 300 Pro-Crypto Lawmakers Are Coming Into Congress",
-      "link": "https://bitcoinmagazine.com/videos/over-300-pro-crypto-lawmakers-are-coming-into-congress",
-      "desc": "▶Bitcoin Magazine Over 300 Pro-Crypto Lawmakers Are Coming Into Congress Mason Lynaugh, executive director of Stand With Crypto, joins BMTV to talk through what the midterms mean for Bitcoin and crypto. This post Over 300 Pro-Crypto Lawmakers Are Coming Into Congress first appeared on Bitcoin Magazine and is written by Patrick Green.",
-      "date": "2026-11-13T15:00:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
-      "link": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
-      "desc": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.",
-      "date": "2026-11-13T14:50:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ethereum and Layer 1s Explained",
-      "link": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-      "desc": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
-      "date": "2026-11-13T14:12:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
