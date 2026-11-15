@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-15T00:31:45.576Z",
+  "generatedAt": "2026-11-15T02:16:03.053Z",
   "sourceCount": 18,
   "successCount": 17,
-  "filteredOut": 229,
+  "filteredOut": 231,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
@@ -18,6 +18,46 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "FAA Links Ground Stop to Router During Fiber Upgrade",
+      "link": "https://thedefiant.io/frontier/infrastructure/faa-links-ground-stop-to-router-during-fiber-upgrade",
+      "desc": "Officials said a router flooded the air-traffic network during maintenance, but had not determined whether faulty hardware or an installation error was responsible.",
+      "date": "2026-11-15T01:26:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Liquidations Near $800 Million as Bitcoin Sinks",
+      "link": "https://thedefiant.io/news/markets/binance-liquidations-near-800-million-as-bitcoin-sinks",
+      "desc": "CoinGlass recorded $2.05 billion in liquidations across tracked exchanges, overwhelmingly in bets on rising prices.",
+      "date": "2026-11-15T01:24:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin Sinks Below $63,000 as Multiweek Slide Deepens",
+      "link": "https://thedefiant.io/news/markets/bitcoin-sinks-below-63-000-as-multiweek-slide-deepens",
+      "desc": "Coinbase and Bitstamp both recorded the break. Bitcoin's new low was 12.5% below the snapshot low in The Defiant's Nov. 12 report.",
+      "date": "2026-11-15T01:18:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Telegram Restricts Bot Widgets Amid Security Dispute",
+      "link": "https://thedefiant.io/news/security/telegram-restricts-bot-widgets-amid-security-dispute",
+      "desc": "A Bot API contributor confirmed that general bots cannot send HTML widgets, including in private chats. The restriction is narrower than a freeze on all mini-apps.",
+      "date": "2026-11-15T01:03:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -62,7 +102,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
       "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "desc": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
       "date": "2026-11-14T16:33:29.000Z",
@@ -292,46 +332,6 @@
       "link": "https://thedefiant.io/frontier/ai/blacklisted-chinese-university-bought-h200s-reuters",
       "desc": "Northwestern Polytechnical reportedly bought two Nvidia accelerators through a Chinese supplier, despite restrictions that survived January's easing of H200 export licensing.",
       "date": "2026-11-14T07:02:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "MANTRA Announces Seven-Day Pause on New Unstaking",
-      "link": "https://thedefiant.io/news/hacks/mantra-announces-seven-day-pause-on-new-unstaking",
-      "desc": "The pause blocks new withdrawal requests but does not stop the eight-day countdown for tokens already being unstaked.",
-      "date": "2026-11-14T07:01:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Sacks Says Alice Huang Spy Narrative Is 'Collapsing'",
-      "link": "https://thedefiant.io/frontier/ai/sacks-says-alice-huang-spy-narrative-is-collapsing",
-      "desc": "CNN reported that US officials remain divided over the evidence. Sacks called for a leak investigation after Jensen Huang's departure from Nvidia.",
-      "date": "2026-11-14T07:01:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "dYdX Proposes USDC Backing Shift From Noble to Injective",
-      "link": "https://thedefiant.io/news/defi/dydx-proposes-usdc-backing-shift-from-noble-to-injective",
-      "desc": "The v9.9 plan would reroute deposits and withdrawals while leaving existing USDC balances, collateral and open positions unchanged.",
-      "date": "2026-11-14T06:52:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Maple Reports $1.89 Billion in Syrup Loan Collateral",
-      "link": "https://thedefiant.io/news/defi/maple-reports-1-89-billion-in-syrup-loan-collateral",
-      "desc": "Maple disclosed the check after a CEO update on executive departures and withdrawals. The provider says its service is not an audit or assurance engagement.",
-      "date": "2026-11-14T06:50:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -886,26 +886,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
       "desc": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market.",
       "date": "2026-11-13T03:37:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
-      "link": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO.",
-      "date": "2026-11-13T01:26:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
-      "link": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Gemini’s third-quarter trading rebound masked a deepening retail slump.",
-      "date": "2026-11-13T00:52:42.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
