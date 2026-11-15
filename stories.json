@@ -1,13 +1,83 @@
 {
-  "generatedAt": "2026-11-15T20:10:23.327Z",
+  "generatedAt": "2026-11-15T22:09:53.457Z",
   "sourceCount": 18,
   "successCount": 17,
-  "filteredOut": 262,
+  "filteredOut": 264,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
-  "dupsMerged": 8,
+  "dupsMerged": 9,
   "items": [
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bessent Urges Outside Nvidia CEO Search, Reuters Says",
+      "link": "https://thedefiant.io/frontier/ai/bessent-urges-outside-nvidia-ceo-search-reuters-says",
+      "desc": "Reuters reported that the Treasury secretary called for a leadership shakeup while Nvidia’s board was still organizing its search for Jensen Huang’s successor.",
+      "date": "2026-11-15T21:23:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Megaspeed Opens Review, Says Alice Huang Left in 2025",
+      "link": "https://thedefiant.io/frontier/technology/megaspeed-opens-review-says-alice-huang-left-in-2025",
+      "desc": "Outside lawyers will examine reports about the Nvidia cloud partner's business and supply chain. Singapore's separate server-shipment inquiry remains open.",
+      "date": "2026-11-15T21:23:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Solflare Launches Private Mode for Solana Payments",
+      "link": "https://thedefiant.io/news/defi/solflare-launches-private-mode-for-solana-payments",
+      "desc": "The Helius-powered feature hides assets and amounts, not wallet addresses. Swaps and staking still require public balances.",
+      "date": "2026-11-15T21:19:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Vulcan Fails to Deliver 40 Amazon Satellites to Orbit",
+      "link": "https://thedefiant.io/frontier/technology/vulcan-fails-to-deliver-40-amazon-satellites-to-orbit",
+      "desc": "Amazon had planned a second Vulcan mission within weeks of a successful debut. ULA now faces an investigation and has given no return-to-flight date.",
+      "date": "2026-11-15T21:18:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+      "link": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+      "desc": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
+      "date": "2026-11-15T20:33:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Huang Weighs Nvidia Return as Allies Press Board: FT",
+      "link": "https://thedefiant.io/frontier/ai/huang-weighs-nvidia-return-as-allies-press-board-ft",
+      "desc": "The reported comeback discussions have not changed Nvidia’s announced leadership plan: Colette Kress remains interim CEO ahead of Nov. 17 earnings.",
+      "date": "2026-11-15T20:17:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Luxor Pledges Full Compensation for Commander Hijack",
+      "link": "https://thedefiant.io/news/hacks/luxor-pledges-full-compensation-for-commander-hijack",
+      "desc": "Luxor said just over a dozen client accounts were affected and promised to pay for redirected mining power as though it had mined normally.",
+      "date": "2026-11-15T20:16:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -186,6 +256,11 @@
           "source": "THE DEFIANT",
           "sourceId": "defiant",
           "url": "https://thedefiant.io/news/markets/bitcoin-regains-65-000-after-falling-to-four-month-low"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
         }
       ],
       "termBoost": 0
@@ -301,42 +376,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Telegram Restricts Bot Widgets Amid Security Dispute",
-      "link": "https://thedefiant.io/news/security/telegram-restricts-bot-widgets-amid-security-dispute",
-      "desc": "A Bot API contributor confirmed that general bots cannot send HTML widgets, including in private chats. The restriction is narrower than a freeze on all mini-apps.",
-      "date": "2026-11-15T01:03:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "SpaceX Catches Starship Returning From Orbit for First Time",
-      "link": "https://thedefiant.io/frontier/technology/spacex-catches-starship-returning-from-orbit-for-first-time",
-      "desc": "The upper-stage recovery brings SpaceX closer to reusing both parts of its launch system. Super Heavy, however, diverted to an offshore splashdown.",
-      "date": "2026-11-15T00:17:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
       "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
       "desc": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
       "date": "2026-11-14T23:07:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Who Sells Shares When a Stock Leaves a Market Index?",
-      "link": "https://thedefiant.io/news/markets/who-sells-shares-when-a-stock-leaves-a-market-index",
-      "desc": "An index change can prompt tracking funds to sell shares. That is different from exchange delisting—or a bitcoin-holding company selling its coins.",
-      "date": "2026-11-14T18:14:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -411,16 +456,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Pennysia Users Urged to Revoke Approvals After Exploit",
-      "link": "https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit",
-      "desc": "Onchain records show swaps were disabled before SlowMist's public warning. The cited drain affected four addresses.",
-      "date": "2026-11-14T09:31:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
@@ -467,66 +502,6 @@
       "link": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
       "desc": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.",
       "date": "2026-11-13T22:16:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-      "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
-      "date": "2026-11-13T21:49:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-      "link": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Payward’s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded.",
-      "date": "2026-11-13T21:01:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Joe Carlasare on “Extreme Fear” in Bitcoin: “I’m A Buyer Here”",
-      "link": "https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here",
-      "desc": "▶Bitcoin Magazine Joe Carlasare on “Extreme Fear” in Bitcoin: “I’m A Buyer Here” Bitcoin went from 57,000 to 82,000 in less than 90 days earlier this year, and Joe Carlasare says that's why he rejects the idea that capital can't flood back in. This post Joe Carlasare on “Extreme Fear” in Bitcoin: “I’m A Buyer Here” first appeared on Bitcoin Magazine and is written by Patrick Green.",
-      "date": "2026-11-13T21:00:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Meta tests prediction market app using ‘cred’ points instead of cash: WSJ",
-      "link": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
-      "desc": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points.",
-      "date": "2026-11-13T20:55:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
-      "link": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Coinbase’s trust company received final clearance as lawmakers seek records on crypto firms’ compliance and potential conflicts of interest.",
-      "date": "2026-11-13T20:53:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-      "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
-      "desc": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.",
-      "date": "2026-11-13T20:16:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
