@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T20:11:18.917Z",
+  "generatedAt": "2026-11-16T22:10:37.178Z",
   "sourceCount": 18,
   "successCount": 17,
-  "filteredOut": 221,
+  "filteredOut": 214,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
-  "dupsMerged": 17,
+  "dupsMerged": 16,
   "items": [
     {
       "source": "coindesk",
@@ -24,6 +24,207 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Financial Services Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-8b780372?mod=rss_markets_main",
+      "desc": "Find insight on Legal & General, bitcoin and more in the latest Market Talks covering financial services.",
+      "date": "2026-11-16T21:54:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+      "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+      "desc": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
+      "date": "2026-11-16T21:51:04.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+      "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
+      "desc": "Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage left behind.",
+      "date": "2026-11-16T21:46:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
+      "link": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
+      "desc": "Trezor warns of scam calls and physical security risks after customer addresses leak at shipping partner.",
+      "date": "2026-11-16T21:44:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Toss Plans In-App Crypto Wallet for ETH, USDT and USDC",
+      "link": "https://thedefiant.io/news/tradfi-and-fintech/toss-plans-in-app-crypto-wallet-for-eth-usdt-and-usdc",
+      "desc": "Korean reports citing Toss put the launch this week, with contact-based Ethereum transfers and no separate platform fee.",
+      "date": "2026-11-16T21:27:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "DBS, JPMorgan Launch 24/7 Tokenized Dollar Transfers",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-jpmorgan-launch-24-7-tokenized-dollar-transfers",
+      "desc": "Ant International is the first client of the US-Singapore link, which connects the banks' permissioned networks and uses Partior to coordinate settlement.",
+      "date": "2026-11-16T21:27:31.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854"
+        },
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Lighter Says Withdrawals Resume After API-Key Theft",
+      "link": "https://thedefiant.io/news/hacks/lighter-says-withdrawals-resume-after-api-key-theft",
+      "desc": "The platform says its Security Council returned about 5 million USDC and added a wallet-signature requirement for transfers into public pools.",
+      "date": "2026-11-16T21:26:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Zoox Launches Driverless Rides on Uber in Las Vegas",
+      "link": "https://thedefiant.io/frontier/technology/zoox-launches-driverless-rides-on-uber-in-las-vegas",
+      "desc": "Eligible Uber trips can now match with a Zoox robotaxi at no extra cost. A multiyear MGM Resorts deal includes work on resort pickups and drop-offs.",
+      "date": "2026-11-16T21:25:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Democrats Challenge CFTC Prediction Market Push: WSJ",
+      "link": "https://thedefiant.io/news/regulation/democrats-challenge-cftc-prediction-market-push-wsj",
+      "desc": "Nine senators want the agency to reverse its directive against geographic restrictions, the Journal reported, as federal and state authorities fight over market access.",
+      "date": "2026-11-16T21:25:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Abra Taps NYSE Parent ICE to Hold Crypto Loan Collateral",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/abra-taps-nyse-parent-ice-to-hold-crypto-loan-collateral",
+      "desc": "Initial institutional borrowers can pledge bitcoin, ether or SOL for dollar loans, with collateral kept at ICE Digital Trust rather than lent onward.",
+      "date": "2026-11-16T21:25:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Coinbase Says Bank Wires Can Now Arrive as USDC",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-says-bank-wires-can-now-arrive-as-usdc",
+      "desc": "A standing setting converts future incoming wires into stablecoins. Coinbase is also advertising a variable 3.75% APY reward for Coinbase One members.",
+      "date": "2026-11-16T21:23:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
+      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
+      "desc": "Bitcoin Magazine Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5% Bitcoin price held near $65,000 on Monday afternoon, shrugging off a 2.5% Nasdaq slide as Nvidia's board ruled out bringing back Jensen Huang and the dollar hit a 19-month high. This post Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5% first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-16T21:20:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "wsj",
+      "sourceName": "WALL STREET JOURNAL",
+      "title": "Crypto Stuck Near Multimonth Lows After Sluggish Weekend",
+      "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
+      "desc": "Crypto started the week on a downbeat note with both Bitcoin and Ethereum trading around key support levels as risk appetite remains constrained.",
+      "date": "2026-11-16T21:05:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+      "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.",
+      "date": "2026-11-16T20:45:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps",
+      "link": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
+      "desc": "Four Democratic senators are raising concerns about the Securities and Exchange Commission's newly unveiled innovation exemption.",
+      "date": "2026-11-16T20:44:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+      "desc": "Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses.",
+      "date": "2026-11-16T20:35:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+      "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+      "desc": "A judge acquitted the Peraire-Bueno brothers of wire fraud over the Ethereum MEV exploit, ruling prosecutors showed no misrepresentation.",
+      "date": "2026-11-16T20:30:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
+      "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
+      "desc": "Bitwise predicts the SOL token will be valued at $1,100 by 2031, versus $385 in the base case and $80 in the bear case.",
+      "date": "2026-11-16T20:27:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
+      "link": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront.",
+      "date": "2026-11-16T20:18:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "pymnts",
@@ -49,6 +250,26 @@
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-broadridge-propose-onchain-rights-standard"
         }
       ],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin",
+      "link": "https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-institutions-not-backing-away-from-bitcoin",
+      "desc": "▶Bitcoin Magazine T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin For institutions, Blue Macellari says Bitcoin is no longer about whether to own it or whether it is real. This post T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-11-16T19:44:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "$36B Wealth Firm Strategist: Bitcoin’s Supercycle Is “Still Intact”",
+      "link": "https://bitcoinmagazine.com/videos/36b-wealth-firm-strategist-bitcoins-supercycle-is-still-intact",
+      "desc": "▶Bitcoin Magazine $36B Wealth Firm Strategist: Bitcoin’s Supercycle Is “Still Intact” James Thorne, Chief Market Strategist at Wellington-Altus, tells BMTV that Bitcoin's super cycle is still intact after the drop from about 83,000 in mid-October to around 64,000. This post $36B Wealth Firm Strategist: Bitcoin’s Supercycle Is “Still Intact” first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-11-16T19:17:14.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -189,6 +410,27 @@
       "desc": "DeFi Development added 9,482 SOL last week, lifting its Solana treasury to about 2.62 million tokens in its 10th straight week of growth.",
       "date": "2026-11-16T16:16:17.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
+      "link": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years",
+      "desc": "Solana's 1.0 designation gives developers a common way to track network rules. Here's what it means for users and builders.",
+      "date": "2026-11-16T16:14:22.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885"
+        },
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -355,9 +597,9 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Lighter pauses withdrawals after reported $10M account theft",
+      "title": "Lighter recovers $5M after $10M exploit linked to compromised API keys",
       "link": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Lighter has paused withdrawals after reporting a leaked trader API key, with Bubblemaps tracking $10.4 million withdrawn.",
+      "desc": "Lighter restored withdrawals after recovering approximately $5 million in USDC, while blockchain analysts traced $10.4 million in funds moved during the exploit.",
       "date": "2026-11-16T14:19:50.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -399,26 +641,6 @@
       "link": "https://bitcoinmagazine.com/news/h100-coinbase-prime-bitcoin-treasury",
       "desc": "Bitcoin Magazine Sweden’s H100 Taps Coinbase Prime and Deribit for Its 3,506 Bitcoin Treasury as It Courts Family Offices H100 Group will use Coinbase Prime and Deribit for custody, trading and financing of its roughly 3,506 BTC, worth about $226 million, as it builds bitcoin services for family offices and wealthy investors. This post Sweden’s H100 Taps Coinbase Prime and Deribit for Its 3,506 Bitcoin Treasury as It Courts Family Offices first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-11-16T14:15:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000",
-      "link": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-tech",
-      "desc": "Bitcoin Magazine Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000 Bitcoin price traded near $64,000 on Monday morning after plunging to $62,000 over the weekend, as Nasdaq futures slid ahead of Nvidia's earnings and traders braced for a December Fed hike. This post Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-16T13:42:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-11-16T13:31:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -479,16 +701,6 @@
       "termBoost": 0
     },
     {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Bitcoin, Ether Slump Further",
-      "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
-      "desc": "Crypto started the week on a downbeat note, with bitcoin and ether again trading below key levels as risk appetite remains constrained.",
-      "date": "2026-11-16T12:57:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
@@ -505,42 +717,6 @@
       "link": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "HKMA and Swift will explore linking Project Ensemble with Swift’s ledger for cross-border payments using tokenized deposits in multiple currencies.",
       "date": "2026-11-16T12:54:51.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/hkma-swift-explore-cross-border-tokenized-payments"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitso's Mexican Peso Stablecoin MXNB Heads to Solana",
-      "link": "https://thedefiant.io/news/tokens/bitso-s-mexican-peso-stablecoin-mxnb-heads-to-solana",
-      "desc": "Issuer Juno lists a Solana token address as Bitso pitches peso credit. MXNB's latest issuer snapshot reported 77.7 million tokens in circulation.",
-      "date": "2026-11-16T12:28:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Upbit and Bithumb Halt LIT Transfers Amid Lighter Probe",
-      "link": "https://thedefiant.io/news/security/upbit-and-bithumb-halt-lit-transfers-amid-lighter-probe",
-      "desc": "LIT trading continues on the exchanges, but holders cannot deposit or withdraw the token. Lighter has separately suspended all withdrawals and pool creation.",
-      "date": "2026-11-16T12:20:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Hong Kong Targets Year-End Bill to Widen Crypto Licensing",
-      "link": "https://thedefiant.io/converge/regulation/hong-kong-targets-year-end-bill-to-widen-crypto-licensing",
-      "desc": "Dealers, advisers, asset managers and custodians would need SFC approval under proposed rules modelled on conventional securities regulation.",
-      "date": "2026-11-16T12:19:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -558,62 +734,6 @@
           "url": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Kava Speeds HARD Lend Shutdown After 53.9M KAVA Theft",
-      "link": "https://thedefiant.io/news/hacks/kava-speeds-hard-lend-shutdown-after-53-9m-kava-theft",
-      "desc": "Kava plans a seven-day governance vote to end new lending and borrowing, while depositors await details on how remaining positions will be handled.",
-      "date": "2026-11-16T11:28:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Lighter Halts All Withdrawals Over Security Incident",
-      "link": "https://thedefiant.io/news/security/lighter-halts-all-withdrawals-over-security-incident",
-      "desc": "The exchange also suspended pool creation while investigating an apparent compromise of a single external party. ETH futures trading continued after the notice.",
-      "date": "2026-11-16T11:19:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Solana Drops 'Mainnet Beta' Label for 1.0 Designation",
-      "link": "https://thedefiant.io/news/blockchains/solana-drops-mainnet-beta-label-for-1-0-designation",
-      "desc": "The Foundation cites Alpenglow and Firedancer as milestones behind the new name. Users need not move assets, while client upgrades keep their own rollout requirements.",
-      "date": "2026-11-16T11:16:53.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885"
-        },
-        {
-          "source": "COINDESK",
-          "sourceId": "coindesk",
-          "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Solflare Adds MoneyGram Cash-Outs in 170-Plus Markets",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/solflare-adds-moneygram-cash-outs-in-170-plus-markets",
-      "desc": "MoneyGram says eligible Solflare users can collect local currency at participating agents, with cash-out fees waived through Dec. 31, 2026.",
-      "date": "2026-11-16T11:16:12.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -647,19 +767,13 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
-      "link": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
-      "desc": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
-      "date": "2026-11-16T09:26:39.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin trades near $65,000 as Nasdaq closes with 2.5% loss",
+      "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
+      "desc": "Strategy and Strive might be the only buyers left in BTC, and each — constrained by weak stock prices — made only modest purchases last week.",
+      "date": "2026-11-16T09:34:18.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -689,16 +803,6 @@
       "link": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
       "desc": "CoW Swap has launched trading directly on Solana after previously supporting cross-chain swaps into the network.",
       "date": "2026-11-16T09:05:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report",
-      "link": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
-      "desc": "The firm is also said to be preparing for a VASP license for a business expansion to support stablecoin payments.",
-      "date": "2026-11-16T08:52:33.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -763,26 +867,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-      "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
-      "desc": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
-      "date": "2026-11-15T21:57:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
-      "link": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
-      "desc": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
-      "date": "2026-11-15T20:33:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
@@ -809,16 +893,6 @@
       "link": "https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7?syn-25a6b1a6=1",
       "desc": "High gold prices have driven a wave of fresh mining, and Conakry is cracking down",
       "date": "2026-11-15T15:13:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Peruvian Bull: The Yen Carry Trade and Bitcoin’s Road to $300k",
-      "link": "https://bitcoinmagazine.com/videos/peruvian-bull-the-yen-carry-trade-and-bitcoins-road-to-300k",
-      "desc": "▶Bitcoin Magazine Peruvian Bull: The Yen Carry Trade and Bitcoin’s Road to $300k Roberto Rios, the Peruvian Bull and author of the Dollar End Game Substack, joins Spencer Nickels to explain how the yen carry trade connects to Bitcoin's road to $300,000. This post Peruvian Bull: The Yen Carry Trade and Bitcoin’s Road to $300k first appeared on Bitcoin Magazine and is written by Mark Mason.",
-      "date": "2026-11-15T15:00:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
