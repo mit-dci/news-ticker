@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T14:26:31.333Z",
+  "generatedAt": "2026-11-16T16:13:01.946Z",
   "sourceCount": 18,
   "successCount": 17,
-  "filteredOut": 240,
+  "filteredOut": 232,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
-  "dupsMerged": 13,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "coindesk",
@@ -24,6 +24,173 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral",
+      "link": "https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral",
+      "desc": "Executives from the U.S. settlement giant and Barclays told Solana's Breakpoint that adoption is early, but accelerating.",
+      "date": "2026-11-16T16:11:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Harvard Holds 3.04 Million Bitcoin ETF Shares Steady",
+      "link": "https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil",
+      "desc": "Bitcoin Magazine Harvard Holds 3.04 Million Bitcoin ETF Shares Steady Harvard Management Company's latest 13F shows it still holds 3,044,612 shares of BlackRock's iShares Bitcoin Trust, unchanged since March, a stake now worth about $110.6 million after bitcoin's slide. This post Harvard Holds 3.04 Million Bitcoin ETF Shares Steady first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-16T16:00:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "JPMorgan and DBS Launch 24/7 Tokenized Transfer Solution",
+      "link": "https://www.pymnts.com/blockchain/2026/jpmorgan-and-dbs-launch-24-7-tokenized-transfer-solution/",
+      "desc": "JPMorgan and Singapore-based bank DBS have joined their blockchain-based deposit networks to let customers transmit dollars after hours. The partnership, announced Monday (Nov. 16), connects DBS’ tokenized deposit service with JPMorgan’s blockchain-based payments unit Kinexys and allows customers to make transfers around the clock, including on weekends and outside normal banking hours. It builds on the interoperability framework announced by DBS and […] The post JPMorgan and DBS Launch 24/7 Tokenized Transfer Solution appeared first on PYMNTS.com.",
+      "date": "2026-11-16T15:59:52.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854"
+        },
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+      "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+      "desc": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal \"dólar-cabo\" system.",
+      "date": "2026-11-16T15:54:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "German parliament proposes crypto seizures without criminal charges",
+      "link": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
+      "desc": "German lawyers said a proposed law allowing the seizure of assets worth more than 100,000 euros could impose a burden of proof on crypto holders rather than the authorities.",
+      "date": "2026-11-16T15:44:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Safe Wallet Drained of $6.4 Million via Roles Module",
+      "link": "https://thedefiant.io/news/hacks/safe-wallet-drained-of-6-4-million-via-roles-module",
+      "desc": "An Ethereum transaction shows USDC and syrupUSDC leaving one wallet. An analyst traced the drain to a gap in its delegated trading permissions.",
+      "date": "2026-11-16T15:27:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Supreme Court Ends Custodia Bank’s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access",
+      "link": "https://bitcoinmagazine.com/news/supreme-court-ends-custodia-fed-master",
+      "desc": "Bitcoin Magazine Supreme Court Ends Custodia Bank’s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access The Supreme Court denied Custodia Bank's petition in No. 26-62 on Monday, leaving in place a Tenth Circuit ruling that Federal Reserve Banks may reject even eligible applicants for master accounts. This post Supreme Court Ends Custodia Bank’s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-16T15:24:11.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/regulation/supreme-court-rejects-custodia-s-fed-account-appeal"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Duffy Says AT&T, Verizon Ready to Rebuild FAA Network",
+      "link": "https://thedefiant.io/frontier/infrastructure/duffy-says-at-t-verizon-ready-to-rebuild-faa-network",
+      "desc": "An AT&T planning contract predates the nationwide ground stop. Duffy says the wider network replacement still needs congressional funding.",
+      "date": "2026-11-16T15:18:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
+      "link": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
+      "desc": "The former UK prime minister told a Solana conference he backs blockchain but still doubts Bitcoin, months after calling it a Ponzi.",
+      "date": "2026-11-16T15:04:56.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Tom Lee says Ethereum’s ‘waterfall decline in price’ defies fundamentals as Bitmine adds 7,653 ETH",
+      "link": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
+      "desc": "Bitmine acquired 7,653 ETH as Tom Lee questioned the rate of ether's recent decline against improving institutional developments.",
+      "date": "2026-11-16T15:00:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Layer 2 Scaling Explained",
+      "link": "https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103",
+      "desc": "Layer 2 101 explains why blockchains need to scale and how Layer 2s help. It covers rollups, sidechains and appchains, monolithic vs modular design, Layer 2 tokens and incentives, and the trade-offs between speed, cost and security.",
+      "date": "2026-11-16T14:56:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+      "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.",
+      "date": "2026-11-16T14:55:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Bitwise CIO says bitcoin may fall further in the near term but still calls it the best risk-adjusted trade of the next decade",
+      "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-cio-says-bitcoin-may-fall-further-in-the-near-term-but-still-calls-it-the-best-risk-adjusted-trade-of-the-next-decade-440901",
+      "desc": "Bitwise CIO Matt Hougan said bitcoin could fall further in the near term but stood by his bullish long-term outlook.",
+      "date": "2026-11-16T14:52:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Hong Kong to License Crypto Dealers and Custodians by Year-End",
+      "link": "https://bitcoinmagazine.com/news/hong-kong-license-crypto-dealers-custodian",
+      "desc": "Bitcoin Magazine Hong Kong to License Crypto Dealers and Custodians by Year-End Financial Secretary Paul Chan said Hong Kong will introduce a bill by year-end to license crypto dealers, advisers, managers and custodians, after only two of 36 first-round stablecoin applicants received licenses in April. This post Hong Kong to License Crypto Dealers and Custodians by Year-End first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-16T14:45:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "b14g Opens CORE Claims for Revenue-Funded Repayments",
+      "link": "https://thedefiant.io/news/hacks/b14g-opens-core-claims-for-revenue-funded-repayments",
+      "desc": "The portal follows a roughly 70% hard-fork recovery. Further repayments depend on staking revenue and additional recoveries; full repayment is not guaranteed.",
+      "date": "2026-11-16T14:30:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -345,32 +512,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin holding weekend plunge as November losses deepen to 17%",
-      "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
-      "desc": "Strategy and Strive might be the only buyers left, and each — constrained by weak stock prices — made only modest purchases last week.",
-      "date": "2026-11-16T09:34:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
-      "link": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
-      "desc": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
-      "date": "2026-11-16T09:26:39.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
@@ -471,26 +612,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "OCEAN Payouts Reach Address Flagged in Mining Hijack",
-      "link": "https://thedefiant.io/news/hacks/ocean-payouts-reach-address-flagged-in-mining-hijack",
-      "desc": "Two confirmed Bitcoin payouts total about $10,500, while OCEAN's reward system continues to assign the flagged address a share of future blocks.",
-      "date": "2026-11-16T02:19:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aster CEO Blames Liquidations for ASTER's Sharp Swing",
-      "link": "https://thedefiant.io/news/markets/aster-ceo-blames-liquidations-for-aster-s-sharp-swing",
-      "desc": "The token fell about 32% from its intraday spike on both Aster and Binance. Leonard called the liquidations 'likely malicious' and said the team was investigating.",
-      "date": "2026-11-16T01:20:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
@@ -517,26 +638,6 @@
       "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
       "desc": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
       "date": "2026-11-15T21:57:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bessent Urges Outside Nvidia CEO Search, Reuters Says",
-      "link": "https://thedefiant.io/frontier/ai/bessent-urges-outside-nvidia-ceo-search-reuters-says",
-      "desc": "Reuters reported that the Treasury secretary called for a leadership shakeup while Nvidia’s board was still organizing its search for Jensen Huang’s successor.",
-      "date": "2026-11-15T21:23:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Megaspeed Opens Review, Says Alice Huang Left in 2025",
-      "link": "https://thedefiant.io/frontier/technology/megaspeed-opens-review-says-alice-huang-left-in-2025",
-      "desc": "Outside lawyers will examine reports about the Nvidia cloud partner's business and supply chain. Singapore's separate server-shipment inquiry remains open.",
-      "date": "2026-11-15T21:23:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -697,36 +798,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "desc": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
       "date": "2026-11-14T16:33:29.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
-      "link": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
-      "desc": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
-      "date": "2026-11-14T16:01:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-      "link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-      "desc": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
-      "date": "2026-11-14T15:38:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-      "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
-      "desc": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
-      "date": "2026-11-14T15:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
