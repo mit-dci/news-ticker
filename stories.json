@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T08:28:20.809Z",
+  "generatedAt": "2026-11-16T10:14:25.755Z",
   "sourceCount": 18,
   "successCount": 17,
-  "filteredOut": 262,
+  "filteredOut": 254,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
-  "dupsMerged": 8,
+  "dupsMerged": 10,
   "items": [
     {
       "source": "coindesk",
@@ -15,9 +15,91 @@
       "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
       "desc": "A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive.",
       "date": "2026-11-16T08:18:03.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum"
+        }
+      ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
+      "link": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
+      "desc": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
+      "date": "2026-11-16T09:26:39.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
+      "link": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
+      "desc": "Huang has reportedly discussed a comeback with confidants, but Treasury Secretary Scott Bessent says Nvidia needs a \"dramatic shake-up.\"",
+      "date": "2026-11-16T09:25:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
+      "desc": "Your look at what’s coming in the week starting Nov. 16.",
+      "date": "2026-11-16T09:23:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "CoW Swap Launches Native Intent-Based Trades on Solana",
+      "link": "https://thedefiant.io/news/defi/cow-swap-launches-native-intent-based-trades-on-solana",
+      "desc": "The alpha supports USDC and wrapped SOL swaps, bringing CoW's batch auctions to same-chain Solana trading after May's cross-chain integration.",
+      "date": "2026-11-16T09:17:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "CoW Swap goes live on Solana with intent-based trading",
+      "link": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
+      "desc": "CoW Swap has launched trading directly on Solana after previously supporting cross-chain swaps into the network.",
+      "date": "2026-11-16T09:05:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report",
+      "link": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
+      "desc": "The firm is also said to be preparing for a VASP license for a business expansion to support stablecoin payments.",
+      "date": "2026-11-16T08:52:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
+      "link": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
+      "desc": "DBS and JPMorgan have connected their blockchain-based deposit networks, letting approved clients move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends.",
+      "date": "2026-11-16T08:46:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -106,16 +188,6 @@
       "link": "https://www.pymnts.com/cryptocurrency/2026/crypto-firms-expect-few-gifts-from-lame-duck-congress/",
       "desc": "There was a time when the cryptocurrency sector thought that Congress might make progress on industry legislation before the year’s end. But that time has now passed, CoinDesk reported Sunday (Nov. 15), citing industry experts as Congress’ lame duck session unfolds. Cody Carbone, CEO of The Digital Chamber, told the news outlet he sees “little […] The post Crypto Firms Expect Few Gifts From Lame Duck Congress appeared first on PYMNTS.com.",
       "date": "2026-11-16T01:19:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Binance Aims to Reopen Withdrawals After $6.3 Billion Hack",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/binance-aims-to-reopen-withdrawals-after-6-3-billion-hack/",
-      "desc": "Binance says activity is returning to normal for the cryptocurrency platform following last month’s historic heist. “This week, we reopened withdrawals for 87 networks,” the company said in an X post on Saturday (Nov. 14). “We will aim to reopen withdrawals for all remaining networks and assets by the end of next week. Thank you […] The post Binance Aims to Reopen Withdrawals After $6.3 Billion Hack appeared first on PYMNTS.com.",
-      "date": "2026-11-16T00:44:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -316,6 +388,16 @@
       "termBoost": 0
     },
     {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Peruvian Bull: The Yen Carry Trade and Bitcoin’s Road to $300k",
+      "link": "https://bitcoinmagazine.com/videos/peruvian-bull-the-yen-carry-trade-and-bitcoins-road-to-300k",
+      "desc": "▶Bitcoin Magazine Peruvian Bull: The Yen Carry Trade and Bitcoin’s Road to $300k Roberto Rios, the Peruvian Bull and author of the Dollar End Game Substack, joins Spencer Nickels to explain how the yen carry trade connects to Bitcoin's road to $300,000. This post Peruvian Bull: The Yen Carry Trade and Bitcoin’s Road to $300k first appeared on Bitcoin Magazine and is written by Mark Mason.",
+      "date": "2026-11-15T15:00:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Enterprise blockchain is going to come back from the dead",
@@ -428,16 +510,6 @@
       "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
       "date": "2026-11-15T06:27:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aave Executive Reports $39 Million in Liquidations",
-      "link": "https://thedefiant.io/news/defi/aave-executive-reports-39-million-in-liquidations",
-      "desc": "Luigi D'Onorio DeMeo reported about $18 million for one day and $21 million so far the next.",
-      "date": "2026-11-15T03:09:50.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
