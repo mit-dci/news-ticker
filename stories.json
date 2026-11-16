@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-16T10:14:25.755Z",
+  "generatedAt": "2026-11-16T12:22:18.520Z",
   "sourceCount": 18,
   "successCount": 17,
-  "filteredOut": 254,
+  "filteredOut": 250,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
@@ -24,6 +24,122 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Upbit and Bithumb Halt LIT Transfers Amid Lighter Probe",
+      "link": "https://thedefiant.io/news/security/upbit-and-bithumb-halt-lit-transfers-amid-lighter-probe",
+      "desc": "LIT trading continues on the exchanges, but holders cannot deposit or withdraw the token. Lighter has separately suspended all withdrawals and pool creation.",
+      "date": "2026-11-16T12:20:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Hong Kong Targets Year-End Bill to Widen Crypto Licensing",
+      "link": "https://thedefiant.io/converge/regulation/hong-kong-targets-year-end-bill-to-widen-crypto-licensing",
+      "desc": "Dealers, advisers, asset managers and custodians would need SFC approval under proposed rules modelled on conventional securities regulation.",
+      "date": "2026-11-16T12:19:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+      "link": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+      "desc": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary.",
+      "date": "2026-11-16T11:47:12.000Z",
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Kava Speeds HARD Lend Shutdown After 53.9M KAVA Theft",
+      "link": "https://thedefiant.io/news/hacks/kava-speeds-hard-lend-shutdown-after-53-9m-kava-theft",
+      "desc": "Kava plans a seven-day governance vote to end new lending and borrowing, while depositors await details on how remaining positions will be handled.",
+      "date": "2026-11-16T11:28:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Lighter Halts All Withdrawals Over Security Incident",
+      "link": "https://thedefiant.io/news/security/lighter-halts-all-withdrawals-over-security-incident",
+      "desc": "The exchange also suspended pool creation while investigating an apparent compromise of a single external party. ETH futures trading continued after the notice.",
+      "date": "2026-11-16T11:19:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Solana Drops 'Mainnet Beta' Label for 1.0 Designation",
+      "link": "https://thedefiant.io/news/blockchains/solana-drops-mainnet-beta-label-for-1-0-designation",
+      "desc": "The Foundation cites Alpenglow and Firedancer as milestones behind the new name. Users need not move assets, while client upgrades keep their own rollout requirements.",
+      "date": "2026-11-16T11:16:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Solflare Adds MoneyGram Cash-Outs in 170-Plus Markets",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/solflare-adds-moneygram-cash-outs-in-170-plus-markets",
+      "desc": "MoneyGram says eligible Solflare users can collect local currency at participating agents, with cash-out fees waived through Dec. 31, 2026.",
+      "date": "2026-11-16T11:16:12.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+      "desc": "Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling to $62,100 on Sunday, its lowest since July 14, as traders await Nvidia earnings.",
+      "date": "2026-11-16T11:03:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Solana Breakpoint Warning Follows Wallet-Theft Claim",
+      "link": "https://thedefiant.io/news/security/solana-breakpoint-warning-follows-wallet-theft-claim",
+      "desc": "A community member urged London visitors to avoid crypto-branded clothing after sharing an anonymous account of a missing iPhone and drained wallet.",
+      "date": "2026-11-16T10:58:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
+      "desc": "Buterin defended Ethereum's proposed gas repricing, citing the need to increase transaction capacity without compromising decentralization.",
+      "date": "2026-11-16T10:29:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'",
+      "link": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
+      "desc": "A new law lets Germany's customs agency freeze assets worth more than €100,000 without a criminal case if their origin is in doubt.",
+      "date": "2026-11-16T10:25:15.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -132,16 +248,6 @@
       "termBoost": 0
     },
     {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Crypto off to Downbeat Start This Week After Selloff",
-      "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
-      "desc": "Crypto started the week on a downbeat note, with Bitcoin and Ethereum again trading below key levels as risk appetite remains constrained.",
-      "date": "2026-11-16T05:37:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Bitcoin Held Since 2011 Moves Alongside Legal Notice",
@@ -208,6 +314,16 @@
       "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
       "date": "2026-11-15T22:50:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+      "desc": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
+      "date": "2026-11-15T21:57:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -358,26 +474,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "SOL Hits Lowest Since June Ahead of London Breakpoint",
-      "link": "https://thedefiant.io/news/markets/sol-hits-lowest-since-june-ahead-of-london-breakpoint",
-      "desc": "SOL touched $67.37 on Coinbase and underperformed bitcoin and ether over seven and 28 days. Solana Compass showed 67.3% of total supply staked.",
-      "date": "2026-11-15T15:43:37.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "CoreX Reports Bitcoin Mining Power Hijacked to OCEAN",
-      "link": "https://thedefiant.io/news/hacks/corex-reports-bitcoin-mining-power-hijacked-to-ocean",
-      "desc": "The flagged address showed no payouts, but submitted mining work could still earn rewards. The attack’s entry point remains unconfirmed.",
-      "date": "2026-11-15T15:18:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "ft",
       "sourceName": "FINANCIAL TIMES",
       "title": "Gold rush turns deadly in Guinea",
@@ -408,16 +504,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ethereum Gas Fees: From Wallet Estimate to Final Cost",
-      "link": "https://thedefiant.io/news/blockchains/ethereum-gas-fees-from-wallet-estimate-to-final-cost",
-      "desc": "Gas measures computational work. A real Ethereum transaction shows why a spending ceiling can exceed the fee finally charged.",
-      "date": "2026-11-15T14:12:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
@@ -438,58 +524,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Armed Robot Dogs Appear in El Salvador's Haiti Video",
-      "link": "https://thedefiant.io/frontier/technology/armed-robot-dogs-appear-in-el-salvador-s-haiti-video",
-      "desc": "The presidency described a stadium search role. A weapons researcher tentatively identified Unitree Go2 robots fitted with Israeli-made rifles; combat use remains unconfirmed.",
-      "date": "2026-11-15T13:18:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitcoin Regains $65,000 After Falling to Four-Month Low",
-      "link": "https://thedefiant.io/news/markets/bitcoin-regains-65-000-after-falling-to-four-month-low",
-      "desc": "The Coinbase low was 0.94% below its earlier Saturday trough. US spot bitcoin ETFs recorded seven straight sessions of net outflows.",
-      "date": "2026-11-15T12:16:44.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
       "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
       "date": "2026-11-15T10:23:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Lido Lend Plan Would Block Repayments, Not Interest",
-      "link": "https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest",
-      "desc": "A proposed emergency pause would also stop lender exits and liquidations. A separate governance mechanism could remove its automatic expiry.",
-      "date": "2026-11-15T08:19:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitcoin Hits Four-Month Low as ETF Outflows Persist",
-      "link": "https://thedefiant.io/news/markets/bitcoin-hits-four-month-low-as-etf-outflows-persist",
-      "desc": "US spot bitcoin funds shed $1.91 billion over seven sessions. Coinbase's new low was 13.4% below the low in The Defiant's Nov. 12 report.",
-      "date": "2026-11-15T07:21:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
