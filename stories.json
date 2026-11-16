@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T16:13:01.946Z",
+  "generatedAt": "2026-11-16T18:14:34.468Z",
   "sourceCount": 18,
   "successCount": 17,
-  "filteredOut": 232,
+  "filteredOut": 224,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
-  "dupsMerged": 15,
+  "dupsMerged": 17,
   "items": [
     {
       "source": "coindesk",
@@ -24,6 +24,126 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Nvidia Stock Has a 20% Rebound in Sight—If Bulls Can Clear a Hurdle",
+      "link": "https://decrypt.co/383334/nvidia-stock-rebound-in-sight-if-bulls-can-clear-hurdle",
+      "desc": "Nvidia shares tanked specularly last week amid the Jensen Huang scandal. Is it in for a major rebound? Here’s what the charts suggest.",
+      "date": "2026-11-16T18:06:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Standard Chartered says Japan’s bond tokenization plans could help drive RWA market to $2 trillion",
+      "link": "https://www.theblock.co/news/web3/2026-11-16-japan-tokenized-government-bonds-standard-chartered-rwa-2-trillion-441384",
+      "desc": "Standard Chartered said Japan's bond tokenization plans could help the tokenized RWA market reach its $2 trillion forecast by 2028.",
+      "date": "2026-11-16T17:54:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
+      "link": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts.",
+      "date": "2026-11-16T17:49:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363",
+      "desc": "Mert Mumtaz sees privacy becoming standard on blockchains, much like HTTPS did for the modern internet.",
+      "date": "2026-11-16T17:22:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Saylor’s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
+      "link": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip",
+      "desc": "The modest purchase lifted Strategy’s stash to 850,849 BTC as chairman Michael Saylor shrugged off a sharp downturn, posting that “this dip could use a little orange.”",
+      "date": "2026-11-16T17:20:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "George Mekhail: Bitcoin’s Price Is a “Distraction” as Wall Street Quietly Accumulates",
+      "link": "https://bitcoinmagazine.com/videos/george-mekhail-bitcoins-price-is-a-distraction-as-wall-street-quietly-accumulates",
+      "desc": "Bitcoin Magazine George Mekhail: Bitcoin’s Price Is a “Distraction” as Wall Street Quietly Accumulates Retail built Bitcoin, Wall Street laughed, and now Wall Street can't get enough of it. This post George Mekhail: Bitcoin’s Price Is a “Distraction” as Wall Street Quietly Accumulates first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-11-16T17:15:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
+      "link": "https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares",
+      "desc": "The Solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint.",
+      "date": "2026-11-16T17:09:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’",
+      "link": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
+      "desc": "Boris Johnson backed blockchain and tokenization at Solana Breakpoint but reiterated his concerns about crypto speculation.",
+      "date": "2026-11-16T16:49:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+      "link": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+      "desc": "The decentralized exchange blamed a leaked trading API key and said its smart contracts were unaffected, while investigators traced funds to Hyperliquid.",
+      "date": "2026-11-16T16:41:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Anza Urges Solana Operators to Patch 'NoisyTCP' Flaw",
+      "link": "https://thedefiant.io/news/security/anza-urges-solana-operators-to-patch-noisytcp-flaw",
+      "desc": "The Linux bug can crash an affected host remotely. Anza recommends a temporary SYN-cookie change where patched kernels are unavailable.",
+      "date": "2026-11-16T16:29:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Nvidia Unveils Rubin HPC GPU for Scientific Computing",
+      "link": "https://thedefiant.io/frontier/technology/nvidia-unveils-rubin-hpc-gpu-for-scientific-computing",
+      "desc": "The chip is due in 2028, with more than 50,000 CUDA cores and a newer GPU interconnect, but Nvidia has not published simulation benchmarks.",
+      "date": "2026-11-16T16:17:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days",
+      "link": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
+      "desc": "DeFi Development added 9,482 SOL last week, lifting its Solana treasury to about 2.62 million tokens in its 10th straight week of growth.",
+      "date": "2026-11-16T16:16:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -108,6 +228,11 @@
           "source": "THE DEFIANT",
           "sourceId": "defiant",
           "url": "https://thedefiant.io/news/regulation/supreme-court-rejects-custodia-s-fed-account-appeal"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376"
         }
       ],
       "termBoost": 0
@@ -339,16 +464,6 @@
       "termBoost": 0
     },
     {
-      "source": "wsj",
-      "sourceName": "WALL STREET JOURNAL",
-      "title": "Bitcoin, Ether Slump Further",
-      "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
-      "desc": "Crypto started the week on a downbeat note, with bitcoin and ether again trading below key levels as risk appetite remains constrained.",
-      "date": "2026-11-16T12:57:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
@@ -449,6 +564,11 @@
       "date": "2026-11-16T11:16:53.000Z",
       "alsoAt": [
         {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years"
+        },
+        {
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885"
@@ -478,16 +598,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
       "desc": "Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling to $62,100 on Sunday, its lowest since July 14, as traders await Nvidia earnings.",
       "date": "2026-11-16T11:03:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Solana Breakpoint Warning Follows Wallet-Theft Claim",
-      "link": "https://thedefiant.io/news/security/solana-breakpoint-warning-follows-wallet-theft-claim",
-      "desc": "A community member urged London visitors to avoid crypto-branded clothing after sharing an anonymous account of a missing iPhone and drained wallet.",
-      "date": "2026-11-16T10:58:58.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -528,16 +638,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
       "desc": "Your look at what’s coming in the week starting Nov. 16.",
       "date": "2026-11-16T09:23:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "CoW Swap Launches Native Intent-Based Trades on Solana",
-      "link": "https://thedefiant.io/news/defi/cow-swap-launches-native-intent-based-trades-on-solana",
-      "desc": "The alpha supports USDC and wrapped SOL swaps, bringing CoW's batch auctions to same-chain Solana trading after May's cross-chain integration.",
-      "date": "2026-11-16T09:17:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -588,16 +688,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
       "desc": "Toto Finance’s 22 million ADA treasury request expired Sunday with about 20 million ADA in favor, and none of Cardano’s seven constitutional committee members voted yes.",
       "date": "2026-11-16T06:27:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitcoin Held Since 2011 Moves Alongside Legal Notice",
-      "link": "https://thedefiant.io/news/blockchains/bitcoin-held-since-2011-moves-alongside-legal-notice",
-      "desc": "The 75 BTC transfer also spent a tiny payment linked to a New York ownership lawsuit. It shows the coins remain spendable, not who owns them.",
-      "date": "2026-11-16T05:22:03.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -778,26 +868,6 @@
       "link": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
       "desc": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
       "date": "2026-11-14T23:07:35.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
-      "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
-      "desc": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
-      "date": "2026-11-14T17:50:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-      "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-      "desc": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
-      "date": "2026-11-14T16:33:29.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
