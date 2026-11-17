@@ -1,29 +1,149 @@
 {
-  "generatedAt": "2026-11-17T10:12:05.091Z",
+  "generatedAt": "2026-11-17T12:16:48.421Z",
   "sourceCount": 18,
   "successCount": 17,
-  "filteredOut": 207,
+  "filteredOut": 210,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
-  "dupsMerged": 15,
+  "dupsMerged": 14,
   "items": [
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
+      "link": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
+      "desc": "The Ethereum co-founder says proof aggregation could deliver a \"cryptographic proof singularity\" much sooner than developers expected.",
+      "date": "2026-11-16T09:54:55.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "1inch Warns DarkSword Still Targets Unpatched iPhones",
+      "link": "https://thedefiant.io/news/security/1inch-warns-darksword-still-targets-unpatched-iphones",
+      "desc": "The provider urges iOS updates and moving funds to fresh wallets on clean devices if compromise is suspected. Earlier research documented patched exploits.",
+      "date": "2026-11-17T12:08:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Lighter reopens withdrawals after trader’s API key leak, returns about $5 million in USDC",
+      "link": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
+      "desc": "Lighter reopened deposits and withdrawals and said it returned about $5 million in USDC to the affected trader.",
+      "date": "2026-11-17T12:00:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin Holds Near $64,800 as ETF Outflow Streak Ends",
+      "link": "https://thedefiant.io/news/markets/bitcoin-holds-near-64-800-as-etf-outflow-streak-ends",
+      "desc": "US spot bitcoin ETFs drew $7.9 million on Monday after about $1.91 billion in net outflows over seven sessions. BlackRock's IBIT was the only fund with an inflow.",
+      "date": "2026-11-17T11:50:15.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "US senators seek SEC answers on tokenized stock money laundering risks",
+      "link": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
+      "date": "2026-11-17T11:36:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
-      "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-      "desc": "A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive.",
-      "date": "2026-11-16T08:18:03.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum"
-        }
-      ],
-      "priorityTerm": true,
-      "termBoost": 3
+      "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+      "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+      "desc": "The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app.",
+      "date": "2026-11-17T11:29:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+      "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery.",
+      "date": "2026-11-17T11:18:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+      "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin short-term holders’ onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000.",
+      "date": "2026-11-17T11:14:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
+      "link": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
+      "desc": "Malicious code served through the website testing platform replaced visitors' wallet addresses with the attacker's and skimmed cards.",
+      "date": "2026-11-17T11:05:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
+      "link": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106",
+      "desc": "A former Robinhood engineer faces up to 20 years after admitting to profiting from Hyperliquid trades ahead of crypto listing announcements.",
+      "date": "2026-11-17T10:49:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin holds near $64,000 as tech slides ahead of Nvidia earnings",
+      "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+      "desc": "ZEC and HYPE led a quiet bounce in altcoins, while Nasdaq futures extended a two-day rout and traders waited on U.S. retail sales.",
+      "date": "2026-11-17T10:33:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil",
+      "link": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
+      "desc": "Tether said the deal could ease international payments in Brazil and open the door to USDT and Tether Gold integrations.",
+      "date": "2026-11-17T10:20:37.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Nvidia Forms Board Panel for Export-Control Oversight",
+      "link": "https://thedefiant.io/frontier/ai/nvidia-forms-board-panel-for-export-control-oversight",
+      "desc": "Security and trade-compliance teams will report directly to the new committee and interim CEO Colette Kress. Directors will retain outside experts.",
+      "date": "2026-11-17T10:18:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -354,36 +474,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Wells Fargo’s Reported IBIT Position More Than Doubles",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-s-reported-ibit-position-more-than-doubles",
-      "desc": "Compiled 13F data shows 49.58 million shares valued at $2.35 billion at September’s end. That disclosure is not proof of a proprietary Bitcoin bet.",
-      "date": "2026-11-16T22:29:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Allfunds Announces 22-Manager Cohort for Solana Funds",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/allfunds-announces-22-manager-cohort-for-solana-funds",
-      "desc": "Apollo, Fidelity International and Schroders join Project Harmonia, with the first funds expected on Allfunds in Q1 2027.",
-      "date": "2026-11-16T22:26:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "FBI Denies Seizing Equipment in FAA Ground Stop Probe",
-      "link": "https://thedefiant.io/frontier/infrastructure/fbi-denies-seizing-equipment-in-faa-ground-stop-probe",
-      "desc": "The bureau says it is helping the FAA and L3Harris examine the hardware, which remains with the network provider.",
-      "date": "2026-11-16T22:20:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Binance hack may push institutions to outside custody, FalconX exec says",
@@ -446,16 +536,6 @@
       "link": "https://bitcoinmagazine.com/videos/why-bitcoins-june-low-may-not-be-the-bottom-58k-the-key-test",
       "desc": "▶Bitcoin Magazine Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test Sean breaks down Bitcoin's MVRV on today's Chart of the Day. This post Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test first appeared on Bitcoin Magazine and is written by Patrick Green.",
       "date": "2026-11-16T21:43:56.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Toss Plans In-App Crypto Wallet for ETH, USDT and USDC",
-      "link": "https://thedefiant.io/news/tradfi-and-fintech/toss-plans-in-app-crypto-wallet-for-eth-usdt-and-usdc",
-      "desc": "Korean reports citing Toss put the launch this week, with contact-based Ethereum transfers and no separate platform fee.",
-      "date": "2026-11-16T21:27:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -698,11 +778,6 @@
       "date": "2026-11-16T16:14:22.000Z",
       "alsoAt": [
         {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885"
-        },
-        {
           "source": "COINDESK",
           "sourceId": "coindesk",
           "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years"
@@ -807,16 +882,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bitwise CIO says bitcoin may fall further in the near term but still calls it the best risk-adjusted trade of the next decade",
-      "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-cio-says-bitcoin-may-fall-further-in-the-near-term-but-still-calls-it-the-best-risk-adjusted-trade-of-the-next-decade-440901",
-      "desc": "Bitwise CIO Matt Hougan said bitcoin could fall further in the near term but stood by his bullish long-term outlook.",
-      "date": "2026-11-16T14:52:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Lighter recovers $5M after $10M exploit linked to compromised API keys",
@@ -833,16 +898,6 @@
       "link": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
       "desc": "Why is crypto selling off so hard over the past few weeks? CZ chimes in with his thoughts, while confirming he and Binance aren’t selling.",
       "date": "2026-11-16T13:23:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "‘This dip could use a little orange’: Michael Saylor’s Strategy buys another 485 BTC for $33 million as bitcoin tumbles",
-      "link": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
-      "desc": "Strategy's latest acquisitions came during a week that saw bitcoin drop to its lowest level in four months.",
-      "date": "2026-11-16T13:13:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -943,16 +998,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
-      "desc": "Your look at what’s coming in the week starting Nov. 16.",
-      "date": "2026-11-16T09:23:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits",
@@ -963,82 +1008,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
-      "link": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
-      "desc": "DBS and JPMorgan have connected their blockchain-based deposit networks, letting approved clients move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends.",
-      "date": "2026-11-16T08:46:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
-      "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
-      "desc": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool.",
-      "date": "2026-11-16T07:51:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
-      "link": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
-      "desc": "Toto Finance’s 22 million ADA treasury request expired Sunday with about 20 million ADA in favor, and none of Cardano’s seven constitutional committee members voted yes.",
-      "date": "2026-11-16T06:27:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
-      "desc": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
-      "date": "2026-11-16T05:01:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
-      "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support.",
-      "date": "2026-11-15T23:47:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-      "desc": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
-      "date": "2026-11-15T19:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
       "link": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
       "desc": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
       "date": "2026-11-15T16:01:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "Gold rush turns deadly in Guinea",
-      "link": "https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7?syn-25a6b1a6=1",
-      "desc": "High gold prices have driven a wave of fresh mining, and Conakry is cracking down",
-      "date": "2026-11-15T15:13:38.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
