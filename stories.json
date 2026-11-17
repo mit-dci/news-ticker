@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T04:13:09.708Z",
+  "generatedAt": "2026-11-17T06:19:19.507Z",
   "sourceCount": 18,
   "successCount": 17,
-  "filteredOut": 211,
+  "filteredOut": 209,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
-  "dupsMerged": 14,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "coindesk",
@@ -24,6 +24,46 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-11-17T06:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
+      "desc": "In today's newsletter, CZ denies Binance sold crypto as bitcoin rebounds from four-month low; Bitwise sees Solana reaching $1,100 by 2031 in bull case; and more.",
+      "date": "2026-11-17T05:45:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+      "desc": "The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC.",
+      "date": "2026-11-17T05:37:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "NVIDIA Expands Vera CPU Racks for Scientific Computing",
+      "link": "https://thedefiant.io/frontier/technology/nvidia-expands-vera-cpu-racks-for-scientific-computing",
+      "desc": "The 192-CPU configuration pairs custom Arm chips with InfiniBand networking. NVIDIA expects partner racks to become available in early 2027.",
+      "date": "2026-11-17T05:19:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -232,16 +272,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-11-16T22:07:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "wsj",
       "sourceName": "WALL STREET JOURNAL",
       "title": "Financial Services Roundup: Market Talk",
@@ -309,11 +339,6 @@
       "desc": "Ant International is the first client of the US-Singapore link, which connects the banks' permissioned networks and uses Partior to coordinate settlement.",
       "date": "2026-11-16T21:27:31.000Z",
       "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854"
-        },
         {
           "source": "COINTELEGRAPH",
           "sourceId": "cointelegraph",
