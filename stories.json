@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-17T02:16:44.840Z",
+  "generatedAt": "2026-11-17T04:13:09.708Z",
   "sourceCount": 18,
   "successCount": 17,
-  "filteredOut": 210,
+  "filteredOut": 211,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
@@ -24,6 +24,36 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Trezor customer data exposed in 3rd partner breach this year",
+      "link": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers.",
+      "date": "2026-11-17T03:46:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitget-Linked Bitcoin Moves On From Fresh Wallets",
+      "link": "https://thedefiant.io/news/security/bitget-linked-bitcoin-moves-on-from-fresh-wallets",
+      "desc": "Arkham reported nearly $5 million in daily bitcoin outflows. Blockchain records show that several payments to fresh addresses have already moved again.",
+      "date": "2026-11-17T03:35:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Arkham Says Bitget Hacker Moved $161 Million in Bitcoin",
+      "link": "https://thedefiant.io/news/hacks/arkham-says-bitget-hacker-moved-161-million-in-bitcoin",
+      "desc": "Just 34.63 BTC remained in wallets Arkham attributes to the Bitget hacker—not a full accounting of everything the attacker may still control.",
+      "date": "2026-11-17T03:34:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -563,26 +593,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Anza Urges Solana Operators to Patch 'NoisyTCP' Flaw",
-      "link": "https://thedefiant.io/news/security/anza-urges-solana-operators-to-patch-noisytcp-flaw",
-      "desc": "The Linux bug can crash an affected host remotely. Anza recommends a temporary SYN-cookie change where patched kernels are unavailable.",
-      "date": "2026-11-16T16:29:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Nvidia Unveils Rubin HPC GPU for Scientific Computing",
-      "link": "https://thedefiant.io/frontier/technology/nvidia-unveils-rubin-hpc-gpu-for-scientific-computing",
-      "desc": "The chip is due in 2028, with more than 50,000 CUDA cores and a newer GPU interconnect, but Nvidia has not published simulation benchmarks.",
-      "date": "2026-11-16T16:17:27.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days",
@@ -996,32 +1006,12 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Coinone warns of phishing, identity theft after customer data breach",
-      "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
-      "date": "2026-11-15T08:07:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
       "desc": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto.",
       "date": "2026-11-15T07:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-      "desc": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
-      "date": "2026-11-15T02:50:57.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
