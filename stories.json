@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-17T06:19:19.507Z",
+  "generatedAt": "2026-11-17T08:15:17.540Z",
   "sourceCount": 18,
   "successCount": 17,
   "filteredOut": 209,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
-  "dupsMerged": 13,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "coindesk",
@@ -24,6 +24,66 @@
       ],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Injective Says Transfer-Agent Affiliate Is SEC-Registered",
+      "link": "https://thedefiant.io/news/regulation/injective-says-transfer-agent-affiliate-is-sec-registered",
+      "desc": "SEC filings name Injective Institutional Services, LLC; its role concerns official securities ownership records, not approval of the blockchain.",
+      "date": "2026-11-17T07:48:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
+      "link": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+      "desc": "Grayscale Head of Research Zach Pandl said crypto still has strong fundamental demand, such as institutional adoption of stablecoins.",
+      "date": "2026-11-17T07:39:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+      "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+      "desc": "Bitcoin may slide into the $50,000s after losing its 200-week average, with ETF outflows, weak demand and rate-hike risks weighing on BTC, leading market maker warns.",
+      "date": "2026-11-17T07:38:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Tencent's Hy4 Flash Undercuts Rivals' Base API Rates",
+      "link": "https://thedefiant.io/frontier/ai/tencent-s-hy4-flash-undercuts-rivals-base-api-rates",
+      "desc": "Tencent pairs a million-token context window with lower API rates, while its claim of Claude Haiku-level office work rests on company-run blind tests.",
+      "date": "2026-11-17T07:14:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
+      "link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
+      "desc": "The Foundation wants 25 million ADA for 12 global events, even as the token trades well below the 20 cent price used to size the request.",
+      "date": "2026-11-17T06:54:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Abraxas-Linked Wallets Cut Hyperliquid Shorts to $8.6M",
+      "link": "https://thedefiant.io/news/defi/abraxas-linked-wallets-cut-hyperliquid-shorts-to-8-6m",
+      "desc": "Four shorts remain in the cited wallets. Their suspected connection to Lighter’s API-key incident is still based on analyst attribution.",
+      "date": "2026-11-17T06:28:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -288,7 +348,13 @@
       "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
       "desc": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
       "date": "2026-11-16T21:51:04.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -354,46 +420,6 @@
       "link": "https://thedefiant.io/news/hacks/lighter-says-withdrawals-resume-after-api-key-theft",
       "desc": "The platform says its Security Council returned about 5 million USDC and added a wallet-signature requirement for transfers into public pools.",
       "date": "2026-11-16T21:26:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Zoox Launches Driverless Rides on Uber in Las Vegas",
-      "link": "https://thedefiant.io/frontier/technology/zoox-launches-driverless-rides-on-uber-in-las-vegas",
-      "desc": "Eligible Uber trips can now match with a Zoox robotaxi at no extra cost. A multiyear MGM Resorts deal includes work on resort pickups and drop-offs.",
-      "date": "2026-11-16T21:25:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Democrats Challenge CFTC Prediction Market Push: WSJ",
-      "link": "https://thedefiant.io/news/regulation/democrats-challenge-cftc-prediction-market-push-wsj",
-      "desc": "Nine senators want the agency to reverse its directive against geographic restrictions, the Journal reported, as federal and state authorities fight over market access.",
-      "date": "2026-11-16T21:25:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Abra Taps NYSE Parent ICE to Hold Crypto Loan Collateral",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/abra-taps-nyse-parent-ice-to-hold-crypto-loan-collateral",
-      "desc": "Initial institutional borrowers can pledge bitcoin, ether or SOL for dollar loans, with collateral kept at ICE Digital Trust rather than lent onward.",
-      "date": "2026-11-16T21:25:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Coinbase Says Bank Wires Can Now Arrive as USDC",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-says-bank-wires-can-now-arrive-as-usdc",
-      "desc": "A standing setting converts future incoming wires into stablecoins. Coinbase is also advertising a variable 3.75% APY reward for Coinbase One members.",
-      "date": "2026-11-16T21:23:54.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -851,16 +877,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
-      "desc": "Buterin defended Ethereum's proposed gas repricing, citing the need to increase transaction capacity without compromising decentralization.",
-      "date": "2026-11-16T10:29:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'",
@@ -1017,26 +1033,6 @@
       "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
       "desc": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
       "date": "2026-11-15T14:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
-      "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
-      "date": "2026-11-15T10:23:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
-      "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
-      "desc": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto.",
-      "date": "2026-11-15T07:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
