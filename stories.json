@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18T02:16:19.593Z",
+  "generatedAt": "2026-11-18T04:12:52.164Z",
   "sourceCount": 18,
   "successCount": 17,
   "filteredOut": 221,
   "errors": [
     "FINEXTRA: FINEXTRA: HTTP 403"
   ],
-  "dupsMerged": 12,
+  "dupsMerged": 13,
   "items": [
     {
       "source": "coincenter",
@@ -15,6 +15,36 @@
       "link": "https://coincenter.org/comment-of-coin-center-to-the-securities-and-exchange-commission-on-order-granting-temporary-conditional-exemptive-relief/",
       "desc": "Coin Center urges the SEC to clarify that publishing open-source software is protected speech and that independent developers do not become regulated securities venues merely because others adopt their code. The post Comment to the SEC on the Innovation Exemption appeared first on Coin Center.",
       "date": "2026-11-17T22:10:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Polymarket Moves Hourly, Daily Crypto Bets to Chainlink",
+      "link": "https://thedefiant.io/news/defi/polymarket-moves-hourly-daily-crypto-bets-to-chainlink",
+      "desc": "New contracts use 60-second average prices, while the November 18 daily markets retain their Binance-based rules.",
+      "date": "2026-11-18T03:05:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "What’s happening to crypto startup valuations?",
+      "link": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
+      "desc": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs.",
+      "date": "2026-11-18T02:40:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "DBS, Circle Add 24/7 Institutional USDC Access in Asia",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-circle-add-24-7-institutional-usdc-access-in-asia",
+      "desc": "Eligible institutions can mint and redeem USDC through DBS, the companies say, adding a bank-based route for dollar-stablecoin liquidity.",
+      "date": "2026-11-18T02:30:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -85,7 +115,13 @@
       "link": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
       "desc": "Nvidia's board rejected a comeback for its ousted co-founder as it hired a search firm, backed interim CEO Colette Kress, and tightened oversight of chip exports to China.",
       "date": "2026-11-17T22:39:53.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/frontier/ai/nvidia-board-has-no-plans-to-reinstate-jensen-huang"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -441,16 +477,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Crossmint Adds Fiat Funding for Private Solana Balances",
-      "link": "https://thedefiant.io/news/defi/crossmint-adds-fiat-funding-for-private-solana-balances",
-      "desc": "USDC and EURC can go straight into Helius Privacy Rings for eligible buyers outside the US, but deposit details remain public.",
-      "date": "2026-11-17T15:25:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Goldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion",
@@ -729,16 +755,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
-      "desc": "In today's newsletter, CZ denies Binance sold crypto as bitcoin rebounds from four-month low; Bitwise sees Solana reaching $1,100 by 2031 in bull case; and more.",
-      "date": "2026-11-17T05:45:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Trezor customer data exposed in 3rd partner breach this year",
@@ -755,16 +771,6 @@
       "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to security researchers.",
       "date": "2026-11-17T01:02:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
-      "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
-      "desc": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
-      "date": "2026-11-16T23:27:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -881,16 +887,6 @@
       "link": "https://decrypt.co/383334/nvidia-stock-rebound-in-sight-if-bulls-can-clear-hurdle",
       "desc": "Nvidia shares tanked specularly last week amid the Jensen Huang scandal. Is it in for a major rebound? Here’s what the charts suggest.",
       "date": "2026-11-16T18:06:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
-      "link": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts.",
-      "date": "2026-11-16T17:49:13.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
