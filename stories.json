@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-18T14:12:39.716Z",
+  "generatedAt": "2026-11-18T16:12:10.962Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 243,
-  "errors": [],
-  "dupsMerged": 11,
+  "successCount": 17,
+  "filteredOut": 220,
+  "errors": [
+    "FINEXTRA: FINEXTRA: HTTP 403"
+  ],
+  "dupsMerged": 13,
   "items": [
     {
       "source": "coincenter",
@@ -13,6 +15,88 @@
       "link": "https://coincenter.org/comment-of-coin-center-to-the-securities-and-exchange-commission-on-order-granting-temporary-conditional-exemptive-relief/",
       "desc": "Coin Center urges the SEC to clarify that publishing open-source software is protected speech and that independent developers do not become regulated securities venues merely because others adopt their code. The post Comment to the SEC on the Innovation Exemption appeared first on Coin Center.",
       "date": "2026-11-17T22:10:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Variational Raises $110 Million to Expand Omni Trading",
+      "link": "https://thedefiant.io/news/defi/variational-raises-110-million-to-expand-omni-trading",
+      "desc": "Bain Capital Crypto led the round at a $1.5 billion valuation. Variational plans higher trading limits and more traditional-asset markets.",
+      "date": "2026-11-18T16:04:35.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "German Court Offers to Drop Movie2k Case for 40,000 Bitcoin",
+      "link": "https://bitcoinmagazine.com/news/german-court-offers-drop-movie2k-case-40000-bitcoin",
+      "desc": "Bitcoin Magazine German Court Offers to Drop Movie2k Case for 40,000 Bitcoin A Leipzig judge has offered to dismiss the Movie2k criminal case if the defendant hands over 40,000 bitcoin, which would leave him about 16,000 coins worth roughly $1.02 billion. This post German Court Offers to Drop Movie2k Case for 40,000 Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-18T16:03:20.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
+      "desc": "A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custody separate, as traditional markets have for decades, and sets out the questions to ask about where assets are held.",
+      "date": "2026-11-18T16:02:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+      "desc": "Prosecutors estimate the defendant still holds 56,000 BTC, meaning the proposed deal would leave him with roughly $1 billion.",
+      "date": "2026-11-18T15:38:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Backpack Secures NFA Approval Ahead of US Perps Launch",
+      "link": "https://thedefiant.io/news/regulation/backpack-secures-nfa-approval-ahead-of-us-perps-launch",
+      "desc": "The futures intermediary approval follows CFTC exchange and clearinghouse orders. American customers still face a waitlist, not an open trading venue.",
+      "date": "2026-11-18T15:05:27.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
+      "link": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
+      "desc": "A German judge has offered to drop the charges if the alleged operator of the piracy site gives up most of his remaining Bitcoin.",
+      "date": "2026-11-18T14:20:52.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "USDC’s Direct Bank Cash Fell $1.88 Billion in Q3",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/usdc-s-direct-bank-cash-fell-1-88-billion-in-q3",
+      "desc": "Directly held bank cash fell to $9.50 billion at September-end as total backing edged higher. The snapshots show a changed reserve mix but don’t establish whether redemption capacity changed.",
+      "date": "2026-11-18T14:18:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -67,16 +151,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Nomupay joins Amazon Web Services marketplace",
-      "link": "https://www.finextra.com/pressarticle/111716/nomupay-joins-amazon-web-services-marketplace?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Nomupay, the global fintech that offers a unified end-to-end payments platform through a single integration, announced today that it has joined the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS Partners that provides software solutions that run on or integrate with AWS.",
-      "date": "2026-11-18T13:54:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
@@ -127,16 +201,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "How Stablecoin-Linked Cards Could Change the Future of Everyday Payment Funding",
-      "link": "https://www.finextra.com/videoarticle/3647/how-stablecoin-linked-cards-could-change-the-future-of-everyday-payment-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "In this interview, Paymentology's Jeff Parker discusses the demand for and management of stablecoin-linked cards.",
-      "date": "2026-11-18T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Bullish Beats Adjusted Revenue Forecast as Spot Volume Falls",
@@ -151,7 +215,7 @@
       "sourceName": "COINDESK",
       "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
       "link": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
-      "desc": "The crypto platform reported net income of $576.3 million for the third quarter thanks to a sharp rise in the price of bitcoin.",
+      "desc": "Bullish’s institutional focus may have shielded the company from the decline in activity experienced by rivals catering to retail traders and offers some insight to its revenue beat.",
       "date": "2026-11-18T12:41:09.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -343,32 +407,12 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Goldman Sachs leads $280m Series C for Payhawk",
-      "link": "https://www.finextra.com/newsarticle/48775/goldman-sachs-leads-280m-series-c-for-payhawk?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Goldman Sachs has led a $280 million Series C funding round for Payhawk that values the European fintech at $2 billion.",
-      "date": "2026-11-18T08:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "LUKSO Urges Key Removal After Universal Profile Attack",
       "link": "https://thedefiant.io/news/security/lukso-urges-key-removal-after-universal-profile-attack",
       "desc": "LUKSO says holders must remove an attacker key and a malicious recovery controller; revoking permissions alone is not enough.",
       "date": "2026-11-18T07:37:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
-      "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
-      "desc": "XRP edged toward $1, and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about the same as U.S. Treasuries.",
-      "date": "2026-11-18T07:27:48.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -545,32 +589,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bank of England Finalizes Clearing-House Test Policy",
-      "link": "https://thedefiant.io/converge/regulation/bank-of-england-finalizes-clearing-house-test-policy",
-      "desc": "Blockchain-based entrants are included in a technology-neutral route for limited live testing. The new rule-waiver policy is expected to take effect in 2027.",
-      "date": "2026-11-17T21:34:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
       "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
       "desc": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO.",
       "date": "2026-11-17T21:25:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "The Graph to Tie Indexer Reward Requirements to Stake",
-      "link": "https://thedefiant.io/news/blockchains/the-graph-to-tie-indexer-reward-requirements-to-stake",
-      "desc": "Step 4 raises the service bar for operators above 40 million GRT, with existing 14-day eligibility periods cushioning the transition.",
-      "date": "2026-11-17T21:01:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -591,32 +615,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "FDIC Proposes Rules for Custodial-Deposit Exemption",
-      "link": "https://thedefiant.io/converge/regulation/fdic-proposes-rules-for-custodial-deposit-exemption",
-      "desc": "The proposal details which client funds smaller banks could exclude from brokered deposits, with potential savings on deposit-insurance assessments.",
-      "date": "2026-11-17T20:45:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
       "link": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
       "desc": "Glassnode says Bitcoin’s realized losses have reached levels seen only near the 2018, 2020, 2022 and early 2023 lows, as buyers defend the $62,000 to $66,000 range.",
       "date": "2026-11-17T20:36:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "FT Reports $104 Billion in Nvidia Singapore Revenue",
-      "link": "https://thedefiant.io/frontier/ai/ft-reports-104-billion-in-nvidia-singapore-revenue",
-      "desc": "Nvidia switched its geographic sales breakdown from customer billing addresses to headquarters in 2025. Neither measure identifies where chips ultimately operate.",
-      "date": "2026-11-17T20:34:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -667,16 +671,6 @@
       "link": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
       "desc": "The ousted Nvidia founder apologized for his conduct, offered to return if directors ask, and addressed supporters as the chipmaker presses ahead with its search for new leadership this week.",
       "date": "2026-11-17T18:23:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Apex Group and Tokeny join Canadian private markets tokenisation pilot",
-      "link": "https://www.finextra.com/pressarticle/111705/apex-group-and-tokeny-join-canadian-private-markets-tokenisation-pilot?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "To facilitate increased investor access to private markets, Ocree Corporation is announcing the next phase of its pilot project, Project Bedrock. Along with its partners the Canadian Securities Exchange (CSE), Apex Group (through Tokeny) and Tetra Digital Group, Ocree will facilitate the distribution of private real estate-based securities using a blockchain-based infrastructure.",
-      "date": "2026-11-17T18:09:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -767,26 +761,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Trezor Shipping Partner Breach Exposes 27,000 Orders as Customers Report Scam Calls",
-      "link": "https://bitcoinmagazine.com/news/trezor-skladon-partner-breach-27000-orders",
-      "desc": "Bitcoin Magazine Trezor Shipping Partner Breach Exposes 27,000 Orders as Customers Report Scam Calls A breach at shipping partner Skladon exposed names, addresses, emails, phone numbers and purchase details for about 27,000 Trezor orders, the company said, and some customers have already reported scam calls. Wallet backups were not involved. This post Trezor Shipping Partner Breach Exposes 27,000 Orders as Customers Report Scam Calls first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-17T16:20:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion",
-      "link": "https://bitcoinmagazine.com/news/wells-fargo-ibit-stake-doubles-strategy-cut",
-      "desc": "Bitcoin Magazine Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion Wells Fargo's third-quarter 13F shows 49.6 million IBIT shares worth $2.35 billion at Sept. 30, up from 24.4 million, while its Strategy stake fell about 33% to 1.34 million shares. This post Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-17T16:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
@@ -807,16 +781,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Dave files for national bank charter",
-      "link": "https://www.finextra.com/newsarticle/48771/dave-files-for-national-bank-charter?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Neobank Dave is the latest fintech to file an application with US regulators to establish an insured national bank.",
-      "date": "2026-11-17T14:53:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
@@ -827,32 +791,12 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Deutsche Bank picks Crypto Finance infrastructure for digital asset custody service",
-      "link": "https://www.finextra.com/newsarticle/48770/deutsche-bank-picks-crypto-finance-infrastructure-for-digital-asset-custody-service?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Deutsche Bank has selected Deutsche Börse unit Crypto Finance to provide the digital asset infrastructure for its new custody offering.",
-      "date": "2026-11-17T14:27:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
       "link": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs.",
       "date": "2026-11-17T13:12:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
-      "link": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119",
-      "desc": "Lightspeed Faction led the equity round, bringing Avenia's total funding to $44.6 million as it plans new products and acquisitions.",
-      "date": "2026-11-17T13:08:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -897,32 +841,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
-      "desc": "Your day-ahead look for Nov. 17, 2026",
-      "date": "2026-11-17T12:16:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "US senators seek SEC answers on tokenized stock money laundering risks",
       "link": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
       "date": "2026-11-17T11:36:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-      "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
-      "desc": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts.",
-      "date": "2026-11-17T11:36:07.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
