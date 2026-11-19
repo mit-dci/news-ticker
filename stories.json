@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T14:12:17.689Z",
+  "generatedAt": "2026-11-19T16:12:39.565Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 236,
+  "filteredOut": 244,
   "errors": [],
-  "dupsMerged": 17,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "decrypt",
@@ -38,6 +38,116 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
+      "desc": "",
+      "date": "2026-11-19T16:09:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking",
+      "link": "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615",
+      "desc": "Hill and Moreno fault Clarity Act delays but disagree on how much crypto regulators can accomplish.",
+      "date": "2026-11-19T16:01:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Selig Says US Retail Onchain Perps Need Regulated Exchanges",
+      "link": "https://thedefiant.io/news/regulation/selig-says-us-retail-onchain-perps-need-regulated-exchanges",
+      "desc": "Asked about Hyperliquid, the CFTC chair cited Backpack and said to 'stay tuned' on other protocols, according to The Block.",
+      "date": "2026-11-19T15:56:11.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "PHP Patches Critical Code-Execution Flaw Rated 9.2",
+      "link": "https://thedefiant.io/frontier/security/php-patches-critical-code-execution-flaw-rated-9-2",
+      "desc": "The bug affects PHP's default file-based session storage. Code execution requires attacker influence over session data, an interrupted write and suitable application code.",
+      "date": "2026-11-19T15:44:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bundesbank and MAS Test Proof-Based Euro-SGD Settlement",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/bundesbank-and-mas-test-proof-based-euro-sgd-settlement",
+      "desc": "Project Simbolon coordinated payments without a direct link between central bank ledgers, but used simulated money rather than a live settlement service.",
+      "date": "2026-11-19T15:25:16.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "link": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+      "desc": "The crypto exchange said it has already replaced the stolen assets using its own funds and insurance reserves.",
+      "date": "2026-11-19T15:20:38.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin Holds Above Weekend Low on Coinbase Amid False Price Alerts",
+      "link": "https://thedefiant.io/news/markets/bitcoin-holds-above-weekend-low-on-coinbase-amid-false-price-alerts",
+      "desc": "CoinMarketCap acknowledged incorrect bitcoin-price notifications, sometimes sent more than once, and said it was investigating the cause.",
+      "date": "2026-11-19T14:52:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Coinbase Launches U.S. Spot Margin Trading With Up to 10x Leverage",
+      "link": "https://bitcoinmagazine.com/news/coinbase-us-spot-margin-10x",
+      "desc": "Bitcoin Magazine Coinbase Launches U.S. Spot Margin Trading With Up to 10x Leverage Coinbase opened crypto spot margin trading in the U.S. with up to 10x leverage, but only for eligible contract participants with more than $10 million invested. This post Coinbase Launches U.S. Spot Margin Trading With Up to 10x Leverage first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-19T14:45:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Russia’s Central Bank to Let Retail Investors Trade Bitcoin on Margin",
+      "link": "https://bitcoinmagazine.com/news/russia-retail-bitcoin-margin-trading",
+      "desc": "Bitcoin Magazine Russia’s Central Bank to Let Retail Investors Trade Bitcoin on Margin A Bank of Russia official said retail investors will be able to trade crypto on margin up to 300,000 rubles, with the first crypto funds for qualified investors expected in 2027. This post Russia’s Central Bank to Let Retail Investors Trade Bitcoin on Margin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-19T14:20:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "How to Read Prediction-Market Odds in a News Headline",
+      "link": "https://thedefiant.io/news/markets/how-to-read-prediction-market-odds-in-a-news-headline",
+      "desc": "An odds percentage is a price-based forecast, not a poll or confirmation. The contract’s rules, quote method and timestamp explain what it measures.",
+      "date": "2026-11-19T14:16:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Coinbase Opens Crypto Options to Eligible Non-US Users",
+      "link": "https://thedefiant.io/news/cefi/coinbase-opens-crypto-options-to-eligible-non-us-users",
+      "desc": "The Deribit-powered contracts settle in USDC and are available through Coinbase's standard interface and Advanced. US retail users are excluded.",
+      "date": "2026-11-19T14:15:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "decrypt",
@@ -288,6 +398,16 @@
       "termBoost": 0
     },
     {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Singapore’s MAS issues $77 million in tokenized bills settled via CBDC",
+      "link": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+      "desc": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC.",
+      "date": "2026-11-19T08:25:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "BTCPay Server issues emergency update for 5 security flaws",
@@ -394,22 +514,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "MAS Issues S$100 Million in Tokenized Bills With CBDC",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/mas-issues-s-100-million-in-tokenized-bills-with-cbdc",
-      "desc": "The live auction drew applications for more than twice the issuance size. MAS plans to scale up issuance and broaden use of the bills as collateral.",
-      "date": "2026-11-19T05:01:55.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
@@ -430,62 +534,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "BNB Chain Sets Jenner Date; Post Flags Timestamp Risk",
-      "link": "https://thedefiant.io/news/blockchains/bnb-chain-sets-jenner-date-post-flags-timestamp-risk",
-      "desc": "A forum analysis warns that BEP-706's sample code could let expired quotes pass a timing check if its timestamp call succeeds but returns no data.",
-      "date": "2026-11-19T02:33:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability",
       "link": "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964",
       "desc": "The companies said that unlocking the full potential of 'always-on' tokenized deposits requires interoperability across platforms.",
       "date": "2026-11-19T02:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Intel Says It Signed First Outside 18A-P Chip Customer",
-      "link": "https://thedefiant.io/frontier/technology/intel-says-it-signed-first-outside-18a-p-chip-customer",
-      "desc": "Intel's technology chief identified the unnamed customer's process as 18A-P. The company had already announced 18A projects with Microsoft and AWS.",
-      "date": "2026-11-19T01:35:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Lightning Labs' pi402 Lets Coding Agents Pay in Bitcoin",
-      "link": "https://thedefiant.io/news/infrastructure/lightning-labs-pi402-lets-coding-agents-pay-in-bitcoin",
-      "desc": "Announced Nov. 12, the Pi extension can buy prepaid token bundles over Lightning from metered sellers. Osuntokun's separate mainnet endpoint advertises DeepSeek inference.",
-      "date": "2026-11-19T01:30:59.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "LUKSO Blames Email Recovery Flaw for Profile Thefts",
-      "link": "https://thedefiant.io/news/security/lukso-blames-email-recovery-flaw-for-profile-thefts",
-      "desc": "The project says about 300 accounts lost roughly 1.4 million LYX. It is retiring email recovery, but affected holders still need to remove the attacker's key.",
-      "date": "2026-11-19T01:13:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Binance Wins ADGM Court Order to Claw Back Stolen Crypto",
-      "link": "https://www.pymnts.com/cryptocurrency/2026/binance-wins-adgm-court-order-to-claw-back-stolen-crypto/",
-      "desc": "Binance has been granted a court order in the Abu Dhabi Global Market Courts (ADGM Courts) that will support the company’s recovery of assets stolen in the Oct. 29 attack on its cryptocurrency exchange, the company said in a Wednesday (Nov. 18) blog post. “In some cases, issuers, exchanges or other partners request a formal court order before frozen […] The post Binance Wins ADGM Court Order to Claw Back Stolen Crypto appeared first on PYMNTS.com.",
-      "date": "2026-11-19T00:52:04.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -506,46 +560,6 @@
       "link": "https://bitcoinmagazine.com/videos/bloombergs-james-seyffart-wall-street-bought-4-2-billion-btc-in-q3",
       "desc": "▶Bitcoin Magazine Bloomberg’s James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3 Bloomberg Intelligence's James Seyffart breaks down the latest 13F filings for the spot Bitcoin ETFs. This post Bloomberg’s James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3 first appeared on Bitcoin Magazine and is written by Patrick Green.",
       "date": "2026-11-19T00:30:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "BlackRock’s IBIT Resumes Outflows After One-Day Break",
-      "link": "https://thedefiant.io/news/markets/blackrock-s-ibit-resumes-outflows-after-one-day-break",
-      "desc": "IBIT lost $209.5 million on Nov. 17, a day after an inflow offset just 3.3% of its preceding $2.35 billion withdrawal streak.",
-      "date": "2026-11-19T00:19:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Binance Opens US Stock Options to API Trading With USDC",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/binance-opens-us-stock-options-to-api-trading-with-usdc",
-      "desc": "Eligible traders can automate orders and exercise instructions. USDC funds the trades, but standard contracts settle by delivery of shares held through Alpaca.",
-      "date": "2026-11-19T00:15:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Texas Resumes Environmental Permit Reviews for Data Centers",
-      "link": "https://thedefiant.io/frontier/technology/texas-resumes-environmental-permit-reviews-for-data-centers",
-      "desc": "TCEQ says normal reviews have resumed after a September directive to pause permit issuance. ERCOT targets Dec. 10 for its final community-impact report.",
-      "date": "2026-11-18T23:49:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Microsoft Plans Intel EMIB Packaging for Azure Chips",
-      "link": "https://thedefiant.io/frontier/infrastructure/microsoft-plans-intel-emib-packaging-for-azure-chips",
-      "desc": "The agreement also confirms multi-year Xeon capacity, including Diamond Rapids, without naming the Azure chips slated for Intel packaging.",
-      "date": "2026-11-18T23:35:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -713,22 +727,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Analyst: Bitcoin Below $70,000 is a ‘Gift From the Market’",
-      "link": "https://bitcoinmagazine.com/markets/k33-bitcoin-below-70000-gift",
-      "desc": "Bitcoin Magazine Analyst: Bitcoin Below $70,000 is a ‘Gift From the Market’ K33 Research said bitcoin is in \"deep value territory\" after a 14% weekly drop, as ETF outflows, liquidations and hedging demand reach levels seen near past bottoms. This post Analyst: Bitcoin Below $70,000 is a ‘Gift From the Market’ first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-18T17:30:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
@@ -769,16 +767,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Ionic Digital (IOND) Sells 737 Bitcoin to Fund Data Center Buildout",
-      "link": "https://bitcoinmagazine.com/news/ionic-digital-sells-737-bitcoin",
-      "desc": "Bitcoin Magazine Ionic Digital (IOND) Sells 737 Bitcoin to Fund Data Center Buildout Ionic Digital sold about 737 bitcoin for roughly $61.6 million after Sept. 30 and plans to use the cash to develop its data center sites, its latest quarterly report shows. This post Ionic Digital (IOND) Sells 737 Bitcoin to Fund Data Center Buildout first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-18T16:39:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
@@ -802,16 +790,6 @@
           "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments"
         }
       ],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "German Court Offers to Drop Movie2k Case for 40,000 Bitcoin",
-      "link": "https://bitcoinmagazine.com/news/german-court-offers-drop-movie2k-case-40000-bitcoin",
-      "desc": "Bitcoin Magazine German Court Offers to Drop Movie2k Case for 40,000 Bitcoin A Leipzig judge has offered to dismiss the Movie2k criminal case if the defendant hands over 40,000 bitcoin, which would leave him about 16,000 coins worth roughly $1.02 billion. This post German Court Offers to Drop Movie2k Case for 40,000 Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-18T16:03:20.000Z",
-      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -945,32 +923,12 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-      "desc": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings.",
-      "date": "2026-11-18T11:42:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
       "link": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Coinbase Custody would safeguard the fund’s ZEC holdings, while Bitwise Investment Advisers would serve as its manager and sponsor.",
       "date": "2026-11-18T10:33:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
-      "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea’s tech-heavy KOSPI reclaiming 5,000 points.",
-      "date": "2026-11-18T10:31:20.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1021,36 +979,6 @@
       "link": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
       "desc": "Developers warned on a core dev call that two scaling changes in the Glamsterdam upgrade break assumptions some contracts rely on—pitting a 3.3x capacity boost against the risk of disrupting thousands of apps.",
       "date": "2026-11-17T19:26:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
-      "link": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
-      "desc": "The ousted Nvidia founder apologized for his conduct, offered to return if directors ask, and addressed supporters as the chipmaker presses ahead with its search for new leadership this week.",
-      "date": "2026-11-17T18:23:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Dave files for national bank charter",
-      "link": "https://www.finextra.com/newsarticle/48771/dave-files-for-national-bank-charter?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Neobank Dave is the latest fintech to file an application with US regulators to establish an insured national bank.",
-      "date": "2026-11-17T14:53:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Deutsche Bank picks Crypto Finance infrastructure for digital asset custody service",
-      "link": "https://www.finextra.com/newsarticle/48770/deutsche-bank-picks-crypto-finance-infrastructure-for-digital-asset-custody-service?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Deutsche Bank has selected Deutsche Börse unit Crypto Finance to provide the digital asset infrastructure for its new custody offering.",
-      "date": "2026-11-17T14:27:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
