@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-11-19T02:16:13.691Z",
+  "generatedAt": "2026-11-19T04:12:57.358Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 245,
+  "filteredOut": 244,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 12,
   "items": [
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "BNB Chain Sets Jenner Date; Post Flags Timestamp Risk",
+      "link": "https://thedefiant.io/news/blockchains/bnb-chain-sets-jenner-date-post-flags-timestamp-risk",
+      "desc": "A forum analysis warns that BEP-706's sample code could let expired quotes pass a timing check if its timestamp call succeeds but returns no data.",
+      "date": "2026-11-19T02:33:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability",
+      "link": "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964",
+      "desc": "The companies said that unlocking the full potential of 'always-on' tokenized deposits requires interoperability across platforms.",
+      "date": "2026-11-19T02:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
@@ -113,7 +133,13 @@
       "link": "https://thedefiant.io/news/cefi/kraken-parent-payward-agrees-to-acquire-tribe-capital",
       "desc": "The venture firm, chaired by Payward and Kraken co-CEO Arjun Sethi, manages $2.7 billion, Payward says. Closing is expected in early 2027.",
       "date": "2026-11-18T23:25:15.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -259,16 +285,6 @@
       "link": "https://thedefiant.io/news/security/ethereum-faces-glamsterdam-gas-rule-decision-thursday",
       "desc": "Developers will discuss whether to change rules that can alter how existing contracts handle failed operations. Glamsterdam’s activation on Hoodi remains on hold.",
       "date": "2026-11-18T22:20:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Science Raises $400 Million for Sight-Restoring Implant",
-      "link": "https://thedefiant.io/frontier/technology/science-raises-400-million-for-sight-restoring-implant",
-      "desc": "The financing backs PRIMA’s European rollout and a planned US launch that still requires FDA approval.",
-      "date": "2026-11-18T22:20:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -853,16 +869,6 @@
       "link": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
       "desc": "Glassnode says Bitcoin’s realized losses have reached levels seen only near the 2018, 2020, 2022 and early 2023 lows, as buyers defend the $62,000 to $66,000 range.",
       "date": "2026-11-17T20:36:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
-      "desc": "Jito’s Lucas Bruder warns of patient attackers and urges crypto teams to address technical debt.",
-      "date": "2026-11-17T19:29:15.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
