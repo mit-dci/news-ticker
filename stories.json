@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-20T06:18:47.832Z",
+  "generatedAt": "2026-11-20T08:15:03.955Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 245,
+  "filteredOut": 246,
   "errors": [],
   "dupsMerged": 10,
   "items": [
@@ -67,6 +67,16 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "date": "2026-11-20T06:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
+      "desc": "In today's newsletter, CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US; Ripple's Alderoty doubts Elizabeth Warren will set US crypto policy; and more.",
+      "date": "2026-11-20T05:40:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -313,7 +323,13 @@
       "link": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
       "desc": "Bitcoin Magazine SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam The SEC charged eight Colorado-based entities, likely run from overseas, with taking more than $37 million from U.S. investors through fake advisers, fake crypto trading platforms and fake SEC certificates. This post SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-11-19T21:45:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -423,16 +439,6 @@
       "link": "https://thedefiant.io/news/regulation/ofac-sanctions-comancheros-leader-lists-tron-address",
       "desc": "Chainalysis says the listed address and a Hamas-related wallet used the same intermediary cluster.",
       "date": "2026-11-19T19:20:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Anthropic Perp Tops $1.4 Billion in 24-Hour Volume",
-      "link": "https://thedefiant.io/news/markets/anthropic-perp-tops-1-4-billion-in-24-hour-volume",
-      "desc": "Trade.xyz's ANT contract had about $283 million in open interest, with its mark price within 0.2% of Anthropic's Nasdaq-listed share price in a matched-minute comparison.",
-      "date": "2026-11-19T19:19:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -593,6 +599,16 @@
       "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Phylax’s system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereum’s concentrated builder market.",
       "date": "2026-11-19T13:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Binance Wins $6.5B Freezing Order Over Hack That Can Be Served via the Blockchain",
+      "link": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
+      "desc": "An Abu Dhabi court's worldwide injunction targets the unknown hackers, backed by a \"living list\" of 26,000 wallets holding stolen funds.",
+      "date": "2026-11-19T12:59:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -879,22 +895,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
-      "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stolen assets, Binance’s lawyers said.",
-      "date": "2026-11-18T20:20:37.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
@@ -931,16 +931,6 @@
       "link": "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion",
       "desc": "The trader turned $300 into over $200,000 as early footage of GTA 6 sent degens flocking between different token tickers.",
       "date": "2026-11-18T17:32:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’",
-      "link": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471",
-      "desc": "Bitcoin has dipped below its 200-day and 365-day moving averages of $72,900 and $75,900, respectively, CryptoQuant said.",
-      "date": "2026-11-18T17:13:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
