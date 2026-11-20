@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-20T14:12:00.165Z",
+  "generatedAt": "2026-11-20T16:11:47.923Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 244,
-  "errors": [],
-  "dupsMerged": 13,
+  "successCount": 17,
+  "filteredOut": 220,
+  "errors": [
+    "FINEXTRA: FINEXTRA: HTTP 403"
+  ],
+  "dupsMerged": 14,
   "items": [
     {
       "source": "bcannounce",
@@ -28,6 +30,22 @@
           "source": "BITCOIN CORE",
           "sourceId": "bitcoincore",
           "url": "https://bitcoincore.org/en/2026/11/20/release-31.3/"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bcannounce",
+      "sourceName": "BTC CORE ANN",
+      "title": "CVE-2026-117348 - Node stall through duplicate orphan announcements",
+      "link": "https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/",
+      "desc": "A peer could stop a node from processing blocks and transactions temporarily by repeatedly announcing an orphan transaction with many missing parents. A fix was released in Bitcoin Core versions 30.5, 31.3 and 32.1. Affected versions are 29.0 to 29.5, 30.0 to 30.4 and 31.0 to 31.2. The 29.x series has reached end of life and will not receive a fix. This issue is considered Medium severity and easily discoverable. Details Bitcoin Core keeps transactions whose parents it has not yet seen (“orphans”) in its orphanage, and asks peers that announce an orphan for its missing parents. Since version 29.0, when a peer announces a transaction by wtxid and that transaction is in the orphanage, Bitcoin Core builds the list of the orphan’s parents and checks each one against its mempool and its filters of recently seen transactions, to decide whether to ask that peer for them. A single inv message can carry up to 50,000 entries, and duplicate entries were not skipped. An attacker could send a node an orphan with thousands of missing parents, then send inv messages repeating its wtxid 50,000 times. Each such message stalls the node for over a dozen seconds, during which it processes no messages from other peers, including blocks. The issue was fixed by processing each transaction announced in an inv message only once. Attribution This issue was discovered through an automated LLM scan, as part of Elias Rohrer’s Project Loupe at Spiral. The Loupe finding was validated and surfaced to the Bitcoin Core security team by Gregory Sanders. Timeline 2026-07-08 - Project Loupe reports the issue 2026-08-04 - Stutxo independently reports the issue 2026-08-04 - Gregory Sanders opens PR #35878 with a fix 2026-08-06 - PR #35878 is merged into master 2026-10-27 - Bitcoin Core 32.1 is released with a fix 2026-11-17 - The fix is backported to the 31.x branch in PR #36892 2026-11-17 - The fix is backported to the 30.x branch in PR #36893 2026-11-20 - Bitcoin Core 30.5 and 31.3 are released with a fix 2026-11-20 - Public disclosure",
+      "date": "2026-11-20T05:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "BITCOIN CORE",
+          "sourceId": "bitcoincore",
+          "url": "https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/"
         }
       ],
       "termBoost": 0
@@ -76,6 +94,112 @@
       "termBoost": 3
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "link": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events.",
+      "date": "2026-11-20T15:55:22.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200"
+        },
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Aster Blames Coordinated Trades for Mark-Price Divergence",
+      "link": "https://thedefiant.io/news/markets/aster-blames-coordinated-trades-for-mark-price-divergence",
+      "desc": "Aster says its insurance fund took over positions and some profitable positions were forcibly reduced. Its report announces a safeguards review but no compensation plan.",
+      "date": "2026-11-20T15:52:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Zcash Falls Below $800 as Losses Outpace Bitcoin, Ether",
+      "link": "https://thedefiant.io/news/markets/zcash-falls-below-800-as-losses-outpace-bitcoin-ether",
+      "desc": "ZEC traded about 53% below a late-September price, extending a selloff that took it below $1,100 earlier this month.",
+      "date": "2026-11-20T15:32:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "DBS bets it can lose the deposit and keep the client",
+      "link": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it.",
+      "date": "2026-11-20T15:32:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+      "link": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
+      "desc": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends.",
+      "date": "2026-11-20T14:51:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Block Says Most Bitcoin Payments on Square Are for Coffee and Food",
+      "link": "https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report",
+      "desc": "Bitcoin Magazine Block Says Most Bitcoin Payments on Square Are for Coffee and Food Block’s first bitcoin payments report found the median Square payment is about $13, with 72% at food and drink businesses, as it pushes for a de minimis tax exemption. This post Block Says Most Bitcoin Payments on Square Are for Coffee and Food first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-20T14:45:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "link": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+      "desc": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework.",
+      "date": "2026-11-20T14:38:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.",
+      "link": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
+      "desc": "Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbying setbacks against established financial interests.",
+      "date": "2026-11-20T14:36:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Intel 18A vs. TSMC N2: How to Read the Chip Claims",
+      "link": "https://thedefiant.io/news/technology/intel-18a-vs-tsmc-n2-how-to-read-the-chip-claims",
+      "desc": "Node names are not transistor measurements. Public disclosures show different approaches to making chips faster and more efficient—but use different comparison points.",
+      "date": "2026-11-20T14:19:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "PI Hits Record Low After Pi Network’s First Summit",
@@ -88,7 +212,7 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Live news: Bitcoin hovers just above $61,000 as Anthropic slides after Nasdaq debut",
+      "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
       "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
       "desc": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
       "date": "2026-11-20T13:35:33.000Z",
@@ -137,32 +261,12 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Aqua Global and IntellectEU partner to connect banks’ existing systems with digital asset networks",
-      "link": "https://www.finextra.com/pressarticle/111750/aqua-global-and-intellecteu-partner-to-connect-banks-existing-systems-with-digital-asset-networks?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Aqua Global and IntellectEU are working together to help banks connect their existing payment operations to digital asset networks.",
-      "date": "2026-11-20T13:23:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
       "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
       "date": "2026-11-20T13:21:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Maybank executes Malaysia’s first Tokenised MGS transaction",
-      "link": "https://www.finextra.com/pressarticle/111748/maybank-executes-malaysias-first-tokenised-mgs-transaction?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Maybank has successfully completed Malaysia’s first tokenised Malaysian Government Securities (MGS) transaction as part of a pilot with its insurance arm, Etiqa Life Insurance Berhad (Etiqa), marking a key milestone for Maybank’s initiative under Bank Negara Malaysia’s Digital Asset Innovation Hub (DAIH).",
-      "date": "2026-11-20T13:18:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -267,16 +371,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war",
-      "link": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200",
-      "desc": "The Death Bets Act, which now heads to the House, would ban prediction market contracts tied to death, terrorism, assassination, and war.",
-      "date": "2026-11-20T10:09:25.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
@@ -323,6 +417,16 @@
       "link": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
       "date": "2026-11-20T08:18:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
+      "link": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Fraudsters allegedly used social media ads, chat groups and forged SEC filings to defraud US investors of approximately $37 million.",
+      "date": "2026-11-20T08:03:34.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -513,26 +617,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Taiwan's TAIEX Down 17% for Week in Friday Morning Trade",
-      "link": "https://thedefiant.io/frontier/markets/taiwan-s-taiex-down-17-for-week-in-friday-morning-trade",
-      "desc": "TSMC and Foxconn suffered double-digit weekly losses in Friday morning trading as Taiwan's tighter short-selling curbs took effect.",
-      "date": "2026-11-20T03:21:31.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitcoin Sets New Selloff Low of $61,220 on Coinbase",
-      "link": "https://thedefiant.io/news/markets/bitcoin-sets-new-selloff-low-of-61-220-on-coinbase",
-      "desc": "Its roughly four-week loss reached 24.6% on CoinGecko, while 38 of 40 tokens in a selected watchlist fell over 24 hours.",
-      "date": "2026-11-20T02:23:20.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "pymnts",
       "sourceName": "PYMNTS",
       "title": "FDIC Proposal Details How Banks Can Pay FinTechs in Deposit Deals",
@@ -559,13 +643,7 @@
       "link": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
       "desc": "Bitcoin Magazine SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam The SEC charged eight Colorado-based entities, likely run from overseas, with taking more than $37 million from U.S. investors through fake advisers, fake crypto trading platforms and fake SEC certificates. This post SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-11-19T21:45:00.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -630,26 +708,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record",
-      "link": "https://bitcoinmagazine.com/markets/institutional-bitcoin-etf-holdings",
-      "desc": "Bitcoin Magazine Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record Galaxy Research says 13F filers added 49,229 BTC through U.S. spot bitcoin ETPs in Q3, lifting institutional holdings to a record 356,491 BTC as Wells Fargo became the largest holder. This post Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-19T19:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bitcoin’s Last Line of Defense Is $58K",
-      "link": "https://bitcoinmagazine.com/videos/bitcoins-last-line-of-defense-is-58k",
-      "desc": "▶Bitcoin Magazine Bitcoin’s Last Line of Defense Is $58K Katie Stockton, Founder of Fairlead Strategies, joins BMTV as Bitcoin falls below its 200-week moving average, sitting at about $63,000 per the host. This post Bitcoin’s Last Line of Defense Is $58K first appeared on Bitcoin Magazine and is written by Patrick Green.",
-      "date": "2026-11-19T19:12:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
@@ -690,16 +748,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000",
-      "link": "https://bitcoinmagazine.com/markets/sygnum-bitcoin-new-high-128000",
-      "desc": "Bitcoin Magazine Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000 The Swiss bank estimates bitcoin could hit a new all-time high near $128,000 and calls the current downturn the shallowest bear market to date, as bitcoin moves into reserve portfolios. This post Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-19T17:45:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
@@ -720,16 +768,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "DBS and Circle partner to expand institutional access to USDC in Asia",
-      "link": "https://www.finextra.com/newsarticle/48786/dbs-and-circle-partner-to-expand-institutional-access-to-usdc-in-asia?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Circle has joined forces with Southeast Asia's largest bank, DBS, to expand institutional access to its USDC stablecoin in the region.",
-      "date": "2026-11-19T16:07:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking",
@@ -746,16 +784,6 @@
       "link": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
       "desc": "The crypto exchange said it has already replaced the stolen assets using its own funds and insurance reserves.",
       "date": "2026-11-19T15:20:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Spanish fintech Devengo raises €5m",
-      "link": "https://www.finextra.com/pressarticle/111740/spanish-fintech-devengo-raises-5m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Devengo, a Spanish fintech specialising in instant account-to-account (A2A) payment infrastructure and a payment institution authorised by the Bank of Spain, has closed a new €5 million funding round combining debt and equity.",
-      "date": "2026-11-19T15:19:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -816,16 +844,6 @@
       "link": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares.",
       "date": "2026-11-19T12:33:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
-      "desc": "Your day-ahead look for Nov. 19, 2026",
-      "date": "2026-11-19T12:20:39.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -910,62 +928,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-      "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.",
-      "date": "2026-11-19T06:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511",
-      "desc": "In today's newsletter, Binance obtains $6.5 billion freezing order from Abu Dhabi court; CryptoQuant says bitcoin is back in a bearish phase but has entered a 'value zone'; and more.",
-      "date": "2026-11-19T06:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
-      "link": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
-      "date": "2026-11-19T05:27:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
-      "link": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens.",
-      "date": "2026-11-19T05:09:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
-      "link": "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530",
-      "desc": "The company confirmed that the new cases share the same kind of physical modification as tampered devices found across Southeast Asia.",
-      "date": "2026-11-19T04:13:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Palmer Luckey Says He’s Building an Offshore Haven for Industry—And 'Illegal' Medicine",
@@ -1006,16 +968,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "World Bank partners Citi and Circle to test stablecoins for development payments",
-      "link": "https://www.finextra.com/newsarticle/48780/world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "The World Bank Group is working with Citi and USDC issuer Circle to explore how stablecoins could help modernise payments and free up resources for development work.",
-      "date": "2026-11-18T16:07:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bcannounce",
       "sourceName": "BTC CORE ANN",
       "title": "CVE-2025-62859 - Block processing stall via witness malleation",
@@ -1043,22 +995,6 @@
           "source": "BITCOIN CORE",
           "sourceId": "bitcoincore",
           "url": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62860/"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "bcannounce",
-      "sourceName": "BTC CORE ANN",
-      "title": "CVE-2025-62861 - Block template creation halted by TRUC sibling eviction during reorg",
-      "link": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/",
-      "desc": "Disclosure of the details of a mempool inconsistency due to TRUC “sibling eviction” rules firing on reorg. A fix was released on October 10th 2025 in Bitcoin Core v30.0. Affected versions are 28.0 to 28.2 and 29.0 to 29.1. This issue is considered High severity. Details Transaction relay policy applies extra topology restrictions to version 3 (“TRUC”) transactions (see BIP 431): a TRUC transaction may have at most one unconfirmed ancestor and at most one unconfirmed descendant. These are mempool policy rules, not consensus rules, so a valid block may contain any topology, including a TRUC parent with several children. When a transaction submitted to the mempool would give a TRUC parent a second unconfirmed child, Bitcoin Core’s “sibling eviction” logic (introduced in v28.0) treats the existing child as a replacement candidate and, if the new transaction pays enough, evicts it under replace-by-fee rules. During a chain reorganization, the transactions from the disconnected blocks are re-added to the mempool with bypass_limits=true. This is meant to restore previously-confirmed transactions faithfully, without applying mempool anti-DoS or topology policy. The bug was that the sibling-eviction branch was not gated on bypass_limits, so TRUC enforcement still ran while transactions were being re-added. A reorg can restore a transaction topology that violates TRUC’s descendant limit: valid in a block but impossible to form in the mempool. Re-adding such transactions with sibling eviction still active could evict a restored transaction while leaving its in-mempool descendants behind, so the mempool held transactions spending outputs that no longer existed. The main effect of this inconsistent state is that a miner’s block template creation can no longer succeed: the assembled template fails its validity check, so a node that performed such a reorg cannot produce blocks until it is restarted, which reloads the mempool in a consistent state. This was fixed in PR #33504 by gating the TRUC checks on bypass_limits, so that sibling eviction no longer runs during reorg re-addition. Attribution Credit goes to Niklas Goegge for discovering and responsibly disclosing this issue. Timeline 2025-09-26 - Niklas Goegge reports this issue to the Bitcoin Core security mailing list 2025-09-29 - Greg Sanders opens PR #33504 with the fix 2025-10-02 - PR #33504 is merged into master 2025-10-03 - The fix is backported to the 29.x branch in PR #33474 2025-10-06 - The fix is backported to the 30.x branch in PR #33473 2025-10-07 - The fix is backported to the 28.x branch in PR #33535 2025-10-10 - Bitcoin Core 30.0 is released with a fix 2025-10-14 - Bitcoin Core 29.2 is released with a fix 2025-10-17 - Bitcoin Core 28.3 is released with a fix 2026-10-27 - The last vulnerable Bitcoin Core version (29.x) goes end of life 2026-11-10 - Public Disclosure",
-      "date": "2026-11-10T05:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "BITCOIN CORE",
-          "sourceId": "bitcoincore",
-          "url": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/"
         }
       ],
       "termBoost": 0
