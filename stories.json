@@ -1,11 +1,37 @@
 {
-  "generatedAt": "2026-11-20T12:16:25.628Z",
+  "generatedAt": "2026-11-20T14:12:00.165Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 247,
+  "filteredOut": 244,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 13,
   "items": [
+    {
+      "source": "bcannounce",
+      "sourceName": "BTC CORE ANN",
+      "title": "Bitcoin Core 30.5 released",
+      "link": "https://bitcoincore.org/en/2026/11/20/release-30.5/",
+      "desc": "Bitcoin Core version 30.5 is now available for download. See the release notes for more information about the bug fixes in this release. If you have any questions, please stop by the #bitcoin IRC chatroom (IRC, web) and we’ll do our best to help you.",
+      "date": "2026-11-20T05:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "BITCOIN CORE",
+          "sourceId": "bitcoincore",
+          "url": "https://bitcoincore.org/en/2026/11/20/release-30.5/"
+        },
+        {
+          "source": "BTC CORE ANN",
+          "sourceId": "bcannounce",
+          "url": "https://bitcoincore.org/en/2026/11/20/release-31.3/"
+        },
+        {
+          "source": "BITCOIN CORE",
+          "sourceId": "bitcoincore",
+          "url": "https://bitcoincore.org/en/2026/11/20/release-31.3/"
+        }
+      ],
+      "termBoost": 0
+    },
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
@@ -29,15 +55,14 @@
       "termBoost": 3
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
-      "link": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
-      "desc": "No quantum computer can yet break widely used cryptography, but the securities watchdog says banks and blockchains face a yearslong security overhaul that many have barely begun.",
-      "date": "2026-11-19T10:55:29.000Z",
+      "source": "bitcoinops",
+      "sourceName": "BITCOIN OPTECH",
+      "title": "Bitcoin Optech Newsletter #432",
+      "link": "https://bitcoinops.org/en/newsletters/2026/11/20/",
+      "desc": "This week’s newsletter summarizes an analysis of decentralized mining pool payouts, describes the disclosure of a fixed denial-of-service vulnerability in Eclair, and links to continued discussion about whether stale tip relay should include block data. Also included are our regular sections describing recent changes to services and client software, announcing new releases and release candidates, and describing notable changes to popular Bitcoin infrastructure software.",
+      "date": "2026-11-20T00:00:00.000Z",
       "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -49,6 +74,107 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "PI Hits Record Low After Pi Network’s First Summit",
+      "link": "https://thedefiant.io/news/markets/pi-hits-record-low-after-pi-network-s-first-summit",
+      "desc": "PI lost about 26% in a week, compared with bitcoin’s 11%, while Pi outlined developer incentives and plans for mainnet trading tools.",
+      "date": "2026-11-20T14:05:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live news: Bitcoin hovers just above $61,000 as Anthropic slides after Nasdaq debut",
+      "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+      "desc": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
+      "date": "2026-11-20T13:35:33.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin ETF Outflows Hit $582 Million, Most Since Oct. 30",
+      "link": "https://thedefiant.io/news/markets/bitcoin-etf-outflows-hit-582-million-most-since-oct-30",
+      "desc": "BlackRock's IBIT led the Nov. 19 bitcoin ETF withdrawals. Farside's tracked US spot ether ETFs, including staking products, had $131 million in net outflows.",
+      "date": "2026-11-20T13:34:36.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+      "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+      "desc": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds.",
+      "date": "2026-11-20T13:30:22.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-11-20T13:29:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Aqua Global and IntellectEU partner to connect banks’ existing systems with digital asset networks",
+      "link": "https://www.finextra.com/pressarticle/111750/aqua-global-and-intellecteu-partner-to-connect-banks-existing-systems-with-digital-asset-networks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Aqua Global and IntellectEU are working together to help banks connect their existing payment operations to digital asset networks.",
+      "date": "2026-11-20T13:23:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+      "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
+      "date": "2026-11-20T13:21:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Maybank executes Malaysia’s first Tokenised MGS transaction",
+      "link": "https://www.finextra.com/pressarticle/111748/maybank-executes-malaysias-first-tokenised-mgs-transaction?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Maybank has successfully completed Malaysia’s first tokenised Malaysian Government Securities (MGS) transaction as part of a pilot with its insurance arm, Etiqa Life Insurance Berhad (Etiqa), marking a key milestone for Maybank’s initiative under Bank Negara Malaysia’s Digital Asset Innovation Hub (DAIH).",
+      "date": "2026-11-20T13:18:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
+      "link": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+      "desc": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction.",
+      "date": "2026-11-20T13:11:49.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -207,16 +333,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
       "desc": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.",
       "date": "2026-11-20T06:12:15.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-11-20T06:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -427,16 +543,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Solana Resumes Upgrades With Direct-Mapping Warning",
-      "link": "https://thedefiant.io/news/blockchains/solana-resumes-upgrades-with-direct-mapping-warning",
-      "desc": "Direct mapping remains pending on mainnet without a firm activation date. Associated memory rules can break unsafe account access and some older Anchor patterns.",
-      "date": "2026-11-19T23:48:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future",
@@ -469,16 +575,6 @@
       "link": "https://bitcoinmagazine.com/videos/david-lawant-seeing-very-strong-inflow-for-bitcoin-at-60k",
       "desc": "▶Bitcoin Magazine David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k David Lawant, Head of Research at Anchorage Digital, joins BMTV to break down what's really driving Bitcoin's sell-off and who's doing the selling. This post David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k first appeared on Bitcoin Magazine and is written by Patrick Green.",
       "date": "2026-11-19T21:30:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Wallet Tied to Rune Christensen Owes Half of Sky's Fully Borrowed Lending Pool",
-      "link": "https://thedefiant.io/news/defi/rune-christensen-wallet-owes-half-sky-stusds-pool-debt",
-      "desc": "Liquidations for the collateral type are switched off, and the 2.5-cent price cap that governs those loans was proposed by Christensen in a forum post last year",
-      "date": "2026-11-19T21:09:53.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -610,16 +706,6 @@
       "link": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
       "desc": "Perpetual futures let traders bet on prices with leverage and no expiry date. Here's how they work, and why they dominate crypto trading.",
       "date": "2026-11-19T17:28:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "CLARITY Act Likely Dead Until 2027, Top Crypto Lawmakers Warn",
-      "link": "https://bitcoinmagazine.com/news/french-hill-clarity-act-unlikely-before",
-      "desc": "Bitcoin Magazine CLARITY Act Likely Dead Until 2027, Top Crypto Lawmakers Warn House Financial Services Chairman French Hill said the CLARITY Act's chances in the lame-duck session are \"not high,\" pushing the crypto market structure bill toward a Democratic-led Congress. This post CLARITY Act Likely Dead Until 2027, Top Crypto Lawmakers Warn first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-19T16:45:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -784,16 +870,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
-      "link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
-      "desc": "Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.",
-      "date": "2026-11-19T10:25:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
@@ -890,16 +966,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Kraken parent Payward to acquire Tribe Capital to expand private-market offerings",
-      "link": "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522",
-      "desc": "The deal will add private-market sourcing, underwriting, and fund management capabilities to Payward's platform.",
-      "date": "2026-11-19T03:18:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Palmer Luckey Says He’s Building an Offshore Haven for Industry—And 'Illegal' Medicine",
@@ -950,26 +1016,6 @@
       "termBoost": 0
     },
     {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
-      "link": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
-      "desc": "A German judge has offered to drop the charges if the alleged operator of the piracy site gives up most of his remaining Bitcoin.",
-      "date": "2026-11-18T14:20:52.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "How Stablecoin-Linked Cards Could Change the Future of Everyday Payment Funding",
-      "link": "https://www.finextra.com/videoarticle/3647/how-stablecoin-linked-cards-could-change-the-future-of-everyday-payment-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "In this interview, Paymentology's Jeff Parker discusses the demand for and management of stablecoin-linked cards.",
-      "date": "2026-11-18T13:00:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bcannounce",
       "sourceName": "BTC CORE ANN",
       "title": "CVE-2025-62859 - Block processing stall via witness malleation",
@@ -1013,32 +1059,6 @@
           "source": "BITCOIN CORE",
           "sourceId": "bitcoincore",
           "url": "https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "bcannounce",
-      "sourceName": "BTC CORE ANN",
-      "title": "Bitcoin Core 29.5 released",
-      "link": "https://bitcoincore.org/en/2026/10/28/release-29.5/",
-      "desc": "Bitcoin Core version 29.5 is now available for download. See the release notes for more information about the bug fixes in this release. If you have any questions, please stop by the #bitcoin IRC chatroom (IRC, web) and we’ll do our best to help you.",
-      "date": "2026-10-28T04:00:00.000Z",
-      "alsoAt": [
-        {
-          "source": "BITCOIN CORE",
-          "sourceId": "bitcoincore",
-          "url": "https://bitcoincore.org/en/2026/10/28/release-29.5/"
-        },
-        {
-          "source": "BTC CORE ANN",
-          "sourceId": "bcannounce",
-          "url": "https://bitcoincore.org/en/2026/10/28/release-30.4/"
-        },
-        {
-          "source": "BITCOIN CORE",
-          "sourceId": "bitcoincore",
-          "url": "https://bitcoincore.org/en/2026/10/28/release-30.4/"
         }
       ],
       "termBoost": 0
