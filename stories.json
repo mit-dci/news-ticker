@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-11-21T02:14:41.354Z",
+  "generatedAt": "2026-11-21T04:12:33.113Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 224,
-  "errors": [
-    "FINEXTRA: FINEXTRA: HTTP 403"
-  ],
-  "dupsMerged": 13,
+  "successCount": 18,
+  "filteredOut": 246,
+  "errors": [],
+  "dupsMerged": 15,
   "items": [
     {
       "source": "bcannounce",
@@ -71,6 +69,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "desc": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+      "date": "2026-11-21T04:10:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitquery Traces at Least $1.58 Million in Fluidkey Hack",
+      "link": "https://thedefiant.io/news/hacks/bitquery-traces-at-least-1-58-million-in-fluidkey-hack",
+      "desc": "Fluidkey says a logging-tool flaw let an attacker trigger transfers when users opened the app, even though private keys stayed on their devices.",
+      "date": "2026-11-21T02:47:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -237,16 +255,6 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Bitcoin Falls Below $58,000 but Holds Above June Low",
-      "link": "https://thedefiant.io/news/markets/bitcoin-falls-below-58-000-but-holds-above-june-low",
-      "desc": "Friday's low was less than $200 above Coinbase's June trough. The high-to-low decline from Oct. 21 reached 31.8%.",
-      "date": "2026-11-20T19:11:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
       "title": "BENQI Plans New Queue to Shorten sAVAX Unstaking Waits",
       "link": "https://thedefiant.io/news/defi/benqi-plans-new-queue-to-shorten-savax-unstaking-waits",
       "desc": "Pending unstaking requests will carry over without losing time already waited, while existing holders will not need to move or swap their tokens.",
@@ -345,6 +353,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Canadian fintech Float commits $5m to Quebec",
+      "link": "https://www.finextra.com/pressarticle/111754/canadian-fintech-float-commits-5m-to-quebec?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Float Financial (Float), the Canadian smart financial management platform, announces a $5 million investment in Quebec, marking its first establishment in the province.",
+      "date": "2026-11-20T15:56:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
@@ -387,7 +405,18 @@
       "link": "https://thedefiant.io/news/markets/zcash-falls-below-800-as-losses-outpace-bitcoin-ether",
       "desc": "ZEC traded about 53% below a late-September price, extending a selloff that took it below $1,100 earlier this month.",
       "date": "2026-11-20T15:32:44.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-58-000-but-holds-above-june-low"
+        },
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-57-000-to-two-year-low-on-coinbase"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -397,6 +426,16 @@
       "link": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it.",
       "date": "2026-11-20T15:32:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "CBI, Bancomat and Nexi to build Italian digital euro infrastructure",
+      "link": "https://www.finextra.com/newsarticle/48792/cbi-bancomat-and-nexi--to-build-italian-digital-euro-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "CBI, Bancomat and Nexi have teamed up to build the Italian infrastructure needed to support the arrival of a digital euro.",
+      "date": "2026-11-20T15:31:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -512,12 +551,32 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Aqua Global and IntellectEU partner to connect banks’ existing systems with digital asset networks",
+      "link": "https://www.finextra.com/pressarticle/111750/aqua-global-and-intellecteu-partner-to-connect-banks-existing-systems-with-digital-asset-networks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Aqua Global and IntellectEU are working together to help banks connect their existing payment operations to digital asset networks.",
+      "date": "2026-11-20T13:23:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
       "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
       "date": "2026-11-20T13:21:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Maybank executes Malaysia’s first Tokenised MGS transaction",
+      "link": "https://www.finextra.com/pressarticle/111748/maybank-executes-malaysias-first-tokenised-mgs-transaction?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Maybank has successfully completed Malaysia’s first tokenised Malaysian Government Securities (MGS) transaction as part of a pilot with its insurance arm, Etiqa Life Insurance Berhad (Etiqa), marking a key milestone for Maybank’s initiative under Bank Negara Malaysia’s Digital Asset Innovation Hub (DAIH).",
+      "date": "2026-11-20T13:18:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -829,6 +888,16 @@
       "link": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
       "desc": "Perpetual futures let traders bet on prices with leverage and no expiry date. Here's how they work, and why they dominate crypto trading.",
       "date": "2026-11-19T17:28:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "DBS and Circle partner to expand institutional access to USDC in Asia",
+      "link": "https://www.finextra.com/newsarticle/48786/dbs-and-circle-partner-to-expand-institutional-access-to-usdc-in-asia?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Circle has joined forces with Southeast Asia's largest bank, DBS, to expand institutional access to its USDC stablecoin in the region.",
+      "date": "2026-11-19T16:07:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
