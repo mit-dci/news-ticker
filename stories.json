@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-21T12:14:43.845Z",
+  "generatedAt": "2026-11-21T14:10:22.125Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 250,
+  "filteredOut": 255,
   "errors": [],
   "dupsMerged": 13,
   "items": [
@@ -58,6 +58,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "BTCS Warns of Liquidation Risk on $54M Aave Debt",
+      "link": "https://thedefiant.io/news/defi/btcs-warns-of-liquidation-risk-on-54m-aave-debt",
+      "desc": "The Nasdaq-listed company reported about $10 million less debt over ten days, but its ETH-backed borrowing remains exposed to liquidation.",
+      "date": "2026-11-21T12:42:42.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+      "desc": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
+      "date": "2026-11-21T12:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -215,17 +235,6 @@
       "date": "2026-11-21T01:53:16.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
-      "link": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
-      "desc": "The global securities watchdog said markets shouldn't wait for quantum computers to arrive, flagging bulkier signatures and harder upgrades.",
-      "date": "2026-11-19T13:47:00.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "defiant",
@@ -430,16 +439,6 @@
       "link": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
       "desc": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
       "date": "2026-11-20T17:41:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Wagyu Operator Pledges Refunds After XMR1 Sell-Off",
-      "link": "https://thedefiant.io/news/hacks/wagyu-operator-pledges-refunds-after-xmr1-sell-off",
-      "desc": "Scam Sniffer estimated the token sales brought in about $13.3 million in USDC. PerpetualCow pledged to cover losses personally.",
-      "date": "2026-11-20T17:38:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -917,56 +916,6 @@
       "link": "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615",
       "desc": "Hill and Moreno fault Clarity Act delays but disagree on how much crypto regulators can accomplish.",
       "date": "2026-11-19T16:01:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'",
-      "link": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
-      "desc": "A SoFi and YouGov survey found that 21% of Gen Z adults own crypto, more than hold employer retirement plans, even as only 13% of all Americans own it and most remain skeptical.",
-      "date": "2026-11-19T14:01:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ethereum’s new DeFi security tool raises questions over censorship",
-      "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Phylax’s system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereum’s concentrated builder market.",
-      "date": "2026-11-19T13:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Binance Wins $6.5B Freezing Order Over Hack That Can Be Served via the Blockchain",
-      "link": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
-      "desc": "An Abu Dhabi court's worldwide injunction targets the unknown hackers, backed by a \"living list\" of 26,000 wallets holding stolen funds.",
-      "date": "2026-11-19T12:59:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
-      "link": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Hong Kong’s securities regulator said Hyperliquid has no local license and may have promoted its trading services to investors in the city.",
-      "date": "2026-11-19T12:44:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
-      "link": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares.",
-      "date": "2026-11-19T12:33:46.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
