@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-21T18:12:05.768Z",
+  "generatedAt": "2026-11-21T20:10:20.077Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 233,
-  "errors": [
-    "FINEXTRA: FINEXTRA: HTTP 403"
-  ],
+  "successCount": 18,
+  "filteredOut": 258,
+  "errors": [],
   "dupsMerged": 12,
   "items": [
     {
@@ -62,6 +60,56 @@
       "termBoost": 3
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Chainflip Offers 10% Bounty for Return of Stolen Funds",
+      "link": "https://thedefiant.io/news/hacks/chainflip-offers-10-bounty-for-return-of-stolen-funds",
+      "desc": "Chainflip says the theft included 122.86 BTC, widening the scope beyond earlier Ethereum outflows. Its recovery offer expires Nov. 23.",
+      "date": "2026-11-21T19:32:58.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Aave Raises Ethereum USDC Borrow Cap to $4 Billion",
+      "link": "https://thedefiant.io/news/defi/aave-raises-ethereum-usdc-borrow-cap-to-4-billion",
+      "desc": "If supply stayed at Nov. 21 levels, filling the new cap would leave about 170 million USDC unborrowed, versus roughly 1.06 billion in the snapshot.",
+      "date": "2026-11-21T19:02:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+      "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+      "desc": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
+      "date": "2026-11-21T18:51:14.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Cyber Warns Against Bridge Use After Unexpected Minting",
+      "link": "https://thedefiant.io/news/hacks/cyber-warns-against-bridge-use-after-unexpected-minting",
+      "desc": "Cyber urged users to avoid its bridge and exchange deposits. Upbit suspended CYBER deposits and withdrawals on Ethereum; Bithumb announced a similar halt.",
+      "date": "2026-11-21T18:37:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "How to Find and Read a Company's Public SEC Records",
+      "link": "https://thedefiant.io/news/regulation/how-to-find-and-read-a-company-s-public-sec-records",
+      "desc": "Search company disclosures and SEC enforcement records separately. A missing result cannot rule out a confidential investigation, and an allegation is not a finding.",
+      "date": "2026-11-21T18:18:36.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
@@ -74,9 +122,9 @@
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
       "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-      "desc": "The sell-off wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+      "desc": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
       "date": "2026-11-21T17:50:00.000Z",
       "alsoAt": [],
       "termBoost": 0
@@ -359,16 +407,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aave V4 Plan Would Put Idle USDC Into Circle Gateway",
-      "link": "https://thedefiant.io/news/defi/aave-v4-plan-would-put-idle-usdc-into-circle-gateway",
-      "desc": "New sweeps would have to keep Gateway exposure within 10 million USDC and 25% of supply, while preserving cash for withdrawals and loans.",
-      "date": "2026-11-20T22:54:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
@@ -395,16 +433,6 @@
       "link": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
       "desc": "Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high.",
       "date": "2026-11-20T21:40:01.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Cloudflare Adds Ruby2Shell Rules; Ruby Patch Still Needed",
-      "link": "https://thedefiant.io/news/security/cloudflare-adds-ruby2shell-rules-ruby-patch-still-needed",
-      "desc": "Free-plan rules run automatically; paid sites need deployed, unoverridden managed rules. Traffic bypassing Cloudflare remains outside the shield, so Ruby still needs patching.",
-      "date": "2026-11-20T20:40:31.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -489,6 +517,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Canadian fintech Float commits $5m to Quebec",
+      "link": "https://www.finextra.com/pressarticle/111754/canadian-fintech-float-commits-5m-to-quebec?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Float Financial (Float), the Canadian smart financial management platform, announces a $5 million investment in Quebec, marking its first establishment in the province.",
+      "date": "2026-11-20T15:56:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
@@ -521,6 +559,16 @@
       "link": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it.",
       "date": "2026-11-20T15:32:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "CBI, Bancomat and Nexi to build Italian digital euro infrastructure",
+      "link": "https://www.finextra.com/newsarticle/48792/cbi-bancomat-and-nexi--to-build-italian-digital-euro-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "CBI, Bancomat and Nexi have teamed up to build the Italian infrastructure needed to support the arrival of a digital euro.",
+      "date": "2026-11-20T15:31:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -575,12 +623,32 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Aqua Global and IntellectEU partner to connect banks’ existing systems with digital asset networks",
+      "link": "https://www.finextra.com/pressarticle/111750/aqua-global-and-intellecteu-partner-to-connect-banks-existing-systems-with-digital-asset-networks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Aqua Global and IntellectEU are working together to help banks connect their existing payment operations to digital asset networks.",
+      "date": "2026-11-20T13:23:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
       "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
       "date": "2026-11-20T13:21:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Maybank executes Malaysia’s first Tokenised MGS transaction",
+      "link": "https://www.finextra.com/pressarticle/111748/maybank-executes-malaysias-first-tokenised-mgs-transaction?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Maybank has successfully completed Malaysia’s first tokenised Malaysian Government Securities (MGS) transaction as part of a pilot with its insurance arm, Etiqa Life Insurance Berhad (Etiqa), marking a key milestone for Maybank’s initiative under Bank Negara Malaysia’s Digital Asset Innovation Hub (DAIH).",
+      "date": "2026-11-20T13:18:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -822,26 +890,6 @@
       "link": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
       "desc": "A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
       "date": "2026-11-19T20:15:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
-      "link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
-      "desc": "Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
-      "date": "2026-11-19T18:47:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ethereum developers are weighing changes to gas pricing proposals that could disrupt existing smart contracts, after contacting at least 50 affected companies.",
-      "date": "2026-11-19T18:20:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
