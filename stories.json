@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T06:17:41.908Z",
+  "generatedAt": "2026-11-21T08:14:00.676Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 248,
+  "filteredOut": 249,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "bcannounce",
@@ -69,6 +69,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
+      "date": "2026-11-21T07:51:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin Hits $55,106 on Coinbase, Lowest Since September 2024",
+      "link": "https://thedefiant.io/news/markets/bitcoin-hits-55-106-on-coinbase-lowest-since-september-2024",
+      "desc": "Coinbase's low left bitcoin 35.1% below its Oct. 21 intraday high. Kraken recorded $55,100 in the same minute.",
+      "date": "2026-11-21T07:16:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -188,17 +208,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-      "link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.",
-      "date": "2026-11-19T10:32:05.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
@@ -296,6 +305,22 @@
       "desc": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
       "date": "2026-11-20T19:37:27.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitcoin Falls Below $58,000 but Holds Above June Low",
+      "link": "https://thedefiant.io/news/markets/bitcoin-falls-below-58-000-but-holds-above-june-low",
+      "desc": "Friday's low was less than $200 above Coinbase's June trough. The high-to-low decline from Oct. 21 reached 31.8%.",
+      "date": "2026-11-20T19:11:36.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-57-000-to-two-year-low-on-coinbase"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -430,37 +455,6 @@
           "source": "DECRYPT",
           "sourceId": "decrypt",
           "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aster Blames Coordinated Trades for Mark-Price Divergence",
-      "link": "https://thedefiant.io/news/markets/aster-blames-coordinated-trades-for-mark-price-divergence",
-      "desc": "Aster says its insurance fund took over positions and some profitable positions were forcibly reduced. Its report announces a safeguards review but no compensation plan.",
-      "date": "2026-11-20T15:52:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Zcash Falls Below $800 as Losses Outpace Bitcoin, Ether",
-      "link": "https://thedefiant.io/news/markets/zcash-falls-below-800-as-losses-outpace-bitcoin-ether",
-      "desc": "ZEC traded about 53% below a late-September price, extending a selloff that took it below $1,100 earlier this month.",
-      "date": "2026-11-20T15:32:44.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-58-000-but-holds-above-june-low"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-57-000-to-two-year-low-on-coinbase"
         }
       ],
       "termBoost": 0
