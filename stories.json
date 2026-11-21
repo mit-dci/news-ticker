@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T20:10:20.077Z",
+  "generatedAt": "2026-11-21T22:09:52.137Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 258,
+  "filteredOut": 260,
   "errors": [],
-  "dupsMerged": 12,
+  "dupsMerged": 11,
   "items": [
     {
       "source": "bcannounce",
@@ -58,6 +58,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Loudoun Pauses Data Center Votes, Not New Filings",
+      "link": "https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings",
+      "desc": "Many of the Virginia county’s 33 active legislative applications for data centers and substations could be delayed; administrative reviews are unaffected.",
+      "date": "2026-11-21T20:54:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -268,17 +278,6 @@
       "date": "2026-11-21T09:17:08.000Z",
       "alsoAt": [],
       "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-      "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-      "desc": "A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.",
-      "date": "2026-11-19T20:46:02.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
     },
     {
       "source": "cointelegraph",
@@ -685,6 +684,22 @@
     {
       "source": "decrypt",
       "sourceName": "DECRYPT",
+      "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+      "link": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+      "desc": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny.",
+      "date": "2026-11-20T12:10:14.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
       "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
       "link": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
       "desc": "Thursday's ETF outflow was the funds' biggest in three weeks, as rising Treasury yields and Fed rate hike bets weigh on crypto.",
@@ -859,37 +874,6 @@
       "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Guillemet helped establish Ledger’s Donjon security lab and says his departure has been planned for months.",
       "date": "2026-11-19T23:44:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
-      "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight.",
-      "date": "2026-11-19T21:01:42.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-      "link": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-      "desc": "A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
-      "date": "2026-11-19T20:15:32.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
