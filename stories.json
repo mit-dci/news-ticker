@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-22T02:16:26.013Z",
+  "generatedAt": "2026-11-22T04:12:47.464Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 237,
-  "errors": [
-    "FINEXTRA: FINEXTRA: HTTP 403"
-  ],
+  "successCount": 18,
+  "filteredOut": 264,
+  "errors": [],
   "dupsMerged": 11,
   "items": [
     {
@@ -60,6 +58,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Cysic Bridge Exploit Minted 10 Million Tokens on BNB",
+      "link": "https://thedefiant.io/news/hacks/cysic-bridge-exploit-minted-10-million-tokens-on-bnb",
+      "desc": "Cysic said transfers resumed by Oct. 28 after the attack. PeckShield tracked roughly $744,000 sent to Tornado Cash.",
+      "date": "2026-11-22T04:10:34.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Fluidkey Says Unpatched Tool Enabled $1.6 Million Hack",
+      "link": "https://thedefiant.io/news/hacks/fluidkey-says-unpatched-tool-enabled-1-6-million-hack",
+      "desc": "Its post-mortem says stolen session tokens let an attacker stage transfers that users' apps signed. Personal data and viewing keys were also exposed.",
+      "date": "2026-11-22T02:49:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -368,26 +386,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitquery Traces at Least $1.58 Million in Fluidkey Hack",
-      "link": "https://thedefiant.io/news/hacks/bitquery-traces-at-least-1-58-million-in-fluidkey-hack",
-      "desc": "Fluidkey says a logging-tool flaw let an attacker trigger transfers when users opened the app, even though private keys stayed on their devices.",
-      "date": "2026-11-21T02:47:09.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "PancakeSwap Volume Rebounds 34% to $991 Million",
-      "link": "https://thedefiant.io/news/defi/pancakeswap-volume-rebounds-34-to-991-million",
-      "desc": "BNB Chain accounted for $828 million of daily trading, while PancakeSwap’s weekly growth trailed Uniswap, Curve and Raydium.",
-      "date": "2026-11-21T01:53:16.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
@@ -498,6 +496,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Canadian fintech Float commits $5m to Quebec",
+      "link": "https://www.finextra.com/pressarticle/111754/canadian-fintech-float-commits-5m-to-quebec?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Float Financial (Float), the Canadian smart financial management platform, announces a $5 million investment in Quebec, marking its first establishment in the province.",
+      "date": "2026-11-20T15:56:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
@@ -530,6 +538,16 @@
       "link": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it.",
       "date": "2026-11-20T15:32:30.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "CBI, Bancomat and Nexi to build Italian digital euro infrastructure",
+      "link": "https://www.finextra.com/newsarticle/48792/cbi-bancomat-and-nexi--to-build-italian-digital-euro-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "CBI, Bancomat and Nexi have teamed up to build the Italian infrastructure needed to support the arrival of a digital euro.",
+      "date": "2026-11-20T15:31:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -584,12 +602,32 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Aqua Global and IntellectEU partner to connect banks’ existing systems with digital asset networks",
+      "link": "https://www.finextra.com/pressarticle/111750/aqua-global-and-intellecteu-partner-to-connect-banks-existing-systems-with-digital-asset-networks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Aqua Global and IntellectEU are working together to help banks connect their existing payment operations to digital asset networks.",
+      "date": "2026-11-20T13:23:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
       "link": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another.",
       "date": "2026-11-20T13:21:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Maybank executes Malaysia’s first Tokenised MGS transaction",
+      "link": "https://www.finextra.com/pressarticle/111748/maybank-executes-malaysias-first-tokenised-mgs-transaction?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Maybank has successfully completed Malaysia’s first tokenised Malaysian Government Securities (MGS) transaction as part of a pilot with its insurance arm, Etiqa Life Insurance Berhad (Etiqa), marking a key milestone for Maybank’s initiative under Bank Negara Malaysia’s Digital Asset Innovation Hub (DAIH).",
+      "date": "2026-11-20T13:18:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -796,16 +834,6 @@
       "link": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
       "desc": "Coinbase said event contracts already qualify as swaps under the CEA and that explicit inclusion would provide greater regulatory certainty.",
       "date": "2026-11-20T04:24:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling.",
-      "date": "2026-11-20T03:33:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
