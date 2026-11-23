@@ -1,13 +1,22 @@
 {
-  "generatedAt": "2026-11-23T18:13:31.467Z",
+  "generatedAt": "2026-11-23T20:10:38.766Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 227,
-  "errors": [
-    "FINEXTRA: FINEXTRA: HTTP 403"
-  ],
-  "dupsMerged": 12,
+  "successCount": 18,
+  "filteredOut": 245,
+  "errors": [],
+  "dupsMerged": 16,
   "items": [
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+      "link": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed.",
+      "date": "2026-11-23T19:16:46.000Z",
+      "alsoAt": [],
+      "priorityTerm": true,
+      "termBoost": 3
+    },
     {
       "source": "coindesk",
       "sourceName": "COINDESK",
@@ -15,17 +24,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
       "desc": "Researchers find that accounts with visible public keys hold nearly 55% of ether outside staking, and propose a way to move them to quantum-resistant security.",
       "date": "2026-11-23T12:13:35.000Z",
-      "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "RAILGUN Community Account Touts Post-Quantum Prototype",
-      "link": "https://thedefiant.io/news/security/railgun-community-account-touts-post-quantum-prototype",
-      "desc": "ZKNOX's wallet proof of concept demonstrates new note encryption on Sepolia, but does not make RAILGUN's spending system quantum-resistant.",
-      "date": "2026-11-22T18:50:09.000Z",
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
@@ -51,6 +49,148 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "BTCS Sells 27,300 ETH to Repay $43.8M in Aave Debt",
+      "link": "https://thedefiant.io/news/defi/btcs-sells-27-300-eth-to-repay-43-8m-in-aave-debt",
+      "desc": "About $10.5 million of Aave borrowing remains, alongside $17.9 million in convertible notes due in 2027.",
+      "date": "2026-11-23T20:04:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "pymnts",
+      "sourceName": "PYMNTS",
+      "title": "Payoneer Lands Conditional Approval to Open Stablecoin Bank",
+      "link": "https://www.pymnts.com/news/banking/2026/payoneer-lands-conditional-approval-to-open-stablecoin-bank/",
+      "desc": "Payoneer says it has moved one step closer to establishing its stablecoin-centric bank. The cross-border payments FinTech announced Monday (Nov. 23) that it had received preliminary conditional approval from the U.S. Office of the Comptroller of the Currency (OCC) to establish PAYO Digital Bank. This will be a national trust bank “designed to support stablecoin functionality for global business,” Payoneer […] The post Payoneer Lands Conditional Approval to Open Stablecoin Bank appeared first on PYMNTS.com.",
+      "date": "2026-11-23T20:01:40.000Z",
+      "alsoAt": [
+        {
+          "source": "FINEXTRA",
+          "sourceId": "finextra",
+          "url": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank?utm_medium=rssfinextra&utm_source=finextrafeed"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
+      "link": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
+      "desc": "Huang's 11-day absence exposed the importance of his customer ties, influence in Washington and hold on Silicon Valley. The stock is soaring, but the comeback brings risks of its own.",
+      "date": "2026-11-23T19:57:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Cyber Bridge Hack Followed LayerZero's Support Exit",
+      "link": "https://thedefiant.io/news/hacks/cyber-bridge-hack-followed-layerzero-s-support-exit",
+      "desc": "AstraSec said 5.213 million unbacked CYBER were minted. LayerZero's CEO suspects Cyber's replacement infrastructure was compromised.",
+      "date": "2026-11-23T19:57:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+      "link": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury.",
+      "date": "2026-11-23T19:35:06.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Protocol Guild Shrinks as Organizer Warns of Funding Gap",
+      "link": "https://thedefiant.io/news/blockchains/protocol-guild-shrinks-as-organizer-warns-of-funding-gap",
+      "desc": "The Ethereum contributor collective's membership fell to 172 from 190. Trent Van Epps warned that inadequate funding could slow upgrades and force teams to close.",
+      "date": "2026-11-23T19:14:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "DOJ Seeks Over $1.1 Billion in USDC Tied to Binance Hack",
+      "link": "https://thedefiant.io/news/hacks/doj-seeks-over-1-1-billion-in-usdc-tied-to-binance-hack",
+      "desc": "The civil case concerns previously frozen tokens. Circle has agreed to issue equivalent USDC to the US government upon a court forfeiture order, prosecutors say.",
+      "date": "2026-11-23T19:00:04.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Stake DAO Warns of Forum Breach, Says Funds Unaffected",
+      "link": "https://thedefiant.io/news/hacks/stake-dao-warns-of-forum-breach-says-funds-unaffected",
+      "desc": "The copied database may contain emails, hashed passwords, 2FA secrets and private messages. Stake DAO urged forum users to reset access and watch for phishing.",
+      "date": "2026-11-23T18:35:01.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Solana Testnet to Require SBPFv3 for App Upgrades",
+      "link": "https://thedefiant.io/news/blockchains/solana-testnet-to-require-sbpfv3-for-app-upgrades",
+      "desc": "Anza set the testnet switch for epoch 1097 on Nov. 23. Existing apps keep running; standard app deployments and upgrades must use SBPFv3.",
+      "date": "2026-11-23T18:33:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None",
+      "link": "https://bitcoinmagazine.com/news/bitdeer-sells-281-bitcoin-holds-none",
+      "desc": "Bitcoin Magazine Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None Bitdeer mined 281.1 BTC last week and sold all of it, leaving the miner with no bitcoin of its own as of Nov. 20 while American Bitcoin borrows against its reserve instead. This post Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-23T18:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "EU Proposes Fresh Crypto Curbs in Russia Sanctions Plan",
+      "link": "https://thedefiant.io/news/regulation/eu-proposes-fresh-crypto-curbs-in-russia-sanctions-plan",
+      "desc": "The proposed 22nd package would also extend transaction bans to about 60 Russian banks. The EU announced a crypto sanctions task force earlier this month.",
+      "date": "2026-11-23T18:18:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+      "link": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+      "desc": "The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off.",
+      "date": "2026-11-23T18:16:25.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Perps and Swaps: How to Trade the News on Decrypt",
+      "link": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
+      "desc": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
+      "date": "2026-11-23T18:15:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -125,7 +265,13 @@
       "link": "https://thedefiant.io/news/regulation/cftc-prediction-market-rule-reaches-white-house-review",
       "desc": "OIRA received the public-interest rule on Nov. 20. It is separate from the October swap-definition measures challenged by 44 attorneys general.",
       "date": "2026-11-23T16:59:26.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -220,16 +366,6 @@
       "termBoost": 0
     },
     {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Hackers Use Fake Ads to Steal iPhone Users’ Crypto",
-      "link": "https://www.pymnts.com/cybersecurity/2026/hackers-use-fake-ads-to-steal-iphone-users-crypto/",
-      "desc": "New cybersecurity research shows cryptocurrency thieves are using online ads to break into users’ iPhones. That’s according to cybersecurity company Confiant, which published findings recently on a widescale “malvertising” (malicious advertising) campaign known as “MoldyRoost.” “Just loading the landing page of a MoldyRoost ad on a vulnerable iPhone is enough to get infected,” researchers Roshan and Eliya […] The post Hackers Use Fake Ads to Steal iPhone Users’ Crypto appeared first on PYMNTS.com.",
-      "date": "2026-11-23T15:39:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million",
@@ -256,6 +392,16 @@
       "link": "https://thedefiant.io/converge/tradfi-and-fintech/grayscale-launches-zecx-a-leveraged-zcash-focused-etf",
       "desc": "ZECX targets twice ZCSH’s daily return. Its 0.95% net expense ratio excludes embedded swap financing; annual embedded swap costs, including financing and other charges, are estimated at about 7.5% of average daily net assets.",
       "date": "2026-11-23T15:23:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Stablecoin FX platform Codex raises $30m",
+      "link": "https://www.finextra.com/newsarticle/48797/stablecoin-fx-platform-codex-raises-30m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Codex has raised $30 million in Series A funding for its platform that enables businesses to convert, receive, and send fiat currencies and stablecoins at institutional FX rates.",
+      "date": "2026-11-23T15:21:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -452,6 +598,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "IForex receives in-principle approval for UAE licence",
+      "link": "https://www.finextra.com/pressarticle/111759/iforex-receives-in-principle-approval-for-uae-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "IForex (LSE:IFRX), a leading fintech business with a proprietary online and mobile trading platform for multi-asset contracts for difference (“CFD”), is pleased to announce that it has received in-principle approval from the UAE Capital Market Authority (“CMA”) for a Category 5 licence, covering financial consultation, introduction and promotion activities.",
+      "date": "2026-11-23T13:11:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "‘The dots aren’t done,’ Michael Saylor says as Strategy buys another 457 BTC for $30 million",
@@ -462,12 +618,43 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts",
+      "link": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "StraitsX, the stablecoin-native settlement layer powering global finance, today announced a pilot for cross-border business-to-business (B2B) payments that connects stablecoin settlement with participating OCBC clients’ existing bank accounts.",
+      "date": "2026-11-23T13:09:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/ocbc-pilots-stablecoin-to-fiat-business-payments"
+        },
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino",
       "link": "https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino",
       "desc": "Investigators say \"decentralized\" casino BETFIN was run centrally, inflated its player numbers with bots and made $12 million illegally.",
       "date": "2026-11-23T13:08:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Trust Payments partners OKTO Payments in LatAm",
+      "link": "https://www.finextra.com/pressarticle/111757/trust-payments-partners-okto-payments-in-latam?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Trust Payments, a leading fintech innovator across the UK and EU, has partnered with OKTO PAYMENTS, the next-generation payment service provider, to give its merchants access to domestic payment methods and local card processing across six Latin American markets.",
+      "date": "2026-11-23T13:05:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -572,22 +759,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "OCBC Pilots Stablecoin-to-Fiat Business Payments",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ocbc-pilots-stablecoin-to-fiat-business-payments",
-      "desc": "NTT DOCOMO Asia is the first customer in the StraitsX trial, which lets recipients receive fiat funds in their existing OCBC accounts.",
-      "date": "2026-11-23T10:22:04.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "South Korea to publish draft of comprehensive crypto legal framework this week",
@@ -614,6 +785,16 @@
       "link": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap.",
       "date": "2026-11-23T09:05:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Ex-Monzo scam fighting team raises £1.8m for startup Acorda",
+      "link": "https://www.finextra.com/newsarticle/48794/ex-monzo-scam-fighting-team-raises-18m-for-startup-acorda?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "The former leaders of Monzo's scam detection team have raised £1.8 million in pre-seed funding for Acorda, a fintech that helps payment providers stop fraud.",
+      "date": "2026-11-23T09:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -770,52 +951,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Fusionist Urges ACE Trading Pause After Exploit Alert",
-      "link": "https://thedefiant.io/news/hacks/fusionist-urges-ace-trading-pause-after-exploit-alert",
-      "desc": "Blockaid estimated about $1.04 million in USDT had been extracted as Fusionist asked users to pause ACE transfers, trades and bridging on BSC.",
-      "date": "2026-11-22T20:13:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "OKXICE's Latest Launch Notice Lists Six Stock Tokens",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-s-latest-launch-notice-lists-six-stock-tokens",
-      "desc": "The latest public notice lists six stock tokens for launch, compared with an earlier announcement anticipating more than 70 assets, including 59 Direxion ETFs.",
-      "date": "2026-11-22T20:01:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "More on the pending oversight hearings: State of Crypto",
       "link": "https://www.coindesk.com/policy/2026/11/22/more-on-the-pending-oversight-hearings-state-of-crypto",
       "desc": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up.",
       "date": "2026-11-22T19:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Blur Disables Upgrades, Removing an ETH Rescue Route",
-      "link": "https://thedefiant.io/news/security/blur-disables-upgrades-removing-an-eth-rescue-route",
-      "desc": "Developer Quit identified 545.6 ETH in 315 contracts lacking a direct withdrawal path. Ordinary wallet withdrawals remain available.",
-      "date": "2026-11-22T19:15:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Polymarket US Adds 70% Taker-Fee Rebate for Straight API Trades",
-      "link": "https://thedefiant.io/news/cefi/polymarket-us-adds-70-taker-fee-rebate-for-straight-api-trades",
-      "desc": "The temporary rebate covers API straight trades through Dec. 31. App traders keep their ordinary volume-based rebates of 0–30%.",
-      "date": "2026-11-22T19:03:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -830,32 +971,12 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "ByteTree CEO: This $170 Trillion Industry Is “The Most Important Thing for Bitcoin”",
-      "link": "https://bitcoinmagazine.com/videos/bytetree-ceo-this-170-trillion-industry-is-the-most-important-thing-for-bitcoin",
-      "desc": "▶Bitcoin Magazine ByteTree CEO: This $170 Trillion Industry Is “The Most Important Thing for Bitcoin” Bitcoin used to fall five points for every one point on the Nasdaq, and Charlie Morris says it now falls \"one for one. This post ByteTree CEO: This $170 Trillion Industry Is “The Most Important Thing for Bitcoin” first appeared on Bitcoin Magazine and is written by Mark Mason.",
-      "date": "2026-11-22T15:00:33.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "The future of onchain FX could start with users, not institutional liquidity",
       "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
       "date": "2026-11-22T14:30:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Anthropic Token Debuts on Solana With $135M in Reported Trading Volume",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-token-debuts-on-solana-with-135m-in-reported-trading-volume",
-      "desc": "Sunrise reported $134.7 million in ANT's first-24-hour trading volume. Backpack calls the token redeemable for shares, but wallet holders have different rights from brokerage customers.",
-      "date": "2026-11-22T13:44:01.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -880,32 +1001,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "OpenRouter Drops Zero-Data-Retention Labels From Affected MiniMax Endpoints",
-      "link": "https://thedefiant.io/frontier/ai/openrouter-drops-zero-data-retention-labels-from-affected-minimax-endpoints",
-      "desc": "Novita confirmed forwarding some MiniMax requests to the model maker. OpenRouter removed 125 endpoints from zero-data-retention eligibility in a wider provider review.",
-      "date": "2026-11-22T06:10:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
       "link": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints.",
       "date": "2026-11-22T05:28:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
-      "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
-      "desc": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
-      "date": "2026-11-21T18:51:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
