@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-23T04:14:25.487Z",
+  "generatedAt": "2026-11-23T06:27:33.836Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 300,
+  "filteredOut": 297,
   "errors": [],
   "dupsMerged": 7,
   "items": [
@@ -38,6 +38,36 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Cardano holders are turning down a $4 million request for running its flagship event",
+      "link": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
+      "desc": "Roughly five times as much voting stake has opposed the Foundation's 2027 conference budget as has backed it, while a developer tools request filed on Nov. 16 faces almost no opposition.",
+      "date": "2026-11-23T06:15:45.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-11-23T06:00:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
+      "link": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
+      "desc": "Risk-averse investors are moving further away from crypto products as they expect the another interest rate hike in December, analysts said.",
+      "date": "2026-11-23T05:47:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bcannounce",
@@ -79,6 +109,26 @@
           "url": "https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/"
         }
       ],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Market rout kills 50 basis points December Fed rate hike bets",
+      "link": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+      "desc": "Traders have removed the possibility of a 50-basis-point December Fed rate hike after last week’s market rout.",
+      "date": "2026-11-23T04:45:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bitquery Finds 400 BTC Gap in Maple's Listed Wallets",
+      "link": "https://thedefiant.io/news/defi/bitquery-finds-400-btc-gap-in-maple-s-listed-wallets",
+      "desc": "Bitquery said its Nov. 18 check found 97.6% of the Bitcoin Maple reported for syrupUSDC, while estimating that counted collateral still exceeded loans.",
+      "date": "2026-11-23T04:19:13.000Z",
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -194,10 +244,10 @@
     {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-11-22T11:25:27.000Z",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+      "date": "2026-11-22T09:33:06.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -390,9 +440,9 @@
       "date": "2026-11-21T15:00:22.000Z",
       "alsoAt": [
         {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand"
         }
       ],
       "termBoost": 0
@@ -468,32 +518,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aave Voters Back Plan to Narrow V3 Core Collateral",
-      "link": "https://thedefiant.io/news/defi/aave-voters-back-plan-to-narrow-v3-core-collateral",
-      "desc": "Existing loans would stay open as LlamaRisk’s plan steers borrowers toward retained collateral or Aave V4.",
-      "date": "2026-11-21T09:17:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
       "link": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
       "date": "2026-11-21T07:51:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-      "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
-      "date": "2026-11-21T05:40:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
