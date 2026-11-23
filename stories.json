@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-23T16:11:56.080Z",
+  "generatedAt": "2026-11-23T18:13:31.467Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 256,
-  "errors": [],
-  "dupsMerged": 11,
+  "successCount": 17,
+  "filteredOut": 227,
+  "errors": [
+    "FINEXTRA: FINEXTRA: HTTP 403"
+  ],
+  "dupsMerged": 12,
   "items": [
     {
       "source": "coindesk",
@@ -49,6 +51,112 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Du Jun Eyes Purchase of Rune's Entire SKY Holding",
+      "link": "https://thedefiant.io/news/defi/du-jun-eyes-purchase-of-rune-s-entire-sky-holding",
+      "desc": "Christensen says he still owes about 77 million USDS and is exploring direct SKY sales to repay it. stUSDS withdrawals remain unavailable.",
+      "date": "2026-11-23T18:10:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "US Court Extends Binance Account Freeze to Dec. 17",
+      "link": "https://thedefiant.io/news/regulation/us-court-extends-binance-account-freeze-to-dec-17",
+      "desc": "Binance says it cannot release affected funds on its own. The plaintiffs' notice still lists Nov. 24 as the requested date to contact counsel.",
+      "date": "2026-11-23T18:00:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bubblemaps Flags Bets Ahead of Huang’s Nvidia Return",
+      "link": "https://thedefiant.io/news/markets/bubblemaps-flags-bets-ahead-of-huang-s-nvidia-return",
+      "desc": "The analytics firm says 16 newly funded Polymarket accounts made about $350,000. Public records corroborate individual bets, but do not establish access to inside information.",
+      "date": "2026-11-23T17:50:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry",
+      "link": "https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373",
+      "desc": "USDS held near $1 on Monday even as the separate stUSDS lending pool had no funds available for withdrawals.",
+      "date": "2026-11-23T17:31:50.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
+      "link": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
+      "desc": "Nvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day loss since at least 2019.",
+      "date": "2026-11-23T17:28:08.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Solo Bitcoin Miner Wins $191,000 Block Reward With Just 11 TH/s",
+      "link": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward",
+      "desc": "Bitcoin Magazine Solo Bitcoin Miner Wins $191,000 Block Reward With Just 11 TH/s A solo miner with about 11.1 TH/s found Bitcoin block 977,057 through CKpool, collecting 3.1287 BTC. The CKpool developer put the odds at about 1 in 1,650 a year. This post Solo Bitcoin Miner Wins $191,000 Block Reward With Just 11 TH/s first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-23T17:25:00.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "CFTC Prediction-Market Rule Reaches White House Review",
+      "link": "https://thedefiant.io/news/regulation/cftc-prediction-market-rule-reaches-white-house-review",
+      "desc": "OIRA received the public-interest rule on Nov. 20. It is separate from the October swap-definition measures challenged by 44 attorneys general.",
+      "date": "2026-11-23T16:59:26.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
+      "link": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang’s reinstatement, while crypto liquidations topped $500 million four hours.",
+      "date": "2026-11-23T16:51:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
+      "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
+      "desc": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
+      "date": "2026-11-23T16:46:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Polygon Says Agglayer v1.0 Cuts Ethereum Transfer Waits",
+      "link": "https://thedefiant.io/news/infrastructure/polygon-says-agglayer-v1-0-cuts-ethereum-transfer-waits",
+      "desc": "Katana is first on the fast settlement path. Polygon says transfers back to Ethereum take under 15 minutes, down from about 90.",
+      "date": "2026-11-23T16:28:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -99,6 +207,11 @@
       "date": "2026-11-23T15:45:00.000Z",
       "alsoAt": [
         {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        },
+        {
           "source": "THE BLOCK",
           "sourceId": "block",
           "url": "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842"
@@ -113,16 +226,6 @@
       "link": "https://www.pymnts.com/cybersecurity/2026/hackers-use-fake-ads-to-steal-iphone-users-crypto/",
       "desc": "New cybersecurity research shows cryptocurrency thieves are using online ads to break into users’ iPhones. That’s according to cybersecurity company Confiant, which published findings recently on a widescale “malvertising” (malicious advertising) campaign known as “MoldyRoost.” “Just loading the landing page of a MoldyRoost ad on a vulnerable iPhone is enough to get infected,” researchers Roshan and Eliya […] The post Hackers Use Fake Ads to Steal iPhone Users’ Crypto appeared first on PYMNTS.com.",
       "date": "2026-11-23T15:39:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Payoneer scores preliminarily OCC approval for stablecoin bank",
-      "link": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Cross-border payments firm Payoneer has received preliminary conditional approval from US regulators to form a stablecoin national trust bank.",
-      "date": "2026-11-23T15:39:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -157,16 +260,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Stablecoin FX platform Codex raises $30m",
-      "link": "https://www.finextra.com/newsarticle/48797/stablecoin-fx-platform-codex-raises-30m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Codex has raised $30 million in Series A funding for its platform that enables businesses to convert, receive, and send fiat currencies and stablecoins at institutional FX rates.",
-      "date": "2026-11-23T15:21:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Bitcoin Tops $64,500 as Nvidia Reinstates Jensen Huang",
@@ -178,11 +271,6 @@
           "source": "COINTELEGRAPH",
           "sourceId": "cointelegraph",
           "url": "https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/frontier/people/nvidia-reinstates-jensen-huang-as-ceo-and-director"
         }
       ],
       "termBoost": 0
@@ -215,6 +303,22 @@
       "desc": "Bitcoin Magazine UK FCA Bars Crypto Exchanges From Market Making on Their Own Venues The FCA's final rules bar U.K. crypto exchange operators from trading against their own capital on venues they run from Oct. 25, 2027, while a Treasury order clears third-party market makers to trade without a dealing permission. This post UK FCA Bars Crypto Exchanges From Market Making on Their Own Venues first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-11-23T14:20:29.000Z",
       "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Nvidia soars as Jensen Huang returns to lead company",
+      "link": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
+      "desc": "The Nasdaq gained more than 6% as Nvidia rose as much as 35%. After a brief surge, crypto returned to a more muted advance.",
+      "date": "2026-11-23T14:13:44.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/frontier/people/nvidia-reinstates-jensen-huang-as-ceo-and-director"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -318,16 +422,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Solo bitcoin miner beats the odds to win $191,000 block reward",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919",
-      "desc": "A small-scale miner won a Bitcoin block reward despite operating a tiny fraction of the network's hashpower.",
-      "date": "2026-11-23T13:37:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
@@ -358,16 +452,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "IForex receives in-principle approval for UAE licence",
-      "link": "https://www.finextra.com/pressarticle/111759/iforex-receives-in-principle-approval-for-uae-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "IForex (LSE:IFRX), a leading fintech business with a proprietary online and mobile trading platform for multi-asset contracts for difference (“CFD”), is pleased to announce that it has received in-principle approval from the UAE Capital Market Authority (“CMA”) for a Category 5 licence, covering financial consultation, introduction and promotion activities.",
-      "date": "2026-11-23T13:11:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "‘The dots aren’t done,’ Michael Saylor says as Strategy buys another 457 BTC for $30 million",
@@ -378,43 +462,12 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts",
-      "link": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "StraitsX, the stablecoin-native settlement layer powering global finance, today announced a pilot for cross-border business-to-business (B2B) payments that connects stablecoin settlement with participating OCBC clients’ existing bank accounts.",
-      "date": "2026-11-23T13:09:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/ocbc-pilots-stablecoin-to-fiat-business-payments"
-        },
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino",
       "link": "https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino",
       "desc": "Investigators say \"decentralized\" casino BETFIN was run centrally, inflated its player numbers with bots and made $12 million illegally.",
       "date": "2026-11-23T13:08:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Trust Payments partners OKTO Payments in LatAm",
-      "link": "https://www.finextra.com/pressarticle/111757/trust-payments-partners-okto-payments-in-latam?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Trust Payments, a leading fintech innovator across the UK and EU, has partnered with OKTO PAYMENTS, the next-generation payment service provider, to give its merchants access to domestic payment methods and local card processing across six Latin American markets.",
-      "date": "2026-11-23T13:05:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -519,6 +572,22 @@
       "termBoost": 0
     },
     {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "OCBC Pilots Stablecoin-to-Fiat Business Payments",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/ocbc-pilots-stablecoin-to-fiat-business-payments",
+      "desc": "NTT DOCOMO Asia is the first customer in the StraitsX trial, which lets recipients receive fiat funds in their existing OCBC accounts.",
+      "date": "2026-11-23T10:22:04.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "South Korea to publish draft of comprehensive crypto legal framework this week",
@@ -545,16 +614,6 @@
       "link": "https://cointelegraph.com/news/moldyroost-malware-drain-iphone-wallets-one-tap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The campaign used at least 480 ad domains to target users in more than 47 countries and could infect a vulnerable iPhone with a single tap.",
       "date": "2026-11-23T09:05:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Ex-Monzo scam fighting team raises £1.8m for startup Acorda",
-      "link": "https://www.finextra.com/newsarticle/48794/ex-monzo-scam-fighting-team-raises-18m-for-startup-acorda?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "The former leaders of Monzo's scam detection team have raised £1.8 million in pre-seed funding for Acorda, a fintech that helps payment providers stop fraud.",
-      "date": "2026-11-23T09:00:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -841,82 +900,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "MUFG Details Canton Test for Intraday JGB Repo Funding",
-      "link": "https://thedefiant.io/converge/tradfi-and-fintech/mufg-details-canton-test-for-intraday-jgb-repo-funding",
-      "desc": "The bank-led experiment would preserve bonds’ existing legal status while exploring digital deposits, stablecoins and longer settlement windows.",
-      "date": "2026-11-22T04:25:54.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Cysic Bridge Exploit Minted 10 Million Tokens on BNB",
-      "link": "https://thedefiant.io/news/hacks/cysic-bridge-exploit-minted-10-million-tokens-on-bnb",
-      "desc": "Cysic said transfers resumed by Oct. 28 after the attack. PeckShield tracked roughly $744,000 sent to Tornado Cash.",
-      "date": "2026-11-22T04:10:34.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Fluidkey Says Unpatched Tool Enabled $1.6 Million Hack",
-      "link": "https://thedefiant.io/news/hacks/fluidkey-says-unpatched-tool-enabled-1-6-million-hack",
-      "desc": "Its post-mortem says stolen session tokens let an attacker stage transfers that users' apps signed. Personal data and viewing keys were also exposed.",
-      "date": "2026-11-22T02:49:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Loudoun Pauses Data Center Votes, Not New Filings",
-      "link": "https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings",
-      "desc": "Many of the Virginia county’s 33 active legislative applications for data centers and substations could be delayed; administrative reviews are unaffected.",
-      "date": "2026-11-21T20:54:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
       "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
       "desc": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
       "date": "2026-11-21T18:51:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-      "link": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
-      "desc": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
-      "date": "2026-11-21T18:01:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-      "desc": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
-      "date": "2026-11-21T17:50:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
-      "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
-      "desc": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certificates and filings—to defraud U.S. investors of more than $37 million.",
-      "date": "2026-11-21T17:01:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
