@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T06:19:27.940Z",
+  "generatedAt": "2026-11-24T08:14:53.331Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 246,
   "errors": [],
-  "dupsMerged": 11,
+  "dupsMerged": 12,
   "items": [
     {
       "source": "cointelegraph",
@@ -27,6 +27,26 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "South Korea Proposes ICO Return, Exchange Ownership Cap",
+      "link": "https://thedefiant.io/news/regulation/south-korea-proposes-ico-return-exchange-ownership-cap",
+      "desc": "The FSC would initially limit domestic issuance of won-pegged stablecoins to bank-majority consortia. Its proposed 20% exchange ownership cap allows exceptions.",
+      "date": "2026-11-24T07:26:40.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "BlackRock Opens Hong Kong Fund to Stablecoin Payments",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/blackrock-opens-hong-kong-fund-to-stablecoin-payments",
+      "desc": "The HKD Digital Liquidity Fund offers tokenized units from HK$10, but its stablecoin payment route is for professional investors.",
+      "date": "2026-11-24T06:32:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "cointelegraph",
@@ -229,26 +249,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bitcoin Falls Below $60,000, Erasing Monday's Rebound",
-      "link": "https://thedefiant.io/news/markets/bitcoin-falls-below-60-000-erasing-monday-s-rebound",
-      "desc": "The evening low on Coinbase was 8% below Monday's peak and 30% below its Oct. 21 high, but remained above the weekend trough.",
-      "date": "2026-11-24T03:28:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Aave Horizon’s USCC Balance Fell 74%; TVL Rebounded",
-      "link": "https://thedefiant.io/news/defi/aave-horizon-s-uscc-balance-fell-74-tvl-rebounded",
-      "desc": "Most of the USCC decline occurred by early November; TVL rebounded on Nov. 23. Outstanding borrowing remained about 24% below its late-October level.",
-      "date": "2026-11-24T03:24:18.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
@@ -362,7 +362,13 @@
       "link": "https://www.pymnts.com/news/2026/doj-aims-to-recover-1-1-billion-from-binance-theft/",
       "desc": "The Justice Department (DOJ) is seeking forfeiture of more than $1 billion in cryptocurrency stolen from Binance last month. The move is part of a larger effort by the government to help the world’s largest crypto exchange recover the $6.3 billion stolen in the record-setting heist, the DOJ said in its announcement Monday (Nov. 23). […] The post DOJ Aims to Recover $1.1 Billion From Binance Theft appeared first on PYMNTS.com.",
       "date": "2026-11-23T20:33:52.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-24-doj-binance-hack-strategy-bitcoin-more-crypto-news-445430"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -392,7 +398,13 @@
       "link": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
       "desc": "Huang's 11-day absence exposed the importance of his customer ties, influence in Washington and hold on Silicon Valley. The stock is soaring, but the comeback brings risks of its own.",
       "date": "2026-11-23T19:57:21.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -719,13 +731,7 @@
       "link": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "StraitsX, the stablecoin-native settlement layer powering global finance, today announced a pilot for cross-border business-to-business (B2B) payments that connects stablecoin settlement with participating OCBC clients’ existing bank accounts.",
       "date": "2026-11-23T13:09:00.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -1007,16 +1013,6 @@
       "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
       "date": "2026-11-22T09:33:06.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-      "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
-      "date": "2026-11-22T07:24:05.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
