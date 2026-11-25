@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T12:17:22.451Z",
+  "generatedAt": "2026-11-25T14:12:28.425Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 235,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 15,
   "items": [
     {
       "source": "block",
@@ -38,6 +38,86 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "US PCE Inflation Hits 3.8%; Core Exceeds Forecast",
+      "link": "https://thedefiant.io/news/markets/us-pce-inflation-hits-3-8-core-exceeds-forecast",
+      "desc": "Core inflation reached 3.3%, above the 3.2% consensus, ahead of a December Fed meeting for which markets already favored a rate increase.",
+      "date": "2026-11-25T13:47:07.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "date": "2026-11-25T13:26:05.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "OpenPayd makes senior hires",
+      "link": "https://www.finextra.com/pressarticle/111786/openpayd-makes-senior-hires?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "OpenPayd, a leading provider of financial infrastructure, has appointed three senior hires with experience across global banking and digital assets to grow its stablecoin payments business and strengthen the banking team supporting its US entry.",
+      "date": "2026-11-25T13:21:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Threasury secures FCA agent registration",
+      "link": "https://www.finextra.com/pressarticle/111785/threasury-secures-fca-agent-registration?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "UK fintech, Threasury has secured registration as an agent of Finexer Ltd for Account Information Services and Payment Initiation Services, marking an important step in the development of its Commitment Banking platform.",
+      "date": "2026-11-25T13:19:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
+      "link": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
+      "desc": "Holders had warned that reporting wallets worth over €100,000 could expose them to risk in a country hit by a wave of crypto kidnappings.",
+      "date": "2026-11-25T13:15:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Bit Digital Sells 29,825 ETH to Halve Galaxy Debt",
+      "link": "https://thedefiant.io/news/cefi/bit-digital-sells-29-825-eth-to-halve-galaxy-debt",
+      "desc": "The company retains about 134,532 ETH and equivalents, including liquid-staking tokens pledged against its remaining $50 million Galaxy loan.",
+      "date": "2026-11-25T13:13:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
+      "link": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150",
+      "desc": "UniCredit is giving retail clients access to bitcoin performance through a six-year investment with protected principal and capped gains.",
+      "date": "2026-11-25T12:24:32.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
+      "desc": "Your day-ahead look for Nov. 25, 2026",
+      "date": "2026-11-25T12:18:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "block",
@@ -112,7 +192,13 @@
       "link": "https://thedefiant.io/news/regulation/ukraine-passes-bill-to-regulate-and-tax-crypto-assets",
       "desc": "The measure won 271 votes and would put crypto platforms under shared regulatory oversight, with a July 2027 start planned. The signature process remains incomplete.",
       "date": "2026-11-25T11:06:57.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -194,16 +280,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
       "desc": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined.",
       "date": "2026-11-25T06:15:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "date": "2026-11-25T05:50:43.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -610,16 +686,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Osmosis Restricts 84,000 Wallets After Web3Auth Breach",
-      "link": "https://thedefiant.io/news/hacks/osmosis-restricts-84-000-wallets-after-web3auth-breach",
-      "desc": "A validator-installed patch permits recovery-only transfers for listed wallets and indefinitely freezes 64 accounts Osmosis links to the attacker.",
-      "date": "2026-11-24T17:27:50.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
@@ -636,16 +702,6 @@
       "link": "https://www.finextra.com/pressarticle/111775/digital-asset-clearing-centre-establishes-digital-asset-distribution-alliance?utm_medium=rssfinextra&utm_source=finextrafeed",
       "desc": "Digital Asset Clearing Center \"DACC.HK\", an open FMI (Financial Market Infrastructure) built on permissionless ledger with CIPS and e-CNY settlement capabilities, is announcing the establishment of the Digital Asset Distribution Alliance (DADA).",
       "date": "2026-11-24T16:54:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "DOJ Details Crypto Cases in Broad Anti-Scam Crackdown",
-      "link": "https://thedefiant.io/news/regulation/doj-details-crypto-cases-in-broad-anti-scam-crackdown",
-      "desc": "The campaign spans more than 400 cases. DOJ's claim of over $8 billion in 'intended loss' does not establish how much was seized or returned to victims.",
-      "date": "2026-11-24T16:53:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -808,16 +864,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
-      "link": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
-      "desc": "XRP Ledger DEX order-book volume averaged 4.51M XRP a day in Q3, Evernorth says, as top accounts drove 65% of trading and RLUSD rose 74%.",
-      "date": "2026-11-24T14:00:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
@@ -844,16 +890,6 @@
       "link": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Borrowers would sell SKY to the protocol and use the proceeds to pay down their loans, freeing up funds for depositors in the stUSDS pool.",
       "date": "2026-11-24T13:43:46.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Deel launches card that lets contractors spend stablecoin balance",
-      "link": "https://www.finextra.com/pressarticle/111773/deel-launches-card-that-lets-contractors-spend-stablecoin-balance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Deel, the global payroll and HR platform trusted by 40,000+ businesses to hire, manage, and pay teams across 150+ countries, today launched a new Deel Card that lets contractors spend their DLUSD balance,",
-      "date": "2026-11-24T13:23:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -998,16 +1034,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
-      "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
-      "desc": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.",
-      "date": "2026-11-24T00:25:04.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
@@ -1044,36 +1070,6 @@
       "link": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
       "desc": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
       "date": "2026-11-23T18:15:45.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
-      "link": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
-      "desc": "Nvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day loss since at least 2019.",
-      "date": "2026-11-23T17:28:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
-      "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-      "desc": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
-      "date": "2026-11-23T16:46:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Payoneer scores preliminarily OCC approval for stablecoin bank",
-      "link": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Cross-border payments firm Payoneer has received preliminary conditional approval from US regulators to form a stablecoin national trust bank.",
-      "date": "2026-11-23T15:39:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
