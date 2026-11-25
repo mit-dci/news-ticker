@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T20:10:55.196Z",
+  "generatedAt": "2026-11-25T22:10:49.406Z",
   "sourceCount": 18,
   "successCount": 18,
   "filteredOut": 238,
   "errors": [],
-  "dupsMerged": 15,
+  "dupsMerged": 14,
   "items": [
     {
       "source": "block",
@@ -18,15 +18,74 @@
       "termBoost": 3
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+      "link": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+      "desc": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia’s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties.",
+      "date": "2026-11-25T21:46:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+      "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners’ computing power and potentially steal rewards.",
+      "date": "2026-11-25T21:22:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+      "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+      "desc": "An attacker compromised an employee’s GitHub account to reach 1Password’s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed.",
+      "date": "2026-11-25T21:16:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "EU Proposes Quantum Act to Turn Research Into Products",
-      "link": "https://thedefiant.io/frontier/regulation/eu-proposes-quantum-act-to-turn-research-into-products",
-      "desc": "The draft would coordinate national programmes and enable a tech equity fund, but allocates no fixed budget and still needs lawmakers’ approval.",
-      "date": "2026-11-25T09:33:31.000Z",
+      "title": "Neuralink Says FDA Approved Pivotal Brain-Implant Trial",
+      "link": "https://thedefiant.io/frontier/technology/neuralink-says-fda-approved-pivotal-brain-implant-trial",
+      "desc": "The LINK study is recruiting adults with ALS in the US to test digital-device control. The N1 implant remains investigational.",
+      "date": "2026-11-25T21:15:03.000Z",
       "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+      "link": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings.",
+      "date": "2026-11-25T21:11:39.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+      "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+      "desc": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.",
+      "date": "2026-11-25T20:36:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Aussie fintech Safewill raises A$15m",
+      "link": "https://www.finextra.com/pressarticle/111790/aussie-fintech-safewill-raises-a15m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Safewill, the Australian fintech transforming how people plan for and navigate end of life, has raised $15 million in Series C funding at a $160 million valuation to significantly grow and expand its partnerships with major superannuation funds, banks and insurers.",
+      "date": "2026-11-25T20:10:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -171,7 +230,13 @@
       "link": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
       "desc": "Bitcoin Magazine Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 Switzerland approved 57 partner jurisdictions, including all EU states and the UK, for automatic crypto tax data exchanges under the OECD's CARF from 2028. This post Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-11-25T18:40:05.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "COINTELEGRAPH",
+          "sourceId": "cointelegraph",
+          "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -251,16 +316,6 @@
       "link": "https://thedefiant.io/news/defi/base-drives-morpho-blue-s-66-monthly-fee-increase",
       "desc": "Base accounted for 83% of the increase in a metric combining borrower interest and liquidation bonuses—not Morpho’s own revenue.",
       "date": "2026-11-25T17:28:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "pymnts",
-      "sourceName": "PYMNTS",
-      "title": "Ant International and BNY Partner On Cross-Border Payments",
-      "link": "https://www.pymnts.com/partnerships/2026/ant-international-and-bny-partner-on-cross-border-payments/",
-      "desc": "Ant International and BNY signed a memorandum of understanding (MOU) Tuesday (Nov. 24) at the Singapore Fintech Festival to explore solutions spanning liquidity management, payments and digital assets. Potential areas of collaboration include tokenized deposits, tokenized money market funds and interoperability between tokenized and traditional money market funds, subject to internal and regulatory approvals. The […] The post Ant International and BNY Partner On Cross-Border Payments appeared first on PYMNTS.com.",
-      "date": "2026-11-25T17:23:24.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -549,13 +604,19 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Bit Digital Sells 29,825 ETH to Halve Galaxy Debt",
-      "link": "https://thedefiant.io/news/cefi/bit-digital-sells-29-825-eth-to-halve-galaxy-debt",
-      "desc": "The company retains about 134,532 ETH and equivalents, including liquid-staking tokens pledged against its remaining $50 million Galaxy loan.",
-      "date": "2026-11-25T13:13:23.000Z",
-      "alsoAt": [],
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
+      "link": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027.",
+      "date": "2026-11-25T13:02:09.000Z",
+      "alsoAt": [
+        {
+          "source": "DECRYPT",
+          "sourceId": "decrypt",
+          "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -635,27 +696,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ukraine Passes Bill to Regulate and Tax Crypto Assets",
-      "link": "https://thedefiant.io/news/regulation/ukraine-passes-bill-to-regulate-and-tax-crypto-assets",
-      "desc": "The measure won 271 votes and would put crypto platforms under shared regulatory oversight, with a July 2027 start planned. The signature process remains incomplete.",
-      "date": "2026-11-25T11:06:57.000Z",
-      "alsoAt": [
-        {
-          "source": "COINTELEGRAPH",
-          "sourceId": "cointelegraph",
-          "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-        },
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
@@ -672,13 +712,7 @@
       "link": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
       "desc": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management.",
       "date": "2026-11-25T10:23:10.000Z",
-      "alsoAt": [
-        {
-          "source": "THE DEFIANT",
-          "sourceId": "defiant",
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/sbi-smfg-launch-solana-venture-for-onchain-finance"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
@@ -912,16 +946,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
-      "link": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Naver Financial agreed to buy every share in Upbit’s operator, but a proposed ownership cap could strip away its voting rights on four-fifths of them.",
-      "date": "2026-11-24T16:33:26.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
@@ -962,16 +986,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
-      "link": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Buyers will pay VAT on top of the trade price in December because Russia’s tax code has no explicit exemption for foreign digital instruments.",
-      "date": "2026-11-24T14:10:23.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
@@ -1008,16 +1022,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
       "desc": "Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded, where the wallet's private key had been imported.",
       "date": "2026-11-24T12:47:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
-      "link": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
-      "desc": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment.",
-      "date": "2026-11-24T12:40:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
