@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-25T06:19:55.192Z",
+  "generatedAt": "2026-11-25T08:15:02.020Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 235,
+  "filteredOut": 233,
   "errors": [],
   "dupsMerged": 11,
   "items": [
@@ -29,9 +29,29 @@
       "termBoost": 3
     },
     {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+      "link": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.",
+      "date": "2026-11-25T06:54:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
-      "title": "Ten accounts drove all of the XRP Ledger's trading growth last quarter",
+      "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+      "link": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+      "desc": "The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch.",
+      "date": "2026-11-25T06:33:10.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
       "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
       "desc": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined.",
       "date": "2026-11-25T06:15:08.000Z",
@@ -669,7 +689,13 @@
       "link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
       "desc": "BlackRock's IBIT bitcoin exchange-traded fund again led the outflows, with $509.3 million exiting the fund on Monday.",
       "date": "2026-11-24T14:32:21.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -839,13 +865,7 @@
       "link": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuers to disclose risks before soliciting buyers.",
       "date": "2026-11-24T12:04:16.000Z",
-      "alsoAt": [
-        {
-          "source": "THE BLOCK",
-          "sourceId": "block",
-          "url": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494"
-        }
-      ],
+      "alsoAt": [],
       "termBoost": 0
     },
     {
