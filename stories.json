@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-26T20:11:30.490Z",
+  "generatedAt": "2026-11-26T22:10:36.804Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 211,
-  "errors": [
-    "FINEXTRA: FINEXTRA: HTTP 403"
-  ],
+  "successCount": 18,
+  "filteredOut": 236,
+  "errors": [],
   "dupsMerged": 15,
   "items": [
     {
@@ -20,22 +18,78 @@
       "termBoost": 3
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
-      "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
-      "date": "2026-11-26T20:05:18.000Z",
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+      "link": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+      "desc": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns.",
+      "date": "2026-11-26T22:01:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "Binance Says Post-Hack Withdrawal Suspension Is Over",
-      "link": "https://thedefiant.io/news/cefi/binance-says-post-hack-withdrawal-suspension-is-over",
-      "desc": "Withdrawals are open on nearly all networks, the exchange says, with a small number still paused for maintenance or upgrades.",
-      "date": "2026-11-26T19:17:27.000Z",
+      "title": "Binance Hack Flows Through THORChain Top $600M: Reuters",
+      "link": "https://thedefiant.io/news/hacks/binance-hack-flows-through-thorchain-top-600m-reuters",
+      "desc": "The estimate may count the same funds more than once. The FBI had asked THORChain node operators to block transactions tied to the theft.",
+      "date": "2026-11-26T21:35:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+      "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
+      "date": "2026-11-26T21:33:47.000Z",
+      "alsoAt": [
+        {
+          "source": "THE DEFIANT",
+          "sourceId": "defiant",
+          "url": "https://thedefiant.io/news/cefi/binance-says-post-hack-withdrawal-suspension-is-over"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+      "link": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without regulated access to decentralized finance.",
+      "date": "2026-11-26T21:13:53.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Fluid Pauses DEX Swaps After ‘Mythos 5.2’ Security Review",
+      "link": "https://thedefiant.io/news/security/fluid-pauses-dex-swaps-after-mythos-5-2-security-review",
+      "desc": "The protocol says borrowers can still repay loans and users can still withdraw funds. It gave no date for trading to resume.",
+      "date": "2026-11-26T21:12:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+      "link": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+      "desc": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
+      "date": "2026-11-26T21:01:03.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+      "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
+      "date": "2026-11-26T20:05:18.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -290,12 +344,32 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Turrón by Plazo expands card-based BNPL offering in Spain",
+      "link": "https://www.finextra.com/pressarticle/111798/turrn-by-plazo-expands-card-based-bnpl-offering-in-spain?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Turrón by Plazo, the card-based buy now, pay later (BNPL) solution developed by Barcelona-founded fintech ID Finance as part of its financial app Plazo , has signed a strategic partnership with Wonderbox in Spain, a leading provider of experience gifts.",
+      "date": "2026-11-26T13:20:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
       "link": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
       "desc": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.",
       "date": "2026-11-26T13:13:19.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "NBX partners Visa for stablecoin-linked card",
+      "link": "https://www.finextra.com/pressarticle/111795/nbx-partners-visa-for-stablecoin-linked-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Visa, a world leader in digital payments, NBX, Tieto and IDT Finance today announced plans for a new Visa Flex Card that will give eligible NBX customers a simpler way to use the different forms of money they hold.",
+      "date": "2026-11-26T13:11:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -503,16 +577,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Zakura Urges Zcash to Cut Off Sapling Deposits Sooner",
-      "link": "https://thedefiant.io/news/blockchains/zakura-urges-zcash-to-cut-off-sapling-deposits-sooner",
-      "desc": "About 376,530 ZEC remained in the legacy privacy pool on Thursday. The proposed deposit cutoff would leave withdrawals open.",
-      "date": "2026-11-26T05:59:22.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
@@ -715,6 +779,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Aussie fintech Safewill raises A$15m",
+      "link": "https://www.finextra.com/pressarticle/111790/aussie-fintech-safewill-raises-a15m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Safewill, the Australian fintech transforming how people plan for and navigate end of life, has raised $15 million in Series C funding at a $160 million valuation to significantly grow and expand its partnerships with major superannuation funds, banks and insurers.",
+      "date": "2026-11-25T20:10:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
@@ -847,6 +921,16 @@
       "termBoost": 0
     },
     {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+      "link": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+      "desc": "The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank.",
+      "date": "2026-11-25T16:07:35.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
@@ -917,16 +1001,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
-      "link": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Constance Waing said Netflix used racist stereotypes in its portrayal of CZ and misrepresented life at FTX before the exchange’s collapse.",
-      "date": "2026-11-25T14:21:36.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
@@ -934,22 +1008,6 @@
       "desc": "Holders had warned that reporting wallets worth over €100,000 could expose them to risk in a country hit by a wave of crypto kidnappings.",
       "date": "2026-11-25T13:15:24.000Z",
       "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
-      "link": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027.",
-      "date": "2026-11-25T13:02:09.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027"
-        }
-      ],
       "termBoost": 0
     },
     {
@@ -999,16 +1057,6 @@
       "link": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
       "desc": "Rockstar's parent said the project's \"bring your own files\" instruction was a misleading attempt to dodge responsibility for the leak.",
       "date": "2026-11-25T10:35:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-      "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-      "desc": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
-      "date": "2026-11-24T21:16:02.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
