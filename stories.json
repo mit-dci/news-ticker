@@ -1,21 +1,46 @@
 {
-  "generatedAt": "2026-11-26T06:20:03.226Z",
+  "generatedAt": "2026-11-26T08:14:49.231Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 236,
+  "filteredOut": 238,
   "errors": [],
-  "dupsMerged": 14,
+  "dupsMerged": 15,
   "items": [
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Ethereum Foundation researchers pick one hash ‘to rule them all’ for post-quantum upgrade",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125",
-      "desc": "Keccak-256 was favored for its long cryptanalysis record and existing role across Ethereum, despite slower proving than BLAKE3.",
-      "date": "2026-11-25T09:49:45.000Z",
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+      "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+      "desc": "Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion expiry, with traders piling into downside protection as volatility rises.",
+      "date": "2026-11-26T08:01:33.000Z",
       "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "SIX Lists Switzerland’s First Spot Bitcoin ETF",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/six-lists-switzerland-s-first-spot-bitcoin-etf",
+      "desc": "BBIT gives Swiss retail investors a way to buy into a fund that holds bitcoin directly, rather than buying a debt security tied to its price.",
+      "date": "2026-11-26T06:41:19.000Z",
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "b14g’s Recorded TVL Nearly Halved to $135M by Nov. 24",
+      "link": "https://thedefiant.io/news/defi/b14g-s-recorded-tvl-nearly-halved-to-135m-by-nov-24",
+      "desc": "DefiLlama’s recorded Bitcoin balance fell 31% over 30 days, while its implied dollar value per coin fell about 24%.",
+      "date": "2026-11-26T06:20:46.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -450,26 +475,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tether Sought 20% Fees From Some Hack Victims: Bloomberg",
-      "link": "https://thedefiant.io/news/hacks/tether-sought-20-fees-from-some-hack-victims-bloomberg",
-      "desc": "Tether says fees help cover reissuance and legal costs. Bloomberg reported that Bittok is still waiting for frozen USDT more than five years after a hack.",
-      "date": "2026-11-25T18:46:07.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Solana Direct Mapping Set for Mainnet Today, Anza Says",
-      "link": "https://thedefiant.io/news/blockchains/solana-direct-mapping-set-for-mainnet-today-anza-says",
-      "desc": "The copy-removal switch is scheduled for epoch 1097. Stricter memory checks are already listed as active, putting unsafe program code at risk.",
-      "date": "2026-11-25T18:41:30.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028",
@@ -492,16 +497,6 @@
       "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
       "desc": "The government opposed the measures citing existing EU data-sharing rules and non-legal tender status, leaving the 2027 budget open.",
       "date": "2026-11-25T18:24:47.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Polymarket Opens GPU Rental-Price Bets Through 2028",
-      "link": "https://thedefiant.io/frontier/markets/polymarket-opens-gpu-rental-price-bets-through-2028",
-      "desc": "The H100, B200 and B300 contracts settle against Ornn rental-price indices, offering a forecast rather than a reservation for computing power.",
-      "date": "2026-11-25T18:24:21.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -1016,16 +1011,6 @@
       "termBoost": 0
     },
     {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
-      "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
-      "desc": "Token issuers would have to disclose how they plan to spend investors' money and could face criminal charges for misleading buyers.",
-      "date": "2026-11-24T14:40:53.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
@@ -1052,16 +1037,6 @@
       "link": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
       "desc": "It was a very green Monday for most markets, but crypto couldn’t hold the pump as ETF sellers race for the exits.",
       "date": "2026-11-24T13:07:49.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
-      "link": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
-      "desc": "Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded, where the wallet's private key had been imported.",
-      "date": "2026-11-24T12:47:49.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
