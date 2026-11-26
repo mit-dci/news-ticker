@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-26T16:12:26.310Z",
+  "generatedAt": "2026-11-26T18:13:59.943Z",
   "sourceCount": 18,
   "successCount": 18,
-  "filteredOut": 239,
+  "filteredOut": 236,
   "errors": [],
   "dupsMerged": 15,
   "items": [
@@ -16,6 +16,106 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+      "desc": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
+      "date": "2026-11-26T17:30:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Cryptio Urges Clients to Revoke API Keys After Attack",
+      "link": "https://thedefiant.io/news/security/cryptio-urges-clients-to-revoke-api-keys-after-attack",
+      "desc": "The crypto accounting firm said exchange and custody credentials may have been exposed. Its notice did not confirm that any keys were taken or report any losses.",
+      "date": "2026-11-26T17:14:48.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Puts Lead Reported Volume in Deribit’s BTC-Settled Series",
+      "link": "https://thedefiant.io/news/markets/puts-lead-reported-volume-in-deribit-s-btc-settled-series",
+      "desc": "Calls still outnumber puts in Friday’s $6.8 billion BTC-settled expiry. In separate week-ahead snapshots, November’s open positions were closer to balanced than October’s.",
+      "date": "2026-11-26T16:55:55.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "OKXICE Stock Tokens Turn Over $8.9 Million in Three Days",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-stock-tokens-turn-over-8-9-million-in-three-days",
+      "desc": "Dune said two addresses it linked to pool liquidity accounted for 99.85% of the volume it tracked.",
+      "date": "2026-11-26T16:53:29.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+      "desc": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
+      "date": "2026-11-26T16:50:23.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Ethena Says sUSDe Wait Is Gone; Early Checks Read One Day",
+      "link": "https://thedefiant.io/news/defi/ethena-says-susde-wait-is-gone-early-checks-read-one-day",
+      "desc": "Ethena’s risk committee backed instant unstaking with safeguards. Two Ethereum explorer checks minutes after the announcement returned a 24-hour cooldown setting without identifying a block.",
+      "date": "2026-11-26T16:43:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+      "link": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+      "desc": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
+      "date": "2026-11-26T16:43:02.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+      "link": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro.",
+      "date": "2026-11-26T16:40:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Israel Discount Bank Adds Bitcoin and Ether Trading",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/israel-discount-bank-adds-bitcoin-and-ether-trading",
+      "desc": "Eligible retail customers can use their existing securities accounts, but they can’t move coins to or from outside wallets.",
+      "date": "2026-11-26T16:29:51.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+      "link": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+      "desc": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\"",
+      "date": "2026-11-26T16:18:24.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -517,52 +617,12 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "RISC Zero Patch Fixes Critical Proof-Forgery Flaw",
-      "link": "https://thedefiant.io/news/security/risc-zero-patch-fixes-critical-proof-forgery-flaw",
-      "desc": "The Nov. 10 release requires developers to upgrade and regenerate proofs. Onchain repairs differ for Groth16 verification and set proofs against cached roots.",
-      "date": "2026-11-25T23:41:55.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
       "link": "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
       "desc": "▶Bitcoin Magazine Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It Miners produce about 450 new Bitcoin a day, but over the past year about 630 a day moved into wallets dormant for 10 years. This post Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It first appeared on Bitcoin Magazine and is written by Patrick Green.",
       "date": "2026-11-25T23:30:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "LayerZero Opens Canton Coin Bridge to BNB Smart Chain",
-      "link": "https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain",
-      "desc": "Traders can swap bridged CC on PancakeSwap. LayerZero says it is backed one-for-one by native Canton Coin, with LayerZero Labs administering the contracts.",
-      "date": "2026-11-25T23:18:14.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Sky Proposes Urgent 25M USDS Transfer to Foundation",
-      "link": "https://thedefiant.io/news/defi/sky-proposes-urgent-25m-usds-transfer-to-foundation",
-      "desc": "The funds were already earmarked for the Sky Frontier Foundation. The proposal seeks to accelerate debt repayment as stUSDS withdrawals remain unavailable.",
-      "date": "2026-11-25T22:59:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Pump.fun Plans 'Block0' Fee on New Launches From Dec. 4",
-      "link": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
-      "desc": "Each coin's creator wallet will be exempt, but other wallets would pay even if the creator controls them. The fee rate remains unannounced.",
-      "date": "2026-11-25T22:43:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -785,16 +845,6 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "CleanSpark Weighs Selling More Bitcoin Than It Mines After $987M Loss",
-      "link": "https://bitcoinmagazine.com/news/cleanspark-987-million-loss-fiscal-2026",
-      "desc": "Bitcoin Magazine CleanSpark Weighs Selling More Bitcoin Than It Mines After $987M Loss CleanSpark's CFO said the miner may sell more bitcoin than it mines to reduce risk after a $987.1 million fiscal 2026 loss, as its shares hit a new 52-week low. This post CleanSpark Weighs Selling More Bitcoin Than It Mines After $987M Loss first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-25T17:13:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
@@ -921,16 +971,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
-      "link": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150",
-      "desc": "UniCredit is giving retail clients access to bitcoin performance through a six-year investment with protected principal and capped gains.",
-      "date": "2026-11-25T12:24:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
@@ -987,16 +1027,6 @@
       "link": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
       "desc": "Rockstar's parent said the project's \"bring your own files\" instruction was a misleading attempt to dodge responsibility for the leak.",
       "date": "2026-11-25T10:35:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Live updates: Bitcoin climbs from lows as markets bounce from big early declines",
-      "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
-      "desc": "The Nasdaq narrowed an early 4.5% plunge to just a modest loss, with Michael Burry announcing he's closed all tech shorts and gone long.",
-      "date": "2026-11-25T08:35:47.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
