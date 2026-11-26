@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-26T18:13:59.943Z",
+  "generatedAt": "2026-11-26T20:11:30.490Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 236,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 211,
+  "errors": [
+    "FINEXTRA: FINEXTRA: HTTP 403"
+  ],
   "dupsMerged": 15,
   "items": [
     {
@@ -16,6 +18,46 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+      "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
+      "date": "2026-11-26T20:05:18.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Binance Says Post-Hack Withdrawal Suspension Is Over",
+      "link": "https://thedefiant.io/news/cefi/binance-says-post-hack-withdrawal-suspension-is-over",
+      "desc": "Withdrawals are open on nearly all networks, the exchange says, with a small number still paused for maintenance or upgrades.",
+      "date": "2026-11-26T19:17:27.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.",
+      "date": "2026-11-26T18:26:31.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+      "link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+      "desc": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year’s progress has been focused on the asset. Last week bank money started to move onchain too. Last Tuesday, Fed Governor Christopher Waller said that central bank money needs to stay […]",
+      "date": "2026-11-26T17:32:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "coindesk",
@@ -248,32 +290,12 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Turrón by Plazo expands card-based BNPL offering in Spain",
-      "link": "https://www.finextra.com/pressarticle/111798/turrn-by-plazo-expands-card-based-bnpl-offering-in-spain?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Turrón by Plazo, the card-based buy now, pay later (BNPL) solution developed by Barcelona-founded fintech ID Finance as part of its financial app Plazo , has signed a strategic partnership with Wonderbox in Spain, a leading provider of experience gifts.",
-      "date": "2026-11-26T13:20:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
       "link": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
       "desc": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.",
       "date": "2026-11-26T13:13:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "NBX partners Visa for stablecoin-linked card",
-      "link": "https://www.finextra.com/pressarticle/111795/nbx-partners-visa-for-stablecoin-linked-card?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Visa, a world leader in digital payments, NBX, Tieto and IDT Finance today announced plans for a new Visa Flex Card that will give eligible NBX customers a simpler way to use the different forms of money they hold.",
-      "date": "2026-11-26T13:11:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -491,16 +513,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Lido Widens Operator Penalties After Slashing Exposed Gap",
-      "link": "https://thedefiant.io/news/defi/lido-widens-operator-penalties-after-slashing-exposed-gap",
-      "desc": "A Nov. 23 vote expanded the community staking committee's powers, but recovery beyond an operator's collateral can still depend on future rewards or bond top-ups.",
-      "date": "2026-11-26T05:56:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
@@ -607,16 +619,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Tempo's Native Multisig Goes Live on Testnet",
-      "link": "https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet",
-      "desc": "Configurable accounts add approval thresholds and key changes without moving funds. Mainnet activation is scheduled for Dec. 8, and adding signers to existing accounts is optional.",
-      "date": "2026-11-26T01:09:41.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
@@ -709,16 +711,6 @@
       "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
       "desc": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.",
       "date": "2026-11-25T20:36:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Aussie fintech Safewill raises A$15m",
-      "link": "https://www.finextra.com/pressarticle/111790/aussie-fintech-safewill-raises-a15m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Safewill, the Australian fintech transforming how people plan for and navigate end of life, has raised $15 million in Series C funding at a $160 million valuation to significantly grow and expand its partnerships with major superannuation funds, banks and insurers.",
-      "date": "2026-11-25T20:10:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -935,16 +927,6 @@
       "termBoost": 0
     },
     {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Bit Digital repays $50 million to Galaxy after selling 29,825 ETH",
-      "link": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
-      "desc": "Bit Digital sold 29,825 ETH and used the proceeds to reduce its secured borrowing with Galaxy to $50 million.",
-      "date": "2026-11-25T14:15:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
@@ -991,16 +973,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
-      "link": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The HKMA’s new platform supports settlement in multiple currencies and handles debt issuance, interest payments and repayment at maturity.",
-      "date": "2026-11-25T11:31:10.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
@@ -1037,26 +1009,6 @@
       "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
       "desc": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
       "date": "2026-11-24T21:16:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
-      "link": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
-      "desc": "Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.",
-      "date": "2026-11-24T19:35:32.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
-      "link": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
-      "desc": "Staff guidance lets swap venues and clearinghouses count Bitcoin, Ethereum, and stablecoins toward their 12-month operating-cost buffer. Here's the catch.",
-      "date": "2026-11-24T18:55:27.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
