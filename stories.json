@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-11-26T02:16:12.434Z",
+  "generatedAt": "2026-11-26T04:13:54.242Z",
   "sourceCount": 18,
-  "successCount": 17,
-  "filteredOut": 216,
-  "errors": [
-    "FINEXTRA: FINEXTRA: HTTP 403"
-  ],
-  "dupsMerged": 13,
+  "successCount": 18,
+  "filteredOut": 240,
+  "errors": [],
+  "dupsMerged": 14,
   "items": [
     {
       "source": "block",
@@ -18,6 +16,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+      "link": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+      "desc": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs.",
+      "date": "2026-11-26T02:22:43.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -170,6 +178,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Aussie fintech Safewill raises A$15m",
+      "link": "https://www.finextra.com/pressarticle/111790/aussie-fintech-safewill-raises-a15m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Safewill, the Australian fintech transforming how people plan for and navigate end of life, has raised $15 million in Series C funding at a $160 million valuation to significantly grow and expand its partnerships with major superannuation funds, banks and insurers.",
+      "date": "2026-11-25T20:10:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
       "title": "Sky’s Rune Pursues stUSDS Deal as Withdrawal Squeeze Persists",
@@ -186,7 +204,13 @@
       "link": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
       "desc": "Bitcoin Magazine Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor Rep. Nick Begich's bill to write the Strategic Bitcoin Reserve into law, with a 20-year ban on selling its bitcoin, is now eligible for a House floor vote. This post Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
       "date": "2026-11-25T19:50:00.000Z",
-      "alsoAt": [],
+      "alsoAt": [
+        {
+          "source": "THE BLOCK",
+          "sourceId": "block",
+          "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778"
+        }
+      ],
       "termBoost": 0
     },
     {
@@ -540,6 +564,16 @@
       "termBoost": 0
     },
     {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Transak secures MiCA licence",
+      "link": "https://www.finextra.com/pressarticle/111787/transak-secures-mica-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "Transak, the payments infrastructure company connecting traditional money with stablecoins and crypto, today announced that its Vienna-based entity, Transak GmbH, has been authorised by Austria's Financial Market Authority (FMA) under the EU's Markets in Crypto-Assets Regulation (MiCA).",
+      "date": "2026-11-25T14:23:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
@@ -556,6 +590,26 @@
       "link": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
       "desc": "Bit Digital sold 29,825 ETH and used the proceeds to reduce its secured borrowing with Galaxy to $50 million.",
       "date": "2026-11-25T14:15:44.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "OpenPayd makes senior hires",
+      "link": "https://www.finextra.com/pressarticle/111786/openpayd-makes-senior-hires?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "OpenPayd, a leading provider of financial infrastructure, has appointed three senior hires with experience across global banking and digital assets to grow its stablecoin payments business and strengthen the banking team supporting its US entry.",
+      "date": "2026-11-25T13:21:00.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "Threasury secures FCA agent registration",
+      "link": "https://www.finextra.com/pressarticle/111785/threasury-secures-fca-agent-registration?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "UK fintech, Threasury has secured registration as an agent of Finexer Ltd for Account Information Services and Payment Initiation Services, marking an important step in the development of its Commitment Banking platform.",
+      "date": "2026-11-25T13:19:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -648,6 +702,16 @@
       "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
       "desc": "HYPE fell more than 8% after Abraxas Capital pulled out of Hyperliquid, while U.S. Bitcoin ETFs' November outflows passed $4.9 billion.",
       "date": "2026-11-25T11:23:57.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "finextra",
+      "sourceName": "FINEXTRA",
+      "title": "South Korea proposes new stablecoin rules for local bank issuance",
+      "link": "https://www.finextra.com/newsarticle/48809/south-korea-proposes-new-stablecoin-rules-for-local-bank-issuance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "desc": "South Korea’s financial regulator has announced new stablecoin rules that will allow local banks to issue won-pegged stablecoins.",
+      "date": "2026-11-25T11:10:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -768,16 +832,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
       "desc": "The Czech National Bank bought bitcoin a year ago as an experiment. The coin has fallen at least 40% since, and the bank's audited accounts carry it at cost rather than market value. The CNB told CoinDesk an outside custodian holds the coins.",
       "date": "2026-11-25T04:50:08.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
-      "link": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
-      "desc": "Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4.",
-      "date": "2026-11-25T02:46:14.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
