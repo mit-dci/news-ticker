@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-26T00:29:14.288Z",
+  "generatedAt": "2026-11-26T02:16:12.434Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 240,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 216,
+  "errors": [
+    "FINEXTRA: FINEXTRA: HTTP 403"
+  ],
   "dupsMerged": 13,
   "items": [
     {
@@ -16,6 +18,16 @@
       "alsoAt": [],
       "priorityTerm": true,
       "termBoost": 3
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Tempo's Native Multisig Goes Live on Testnet",
+      "link": "https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet",
+      "desc": "Configurable accounts add approval thresholds and key changes without moving funds. Mainnet activation is scheduled for Dec. 8, and adding signers to existing accounts is optional.",
+      "date": "2026-11-26T01:09:41.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "defiant",
@@ -154,16 +166,6 @@
       "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
       "desc": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.",
       "date": "2026-11-25T20:36:03.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Aussie fintech Safewill raises A$15m",
-      "link": "https://www.finextra.com/pressarticle/111790/aussie-fintech-safewill-raises-a15m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Safewill, the Australian fintech transforming how people plan for and navigate end of life, has raised $15 million in Series C funding at a $160 million valuation to significantly grow and expand its partnerships with major superannuation funds, banks and insurers.",
-      "date": "2026-11-25T20:10:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -468,16 +470,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "stUSDS Seller Accepts Roughly 11% Discount on Curve",
-      "link": "https://thedefiant.io/news/defi/stusds-seller-accepts-roughly-11-discount-on-curve",
-      "desc": "Sky.money displayed $0 withdrawal liquidity, while a posted CoW Swap orderbook snapshot showed a gap between sellers’ asking prices and buyers’ bids.",
-      "date": "2026-11-25T16:05:38.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
@@ -548,16 +540,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Transak secures MiCA licence",
-      "link": "https://www.finextra.com/pressarticle/111787/transak-secures-mica-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Transak, the payments infrastructure company connecting traditional money with stablecoins and crypto, today announced that its Vienna-based entity, Transak GmbH, has been authorised by Austria's Financial Market Authority (FMA) under the EU's Markets in Crypto-Assets Regulation (MiCA).",
-      "date": "2026-11-25T14:23:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
@@ -574,26 +556,6 @@
       "link": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
       "desc": "Bit Digital sold 29,825 ETH and used the proceeds to reduce its secured borrowing with Galaxy to $50 million.",
       "date": "2026-11-25T14:15:44.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "OpenPayd makes senior hires",
-      "link": "https://www.finextra.com/pressarticle/111786/openpayd-makes-senior-hires?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "OpenPayd, a leading provider of financial infrastructure, has appointed three senior hires with experience across global banking and digital assets to grow its stablecoin payments business and strengthen the banking team supporting its US entry.",
-      "date": "2026-11-25T13:21:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Threasury secures FCA agent registration",
-      "link": "https://www.finextra.com/pressarticle/111785/threasury-secures-fca-agent-registration?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "UK fintech, Threasury has secured registration as an agent of Finexer Ltd for Account Information Services and Payment Initiation Services, marking an important step in the development of its Commitment Banking platform.",
-      "date": "2026-11-25T13:19:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -686,16 +648,6 @@
       "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
       "desc": "HYPE fell more than 8% after Abraxas Capital pulled out of Hyperliquid, while U.S. Bitcoin ETFs' November outflows passed $4.9 billion.",
       "date": "2026-11-25T11:23:57.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "South Korea proposes new stablecoin rules for local bank issuance",
-      "link": "https://www.finextra.com/newsarticle/48809/south-korea-proposes-new-stablecoin-rules-for-local-bank-issuance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "South Korea’s financial regulator has announced new stablecoin rules that will allow local banks to issue won-pegged stablecoins.",
-      "date": "2026-11-25T11:10:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -906,16 +858,6 @@
       "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch prediction markets.",
       "date": "2026-11-24T18:31:42.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
-      "link": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.",
-      "date": "2026-11-24T18:07:22.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
