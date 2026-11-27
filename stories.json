@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-27T14:11:53.631Z",
+  "generatedAt": "2026-11-27T16:12:22.575Z",
   "sourceCount": 18,
-  "successCount": 18,
-  "filteredOut": 234,
-  "errors": [],
+  "successCount": 17,
+  "filteredOut": 212,
+  "errors": [
+    "FINEXTRA: FINEXTRA: HTTP 403"
+  ],
   "dupsMerged": 15,
   "items": [
     {
@@ -19,13 +21,88 @@
     {
       "source": "defiant",
       "sourceName": "THE DEFIANT",
-      "title": "DeepMind Says Gemini Cut a Quantum Circuit’s Estimated Resource Cost About 290-Fold",
-      "link": "https://thedefiant.io/frontier/ai/deepmind-says-gemini-cut-a-quantum-circuit-s-estimated-resource-cost-about-290-fold",
-      "desc": "Google released proofs that let researchers check what the arcsine circuit computes and how many resources it uses without running it on quantum hardware.",
-      "date": "2026-11-26T11:15:05.000Z",
+      "title": "UAE Issues Its First Dirham-Denominated Digital Treasury Bonds via Euroclear",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/uae-issues-its-first-dirham-denominated-digital-treasury-bonds-via-euroclear",
+      "desc": "Six primary dealers split the AED 180 million issue, which matched the 4.98% yield on the UAE’s conventional Treasury bonds sold at its November auction.",
+      "date": "2026-11-27T16:08:54.000Z",
       "alsoAt": [],
-      "priorityTerm": true,
-      "termBoost": 3
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "LayerZero Names 40-Plus Validators for Zero Launch",
+      "link": "https://thedefiant.io/news/blockchains/layerzero-names-40-plus-validators-for-zero-launch",
+      "desc": "Kakao Pay, Broadridge and ZAN are on the roster. LayerZero’s official staking site initially splits each ZRO deposit equally across the launch validators.",
+      "date": "2026-11-27T15:37:28.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Tesla Files to Buy Assets From German Toolmaker EMAG",
+      "link": "https://thedefiant.io/frontier/technology/tesla-files-to-buy-assets-from-german-toolmaker-emag",
+      "desc": "EMAG makes equipment for electric motor shafts and humanoid robot joints. Germany’s competition authority hasn’t said which assets Tesla wants to buy.",
+      "date": "2026-11-27T15:26:17.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "block",
+      "sourceName": "THE BLOCK",
+      "title": "Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+      "link": "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554",
+      "desc": "USDT issuer Tether spent about $10 million earlier this week to acquire 3.72 million Bitdeer Class A ordinary shares.",
+      "date": "2026-11-27T15:00:21.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge",
+      "link": "https://bitcoinmagazine.com/news/spain-sepblac-freeze-crypto-accounts",
+      "desc": "Bitcoin Magazine Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge A royal decree lets Sepblac, Spain's financial intelligence unit, freeze crypto, bank and payment accounts for up to five business days without a court order. This post Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
+      "date": "2026-11-27T15:00:00.000Z",
+      "alsoAt": [
+        {
+          "source": "COINDESK",
+          "sourceId": "coindesk",
+          "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge"
+        }
+      ],
+      "termBoost": 0
+    },
+    {
+      "source": "bitcoinmag",
+      "sourceName": "BITCOIN MAGAZINE",
+      "title": "Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target",
+      "link": "https://bitcoinmagazine.com/videos/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target",
+      "desc": "▶Bitcoin Magazine Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target Inflation is back near 4%, the Fed is hiking, and Peter St. This post Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target first appeared on Bitcoin Magazine and is written by Patrick Green.",
+      "date": "2026-11-27T14:45:09.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "cointelegraph",
+      "sourceName": "COINTELEGRAPH",
+      "title": "What was Coinbase worth while Nasdaq was closed?",
+      "link": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "desc": "A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked like a holiday rally depended on when you’d last checked the stock.",
+      "date": "2026-11-27T14:40:54.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "defiant",
+      "sourceName": "THE DEFIANT",
+      "title": "Halogen’s Shariah Bitcoin ETF Set for Dec. 2 Bursa Debut",
+      "link": "https://thedefiant.io/converge/tradfi-and-fintech/halogen-s-shariah-bitcoin-etf-set-for-dec-2-bursa-debut",
+      "desc": "Once the spot fund lists, retail investors will be able to trade it in ringgit or US dollars through a stockbroker.",
+      "date": "2026-11-27T14:31:13.000Z",
+      "alsoAt": [],
+      "termBoost": 0
     },
     {
       "source": "bitcoinmag",
@@ -140,22 +217,22 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Binance withdrawals back online after $6.3 bn loss in cyberattack",
-      "link": "https://www.finextra.com/newsarticle/48826/binance-withdrawals-back-online-after-63-bn-loss-in-cyberattack?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Binance recovered its withdrawal systems on Thursday after losing $6.3 billion in a crypto heist last month.",
-      "date": "2026-11-27T12:08:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "coindesk",
       "sourceName": "COINDESK",
       "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
       "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
       "desc": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses.",
       "date": "2026-11-27T11:45:47.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "coindesk",
+      "sourceName": "COINDESK",
+      "title": "Live updates: Bitcoin drops below $60,000 as Nasdaq 100 gives up most of its early gains",
+      "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+      "desc": "The Nasdaq 100 rose just 0.8% after futures gained about 3% before the open, while Nvidia fell more than 2% and bitcoin briefly slipped below $60,000.",
+      "date": "2026-11-27T11:34:37.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -358,16 +435,6 @@
       "link": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash’s privacy design sets it apart.",
       "date": "2026-11-27T00:35:39.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "MoonPay and Highnote file for national bank charters",
-      "link": "https://www.finextra.com/newsarticle/48823/moonpay-and-highnote-file-for-national-bank-charters?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Crypto firm MoonPay and embedded finance platform Highnote are the latest fintechs to apply for national trust bank charters.",
-      "date": "2026-11-27T00:01:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -628,66 +695,6 @@
       "termBoost": 0
     },
     {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Spain Issues Decree to Allow Temporary Crypto Account Freezes",
-      "link": "https://thedefiant.io/news/regulation/spain-issues-decree-to-allow-temporary-crypto-account-freezes",
-      "desc": "The measure, scheduled for Jan. 25 pending a vote in Congress, would let Sepblac freeze accounts for up to five business days without prior court approval.",
-      "date": "2026-11-26T14:31:28.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "KuCoin to Delist Monero, Ending Spot Trading Nov. 30",
-      "link": "https://thedefiant.io/news/cefi/kucoin-to-delist-monero-ending-spot-trading-nov-30",
-      "desc": "XMR deposits are already closed. Withdrawals are scheduled to end Dec. 31, and KuCoin urged borrowers who pledged Monero to add other collateral.",
-      "date": "2026-11-26T14:21:17.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Hernández de Cos Gains Backing to Lead ECB, FT Reports",
-      "link": "https://thedefiant.io/converge/regulation/hern-ndez-de-cos-gains-backing-to-lead-ecb-ft-reports",
-      "desc": "The BIS chief emerged as the frontrunner for a February handover after the Netherlands shifted its support. A formal appointment is still required.",
-      "date": "2026-11-26T14:18:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Extended Sets XTEN Airdrop for Nov. 29 Ahead of Trading",
-      "link": "https://thedefiant.io/news/tokens/extended-sets-xten-airdrop-for-nov-29-ahead-of-trading",
-      "desc": "Eligible points holders must sign before 3:30 a.m. ET on Nov. 29 and clear checks in time for the first batch. Vault depositors will need to stake XTEN to earn Extra Yield.",
-      "date": "2026-11-26T14:06:43.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "coindesk",
-      "sourceName": "COINDESK",
-      "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
-      "link": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
-      "desc": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.",
-      "date": "2026-11-26T14:05:58.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "defiant",
-      "sourceName": "THE DEFIANT",
-      "title": "Ledger Atom Pairs Android Apps With a Crypto Signer",
-      "link": "https://thedefiant.io/news/security/ledger-atom-pairs-android-apps-with-a-crypto-signer",
-      "desc": "Ledger lists the Founders Edition at $849 and is taking refundable $100 deposits. Its current terms estimate delivery in summer 2027.",
-      "date": "2026-11-26T13:38:12.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "cointelegraph",
       "sourceName": "COINTELEGRAPH",
       "title": "7 bizarre things crypto whales spent a fortune on",
@@ -698,32 +705,12 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Turrón by Plazo expands card-based BNPL offering in Spain",
-      "link": "https://www.finextra.com/pressarticle/111798/turrn-by-plazo-expands-card-based-bnpl-offering-in-spain?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Turrón by Plazo, the card-based buy now, pay later (BNPL) solution developed by Barcelona-founded fintech ID Finance as part of its financial app Plazo , has signed a strategic partnership with Wonderbox in Spain, a leading provider of experience gifts.",
-      "date": "2026-11-26T13:20:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
       "link": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
       "desc": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.",
       "date": "2026-11-26T13:13:19.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "NBX partners Visa for stablecoin-linked card",
-      "link": "https://www.finextra.com/pressarticle/111795/nbx-partners-visa-for-stablecoin-linked-card?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Visa, a world leader in digital payments, NBX, Tieto and IDT Finance today announced plans for a new Visa Flex Card that will give eligible NBX customers a simpler way to use the different forms of money they hold.",
-      "date": "2026-11-26T13:11:00.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -760,6 +747,16 @@
       "link": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "desc": "Buterin warned that future attacks could use lookalike chips with hidden malicious functions, making hardware tampering harder to detect.",
       "date": "2026-11-26T12:13:59.000Z",
+      "alsoAt": [],
+      "termBoost": 0
+    },
+    {
+      "source": "decrypt",
+      "sourceName": "DECRYPT",
+      "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+      "link": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
+      "desc": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them.",
+      "date": "2026-11-26T11:50:23.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -860,22 +857,6 @@
       "termBoost": 0
     },
     {
-      "source": "cointelegraph",
-      "sourceName": "COINTELEGRAPH",
-      "title": "UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report",
-      "link": "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "desc": "North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.",
-      "date": "2026-11-26T05:53:08.000Z",
-      "alsoAt": [
-        {
-          "source": "DECRYPT",
-          "sourceId": "decrypt",
-          "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report"
-        }
-      ],
-      "termBoost": 0
-    },
-    {
       "source": "block",
       "sourceName": "THE BLOCK",
       "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
@@ -892,16 +873,6 @@
       "link": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
       "desc": "Galaxy now treats a daily close below $58,525, the June 30 closing low, as the start of a move toward a materially lower low.",
       "date": "2026-11-26T05:16:11.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "ft",
-      "sourceName": "FINANCIAL TIMES",
-      "title": "UK plans strict rules for crypto DeFi sector",
-      "link": "https://www.ft.com/content/ec820cb6-4983-4ece-8e7b-de116b57525d?syn-25a6b1a6=1",
-      "desc": "FCA points to Binance heist and ‘lack of consumer protections’ as reasons for tighter regulation of decentralised finance than in US and EU",
-      "date": "2026-11-26T05:00:19.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
@@ -976,16 +947,6 @@
       "termBoost": 0
     },
     {
-      "source": "finextra",
-      "sourceName": "FINEXTRA",
-      "title": "Aussie fintech Safewill raises A$15m",
-      "link": "https://www.finextra.com/pressarticle/111790/aussie-fintech-safewill-raises-a15m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "desc": "Safewill, the Australian fintech transforming how people plan for and navigate end of life, has raised $15 million in Series C funding at a $160 million valuation to significantly grow and expand its partnerships with major superannuation funds, banks and insurers.",
-      "date": "2026-11-25T20:10:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "bitcoinmag",
       "sourceName": "BITCOIN MAGAZINE",
       "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
@@ -1032,52 +993,12 @@
       "termBoost": 0
     },
     {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028",
-      "link": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
-      "desc": "Bitcoin Magazine Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 Switzerland approved 57 partner jurisdictions, including all EU states and the UK, for automatic crypto tax data exchanges under the OECD's CARF from 2028. This post Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-25T18:40:05.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "bitcoinmag",
-      "sourceName": "BITCOIN MAGAZINE",
-      "title": "Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses",
-      "link": "https://bitcoinmagazine.com/news/bithumb-hack-exposed-passports-wallet-addresses",
-      "desc": "Bitcoin Magazine Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses Bithumb said a follow-up review found its October breach exposed more people and data, including passports and wallet addresses, and lasted about 15 days. This post Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses first appeared on Bitcoin Magazine and is written by Micah Zimmerman.",
-      "date": "2026-11-25T18:15:00.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "block",
-      "sourceName": "THE BLOCK",
-      "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
-      "link": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
-      "desc": "Nvidia agreed to a $290M settlement over claims it misled investors about crypto mining demand driving 2017–18 gaming GPU sales.",
-      "date": "2026-11-25T18:00:13.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
       "source": "decrypt",
       "sourceName": "DECRYPT",
       "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
       "link": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
       "desc": "London’s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over £207,000, won’t be set until a later hearing.",
       "date": "2026-11-25T17:16:02.000Z",
-      "alsoAt": [],
-      "termBoost": 0
-    },
-    {
-      "source": "decrypt",
-      "sourceName": "DECRYPT",
-      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
-      "link": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
-      "desc": "The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank.",
-      "date": "2026-11-25T16:07:35.000Z",
       "alsoAt": [],
       "termBoost": 0
     },
